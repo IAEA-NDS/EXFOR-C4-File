@@ -163918,10 +163918,15 @@ M0508.006   M082     -    -    -        -        - INT   26-FE-54(G,P)25-MN-53,P
 M0508.007   M082     -    -    -        -        - INT   26-FE-54(G,P)25-MN-53,PAR,INT/DA,,4PI
 M0509.002   M131     3  201           158      158 CS    4-BE-9(G,X)0-NN-1,,SIG,,BRS
 M0510.002   M039     3  103            18       18 CS    16-S-34(G,P)15-P-33,,SIG,,BRS
+M0510.002   M147     3  103            18       18 CS    16-S-34(G,P)15-P-33,,SIG,,BRS
 M0510.003   M039     3   28             6        6 CS    16-S-34(G,N+P)15-P-32,,SIG,,BRS
+M0510.003   M147     3  454             6        6 CS    16-S-34(G,X)15-P-32,,SIG,,BRS
 M0510.004   M039     -    -    -        -        - INT   16-S-34(G,P)15-P-33,,INT,,BRS
+M0510.004   M147     -    -    -        -        - INT   16-S-34(G,P)15-P-33,,INT,,BRS
 M0510.005   M039     -    -    -        -        - INT   16-S-34(G,N+P)15-P-32,,INT,,BRS
+M0510.005   M147     -    -    -        -        - INT   16-S-34(G,X)15-P-32,,INT,,BRS
 M0510.006   M039     3   27            29       29 CS    16-S-34(G,ABS),,SIG,,BRS
+M0510.006   M147     -    -    -        -        - CS    16-S-34(G,ABS),,SIG,,BRS,DERIV
 M0511.002   M082     -    -    -        -        - CS    53-I-127(G,X)0-NN-1,UNW,SIG,,BRS
 M0511.003   M082     3   16            32       32 CS    53-I-127(G,2N)53-I-125,,SIG,,BRS
 M0512.002   M082     4  600            80       80 DAP   6-C-12(G,P)5-B-11,PAR,DA,,BRS
@@ -167284,6 +167289,46 @@ M1066.012   M142     -    -    -        -        - CS    78-PT-0(G,X)77-IR-195,,
 M1067.002   M145     -    -    -        -        - CS    76-OS-0(G,X)75-RE-186,,SIG,,BRA
 M1067.003   M145     -    -    -        -        - CS    76-OS-0(G,X)75-RE-188,,SIG,,BRA
 M1067.004   M145     -    -    -        -        - CS    76-OS-0(G,X)75-RE-189,,SIG,,BRA
+M1068.002   M147     -    -    -        -        - CS    75-RE-187(G,2N)75-RE-185,,SIG,,,DEROT
+M1068.003   M147     -    -    -        -        - CS    75-RE-187(G,N)75-RE-186,,SIG,,,DEROT
+M1068.004   M147     -    -    -        -        - CS    75-RE-187(G,N)75-RE-186,,SIG,,,DEROT
+M1068.005   M147     -    -    -        -        - CS    49-IN-115(G,2N)49-IN-113,,SIG,,,DEROT
+M1068.006   M147     -    -    -        -        - CS    75-RE-187(G,X)0-NN-1,UNW,SIG,,,DEROT
+M1068.007   M147     -    -    -        -        - INT   75-RE-187(G,X)0-NN-1,,INT,,,DEROT
+M1068.008   M147     -    -    -        -        - INT   75-RE-187(G,X)0-NN-1,UNW,INT,,,DEROT
+M1068.009   M147     -    -    -        -        - INT   75-RE-187(G,N)75-RE-186,,INT,,,DEROT
+M1068.010   M147     -    -    -        -        - INT   75-RE-187(G,2N)75-RE-185,,INT,,,DEROT
+M1068.011   M147     -    -    -        -        - INT   75-RE-187(G,X)0-NN-1,UNW,INT,,,DEROT
+M1068.012   M147     -    -    -        -        - INT   75-RE-187(G,N)75-RE-186,,INT,,,DEROT
+M1068.013   M147     -    -    -        -        - INT   75-RE-187(G,2N)75-RE-185,,INT,,,DEROT
+M1070.002   M147     -    -    -        -        - CS    48-CD-0(G,X)48-CD-105,,SIG,,BRA
+M1070.003   M147     -    -    -        -        - CS    48-CD-0(G,X)48-CD-107,,SIG,,BRA
+M1070.004   M147     -    -    -        -        - CS    48-CD-0(G,X)48-CD-109,,SIG,,BRA
+M1070.005   M147     -    -    -        -        - CS    48-CD-0(G,X)48-CD-111-M,,SIG,,BRA
+M1070.006   M147     -    -    -        -        - CS    48-CD-0(G,X)48-CD-115-G,,SIG,,BRA
+M1070.007   M147     -    -    -        -        - CS    48-CD-0(G,X)48-CD-115-M,,SIG,,BRA
+M1070.008   M147     -    -    -        -        - CS    48-CD-116(G,N)48-CD-115,,SIG,,BRA
+M1070.009   M147     -    -    -        -        - CS    48-CD-0(G,X)47-AG-105,,SIG,,BRA
+M1070.010   M147     -    -    -        -        - CS    48-CD-0(G,X)47-AG-111,,SIG,,BRA
+M1070.011   M147     -    -    -        -        - CS    48-CD-0(G,X)47-AG-112,,SIG,,BRA
+M1070.012   M147     -    -    -        -        - CS    48-CD-0(G,X)47-AG-113-G,M+,SIG,,BRA
+M1070.013   M147     -    -    -        -        - CS    48-CD-0(G,X)47-AG-115-G,M+,SIG,,BRA
+M1070.014   M147     -    -    -        -        - CS    52-TE-0(G,X)52-TE-119-G,,SIG,,BRA
+M1070.015   M147     -    -    -        -        - CS    52-TE-0(G,X)52-TE-119-M,,SIG,,BRA
+M1070.016   M147     -    -    -        -        - CS    52-TE-120(G,N)52-TE-119,,SIG,,BRA
+M1070.017   M147     -    -    -        -        - CS    52-TE-0(G,X)52-TE-121-G,,SIG,,BRA
+M1070.018   M147     -    -    -        -        - CS    52-TE-0(G,X)52-TE-121-M,,SIG,,BRA
+M1070.019   M147     -    -    -        -        - CS    52-TE-122(G,N)52-TE-121,,SIG,,BRA
+M1070.020   M147     -    -    -        -        - CS    52-TE-0(G,X)52-TE-123-M,,SIG,,BRA
+M1070.021   M147     -    -    -        -        - CS    52-TE-0(G,X)52-TE-125-M,,SIG,,BRA
+M1070.022   M147     -    -    -        -        - CS    52-TE-0(G,X)52-TE-127-G,,SIG,,BRA
+M1070.023   M147     -    -    -        -        - CS    52-TE-0(G,X)52-TE-129-G,,SIG,,BRA
+M1070.024   M147     -    -    -        -        - CS    52-TE-0(G,X)52-TE-129-M,,SIG,,BRA
+M1070.025   M147     -    -    -        -        - CS    52-TE-130(G,N)52-TE-129,,SIG,,BRA
+M1070.026   M147     -    -    -        -        - CS    52-TE-0(G,X)51-SB-122,,SIG,,BRA
+M1070.027   M147     -    -    -        -        - CS    52-TE-0(G,X)51-SB-124-G+M2,M+,SIG,,BRA
+M1070.028   M147     -    -    -        -        - CS    52-TE-0(G,X)51-SB-127,,SIG,,BRA
+M1070.029   M147     -    -    -        -        - CS    52-TE-0(G,X)51-SB-129-G,M+,SIG,,BRA
 O0001.002   O071     4  601            14       14 DAP   62-SM-154(P,INL)62-SM-154,PAR,DA
 O0001.003   O071     4  601            17       17 DAP   62-SM-154(P,INL)62-SM-154,PAR,DA
 O0001.004   O071     4  601            19       19 DAP   62-SM-154(P,INL)62-SM-154,PAR,DA
