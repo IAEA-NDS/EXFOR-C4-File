@@ -1,0 +1,43 @@
+#ENTRY      S0203
+#AUTHOR1    Y.Y.Yang+
+#YEAR       2014
+#INSTITUTE  (3CPRIMP)
+#TITLE      Quasi-elastic scattering of 10,11C and 10B from a
+#+          natPb target
+#AUTHOR(S)  Y.Y.Yang, J.S.Wang, Q.Wang, D.Y.Pang, J.B.Ma, M.R.Huang, 
+#+          P.Ma, S.L.Jin, J.L.Han, Z.Bai, L.Jin, J.B.Chen, Q.Hu, R.Wada, 
+#+          S.Mukherjee, Z.Y.Sun, R.F.Chen, X.Y.Zhang, Z.G.Hu, X.H.Yuan, 
+#+          S.W.Xu, S.Z.Chen, X.G.Lei, L.X.Liu, W.H.Ma, S.T.Wang, D.Yan, 
+#+          X.H.Zhang, M.H.Zhao, Y.Zhou, Y.J.Zhou, Z.Y.Guo, Y.H.Zhang, 
+#+          H.S.Xu, G.Q.Xiao
+#REF-CODE   (J,PR/C,90,014606,2014)
+#REFERENCE  Phys.Rev.C 90 (2014) 014606
+#DATASETS   0
+#
+#DATASET    S0203006 
+#DATE       20220921
+#REACTION   82-PB-0(6-C-10,EL)82-PB-0,,DA,,RTH
+#PROJ       6010
+#TARG       82000
+#MF         4
+#MT         2
+#PRODUCT    82-PB-0
+#C4BEGIN    [ 6010 82000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6010 82000   4   2  C 2.5600+8 1792000. 456.5726 76.09544 0.992945                              Y.Y.Yang+            (14)S0203  6 
+ 6010 82000   4   2  C 2.5600+8 1792000. 251.0455 27.89394 0.990605                              Y.Y.Yang+            (14)S0203  6 
+ 6010 82000   4   2  C 2.5600+8 1792000. 147.1091 13.15022 0.987933                              Y.Y.Yang+            (14)S0203  6 
+ 6010 82000   4   2  C 2.5600+8 1792000. 102.6862 7.720069 0.984959                              Y.Y.Yang+            (14)S0203  6 
+ 6010 82000   4   2  C 2.5600+8 1792000. 76.11418 5.111682 0.981627                              Y.Y.Yang+            (14)S0203  6 
+ 6010 82000   4   2  C 2.5600+8 1792000. 46.41902 2.860556 0.977966                              Y.Y.Yang+            (14)S0203  6 
+ 6010 82000   4   2  C 2.5600+8 1792000. 32.03397 2.019601 0.973976                              Y.Y.Yang+            (14)S0203  6 
+ 6010 82000   4   2  C 2.5600+8 1792000. 16.89400 1.352437 0.969702                              Y.Y.Yang+            (14)S0203  6 
+ 6010 82000   4   2  C 2.5600+8 1792000. 8.154033 0.879187 0.965062                              Y.Y.Yang+            (14)S0203  6 
+ 6010 82000   4   2  C 2.5600+8 1792000. 4.718404 0.660841 0.960099                              Y.Y.Yang+            (14)S0203  6 
+ 6010 82000   4   2  C 2.5600+8 1792000. 2.386040 0.475142 0.954865                              Y.Y.Yang+            (14)S0203  6 
+ 6010 82000   4   2  C 2.5600+8 1792000. 1.757337 0.588504 0.949261                              Y.Y.Yang+            (14)S0203  6 
+ 6010 82000   4   2  C 2.5600+8 1792000. 0.571391 0.328386 0.943396                              Y.Y.Yang+            (14)S0203  6 
+#/DATA      13
+#/DATASET

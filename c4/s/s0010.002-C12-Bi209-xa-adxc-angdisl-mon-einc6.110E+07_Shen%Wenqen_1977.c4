@@ -1,0 +1,32 @@
+#ENTRY      S0010
+#AUTHOR1    Shen Wenqen+
+#YEAR       1977
+#INSTITUTE  (3CPRIMP)
+#TITLE      Alpha particles emitted in the reaction of
+#+          C-12 on Bi-209
+#AUTHOR(S)  Shen Wenqen, Xu Shuwei, Wang Dayan, Xie Yuanxiang, Guo Zhongyan, 
+#+          Li Zuyu
+#REF-CODE   (J,PHE,1,(1),70,197711)
+#REFERENCE  High En.Nucl.Phy.Ch. 1 No.1 (1977) 70
+#DATASETS   0
+#
+#DATASET    S0010002 
+#DATE       20080311
+#REACTION   83-BI-209(6-C-12,X)2-HE-4,,DA
+#PROJ       6012
+#TARG       83209
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 6012 83209   4 207 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 83209   4 207 PC 6.1100+7          1.6800-3 1.7000-4-0.945519                              Shen Wenqen+         (77)S0010  2 
+ 6012 83209   4 207 PC 6.1100+7          8.1000-4 8.0000-5-0.788011                              Shen Wenqen+         (77)S0010  2 
+ 6012 83209   4 207 PC 6.1100+7          5.7000-4 6.0000-5-0.681998                              Shen Wenqen+         (77)S0010  2 
+ 6012 83209   4 207 PC 6.1100+7          1.8000-4 9.0000-5-0.559193                              Shen Wenqen+         (77)S0010  2 
+ 6012 83209   4 207 PC 6.1100+7          8.2000-5 8.0000-5-0.241922                              Shen Wenqen+         (77)S0010  2 
+ 6012 83209   4 207 PC 6.1100+7          1.0600-4         -0.087156                              Shen Wenqen+         (77)S0010  2 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,42 @@
+#ENTRY      S0322
+#AUTHOR1    Guo Yang+
+#YEAR       2024
+#INSTITUTE  (3CPRIMP)
+#TITLE      Elastic scattering of 13C and 14C isotopes on a 208Pb
+#+          target at energies of approximately five times the
+#+          Coulomb barriers
+#AUTHOR(S)  Guo Yang, Fang-Fang Duan, Kang Wang, Yan-Yun Yang, Zhi-Yu Sun, 
+#+          Valdir Guimaraes, Dan-Yang Pang, Wen-Di Chen, Lei Jin, Shi-Wei Xu, 
+#+          Jun-Bing Ma, Peng Ma, Zhen Bai, Ling-Hao Wang, Quan Liu, 
+#+          Hooi-Jin Ong, Bing-Feng Lv, Song Guo, Mukhi Kumar Raju, 
+#+          Xiu-Hua Wang, Rong-Hua Li, Yu-Hu Zhang, Xiao-Hong Zhou, 
+#+          Zheng-Guo Hu, Hu-Shan Xu
+#REF-CODE   (J,CPH/C,48,034001,2024)
+#REFERENCE  Chin.Phys.C 48 (2024) 034001
+#DATASETS   0
+#
+#DATASET    S0322003 
+#DATE       20251018
+#REACTION   82-PB-208(6-C-14,EL)82-PB-208,,DA,,RTH
+#PROJ       6014
+#TARG       82208
+#MF         4
+#MT         2
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 6014 82208   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6014 82208   4   2  C 3.4200+8          2833.783 147.5344 0.997914                              Guo Yang+            (24)S0322  3 
+ 6014 82208   4   2  C 3.4200+8          1031.564 43.51383 0.996552                              Guo Yang+            (24)S0322  3 
+ 6014 82208   4   2  C 3.4200+8          449.6958 19.72035 0.994851                              Guo Yang+            (24)S0322  3 
+ 6014 82208   4   2  C 3.4200+8          261.3256 11.97851 0.992811                              Guo Yang+            (24)S0322  3 
+ 6014 82208   4   2  C 3.4200+8          153.6509 7.976961 0.990434                              Guo Yang+            (24)S0322  3 
+ 6014 82208   4   2  C 3.4200+8          90.42401 5.523512 0.987719                              Guo Yang+            (24)S0322  3 
+ 6014 82208   4   2  C 3.4200+8          36.41519 3.218718 0.984669                              Guo Yang+            (24)S0322  3 
+ 6014 82208   4   2  C 3.4200+8          12.12589 1.714924 0.981285                              Guo Yang+            (24)S0322  3 
+ 6014 82208   4   2  C 3.4200+8          4.802620 1.001274 0.977567                              Guo Yang+            (24)S0322  3 
+ 6014 82208   4   2  C 3.4200+8          2.049079 0.617738 0.973517                              Guo Yang+            (24)S0322  3 
+ 6014 82208   4   2  C 3.4200+8          0.698007 0.349003 0.969138                              Guo Yang+            (24)S0322  3 
+#/DATA      11
+#/DATASET
