@@ -1,0 +1,34 @@
+#ENTRY      30179
+#AUTHOR1    N.Coetzee+
+#YEAR       1969
+#INSTITUTE  (3SAFPEL)
+#TITLE      Total and scattering cross section measurements on Rb
+#+          and Cs with fast neutrons
+#AUTHOR(S)  N.Coetzee, E.Barnard
+#REF-CODE   (R,PEL-191,43,196910)
+#REFERENCE  Report PEL-191 page 43, 1969
+#DATASETS   0
+#
+#DATASET    30179002 
+#DATE       20080208
+#REACTION   37-RB-0(N,EL)37-RB-0,,DA
+#PROJ       1
+#TARG       37000
+#MF         4
+#MT         2
+#PRODUCT    37-RB-0
+#C4BEGIN    [    1 37000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 37000   4   2    220000.0          0.960900 0.049800 0.866025                              N.Coetzee+           (69)30179  2 
+    1 37000   4   2    220000.0          0.764800 0.040900 0.707107                              N.Coetzee+           (69)30179  2 
+    1 37000   4   2    220000.0          0.698300 0.036500 0.500000                              N.Coetzee+           (69)30179  2 
+    1 37000   4   2    220000.0          0.652700 0.035200 0.258819                              N.Coetzee+           (69)30179  2 
+    1 37000   4   2    220000.0          0.613200 0.032500 6.123-17                              N.Coetzee+           (69)30179  2 
+    1 37000   4   2    220000.0          0.593000 0.030800-0.258819                              N.Coetzee+           (69)30179  2 
+    1 37000   4   2    220000.0          0.580000 0.030800-0.500000                              N.Coetzee+           (69)30179  2 
+    1 37000   4   2    220000.0          0.558600 0.030300-0.707107                              N.Coetzee+           (69)30179  2 
+    1 37000   4   2    220000.0          0.623300 0.033500-0.766044                              N.Coetzee+           (69)30179  2 
+#/DATA      9
+#/DATASET

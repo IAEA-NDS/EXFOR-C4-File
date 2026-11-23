@@ -1,0 +1,33 @@
+#ENTRY      30563
+#AUTHOR1    D.Seeliger+
+#YEAR       1986
+#INSTITUTE  (3DDRTUD)
+#TITLE      Nuclear structure and direct reaction mechanism in
+#+          neutron scattering on 28Si in the energy range 6.8 to
+#+          14.8 MeV
+#AUTHOR(S)  D.Seeliger, D.Schmidt, T.Streil
+#REF-CODE   (J,NP/A,460,265,198612)
+#REFERENCE  Nucl.Phys.A 460 (1986) 265
+#DATASETS   0
+#
+#DATASET    30563006 
+#DATE       20090505
+#REACTION   14-SI-28(N,INL)14-SI-28,PAR,DA
+#PROJ       1
+#TARG       14028
+#MF         4
+#MT         51
+#PRODUCT    14-SI-28
+#C4BEGIN    [    1 14028   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14028   4  51  C 6800000. 185000.0 0.040027 2.0560-3 0.855382 0.038875 1779000.         LVLD.Seeliger+          (86)30563  6 
+    1 14028   4  51  C 6800000. 185000.0 0.035010 3.0250-3 0.617915 0.059007 1779000.         LVLD.Seeliger+          (86)30563  6 
+    1 14028   4  51  C 6800000. 185000.0 0.043342 3.2050-3 0.304814 0.071478 1779000.         LVLD.Seeliger+          (86)30563  6 
+    1 14028   4  51  C 6800000. 185000.0 0.030558 2.2580-3-0.041928 0.074983 1779000.         LVLD.Seeliger+          (86)30563  6 
+    1 14028   4  51  C 6800000. 185000.0 0.032642 2.2230-3-0.378810 0.069456 1779000.         LVLD.Seeliger+          (86)30563  6 
+    1 14028   4  51  C 6800000. 185000.0 0.026808 1.8330-3-0.667053 0.055912 1779000.         LVLD.Seeliger+          (86)30563  6 
+    1 14028   4  51  C 6800000. 185000.0 0.023819 1.6510-3-0.876307 0.036155 1779000.         LVLD.Seeliger+          (86)30563  6 
+#/DATA      7
+#/DATASET

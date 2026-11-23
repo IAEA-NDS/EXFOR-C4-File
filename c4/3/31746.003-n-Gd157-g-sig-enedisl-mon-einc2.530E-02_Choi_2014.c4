@@ -1,0 +1,33 @@
+#ENTRY      31746
+#AUTHOR1    H.D.Choi+
+#YEAR       2014
+#INSTITUTE  (1USABRK)
+#TITLE      Radiative capture cross sections of 155,157Gd for
+#+          thermal neutrons
+#AUTHOR(S)  H.D.Choi, R.B.Firestone, M.S.Basunia, A.Hurst, B.Sleaford, 
+#+          N.Summers, J.E.Escher, Zs.Revay, L.Szentmiklosi, T.Belgya, 
+#+          M.Krticka
+#REF-CODE   (J,NSE,177,219,2014)
+#REFERENCE  Nucl.Sci.Eng. 177 (2014) 219
+#DATASETS   0
+#
+#DATASET    31746003 
+#DATE       20140924
+#REACTION   64-GD-157(N,G)64-GD-158,PAR,SIG
+#PROJ       1
+#TARG       64157
+#MF         3
+#MT         900
+#PRODUCT    64-GD-158
+#C4BEGIN    [    1 64157   3 900 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 64157   3 900 A  0.025300          24700.00 500.0000                   79510.00 10.00000 E2H.D.Choi+            (14)31746  3 
+    1 64157   3 900 A  0.025300          8270.000 180.0000                   977220.0 50.00000 E2H.D.Choi+            (14)31746  3 
+    1 64157   3 900 A  0.025300          9150.000 750.0000                   1186750. 50.00000 E2H.D.Choi+            (14)31746  3 
+    1 64157   3 900 A  0.025300          2500.000 190.0000                   1259910. 50.00000 E2H.D.Choi+            (14)31746  3 
+    1 64157   3 900 A  0.025300          3690.000 290.0000                   1263730. 50.00000 E2H.D.Choi+            (14)31746  3 
+    1 64157   3 900 A  0.025300          1280.000 120.0000                   1517570. 70.00000 E2H.D.Choi+            (14)31746  3 
+#/DATA      6
+#/DATASET

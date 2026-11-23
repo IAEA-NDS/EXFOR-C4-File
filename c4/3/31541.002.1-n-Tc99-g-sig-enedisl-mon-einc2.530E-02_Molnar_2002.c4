@@ -1,0 +1,29 @@
+#ENTRY      31541
+#AUTHOR1    G.L.Molnar+
+#YEAR       2002
+#INSTITUTE  (3HUNII)
+#TITLE      Partial and Total Thermal Neutron Capture Cross Section
+#+          For Non-Destructive Assay and Transmutation Monitoring
+#+          Of 99Tc
+#AUTHOR(S)  G.L.Molnar, T.Belgya, Zs.Revai, S.M.Qaim
+#REF-CODE   (J,RCA,90,479,2002)
+#REFERENCE  Radiochim.Acta 90 (2002) 479
+#DATASETS   0
+#
+#DATASET    315410021
+#DATE       20140401
+#REACTION   43-TC-99(N,G)43-TC-100,PAR,SIG
+#PROJ       1
+#TARG       43099
+#MF         3
+#MT         900
+#PRODUCT    43-TC-100
+#C4BEGIN    [    1 43099   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 43099   3 900    0.025300          16.61000 0.150000                   172000.0          E2G.L.Molnar+          (02)31541  21
+    1 43099   3 900    0.025300          1.472000 0.013000                   223400.0          E2G.L.Molnar+          (02)31541  21
+    1 43099   3 900    0.025300          1.425000 0.012000                   263500.0          E2G.L.Molnar+          (02)31541  21
+#/DATA      3
+#/DATASET

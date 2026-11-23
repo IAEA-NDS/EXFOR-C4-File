@@ -1,0 +1,57 @@
+#ENTRY      32804
+#AUTHOR1    Haoyu Jiang+
+#YEAR       2019
+#INSTITUTE  (3CPRBJG)
+#TITLE      Measurements of differential and angle-integrated
+#+          cross sections for the 10B(n,a)7Li reaction in the
+#+          neutron energy range from 1.0 eV to 2.5 MeV
+#AUTHOR(S)  Haoyu Jiang, Wei Jiang, Huaiyong Bai, Zengqi Cui, Guohui Zhang, 
+#+          Ruirui Fan, Han Yi, Changjun Ning, Liang Zhou, Jingyu Tang, 
+#+          Qi An, Jie Bao, Yu Bao, Ping Cao, Haolei Chen, Qiping Chen, 
+#+          Yonghao Chen, Yukai Chen, Zhen Chen, Changqing Feng, Keqing Gao, 
+#+          Minhao Gu, Changcai Han, Zijie Han, Guozhu He, Yongcheng He, 
+#+          Yang Hong, Hanxiong Huang, Weiling Huang, Xiru Huang, Xiaolu Ji, 
+#+          Xuyang Ji, Zhijie Jiang, Hantao Jing, Ling Kang, Mingtao Kang, 
+#+          Bo Li, Chao Li, Jiawen Li, Lun Li, Qiang Li, Xiao Li, Yang Li, 
+#+          Rong Liu, Shubin Liu, Xingyan Liu, Guangyuan Luan, Qili Mu, 
+#+          Binbin Qi, Jie Ren, Zhizhou Ren, Xichao Ruan, Zhaohui Song, 
+#+          Yingpeng Song, Hong Sun, Kang Sun, Xiaoyang Sun, Zhijia Sun, 
+#+          Zhixin Tan, Hongqing Tang, Xinyi Tang, Binbin Tian, Lijiao Wang, 
+#+          Pengcheng Wang, Qi Wang, Taofeng Wang, Zhaohui Wang, Jie Wen, 
+#+          Zhongwei Wen, Qingbiao Wu, Xiaoguang Wu, Xuan Wu, Likun Xie, 
+#+          Yiwei Yang, Li Yu, Tao Yu, Yongji Yu, Linhao Zhang, Qiwei Zhang, 
+#+          Xianpeng Zhang, Yuliang Zhang, Zhiyong Zhang, Yubin Zhao, 
+#+          Luping Zhou, Zuying Zhou, Danyang Zhu, Kejun Zhu, Peng Zhu
+#REF-CODE   (J,CPH/C,43,124002,2019)
+#REFERENCE  Chin.Phys.C 43 (2019) 124002
+#DATASETS   0
+#
+#DATASET    32804003 
+#DATE       20200921
+#REACTION   5-B-10(N,A)3-LI-7,,DA
+#PROJ       1
+#TARG       5010
+#MF         4
+#MT         107
+#PRODUCT    3-LI-7
+#C4BEGIN    [    1  5010   4 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5010   4 107    900000.0 8700.000 0.036400 2.2823-3 0.944376                              Haoyu Jiang+         (19)32804  3 
+    1  5010   4 107    900000.0 8700.000 0.032800 2.0861-3 0.891798                              Haoyu Jiang+         (19)32804  3 
+    1  5010   4 107    900000.0 8700.000 0.028300 1.7546-3 0.803857                              Haoyu Jiang+         (19)32804  3 
+    1  5010   4 107    900000.0 8700.000 0.026900 1.7324-3 0.685818                              Haoyu Jiang+         (19)32804  3 
+    1  5010   4 107    900000.0 8700.000 0.025000 1.7500-3 0.540240                              Haoyu Jiang+         (19)32804  3 
+    1  5010   4 107    900000.0 8700.000 0.021500 1.6684-3 0.374607                              Haoyu Jiang+         (19)32804  3 
+    1  5010   4 107    900000.0 8700.000 0.021100 1.5487-3 0.194234                              Haoyu Jiang+         (19)32804  3 
+    1  5010   4 107    900000.0 8700.000 0.015400 1.1504-3-5.2360-3                              Haoyu Jiang+         (19)32804  3 
+    1  5010   4 107    900000.0 8700.000 0.016000 1.1968-3-0.194234                              Haoyu Jiang+         (19)32804  3 
+    1  5010   4 107    900000.0 8700.000 0.015100 1.1204-3-0.374607                              Haoyu Jiang+         (19)32804  3 
+    1  5010   4 107    900000.0 8700.000 0.015900 1.2736-3-0.540240                              Haoyu Jiang+         (19)32804  3 
+    1  5010   4 107    900000.0 8700.000 0.014800 1.2047-3-0.684547                              Haoyu Jiang+         (19)32804  3 
+    1  5010   4 107    900000.0 8700.000 0.015600 1.3744-3-0.803857                              Haoyu Jiang+         (19)32804  3 
+    1  5010   4 107    900000.0 8700.000 0.010700 1.4070-3-0.891798                              Haoyu Jiang+         (19)32804  3 
+    1  5010   4 107    900000.0 8700.000 0.013100 2.0397-3-0.944376                              Haoyu Jiang+         (19)32804  3 
+#/DATA      15
+#/DATASET

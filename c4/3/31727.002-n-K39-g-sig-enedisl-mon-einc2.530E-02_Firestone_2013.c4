@@ -1,0 +1,34 @@
+#ENTRY      31727
+#AUTHOR1    R.B.Firestone+
+#YEAR       2013
+#INSTITUTE  (1USABRK)
+#TITLE      Thermal neutron capture cross sections of the
+#+          potassium isotopes
+#AUTHOR(S)  R.B.Firestone, M.Krticka, Zs.Revay, L.Szentmiklosi, T.Belgya
+#REF-CODE   (J,PR/C,87,024605,2013)
+#REFERENCE  Phys.Rev.C 87 (2013) 024605
+#DATASETS   0
+#
+#DATASET    31727002 
+#DATE       20130701
+#REACTION   19-K-39(N,G)19-K-40,PAR,SIG
+#PROJ       1
+#TARG       19039
+#MF         3
+#MT         900
+#PRODUCT    19-K-40
+#C4BEGIN    [    1 19039   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 19039   3 900    0.025300          1.009000 0.016000                   770300.0          E2R.B.Firestone+       (13)31727  2 
+    1 19039   3 900    0.025300          1.020000 0.016000                   770300.0          E2R.B.Firestone+       (13)31727  2 
+    1 19039   3 900    0.025300          1.023000 0.016000                   770300.0          E2R.B.Firestone+       (13)31727  2 
+    1 19039   3 900    0.025300          1.012000 0.130000                   770300.0          E2R.B.Firestone+       (13)31727  2 
+    1 19039   3 900    0.025300          1.011000 0.021000                   770300.0          E2R.B.Firestone+       (13)31727  2 
+    1 19039   3 900    0.025300          1.025000 0.023000                   770300.0          E2R.B.Firestone+       (13)31727  2 
+    1 19039   3 900    0.025300          1.024000 0.021000                   770300.0          E2R.B.Firestone+       (13)31727  2 
+    1 19039   3 900    0.025300          1.024000 0.020000                   770300.0          E2R.B.Firestone+       (13)31727  2 
+    1 19039   3 900    0.025300          1.017000 0.013000                   770300.0          E2R.B.Firestone+       (13)31727  2 
+#/DATA      9
+#/DATASET

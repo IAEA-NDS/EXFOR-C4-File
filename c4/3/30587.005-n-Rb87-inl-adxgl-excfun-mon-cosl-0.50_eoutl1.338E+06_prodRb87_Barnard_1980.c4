@@ -1,0 +1,29 @@
+#ENTRY      30587
+#AUTHOR1    E.Barnard+
+#YEAR       1980
+#INSTITUTE  (3SAFPEL)
+#TITLE      The level structure of Rb-85 and Rb-87 from (n,n'g)
+#+          reaction measurements
+#AUTHOR(S)  E.Barnard, D.W.Mingay, D.Reitmann
+#REF-CODE   (J,ZP/A,296,295,198012)
+#REFERENCE  Z.Phys.A 296 (1980) 295
+#DATASETS   0
+#
+#DATASET    30587005 
+#DATE       20090506
+#REACTION   37-RB-87(N,INL)37-RB-87,PAR,DA,G
+#PROJ       1
+#TARG       37087
+#MF         14
+#MT         51
+#PRODUCT    37-RB-87
+#C4BEGIN    [    1 37087  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 37087  14  51    1775000.          2.0000-5 2.0000-5-0.500000          1337900. 300.0000   E.Barnard+           (80)30587  5 
+    1 37087  14  51    1880000.          7.2000-4 1.5000-4-0.500000          1337900. 300.0000   E.Barnard+           (80)30587  5 
+    1 37087  14  51    1975000.          1.4000-3 2.0000-4-0.500000          1337900. 300.0000   E.Barnard+           (80)30587  5 
+    1 37087  14  51    2060000.          2.2000-3 3.0000-4-0.500000          1337900. 300.0000   E.Barnard+           (80)30587  5 
+#/DATA      4
+#/DATASET

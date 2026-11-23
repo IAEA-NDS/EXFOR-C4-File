@@ -1,0 +1,57 @@
+#ENTRY      32800
+#AUTHOR1    Huaiyong Bai+
+#YEAR       2020
+#INSTITUTE  (3CPRBJG)
+#TITLE      Measurement of the differential cross sections and
+#+          angle-integrated cross sections of the 6Li(n,t) 4He
+#+          reaction from 1.0 eV to 3.0 MeV at the CSNS Back-n
+#+          white neutron source
+#AUTHOR(S)  Huaiyong Bai, Ruirui Fan, Haoyu Jiang, Zengqi Cui, Yiwei Hu, 
+#+          Guohui Zhang, Zhenpeng Chen, Wei Jiang, Han Yi, Jingyu Tang, 
+#+          Liang Zhou, Qi An, Jie Bao, Ping Cao, Qiping Chen, Yonghao Chen, 
+#+          Pinjing Cheng, Changqing Feng, Minhao Gu, Fengqin Guo, Changcai Han, 
+#+          Zijie Han, Guozhu He, Yongcheng He, Yuefeng He, Hanxiong Huang, 
+#+          Weiling Huang, Xiru Huang, Xiaolu Ji, Xuyang Ji, Hantao Jing, 
+#+          Ling Kang, Mingtao Kang, Bo Li, Lun Li, Qiang Li, Xiao Li, 
+#+          Yang Li, Yang Li, Rong Liu, Shubin Liu, Xingyan Liu, Guangyuan Luan, 
+#+          Yinglin Ma, Changjun Ning, Binbin Qi, Jie Ren, Xichao Ruan, 
+#+          Zhaohui Song, Hong Sun, Xiaoyang Sun, Zhijia Sun, Zhixin Tan, 
+#+          Hongqing Tang, Pengcheng Wang, Qi Wang, Taofeng Wang, Yanfeng Wang, 
+#+          Zhaohui Wang, Zheng Wang, Jie Wen, Zhongwei Wen, Qingbiao Wu, 
+#+          Xiaoguang Wu, Xuan Wu, Likun Xie, Yiwei Yang, Li Yu, Tao Yu, 
+#+          Yongji Yu, Jing Zhang, Linhao Zhang, Liying Zhang, Qingmin Zhang, 
+#+          Qiwei Zhang, Xianpeng Zhang, Yuliang Zhang, Zhiyong Zhang, 
+#+          Yingtan Zhao, Zuying Zhou, Danyang Zhu, Kejun Zhu, Peng Zhu
+#REF-CODE   (J,CPH/C,44,014003,2020)
+#REFERENCE  Chin.Phys.C 44 (2020) 014003
+#DATASETS   0
+#
+#DATASET    32800003 
+#DATE       20201016
+#REACTION   3-LI-6(N,T)2-HE-4,,DA
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         105
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1  3006   4 105  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4 105    63.10000 0.430000 1.380000 0.137000 0.944376                              Huaiyong Bai+        (20)32800  3 
+    1  3006   4 105    63.10000 0.430000 1.390000 0.138000 0.891798                              Huaiyong Bai+        (20)32800  3 
+    1  3006   4 105    63.10000 0.430000 1.390000 0.138000 0.803857                              Huaiyong Bai+        (20)32800  3 
+    1  3006   4 105    63.10000 0.430000 1.410000 0.140000 0.685818                              Huaiyong Bai+        (20)32800  3 
+    1  3006   4 105    63.10000 0.430000 1.370000 0.136000 0.540240                              Huaiyong Bai+        (20)32800  3 
+    1  3006   4 105    63.10000 0.430000 1.380000 0.137000 0.374607                              Huaiyong Bai+        (20)32800  3 
+    1  3006   4 105    63.10000 0.430000 1.350000 0.134000 0.194234                              Huaiyong Bai+        (20)32800  3 
+    1  3006   4 105    63.10000 0.430000 1.320000 0.132000-5.2360-3                              Huaiyong Bai+        (20)32800  3 
+    1  3006   4 105    63.10000 0.430000 1.350000 0.134000-0.194234                              Huaiyong Bai+        (20)32800  3 
+    1  3006   4 105    63.10000 0.430000 1.330000 0.132000-0.374607                              Huaiyong Bai+        (20)32800  3 
+    1  3006   4 105    63.10000 0.430000 1.340000 0.133000-0.540240                              Huaiyong Bai+        (20)32800  3 
+    1  3006   4 105    63.10000 0.430000 1.330000 0.132000-0.684547                              Huaiyong Bai+        (20)32800  3 
+    1  3006   4 105    63.10000 0.430000 1.320000 0.132000-0.803857                              Huaiyong Bai+        (20)32800  3 
+    1  3006   4 105    63.10000 0.430000 1.350000 0.134000-0.891798                              Huaiyong Bai+        (20)32800  3 
+    1  3006   4 105    63.10000 0.430000 1.310000 0.130000-0.944376                              Huaiyong Bai+        (20)32800  3 
+#/DATA      15
+#/DATASET

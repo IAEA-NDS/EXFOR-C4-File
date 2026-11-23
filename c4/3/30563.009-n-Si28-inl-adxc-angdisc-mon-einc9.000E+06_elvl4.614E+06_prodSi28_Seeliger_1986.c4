@@ -1,0 +1,36 @@
+#ENTRY      30563
+#AUTHOR1    D.Seeliger+
+#YEAR       1986
+#INSTITUTE  (3DDRTUD)
+#TITLE      Nuclear structure and direct reaction mechanism in
+#+          neutron scattering on 28Si in the energy range 6.8 to
+#+          14.8 MeV
+#AUTHOR(S)  D.Seeliger, D.Schmidt, T.Streil
+#REF-CODE   (J,NP/A,460,265,198612)
+#REFERENCE  Nucl.Phys.A 460 (1986) 265
+#DATASETS   0
+#
+#DATASET    30563009 
+#DATE       20090505
+#REACTION   14-SI-28(N,INL)14-SI-28,PAR,DA
+#PROJ       1
+#TARG       14028
+#MF         4
+#MT         51
+#PRODUCT    14-SI-28
+#C4BEGIN    [    1 14028   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14028   4  51  C 9000000. 138000.0 7.3250-3 1.6430-3 0.852695 0.039206 4614000.         LVLD.Seeliger+          (86)30563  9 
+    1 14028   4  51  C 9000000. 138000.0 0.013853 1.9050-3 0.611679 0.059372 4614000.         LVLD.Seeliger+          (86)30563  9 
+    1 14028   4  51  C 9000000. 138000.0 0.013750 2.2710-3 0.460386 0.066623 4614000.         LVLD.Seeliger+          (86)30563  9 
+    1 14028   4  51  C 9000000. 138000.0 5.0210-3 1.8730-3 0.295558 0.071696 4614000.         LVLD.Seeliger+          (86)30563  9 
+    1 14028   4  51  C 9000000. 138000.0 5.7380-3 1.3280-3 0.122839 0.074481 4614000.         LVLD.Seeliger+          (86)30563  9 
+    1 14028   4  51  C 9000000. 138000.0 6.1270-3 1.1710-3-0.052249 0.074947 4614000.         LVLD.Seeliger+          (86)30563  9 
+    1 14028   4  51  C 9000000. 138000.0 3.4030-3 1.3970-3-0.387676 0.069180 4614000.         LVLD.Seeliger+          (86)30563  9 
+    1 14028   4  51  C 9000000. 138000.0 6.0600-3 8.4090-4-0.673013 0.055509 4614000.         LVLD.Seeliger+          (86)30563  9 
+    1 14028   4  51  C 9000000. 138000.0 4.0780-3 1.0640-3-0.787258 0.046277 4614000.         LVLD.Seeliger+          (86)30563  9 
+    1 14028   4  51  C 9000000. 138000.0 5.8190-3 9.4560-4-0.878817 0.035810 4614000.         LVLD.Seeliger+          (86)30563  9 
+#/DATA      10
+#/DATASET

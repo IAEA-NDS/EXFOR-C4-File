@@ -1,0 +1,32 @@
+#ENTRY      30292
+#AUTHOR1    E.Barnard+
+#YEAR       1978
+#INSTITUTE  (3SAFPEL)
+#TITLE      Scattering of fast neutrons from 103Rh
+#AUTHOR(S)  E.Barnard, D.Reitmann
+#REF-CODE   (J,NP/A,303,27,1978)
+#REFERENCE  Nucl.Phys.A 303 (1978) 27
+#DATASETS   0
+#
+#DATASET    30292002 
+#DATE       20081203
+#REACTION   45-RH-103(N,EL)45-RH-103,,DA
+#PROJ       1
+#TARG       45103
+#MF         4
+#MT         2
+#PRODUCT    45-RH-103
+#C4BEGIN    [    1 45103   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 45103   4   2 A  200000.0          0.971000 0.081000 0.258819                              E.Barnard+           (78)30292  2 
+    1 45103   4   2 A  400000.0          0.846000 0.069000 0.258819                              E.Barnard+           (78)30292  2 
+    1 45103   4   2 A  600000.0          0.555000 0.045000 0.258819                              E.Barnard+           (78)30292  2 
+    1 45103   4   2 A  800000.0          0.444000 0.036000 0.258819                              E.Barnard+           (78)30292  2 
+    1 45103   4   2 A  900000.0          0.417000 0.034000 0.258819                              E.Barnard+           (78)30292  2 
+    1 45103   4   2 A  1000000.          0.367000 0.030000 0.258819                              E.Barnard+           (78)30292  2 
+    1 45103   4   2 A  1200000.          0.282000 0.024000 0.258819                              E.Barnard+           (78)30292  2 
+    1 45103   4   2 A  1300000.          0.243000 0.020000 0.258819                              E.Barnard+           (78)30292  2 
+#/DATA      8
+#/DATASET

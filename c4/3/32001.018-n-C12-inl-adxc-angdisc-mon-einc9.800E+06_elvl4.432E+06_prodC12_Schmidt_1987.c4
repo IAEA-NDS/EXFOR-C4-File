@@ -1,0 +1,33 @@
+#ENTRY      32001
+#AUTHOR1    D.Schmidt+
+#YEAR       1987
+#INSTITUTE  (3DDRTUD)
+#TITLE      Measurement and status of neutron scattering on 6Li
+#+          and 7Li between 6 and 14 MeV
+#AUTHOR(S)  D.Schmidt, D.Seeliger, G.N.Lovchikova, A.M.Trufanov
+#REF-CODE   (J,NSE,96,159,1987)
+#REFERENCE  Nucl.Sci.Eng. 96 (1987) 159
+#DATASETS   0
+#
+#DATASET    32001018 
+#DATE       20220825
+#REACTION   6-C-12(N,INL)6-C-12,PAR,DA
+#PROJ       1
+#TARG       6012
+#MF         4
+#MT         51
+#PRODUCT    6-C-12
+#C4BEGIN    [    1  6012   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   4  51  C 9800000. 125000.0 0.067500 4.6000-3 0.925474 0.028429 4432000.         LVLD.Schmidt+           (87)32001 18 
+    1  6012   4  51  C 9800000. 125000.0 0.051800 3.6000-3 0.716180 0.052378 4432000.         LVLD.Schmidt+           (87)32001 18 
+    1  6012   4  51  C 9800000. 125000.0 0.034600 2.6000-3 0.410878 0.068422 4432000.         LVLD.Schmidt+           (87)32001 18 
+    1  6012   4  51  C 9800000. 125000.0 0.026200 3.5000-3 0.060526 0.074912 4432000.         LVLD.Schmidt+           (87)32001 18 
+    1  6012   4  51  C 9800000. 125000.0 0.016000 3.0000-3-0.284685 0.071944 4432000.         LVLD.Schmidt+           (87)32001 18 
+    1  6012   4  51  C 9800000. 125000.0 7.7000-3 2.1000-3-0.584250 0.060908 4432000.         LVLD.Schmidt+           (87)32001 18 
+    1  6012   4  51  C 9800000. 125000.0 0.013900 1.8000-3-0.811676 0.043837 4432000.         LVLD.Schmidt+           (87)32001 18 
+    1  6012   4  51  C 9800000. 125000.0 0.015200 2.2000-3-0.952502 0.022855 4432000.         LVLD.Schmidt+           (87)32001 18 
+#/DATA      8
+#/DATASET

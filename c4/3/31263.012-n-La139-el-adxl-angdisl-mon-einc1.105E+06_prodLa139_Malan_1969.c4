@@ -1,0 +1,33 @@
+#ENTRY      31263
+#AUTHOR1    J.C.Malan+
+#YEAR       1969
+#INSTITUTE  (3SAFSUN)
+#TITLE      Fast neutron scattering from 139La and 141Pr
+#AUTHOR(S)  J.C.Malan, W.R.McMurray, P.van der Merwe, I.J.van Heerden, 
+#+          C.A.Engelbrecht
+#REF-CODE   (J,NP/A,124,111,1969)
+#REFERENCE  Nucl.Phys.A 124 (1969) 111
+#DATASETS   0
+#
+#DATASET    31263012 
+#DATE       20150723
+#REACTION   57-LA-139(N,EL)57-LA-139,,DA
+#PROJ       1
+#TARG       57139
+#MF         4
+#MT         2
+#PRODUCT    57-LA-139
+#C4BEGIN    [    1 57139   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 57139   4   2    1105000. 3000.000 1.916000 0.120000 0.866000                              J.C.Malan+           (69)31263 12 
+    1 57139   4   2    1105000. 3000.000 1.282000 0.090000 0.707000                              J.C.Malan+           (69)31263 12 
+    1 57139   4   2    1105000. 3000.000 0.739000 0.055000 0.500000                              J.C.Malan+           (69)31263 12 
+    1 57139   4   2    1105000. 3000.000 0.382000 0.040000 0.259000                              J.C.Malan+           (69)31263 12 
+    1 57139   4   2    1105000. 3000.000 0.193000 0.025000 6.123-17                              J.C.Malan+           (69)31263 12 
+    1 57139   4   2    1105000. 3000.000 0.134000 0.020000-0.259000                              J.C.Malan+           (69)31263 12 
+    1 57139   4   2    1105000. 3000.000 0.166000 0.020000-0.500000                              J.C.Malan+           (69)31263 12 
+    1 57139   4   2    1105000. 3000.000 0.276000 0.030000-0.707000                              J.C.Malan+           (69)31263 12 
+#/DATA      8
+#/DATASET

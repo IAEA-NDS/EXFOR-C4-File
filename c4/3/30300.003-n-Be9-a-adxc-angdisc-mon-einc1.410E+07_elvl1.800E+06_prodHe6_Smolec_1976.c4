@@ -1,0 +1,35 @@
+#ENTRY      30300
+#AUTHOR1    W.Smolec+
+#YEAR       1976
+#INSTITUTE  (3POLIFJ)
+#TITLE      Study of the Be-9(n,alpha)He-6 reaction in the
+#+          energy range from 12.2 to 18.0 MeV.
+#AUTHOR(S)  W.Smolec, S.Burzynski, K.Rusek, I.M.Turkiewicz, J.Turkiewicz, 
+#+          P.Zupranski
+#REF-CODE   (J,NP/A,257,397,197602)
+#REFERENCE  Nucl.Phys.A 257 (1976) 397
+#DATASETS   0
+#
+#DATASET    30300003 
+#DATE       20090115
+#REACTION   4-BE-9(N,A)2-HE-6,PAR,DA
+#PROJ       1
+#TARG       4009
+#MF         4
+#MT         800
+#PRODUCT    2-HE-6
+#C4BEGIN    [    1  4009   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  4009   4 800  C 1.4100+7 260000.0 5.0500-3 2.4000-4 0.983255 0.031806 1800000.         LVLW.Smolec+            (76)30300  3 
+    1  4009   4 800  C 1.4100+7 260000.0 5.0900-3 2.1000-4 0.962218 0.045146 1800000.         LVLW.Smolec+            (76)30300  3 
+    1  4009   4 800  C 1.4100+7 260000.0 4.5800-3 2.1000-4 0.887815 0.072288 1800000.         LVLW.Smolec+            (76)30300  3 
+    1  4009   4 800  C 1.4100+7 260000.0 3.7100-3 2.2000-4 0.770513 0.094564 1800000.         LVLW.Smolec+            (76)30300  3 
+    1  4009   4 800  C 1.4100+7 260000.0 3.7500-3 2.0000-4 0.621148 0.109424 1800000.         LVLW.Smolec+            (76)30300  3 
+    1  4009   4 800  C 1.4100+7 260000.0 4.0100-3 1.8000-4 0.441506 0.117451 1800000.         LVLW.Smolec+            (76)30300  3 
+    1  4009   4 800  C 1.4100+7 260000.0 2.4800-3 2.3000-4 0.257133 0.118065 1800000.         LVLW.Smolec+            (76)30300  3 
+    1  4009   4 800  C 1.4100+7 260000.0 2.4200-3 5.1000-4 0.062791 0.113223 1800000.         LVLW.Smolec+            (76)30300  3 
+    1  4009   4 800  C 1.4100+7 260000.0 1.7900-3 6.6000-4-0.125333 0.103894 1800000.         LVLW.Smolec+            (76)30300  3 
+#/DATA      9
+#/DATASET

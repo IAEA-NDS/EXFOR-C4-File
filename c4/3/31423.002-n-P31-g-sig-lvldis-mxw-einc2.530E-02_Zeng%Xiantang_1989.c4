@@ -1,0 +1,33 @@
+#ENTRY      31423
+#AUTHOR1    Zeng Xiantang+
+#YEAR       1989
+#INSTITUTE  (3CPRAEP)
+#TITLE      Study of the thermal neutron radiative capture 31P(n,g)
+#+          reaction
+#AUTHOR(S)  Zeng Xiantang, Shi Zongren, Zhang Ming, Li Guohua, Ding Dazhao
+#REF-CODE   (J,CNP,11,(2),43,1989)
+#REFERENCE  Chin.J.Nucl.Phys. 11 No.2 (1989) 43
+#DATASETS   0
+#
+#DATASET    31423002 
+#DATE       20140624
+#REACTION   15-P-31(N,G)15-P-32,PAR,SIG,,MXW
+#PROJ       1
+#TARG       15031
+#MF         3
+#MT         900
+#PRODUCT    15-P-32
+#C4BEGIN    [    1 15031   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 15031   3 900    0.025300          0.023750                            3264000.         LVLZeng Xiantang+       (89)31423  2 
+    1 15031   3 900    0.025300          4.5800-3                            4009000.         LVLZeng Xiantang+       (89)31423  2 
+    1 15031   3 900    0.025300          0.030690                            4036000.         LVLZeng Xiantang+       (89)31423  2 
+    1 15031   3 900    0.025300          9.7500-3                            4662000.         LVLZeng Xiantang+       (89)31423  2 
+    1 15031   3 900    0.025300          0.011520                            4878000.         LVLZeng Xiantang+       (89)31423  2 
+    1 15031   3 900    0.025300          0.010140                            5350000.         LVLZeng Xiantang+       (89)31423  2 
+    1 15031   3 900    0.025300          0.014810                            5779000.         LVLZeng Xiantang+       (89)31423  2 
+    1 15031   3 900    0.025300          3.3800-3                            6062000.         LVLZeng Xiantang+       (89)31423  2 
+#/DATA      8
+#/DATASET

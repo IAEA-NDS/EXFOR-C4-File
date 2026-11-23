@@ -1,0 +1,28 @@
+#ENTRY      31552
+#AUTHOR1    A.Borella+
+#YEAR       2011
+#INSTITUTE  (2ZZZGEL)
+#TITLE      Determination of the 209Bi(n,gamma)210Bi and
+#+          209Bi(n,gamma)210m,gBi  reaction cross section in a
+#+          cold neutron beam
+#AUTHOR(S)  A.Borella, T.Belgya, S.Kopecky, F.Gunsing, M.Moxon, M.Rejmund, 
+#+          P.Schillebeeckx, L.Szentmiklosi
+#REF-CODE   (J,NP/A,850,1,2011)
+#REFERENCE  Nucl.Phys.A 850 (2011) 1
+#DATASETS   0
+#
+#DATASET    31552004 
+#DATE       20110825
+#REACTION   83-BI-209(N,G)83-BI-210,PAR,SIG,G
+#PROJ       1
+#TARG       83209
+#MF         13
+#MT         900
+#PRODUCT    83-BI-210
+#C4BEGIN    [    1 83209  13 900 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 83209  13 900 A  0.025300          8.0700-3 1.4000-4                   4054600.            A.Borella+           (11)31552  4 
+#/DATA      1
+#/DATASET

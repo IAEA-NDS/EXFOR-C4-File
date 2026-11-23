@@ -1,0 +1,40 @@
+#ENTRY      32711
+#AUTHOR1    Guochang Chen+
+#YEAR       2009
+#INSTITUTE  (3CPRAEP)
+#TITLE      Double-differential neutron emission cross-section
+#+          measurements of 6Li and 7Li at incident neutron
+#+          energies of 8.17 and 10.27 MeV
+#AUTHOR(S)  Guochang Chen, Xichao Ruan, Zuying Zhou, Jingshang Zhang, 
+#+          Bujia Qi, Xia Li, Hanxiong Huang, Hongqing Tang, Qiping Zhong, 
+#+          Jing Jiang, Biao Xin, Jie Bao, Lin Chen
+#REF-CODE   (J,NSE,163,272,2009)
+#REFERENCE  Nucl.Sci.Eng. 163 (2009) 272
+#DATASETS   0
+#
+#DATASET    32711005 
+#DATE       20260409
+#REACTION   3-LI-6(N,INL)3-LI-6,PAR,DA
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         51
+#PRODUCT    3-LI-6
+#C4BEGIN    [    1  3006   4  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4  51 DC 8170000.          0.028800 2.1000-3 0.798741 5.2506-3 2186000.         LVLGuochang Chen+       (09)32711  5 
+    1  3006   4  51 DC 8170000.          0.025200 1.9000-3 0.662097 6.5399-3 2186000.         LVLGuochang Chen+       (09)32711  5 
+    1  3006   4  51 DC 8170000.          0.018900 1.4000-3 0.501662 7.5491-3 2186000.         LVLGuochang Chen+       (09)32711  5 
+    1  3006   4  51 DC 8170000.          0.016500 1.2000-3 0.252238 8.4445-3 2186000.         LVLGuochang Chen+       (09)32711  5 
+    1  3006   4  51 DC 8170000.          0.012100 9.0000-4 0.068538 8.7061-3 2186000.         LVLGuochang Chen+       (09)32711  5 
+    1  3006   4  51 DC 8170000.          0.010900 8.0000-4-0.111642 8.6721-3 2186000.         LVLGuochang Chen+       (09)32711  5 
+    1  3006   4  51 DC 8170000.          8.3000-3 6.0000-4-0.282509 8.3712-3 2186000.         LVLGuochang Chen+       (09)32711  5 
+    1  3006   4  51 DC 8170000.          7.0000-3 6.0000-4-0.439626 7.8381-3 2186000.         LVLGuochang Chen+       (09)32711  5 
+    1  3006   4  51 DC 8170000.          6.2000-3 5.0000-4-0.579139 7.1142-3 2186000.         LVLGuochang Chen+       (09)32711  5 
+    1  3006   4  51 DC 8170000.          6.1000-3 5.0000-4-0.751725 5.7550-3 2186000.         LVLGuochang Chen+       (09)32711  5 
+    1  3006   4  51 DC 8170000.          5.0000-3 4.0000-4-0.841511 4.7145-3 2186000.         LVLGuochang Chen+       (09)32711  5 
+    1  3006   4  51 DC 8170000.          4.5000-3 4.0000-4-0.910828 3.6022-3 2186000.         LVLGuochang Chen+       (09)32711  5 
+#/DATA      12
+#/DATASET

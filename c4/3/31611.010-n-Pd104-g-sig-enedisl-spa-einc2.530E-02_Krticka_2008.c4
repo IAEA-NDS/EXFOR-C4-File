@@ -1,0 +1,29 @@
+#ENTRY      31611
+#AUTHOR1    M.Krticka+
+#YEAR       2008
+#INSTITUTE  (3CZRCHU)
+#TITLE      Thermal neutron capture cross sections of the
+#+          palladium isotopes
+#AUTHOR(S)  M.Krticka, R.B.Firestone, D.P.McNabb, B.Sleaford, U.Agvaanluvsan, 
+#+          T.Belgya, Z.S.Revay
+#REF-CODE   (J,PR/C,77,054615,2008)
+#REFERENCE  Phys.Rev.C 77 (2008) 054615
+#DATASETS   0
+#
+#DATASET    31611010 
+#DATE       20130319
+#REACTION   46-PD-104(N,G)46-PD-105,PAR,SIG,,SPA
+#PROJ       1
+#TARG       46104
+#MF         3
+#MT         900
+#PRODUCT    46-PD-105
+#C4BEGIN    [    1 46104   3 900 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 46104   3 900 D  0.025300          0.145000 0.013000                   280000.0          E2M.Krticka+           (08)31611 10 
+    1 46104   3 900 D  0.025300          0.040000 8.0000-3                   306000.0          E2M.Krticka+           (08)31611 10 
+    1 46104   3 900 D  0.025300          0.099000 0.018000                   344000.0          E2M.Krticka+           (08)31611 10 
+#/DATA      3
+#/DATASET

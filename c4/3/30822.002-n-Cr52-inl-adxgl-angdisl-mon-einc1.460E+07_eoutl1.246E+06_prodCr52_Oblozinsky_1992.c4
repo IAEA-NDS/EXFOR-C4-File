@@ -1,0 +1,30 @@
+#ENTRY      30822
+#AUTHOR1    P.Oblozinsky+
+#YEAR       1992
+#INSTITUTE  (3SLKSLO)
+#TITLE      Gamma-ray production from 52Cr(n,xgamma) reactions at
+#+          14.6 MeV
+#AUTHOR(S)  P.Oblozinsky, S.Hlavac, G.Maino, A.Mengoni
+#REF-CODE   (J,NC/A,105,965,1992)
+#REFERENCE  Nuovo Cim.A 105 (1992) 965
+#DATASETS   0
+#
+#DATASET    30822002 
+#DATE       20090912
+#REACTION   24-CR-52(N,INL)24-CR-52,PAR,DA,G
+#PROJ       1
+#TARG       24052
+#MF         14
+#MT         51
+#PRODUCT    24-CR-52
+#C4BEGIN    [    1 24052  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 24052  14  51    1.4600+7          2.5000-3 8.0000-4 0.743145 0.140142 1246200.            P.Oblozinsky+        (92)30822  2 
+    1 24052  14  51    1.4600+7          3.8000-3 7.0000-4 6.123-17 0.209440 1246200.            P.Oblozinsky+        (92)30822  2 
+    1 24052  14  51    1.4600+7          4.4000-3 8.0000-4-0.224951 0.187066 1246200.            P.Oblozinsky+        (92)30822  2 
+    1 24052  14  51    1.4600+7          2.4000-3 4.0000-4-0.719340 0.109117 1246200.            P.Oblozinsky+        (92)30822  2 
+    1 24052  14  51    1.4600+7          1.8000-3 4.0000-4-0.927184 0.058843 1246200.            P.Oblozinsky+        (92)30822  2 
+#/DATA      5
+#/DATASET

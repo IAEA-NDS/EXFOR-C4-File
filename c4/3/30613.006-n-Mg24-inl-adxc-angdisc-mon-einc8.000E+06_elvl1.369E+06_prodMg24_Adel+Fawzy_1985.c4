@@ -1,0 +1,34 @@
+#ENTRY      30613
+#AUTHOR1    M.Adel-Fawzy+
+#YEAR       1985
+#INSTITUTE  (3DDRTUD)
+#TITLE      Excitation of the even-even nuclei Mg-24, Si-28 and
+#+          S-32 by neutron scattering at incident energies between
+#+          7 and 14 MeV
+#AUTHOR(S)  M.Adel-Fawzy, H.Foertsch, D.Schmidt, D.Seeliger, T.Streil
+#REF-CODE   (J,NP/A,440,35,198507)
+#REFERENCE  Nucl.Phys.A 440 (1985) 35
+#DATASETS   0
+#
+#DATASET    30613006 
+#DATE       20090805
+#REACTION   12-MG-24(N,INL)12-MG-24,PAR,DA
+#PROJ       1
+#TARG       12024
+#MF         4
+#MT         51
+#PRODUCT    12-MG-24
+#C4BEGIN    [    1 12024   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 12024   4  51  C 8000000. 160000.0 0.026600 5.6000-3 0.934142 0.026785 1368600.         LVLM.Adel-Fawzy+        (85)30613  6 
+    1 12024   4  51  C 8000000. 160000.0 0.025900 2.5000-3 0.746522 0.049935 1368600.         LVLM.Adel-Fawzy+        (85)30613  6 
+    1 12024   4  51  C 8000000. 160000.0 0.022100 4.2000-3 0.464842 0.066448 1368600.         LVLM.Adel-Fawzy+        (85)30613  6 
+    1 12024   4  51  C 8000000. 160000.0 0.023100 5.1000-3 0.128449 0.074427 1368600.         LVLM.Adel-Fawzy+        (85)30613  6 
+    1 12024   4  51  C 8000000. 160000.0 0.025900 3.5000-3-0.218484 0.073236 1368600.         LVLM.Adel-Fawzy+        (85)30613  6 
+    1 12024   4  51  C 8000000. 160000.0 0.031000 2.3000-3-0.534352 0.063436 1368600.         LVLM.Adel-Fawzy+        (85)30613  6 
+    1 12024   4  51  C 8000000. 160000.0 0.030600 2.5000-3-0.784885 0.046504 1368600.         LVLM.Adel-Fawzy+        (85)30613  6 
+    1 12024   4  51  C 8000000. 160000.0 0.016500 2.0000-3-0.945006 0.024545 1368600.         LVLM.Adel-Fawzy+        (85)30613  6 
+#/DATA      8
+#/DATASET

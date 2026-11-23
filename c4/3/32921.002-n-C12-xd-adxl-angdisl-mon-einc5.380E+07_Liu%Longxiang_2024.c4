@@ -1,0 +1,44 @@
+#ENTRY      32921
+#AUTHOR1    Liu Longxiang+
+#YEAR       2024
+#INSTITUTE  (3CPRIHP)
+#TITLE      Measurement of Differential Cross Sections of
+#+          Neutron-induced d
+#AUTHOR(S)  Liu Longxiang, Sun Kang, Yi Han, Lu Fei, Wang Hongwei, Fan Gongtao, 
+#+          Cao Xiguang, Zhang Yue, Zhang Suyalatu, Wang Dexin, Li Xinxiang, 
+#+          Yang Yuxuan, Kuang Pan, Hu Xinrong, Hao Zirui, Jin Sheng, 
+#+          Chen Kaijie, Jiang Wei, Fan Ruirui, Li Qiang, Chen Yonghao, 
+#+          Tan Zhixin, Li Yang
+#REF-CODE   (J,CNPR,41,371,2024)
+#REFERENCE  Nucl.Phys.Rev. 41 (2024) 371
+#DATASETS   0
+#
+#DATASET    32921002 
+#DATE       20241010
+#REACTION   6-C-12(N,X)1-H-2,,DA
+#PROJ       1
+#TARG       6012
+#MF         4
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  6012   4 204  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   4 204    5.3800+7 3100000. 0.023340 1.6700-3 0.909961                              Liu Longxiang+       (24)32921  2 
+    1  6012   4 204    5.3800+7 3100000. 0.015530 1.1500-3 0.829038                              Liu Longxiang+       (24)32921  2 
+    1  6012   4 204    5.3800+7 3100000. 0.010620 9.5000-4 0.725374                              Liu Longxiang+       (24)32921  2 
+    1  6012   4 204    5.3800+7 3100000. 9.2100-3 9.1000-4 0.601815                              Liu Longxiang+       (24)32921  2 
+    1  6012   4 204    5.3800+7 3100000. 4.6800-3 8.0000-4 0.461749                              Liu Longxiang+       (24)32921  2 
+    1  6012   4 204    5.3800+7 3100000. 5.2600-3 6.7000-4 0.309017                              Liu Longxiang+       (24)32921  2 
+    1  6012   4 204    5.3800+7 3100000. 3.5900-3 6.6000-4 0.147809                              Liu Longxiang+       (24)32921  2 
+    1  6012   4 204    5.3800+7 3100000. 2.4600-3 6.1000-4-0.017452                              Liu Longxiang+       (24)32921  2 
+    1  6012   4 204    5.3800+7 3100000. 4.3000-4 2.9000-4-0.147809                              Liu Longxiang+       (24)32921  2 
+    1  6012   4 204    5.3800+7 3100000. 1.7100-3 3.8000-4-0.309017                              Liu Longxiang+       (24)32921  2 
+    1  6012   4 204    5.3800+7 3100000. 1.0200-3 2.1000-4-0.461749                              Liu Longxiang+       (24)32921  2 
+    1  6012   4 204    5.3800+7 3100000. 5.9000-4 2.8000-4-0.601815                              Liu Longxiang+       (24)32921  2 
+    1  6012   4 204    5.3800+7 3100000. 6.1000-4 3.0000-4-0.725374                              Liu Longxiang+       (24)32921  2 
+    1  6012   4 204    5.3800+7 3100000. 1.4000-4 1.8000-4-0.829038                              Liu Longxiang+       (24)32921  2 
+    1  6012   4 204    5.3800+7 3100000. 1.4900-3 3.9000-4-0.909961                              Liu Longxiang+       (24)32921  2 
+#/DATA      15
+#/DATASET
