@@ -1,0 +1,32 @@
+#ENTRY      C2814
+#AUTHOR1    R.J.Peterson+
+#YEAR       1987
+#INSTITUTE  (1USACLU)
+#TITLE      Proton stripping to 8- stretched states in 60Ni
+#AUTHOR(S)  R.J.Peterson, B.L.Clausen, J.J.Kraushaar, R.A.Lindgren, 
+#+          M.A.Plum, W.W.Jacobs, H.Nann
+#REF-CODE   (J,PR/C,35,495,1987)
+#REFERENCE  Phys.Rev.C 35 (1987) 495
+#DATASETS   0
+#
+#DATASET    C2814002 
+#DATE       20220918
+#REACTION   27-CO-59(A,T)28-NI-60,PAR,DA
+#PROJ       2004
+#TARG       27059
+#MF         4
+#MT         700
+#PRODUCT    28-NI-60
+#C4BEGIN    [ 2004 27059   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 27059   4 700  C 8.0900+7          7.7100-5 2.1270-5 0.991301          1.2310+7         LVLR.J.Peterson+        (87)C2814  2 
+ 2004 27059   4 700  C 8.0900+7          4.4490-5 5.5400-6 0.985662          1.2310+7         LVLR.J.Peterson+        (87)C2814  2 
+ 2004 27059   4 700  C 8.0900+7          2.4100-5 1.0800-5 0.979070          1.2310+7         LVLR.J.Peterson+        (87)C2814  2 
+ 2004 27059   4 700  C 8.0900+7          2.4800-5 4.6410-6 0.965740          1.2310+7         LVLR.J.Peterson+        (87)C2814  2 
+ 2004 27059   4 700  C 8.0900+7          1.4590-5 3.6930-6 0.943628          1.2310+7         LVLR.J.Peterson+        (87)C2814  2 
+ 2004 27059   4 700  C 8.0900+7          1.5270-5 3.6940-6 0.930629          1.2310+7         LVLR.J.Peterson+        (87)C2814  2 
+ 2004 27059   4 700  C 8.0900+7          5.9330-6 1.9870-6 0.892082          1.2310+7         LVLR.J.Peterson+        (87)C2814  2 
+#/DATA      7
+#/DATASET

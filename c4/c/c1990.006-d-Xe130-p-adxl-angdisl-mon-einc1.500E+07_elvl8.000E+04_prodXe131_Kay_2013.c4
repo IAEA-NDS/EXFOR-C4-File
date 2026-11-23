@@ -1,0 +1,30 @@
+#ENTRY      C1990
+#AUTHOR1    B.P.Kay+
+#YEAR       2013
+#INSTITUTE  (1USABRK)
+#TITLE      Valence neutron properties relevant to the
+#+          neutrinoless double-beta decay of 130Te
+#AUTHOR(S)  B.P.Kay, T.Bloxham, S.A.McAllister, J.A.Clark, C.M.Deibel, 
+#+          S.J.Freedman, S.J.Freeman, K.Han, A.M.Howard, A.J.Mitchell, 
+#+          P.D.Parker, J.P.Schiffer, D.K.Sharp, J.S.Thomas
+#REF-CODE   (J,PR/C,87,011302,2013)
+#REFERENCE  Phys.Rev.C 87 (2013) 011302
+#DATASETS   0
+#
+#DATASET    C1990006 
+#DATE       20130403
+#REACTION   54-XE-130(D,P)54-XE-131,PAR,DA
+#PROJ       1002
+#TARG       54130
+#MF         4
+#MT         600
+#PRODUCT    54-XE-131
+#C4BEGIN    [ 1002 54130   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 54130   4 600    1.5000+7 60000.00 2.1000-3          0.996195          80000.00         LVLB.P.Kay+             (13)C1990  6 
+ 1002 54130   4 600    1.5000+7 60000.00 1.1000-4          0.951057          80000.00         LVLB.P.Kay+             (13)C1990  6 
+ 1002 54130   4 600    1.5000+7 60000.00 1.2800-3          0.874620          80000.00         LVLB.P.Kay+             (13)C1990  6 
+#/DATA      3
+#/DATASET

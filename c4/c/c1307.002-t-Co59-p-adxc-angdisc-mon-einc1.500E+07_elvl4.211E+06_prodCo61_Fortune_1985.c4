@@ -1,0 +1,33 @@
+#ENTRY      C1307
+#AUTHOR1    H.T.Fortune+
+#YEAR       1985
+#INSTITUTE  (1USAPEN)
+#TITLE      Level structures of 61Co via the reaction
+#+          59Co(t,p)61Co
+#AUTHOR(S)  H.T.Fortune, M.Carchidi, H.Banu, H.M.Sen-Gupta
+#REF-CODE   (J,PR/C,31,392,1985)
+#REFERENCE  Phys.Rev.C 31 (1985) 392
+#DATASETS   0
+#
+#DATASET    C1307002 
+#DATE       20050811
+#REACTION   27-CO-59(T,P)27-CO-61,PAR,DA
+#PROJ       1003
+#TARG       27059
+#MF         4
+#MT         600
+#PRODUCT    27-CO-61
+#C4BEGIN    [ 1003 27059   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 27059   4 600  C 1.5000+7          1.2500-5 9.0900-7 0.895712          4211000.         LVLH.T.Fortune+         (85)C1307  2 
+ 1003 27059   4 600  C 1.5000+7          1.7900-5 8.7600-7 0.826098          4211000.         LVLH.T.Fortune+         (85)C1307  2 
+ 1003 27059   4 600  C 1.5000+7          1.8000-5          0.745476          4211000.         LVLH.T.Fortune+         (85)C1307  2 
+ 1003 27059   4 600  C 1.5000+7          1.6800-5          0.646790          4211000.         LVLH.T.Fortune+         (85)C1307  2 
+ 1003 27059   4 600  C 1.5000+7          9.0500-6          0.546102          4211000.         LVLH.T.Fortune+         (85)C1307  2 
+ 1003 27059   4 600  C 1.5000+7          4.9900-6 6.9600-7 0.424199          4211000.         LVLH.T.Fortune+         (85)C1307  2 
+ 1003 27059   4 600  C 1.5000+7          7.4900-6 1.0400-6 0.295708          4211000.         LVLH.T.Fortune+         (85)C1307  2 
+ 1003 27059   4 600  C 1.5000+7          2.7600-6 5.0200-7 0.173648          4211000.         LVLH.T.Fortune+         (85)C1307  2 
+#/DATA      8
+#/DATASET

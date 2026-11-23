@@ -1,0 +1,34 @@
+#ENTRY      C3138
+#AUTHOR1    J.C.Zamora+
+#YEAR       2026
+#INSTITUTE  (1USAMSU)
+#TITLE      Investigation of the isoscalar monopole response in
+#+          the proton-rich nucleus 14O
+#AUTHOR(S)  J.C.Zamora, S.Giraud, R.G.T.Zegers, Y.Ayyad, S.Beceiro-Novo, 
+#+          D.Bazin, A.Carls, J.Chen, M.Cortesi, M.DeNudt, Yu-Gang Ma, 
+#+          C.Maher, W.Mittig, F.Ndayisabye, S.Noji, J.Pereira, A.Ravlic, 
+#+          J.Schmitt, M.Z.Serikow, L.J.Sun, J.Surbrook, N.Watwood, 
+#+          T.Wheeler, Z.Rahman, B.Zhou
+#REF-CODE   (J,PL/B,879,140593,2026)
+#REFERENCE  Phys.Lett.B 879 (2026) 140593
+#DATASETS   0
+#
+#DATASET    C3138003 
+#DATE       20260807
+#REACTION   8-O-14(D,INL)8-O-14,PAR,DA
+#PROJ       1002
+#TARG       8014
+#MF         4
+#MT         651
+#PRODUCT    8-O-14
+#C4BEGIN    [ 1002  8014   4 651 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  8014   4 651 DC 2.1000+8          1.3456-3 1.5967-4 0.997314          1.7000+7         LVLJ.C.Zamora+          (26)C3138  3 
+ 1002  8014   4 651 DC 2.1000+8          1.2602-3 1.5553-4 0.996779          1.7000+7         LVLJ.C.Zamora+          (26)C3138  3 
+ 1002  8014   4 651 DC 2.1000+8          9.9532-4 1.2988-4 0.996195          1.7000+7         LVLJ.C.Zamora+          (26)C3138  3 
+ 1002  8014   4 651 DC 2.1000+8          9.7683-4 1.2799-4 0.995884          1.7000+7         LVLJ.C.Zamora+          (26)C3138  3 
+ 1002  8014   4 651 DC 2.1000+8          9.0593-4 1.2144-4 0.995562          1.7000+7         LVLJ.C.Zamora+          (26)C3138  3 
+#/DATA      5
+#/DATASET

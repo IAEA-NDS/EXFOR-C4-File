@@ -1,0 +1,36 @@
+#ENTRY      C3023
+#AUTHOR1    G.D.Gutsche+
+#YEAR       1962
+#INSTITUTE  (1USANRL)
+#TITLE      Differential cross sections for tritium-induced
+#+          reactions on C12
+#AUTHOR(S)  G.D.Gutsche, H.D.Holmgren, L.M.Cameron, R.L.Johnston
+#REF-CODE   (J,PR,125,648,1962)
+#REFERENCE  Phys.Rev. 125 (1962) 648
+#DATASETS   0
+#
+#DATASET    C3023005 
+#DATE       20241218
+#REACTION   6-C-12(T,P)6-C-14,PAR,DA
+#PROJ       1003
+#TARG       6012
+#MF         4
+#MT         600
+#PRODUCT    6-C-14
+#C4BEGIN    [ 1003  6012   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  6012   4 600  C 900000.0          1.5320-3          0.999980          0.000000         LVLG.D.Gutsche+         (62)C3023  5 
+ 1003  6012   4 600  C 900000.0          1.4260-3 1.5860-4 0.984625          0.000000         LVLG.D.Gutsche+         (62)C3023  5 
+ 1003  6012   4 600  C 900000.0          1.3120-3 1.5260-4 0.934615          0.000000         LVLG.D.Gutsche+         (62)C3023  5 
+ 1003  6012   4 600  C 900000.0          1.2640-3 1.3420-4 0.854223          0.000000         LVLG.D.Gutsche+         (62)C3023  5 
+ 1003  6012   4 600  C 900000.0          1.2110-3 1.0410-4 0.618929          0.000000         LVLG.D.Gutsche+         (62)C3023  5 
+ 1003  6012   4 600  C 900000.0          1.0560-3 9.0710-5 0.305247          0.000000         LVLG.D.Gutsche+         (62)C3023  5 
+ 1003  6012   4 600  C 900000.0          6.7550-4 5.8040-5-0.034603          0.000000         LVLG.D.Gutsche+         (62)C3023  5 
+ 1003  6012   4 600  C 900000.0          2.6670-4 1.7390-5-0.377146          0.000000         LVLG.D.Gutsche+         (62)C3023  5 
+ 1003  6012   4 600  C 900000.0          1.8850-4 2.0980-5-0.521039          0.000000         LVLG.D.Gutsche+         (62)C3023  5 
+ 1003  6012   4 600  C 900000.0          1.8050-4 2.0930-5-0.657112          0.000000         LVLG.D.Gutsche+         (62)C3023  5 
+ 1003  6012   4 600  C 900000.0          6.3060-4 6.7000-5-0.958735          0.000000         LVLG.D.Gutsche+         (62)C3023  5 
+#/DATA      11
+#/DATASET

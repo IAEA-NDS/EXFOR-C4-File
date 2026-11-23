@@ -1,0 +1,35 @@
+#ENTRY      C3024
+#AUTHOR1    A.Sandoval+
+#YEAR       1980
+#INSTITUTE  (1USABRK)
+#TITLE      Spectra of p, d, and t from relativistic nuclear
+#+          collisions
+#AUTHOR(S)  A.Sandoval, H.H.Gutbrod, W.G.Meyer, R.Stock, C.Lukner, A.M.Poskanzer, 
+#+          J.Gosset, J.-C.Jourdain, C.H.King, G.King, Nguyen Van Sen, 
+#+          G.D.Westfall, K.L.Wolf
+#REF-CODE   (J,PR/C,21,1321,1980)
+#REFERENCE  Phys.Rev.C 21 (1980) 1321
+#DATASETS   0
+#
+#DATASET    C3024024 
+#DATE       20250207
+#REACTION   92-U-238(A,X)1-H-3,,DA/DE
+#PROJ       2004
+#TARG       92238
+#MF         6
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [ 2004 92238   6 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 92238   6 205    1.5960+9          1.0300-9 4.000-11-0.342020          6.0000+7          E2A.Sandoval           (80)C3024 24 
+ 2004 92238   6 205    1.5960+9          3.410-10 1.700-11-0.342020          8.4000+7          E2A.Sandoval           (80)C3024 24 
+ 2004 92238   6 205    1.5960+9          1.680-10 1.100-11-0.342020          1.0800+8          E2A.Sandoval           (80)C3024 24 
+ 2004 92238   6 205    1.5960+9          6.710-11 7.100-12-0.342020          1.3200+8          E2A.Sandoval           (80)C3024 24 
+ 2004 92238   6 205    1.5960+9          3.160-11 4.900-12-0.342020          1.5600+8          E2A.Sandoval           (80)C3024 24 
+ 2004 92238   6 205    1.5960+9          1.940-11 6.600-12-0.342020          1.8000+8          E2A.Sandoval           (80)C3024 24 
+ 2004 92238   6 205    1.5960+9          6.340-12 2.600-12-0.342020          2.0400+8          E2A.Sandoval           (80)C3024 24 
+ 2004 92238   6 205    1.5960+9          2.850-12 1.170-12-0.342020          2.2800+8          E2A.Sandoval           (80)C3024 24 
+#/DATA      8
+#/DATASET

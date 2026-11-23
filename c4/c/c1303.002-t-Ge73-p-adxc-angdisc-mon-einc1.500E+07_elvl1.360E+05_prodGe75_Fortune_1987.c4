@@ -1,0 +1,34 @@
+#ENTRY      C1303
+#AUTHOR1    H.T.Fortune+
+#YEAR       1987
+#INSTITUTE  (1USAPEN)
+#TITLE      73Ge(t,p)75Ge at Et=15.0 MeV
+#AUTHOR(S)  H.T.Fortune, M.Burlein, D.L.Watson
+#REF-CODE   (J,PR/C,36,959,1987)
+#REFERENCE  Phys.Rev.C 36 (1987) 959
+#DATASETS   0
+#
+#DATASET    C1303002 
+#DATE       20050808
+#REACTION   32-GE-73(T,P)32-GE-75,PAR,DA
+#PROJ       1003
+#TARG       32073
+#MF         4
+#MT         600
+#PRODUCT    32-GE-75
+#C4BEGIN    [ 1003 32073   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 32073   4 600  C 1.5000+7          9.8800-6          0.971961          136000.0         LVLH.T.Fortune+         (87)C1303  2 
+ 1003 32073   4 600  C 1.5000+7          1.2300-5          0.936060          136000.0         LVLH.T.Fortune+         (87)C1303  2 
+ 1003 32073   4 600  C 1.5000+7          1.0100-5          0.880477          136000.0         LVLH.T.Fortune+         (87)C1303  2 
+ 1003 32073   4 600  C 1.5000+7          5.7600-6          0.805928          136000.0         LVLH.T.Fortune+         (87)C1303  2 
+ 1003 32073   4 600  C 1.5000+7          6.1700-6          0.727773          136000.0         LVLH.T.Fortune+         (87)C1303  2 
+ 1003 32073   4 600  C 1.5000+7          4.3400-6          0.633381          136000.0         LVLH.T.Fortune+         (87)C1303  2 
+ 1003 32073   4 600  C 1.5000+7          1.8900-6 3.9900-7 0.522499          136000.0         LVLH.T.Fortune+         (87)C1303  2 
+ 1003 32073   4 600  C 1.5000+7          1.4900-6 2.8000-7 0.413104          136000.0         LVLH.T.Fortune+         (87)C1303  2 
+ 1003 32073   4 600  C 1.5000+7          9.3500-7 1.7600-7 0.289032          136000.0         LVLH.T.Fortune+         (87)C1303  2 
+ 1003 32073   4 600  C 1.5000+7          9.2800-7 1.9600-7 0.158158          136000.0         LVLH.T.Fortune+         (87)C1303  2 
+#/DATA      10
+#/DATASET

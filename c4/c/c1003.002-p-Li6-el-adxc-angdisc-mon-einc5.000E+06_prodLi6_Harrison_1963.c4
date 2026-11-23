@@ -1,0 +1,33 @@
+#ENTRY      C1003
+#AUTHOR1    W.D.Harrison+
+#YEAR       1963
+#INSTITUTE  (1USACAL)
+#TITLE      Elastic Scattering of Protons by Li6
+#AUTHOR(S)  W.D.Harrison, A.B.Whirehead
+#REF-CODE   (J,PR,132,2607,196312)
+#REFERENCE  Phys.Rev. 132 (1963) 2607
+#DATASETS   0
+#
+#DATASET    C1003002 
+#DATE       20040325
+#REACTION   3-LI-6(P,EL)3-LI-6,,DA
+#PROJ       1001
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 1001  3006   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3006   4   2  C 5000000.          0.121000 0.018150 0.576432                              W.D.Harrison+        (63)C1003  2 
+ 1001  3006   4   2  C 5000000.          0.100000 7.0000-3 0.447759                              W.D.Harrison+        (63)C1003  2 
+ 1001  3006   4   2  C 5000000.          0.061000 4.2700-3 0.166769                              W.D.Harrison+        (63)C1003  2 
+ 1001  3006   4   2  C 5000000.          0.047000 3.2900-3 6.123-17                              W.D.Harrison+        (63)C1003  2 
+ 1001  3006   4   2  C 5000000.          0.046000 2.7600-3-0.166769                              W.D.Harrison+        (63)C1003  2 
+ 1001  3006   4   2  C 5000000.          0.041500 2.0750-3-0.446198                              W.D.Harrison+        (63)C1003  2 
+ 1001  3006   4   2  C 5000000.          0.041100 2.0550-3-0.577858                              W.D.Harrison+        (63)C1003  2 
+ 1001  3006   4   2  C 5000000.          0.043400 2.1700-3-0.773840                              W.D.Harrison+        (63)C1003  2 
+ 1001  3006   4   2  C 5000000.          0.055000 2.7500-3-0.957822                              W.D.Harrison+        (63)C1003  2 
+#/DATA      9
+#/DATASET

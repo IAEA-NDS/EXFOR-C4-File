@@ -1,0 +1,45 @@
+#ENTRY      C2624
+#AUTHOR1    C.A.Goulding+
+#YEAR       1979
+#INSTITUTE  (1USAFSU)
+#TITLE      Comparison of the 12C(p,n)12N and 12C(p,p') reactions
+#+          at Ep = 62 and 120 MeV
+#AUTHOR(S)  C.A.Goulding, M.B.Greenfield, C.C.Foster, T.E.Ward, J.Rapaport, 
+#+          D.E.Bainum, C.D.Goodman
+#REF-CODE   (J,NP/A,331,29,1979)
+#REFERENCE  Nucl.Phys.A 331 (1979) 29
+#DATASETS   0
+#
+#DATASET    C2624004 
+#DATE       20210913
+#REACTION   6-C-12(P,INL)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         601
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 601  C 6.1800+7          1.3740-3          0.994645          1.5110+7         LVLC.A.Goulding+        (79)C2624  4 
+ 1001  6012   4 601  C 6.1800+7          1.2780-3          0.989599          1.5110+7         LVLC.A.Goulding+        (79)C2624  4 
+ 1001  6012   4 601  C 6.1800+7          1.1530-3          0.981988          1.5110+7         LVLC.A.Goulding+        (79)C2624  4 
+ 1001  6012   4 601  C 6.1800+7          1.0240-3          0.975184          1.5110+7         LVLC.A.Goulding+        (79)C2624  4 
+ 1001  6012   4 601  C 6.1800+7          9.5940-4          0.965844          1.5110+7         LVLC.A.Goulding+        (79)C2624  4 
+ 1001  6012   4 601  C 6.1800+7          8.4210-4          0.955010          1.5110+7         LVLC.A.Goulding+        (79)C2624  4 
+ 1001  6012   4 601  C 6.1800+7          7.4480-4          0.943691          1.5110+7         LVLC.A.Goulding+        (79)C2624  4 
+ 1001  6012   4 601  C 6.1800+7          6.4130-4          0.928997          1.5110+7         LVLC.A.Goulding+        (79)C2624  4 
+ 1001  6012   4 601  C 6.1800+7          5.6280-4          0.914254          1.5110+7         LVLC.A.Goulding+        (79)C2624  4 
+ 1001  6012   4 601  C 6.1800+7          5.0170-4          0.899054          1.5110+7         LVLC.A.Goulding+        (79)C2624  4 
+ 1001  6012   4 601  C 6.1800+7          4.3350-4          0.882209          1.5110+7         LVLC.A.Goulding+        (79)C2624  4 
+ 1001  6012   4 601  C 6.1800+7          3.8350-4          0.863677          1.5110+7         LVLC.A.Goulding+        (79)C2624  4 
+ 1001  6012   4 601  C 6.1800+7          3.0670-4          0.844328          1.5110+7         LVLC.A.Goulding+        (79)C2624  4 
+ 1001  6012   4 601  C 6.1800+7          2.7770-4          0.820072          1.5110+7         LVLC.A.Goulding+        (79)C2624  4 
+ 1001  6012   4 601  C 6.1800+7          2.4660-4          0.797731          1.5110+7         LVLC.A.Goulding+        (79)C2624  4 
+ 1001  6012   4 601  C 6.1800+7          2.0580-4          0.771724          1.5110+7         LVLC.A.Goulding+        (79)C2624  4 
+ 1001  6012   4 601  C 6.1800+7          1.7720-4          0.751460          1.5110+7         LVLC.A.Goulding+        (79)C2624  4 
+ 1001  6012   4 601  C 6.1800+7          1.4620-4          0.727102          1.5110+7         LVLC.A.Goulding+        (79)C2624  4 
+ 1001  6012   4 601  C 6.1800+7          1.2100-4          0.701780          1.5110+7         LVLC.A.Goulding+        (79)C2624  4 
+#/DATA      19
+#/DATASET

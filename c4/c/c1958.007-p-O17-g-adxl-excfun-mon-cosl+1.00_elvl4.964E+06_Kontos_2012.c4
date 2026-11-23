@@ -1,0 +1,28 @@
+#ENTRY      C1958
+#AUTHOR1    A.Kontos+
+#YEAR       2012
+#INSTITUTE  (1USANOT)
+#TITLE      Proton capture on 17-O and its astrophysical
+#+          implications
+#AUTHOR(S)  A.Kontos, J.Gorres, A.Best, M.Couder, R.deBoer, G.Imbriani, 
+#+          Q.Li, D.Robertson, D.Schurmann, E.Stech, E.Uberseder, M.Wiescher
+#REF-CODE   (J,PR/C,86,055801,2012)
+#REFERENCE  Phys.Rev.C 86 (2012) 055801
+#DATASETS   0
+#
+#DATASET    C1958007 
+#DATE       20130115
+#REACTION   8-O-17(P,G)9-F-18,PAR,DA
+#PROJ       1001
+#TARG       8017
+#MF         4
+#MT         900
+#PRODUCT    9-F-18
+#C4BEGIN    [ 1001  8017   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8017   4 900    1181100.          1.1200-8 3.4600-9 1.000000          4964000.         LVLA.Kontos+            (12)C1958  7 
+ 1001  8017   4 900    1626000.          2.6400-8 5.9100-9 1.000000          4964000.         LVLA.Kontos+            (12)C1958  7 
+#/DATA      2
+#/DATASET

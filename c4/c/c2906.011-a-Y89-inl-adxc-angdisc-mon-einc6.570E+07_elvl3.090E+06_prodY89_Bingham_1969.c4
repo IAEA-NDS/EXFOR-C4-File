@@ -1,0 +1,29 @@
+#ENTRY      C2906
+#AUTHOR1    C.R.Bingham+
+#YEAR       1969
+#INSTITUTE  (1USATEN)
+#TITLE      Scattering of 65-MeV alpha particles from 89Y, 92Zr,
+#+          94Zr, 96Zr, and 116Sn
+#AUTHOR(S)  C.R.Bingham, M.L.Halbert, A.R.Quinton
+#REF-CODE   (J,PR,180,1197,1969)
+#REFERENCE  Phys.Rev. 180 (1969) 1197
+#DATASETS   0
+#
+#DATASET    C2906011 
+#DATE       20231107
+#REACTION   39-Y-89(A,INL)39-Y-89,PAR,DA
+#PROJ       2004
+#TARG       39089
+#MF         4
+#MT         801
+#PRODUCT    39-Y-89
+#C4BEGIN    [ 2004 39089   4 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 39089   4 801  C 6.5700+7          9.3030-5          0.810952          3090000.         LVLC.R.Bingham+         (69)C2906 11 
+ 2004 39089   4 801  C 6.5700+7          9.0900-5          0.800846          3090000.         LVLC.R.Bingham+         (69)C2906 11 
+ 2004 39089   4 801  C 6.5700+7          9.2600-5          0.790615          3090000.         LVLC.R.Bingham+         (69)C2906 11 
+ 2004 39089   4 801  C 6.5700+7          1.0260-4          0.779611          3090000.         LVLC.R.Bingham+         (69)C2906 11 
+#/DATA      4
+#/DATASET

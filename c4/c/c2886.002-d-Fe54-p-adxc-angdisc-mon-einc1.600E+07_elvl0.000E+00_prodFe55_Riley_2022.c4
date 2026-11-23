@@ -1,0 +1,35 @@
+#ENTRY      C2886
+#AUTHOR1    L.A.Riley+
+#YEAR       2022
+#INSTITUTE  (1USAURS)
+#TITLE      54Fe(d,p)55Fe and the evolution of single neutron
+#+          energies in the N = 29 isotones
+#AUTHOR(S)  L.A.Riley, I.C.S.Hay, L.T.Baby, A.L.Conley, P.D.Cottle, 
+#+          J.Esparza, K.Hanselman, B.Kelly, K.W.Kemper, K.T.Macon, 
+#+          G.W.McCann, M.W.Quirin, R.Renom, R.L.Saunders, M.Spieker, 
+#+          I.Wiedenhover
+#REF-CODE   (J,PR/C,106,064308,2022)
+#REFERENCE  Phys.Rev.C 106 (2022) 064308
+#DATASETS   0
+#
+#DATASET    C2886002 
+#DATE       20230123
+#REACTION   26-FE-54(D,P)26-FE-55,PAR,DA
+#PROJ       1002
+#TARG       26054
+#MF         4
+#MT         600
+#PRODUCT    26-FE-55
+#C4BEGIN    [ 1002 26054   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 26054   4 600  C 1.6000+7          5.0700-3 1.2700-4 0.937099          0.000000         LVLL.A.Riley+           (22)C2886  2 
+ 1002 26054   4 600  C 1.6000+7          1.5700-3 6.0200-5 0.902285          0.000000         LVLL.A.Riley+           (22)C2886  2 
+ 1002 26054   4 600  C 1.6000+7          1.0100-3 4.0800-5 0.860475          0.000000         LVLL.A.Riley+           (22)C2886  2 
+ 1002 26054   4 600  C 1.6000+7          1.6500-3 5.9700-5 0.811778          0.000000         LVLL.A.Riley+           (22)C2886  2 
+ 1002 26054   4 600  C 1.6000+7          1.4600-3 5.4300-5 0.756767          0.000000         LVLL.A.Riley+           (22)C2886  2 
+ 1002 26054   4 600  C 1.6000+7          9.0900-4 3.7500-5 0.695913          0.000000         LVLL.A.Riley+           (22)C2886  2 
+ 1002 26054   4 600  C 1.6000+7          3.5900-4 2.4300-5 0.629727          0.000000         LVLL.A.Riley+           (22)C2886  2 
+#/DATA      7
+#/DATASET

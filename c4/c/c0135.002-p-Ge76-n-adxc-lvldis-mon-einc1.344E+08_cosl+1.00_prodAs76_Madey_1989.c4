@@ -1,0 +1,39 @@
+#ENTRY      C0135
+#AUTHOR1    R.Madey+
+#YEAR       1989
+#INSTITUTE  (1USAINU)
+#TITLE      Low-lying structures in the Gamow-Teller strength
+#+          functions for the double-beta-decaying nuclei of 76Ge,
+#+          82Se, 128Te, and 130Te
+#AUTHOR(S)  R.Madey, B.S.Flanders, B.D.Anderson, A.R.Baldwin, J.W.Watson, 
+#+          S.M.Austin, C.C.Foster, H.V.Klapdor, K.Grotz
+#REF-CODE   (J,PR/C,40,540,198908)
+#REFERENCE  Phys.Rev.C 40 (1989) 540
+#DATASETS   0
+#
+#DATASET    C0135002 
+#DATE       19980831
+#REACTION   32-GE-76(P,N)33-AS-76,PAR,DA
+#PROJ       1001
+#TARG       32076
+#MF         4
+#MT         50
+#PRODUCT    33-AS-76
+#C4BEGIN    [ 1001 32076   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 32076   4  50  C 1.3440+8          5.5000-4 2.0000-5 0.997564          50000.00         LVLR.Madey+             (89)C0135  2 
+ 1001 32076   4  50  C 1.3440+8          8.6000-4 2.0000-5 0.997564          990000.0         LVLR.Madey+             (89)C0135  2 
+ 1001 32076   4  50  C 1.3440+8          4.7000-4 2.0000-5 0.997564          1720000.         LVLR.Madey+             (89)C0135  2 
+ 1001 32076   4  50  C 1.3440+8          1.3300-3 5.0000-5 0.997564          2650000.         LVLR.Madey+             (89)C0135  2 
+ 1001 32076   4  50  C 1.3440+8          1.2800-3 6.0000-5 0.997564          3680000.         LVLR.Madey+             (89)C0135  2 
+ 1001 32076   4  50  C 1.3440+8          8.2000-3 2.0000-4 0.997564          5480000.         LVLR.Madey+             (89)C0135  2 
+ 1001 32076   4  50  C 1.3440+8          5.7100-3 2.5000-4 0.997564          8060000.         LVLR.Madey+             (89)C0135  2 
+ 1001 32076   4  50  C 1.3440+8          5.1100-3 5.0000-5 0.997564          8240000.         LVLR.Madey+             (89)C0135  2 
+ 1001 32076   4  50  C 1.3440+8          0.030190 5.1000-4 0.997564          1.1130+7         LVLR.Madey+             (89)C0135  2 
+ 1001 32076   4  50  C 1.3440+8          0.013000 3.1000-4 0.997564          1.6600+7         LVLR.Madey+             (89)C0135  2 
+ 1001 32076   4  50  C 1.3440+8          0.014690 2.2000-4 0.997564          2.0330+7         LVLR.Madey+             (89)C0135  2 
+ 1001 32076   4  50  C 1.3440+8          6.5200-3 1.6000-4 0.997564          2.4810+7         LVLR.Madey+             (89)C0135  2 
+#/DATA      12
+#/DATASET

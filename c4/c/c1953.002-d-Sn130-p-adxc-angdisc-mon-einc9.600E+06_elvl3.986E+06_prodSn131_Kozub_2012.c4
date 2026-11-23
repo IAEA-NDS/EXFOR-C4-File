@@ -1,0 +1,36 @@
+#ENTRY      C1953
+#AUTHOR1    R.L.Kozub+
+#YEAR       2012
+#INSTITUTE  (1USATTU)
+#TITLE      Neutron Single Particle Structure in 131Sn and Direct
+#+          Neutron Capture Cross Sections
+#AUTHOR(S)  R.L.Kozub, G.Arbanas, A.S.Adekola, D.W.Bardayan, J.C.Blackmon, 
+#+          K.Y.Chae, K.A.Chipps, J.A.Cizewski, L.Erikson, R.Hatarik, 
+#+          W.R.Hix, K.L.Jones, W.Krolas, J.F.Liang, Z.Ma, C.Matei, 
+#+          B.H.Moazen, C.D.Nesaraja, S.D.Pain, D.Shapira, J.F.Shriner Jr, 
+#+          M.S.Smith, T.P.Swan
+#REF-CODE   (J,PRL,109,172501,2012)
+#REFERENCE  Phys.Rev.Lett. 109 (2012) 172501
+#DATASETS   0
+#
+#DATASET    C1953002 
+#DATE       20121102
+#REACTION   (1-H-2(50-SN-130,P)50-SN-131,PAR,DA,RSD)=(50-SN-130(D,P)50-SN-131,PAR,DA)
+#PROJ       1002
+#TARG       50130
+#MF         4
+#MT         600
+#PRODUCT    50-SN-131
+#C4BEGIN    [ 1002 50130   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50130   4 600  C 9600000.          7.0000-3 9.0000-4 0.891007          3986000.         LVLR.L.Kozub+           (12)C1953  2 
+ 1002 50130   4 600  C 9600000.          6.0000-3 7.0000-4 0.860742          3986000.         LVLR.L.Kozub+           (12)C1953  2 
+ 1002 50130   4 600  C 9600000.          5.3000-3 6.0000-4 0.823136          3986000.         LVLR.L.Kozub+           (12)C1953  2 
+ 1002 50130   4 600  C 9600000.          6.4000-3 1.0000-3 0.718126          3986000.         LVLR.L.Kozub+           (12)C1953  2 
+ 1002 50130   4 600  C 9600000.          6.8000-3 9.0000-4 0.649448          3986000.         LVLR.L.Kozub+           (12)C1953  2 
+ 1002 50130   4 600  C 9600000.          7.8000-3 9.0000-4 0.567844          3986000.         LVLR.L.Kozub+           (12)C1953  2 
+ 1002 50130   4 600  C 9600000.          7.2000-3 9.0000-4 0.472551          3986000.         LVLR.L.Kozub+           (12)C1953  2 
+#/DATA      7
+#/DATASET

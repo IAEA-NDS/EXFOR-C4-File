@@ -1,0 +1,32 @@
+#ENTRY      C0144
+#AUTHOR1    B.S.Flanders+
+#YEAR       1991
+#INSTITUTE  (1USAAMW)
+#TITLE      Empirical density-dependent effective interaction for
+#+          nucleon-nucleus scattering at 500 MeV
+#AUTHOR(S)  B.S.Flanders, J.J.Kelly, H.Seifert, D.Lopiano, B.Aas, A.Azizi, 
+#+          G.Igo, G.Weston, C.Whitten, A.Wong, M.V.Hynes, J.McClelland, 
+#+          W.Bertozzi, J.M.Finn, C.E.Hyde-Wright, R.W.Lourie, B.E.Norum, 
+#+          P.Ulmer, B.L.Berman
+#REF-CODE   (J,PR/C,43,2103,199105)
+#REFERENCE  Phys.Rev.C 43 (1991) 2103
+#DATASETS   0
+#
+#DATASET    C0144005 
+#DATE       19970415
+#REACTION   8-O-16(P,INL)8-O-16,PAR,DA
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         601
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  8016   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4 601 AC 4.9750+8          2.8200-5 5.0506-6 0.935011          8872000.         LVLB.S.Flanders+        (91)C0144  5 
+ 1001  8016   4 601 AC 4.9750+8          4.5910-6 1.1298-6 0.905421          8872000.         LVLB.S.Flanders+        (91)C0144  5 
+ 1001  8016   4 601 AC 4.9750+8          3.7120-6 3.0401-7 0.851361          8872000.         LVLB.S.Flanders+        (91)C0144  5 
+ 1001  8016   4 601 AC 4.9750+8          3.8880-6 3.2892-7 0.830984          8872000.         LVLB.S.Flanders+        (91)C0144  5 
+#/DATA      4
+#/DATASET

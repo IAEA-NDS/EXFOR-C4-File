@@ -1,0 +1,29 @@
+#ENTRY      C0129
+#AUTHOR1    J.Z.Williams+
+#YEAR       1994
+#INSTITUTE  (1USADKE)
+#TITLE      Radiative capture of polarized deuterons by 6Li and
+#+          the D-state of 8Be
+#AUTHOR(S)  J.Z.Williams, G.Feldman, H.R.Weller, D.R.Tilley
+#REF-CODE   (J,NP/A,577,653,199409)
+#REFERENCE  Nucl.Phys.A 577 (1994) 653
+#DATASETS   0
+#
+#DATASET    C0129009 
+#DATE       20111117
+#REACTION   3-LI-6(D,G)4-BE-8,PAR,DA
+#PROJ       1002
+#TARG       3006
+#MF         4
+#MT         900
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 1002  3006   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3006   4 900  C 7000000.          2.4110-8 2.2500-9-0.642788 0.090916 0.000000         LVLJ.Z.Williams+        (94)C0129  9 
+ 1002  3006   4 900  C 9000000.          1.5950-8 4.000-10-0.642788 0.090916 0.000000         LVLJ.Z.Williams+        (94)C0129  9 
+ 1002  3006   4 900  C 1.2000+7          7.8310-9 1.1650-9-0.642788 0.090916 0.000000         LVLJ.Z.Williams+        (94)C0129  9 
+ 1002  3006   4 900  C 1.4000+7          4.4540-9 4.090-10-0.642788 0.090916 0.000000         LVLJ.Z.Williams+        (94)C0129  9 
+#/DATA      4
+#/DATASET

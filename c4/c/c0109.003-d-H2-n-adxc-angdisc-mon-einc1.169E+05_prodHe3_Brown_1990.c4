@@ -1,0 +1,31 @@
+#ENTRY      C0109
+#AUTHOR1    R.E.Brown+
+#YEAR       1990
+#INSTITUTE  (1USALAS)
+#TITLE      Differential cross sections at low energies for
+#+          2H(d,p)3H and 2H(d,n)3He
+#AUTHOR(S)  R.E.Brown, N.Jarmie
+#REF-CODE   (J,PR/C,41,1391,1990)
+#REFERENCE  Phys.Rev.C 41 (1990) 1391
+#DATASETS   0
+#
+#DATASET    C0109003 
+#DATE       20260122
+#REACTION   1-H-2(D,N)2-HE-3,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1002  1002   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4   4  C 116909.0 15.00000 2.2520-3 4.1000-5 0.914960 0.022538                     R.E.Brown+           (90)C0109  3 
+ 1002  1002   4   4  C 116909.0 15.00000 1.6940-3 4.2000-5 0.661312 0.041894                     R.E.Brown+           (90)C0109  3 
+ 1002  1002   4   4  C 116909.0 15.00000 1.3040-3 3.3000-5 0.221548 0.054463                     R.E.Brown+           (90)C0109  3 
+ 1002  1002   4   4  C 116909.0 15.00000 1.2120-3 3.2000-5-0.031411 0.055823                     R.E.Brown+           (90)C0109  3 
+ 1002  1002   4   4  C 116909.0 15.00000 1.6210-3 2.5000-5-0.576432 0.045638                     R.E.Brown+           (90)C0109  3 
+ 1002  1002   4   4  C 116909.0 15.00000 1.6080-3 2.6000-5-0.590606 0.045069                     R.E.Brown+           (90)C0109  3 
+#/DATA      6
+#/DATASET

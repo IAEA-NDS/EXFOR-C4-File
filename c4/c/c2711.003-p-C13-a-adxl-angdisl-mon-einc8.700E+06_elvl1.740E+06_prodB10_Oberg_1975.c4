@@ -1,0 +1,39 @@
+#ENTRY      C2711
+#AUTHOR1    D.L.Oberg+
+#YEAR       1975
+#INSTITUTE  (1USAWAU)
+#TITLE      Production of 6Li, 9Be, and 10B in p+13C reactions at
+#+          low energies
+#AUTHOR(S)  D.L.Oberg, D.Bodansky, D.Chamberlin, W.W.Jacobs
+#REF-CODE   (J,PR/C,11,410,1975)
+#REFERENCE  Phys.Rev.C 11 (1975) 410
+#DATASETS   0
+#
+#DATASET    C2711003 
+#DATE       20220305
+#REACTION   6-C-13(P,A)5-B-10,PAR,DA
+#PROJ       1001
+#TARG       6013
+#MF         4
+#MT         800
+#PRODUCT    5-B-10
+#C4BEGIN    [ 1001  6013   4 800 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6013   4 800 C  8700000.          2.5880-3          0.934466          1740000.         LVLD.L.Oberg+           (75)C2711  3 
+ 1001  6013   4 800 C  8700000.          1.4080-3          0.855274          1740000.         LVLD.L.Oberg+           (75)C2711  3 
+ 1001  6013   4 800 C  8700000.          1.4240-3          0.751218          1740000.         LVLD.L.Oberg+           (75)C2711  3 
+ 1001  6013   4 800 C  8700000.          1.3810-3          0.623907          1740000.         LVLD.L.Oberg+           (75)C2711  3 
+ 1001  6013   4 800 C  8700000.          1.8450-3          0.481111          1740000.         LVLD.L.Oberg+           (75)C2711  3 
+ 1001  6013   4 800 C  8700000.          1.7000-3          0.319985          1740000.         LVLD.L.Oberg+           (75)C2711  3 
+ 1001  6013   4 800 C  8700000.          1.5660-3          0.153089          1740000.         LVLD.L.Oberg+           (75)C2711  3 
+ 1001  6013   4 800 C  8700000.          1.2750-3         -0.026770          1740000.         LVLD.L.Oberg+           (75)C2711  3 
+ 1001  6013   4 800 C  8700000.          1.0810-3         -0.185169          1740000.         LVLD.L.Oberg+           (75)C2711  3 
+ 1001  6013   4 800 C  8700000.          8.5310-4         -0.366388          1740000.         LVLD.L.Oberg+           (75)C2711  3 
+ 1001  6013   4 800 C  8700000.          6.6620-4         -0.520324          1740000.         LVLD.L.Oberg+           (75)C2711  3 
+ 1001  6013   4 800 C  8700000.          6.7390-4         -0.767154          1740000.         LVLD.L.Oberg+           (75)C2711  3 
+ 1001  6013   4 800 C  8700000.          6.4700-4         -0.869788          1740000.         LVLD.L.Oberg+           (75)C2711  3 
+ 1001  6013   4 800 C  8700000.          7.3320-4         -0.985217          1740000.         LVLD.L.Oberg+           (75)C2711  3 
+#/DATA      14
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      C0546
+#AUTHOR1    J.Kalen+
+#YEAR       1989
+#INSTITUTE  (1USAOSU)
+#TITLE      Radiative proton capture to excited states in 16O
+#AUTHOR(S)  J.Kalen, H.J.Hausman, A.Abduljalil, W.Kim, D.G.Marchlenski, 
+#+          J.P.McDermott, T.W.Rackers, S.L.Blatt, M.A.Kovash, A.D.Bacher
+#REF-CODE   (J,PR/C,39,340,198902)
+#REFERENCE  Phys.Rev.C 39 (1989) 340
+#DATASETS   0
+#
+#DATASET    C0546002 
+#DATE       19990729
+#REACTION   7-N-15(P,G)8-O-16,PAR,DA
+#PROJ       1001
+#TARG       7015
+#MF         4
+#MT         900
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  7015   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7015   4 900    2.0800+7          1.9270-6 3.8400-7 0.500000          0.000000         LVLJ.Kalen+             (89)C0546  2 
+ 1001  7015   4 900    2.1800+7          2.3710-6 4.7400-7 0.500000          0.000000         LVLJ.Kalen+             (89)C0546  2 
+ 1001  7015   4 900    2.4640+7          1.3780-6 2.7600-7 0.500000          0.000000         LVLJ.Kalen+             (89)C0546  2 
+ 1001  7015   4 900    2.8600+7          1.1900-6 2.3800-7 0.500000          0.000000         LVLJ.Kalen+             (89)C0546  2 
+ 1001  7015   4 900    2.9800+7          1.1660-6 2.3300-7 0.500000          0.000000         LVLJ.Kalen+             (89)C0546  2 
+ 1001  7015   4 900    3.6400+7          4.1300-7 8.3000-8 0.500000          0.000000         LVLJ.Kalen+             (89)C0546  2 
+ 1001  7015   4 900    4.4200+7          3.4600-7 7.0000-8 0.500000          0.000000         LVLJ.Kalen+             (89)C0546  2 
+ 1001  7015   4 900    4.4500+7          3.6300-7 7.3000-8 0.500000          0.000000         LVLJ.Kalen+             (89)C0546  2 
+ 1001  7015   4 900    4.9690+7          3.4100-7 6.8000-8 0.500000          0.000000         LVLJ.Kalen+             (89)C0546  2 
+ 1001  7015   4 900    6.9100+7          7.2000-8 1.4000-8 0.500000          0.000000         LVLJ.Kalen+             (89)C0546  2 
+ 1001  7015   4 900    8.9300+7          2.6000-8 5.0000-9 0.500000          0.000000         LVLJ.Kalen+             (89)C0546  2 
+#/DATA      11
+#/DATASET

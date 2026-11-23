@@ -1,0 +1,36 @@
+#ENTRY      C0534
+#AUTHOR1    M.Drosg+
+#YEAR       1982
+#INSTITUTE  (1USALAS)
+#TITLE      Differential Cross Sections of the Reaction 4He(t,n)6Li
+#+          between 8.5 and 16.5 MeV and the n-6Li Cross-Section
+#+          Standard
+#AUTHOR(S)  M.Drosg, D.M.Drake, R.A.Hardekopf, G.M.Hale
+#REF-CODE   (R,LA-9129,198201)
+#REFERENCE  Report LA-9129, 1982
+#DATASETS   0
+#
+#DATASET    C0534003 
+#DATE       19990701
+#REACTION   2-HE-4(T,N)3-LI-6,PAR,DA
+#PROJ       1003
+#TARG       2004
+#MF         4
+#MT         50
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 1003  2004   4  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  2004   4  50 A  8747000. 46000.00 0.242000 6.7760-3 1.000000          0.000000         LVLM.Drosg+             (82)C0534  3 
+ 1003  2004   4  50 A  8747000. 46000.00 0.235000 7.0500-3 0.998027          0.000000         LVLM.Drosg+             (82)C0534  3 
+ 1003  2004   4  50 A  8747000. 46000.00 0.223000 6.4670-3 0.991894          0.000000         LVLM.Drosg+             (82)C0534  3 
+ 1003  2004   4  50 A  8747000. 46000.00 0.199000 5.9700-3 0.981959          0.000000         LVLM.Drosg+             (82)C0534  3 
+ 1003  2004   4  50 A  8747000. 46000.00 0.173000 5.0170-3 0.968583          0.000000         LVLM.Drosg+             (82)C0534  3 
+ 1003  2004   4  50 A  8747000. 46000.00 0.146000 4.3800-3 0.952129          0.000000         LVLM.Drosg+             (82)C0534  3 
+ 1003  2004   4  50 A  8747000. 46000.00 0.123000 3.5670-3 0.932954          0.000000         LVLM.Drosg+             (82)C0534  3 
+ 1003  2004   4  50 A  8747000. 46000.00 0.098000 3.3320-3 0.911403          0.000000         LVLM.Drosg+             (82)C0534  3 
+ 1003  2004   4  50 A  8747000. 46000.00 0.084000 3.1080-3 0.889416          0.000000         LVLM.Drosg+             (82)C0534  3 
+ 1003  2004   4  50 A  8747000. 46000.00 0.085000 5.2700-3 0.866897          0.000000         LVLM.Drosg+             (82)C0534  3 
+#/DATA      10
+#/DATASET

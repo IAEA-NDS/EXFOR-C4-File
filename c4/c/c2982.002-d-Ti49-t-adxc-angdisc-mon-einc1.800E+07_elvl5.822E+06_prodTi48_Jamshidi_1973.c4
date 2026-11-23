@@ -1,0 +1,33 @@
+#ENTRY      C2982
+#AUTHOR1    A.Jamshidi+
+#YEAR       1973
+#INSTITUTE  (1USAROC)
+#TITLE      Shell-model structure of 48Ti studied via the (d,t)
+#+          and (alpha,alpha') reactions
+#AUTHOR(S)  A.Jamshidi, W.P.Alford
+#REF-CODE   (J,PR/C,8,1796,1973)
+#REFERENCE  Phys.Rev.C 8 (1973) 1796
+#DATASETS   0
+#
+#DATASET    C2982002 
+#DATE       20240907
+#REACTION   22-TI-49(D,T)22-TI-48,PAR,DA
+#PROJ       1002
+#TARG       22049
+#MF         4
+#MT         700
+#PRODUCT    22-TI-48
+#C4BEGIN    [ 1002 22049   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 22049   4 700  C 1.8000+7 5000.000 1.4900-4          0.990913          5822000.         LVLA.Jamshidi+          (73)C2982  2 
+ 1002 22049   4 700  C 1.8000+7 5000.000 1.1140-4          0.983480          5822000.         LVLA.Jamshidi+          (73)C2982  2 
+ 1002 22049   4 700  C 1.8000+7 5000.000 8.4340-5          0.974827          5822000.         LVLA.Jamshidi+          (73)C2982  2 
+ 1002 22049   4 700  C 1.8000+7 5000.000 5.3630-5          0.895867          5822000.         LVLA.Jamshidi+          (73)C2982  2 
+ 1002 22049   4 700  C 1.8000+7 5000.000 3.7420-5          0.852330          5822000.         LVLA.Jamshidi+          (73)C2982  2 
+ 1002 22049   4 700  C 1.8000+7 5000.000 1.7590-5          0.799349          5822000.         LVLA.Jamshidi+          (73)C2982  2 
+ 1002 22049   4 700  C 1.8000+7 5000.000 2.1940-5          0.743577          5822000.         LVLA.Jamshidi+          (73)C2982  2 
+ 1002 22049   4 700  C 1.8000+7 5000.000 3.6560-5          0.678942          5822000.         LVLA.Jamshidi+          (73)C2982  2 
+#/DATA      8
+#/DATASET

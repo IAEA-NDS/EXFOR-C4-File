@@ -1,0 +1,31 @@
+#ENTRY      C2728
+#AUTHOR1    E.Ubersedera+
+#YEAR       2016
+#INSTITUTE  (1USATAM)
+#TITLE      Nuclear structure beyond the neutron drip line: The
+#+          lowest energy states in 9He via their T =5/2 isobaric
+#+          analogs in 9Li
+#AUTHOR(S)  E.Ubersedera, G.V.Rogachev, V.Z.Goldberg, E.Koshchiy, B.T.Roeder, 
+#+          M.Alcorta, G.Chubarian, B.Davids, C.Fu, J.Hooker, H.Jayatissa, 
+#+          D.Melconian, R.E.Tribble
+#REF-CODE   (J,PL/B,754,323,2016)
+#REFERENCE  Phys.Lett.B 754 (2016) 323
+#DATASETS   0
+#
+#DATASET    C2728002 
+#DATE       20241030
+#REACTION   1-H-1(2-HE-8,EL)1-H-1,,DA
+#PROJ       2008
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [ 2008  1001   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2008  1001   4   2 A  3327750.          0.015003 1.0690-3-0.911395                              E.Ubersedera+        (16)C2728  2 
+ 2008  1001   4   2 A  3327750.          0.014413 1.0170-3-0.958540                              E.Ubersedera+        (16)C2728  2 
+ 2008  1001   4   2 A  3327750.          0.016819 1.0790-3-0.994147                              E.Ubersedera+        (16)C2728  2 
+#/DATA      3
+#/DATASET

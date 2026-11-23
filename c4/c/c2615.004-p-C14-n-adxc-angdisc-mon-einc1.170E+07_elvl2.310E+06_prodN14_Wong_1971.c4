@@ -1,0 +1,35 @@
+#ENTRY      C2615
+#AUTHOR1    C.Wong+
+#YEAR       1971
+#INSTITUTE  (1USALRL)
+#TITLE      Polarization and angular distribution of the neutrons
+#+          from 14C(p,n) reaction and the tensor force
+#AUTHOR(S)  C.Wong, J.D.Anderson, V.A.Madsen, F.A.Schmittroth, M.J.Stomp
+#REF-CODE   (J,PR/C,3,1904,1971)
+#REFERENCE  Phys.Rev.C 3 (1971) 1904
+#DATASETS   0
+#
+#DATASET    C2615004 
+#DATE       20210810
+#REACTION   6-C-14(P,N)7-N-14,PAR,DA
+#PROJ       1001
+#TARG       6014
+#MF         4
+#MT         50
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1001  6014   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6014   4  50  C 1.1700+7          3.0390-3 2.0860-4 0.992476          2310000.         LVLC.Wong+              (71)C2615  4 
+ 1001  6014   4  50  C 1.1700+7          1.5710-3 1.3990-4 0.939746          2310000.         LVLC.Wong+              (71)C2615  4 
+ 1001  6014   4  50  C 1.1700+7          3.5320-4 1.0050-4 0.815694          2310000.         LVLC.Wong+              (71)C2615  4 
+ 1001  6014   4  50  C 1.1700+7          7.0110-4 8.0620-5 0.625161          2310000.         LVLC.Wong+              (71)C2615  4 
+ 1001  6014   4  50  C 1.1700+7          2.6760-4 8.7920-5 0.383361          2310000.         LVLC.Wong+              (71)C2615  4 
+ 1001  6014   4  50  C 1.1700+7          5.2550-4 9.9950-5 0.111295          2310000.         LVLC.Wong+              (71)C2615  4 
+ 1001  6014   4  50  C 1.1700+7          3.0970-3 2.6340-4-0.166287          2310000.         LVLC.Wong+              (71)C2615  4 
+ 1001  6014   4  50  C 1.1700+7          4.1780-3 3.0630-4-0.416027          2310000.         LVLC.Wong+              (71)C2615  4 
+ 1001  6014   4  50  C 1.1700+7          3.1480-3 2.3080-4-0.616706          2310000.         LVLC.Wong+              (71)C2615  4 
+ 1001  6014   4  50  C 1.1700+7          2.5320-3 2.1540-4-0.785403          2310000.         LVLC.Wong+              (71)C2615  4 
+#/DATA      10
+#/DATASET

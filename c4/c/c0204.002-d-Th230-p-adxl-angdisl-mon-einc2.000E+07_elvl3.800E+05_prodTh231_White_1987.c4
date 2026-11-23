@@ -1,0 +1,40 @@
+#ENTRY      C0204
+#AUTHOR1    D.H.White+
+#YEAR       1987
+#INSTITUTE  (1USAPTN)
+#TITLE      Nuclear structure of Th-231 from neutron capture and
+#+          (d,p) reaction measurements.
+#AUTHOR(S)  D.H.White, H.G.Borner, R.W.Hoff, K.Schreckenbach, W.F.Davidson, 
+#+          T.Von egidy, D.D.Warner, P.Jeuch, G.Barreau, W.R.Kane, M.L.Stelts, 
+#+          R.E.Chrien, R.F.Casten, R.G.Lanier, R.W.Lougheed, R.T.Kouzes, 
+#+          R.A.Naumann, R.Dewberry
+#REF-CODE   (J,PR/C,35,81,1987)
+#REFERENCE  Phys.Rev.C 35 (1987) 81
+#DATASETS   0
+#
+#DATASET    C0204002 
+#DATE       20200508
+#REACTION   90-TH-230(D,P)90-TH-231,PAR,DA
+#PROJ       1002
+#TARG       90230
+#MF         4
+#MT         600
+#PRODUCT    90-TH-231
+#C4BEGIN    [ 1002 90230   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 90230   4 600 A  2.0000+7 10000.00 2.2000-5 5.5000-6 0.939693          380000.0         LVLD.H.White+           (87)C0204  2 
+ 1002 90230   4 600 A  2.0000+7 10000.00 3.4000-5 8.5000-6 0.906308          380000.0         LVLD.H.White+           (87)C0204  2 
+ 1002 90230   4 600 A  2.0000+7 10000.00 3.1000-5 7.7500-6 0.866025          380000.0         LVLD.H.White+           (87)C0204  2 
+ 1002 90230   4 600 A  2.0000+7 10000.00 1.6000-5 4.0000-6 0.819152          380000.0         LVLD.H.White+           (87)C0204  2 
+ 1002 90230   4 600 A  2.0000+7 10000.00 2.4000-5 6.0000-6 0.766044          380000.0         LVLD.H.White+           (87)C0204  2 
+ 1002 90230   4 600 A  2.0000+7 10000.00 2.5000-5 6.2500-6 0.707107          380000.0         LVLD.H.White+           (87)C0204  2 
+ 1002 90230   4 600 A  2.0000+7 10000.00 1.3000-5 3.2500-6 0.642788          380000.0         LVLD.H.White+           (87)C0204  2 
+ 1002 90230   4 600 A  2.0000+7 10000.00 1.4000-5 3.5000-6 0.573576          380000.0         LVLD.H.White+           (87)C0204  2 
+ 1002 90230   4 600 A  2.0000+7 10000.00 1.6000-5 4.0000-6 0.500000          380000.0         LVLD.H.White+           (87)C0204  2 
+ 1002 90230   4 600 A  2.0000+7 10000.00 1.2000-5 3.0000-6 0.422618          380000.0         LVLD.H.White+           (87)C0204  2 
+ 1002 90230   4 600 A  2.0000+7 10000.00 1.0000-5 2.5000-6 0.342020          380000.0         LVLD.H.White+           (87)C0204  2 
+ 1002 90230   4 600 A  2.0000+7 10000.00 1.0000-5 2.5000-6 0.258819          380000.0         LVLD.H.White+           (87)C0204  2 
+#/DATA      12
+#/DATASET

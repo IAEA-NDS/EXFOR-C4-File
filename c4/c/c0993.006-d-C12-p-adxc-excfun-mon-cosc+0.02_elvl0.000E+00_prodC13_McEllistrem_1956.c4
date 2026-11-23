@@ -1,0 +1,47 @@
+#ENTRY      C0993
+#AUTHOR1    M.T.McEllistrem+
+#YEAR       1956
+#INSTITUTE  (1USAWIS)
+#TITLE      Differential Cross Sections for C12(d,d)C12 and
+#+          C12(d,p)C13
+#AUTHOR(S)  M.T.McEllistrem, K.W.Jones, R.Chiba, R.A.Douglas, D.F.Herring, 
+#+          E.A.Silverstein
+#REF-CODE   (J,PR,104,1008,195611)
+#REFERENCE  Phys.Rev. 104 (1956) 1008
+#DATASETS   0
+#
+#DATASET    C0993006 
+#DATE       20040720
+#REACTION   6-C-12(D,P)6-C-13,PAR,DA
+#PROJ       1002
+#TARG       6012
+#MF         4
+#MT         600
+#PRODUCT    6-C-13
+#C4BEGIN    [ 1002  6012   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6012   4 600  C 2582000.          0.011430          0.019197          0.000000         LVLM.T.McEllistrem+     (56)C0993  6 
+ 1002  6012   4 600  C 2610000.          0.010480          0.019197          0.000000         LVLM.T.McEllistrem+     (56)C0993  6 
+ 1002  6012   4 600  C 2648000.          9.8300-3          0.019197          0.000000         LVLM.T.McEllistrem+     (56)C0993  6 
+ 1002  6012   4 600  C 2667000.          8.6500-3          0.019197          0.000000         LVLM.T.McEllistrem+     (56)C0993  6 
+ 1002  6012   4 600  C 2696000.          7.5000-3          0.019197          0.000000         LVLM.T.McEllistrem+     (56)C0993  6 
+ 1002  6012   4 600  C 2726000.          8.1800-3          0.019197          0.000000         LVLM.T.McEllistrem+     (56)C0993  6 
+ 1002  6012   4 600  C 2755000.          8.3800-3          0.019197          0.000000         LVLM.T.McEllistrem+     (56)C0993  6 
+ 1002  6012   4 600  C 2784000.          7.4700-3          0.019197          0.000000         LVLM.T.McEllistrem+     (56)C0993  6 
+ 1002  6012   4 600  C 2813000.          8.0100-3          0.019197          0.000000         LVLM.T.McEllistrem+     (56)C0993  6 
+ 1002  6012   4 600  C 2873000.          8.3100-3          0.019197          0.000000         LVLM.T.McEllistrem+     (56)C0993  6 
+ 1002  6012   4 600  C 2904000.          6.3700-3          0.019197          0.000000         LVLM.T.McEllistrem+     (56)C0993  6 
+ 1002  6012   4 600  C 2962000.          6.5600-3          0.019197          0.000000         LVLM.T.McEllistrem+     (56)C0993  6 
+ 1002  6012   4 600  C 3010000.          6.2700-3          0.019197          0.000000         LVLM.T.McEllistrem+     (56)C0993  6 
+ 1002  6012   4 600  C 3049000.          4.9500-3          0.019197          0.000000         LVLM.T.McEllistrem+     (56)C0993  6 
+ 1002  6012   4 600  C 3077000.          5.6600-3          0.019197          0.000000         LVLM.T.McEllistrem+     (56)C0993  6 
+ 1002  6012   4 600  C 3107000.          4.9500-3          0.019197          0.000000         LVLM.T.McEllistrem+     (56)C0993  6 
+ 1002  6012   4 600  C 3136000.          5.2600-3          0.019197          0.000000         LVLM.T.McEllistrem+     (56)C0993  6 
+ 1002  6012   4 600  C 3165000.          4.3300-3          0.019197          0.000000         LVLM.T.McEllistrem+     (56)C0993  6 
+ 1002  6012   4 600  C 3194000.          3.9300-3          0.019197          0.000000         LVLM.T.McEllistrem+     (56)C0993  6 
+ 1002  6012   4 600  C 3223000.          4.8500-3          0.019197          0.000000         LVLM.T.McEllistrem+     (56)C0993  6 
+ 1002  6012   4 600  C 3253000.          4.5100-3          0.019197          0.000000         LVLM.T.McEllistrem+     (56)C0993  6 
+#/DATA      21
+#/DATASET

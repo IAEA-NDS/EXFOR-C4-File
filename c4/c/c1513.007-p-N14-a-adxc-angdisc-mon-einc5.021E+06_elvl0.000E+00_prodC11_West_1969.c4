@@ -1,0 +1,29 @@
+#ENTRY      C1513
+#AUTHOR1    M.L.West+
+#YEAR       1969
+#INSTITUTE  (1USAORL)
+#TITLE      Level Structure in 15O from the Proton Bombardment
+#+          of 14N
+#AUTHOR(S)  M.L.West, C.M.Jones, J.K.Bair, H.B.Willard
+#REF-CODE   (J,PR,179,1047,1969)
+#REFERENCE  Phys.Rev. 179 (1969) 1047
+#DATASETS   0
+#
+#DATASET    C1513007 
+#DATE       20070221
+#REACTION   7-N-14(P,A)6-C-11,PAR,DA
+#PROJ       1001
+#TARG       7014
+#MF         4
+#MT         800
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1001  7014   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7014   4 800  C 5021000. 15000.00 8.7760-4 3.5104-5 0.784885          0.000000         LVLM.L.West+            (69)C1513  7 
+ 1001  7014   4 800  C 5021000. 15000.00 8.0440-4 3.2176-5 0.637155          0.000000         LVLM.L.West+            (69)C1513  7 
+ 1001  7014   4 800  C 5021000. 15000.00 8.7760-4 3.5104-5 0.468392          0.000000         LVLM.L.West+            (69)C1513  7 
+ 1001  7014   4 800  C 5021000. 15000.00 8.0440-4 3.2176-5 0.272112          0.000000         LVLM.L.West+            (69)C1513  7 
+#/DATA      4
+#/DATASET

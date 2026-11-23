@@ -1,0 +1,31 @@
+#ENTRY      C2353
+#AUTHOR1    J.Chen+
+#YEAR       2018
+#INSTITUTE  (1USAANL)
+#TITLE      Experimental study of the effective nucleon-nucleon
+#+          interaction using the 21F(d,p)22F reaction
+#AUTHOR(S)  J.Chen, C.R.Hoffman, T.Ahn, K.Auranen, M.L.Avila, B.B.Back, 
+#+          D.W.Bardayan, D.Blankstein, P.Copp, D.Gorelov, B.P.Kay, 
+#+          S.A.Kuvin, J.P.Lai, D.G.McNeel, P.D.O'Malley, A.M.Rogers, 
+#+          D.Santiago-Gonzalez, J.P.Schiffer, J.Sethi, R.Talwar, J.R.Winkelbauer
+#REF-CODE   (J,PR/C,98,014325,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 014325
+#DATASETS   0
+#
+#DATASET    C2353002 
+#DATE       20180902
+#REACTION   9-F-21(D,P)9-F-22,PAR,DA
+#PROJ       1002
+#TARG       9021
+#MF         4
+#MT         600
+#PRODUCT    9-F-22
+#C4BEGIN    [ 1002  9021   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  9021   4 600  C 2.0000+7          2.3370-3 5.7110-4 0.971961          4850000.         LVLJ.Chen+              (18)C2353  2 
+ 1002  9021   4 600  C 2.0000+7          1.3910-3 3.3990-4 0.937889          4850000.         LVLJ.Chen+              (18)C2353  2 
+ 1002  9021   4 600  C 2.0000+7          1.1420-3 3.4780-4 0.895712          4850000.         LVLJ.Chen+              (18)C2353  2 
+#/DATA      3
+#/DATASET

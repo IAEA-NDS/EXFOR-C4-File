@@ -1,0 +1,40 @@
+#ENTRY      C2915
+#AUTHOR1    S.T.Thornton+
+#YEAR       1971
+#INSTITUTE  (1USAORL)
+#TITLE      Test of time-reversal invariance in the reactions
+#+          16O(d,alpha)14N and 14N(alpha,d)16O
+#AUTHOR(S)  S.T.Thornton, C.M.Jones, J.K.Bair, M.D.Mancusi, H.B.Willard
+#REF-CODE   (J,PR/C,3,1065,1971)
+#REFERENCE  Phys.Rev.C 3 (1971) 1065
+#DATASETS   0
+#
+#DATASET    C2915003 
+#DATE       20231107
+#REACTION   8-O-16(D,A)7-N-14,,DA
+#PROJ       1002
+#TARG       8016
+#MF         4
+#MT         107
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1002  8016   4 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  8016   4 107    4710000.          0.026720          0.933580                              S.T.Thornton+        (71)C2915  3 
+ 1002  8016   4 107    4710000.          0.020240          0.865151                              S.T.Thornton+        (71)C2915  3 
+ 1002  8016   4 107    4710000.          0.012970          0.762668                              S.T.Thornton+        (71)C2915  3 
+ 1002  8016   4 107    4710000.          0.010690          0.702153                              S.T.Thornton+        (71)C2915  3 
+ 1002  8016   4 107    4710000.          9.4770-3          0.337095                              S.T.Thornton+        (71)C2915  3 
+ 1002  8016   4 107    4710000.          7.7670-3          0.168489                              S.T.Thornton+        (71)C2915  3 
+ 1002  8016   4 107    4710000.          6.2000-3         -0.013962                              S.T.Thornton+        (71)C2915  3 
+ 1002  8016   4 107    4710000.          6.7700-3         -0.385906                              S.T.Thornton+        (71)C2915  3 
+ 1002  8016   4 107    4710000.          7.6960-3         -0.506034                              S.T.Thornton+        (71)C2915  3 
+ 1002  8016   4 107    4710000.          0.011470         -0.707107                              S.T.Thornton+        (71)C2915  3 
+ 1002  8016   4 107    4710000.          0.011760         -0.707107                              S.T.Thornton+        (71)C2915  3 
+ 1002  8016   4 107    4710000.          0.013250         -0.766044                              S.T.Thornton+        (71)C2915  3 
+ 1002  8016   4 107    4710000.          0.018880         -0.908508                              S.T.Thornton+        (71)C2915  3 
+ 1002  8016   4 107    4710000.          0.019950         -0.938493                              S.T.Thornton+        (71)C2915  3 
+ 1002  8016   4 107    4710000.          0.020380         -0.938493                              S.T.Thornton+        (71)C2915  3 
+#/DATA      15
+#/DATASET

@@ -1,0 +1,37 @@
+#ENTRY      C2794
+#AUTHOR1    B.Yaramis+
+#YEAR       1973
+#INSTITUTE  (1USAFSU)
+#TITLE      Elastic scattering of alpha-particles by 54Fe from 8
+#+          to 15 MeV
+#AUTHOR(S)  B.Yaramis, D.D.Tolbert, R.H.Davis
+#REF-CODE   (J,NP/A,215,197,1973)
+#REFERENCE  Nucl.Phys.A 215 (1973) 197
+#DATASETS   0
+#
+#DATASET    C2794002 
+#DATE       20220815
+#REACTION   26-FE-54(A,EL)26-FE-54,,DA,,RTH
+#PROJ       2004
+#TARG       26054
+#MF         4
+#MT         2
+#PRODUCT    26-FE-54
+#C4BEGIN    [ 2004 26054   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 26054   4   2 CC 8068000.          3.498405 0.208070 0.734559                              B.Yaramis+           (73)C2794  2 
+ 2004 26054   4   2 CC 8581000.          3.117557 0.158995 0.734559                              B.Yaramis+           (73)C2794  2 
+ 2004 26054   4   2 CC 9057000.          2.708924 0.137125 0.734559                              B.Yaramis+           (73)C2794  2 
+ 2004 26054   4   2 CC 9584000.          2.704107 0.164946 0.734559                              B.Yaramis+           (73)C2794  2 
+ 2004 26054   4   2 CC 1.0085+7          2.460169 0.126394 0.734559                              B.Yaramis+           (73)C2794  2 
+ 2004 26054   4   2 CC 1.0560+7          2.050320 0.100869 0.734559                              B.Yaramis+           (73)C2794  2 
+ 2004 26054   4   2 CC 1.1061+7          1.934461 0.110701 0.734559                              B.Yaramis+           (73)C2794  2 
+ 2004 26054   4   2 CC 1.1586+7          1.720367 0.104316 0.734559                              B.Yaramis+           (73)C2794  2 
+ 2004 26054   4   2 CC 1.2075+7          1.536617 0.096039 0.734559                              B.Yaramis+           (73)C2794  2 
+ 2004 26054   4   2 CC 1.2588+7          1.403785 0.088370 0.734559                              B.Yaramis+           (73)C2794  2 
+ 2004 26054   4   2 CC 1.3076+7          1.264711 0.065786 0.734559                              B.Yaramis+           (73)C2794  2 
+ 2004 26054   4   2 CC 1.5066+7          0.778727 0.054612 0.734559                              B.Yaramis+           (73)C2794  2 
+#/DATA      12
+#/DATASET

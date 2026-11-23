@@ -1,0 +1,33 @@
+#ENTRY      C2622
+#AUTHOR1    G.D.Gunn+
+#YEAR       1974
+#INSTITUTE  (1USAFSU)
+#TITLE      Study of structure in the 28Si(p,n)28P and
+#+          28Si(p,alpha)25Al excitation functions
+#AUTHOR(S)  G.D.Gunn, K.W.Kemper, J.D.Fox
+#REF-CODE   (J,NP/A,232,176,1974)
+#REFERENCE  Nucl.Phys.A 232 (1974) 176
+#DATASETS   0
+#
+#DATASET    C2622004 
+#DATE       20210914
+#REACTION   14-SI-28(P,A)13-AL-25,PAR,DA
+#PROJ       1001
+#TARG       14028
+#MF         4
+#MT         800
+#PRODUCT    13-AL-25
+#C4BEGIN    [ 1001 14028   4 800 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 14028   4 800 CC 1.6000+7          3.0640-3          0.119374          949000.0         LVLG.D.Gunn+            (74)C2622  4 
+ 1001 14028   4 800 CC 1.6000+7          7.0070-3         -0.023734          949000.0         LVLG.D.Gunn+            (74)C2622  4 
+ 1001 14028   4 800 CC 1.6000+7          6.7490-3         -0.200035          949000.0         LVLG.D.Gunn+            (74)C2622  4 
+ 1001 14028   4 800 CC 1.6000+7          8.7740-3         -0.359427          949000.0         LVLG.D.Gunn+            (74)C2622  4 
+ 1001 14028   4 800 CC 1.6000+7          8.0130-3         -0.533733          949000.0         LVLG.D.Gunn+            (74)C2622  4 
+ 1001 14028   4 800 CC 1.6000+7          0.010600         -0.657467          949000.0         LVLG.D.Gunn+            (74)C2622  4 
+ 1001 14028   4 800 CC 1.6000+7          0.010220         -0.753678          949000.0         LVLG.D.Gunn+            (74)C2622  4 
+ 1001 14028   4 800 CC 1.6000+7          0.011110         -0.933223          949000.0         LVLG.D.Gunn+            (74)C2622  4 
+#/DATA      8
+#/DATASET

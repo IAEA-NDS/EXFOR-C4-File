@@ -1,0 +1,32 @@
+#ENTRY      C2888
+#AUTHOR1    A.Gula+
+#YEAR       2022
+#INSTITUTE  (1USANOT)
+#TITLE      Excitation function for the 6Li+alpha reaction
+#+          between 0.5 and 1.4 MeV
+#AUTHOR(S)  A.Gula, R.J.deBoer, R.Kelmar, J.Gorres, K.V.Manukyan, E.Stech, 
+#+          W.Tan, M.Wiescher
+#REF-CODE   (J,PR/C,106,065801,2022)
+#REFERENCE  Phys.Rev.C 106 (2022) 065801
+#DATASETS   0
+#
+#DATASET    C2888003 
+#DATE       20260717
+#REACTION   3-LI-6(A,G)5-B-10,PAR,DA
+#PROJ       2004
+#TARG       3006
+#MF         4
+#MT         900
+#PRODUCT    5-B-10
+#C4BEGIN    [ 2004  3006   4 900 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  3006   4 900 A  950200.0          1.3022-6 1.3404-7 0.573576          718000.0         LVLA.Gula+              (22)C2888  3 
+ 2004  3006   4 900 A  999360.0          3.7500-6 3.7500-7 0.573576          718000.0         LVLA.Gula+              (22)C2888  3 
+ 2004  3006   4 900 A  1049420.          7.0588-6 7.0588-7 0.573576          718000.0         LVLA.Gula+              (22)C2888  3 
+ 2004  3006   4 900 A  1063840.          8.1498-6 8.1498-7 0.573576          718000.0         LVLA.Gula+              (22)C2888  3 
+ 2004  3006   4 900 A  1068290.          9.1540-6 9.1540-7 0.573576          718000.0         LVLA.Gula+              (22)C2888  3 
+ 2004  3006   4 900 A  1072590.          8.8256-6 8.8256-7 0.573576          718000.0         LVLA.Gula+              (22)C2888  3 
+#/DATA      6
+#/DATASET

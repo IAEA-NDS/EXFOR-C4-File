@@ -1,0 +1,31 @@
+#ENTRY      C1306
+#AUTHOR1    M.Burlein+
+#YEAR       1986
+#INSTITUTE  (1USAPEN)
+#TITLE      80Se from the 78Se(t,p) reaction
+#AUTHOR(S)  M.Burlein, H.T.Fortune, D.L.Watson, M.D.Cohler
+#REF-CODE   (J,PR/C,34,1592,1986)
+#REFERENCE  Phys.Rev.C 34 (1986) 1592
+#DATASETS   0
+#
+#DATASET    C1306002 
+#DATE       20050809
+#REACTION   34-SE-78(T,P)34-SE-80,PAR,DA
+#PROJ       1003
+#TARG       34078
+#MF         4
+#MT         600
+#PRODUCT    34-SE-80
+#C4BEGIN    [ 1003 34078   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 34078   4 600  C 1.7000+7          6.5400-5          0.980955          4119000.         LVLM.Burlein+           (86)C1306  2 
+ 1003 34078   4 600  C 1.7000+7          1.6100-5 2.7700-6 0.948324          4119000.         LVLM.Burlein+           (86)C1306  2 
+ 1003 34078   4 600  C 1.7000+7          6.9000-6 5.4500-6 0.894154          4119000.         LVLM.Burlein+           (86)C1306  2 
+ 1003 34078   4 600  C 1.7000+7          1.0500-5 2.8300-6 0.827081          4119000.         LVLM.Burlein+           (86)C1306  2 
+ 1003 34078   4 600  C 1.7000+7          1.3700-5 2.3600-6 0.745476          4119000.         LVLM.Burlein+           (86)C1306  2 
+ 1003 34078   4 600  C 1.7000+7          7.2700-6 1.7100-6 0.656059          4119000.         LVLM.Burlein+           (86)C1306  2 
+ 1003 34078   4 600  C 1.7000+7          9.2300-6 2.7900-6 0.428935          4119000.         LVLM.Burlein+           (86)C1306  2 
+#/DATA      7
+#/DATASET

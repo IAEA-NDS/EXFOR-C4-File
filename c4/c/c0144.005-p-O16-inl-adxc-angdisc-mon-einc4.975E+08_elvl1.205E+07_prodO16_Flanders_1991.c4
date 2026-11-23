@@ -1,0 +1,43 @@
+#ENTRY      C0144
+#AUTHOR1    B.S.Flanders+
+#YEAR       1991
+#INSTITUTE  (1USAAMW)
+#TITLE      Empirical density-dependent effective interaction for
+#+          nucleon-nucleus scattering at 500 MeV
+#AUTHOR(S)  B.S.Flanders, J.J.Kelly, H.Seifert, D.Lopiano, B.Aas, A.Azizi, 
+#+          G.Igo, G.Weston, C.Whitten, A.Wong, M.V.Hynes, J.McClelland, 
+#+          W.Bertozzi, J.M.Finn, C.E.Hyde-Wright, R.W.Lourie, B.E.Norum, 
+#+          P.Ulmer, B.L.Berman
+#REF-CODE   (J,PR/C,43,2103,199105)
+#REFERENCE  Phys.Rev.C 43 (1991) 2103
+#DATASETS   0
+#
+#DATASET    C0144005 
+#DATE       19970415
+#REACTION   8-O-16(P,INL)8-O-16,PAR,DA
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         601
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  8016   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4 601 AC 4.9750+8          3.8840-4 1.6818-5 0.993433          1.2053+7         LVLB.S.Flanders+        (91)C0144  5 
+ 1001  8016   4 601 AC 4.9750+8          7.2440-4 6.5413-5 0.991076          1.2053+7         LVLB.S.Flanders+        (91)C0144  5 
+ 1001  8016   4 601 AC 4.9750+8          6.7210-4 1.3106-5 0.989726          1.2053+7         LVLB.S.Flanders+        (91)C0144  5 
+ 1001  8016   4 601 AC 4.9750+8          9.2020-4 5.7236-5 0.985229          1.2053+7         LVLB.S.Flanders+        (91)C0144  5 
+ 1001  8016   4 601 AC 4.9750+8          9.6090-4 4.3144-5 0.978002          1.2053+7         LVLB.S.Flanders+        (91)C0144  5 
+ 1001  8016   4 601 AC 4.9750+8          5.1030-4 4.1794-5 0.969317          1.2053+7         LVLB.S.Flanders+        (91)C0144  5 
+ 1001  8016   4 601 AC 4.9750+8          1.0320-4 1.5501-5 0.959265          1.2053+7         LVLB.S.Flanders+        (91)C0144  5 
+ 1001  8016   4 601 AC 4.9750+8          2.0020-5 3.0591-6 0.947824          1.2053+7         LVLB.S.Flanders+        (91)C0144  5 
+ 1001  8016   4 601 AC 4.9750+8          4.1420-5 7.3686-6 0.935011          1.2053+7         LVLB.S.Flanders+        (91)C0144  5 
+ 1001  8016   4 601 AC 4.9750+8          5.2900-5 5.4223-6 0.920777          1.2053+7         LVLB.S.Flanders+        (91)C0144  5 
+ 1001  8016   4 601 AC 4.9750+8          5.4300-5 2.5195-6 0.905347          1.2053+7         LVLB.S.Flanders+        (91)C0144  5 
+ 1001  8016   4 601 AC 4.9750+8          2.7590-5 1.2195-6 0.888617          1.2053+7         LVLB.S.Flanders+        (91)C0144  5 
+ 1001  8016   4 601 AC 4.9750+8          7.1850-6 5.8917-7 0.870613          1.2053+7         LVLB.S.Flanders+        (91)C0144  5 
+ 1001  8016   4 601 AC 4.9750+8          2.0180-6 5.0692-7 0.851361          1.2053+7         LVLB.S.Flanders+        (91)C0144  5 
+ 1001  8016   4 601 AC 4.9750+8          1.2590-6 1.6405-7 0.830984          1.2053+7         LVLB.S.Flanders+        (91)C0144  5 
+#/DATA      15
+#/DATASET

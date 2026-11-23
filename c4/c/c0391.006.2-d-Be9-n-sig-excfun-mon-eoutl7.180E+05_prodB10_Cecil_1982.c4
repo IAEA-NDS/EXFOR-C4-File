@@ -1,0 +1,30 @@
+#ENTRY      C0391
+#AUTHOR1    F.E.Cecil+
+#YEAR       1982
+#INSTITUTE  (1USACSM)
+#TITLE      Total cross-section measurements for the production of
+#+          nuclear gamma rays from light nuclei by low-energy
+#+          deuterons
+#AUTHOR(S)  F.E.Cecil, R.F.Fahlsing, R.A.Nelson
+#REF-CODE   (J,NP/A,376,379,1982)
+#REFERENCE  Nucl.Phys.A 376 (1982) 379
+#DATASETS   0
+#
+#DATASET    C03910062
+#DATE       20001211
+#REACTION   4-BE-9(D,N)5-B-10,PAR,SIG,,SFC
+#PROJ       1002
+#TARG       4009
+#MF         3
+#MT         50
+#PRODUCT    5-B-10
+#C4BEGIN    [ 1002  4009   3  50 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   3  50 D  159000.0          4.3398-4 2.3459-5                   718000.0          E2F.E.Cecil+           (82)C0391  62
+ 1002  4009   3  50 D  135000.0          1.8082-4 8.3134-6                   718000.0          E2F.E.Cecil+           (82)C0391  62
+ 1002  4009   3  50 D  111000.0          5.1436-5 3.1491-6                   718000.0          E2F.E.Cecil+           (82)C0391  62
+ 1002  4009   3  50 D  87000.00          1.1007-5 1.2062-6                   718000.0          E2F.E.Cecil+           (82)C0391  62
+#/DATA      4
+#/DATASET

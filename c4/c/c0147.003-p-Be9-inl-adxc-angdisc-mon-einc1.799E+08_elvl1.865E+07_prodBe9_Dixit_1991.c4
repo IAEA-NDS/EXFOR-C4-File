@@ -1,0 +1,31 @@
+#ENTRY      C0147
+#AUTHOR1    S.Dixit+
+#YEAR       1991
+#INSTITUTE  (1USAINU)
+#TITLE      Structure of 9Be from proton scattering at 180 MeV
+#AUTHOR(S)  S.Dixit, W.Bertozzi, T.N.Buti, J.M.Finn, F.W.Hersman, C.Hyde-Wright, 
+#+          M.V.Hynes, M.A.Kovash, B.E.Norum, J.J.Kelly, A.D.Bacher, 
+#+          G.T.Emery, C.C.Foster, W.P.Jones, D.W.Miller, B.L.Berman, 
+#+          D.J.Millener
+#REF-CODE   (J,PR/C,43,1758,9104)
+#REFERENCE  Phys.Rev.C 43 (1991) 1758
+#DATASETS   0
+#
+#DATASET    C0147003 
+#DATE       19970422
+#REACTION   4-BE-9(P,INL)4-BE-9,PAR,DA
+#PROJ       1001
+#TARG       4009
+#MF         4
+#MT         601
+#PRODUCT    4-BE-9
+#C4BEGIN    [ 1001  4009   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   4 601 AC 1.7990+8          7.1570-5 4.3944-6 0.980409 3.4378-4 1.8650+7         LVLS.Dixit+             (91)C0147  3 
+ 1001  4009   4 601 AC 1.7990+8          5.4720-5 4.4050-6 0.961693 4.7844-4 1.8650+7         LVLS.Dixit+             (91)C0147  3 
+ 1001  4009   4 601 AC 1.7990+8          1.0160-5 2.8245-6 0.906603 7.3650-4 1.8650+7         LVLS.Dixit+             (91)C0147  3 
+ 1001  4009   4 601 AC 1.7990+8          5.8390-6 1.6851-6 0.777475 1.0977-3 1.8650+7         LVLS.Dixit+             (91)C0147  3 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      C0131
+#AUTHOR1    L.A.C.Garcia+
+#YEAR       1994
+#INSTITUTE  (1USAINU)
+#TITLE      Identification of 4- states in the 14C(p,n)14N
+#+          reaction at 135 MeV
+#AUTHOR(S)  L.A.C.Garcia, B.D.Anderson, D.M.Manley, A.R.Baldwin, R.Pourang, 
+#+          E.Steinfelds, J.W.Watson, R.A.Lindgren, B.L.Clausen, A.D.Bacher, 
+#+          C.C.Foster
+#REF-CODE   (J,PR/C,50,289,199407)
+#REFERENCE  Phys.Rev.C 50 (1994) 289
+#DATASETS   0
+#
+#DATASET    C0131002 
+#DATE       20111117
+#REACTION   6-C-14(P,N)7-N-14,PAR,DA
+#PROJ       1001
+#TARG       6014
+#MF         4
+#MT         50
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1001  6014   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6014   4  50  C 1.3500+8          6.6980-5 5.0000-6 0.942057          2.6610+7         LVLL.A.C.Garcia+        (94)C0131  2 
+ 1001  6014   4  50  C 1.3500+8          1.0690-4 6.0000-6 0.897951          2.6610+7         LVLL.A.C.Garcia+        (94)C0131  2 
+ 1001  6014   4  50  C 1.3500+8          1.1900-4 5.0000-6 0.841511          2.6610+7         LVLL.A.C.Garcia+        (94)C0131  2 
+ 1001  6014   4  50  C 1.3500+8          1.1890-4 6.0000-6 0.782499          2.6610+7         LVLL.A.C.Garcia+        (94)C0131  2 
+ 1001  6014   4  50  C 1.3500+8          6.5390-5 8.0000-6 0.701407          2.6610+7         LVLL.A.C.Garcia+        (94)C0131  2 
+ 1001  6014   4  50  C 1.3500+8          4.0580-5 5.0000-6 0.660657          2.6610+7         LVLL.A.C.Garcia+        (94)C0131  2 
+ 1001  6014   4  50  C 1.3500+8          1.3860-5 2.0000-6 0.573290          2.6610+7         LVLL.A.C.Garcia+        (94)C0131  2 
+ 1001  6014   4  50  C 1.3500+8          1.0360-5 2.0000-6 0.487707          2.6610+7         LVLL.A.C.Garcia+        (94)C0131  2 
+#/DATA      8
+#/DATASET

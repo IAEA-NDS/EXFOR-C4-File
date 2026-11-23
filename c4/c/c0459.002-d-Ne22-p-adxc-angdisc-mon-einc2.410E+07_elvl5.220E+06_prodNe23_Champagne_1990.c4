@@ -1,0 +1,33 @@
+#ENTRY      C0459
+#AUTHOR1    A.E.Champagne+
+#YEAR       1990
+#INSTITUTE  (1USAPTN)
+#TITLE      22Ne(d,p)23Ne reaction and neutron balance in the
+#+          s process
+#AUTHOR(S)  A.E.Champagne, A.J.Howard, Z.Q.Mao
+#REF-CODE   (J,PR/C,42,2730,9012)
+#REFERENCE  Phys.Rev.C 42 (1990) 2730
+#DATASETS   0
+#
+#DATASET    C0459002 
+#DATE       19970723
+#REACTION   10-NE-22(D,P)10-NE-23,PAR,DA
+#PROJ       1002
+#TARG       10022
+#MF         4
+#MT         600
+#PRODUCT    10-NE-23
+#C4BEGIN    [ 1002 10022   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 10022   4 600 AC 2.4100+7          1.6200-3 2.0000-6 0.982613          5220000. 5000.000LVLA.E.Champagne+       (90)C0459  2 
+ 1002 10022   4 600 AC 2.4100+7          1.5000-3 1.0000-6 0.972776          5220000. 5000.000LVLA.E.Champagne+       (90)C0459  2 
+ 1002 10022   4 600 AC 2.4100+7          1.3400-3 1.0000-6 0.961262          5220000. 5000.000LVLA.E.Champagne+       (90)C0459  2 
+ 1002 10022   4 600 AC 2.4100+7          1.1900-3 2.0000-6 0.947210          5220000. 5000.000LVLA.E.Champagne+       (90)C0459  2 
+ 1002 10022   4 600 AC 2.4100+7          1.0300-3 2.0000-6 0.931056          5220000. 5000.000LVLA.E.Champagne+       (90)C0459  2 
+ 1002 10022   4 600 AC 2.4100+7          6.0700-4 1.4000-6 0.893371          5220000. 5000.000LVLA.E.Champagne+       (90)C0459  2 
+ 1002 10022   4 600 AC 2.4100+7          3.0000-4 1.1000-6 0.848048          5220000. 5000.000LVLA.E.Champagne+       (90)C0459  2 
+ 1002 10022   4 600 AC 2.4100+7          1.4000-4 5.0000-6 0.795473          5220000. 5000.000LVLA.E.Champagne+       (90)C0459  2 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      C2618
+#AUTHOR1    S.N.Bunker+
+#YEAR       1971
+#INSTITUTE  (1USACLA)
+#TITLE      Excitation functions of proton-induced reactions in
+#+          O16 at medium energies
+#AUTHOR(S)  S.N.Bunker, H.Appel, J.M.Cameron, M.B.Epstein, J.R.Quinn, 
+#+          J.Reginald Richardson, J.W.Verba
+#REF-CODE   (J,NP/A,163,378,1971)
+#REFERENCE  Nucl.Phys.A 163 (1971) 378
+#DATASETS   0
+#
+#DATASET    C2618008 
+#DATE       20210715
+#REACTION   8-O-16(P,EL)8-O-16,,DA
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         2
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  8016   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4   2 CC 3.0000+7 174000.0 0.025530          0.459099                              S.N.Bunker+          (71)C2618  8 
+ 1001  8016   4   2 CC 3.0000+7 174000.0 0.017120          0.299407                              S.N.Bunker+          (71)C2618  8 
+ 1001  8016   4   2 CC 3.0000+7 174000.0 7.6180-3          0.118560                              S.N.Bunker+          (71)C2618  8 
+ 1001  8016   4   2 CC 3.0000+7 174000.0 3.1790-3         -0.046444                              S.N.Bunker+          (71)C2618  8 
+ 1001  8016   4   2 CC 3.0000+7 174000.0 1.7630-3         -0.226617                              S.N.Bunker+          (71)C2618  8 
+ 1001  8016   4   2 CC 3.0000+7 174000.0 5.5620-4         -0.540930                              S.N.Bunker+          (71)C2618  8 
+ 1001  8016   4   2 CC 3.0000+7 174000.0 7.2530-4         -0.677865                              S.N.Bunker+          (71)C2618  8 
+ 1001  8016   4   2 CC 3.0000+7 174000.0 1.1970-3         -0.790273                              S.N.Bunker+          (71)C2618  8 
+ 1001  8016   4   2 CC 3.0000+7 174000.0 1.3370-3         -0.872726                              S.N.Bunker+          (71)C2618  8 
+ 1001  8016   4   2 CC 3.0000+7 174000.0 8.9290-4         -0.945228                              S.N.Bunker+          (71)C2618  8 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      C3000
+#AUTHOR1    J.H.Barker+
+#YEAR       1976
+#INSTITUTE  (1USATAM)
+#TITLE      Elastic and inelastic scattering of alpha particles
+#+          and protons from 144Sm
+#AUTHOR(S)  J.H.Barker, J.C.Hiebert
+#REF-CODE   (J,PR/C,14,514,1976)
+#REFERENCE  Phys.Rev.C 14 (1976) 514
+#DATASETS   0
+#
+#DATASET    C3000005 
+#DATE       20241013
+#REACTION   62-SM-144(P,INL)62-SM-144,PAR,DA
+#PROJ       1001
+#TARG       62144
+#MF         4
+#MT         601
+#PRODUCT    62-SM-144
+#C4BEGIN    [ 1001 62144   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 62144   4 601  C 2.9300+7          5.1390-4 1.2110-4 0.908807          2190000.         LVLJ.H.Barker+          (76)C3000  5 
+ 1001 62144   4 601  C 2.9300+7          3.8080-4 6.6870-5 0.878684          2190000.         LVLJ.H.Barker+          (76)C3000  5 
+ 1001 62144   4 601  C 2.9300+7          5.1290-4 8.2580-5 0.845178          2190000.         LVLJ.H.Barker+          (76)C3000  5 
+ 1001 62144   4 601  C 2.9300+7          4.4680-4 4.7340-5 0.805722          2190000.         LVLJ.H.Barker+          (76)C3000  5 
+ 1001 62144   4 601  C 2.9300+7          3.5900-4 4.5930-5 0.759385          2190000.         LVLJ.H.Barker+          (76)C3000  5 
+ 1001 62144   4 601  C 2.9300+7          3.8170-4 4.4660-5 0.711732          2190000.         LVLJ.H.Barker+          (76)C3000  5 
+ 1001 62144   4 601  C 2.9300+7          3.0860-4 6.3340-5 0.660971          2190000.         LVLJ.H.Barker+          (76)C3000  5 
+ 1001 62144   4 601  C 2.9300+7          2.3880-4 3.9430-5 0.607057          2190000.         LVLJ.H.Barker+          (76)C3000  5 
+ 1001 62144   4 601  C 2.9300+7          1.3540-4 2.8820-5 0.548746          2190000.         LVLJ.H.Barker+          (76)C3000  5 
+ 1001 62144   4 601  C 2.9300+7          1.2580-4 2.0780-5 0.232155          2190000.         LVLJ.H.Barker+          (76)C3000  5 
+#/DATA      10
+#/DATASET

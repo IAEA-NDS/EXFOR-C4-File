@@ -1,0 +1,30 @@
+#ENTRY      C1326
+#AUTHOR1    H.O.Funsten+
+#YEAR       1964
+#INSTITUTE  (1USAPTN)
+#TITLE      Inelastic Proton Scattering from Nuclei with 28
+#+          Neutrons
+#AUTHOR(S)  H.O.Funsten, N.R.Roberson, E.Rost
+#REF-CODE   (J,PR,134,B117,1964)
+#REFERENCE  Phys.Rev. 134 (1964) B117
+#DATASETS   0
+#
+#DATASET    C1326003 
+#DATE       20150709
+#REACTION   26-FE-58(P,INL)26-FE-58,PAR,DA
+#PROJ       1001
+#TARG       26058
+#MF         4
+#MT         601
+#PRODUCT    26-FE-58
+#C4BEGIN    [ 1001 26058   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26058   4 601  C 1.7450+7 50000.00 3.2100-4 3.8900-5 0.758362          2210000.         LVLH.O.Funsten+         (64)C1326  3 
+ 1001 26058   4 601  C 1.7450+7 50000.00 3.4200-4 5.8800-5 0.631894          2210000.         LVLH.O.Funsten+         (64)C1326  3 
+ 1001 26058   4 601  C 1.7450+7 50000.00 2.5500-4 8.8400-5 0.486183          2210000.         LVLH.O.Funsten+         (64)C1326  3 
+ 1001 26058   4 601  C 1.7450+7 50000.00 1.9800-4 3.9500-5 0.325733          2210000.         LVLH.O.Funsten+         (64)C1326  3 
+ 1001 26058   4 601  C 1.7450+7 50000.00 1.4900-4 3.9800-5 0.155745          2210000.         LVLH.O.Funsten+         (64)C1326  3 
+#/DATA      5
+#/DATASET

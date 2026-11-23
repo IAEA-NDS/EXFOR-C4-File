@@ -1,0 +1,38 @@
+#ENTRY      C1763
+#AUTHOR1    A.Budzanowski+
+#YEAR       2009
+#INSTITUTE  (3POLIFJ)
+#TITLE      Variation of nonequilibrium processes in the p + Ni
+#+          system with beam energy
+#AUTHOR(S)  A.Budzanowski, M.Fidelus, D.Filges, F.Goldenbaum, H.Hodde, 
+#+          L.Jarczyk, B.Kamys, M.Kistryn, St.Kistryn, St.Kliczewski, 
+#+          A.Kowalczyk, E.Kozik, P.Kulessa, H.Machner, A.Magiera, B.Piskor-Ignatowicz, 
+#+          K.Pysz, Z.Rudy, R.Siudak, M.Wojciechowski
+#REF-CODE   (J,PR/C,80,054604,2009)
+#REFERENCE  Phys.Rev.C 80 (2009) 054604
+#DATASETS   0
+#
+#DATASET    C1763003 
+#DATE       20091216
+#REACTION   28-NI-0(P,X)1-H-2,,DA/DE
+#PROJ       1001
+#TARG       28000
+#MF         6
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001 28000   6 204  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28000   6 204    1.7500+8          3.574-10 9.600-12 0.819152          4500000.          E2A.Budzanowski+       (09)C1763  3 
+ 1001 28000   6 204    1.7500+8          5.790-10 1.200-11 0.819152          7500000.          E2A.Budzanowski+       (09)C1763  3 
+ 1001 28000   6 204    1.7500+8          4.200-10 3.100-11 0.819152          1.3500+7          E2A.Budzanowski+       (09)C1763  3 
+ 1001 28000   6 204    1.7500+8          3.880-10 1.000-11 0.819152          1.6500+7          E2A.Budzanowski+       (09)C1763  3 
+ 1001 28000   6 204    1.7500+8          3.433-10 9.400-12 0.819152          1.9500+7          E2A.Budzanowski+       (09)C1763  3 
+ 1001 28000   6 204    1.7500+8          3.055-10 8.900-12 0.819152          2.2500+7          E2A.Budzanowski+       (09)C1763  3 
+ 1001 28000   6 204    1.7500+8          2.998-10 8.800-12 0.819152          2.5500+7          E2A.Budzanowski+       (09)C1763  3 
+ 1001 28000   6 204    1.7500+8          2.866-10 8.600-12 0.819152          2.8500+7          E2A.Budzanowski+       (09)C1763  3 
+ 1001 28000   6 204    1.7500+8          2.776-10 8.500-12 0.819152          3.1500+7          E2A.Budzanowski+       (09)C1763  3 
+ 1001 28000   6 204    1.7500+8          2.636-10 8.300-12 0.819152          3.4500+7          E2A.Budzanowski+       (09)C1763  3 
+#/DATA      10
+#/DATASET

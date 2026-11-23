@@ -1,0 +1,31 @@
+#ENTRY      C3133
+#AUTHOR1    E.M.Martinsen+
+#YEAR       2026
+#INSTITUTE  (2NOROSL)
+#TITLE      Deuteron-induced reactions on natural Zr from
+#+          threshold to 50 MeV: production of 86gY
+#AUTHOR(S)  E.M.Martinsen, A.S.Voyles, K.Ching Wei Li, M.S.Basunia, 
+#+          L.A.Bernstein, H.L.Okstad Ekeberg, M.Hussain, J.T.Morrell, 
+#+          S.M.Qaim, S.Siem, Md.Shuza Uddin, H.Zaneb
+#REF-CODE   (J,RCA,114,265,2026)
+#REFERENCE  Radiochim.Acta 114 (2026) 265
+#DATASETS   0
+#
+#DATASET    C3133003 
+#DATE       20260521
+#REACTION   40-ZR-0(D,X)ELEM/MASS,,SIG
+#PROJ       1002
+#TARG       40000
+#MF         3
+#MT         454
+#C4BEGIN    [ 1002 40000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 40000   3 454    2.4900+7 1600000. 0.026200 1.3000-3           41092.1                     E.M.Martinsen+       (26)C3133  3 
+ 1002 40000   3 454    3.1000+7 1300000. 0.037200 1.6000-3           41092.1                     E.M.Martinsen+       (26)C3133  3 
+ 1002 40000   3 454    3.6400+7 1200000. 0.032700 1.0000-3           41092.1                     E.M.Martinsen+       (26)C3133  3 
+ 1002 40000   3 454    4.1100+7 1100000. 0.026780 7.5000-4           41092.1                     E.M.Martinsen+       (26)C3133  3 
+ 1002 40000   3 454    4.7640+7 910000.0 0.020080 9.2000-4           41092.1                     E.M.Martinsen+       (26)C3133  3 
+#/DATA      5
+#/DATASET

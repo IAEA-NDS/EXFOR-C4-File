@@ -1,0 +1,29 @@
+#ENTRY      C2948
+#AUTHOR1    F.Portillo+
+#YEAR       2023
+#INSTITUTE  (1USANCS)
+#TITLE      Spin-parities of subthreshold resonances in the
+#+          18F(p,alpha) 15O reaction
+#AUTHOR(S)  F.Portillo, R.Longland, A.L.Cooper, S.Hunt, A.M.Laird, C.Marshall, 
+#+          K.Setoodehnia
+#REF-CODE   (J,PR/C,107,035809,2023)
+#REFERENCE  Phys.Rev.C 107 (2023) 035809
+#DATASETS   0
+#
+#DATASET    C2948002 
+#DATE       20250506
+#REACTION   10-NE-20(HE3,A)10-NE-19,PAR,DA
+#PROJ       2003
+#TARG       10020
+#MF         4
+#MT         800
+#PRODUCT    10-NE-19
+#C4BEGIN    [ 2003 10020   4 800 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 10020   4 800 AC 2.1000+7          3.2980-5 5.4000-6 0.914748          6742000.         LVLF.Portillo+          (23)C2948  2 
+ 2003 10020   4 800 AC 2.1000+7          4.1170-5 6.6700-6 0.897335          6742000.         LVLF.Portillo+          (23)C2948  2 
+ 2003 10020   4 800 AC 2.1000+7          1.2919-4 1.4060-5 0.868372          6742000.         LVLF.Portillo+          (23)C2948  2 
+#/DATA      3
+#/DATASET

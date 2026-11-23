@@ -1,0 +1,33 @@
+#ENTRY      C1303
+#AUTHOR1    H.T.Fortune+
+#YEAR       1987
+#INSTITUTE  (1USAPEN)
+#TITLE      73Ge(t,p)75Ge at Et=15.0 MeV
+#AUTHOR(S)  H.T.Fortune, M.Burlein, D.L.Watson
+#REF-CODE   (J,PR/C,36,959,1987)
+#REFERENCE  Phys.Rev.C 36 (1987) 959
+#DATASETS   0
+#
+#DATASET    C1303002 
+#DATE       20050808
+#REACTION   32-GE-73(T,P)32-GE-75,PAR,DA
+#PROJ       1003
+#TARG       32073
+#MF         4
+#MT         600
+#PRODUCT    32-GE-75
+#C4BEGIN    [ 1003 32073   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 32073   4 600  C 1.5000+7          4.4400-5          0.997916          3042000.         LVLH.T.Fortune+         (87)C1303  2 
+ 1003 32073   4 600  C 1.5000+7          2.6300-5          0.981627          3042000.         LVLH.T.Fortune+         (87)C1303  2 
+ 1003 32073   4 600  C 1.5000+7          2.0600-5          0.948876          3042000.         LVLH.T.Fortune+         (87)C1303  2 
+ 1003 32073   4 600  C 1.5000+7          1.0600-5          0.898028          3042000.         LVLH.T.Fortune+         (87)C1303  2 
+ 1003 32073   4 600  C 1.5000+7          1.3400-5          0.832921          3042000.         LVLH.T.Fortune+         (87)C1303  2 
+ 1003 32073   4 600  C 1.5000+7          6.0200-6          0.759271          3042000.         LVLH.T.Fortune+         (87)C1303  2 
+ 1003 32073   4 600  C 1.5000+7          7.5300-6          0.564967          3042000.         LVLH.T.Fortune+         (87)C1303  2 
+ 1003 32073   4 600  C 1.5000+7          1.3600-6 2.0200-7 0.443071          3042000.         LVLH.T.Fortune+         (87)C1303  2 
+ 1003 32073   4 600  C 1.5000+7          6.4400-7 1.7300-7 0.199368          3042000.         LVLH.T.Fortune+         (87)C1303  2 
+#/DATA      9
+#/DATASET

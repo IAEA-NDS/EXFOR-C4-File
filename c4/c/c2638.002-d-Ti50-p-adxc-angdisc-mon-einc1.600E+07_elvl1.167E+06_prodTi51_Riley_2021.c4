@@ -1,0 +1,36 @@
+#ENTRY      C2638
+#AUTHOR1    L.A.Riley+
+#YEAR       2021
+#INSTITUTE  (1USAURS)
+#TITLE      50Ti(d,p)51Ti: Single-neutron energies in the N = 29
+#+          isotones, and the N = 32 subshell closure
+#AUTHOR(S)  L.A.Riley, J.M.Nebel-Crosson, K.T.Macon, G.W.McCann, L.T.Baby, 
+#+          D.Caussyn, P.D.Cottle, J.Esparza, K.Hanselman, K.W.Kemper, 
+#+          E.Temanson, I.Wiedenhover
+#REF-CODE   (J,PR/C,103,064309,2021)
+#REFERENCE  Phys.Rev.C 103 (2021) 064309
+#DATASETS   0
+#
+#DATASET    C2638002 
+#DATE       20210611
+#REACTION   22-TI-50(D,P)22-TI-51,PAR,DA
+#PROJ       1002
+#TARG       22050
+#MF         4
+#MT         600
+#PRODUCT    22-TI-51
+#C4BEGIN    [ 1002 22050   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 22050   4 600  C 1.6000+7          8.8400-3 4.4200-4 0.983885          1167000.         LVLL.A.Riley+           (21)C2638  2 
+ 1002 22050   4 600  C 1.6000+7          7.5800-3 3.6800-4 0.964095          1167000.         LVLL.A.Riley+           (21)C2638  2 
+ 1002 22050   4 600  C 1.6000+7          3.3400-3 1.6900-4 0.936672          1167000.         LVLL.A.Riley+           (21)C2638  2 
+ 1002 22050   4 600  C 1.6000+7          1.2700-3 9.5600-5 0.901833          1167000.         LVLL.A.Riley+           (21)C2638  2 
+ 1002 22050   4 600  C 1.6000+7          8.5700-4 5.1800-5 0.858960          1167000.         LVLL.A.Riley+           (21)C2638  2 
+ 1002 22050   4 600  C 1.6000+7          9.9800-4 5.9400-5 0.810042          1167000.         LVLL.A.Riley+           (21)C2638  2 
+ 1002 22050   4 600  C 1.6000+7          8.8500-4 5.5600-5 0.754710          1167000.         LVLL.A.Riley+           (21)C2638  2 
+ 1002 22050   4 600  C 1.6000+7          3.6900-4 2.9500-5 0.693402          1167000.         LVLL.A.Riley+           (21)C2638  2 
+ 1002 22050   4 600  C 1.6000+7          1.9600-4 2.2700-5 0.627963          1167000.         LVLL.A.Riley+           (21)C2638  2 
+#/DATA      9
+#/DATASET

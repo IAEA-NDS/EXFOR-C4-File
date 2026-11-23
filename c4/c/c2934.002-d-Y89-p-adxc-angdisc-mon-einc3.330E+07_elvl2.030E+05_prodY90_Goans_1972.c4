@@ -1,0 +1,33 @@
+#ENTRY      C2934
+#AUTHOR1    R.E.Goans+
+#YEAR       1972
+#INSTITUTE  (1USAORL)
+#TITLE      Experimental study of the structure of 90Y with
+#+          89Y(d,p) at 33.3 MeV and 89Y(alpha,3He) at 65.7 MeV
+#AUTHOR(S)  R.E.Goans, C.R.Bingham
+#REF-CODE   (J,PR/C,5,914,1972)
+#REFERENCE  Phys.Rev.C 5 (1972) 914
+#DATASETS   0
+#
+#DATASET    C2934002 
+#DATE       20231113
+#REACTION   39-Y-89(D,P)39-Y-90,PAR,DA
+#PROJ       1002
+#TARG       39089
+#MF         4
+#MT         600
+#PRODUCT    39-Y-90
+#C4BEGIN    [ 1002 39089   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 39089   4 600  C 3.3300+7          6.6470-3          0.975615          203000.0         LVLR.E.Goans+           (72)C2934  2 
+ 1002 39089   4 600  C 3.3300+7          2.8370-3          0.952630          203000.0         LVLR.E.Goans+           (72)C2934  2 
+ 1002 39089   4 600  C 3.3300+7          1.3660-3          0.920621          203000.0         LVLR.E.Goans+           (72)C2934  2 
+ 1002 39089   4 600  C 3.3300+7          1.8480-3          0.882234          203000.0         LVLR.E.Goans+           (72)C2934  2 
+ 1002 39089   4 600  C 3.3300+7          1.3390-3          0.836592          203000.0         LVLR.E.Goans+           (72)C2934  2 
+ 1002 39089   4 600  C 3.3300+7          5.0070-4          0.786687          203000.0         LVLR.E.Goans+           (72)C2934  2 
+ 1002 39089   4 600  C 3.3300+7          3.9460-4          0.725290          203000.0         LVLR.E.Goans+           (72)C2934  2 
+ 1002 39089   4 600  C 3.3300+7          4.7910-4          0.666116          203000.0         LVLR.E.Goans+           (72)C2934  2 
+#/DATA      8
+#/DATASET

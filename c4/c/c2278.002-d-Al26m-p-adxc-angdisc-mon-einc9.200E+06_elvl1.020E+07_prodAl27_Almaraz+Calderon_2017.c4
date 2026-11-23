@@ -1,0 +1,35 @@
+#ENTRY      C2278
+#AUTHOR1    S.Almaraz-Calderon+
+#YEAR       2017
+#INSTITUTE  (1USAFSU)
+#TITLE      Study of the 26mAl(d,p)27Al Reaction and the
+#+          Influence of the 26Al 0+ Isomer on the Destruction
+#+          of 26Al in the Galaxy
+#AUTHOR(S)  S.Almaraz-Calderon, K.E.Rehm, N.Gerken, M.L.Avila, B.P.Kay, 
+#+          R.Talwar, A.D.Ayangeakaa, S.Bottoni, A.A.Chen, C.M.Deibel, 
+#+          C.Dickerson, K.Hanselman, C.R.Hoffman, C.L.Jiang, S.A.Kuvin, 
+#+          O.Nusair, R.C.Pardo, D.Santiago-Gonzalez, J.Sethi, C.Ugalde
+#REF-CODE   (J,PRL,119,072701,2017)
+#REFERENCE  Phys.Rev.Lett. 119 (2017) 072701
+#DATASETS   0
+#
+#DATASET    C2278002 
+#DATE       20180208
+#REACTION   (1-H-2(13-AL-26-M,P)13-AL-27,PAR,DA,RSD)=(13-AL-26-M(D,P)13-AL-27,PAR,DA)
+#PROJ       1002
+#TARG       13026
+#MF         4
+#MT         600
+#PRODUCT    13-AL-27
+#C4BEGIN    [ 1002 13026M  4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 13026M  4 600  C 9200000.          0.022300 5.7500-3 0.992546 1.2762-3 1.0200+7         LVLS.Almaraz-Calderon+  (17)C2278  2 
+ 1002 13026M  4 600  C 9200000.          0.027020 6.9500-3 0.990268 1.4574-3 1.0200+7         LVLS.Almaraz-Calderon+  (17)C2278  2 
+ 1002 13026M  4 600  C 9200000.          0.026450 6.8000-3 0.987688 1.6382-3 1.0200+7         LVLS.Almaraz-Calderon+  (17)C2278  2 
+ 1002 13026M  4 600  C 9200000.          0.011520 2.9600-3 0.981627 2.6642-3 1.0200+7         LVLS.Almaraz-Calderon+  (17)C2278  2 
+ 1002 13026M  4 600  C 9200000.          0.010020 2.6800-3 0.974370 4.3188-3 1.0200+7         LVLS.Almaraz-Calderon+  (17)C2278  2 
+ 1002 13026M  4 600  C 9200000.          8.8400-3 2.3200-3 0.965926 4.5172-3 1.0200+7         LVLS.Almaraz-Calderon+  (17)C2278  2 
+#/DATA      6
+#/DATASET

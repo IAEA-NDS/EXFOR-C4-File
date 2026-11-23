@@ -1,0 +1,28 @@
+#ENTRY      C1309
+#AUTHOR1    S.Mordechai+
+#YEAR       1983
+#INSTITUTE  (3ISLNEG)
+#TITLE      79As via proton pickup
+#AUTHOR(S)  S.Mordechai, S.LaFrance, H.T.Fortune
+#REF-CODE   (J,PR/C,28,623,1983)
+#REFERENCE  Phys.Rev.C 28 (1983) 623
+#DATASETS   0
+#
+#DATASET    C1309002 
+#DATE       20050811
+#REACTION   34-SE-80(T,A)33-AS-79,PAR,DA
+#PROJ       1003
+#TARG       34080
+#MF         4
+#MT         800
+#PRODUCT    33-AS-79
+#C4BEGIN    [ 1003 34080   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 34080   4 800  C 1.8000+7          6.7100-5 6.2100-6 0.940288          1966000.         LVLS.Mordechai+         (83)C1309  2 
+ 1003 34080   4 800  C 1.8000+7          1.3900-5 3.7600-6 0.891007          1966000.         LVLS.Mordechai+         (83)C1309  2 
+ 1003 34080   4 800  C 1.8000+7          9.7500-6 2.9700-6 0.817145          1966000.         LVLS.Mordechai+         (83)C1309  2 
+ 1003 34080   4 800  C 1.8000+7          4.0000-6 1.9200-6 0.731354          1966000.         LVLS.Mordechai+         (83)C1309  2 
+#/DATA      4
+#/DATASET

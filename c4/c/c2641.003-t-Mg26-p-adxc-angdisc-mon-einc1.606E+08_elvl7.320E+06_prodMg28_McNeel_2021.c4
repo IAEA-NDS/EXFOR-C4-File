@@ -1,0 +1,33 @@
+#ENTRY      C2641
+#AUTHOR1    D.G.McNeel+
+#YEAR       2021
+#INSTITUTE  (1USAANL)
+#TITLE      Configuration mixing in 28Mg and the 26Mg(t,p)28Mg
+#+          reaction
+#AUTHOR(S)  D.G.McNeel, A.H.Wuosmaa, S.A.Kuvin, J.Smith, B.B.Back, J.Chen, 
+#+          C.R.Hoffman, B.P.Kay, G.L.Wilson, D.K.Sharp, R.M.Clark, 
+#+          H.L.Crawford, P.Fallon, A.O.Macchiavelli
+#REF-CODE   (J,PR/C,103,064320,2021)
+#REFERENCE  Phys.Rev.C 103 (2021) 064320
+#DATASETS   0
+#
+#DATASET    C2641003 
+#DATE       20210621
+#REACTION   (1-H-3(12-MG-26,P)12-MG-28,PAR,DA,RSD)=(12-MG-26(T,P)12-MG-28,PAR,DA)
+#PROJ       1003
+#TARG       12026
+#MF         4
+#MT         600
+#PRODUCT    12-MG-28
+#C4BEGIN    [ 1003 12026   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 12026   4 600  C 1.6060+8          2.4200-6 1.7000-6 0.930354          7320000.         LVLD.G.McNeel+          (21)C2641  3 
+ 1003 12026   4 600  C 1.6060+8          3.2500-6 1.4600-6 0.896254          7320000.         LVLD.G.McNeel+          (21)C2641  3 
+ 1003 12026   4 600  C 1.6060+8          7.9300-6 3.3600-6 0.852731          7320000.         LVLD.G.McNeel+          (21)C2641  3 
+ 1003 12026   4 600  C 1.6060+8          6.1600-6 1.9300-6 0.816440          7320000.         LVLD.G.McNeel+          (21)C2641  3 
+ 1003 12026   4 600  C 1.6060+8          7.4000-6 2.8200-6 0.784019          7320000.         LVLD.G.McNeel+          (21)C2641  3 
+ 1003 12026   4 600  C 1.6060+8          2.9600-6 1.7200-6 0.726455          7320000.         LVLD.G.McNeel+          (21)C2641  3 
+#/DATA      6
+#/DATASET

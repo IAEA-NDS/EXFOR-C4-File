@@ -1,0 +1,29 @@
+#ENTRY      C3001
+#AUTHOR1    J.H.Barker+
+#YEAR       1972
+#INSTITUTE  (1USATAM)
+#TITLE      Elastic and inelastic scattering of alpha particles
+#+          from 138Ba
+#AUTHOR(S)  J.H.Barker, J.C.Hiebert
+#REF-CODE   (J,PR/C,6,1795,1972)
+#REFERENCE  Phys.Rev.C 6 (1972) 1795
+#DATASETS   0
+#
+#DATASET    C3001003 
+#DATE       20241013
+#REACTION   56-BA-138(P,INL)56-BA-138,PAR,DA
+#PROJ       1001
+#TARG       56138
+#MF         4
+#MT         601
+#PRODUCT    56-BA-138
+#C4BEGIN    [ 1001 56138   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 56138   4 601  C 2.9300+7 300000.0 1.4100-3 3.4680-4 0.986481          2270000.         LVLJ.H.Barker+          (72)C3001  3 
+ 1001 56138   4 601  C 2.9300+7 300000.0 9.4850-4 1.8560-4 0.977911          2270000.         LVLJ.H.Barker+          (72)C3001  3 
+ 1001 56138   4 601  C 2.9300+7 300000.0 7.2200-4 1.8380-4 0.967055          2270000.         LVLJ.H.Barker+          (72)C3001  3 
+ 1001 56138   4 601  C 2.9300+7 300000.0 2.4250-4 9.5670-5 0.954454          2270000.         LVLJ.H.Barker+          (72)C3001  3 
+#/DATA      4
+#/DATASET

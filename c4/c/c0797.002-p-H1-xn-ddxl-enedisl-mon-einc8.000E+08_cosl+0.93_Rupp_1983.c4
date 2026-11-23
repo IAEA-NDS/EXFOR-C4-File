@@ -1,0 +1,40 @@
+#ENTRY      C0797
+#AUTHOR1    T.Rupp+
+#YEAR       1983
+#INSTITUTE  (1USANMX)
+#TITLE      Neutron energy-angle distributions from 800 MeV proton-
+#+          proton inelastic scattering
+#AUTHOR(S)  T.Rupp, R.Carlini, B.Dieterle, J.Donohue, C.Leavitt, W.Thomas, 
+#+          D.Wolfe, L.B.Auerbach, V.L.Highland, K.F.Johnson, W.K.McFarlane, 
+#+          J.Pratt, R.F.Bentley
+#REF-CODE   (J,PR/C,28,1696,198310)
+#REFERENCE  Phys.Rev.C 28 (1983) 1696
+#DATASETS   0
+#
+#DATASET    C0797002 
+#DATE       20010518
+#REACTION   1-H-1(P,X)0-NN-1,,DA/DE
+#PROJ       1001
+#TARG       1001
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1001  1001   6 201 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1001   6 201 A  8.0000+8          2.690-11 4.010-12 0.927184          2.1000+8          E2T.Rupp+              (83)C0797  2 
+ 1001  1001   6 201 A  8.0000+8          3.044-11 3.570-12 0.927184          2.3100+8          E2T.Rupp+              (83)C0797  2 
+ 1001  1001   6 201 A  8.0000+8          3.496-11 3.260-12 0.927184          2.5100+8          E2T.Rupp+              (83)C0797  2 
+ 1001  1001   6 201 A  8.0000+8          3.797-11 2.900-12 0.927184          2.7300+8          E2T.Rupp+              (83)C0797  2 
+ 1001  1001   6 201 A  8.0000+8          3.718-11 2.430-12 0.927184          2.9600+8          E2T.Rupp+              (83)C0797  2 
+ 1001  1001   6 201 A  8.0000+8          3.451-11 2.020-12 0.927184          3.1800+8          E2T.Rupp+              (83)C0797  2 
+ 1001  1001   6 201 A  8.0000+8          2.700-11 1.540-12 0.927184          3.4000+8          E2T.Rupp+              (83)C0797  2 
+ 1001  1001   6 201 A  8.0000+8          1.997-11 1.180-12 0.927184          3.6300+8          E2T.Rupp+              (83)C0797  2 
+ 1001  1001   6 201 A  8.0000+8          1.239-11 9.300-13 0.927184          3.8600+8          E2T.Rupp+              (83)C0797  2 
+ 1001  1001   6 201 A  8.0000+8          1.039-11 7.600-13 0.927184          4.1000+8          E2T.Rupp+              (83)C0797  2 
+ 1001  1001   6 201 A  8.0000+8          3.970-12 6.200-13 0.927184          4.3300+8          E2T.Rupp+              (83)C0797  2 
+ 1001  1001   6 201 A  8.0000+8          3.220-12 4.800-13 0.927184          4.5600+8          E2T.Rupp+              (83)C0797  2 
+ 1001  1001   6 201 A  8.0000+8          1.110-12 4.000-13 0.927184          4.8200+8          E2T.Rupp+              (83)C0797  2 
+#/DATA      13
+#/DATASET

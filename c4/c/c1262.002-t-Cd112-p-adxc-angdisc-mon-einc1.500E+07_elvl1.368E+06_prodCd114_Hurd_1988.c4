@@ -1,0 +1,29 @@
+#ENTRY      C1262
+#AUTHOR1    J.R.Hurd+
+#YEAR       1988
+#INSTITUTE  (1USAPEN)
+#TITLE      114Cd from 112Cd(t,p)
+#AUTHOR(S)  J.R.Hurd, H.T.Fortune, J.D.Zumbro, C.P.Browne
+#REF-CODE   (J,PR/C,37,2334,1988)
+#REFERENCE  Phys.Rev.C 37 (1988) 2334
+#DATASETS   0
+#
+#DATASET    C1262002 
+#DATE       20050616
+#REACTION   48-CD-112(T,P)48-CD-114,PAR,DA
+#PROJ       1003
+#TARG       48112
+#MF         4
+#MT         600
+#PRODUCT    48-CD-114
+#C4BEGIN    [ 1003 48112   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 48112   4 600  C 1.5000+7          4.7100-6 1.2700-6 0.980271          1368000.         LVLJ.R.Hurd+            (88)C1262  2 
+ 1003 48112   4 600  C 1.5000+7          9.8800-6          0.949425          1368000.         LVLJ.R.Hurd+            (88)C1262  2 
+ 1003 48112   4 600  C 1.5000+7          3.7600-6 6.8900-7 0.896486          1368000.         LVLJ.R.Hurd+            (88)C1262  2 
+ 1003 48112   4 600  C 1.5000+7          6.0500-7 3.2700-7 0.830012          1368000.         LVLJ.R.Hurd+            (88)C1262  2 
+ 1003 48112   4 600  C 1.5000+7          2.9300-6 8.8700-7 0.737277          1368000.         LVLJ.R.Hurd+            (88)C1262  2 
+#/DATA      5
+#/DATASET

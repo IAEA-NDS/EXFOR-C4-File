@@ -1,0 +1,42 @@
+#ENTRY      C1278
+#AUTHOR1    W.Bauhoff+
+#YEAR       1983
+#INSTITUTE  (3AULAML)
+#TITLE      Density-dependent forces and large-basis structure
+#+          models in the analyses of 12C(p, p') reactions at
+#+          135 MeV
+#AUTHOR(S)  W.Bauhoff, S.F.Collins, R.S.Henderson, G.G.Shute, B.M.Spicer, 
+#+          V.C.Officer, K.A.Amos, I.Morrison, D.W.Devins, D.L.Friesel, 
+#+          W.P.Jones
+#REF-CODE   (J,NP/A,410,180,1983)
+#REFERENCE  Nucl.Phys.A 410 (1983) 180
+#DATASETS   0
+#
+#DATASET    C1278004 
+#DATE       20050726
+#REACTION   6-C-12(P,INL)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         601
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 601  C 1.3500+8          1.5700-5 2.6700-6 0.898028          1.6580+7         LVLW.Bauhoff+           (83)C1278  4 
+ 1001  6012   4 601  C 1.3500+8          1.9700-5 2.0000-6 0.892586          1.6580+7         LVLW.Bauhoff+           (83)C1278  4 
+ 1001  6012   4 601  C 1.3500+8          2.1300-5 3.4300-6 0.882127          1.6580+7         LVLW.Bauhoff+           (83)C1278  4 
+ 1001  6012   4 601  C 1.3500+8          1.8800-5 1.9100-6 0.861629          1.6580+7         LVLW.Bauhoff+           (83)C1278  4 
+ 1001  6012   4 601  C 1.3500+8          3.0500-5 3.3600-6 0.841511          1.6580+7         LVLW.Bauhoff+           (83)C1278  4 
+ 1001  6012   4 601  C 1.3500+8          3.1200-5 5.0200-6 0.820152          1.6580+7         LVLW.Bauhoff+           (83)C1278  4 
+ 1001  6012   4 601  C 1.3500+8          3.3300-5 3.9400-6 0.799685          1.6580+7         LVLW.Bauhoff+           (83)C1278  4 
+ 1001  6012   4 601  C 1.3500+8          3.4600-5 2.4000-6 0.788011          1.6580+7         LVLW.Bauhoff+           (83)C1278  4 
+ 1001  6012   4 601  C 1.3500+8          3.2100-5 3.2700-6 0.776046          1.6580+7         LVLW.Bauhoff+           (83)C1278  4 
+ 1001  6012   4 601  C 1.3500+8          2.4900-5 1.7300-6 0.726575          1.6580+7         LVLW.Bauhoff+           (83)C1278  4 
+ 1001  6012   4 601  C 1.3500+8          1.3800-5 1.0600-6 0.657375          1.6580+7         LVLW.Bauhoff+           (83)C1278  4 
+ 1001  6012   4 601  C 1.3500+8          5.9000-6 6.4800-7 0.587785          1.6580+7         LVLW.Bauhoff+           (83)C1278  4 
+ 1001  6012   4 601  C 1.3500+8          3.5700-6 8.3000-7 0.507538          1.6580+7         LVLW.Bauhoff+           (83)C1278  4 
+ 1001  6012   4 601  C 1.3500+8          1.1600-6 2.2700-7 0.425779          1.6580+7         LVLW.Bauhoff+           (83)C1278  4 
+#/DATA      14
+#/DATASET

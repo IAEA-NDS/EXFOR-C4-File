@@ -1,0 +1,33 @@
+#ENTRY      C0839
+#AUTHOR1    F.T.Baker+
+#YEAR       1981
+#INSTITUTE  (1USAGEO)
+#TITLE      192Os(alpha,alpha') reaction at E(alpha)=24 MeV and
+#+          the IBA model
+#AUTHOR(S)  F.T.Baker, M.A.Grimm Jr, A.Scott, R.C.Styles, T.H.Kruse, 
+#+          K.Jones, R.Suchannek
+#REF-CODE   (J,NP/A,371,68,1981)
+#REFERENCE  Nucl.Phys.A 371 (1981) 68
+#DATASETS   0
+#
+#DATASET    C0839003 
+#DATE       20020813
+#REACTION   76-OS-192(A,INL)76-OS-192,PAR,DA
+#PROJ       2004
+#TARG       76192
+#MF         4
+#MT         801
+#PRODUCT    76-OS-192
+#C4BEGIN    [ 2004 76192   4 801 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 76192   4 801 AC 2.4000+7          8.0000-6 4.7200-6 0.153331          1069000.         LVLF.T.Baker+           (81)C0839  3 
+ 2004 76192   4 801 AC 2.4000+7          1.8000-5 4.8600-6-0.020768          1069000.         LVLF.T.Baker+           (81)C0839  3 
+ 2004 76192   4 801 AC 2.4000+7          1.7000-5 3.5700-6-0.193892          1069000.         LVLF.T.Baker+           (81)C0839  3 
+ 2004 76192   4 801 AC 2.4000+7          1.6000-5 1.7600-6-0.360322          1069000.         LVLF.T.Baker+           (81)C0839  3 
+ 2004 76192   4 801 AC 2.4000+7          1.5000-5 2.1000-6-0.515487          1069000.         LVLF.T.Baker+           (81)C0839  3 
+ 2004 76192   4 801 AC 2.4000+7          1.4000-5 1.6800-6-0.654873          1069000.         LVLF.T.Baker+           (81)C0839  3 
+ 2004 76192   4 801 AC 2.4000+7          1.2000-5 1.4400-6-0.774613          1069000.         LVLF.T.Baker+           (81)C0839  3 
+#/DATA      7
+#/DATASET

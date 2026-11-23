@@ -1,0 +1,36 @@
+#ENTRY      C2622
+#AUTHOR1    G.D.Gunn+
+#YEAR       1974
+#INSTITUTE  (1USAFSU)
+#TITLE      Study of structure in the 28Si(p,n)28P and
+#+          28Si(p,alpha)25Al excitation functions
+#AUTHOR(S)  G.D.Gunn, K.W.Kemper, J.D.Fox
+#REF-CODE   (J,NP/A,232,176,1974)
+#REFERENCE  Nucl.Phys.A 232 (1974) 176
+#DATASETS   0
+#
+#DATASET    C2622004 
+#DATE       20210914
+#REACTION   14-SI-28(P,A)13-AL-25,PAR,DA
+#PROJ       1001
+#TARG       14028
+#MF         4
+#MT         800
+#PRODUCT    13-AL-25
+#C4BEGIN    [ 1001 14028   4 800 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 14028   4 800 CC 1.7900+7          1.1640-4          0.553581          455000.0         LVLG.D.Gunn+            (74)C2622  4 
+ 1001 14028   4 800 CC 1.7900+7          1.1120-4          0.387403          455000.0         LVLG.D.Gunn+            (74)C2622  4 
+ 1001 14028   4 800 CC 1.7900+7          7.8710-5          0.218637          455000.0         LVLG.D.Gunn+            (74)C2622  4 
+ 1001 14028   4 800 CC 1.7900+7          1.8550-4          0.037272          455000.0         LVLG.D.Gunn+            (74)C2622  4 
+ 1001 14028   4 800 CC 1.7900+7          2.4690-4         -0.139657          455000.0         LVLG.D.Gunn+            (74)C2622  4 
+ 1001 14028   4 800 CC 1.7900+7          1.1640-4         -0.317636          455000.0         LVLG.D.Gunn+            (74)C2622  4 
+ 1001 14028   4 800 CC 1.7900+7          3.3390-5 7.9210-6-0.474964          455000.0         LVLG.D.Gunn+            (74)C2622  4 
+ 1001 14028   4 800 CC 1.7900+7          9.0120-5         -0.618326          455000.0         LVLG.D.Gunn+            (74)C2622  4 
+ 1001 14028   4 800 CC 1.7900+7          2.5440-4         -0.743495          455000.0         LVLG.D.Gunn+            (74)C2622  4 
+ 1001 14028   4 800 CC 1.7900+7          2.5830-4         -0.962507          455000.0         LVLG.D.Gunn+            (74)C2622  4 
+ 1001 14028   4 800 CC 1.7900+7          1.3320-4         -0.996791          455000.0         LVLG.D.Gunn+            (74)C2622  4 
+#/DATA      11
+#/DATASET

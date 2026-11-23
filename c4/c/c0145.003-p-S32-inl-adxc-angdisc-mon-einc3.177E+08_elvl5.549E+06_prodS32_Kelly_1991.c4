@@ -1,0 +1,32 @@
+#ENTRY      C0145
+#AUTHOR1    J.J.Kelly+
+#YEAR       1991
+#INSTITUTE  (1USAMRY)
+#TITLE      Neutron and proton transition densities from
+#+          32,34S(p,p') at E(p) = 318 MeV.
+#+          I. Isoscalar densities of 32S
+#AUTHOR(S)  J.J.Kelly, M.A.Khandaker, P.Boberg, A.E.Feldman, B.S.Flanders, 
+#+          S.Hyman, H.Seifert, P.Karen, B.E.Norum, P.Welch, S.Nanda, 
+#+          A.Saha
+#REF-CODE   (J,PR/C,44,1963,9111)
+#REFERENCE  Phys.Rev.C 44 (1991) 1963
+#DATASETS   0
+#
+#DATASET    C0145003 
+#DATE       19970422
+#REACTION   16-S-32(P,INL)16-S-32,PAR,DA
+#PROJ       1001
+#TARG       16032
+#MF         4
+#MT         601
+#PRODUCT    16-S-32
+#C4BEGIN    [ 1001 16032   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 16032   4 601 AC 3.1770+8 400000.0 7.9980-5 2.0043-5 0.991917          5549000.         LVLJ.J.Kelly+           (91)C0145  3 
+ 1001 16032   4 601 AC 3.1770+8 400000.0 1.0890-4 2.1029-5 0.986629          5549000.         LVLJ.J.Kelly+           (91)C0145  3 
+ 1001 16032   4 601 AC 3.1770+8 400000.0 1.7290-4 2.4846-5 0.952661          5549000.         LVLJ.J.Kelly+           (91)C0145  3 
+ 1001 16032   4 601 AC 3.1770+8 400000.0 6.4030-5 9.0026-6 0.928096          5549000.         LVLJ.J.Kelly+           (91)C0145  3 
+#/DATA      4
+#/DATASET

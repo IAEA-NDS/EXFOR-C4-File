@@ -1,0 +1,41 @@
+#ENTRY      C0425
+#AUTHOR1    A.J.Simon+
+#YEAR       1996
+#INSTITUTE  (1USALAS)
+#TITLE      Absolute pp-elastic cross sections from 492 to 793 MeV
+#+          using CH2 targets
+#AUTHOR(S)  A.J.Simon, G.Glass, M.W.Mc Naughton, T.Noro, K.H.Mc Naughton, 
+#+          P.J.Riley, E.Guelmez, C.A.Whitten Jr, V.R.Cupps, R.D.Ransome, 
+#+          D.L.Adams
+#REF-CODE   (J,PR/C,53,30,9601)
+#REFERENCE  Phys.Rev.C 53 (1996) 30
+#DATASETS   0
+#
+#DATASET    C0425002 
+#DATE       19960306
+#REACTION   1-H-1(P,EL)1-H-1,,DA
+#PROJ       1001
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001  1001   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1001   4   2 AC 4.9190+8          4.2400-3 8.9000-5 0.748956                              A.J.Simon+           (96)C0425  2 
+ 1001  1001   4   2 AC 4.9190+8          4.0830-3 8.0000-5 0.703891                              A.J.Simon+           (96)C0425  2 
+ 1001  1001   4   2 AC 4.9190+8          4.0290-3 7.6000-5 0.656322                              A.J.Simon+           (96)C0425  2 
+ 1001  1001   4   2 AC 4.9190+8          4.0660-3 6.4000-5 0.606266                              A.J.Simon+           (96)C0425  2 
+ 1001  1001   4   2 AC 4.9190+8          4.0580-3 6.3000-5 0.553682                              A.J.Simon+           (96)C0425  2 
+ 1001  1001   4   2 AC 4.9190+8          3.8490-3 5.6000-5 0.499849                              A.J.Simon+           (96)C0425  2 
+ 1001  1001   4   2 AC 4.9190+8          3.8530-3 5.3000-5 0.444010                              A.J.Simon+           (96)C0425  2 
+ 1001  1001   4   2 AC 4.9190+8          3.7700-3 5.1000-5 0.386389                              A.J.Simon+           (96)C0425  2 
+ 1001  1001   4   2 AC 4.9190+8          3.7020-3 5.1000-5 0.327713                              A.J.Simon+           (96)C0425  2 
+ 1001  1001   4   2 AC 4.9190+8          3.5270-3 3.5000-5 0.268079                              A.J.Simon+           (96)C0425  2 
+ 1001  1001   4   2 AC 4.9190+8          3.5060-3 3.5000-5 0.207741                              A.J.Simon+           (96)C0425  2 
+ 1001  1001   4   2 AC 4.9190+8          3.4720-3 3.5000-5 0.147119                              A.J.Simon+           (96)C0425  2 
+ 1001  1001   4   2 AC 4.9190+8          3.4160-3 3.6000-5 0.085939                              A.J.Simon+           (96)C0425  2 
+ 1001  1001   4   2 AC 4.9190+8          3.4040-3 3.4000-5 0.025654                              A.J.Simon+           (96)C0425  2 
+#/DATA      14
+#/DATASET

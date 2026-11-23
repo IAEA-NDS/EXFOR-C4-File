@@ -1,0 +1,36 @@
+#ENTRY      C2278
+#AUTHOR1    S.Almaraz-Calderon+
+#YEAR       2017
+#INSTITUTE  (1USAFSU)
+#TITLE      Study of the 26mAl(d,p)27Al Reaction and the
+#+          Influence of the 26Al 0+ Isomer on the Destruction
+#+          of 26Al in the Galaxy
+#AUTHOR(S)  S.Almaraz-Calderon, K.E.Rehm, N.Gerken, M.L.Avila, B.P.Kay, 
+#+          R.Talwar, A.D.Ayangeakaa, S.Bottoni, A.A.Chen, C.M.Deibel, 
+#+          C.Dickerson, K.Hanselman, C.R.Hoffman, C.L.Jiang, S.A.Kuvin, 
+#+          O.Nusair, R.C.Pardo, D.Santiago-Gonzalez, J.Sethi, C.Ugalde
+#REF-CODE   (J,PRL,119,072701,2017)
+#REFERENCE  Phys.Rev.Lett. 119 (2017) 072701
+#DATASETS   0
+#
+#DATASET    C2278002 
+#DATE       20180208
+#REACTION   (1-H-2(13-AL-26-M,P)13-AL-27,PAR,DA,RSD)=(13-AL-26-M(D,P)13-AL-27,PAR,DA)
+#PROJ       1002
+#TARG       13026
+#MF         4
+#MT         600
+#PRODUCT    13-AL-27
+#C4BEGIN    [ 1002 13026M  4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 13026M  4 600  C 9200000.          3.2900-3 8.7000-4 0.987960 2.4302-3 840000.0         LVLS.Almaraz-Calderon+  (17)C2278  2 
+ 1002 13026M  4 600  C 9200000.          2.9000-3 7.7000-4 0.982287 2.9434-3 840000.0         LVLS.Almaraz-Calderon+  (17)C2278  2 
+ 1002 13026M  4 600  C 9200000.          2.1900-3 5.5000-4 0.975917 3.4266-3 840000.0         LVLS.Almaraz-Calderon+  (17)C2278  2 
+ 1002 13026M  4 600  C 9200000.          2.1900-3 5.6000-4 0.968583 3.9064-3 840000.0         LVLS.Almaraz-Calderon+  (17)C2278  2 
+ 1002 13026M  4 600  C 9200000.          6.7000-4 1.8000-4 0.956814 6.0885-3 840000.0         LVLS.Almaraz-Calderon+  (17)C2278  2 
+ 1002 13026M  4 600  C 9200000.          3.1000-4 8.0000-5 0.939693 9.5510-3 840000.0         LVLS.Almaraz-Calderon+  (17)C2278  2 
+ 1002 13026M  4 600  C 9200000.          3.0000-4 8.0000-5 0.921185 9.5081-3 840000.0         LVLS.Almaraz-Calderon+  (17)C2278  2 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,38 @@
+#ENTRY      C0813
+#AUTHOR1    R.Madey+
+#YEAR       1997
+#INSTITUTE  (1USAKNT)
+#TITLE      0+ to 0- transition in the 16O(p,n)16F reaction at 79
+#+          MeV
+#AUTHOR(S)  R.Madey, B.S.Flanders, B.D.Anderson, A.R.Baldwin, W.Bertozzi, 
+#+          T.Chittrakarn, J.R.Comfort, J.M.Finn, C.C.Foster, C.Hyde-Wright, 
+#+          J.J.Kelly, C.Lebo, H.Orihara, W.Pairsuwan, J.W.Watson
+#REF-CODE   (J,PR/C,56,3210,199712)
+#REFERENCE  Phys.Rev.C 56 (1997) 3210
+#DATASETS   0
+#
+#DATASET    C0813002 
+#DATE       20010611
+#REACTION   8-O-16(P,N)9-F-16,PAR,DA
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         50
+#PRODUCT    9-F-16
+#C4BEGIN    [ 1001  8016   4  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4  50 AC 7.9300+7          7.0000-5 4.0000-6 0.999986          190000.0         LVLR.Madey+             (97)C0813  2 
+ 1001  8016   4  50 AC 7.9300+7          1.4800-4 6.0000-6 0.988756          190000.0         LVLR.Madey+             (97)C0813  2 
+ 1001  8016   4  50 AC 7.9300+7          1.8000-4 4.0000-6 0.970296          190000.0         LVLR.Madey+             (97)C0813  2 
+ 1001  8016   4  50 AC 7.9300+7          9.9000-5 3.0000-6 0.943223          190000.0         LVLR.Madey+             (97)C0813  2 
+ 1001  8016   4  50 AC 7.9300+7          6.1000-5 4.0000-6 0.900319          190000.0         LVLR.Madey+             (97)C0813  2 
+ 1001  8016   4  50 AC 7.9300+7          2.8000-5 3.0000-6 0.826098          190000.0         LVLR.Madey+             (97)C0813  2 
+ 1001  8016   4  50 AC 7.9300+7          4.2000-5 3.0000-6 0.770513          190000.0         LVLR.Madey+             (97)C0813  2 
+ 1001  8016   4  50 AC 7.9300+7          3.6000-5 3.0000-6 0.708340          190000.0         LVLR.Madey+             (97)C0813  2 
+ 1001  8016   4  50 AC 7.9300+7          3.6000-5 3.0000-6 0.667833          190000.0         LVLR.Madey+             (97)C0813  2 
+ 1001  8016   4  50 AC 7.9300+7          1.6000-5 4.0000-6 0.551937          190000.0         LVLR.Madey+             (97)C0813  2 
+ 1001  8016   4  50 AC 7.9300+7          6.0000-6 2.0000-6 0.474088          190000.0         LVLR.Madey+             (97)C0813  2 
+#/DATA      11
+#/DATASET

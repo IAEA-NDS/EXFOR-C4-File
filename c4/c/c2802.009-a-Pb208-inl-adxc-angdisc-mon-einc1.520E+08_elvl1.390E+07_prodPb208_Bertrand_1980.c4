@@ -1,0 +1,30 @@
+#ENTRY      C2802
+#AUTHOR1    F.E.Bertrand+
+#YEAR       1980
+#INSTITUTE  (1USAORL)
+#TITLE      Giant multipole resonances from inelastic scattering
+#+          of 152-MeV alpha particles
+#AUTHOR(S)  F.E.Bertrand, G.R.Satchler, D.J.Horen, J.R.Wu, A.D.Bacher, 
+#+          G.T.Emery, W.P.Jones, D.W.Miller, A.van der Woude
+#REF-CODE   (J,PR/C,22,1832,1980)
+#REFERENCE  Phys.Rev.C 22 (1980) 1832
+#DATASETS   0
+#
+#DATASET    C2802009 
+#DATE       20220904
+#REACTION   82-PB-208(A,INL)82-PB-208,PAR,DA
+#PROJ       2004
+#TARG       82208
+#MF         4
+#MT         801
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 2004 82208   4 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 82208   4 801  C 1.5200+8          0.011630 3.8520-3 0.978771          1.3900+7         LVLF.E.Bertrand+        (80)C2802  9 
+ 2004 82208   4 801  C 1.5200+8          3.6060-3 9.5060-4 0.975215          1.3900+7         LVLF.E.Bertrand+        (80)C2802  9 
+ 2004 82208   4 801  C 1.5200+8          3.6910-3 9.7320-4 0.966286          1.3900+7         LVLF.E.Bertrand+        (80)C2802  9 
+ 2004 82208   4 801  C 1.5200+8          3.1820-3 7.0180-4 0.961001          1.3900+7         LVLF.E.Bertrand+        (80)C2802  9 
+#/DATA      4
+#/DATASET

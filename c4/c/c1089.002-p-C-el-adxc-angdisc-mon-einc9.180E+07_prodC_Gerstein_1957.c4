@@ -1,0 +1,34 @@
+#ENTRY      C1089
+#AUTHOR1    G.Gerstein+
+#YEAR       1957
+#INSTITUTE  (1USAHRV)
+#TITLE      Elastic Scattering of 96-Mev Protons.
+#AUTHOR(S)  G.Gerstein, J.Niederer, K.Strauch
+#REF-CODE   (J,PR,108,427,1957)
+#REFERENCE  Phys.Rev. 108 (1957) 427
+#DATASETS   0
+#
+#DATASET    C1089002 
+#DATE       20050105
+#REACTION   6-C-0(P,EL)6-C-0,,DA
+#PROJ       1001
+#TARG       6000
+#MF         4
+#MT         2
+#PRODUCT    6-C-0
+#C4BEGIN    [ 1001  6000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6000   4   2  C 9.1800+7          6.538000          0.998605 6.4515-4                     G.Gerstein+          (57)C1089  2 
+ 1001  6000   4   2  C 9.1800+7          2.915000          0.997737 8.2139-4                     G.Gerstein+          (57)C1089  2 
+ 1001  6000   4   2  C 9.1800+7          1.340000          0.997378 8.8414-4                     G.Gerstein+          (57)C1089  2 
+ 1001  6000   4   2  C 9.1800+7          0.810700          0.996246 1.0576-3                     G.Gerstein+          (57)C1089  2 
+ 1001  6000   4   2  C 9.1800+7          0.571100          0.995152 1.2015-3                     G.Gerstein+          (57)C1089  2 
+ 1001  6000   4   2  C 9.1800+7          0.498200          0.993417 1.3996-3                     G.Gerstein+          (57)C1089  2 
+ 1001  6000   4   2  C 9.1800+7          0.483800          0.990493 1.6807-3                     G.Gerstein+          (57)C1089  2 
+ 1001  6000   4   2  C 9.1800+7          0.514900          0.985518 2.0717-3                     G.Gerstein+          (57)C1089  2 
+ 1001  6000   4   2  C 9.1800+7          0.508100          0.977120 2.5985-3                     G.Gerstein+          (57)C1089  2 
+ 1001  6000   4   2  C 9.1800+7          0.450200          0.971342 2.9039-3                     G.Gerstein+          (57)C1089  2 
+#/DATA      10
+#/DATASET

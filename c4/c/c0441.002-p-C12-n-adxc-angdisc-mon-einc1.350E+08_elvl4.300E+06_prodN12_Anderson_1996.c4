@@ -1,0 +1,37 @@
+#ENTRY      C0441
+#AUTHOR1    B.D.Anderson+
+#YEAR       1996
+#INSTITUTE  (1USAINU)
+#TITLE      12C(p,n)12N reaction at 135 MeV
+#AUTHOR(S)  B.D.Anderson, L.A.C.Garcia, D.J.Millener, D.M.Manley, A.R.Baldwin, 
+#+          A.Fazely, R.Madey, N.Tamimi, J.W.Watson, C.C.Foster
+#REF-CODE   (J,PR/C,54,237,9607)
+#REFERENCE  Phys.Rev.C 54 (1996) 237
+#DATASETS   0
+#
+#DATASET    C0441002 
+#DATE       19961223
+#REACTION   6-C-12(P,N)7-N-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         50
+#PRODUCT    7-N-12
+#C4BEGIN    [ 1001  6012   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4  50  C 1.3500+8          1.4390-3 1.4080-4 0.999994          4300000.         LVLB.D.Anderson+        (96)C0441  2 
+ 1001  6012   4  50  C 1.3500+8          2.1260-3 1.4330-4 0.993333          4300000.         LVLB.D.Anderson+        (96)C0441  2 
+ 1001  6012   4  50  C 1.3500+8          2.2610-3 1.9420-4 0.974331          4300000.         LVLB.D.Anderson+        (96)C0441  2 
+ 1001  6012   4  50  C 1.3500+8          1.6770-3 1.6080-4 0.940703          4300000.         LVLB.D.Anderson+        (96)C0441  2 
+ 1001  6012   4  50  C 1.3500+8          1.1790-3 1.0150-5 0.895634          4300000.         LVLB.D.Anderson+        (96)C0441  2 
+ 1001  6012   4  50  C 1.3500+8          8.1110-4 7.1480-5 0.839051          4300000.         LVLB.D.Anderson+        (96)C0441  2 
+ 1001  6012   4  50  C 1.3500+8          6.1070-4 6.8430-5 0.774282          4300000.         LVLB.D.Anderson+        (96)C0441  2 
+ 1001  6012   4  50  C 1.3500+8          3.2290-4 4.9800-5 0.695160          4300000.         LVLB.D.Anderson+        (96)C0441  2 
+ 1001  6012   4  50  C 1.3500+8          2.3280-4 2.6880-5 0.653685          4300000.         LVLB.D.Anderson+        (96)C0441  2 
+ 1001  6012   4  50  C 1.3500+8          9.0240-5 1.9410-5 0.568131          4300000.         LVLB.D.Anderson+        (96)C0441  2 
+ 1001  6012   4  50  C 1.3500+8          3.9940-5 2.2310-5 0.473320          4300000.         LVLB.D.Anderson+        (96)C0441  2 
+ 1001  6012   4  50  C 1.3500+8          1.8320-5 9.1600-6 0.370395          4300000.         LVLB.D.Anderson+        (96)C0441  2 
+#/DATA      12
+#/DATASET

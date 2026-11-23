@@ -1,0 +1,41 @@
+#ENTRY      C1295
+#AUTHOR1    D.J.Horen+
+#YEAR       1984
+#INSTITUTE  (1USAORL)
+#TITLE      Excitation of E2 transitions in 40Ca by 334-MeV protons
+#AUTHOR(S)  D.J.Horen, F.E.Bertrand, E.E.Gross, T.P.Sjoreen, D.K.McDaniels, 
+#+          J.R.Tinsley, J.Lisantti, L.W.Swenson, J.B.McClelland, T.A.Carey, 
+#+          S.J.Seestrom-Morris, K.Jones
+#REF-CODE   (J,PR/C,30,709,1984)
+#REFERENCE  Phys.Rev.C 30 (1984) 709
+#DATASETS   0
+#
+#DATASET    C1295002 
+#DATE       20050805
+#REACTION   20-CA-40(P,INL)20-CA-40,PAR,DA
+#PROJ       1001
+#TARG       20040
+#MF         4
+#MT         601
+#PRODUCT    20-CA-40
+#C4BEGIN    [ 1001 20040   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20040   4 601  C 3.3400+8          3.3100-4          0.998986          3904000.         LVLD.J.Horen+           (84)C1295  2 
+ 1001 20040   4 601  C 3.3400+8          3.1600-4          0.998684          3904000.         LVLD.J.Horen+           (84)C1295  2 
+ 1001 20040   4 601  C 3.3400+8          2.5200-4          0.998411          3904000.         LVLD.J.Horen+           (84)C1295  2 
+ 1001 20040   4 601  C 3.3400+8          3.1400-4          0.998167          3904000.         LVLD.J.Horen+           (84)C1295  2 
+ 1001 20040   4 601  C 3.3400+8          4.4900-4 6.3700-5 0.998124          3904000.         LVLD.J.Horen+           (84)C1295  2 
+ 1001 20040   4 601  C 3.3400+8          5.0100-4 5.3400-5 0.997515          3904000.         LVLD.J.Horen+           (84)C1295  2 
+ 1001 20040   4 601  C 3.3400+8          6.5300-4 6.4100-5 0.996945          3904000.         LVLD.J.Horen+           (84)C1295  2 
+ 1001 20040   4 601  C 3.3400+8          9.2100-4 6.6900-5 0.995994          3904000.         LVLD.J.Horen+           (84)C1295  2 
+ 1001 20040   4 601  C 3.3400+8          1.1800-3 8.5900-5 0.995346          3904000.         LVLD.J.Horen+           (84)C1295  2 
+ 1001 20040   4 601  C 3.3400+8          1.6600-3 1.2100-4 0.994485          3904000.         LVLD.J.Horen+           (84)C1295  2 
+ 1001 20040   4 601  C 3.3400+8          1.8500-3 1.3500-4 0.993493          3904000.         LVLD.J.Horen+           (84)C1295  2 
+ 1001 20040   4 601  C 3.3400+8          2.4600-3 2.2000-4 0.992310          3904000.         LVLD.J.Horen+           (84)C1295  2 
+ 1001 20040   4 601  C 3.3400+8          2.7400-3 2.2200-4 0.991053          3904000.         LVLD.J.Horen+           (84)C1295  2 
+ 1001 20040   4 601  C 3.3400+8          2.9600-3 2.6500-4 0.989876          3904000.         LVLD.J.Horen+           (84)C1295  2 
+ 1001 20040   4 601  C 3.3400+8          3.0800-3 2.7600-4 0.988547          3904000.         LVLD.J.Horen+           (84)C1295  2 
+#/DATA      15
+#/DATASET

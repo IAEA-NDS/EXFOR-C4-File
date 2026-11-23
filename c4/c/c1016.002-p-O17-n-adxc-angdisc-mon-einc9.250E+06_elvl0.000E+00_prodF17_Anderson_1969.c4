@@ -1,0 +1,35 @@
+#ENTRY      C1016
+#AUTHOR1    J.D.Anderson+
+#YEAR       1969
+#INSTITUTE  (1USALRL)
+#TITLE      Effective Two-Body Force Inferred from the (p,n)
+#+          Reaction on 17O,18O,27Al, and Other Light Nuclei
+#AUTHOR(S)  J.D.Anderson, S.D.Bloom, C.Wong, W.F.Hornyak, V.A.Madsen
+#REF-CODE   (J,PR,177,1416,1969)
+#REFERENCE  Phys.Rev. 177 (1969) 1416
+#DATASETS   0
+#
+#DATASET    C1016002 
+#DATE       20040407
+#REACTION   8-O-17(P,N)9-F-17,PAR,DA
+#PROJ       1001
+#TARG       8017
+#MF         4
+#MT         50
+#PRODUCT    9-F-17
+#C4BEGIN    [ 1001  8017   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8017   4  50  C 9250000.          0.010500          0.997000          0.000000         LVLJ.D.Anderson+        (69)C1016  2 
+ 1001  8017   4  50  C 9250000.          8.5000-3          0.944000          0.000000         LVLJ.D.Anderson+        (69)C1016  2 
+ 1001  8017   4  50  C 9250000.          5.5000-3          0.828000          0.000000         LVLJ.D.Anderson+        (69)C1016  2 
+ 1001  8017   4  50  C 9250000.          3.4000-3 4.0000-4 0.651000          0.000000         LVLJ.D.Anderson+        (69)C1016  2 
+ 1001  8017   4  50  C 9250000.          3.6000-3 4.0000-4 0.424000          0.000000         LVLJ.D.Anderson+        (69)C1016  2 
+ 1001  8017   4  50  C 9250000.          4.3000-3 4.0000-4 0.165000          0.000000         LVLJ.D.Anderson+        (69)C1016  2 
+ 1001  8017   4  50  C 9250000.          5.6000-3         -0.086000          0.000000         LVLJ.D.Anderson+        (69)C1016  2 
+ 1001  8017   4  50  C 9250000.          5.3000-3         -0.347000          0.000000         LVLJ.D.Anderson+        (69)C1016  2 
+ 1001  8017   4  50  C 9250000.          3.6000-3 3.0000-4-0.571000          0.000000         LVLJ.D.Anderson+        (69)C1016  2 
+ 1001  8017   4  50  C 9250000.          2.6000-3 2.0000-4-0.751000          0.000000         LVLJ.D.Anderson+        (69)C1016  2 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      C2809
+#AUTHOR1    A.Di Pietro+
+#YEAR       2022
+#INSTITUTE  (2ITYLNS)
+#TITLE      Hints of quasi-molecular states in 13B via the study
+#+          of 9Li-4He elastic scattering
+#AUTHOR(S)  A.Di Pietro, A.C.Shotter, J.P.Fernandez-Garcia, P.Figuera, 
+#+          M.Fisichella, A.M.Moro, M.Alcorta, M.J.G.Borge, T.Davinson, 
+#+          F.Ferrera, A.M.Laird, M.Lattuada, N.Soic, O.Tengblad, D.Torresi, 
+#+          M.Zadro
+#REF-CODE   (J,PL/B,832,137256,2022)
+#REFERENCE  Phys.Lett.B 832 (2022) 137256
+#DATASETS   0
+#
+#DATASET    C2809007 
+#DATE       20220909
+#REACTION   (2-HE-4(3-LI-9,EL)2-HE-4,,DA)=(3-LI-9(A,EL)3-LI-9,,DA)
+#PROJ       2004
+#TARG       3009
+#MF         4
+#MT         2
+#PRODUCT    3-LI-9
+#C4BEGIN    [ 2004  3009   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  3009   4   2  C 1.8400+7          0.042310 1.1700-3-0.999303                              A.Di Pietro+         (22)C2809  7 
+ 2004  3009   4   2  C 1.8400+7          0.033700 1.3000-3-0.991262                              A.Di Pietro+         (22)C2809  7 
+ 2004  3009   4   2  C 1.8400+7          0.026700 1.2000-3-0.983191                              A.Di Pietro+         (22)C2809  7 
+ 2004  3009   4   2  C 1.8400+7          3.5200-3 1.0000-4-0.869495                              A.Di Pietro+         (22)C2809  7 
+ 2004  3009   4   2  C 1.8400+7          4.4000-3 1.3000-4-0.770068                              A.Di Pietro+         (22)C2809  7 
+#/DATA      5
+#/DATASET

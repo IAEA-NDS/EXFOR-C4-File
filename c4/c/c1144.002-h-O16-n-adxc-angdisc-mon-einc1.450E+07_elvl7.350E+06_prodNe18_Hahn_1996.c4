@@ -1,0 +1,34 @@
+#ENTRY      C1144
+#AUTHOR1    K.I.Hahn+
+#YEAR       1996
+#INSTITUTE  (1USAYAL)
+#TITLE      Structure of 18Ne and the breakout from the hot CNO
+#+          cycle
+#AUTHOR(S)  K.I.Hahn, A.Garcia, E.G.Adelberger, P.V.Magnus, A.D.Bacher, 
+#+          N.Bateman, G.P.A.Berg, J.C.Blackmon, A.E.Champagne, B.Davis, 
+#+          A.J.Howard, J.Liu, B.Lund, Z.Q.Mao, D.M.Markoff, P.D.Parker, 
+#+          M.S.Smith, E.J.Stephenson, K.B.Swartz, S.Utku, R.B.Vogelaar, 
+#+          K.Yildiz
+#REF-CODE   (J,PR/C,54,1999,1996)
+#REFERENCE  Phys.Rev.C 54 (1996) 1999
+#DATASETS   0
+#
+#DATASET    C1144002 
+#DATE       20050202
+#REACTION   8-O-16(HE3,N)10-NE-18,PAR,DA
+#PROJ       2003
+#TARG       8016
+#MF         4
+#MT         50
+#PRODUCT    10-NE-18
+#C4BEGIN    [ 2003  8016   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  8016   4  50  C 1.4500+7          2.7170-4 7.8850-5 1.000000          7350000.         LVLK.I.Hahn+            (96)C1144  2 
+ 2003  8016   4  50  C 1.4500+7          1.8440-4 5.3510-5 1.000000          7350000.         LVLK.I.Hahn+            (96)C1144  2 
+ 2003  8016   4  50  C 1.4500+7          2.7390-4 6.1950-5 0.971879          7350000.         LVLK.I.Hahn+            (96)C1144  2 
+ 2003  8016   4  50  C 1.4500+7          2.5700-5 5.0690-5 0.874450          7350000.         LVLK.I.Hahn+            (96)C1144  2 
+ 2003  8016   4  50  C 1.4500+7          8.4170-5 5.0690-5 0.735624          7350000.         LVLK.I.Hahn+            (96)C1144  2 
+#/DATA      5
+#/DATASET

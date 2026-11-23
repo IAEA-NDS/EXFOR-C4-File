@@ -1,0 +1,41 @@
+#ENTRY      C3094
+#AUTHOR1    B.Gao+
+#YEAR       2025
+#INSTITUTE  (3CPRIMP)
+#TITLE      Measurements of Gamow-Teller transitions from 59Co
+#+          via the 59Co(t,3He+gamma) charge-exchange reaction
+#+          and its application to the stellar electron- capture
+#+          rates
+#AUTHOR(S)  B.Gao, S.Giraud, C.J.Lv, Y.Sun, R.G.T.Zegers, L.J.Wang, 
+#+          Y.F.Niu, J.Ash, Y.Ayyad-Limonge, D.Bazin, S.Biswas, B.A.Brown, 
+#+          J.Chen, P.Farris, A.Gade, T.Ginter, M.Grinder, A.M.Hill, 
+#+          H.Iwasaki, E.Kwan, K.A.Li, B.Longfellow, C.Maher, F.Ndayisabye, 
+#+          S.Noji, J.Pereira, A.Revel, D.Rhodes, A.Sanchez, J.Schmitt, 
+#+          C.Sumithrarachchi, X.Tang, S.C.Wang, D.Weisshaar
+#REF-CODE   (J,PR/C,112,024615,2025)
+#REFERENCE  Phys.Rev.C 112 (2025) 024615
+#DATASETS   0
+#
+#DATASET    C3094002 
+#DATE       20251211
+#REACTION   27-CO-59(T,HE3)26-FE-59,PAR,DA
+#PROJ       1003
+#TARG       27059
+#MF         4
+#MT         750
+#PRODUCT    26-FE-59
+#C4BEGIN    [ 1003 27059   4 750 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 27059   4 750 AC 3.4500+8          3.7600-4 6.8000-5 0.999990          7125000.         LVLB.Gao+               (25)C3094  2 
+ 1003 27059   4 750 AC 3.4500+8          3.7700-4 3.9000-5 0.999914          7125000.         LVLB.Gao+               (25)C3094  2 
+ 1003 27059   4 750 AC 3.4500+8          4.5900-4 3.3000-5 0.999762          7125000.         LVLB.Gao+               (25)C3094  2 
+ 1003 27059   4 750 AC 3.4500+8          4.5000-4 2.8000-5 0.999533          7125000.         LVLB.Gao+               (25)C3094  2 
+ 1003 27059   4 750 AC 3.4500+8          5.0000-4 2.6000-5 0.999228          7125000.         LVLB.Gao+               (25)C3094  2 
+ 1003 27059   4 750 AC 3.4500+8          4.6300-4 2.2000-5 0.998846          7125000.         LVLB.Gao+               (25)C3094  2 
+ 1003 27059   4 750 AC 3.4500+8          4.0900-4 1.9000-5 0.998389          7125000.         LVLB.Gao+               (25)C3094  2 
+ 1003 27059   4 750 AC 3.4500+8          3.6900-4 1.8000-5 0.997855          7125000.         LVLB.Gao+               (25)C3094  2 
+ 1003 27059   4 750 AC 3.4500+8          2.9700-4 1.8000-5 0.997245          7125000.         LVLB.Gao+               (25)C3094  2 
+#/DATA      9
+#/DATASET

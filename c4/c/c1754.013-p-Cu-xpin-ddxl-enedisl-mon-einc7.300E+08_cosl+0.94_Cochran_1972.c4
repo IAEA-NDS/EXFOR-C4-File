@@ -1,0 +1,38 @@
+#ENTRY      C1754
+#AUTHOR1    D.R.F.Cochran+
+#YEAR       1972
+#INSTITUTE  (1USALAS)
+#TITLE      Production of charged pions by 730-MeV protons from
+#+          hydrogen and selected nuclei
+#AUTHOR(S)  D.R.F.Cochran, P.N.Dean, P.A.M.Gram, E.A.Knapp, E.R.Martin, 
+#+          D.E.Nagle, R.B.Perkins, W.J.Shlaer, H.A.Thiessen, E.D.Theriot
+#REF-CODE   (J,PR/D,6,3085,1972)
+#REFERENCE  Phys.Rev.D 6 (1972) 3085
+#DATASETS   0
+#
+#DATASET    C1754013 
+#DATE       20091126
+#REACTION   29-CU-0(P,X)1-PN-0,,DA/DE
+#PROJ       1001
+#TARG       29000
+#MF         6
+#MT         210
+#PRODUCT    1-PN-0
+#C4BEGIN    [ 1001 29000   6 210  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29000   6 210    7.3000+8          1.505-11 2.410-12 0.939693          3.0000+7          E2D.R.F.Cochran+       (72)C1754 13 
+ 1001 29000   6 210    7.3000+8          1.534-11 1.370-12 0.939693          5.2000+7          E2D.R.F.Cochran+       (72)C1754 13 
+ 1001 29000   6 210    7.3000+8          1.292-11 1.050-12 0.939693          7.9000+7          E2D.R.F.Cochran+       (72)C1754 13 
+ 1001 29000   6 210    7.3000+8          1.300-11 1.100-12 0.939693          1.0500+8          E2D.R.F.Cochran+       (72)C1754 13 
+ 1001 29000   6 210    7.3000+8          1.187-11 9.900-13 0.939693          1.5500+8          E2D.R.F.Cochran+       (72)C1754 13 
+ 1001 29000   6 210    7.3000+8          1.074-11 8.400-13 0.939693          2.0500+8          E2D.R.F.Cochran+       (72)C1754 13 
+ 1001 29000   6 210    7.3000+8          9.380-12 7.900-13 0.939693          2.5500+8          E2D.R.F.Cochran+       (72)C1754 13 
+ 1001 29000   6 210    7.3000+8          6.720-12 6.500-13 0.939693          3.0500+8          E2D.R.F.Cochran+       (72)C1754 13 
+ 1001 29000   6 210    7.3000+8          3.820-12 3.800-13 0.939693          3.5800+8          E2D.R.F.Cochran+       (72)C1754 13 
+ 1001 29000   6 210    7.3000+8          1.250-12 1.600-13 0.939693          4.0800+8          E2D.R.F.Cochran+       (72)C1754 13 
+ 1001 29000   6 210    7.3000+8          2.800-13 5.000-14 0.939693          4.8600+8          E2D.R.F.Cochran+       (72)C1754 13 
+ 1001 29000   6 210    7.3000+8          3.000-14 1.000-14 0.939693          5.5300+8          E2D.R.F.Cochran+       (72)C1754 13 
+#/DATA      12
+#/DATASET

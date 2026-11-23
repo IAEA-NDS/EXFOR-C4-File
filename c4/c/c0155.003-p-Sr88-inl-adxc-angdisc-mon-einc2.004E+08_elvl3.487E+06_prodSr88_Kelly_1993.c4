@@ -1,0 +1,32 @@
+#ENTRY      C0155
+#AUTHOR1    J.J.Kelly+
+#YEAR       1993
+#INSTITUTE  (1USAINU)
+#TITLE      Neutron transition densities from 88Sr(p,p') at
+#+          E(p) = 200 MeV
+#AUTHOR(S)  J.J.Kelly, B.S.Flanders, F.W.Hersman, J.H.Heisenberg, J.Calarco, 
+#+          J.P.Connelly, A.Scott, F.T.Baker, V.Penumetcha, W.P.Jones, 
+#+          G.T.Emery, A.D.Bacher, C.Olmer, M.A.Grimm, M.L.Whiten
+#REF-CODE   (J,PR/C,47,2146,9305)
+#REFERENCE  Phys.Rev.C 47 (1993) 2146
+#DATASETS   0
+#
+#DATASET    C0155003 
+#DATE       19970423
+#REACTION   38-SR-88(P,INL)38-SR-88,PAR,DA
+#PROJ       1001
+#TARG       38088
+#MF         4
+#MT         601
+#PRODUCT    38-SR-88
+#C4BEGIN    [ 1001 38088   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38088   4 601 AC 2.0040+8          3.4280-5 2.0095-5 0.989999          3487000.         LVLJ.J.Kelly+           (93)C0155  3 
+ 1001 38088   4 601 AC 2.0040+8          1.6990-5 9.8661-6 0.981158          3487000.         LVLJ.J.Kelly+           (93)C0155  3 
+ 1001 38088   4 601 AC 2.0040+8          1.8810-5 7.6181-6 0.977526          3487000.         LVLJ.J.Kelly+           (93)C0155  3 
+ 1001 38088   4 601 AC 2.0040+8          1.6600-5 4.7991-6 0.969915          3487000.         LVLJ.J.Kelly+           (93)C0155  3 
+ 1001 38088   4 601 AC 2.0040+8          7.0540-6 4.0412-6 0.969744          3487000.         LVLJ.J.Kelly+           (93)C0155  3 
+#/DATA      5
+#/DATASET

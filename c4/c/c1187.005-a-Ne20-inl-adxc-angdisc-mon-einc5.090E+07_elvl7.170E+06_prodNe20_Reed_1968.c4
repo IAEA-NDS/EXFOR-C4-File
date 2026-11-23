@@ -1,0 +1,30 @@
+#ENTRY      C1187
+#AUTHOR1    M.Reed+
+#YEAR       1968
+#INSTITUTE  (1USABRK)
+#TITLE      The excitation of unnatural-parity states in 24Mg,
+#+          20Ne, and 16O by inelastic alpha scattering
+#AUTHOR(S)  M.Reed
+#REF-CODE   (T,REED,69-14,1968)
+#REFERENCE  Thesis  page 69-14 (1968)
+#DATASETS   0
+#
+#DATASET    C1187005 
+#DATE       20050314
+#REACTION   10-NE-20(A,INL)10-NE-20,PAR,DA
+#PROJ       2004
+#TARG       10020
+#MF         4
+#MT         801
+#PRODUCT    10-NE-20
+#C4BEGIN    [ 2004 10020   4 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 10020   4 801  C 5.0900+7          4.4800-4          0.666532          7170000.         LVLM.Reed               (68)C1187  5 
+ 2004 10020   4 801  C 5.0900+7          3.8700-4          0.636078          7170000.         LVLM.Reed               (68)C1187  5 
+ 2004 10020   4 801  C 5.0900+7          3.5600-4          0.603208          7170000.         LVLM.Reed               (68)C1187  5 
+ 2004 10020   4 801  C 5.0900+7          3.2100-4          0.570714          7170000.         LVLM.Reed               (68)C1187  5 
+ 2004 10020   4 801  C 5.0900+7          2.2200-4          0.537300          7170000.         LVLM.Reed               (68)C1187  5 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      C2945
+#AUTHOR1    W.W.Daehnick+
+#YEAR       1981
+#INSTITUTE  (1USAPUP)
+#TITLE      Reaction mechanism of (alpha,d) transfer in
+#+          208Pb(alpha,d)210Bi at 33 and 48 MeV
+#AUTHOR(S)  W.W.Daehnick, M.J.Spisak, J.R.Comfort
+#REF-CODE   (J,PR/C,23,1906,1981)
+#REFERENCE  Phys.Rev.C 23 (1981) 1906
+#DATASETS   0
+#
+#DATASET    C2945002 
+#DATE       20231113
+#REACTION   82-PB-208(A,D)83-BI-210,PAR,DA
+#PROJ       2004
+#TARG       82208
+#MF         4
+#MT         650
+#PRODUCT    83-BI-210
+#C4BEGIN    [ 2004 82208   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 82208   4 650  C 4.8000+7          1.1780-4 8.2640-6 0.983904          1205000. 2410.000LVLW.W.Daehnick+        (81)C2945  2 
+ 2004 82208   4 650  C 4.8000+7          6.7030-5 4.1330-6 0.965259          1205000. 2410.000LVLW.W.Daehnick+        (81)C2945  2 
+ 2004 82208   4 650  C 4.8000+7          5.9550-5 3.6720-6 0.938812          1205000. 2410.000LVLW.W.Daehnick+        (81)C2945  2 
+ 2004 82208   4 650  C 4.8000+7          4.3320-5 2.6710-6 0.905221          1205000. 2410.000LVLW.W.Daehnick+        (81)C2945  2 
+ 2004 82208   4 650  C 4.8000+7          3.2380-5 1.7190-6 0.860849          1205000. 2410.000LVLW.W.Daehnick+        (81)C2945  2 
+ 2004 82208   4 650  C 4.8000+7          3.9200-5 2.0810-6 0.819152          1205000. 2410.000LVLW.W.Daehnick+        (81)C2945  2 
+ 2004 82208   4 650  C 4.8000+7          1.8770-5 2.7420-6 0.762736          1205000. 2410.000LVLW.W.Daehnick+        (81)C2945  2 
+#/DATA      7
+#/DATASET

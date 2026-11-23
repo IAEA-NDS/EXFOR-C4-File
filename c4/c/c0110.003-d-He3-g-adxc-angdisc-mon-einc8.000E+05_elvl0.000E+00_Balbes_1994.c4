@@ -1,0 +1,32 @@
+#ENTRY      C0110
+#AUTHOR1    M.J.Balbes+
+#YEAR       1994
+#INSTITUTE  (1USATNL)
+#TITLE      Polarized deuteron capture by 3He and 3H at and above
+#+          the fusion resonance region.
+#AUTHOR(S)  M.J.Balbes, J.C.Riley, G.Feldman, H.R.Weller, D.R.Tilley
+#REF-CODE   (J,PR/C,49,912,199402)
+#REFERENCE  Phys.Rev.C 49 (1994) 912
+#DATASETS   0
+#
+#DATASET    C0110003 
+#DATE       19990423
+#REACTION   2-HE-3(D,G)3-LI-5,PAR,DA
+#PROJ       1002
+#TARG       2003
+#MF         4
+#MT         900
+#PRODUCT    3-LI-5
+#C4BEGIN    [ 1002  2003   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  2003   4 900  C 800000.0 90000.00 1.6360-6 2.9410-8 0.868632 7.3105-3 0.000000         LVLM.J.Balbes+          (94)C0110  3 
+ 1002  2003   4 900  C 800000.0 90000.00 1.6690-6 2.9410-8 0.644524 0.011281 0.000000         LVLM.J.Balbes+          (94)C0110  3 
+ 1002  2003   4 900  C 800000.0 90000.00 1.7370-6 2.9410-8 0.341364 0.013869 0.000000         LVLM.J.Balbes+          (94)C0110  3 
+ 1002  2003   4 900  C 800000.0 90000.00 1.7690-6 2.9410-8-0.030713 0.014748 0.000000         LVLM.J.Balbes+          (94)C0110  3 
+ 1002  2003   4 900  C 800000.0 90000.00 1.8020-6 2.9410-8-0.348572 0.013830 0.000000         LVLM.J.Balbes+          (94)C0110  3 
+ 1002  2003   4 900  C 800000.0 90000.00 1.7640-6 2.9410-8-0.649448 0.011220 0.000000         LVLM.J.Balbes+          (94)C0110  3 
+ 1002  2003   4 900  C 800000.0 90000.00 1.7250-6 2.9410-8-0.858065 7.5773-3 0.000000         LVLM.J.Balbes+          (94)C0110  3 
+#/DATA      7
+#/DATASET

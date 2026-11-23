@@ -1,0 +1,36 @@
+#ENTRY      C0141
+#AUTHOR1    J.J.Kelly+
+#YEAR       1990
+#INSTITUTE  (1USAINU)
+#TITLE      Effective interactions and nuclear structure using
+#+          180 MeV protons. I. 16O(p,p')
+#AUTHOR(S)  J.J.Kelly, J.M.Finn, W.Bertozzi, T.N.Buti, F.W.Hersman, 
+#+          C.Hyde-Wright, M.V.Hynes, M.A.Kovash, B.Murdock, P.Ulmer, 
+#+          A.D.Bacher, G.T.Emery, C.C.Foster, W.P.Jones, D.W.Miller, 
+#+          B.L.Berman
+#REF-CODE   (J,PR/C,41,2504,9006)
+#REFERENCE  Phys.Rev.C 41 (1990) 2504
+#DATASETS   0
+#
+#DATASET    C0141004 
+#DATE       19970410
+#REACTION   8-O-16(P,INL)8-O-16,PAR,DA
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         601
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  8016   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4 601 A  1.7990+8          5.9130-5 3.1516-6 0.988756 2.6099-4 6049000.         LVLJ.J.Kelly+           (90)C0141  4 
+ 1001  8016   4 601 A  1.7990+8          9.7050-5 4.3090-6 0.982450 3.2555-4 6049000.         LVLJ.J.Kelly+           (90)C0141  4 
+ 1001  8016   4 601 A  1.7990+8          1.8060-4 6.7183-6 0.965745 4.5290-4 6049000.         LVLJ.J.Kelly+           (90)C0141  4 
+ 1001  8016   4 601 A  1.7990+8          1.7620-4 1.3885-5 0.943628 5.7772-4 6049000.         LVLJ.J.Kelly+           (90)C0141  4 
+ 1001  8016   4 601 A  1.7990+8          4.8900-5 1.0117-5 0.916223 6.9930-4 6049000.         LVLJ.J.Kelly+           (90)C0141  4 
+ 1001  8016   4 601 A  1.7990+8          4.2170-5 9.6021-6 0.883847 8.1642-4 6049000.         LVLJ.J.Kelly+           (90)C0141  4 
+ 1001  8016   4 601 A  1.7990+8          2.9900-5 1.2588-6 0.758703 1.1370-3 6049000.         LVLJ.J.Kelly+           (90)C0141  4 
+ 1001  8016   4 601 A  1.7990+8          2.4130-5 1.4647-6 0.695411 1.2542-3 6049000.         LVLJ.J.Kelly+           (90)C0141  4 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      C2991
+#AUTHOR1    F.T.Baker+
+#YEAR       1978
+#INSTITUTE  (1USAGEO)
+#TITLE      192Pt(alpha,alpha') reaction at E=24 MeV
+#AUTHOR(S)  F.T.Baker, A.Scott, R.M.Ronningen, T.H.Kruse, R.Suchannek, 
+#+          W.Savin
+#REF-CODE   (J,PR/C,17,1559,1978)
+#REFERENCE  Phys.Rev.C 17 (1978) 1559
+#DATASETS   0
+#
+#DATASET    C2991003 
+#DATE       20240920
+#REACTION   78-PT-192(A,INL)78-PT-192,PAR,DA
+#PROJ       2004
+#TARG       78192
+#MF         4
+#MT         801
+#PRODUCT    78-PT-192
+#C4BEGIN    [ 2004 78192   4 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 78192   4 801  C 2.4000+7          4.3130-4 1.6940-4 0.491527          800000.0         LVLF.T.Baker+           (78)C2991  3 
+ 2004 78192   4 801  C 2.4000+7          2.5270-4 1.0520-4 0.332128          800000.0         LVLF.T.Baker+           (78)C2991  3 
+ 2004 78192   4 801  C 2.4000+7          1.2380-4 6.4800-5 0.162809          800000.0         LVLF.T.Baker+           (78)C2991  3 
+ 2004 78192   4 801  C 2.4000+7          2.5800-4 6.4980-5-5.1836-3          800000.0         LVLF.T.Baker+           (78)C2991  3 
+ 2004 78192   4 801  C 2.4000+7          3.8830-4 7.3850-5-0.172582          800000.0         LVLF.T.Baker+           (78)C2991  3 
+ 2004 78192   4 801  C 2.4000+7          5.9440-4 5.5870-5-0.337752          800000.0         LVLF.T.Baker+           (78)C2991  3 
+ 2004 78192   4 801  C 2.4000+7          7.1060-4 8.4460-5-0.504859          800000.0         LVLF.T.Baker+           (78)C2991  3 
+ 2004 78192   4 801  C 2.4000+7          7.5520-4 8.5030-5-0.641891          800000.0         LVLF.T.Baker+           (78)C2991  3 
+#/DATA      8
+#/DATASET

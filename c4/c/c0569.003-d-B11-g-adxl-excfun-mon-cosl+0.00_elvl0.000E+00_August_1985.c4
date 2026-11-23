@@ -1,0 +1,29 @@
+#ENTRY      C0569
+#AUTHOR1    R.A.August+
+#YEAR       1985
+#INSTITUTE  (1USATNL)
+#TITLE      Radiative capture into the secondary doorway state of
+#+          13C
+#AUTHOR(S)  R.A.August, H.R.Weller, D.R.Tilley
+#REF-CODE   (J,PR/C,32,1420,198510)
+#REFERENCE  Phys.Rev.C 32 (1985) 1420
+#DATASETS   0
+#
+#DATASET    C0569003 
+#DATE       19990908
+#REACTION   5-B-11(D,G)6-C-13,PAR,DA,,4PI
+#PROJ       1002
+#TARG       5011
+#MF         4
+#MT         900
+#PRODUCT    6-C-13
+#C4BEGIN    [ 1002  5011   4 900 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5011   4 900 C  1600000.          6.4935-7 1.0345-7 6.123-17          0.000000         LVLR.A.August+          (85)C0569  3 
+ 1002  5011   4 900 C  1800000.          9.6289-7 1.5120-7 6.123-17          0.000000         LVLR.A.August+          (85)C0569  3 
+ 1002  5011   4 900 C  2000000.          9.8676-7 1.5120-7 6.123-17          0.000000         LVLR.A.August+          (85)C0569  3 
+ 1002  5011   4 900 C  4000000.          4.4961-7 7.0028-8 6.123-17          0.000000         LVLR.A.August+          (85)C0569  3 
+#/DATA      4
+#/DATASET

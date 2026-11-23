@@ -1,0 +1,33 @@
+#ENTRY      C1422
+#AUTHOR1    O.Hausser+
+#YEAR       1988
+#INSTITUTE  (1CANTMF)
+#TITLE      Energy dependence of isovector and isoscalar 1+
+#+          excitations in 28Si(p,p') between 200 and 400 MeV
+#AUTHOR(S)  O.Hausser, R.Sawafta, R.G.Jeppesen, R.Abegg, W.P.Alford, 
+#+          R.L.Helmer, R.Henderson, K.Hicks, K.P.Jackson, J.Lisantti, 
+#+          C.A.Miller, M.C.Vetterli, S.Yen
+#REF-CODE   (J,PR/C,37,1119,1988)
+#REFERENCE  Phys.Rev.C 37 (1988) 1119
+#DATASETS   0
+#
+#DATASET    C1422002 
+#DATE       20060227
+#REACTION   14-SI-28(P,INL)14-SI-28,PAR,DA
+#PROJ       1001
+#TARG       14028
+#MF         4
+#MT         601
+#PRODUCT    14-SI-28
+#C4BEGIN    [ 1001 14028   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 14028   4 601  C 4.0000+8          1.3000-3 1.0800-4 0.997403          1.1450+7         LVLO.Hausser+           (88)C1422  2 
+ 1001 14028   4 601  C 4.0000+8          1.0700-3 7.4300-5 0.996345          1.1450+7         LVLO.Hausser+           (88)C1422  2 
+ 1001 14028   4 601  C 4.0000+8          7.3800-4 7.0600-5 0.994969          1.1450+7         LVLO.Hausser+           (88)C1422  2 
+ 1001 14028   4 601  C 4.0000+8          5.3900-4 3.0100-5 0.993923          1.1450+7         LVLO.Hausser+           (88)C1422  2 
+ 1001 14028   4 601  C 4.0000+8          4.1600-4 3.4400-5 0.992071          1.1450+7         LVLO.Hausser+           (88)C1422  2 
+ 1001 14028   4 601  C 4.0000+8          3.6600-4 3.5100-5 0.989999          1.1450+7         LVLO.Hausser+           (88)C1422  2 
+#/DATA      6
+#/DATASET

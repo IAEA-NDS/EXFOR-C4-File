@@ -1,0 +1,30 @@
+#ENTRY      C1454
+#AUTHOR1    P.E.Garrett+
+#YEAR       1994
+#INSTITUTE  (1CANMCM)
+#TITLE      The nuclear structure of 194Ir studied with the
+#+          193Ir(d,p)194Ir reaction
+#AUTHOR(S)  P.E.Garrett, D.G.Burke, T.Qu, V.Paar, S.Brant
+#REF-CODE   (J,NP/A,579,103,1994)
+#REFERENCE  Nucl.Phys.A 579 (1994) 103
+#DATASETS   0
+#
+#DATASET    C1454002 
+#DATE       20060727
+#REACTION   77-IR-193(D,P)77-IR-194,PAR,DA
+#PROJ       1002
+#TARG       77193
+#MF         4
+#MT         600
+#PRODUCT    77-IR-194
+#C4BEGIN    [ 1002 77193   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 77193   4 600    1.6000+7          9.2540-6 4.3740-6 0.989270          189700.0         LVLP.E.Garrett+         (94)C1454  2 
+ 1002 77193   4 600    1.6000+7          9.7130-6 4.2310-6 0.984041          189700.0         LVLP.E.Garrett+         (94)C1454  2 
+ 1002 77193   4 600    1.6000+7          1.7380-5 3.4740-6 0.921321          189700.0         LVLP.E.Garrett+         (94)C1454  2 
+ 1002 77193   4 600    1.6000+7          1.5620-5 3.4800-6 0.764359          189700.0         LVLP.E.Garrett+         (94)C1454  2 
+ 1002 77193   4 600    1.6000+7          1.2380-5 2.6640-6 0.340872          189700.0         LVLP.E.Garrett+         (94)C1454  2 
+#/DATA      5
+#/DATASET

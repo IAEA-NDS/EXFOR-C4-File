@@ -1,0 +1,35 @@
+#ENTRY      C2982
+#AUTHOR1    A.Jamshidi+
+#YEAR       1973
+#INSTITUTE  (1USAROC)
+#TITLE      Shell-model structure of 48Ti studied via the (d,t)
+#+          and (alpha,alpha') reactions
+#AUTHOR(S)  A.Jamshidi, W.P.Alford
+#REF-CODE   (J,PR/C,8,1796,1973)
+#REFERENCE  Phys.Rev.C 8 (1973) 1796
+#DATASETS   0
+#
+#DATASET    C2982002 
+#DATE       20240907
+#REACTION   22-TI-49(D,T)22-TI-48,PAR,DA
+#PROJ       1002
+#TARG       22049
+#MF         4
+#MT         700
+#PRODUCT    22-TI-48
+#C4BEGIN    [ 1002 22049   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 22049   4 700  C 1.8000+7 5000.000 1.0380-3          0.990624          3359000.         LVLA.Jamshidi+          (73)C2982  2 
+ 1002 22049   4 700  C 1.8000+7 5000.000 4.5160-4          0.983159          3359000.         LVLA.Jamshidi+          (73)C2982  2 
+ 1002 22049   4 700  C 1.8000+7 5000.000 7.8340-5          0.973107          3359000.         LVLA.Jamshidi+          (73)C2982  2 
+ 1002 22049   4 700  C 1.8000+7 5000.000 1.2160-4          0.961641          3359000.         LVLA.Jamshidi+          (73)C2982  2 
+ 1002 22049   4 700  C 1.8000+7 5000.000 6.2330-4          0.932652          3359000.         LVLA.Jamshidi+          (73)C2982  2 
+ 1002 22049   4 700  C 1.8000+7 5000.000 4.8790-4          0.894389          3359000.         LVLA.Jamshidi+          (73)C2982  2 
+ 1002 22049   4 700  C 1.8000+7 5000.000 1.1700-4          0.851837          3359000.         LVLA.Jamshidi+          (73)C2982  2 
+ 1002 22049   4 700  C 1.8000+7 5000.000 2.9070-5          0.800166          3359000.         LVLA.Jamshidi+          (73)C2982  2 
+ 1002 22049   4 700  C 1.8000+7 5000.000 7.3410-5          0.742432          3359000.         LVLA.Jamshidi+          (73)C2982  2 
+ 1002 22049   4 700  C 1.8000+7 5000.000 7.8600-5          0.677287          3359000.         LVLA.Jamshidi+          (73)C2982  2 
+#/DATA      10
+#/DATASET

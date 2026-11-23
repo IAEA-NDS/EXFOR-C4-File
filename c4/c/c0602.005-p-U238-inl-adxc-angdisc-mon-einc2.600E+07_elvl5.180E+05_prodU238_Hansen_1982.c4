@@ -1,0 +1,30 @@
+#ENTRY      C0602
+#AUTHOR1    L.F.Hansen+
+#YEAR       1982
+#INSTITUTE  (1USALRL)
+#TITLE      Nuclear deformation in the actinide region by
+#+          proton inelastic scattering
+#AUTHOR(S)  L.F.Hansen, I.D.Proctor, D.W.Heikkinen, V.A.Madsen
+#REF-CODE   (J,PR/C,25,189,198201)
+#REFERENCE  Phys.Rev.C 25 (1982) 189
+#DATASETS   0
+#
+#DATASET    C0602005 
+#DATE       20000322
+#REACTION   92-U-238(P,INL)92-U-238,PAR,DA
+#PROJ       1001
+#TARG       92238
+#MF         4
+#MT         601
+#PRODUCT    92-U-238
+#C4BEGIN    [ 1001 92238   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92238   4 601 AC 2.6000+7          5.5000-6 1.8000-6-4.3633-3          518000.0         LVLL.F.Hansen+          (82)C0602  5 
+ 1001 92238   4 601 AC 2.6000+7          2.5000-6 8.0000-7-0.177944          518000.0         LVLL.F.Hansen+          (82)C0602  5 
+ 1001 92238   4 601 AC 2.6000+7          2.0000-6 1.0000-6-0.503322          518000.0         LVLL.F.Hansen+          (82)C0602  5 
+ 1001 92238   4 601 AC 2.6000+7          3.0000-6 9.0000-7-0.576432          518000.0         LVLL.F.Hansen+          (82)C0602  5 
+ 1001 92238   4 601 AC 2.6000+7          2.5000-6 1.0000-6-0.866897          518000.0         LVLL.F.Hansen+          (82)C0602  5 
+#/DATA      5
+#/DATASET

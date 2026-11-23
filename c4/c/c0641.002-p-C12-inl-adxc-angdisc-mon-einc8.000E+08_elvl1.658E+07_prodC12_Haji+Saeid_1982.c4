@@ -1,0 +1,31 @@
+#ENTRY      C0641
+#AUTHOR1    M.Haji-Saeid+
+#YEAR       1982
+#INSTITUTE  (1USACLA)
+#TITLE      Excitation of low spin states in the 12C(p,p')
+#+          reaction at 800 MeV
+#AUTHOR(S)  M.Haji-Saeid, G.Igo, J.B.McClelland, G.Pauletta, C.A.Whitten Jr, 
+#+          C.Glashausser, W.D.Cornelius, J.M.Moss, H.A.Thiessen, M.A.Franey, 
+#+          M.Gazzaly, W.G.Love
+#REF-CODE   (J,PR/C,25,3035,198206)
+#REFERENCE  Phys.Rev.C 25 (1982) 3035
+#DATASETS   0
+#
+#DATASET    C0641002 
+#DATE       20000421
+#REACTION   6-C-12(P,INL)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         601
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 601  C 8.0000+8 2000000. 2.2000-5 3.0000-6 0.968843          1.6580+7         LVLM.Haji-Saeid+        (82)C0641  2 
+ 1001  6012   4 601  C 8.0000+8 2000000. 1.4000-5 1.5000-6 0.961262          1.6580+7         LVLM.Haji-Saeid+        (82)C0641  2 
+ 1001  6012   4 601  C 8.0000+8 2000000. 6.2000-6 7.0000-7 0.952289          1.6580+7         LVLM.Haji-Saeid+        (82)C0641  2 
+ 1001  6012   4 601  C 8.0000+8 2000000. 5.0000-6 6.0000-7 0.942758          1.6580+7         LVLM.Haji-Saeid+        (82)C0641  2 
+#/DATA      4
+#/DATASET

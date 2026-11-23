@@ -1,0 +1,29 @@
+#ENTRY      C0626
+#AUTHOR1    C.Rolfs+
+#YEAR       1975
+#INSTITUTE  (1USACAL)
+#TITLE      Hydrogen burning of 20Ne and 22Ne in stars
+#AUTHOR(S)  C.Rolfs, W.S.Rodney, M.H.Shapiro, H.Winkler
+#REF-CODE   (J,NP/A,241,460,1975)
+#REFERENCE  Nucl.Phys.A 241 (1975) 460
+#DATASETS   0
+#
+#DATASET    C0626007 
+#DATE       20220627
+#REACTION   10-NE-22(P,G)11-NA-23,PAR,SIG
+#PROJ       1001
+#TARG       10022
+#MF         3
+#MT         900
+#PRODUCT    11-NA-23
+#C4BEGIN    [ 1001 10022   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 10022   3 900    545500.0          2.8480-8 1.4160-8                   6308000.         LVLC.Rolfs+             (75)C0626  7 
+ 1001 10022   3 900    824300.0          2.0500-7 4.3610-8                   6308000.         LVLC.Rolfs+             (75)C0626  7 
+ 1001 10022   3 900    1243900.          8.6110-7 1.8320-7                   6308000.         LVLC.Rolfs+             (75)C0626  7 
+ 1001 10022   3 900    1481000.          1.5200-6 2.8710-7                   6308000.         LVLC.Rolfs+             (75)C0626  7 
+ 1001 10022   3 900    1689200.          2.6040-6 7.2980-7                   6308000.         LVLC.Rolfs+             (75)C0626  7 
+#/DATA      5
+#/DATASET

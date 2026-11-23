@@ -1,0 +1,32 @@
+#ENTRY      C0973
+#AUTHOR1    J.W.Dawson+
+#YEAR       1969
+#INSTITUTE  (1USAFSU)
+#TITLE      Low-Lying States in Rb86 from (d,p), (d,t), and
+#+          (n,gamma) Reactions
+#AUTHOR(S)  J.W.Dawson, R.K.Sheline
+#REF-CODE   (J,PR,181,1618,196905)
+#REFERENCE  Phys.Rev. 181 (1969) 1618
+#DATASETS   0
+#
+#DATASET    C0973002 
+#DATE       20040726
+#REACTION   37-RB-85(D,P)37-RB-86,PAR,DA
+#PROJ       1002
+#TARG       37085
+#MF         4
+#MT         600
+#PRODUCT    37-RB-86
+#C4BEGIN    [ 1002 37085   4 600 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 37085   4 600 C  1.2000+7          1.3700-4          0.965926          1928000.          E2J.W.Dawson+          (69)C0973  2 
+ 1002 37085   4 600 C  1.2000+7          9.9000-5          0.906308          1928000.          E2J.W.Dawson+          (69)C0973  2 
+ 1002 37085   4 600 C  1.2000+7          3.8000-5          0.819152          1928000.          E2J.W.Dawson+          (69)C0973  2 
+ 1002 37085   4 600 C  1.2000+7          2.1000-5          0.766044          1928000.          E2J.W.Dawson+          (69)C0973  2 
+ 1002 37085   4 600 C  1.2000+7          3.3000-5          0.707107          1928000.          E2J.W.Dawson+          (69)C0973  2 
+ 1002 37085   4 600 C  1.2000+7          3.2000-5          0.573576          1928000.          E2J.W.Dawson+          (69)C0973  2 
+ 1002 37085   4 600 C  1.2000+7          1.5000-5          0.173648          1928000.          E2J.W.Dawson+          (69)C0973  2 
+#/DATA      7
+#/DATASET

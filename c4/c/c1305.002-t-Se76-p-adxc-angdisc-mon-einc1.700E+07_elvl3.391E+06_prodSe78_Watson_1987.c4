@@ -1,0 +1,32 @@
+#ENTRY      C1305
+#AUTHOR1    D.L.Watson+
+#YEAR       1987
+#INSTITUTE  (2UK BRD)
+#TITLE      76Se(t,p)78Se reaction at 17 MeV
+#AUTHOR(S)  D.L.Watson, H.T.Fortune
+#REF-CODE   (J,PR/C,35,430,1987)
+#REFERENCE  Phys.Rev.C 35 (1987) 430
+#DATASETS   0
+#
+#DATASET    C1305002 
+#DATE       20050809
+#REACTION   34-SE-76(T,P)34-SE-78,PAR,DA
+#PROJ       1003
+#TARG       34076
+#MF         4
+#MT         600
+#PRODUCT    34-SE-78
+#C4BEGIN    [ 1003 34076   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 34076   4 600  C 1.7000+7          1.0000-5          0.998602          3391000.         LVLD.L.Watson+          (87)C1305  2 
+ 1003 34076   4 600  C 1.7000+7          8.4400-6          0.983255          3391000.         LVLD.L.Watson+          (87)C1305  2 
+ 1003 34076   4 600  C 1.7000+7          6.3800-6          0.950516          3391000.         LVLD.L.Watson+          (87)C1305  2 
+ 1003 34076   4 600  C 1.7000+7          6.3800-6          0.911403          3391000.         LVLD.L.Watson+          (87)C1305  2 
+ 1003 34076   4 600  C 1.7000+7          6.7400-6          0.849893          3391000.         LVLD.L.Watson+          (87)C1305  2 
+ 1003 34076   4 600  C 1.7000+7          6.3800-6          0.766044          3391000.         LVLD.L.Watson+          (87)C1305  2 
+ 1003 34076   4 600  C 1.7000+7          3.8400-6          0.665230          3391000.         LVLD.L.Watson+          (87)C1305  2 
+ 1003 34076   4 600  C 1.7000+7          3.0700-6 9.9600-7 0.560639          3391000.         LVLD.L.Watson+          (87)C1305  2 
+#/DATA      8
+#/DATASET

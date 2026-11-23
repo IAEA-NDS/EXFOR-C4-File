@@ -1,0 +1,38 @@
+#ENTRY      C0841
+#AUTHOR1    A.M.Kalend+
+#YEAR       1983
+#INSTITUTE  (1USAKNT)
+#TITLE      Energy and angular distributions of neutrons from 90
+#+          MeV and 140 MeV alpha-particle bombardment of nuclei
+#AUTHOR(S)  A.M.Kalend, B.D.Anderson, A.R.Baldwin, R.Madey, J.W.Watson, 
+#+          C.C.Chang, H.D.Holmgren, R.W.Koontz, J.R.Wu, H.Machner
+#REF-CODE   (J,PR/C,28,105,1983)
+#REFERENCE  Phys.Rev.C 28 (1983) 105
+#DATASETS   0
+#
+#DATASET    C0841012 
+#DATE       20100520
+#REACTION   40-ZR-90(A,X)0-NN-1,,DA/DE
+#PROJ       2004
+#TARG       40090
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 2004 40090   6 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 40090   6 201    1.4000+8          4.0000-9 2.800-10 0.866025          4.1200+7          E2A.M.Kalend+          (83)C0841 12 
+ 2004 40090   6 201    1.4000+8          3.0300-9 2.151-10 0.866025          4.4400+7          E2A.M.Kalend+          (83)C0841 12 
+ 2004 40090   6 201    1.4000+8          2.1200-9 1.569-10 0.866025          4.8000+7          E2A.M.Kalend+          (83)C0841 12 
+ 2004 40090   6 201    1.4000+8          1.6700-9 1.253-10 0.866025          5.2000+7          E2A.M.Kalend+          (83)C0841 12 
+ 2004 40090   6 201    1.4000+8          1.1900-9 9.282-11 0.866025          5.6500+7          E2A.M.Kalend+          (83)C0841 12 
+ 2004 40090   6 201    1.4000+8          7.660-10 6.434-11 0.866025          6.1600+7          E2A.M.Kalend+          (83)C0841 12 
+ 2004 40090   6 201    1.4000+8          4.210-10 4.084-11 0.866025          6.7300+7          E2A.M.Kalend+          (83)C0841 12 
+ 2004 40090   6 201    1.4000+8          1.550-10 2.062-11 0.866025          7.3900+7          E2A.M.Kalend+          (83)C0841 12 
+ 2004 40090   6 201    1.4000+8          3.910-11 8.993-12 0.866025          8.1400+7          E2A.M.Kalend+          (83)C0841 12 
+ 2004 40090   6 201    1.4000+8          1.230-11 4.637-12 0.866025          9.0200+7          E2A.M.Kalend+          (83)C0841 12 
+ 2004 40090   6 201    1.4000+8          1.080-11 4.072-12 0.866025          1.0040+8          E2A.M.Kalend+          (83)C0841 12 
+ 2004 40090   6 201    1.4000+8          4.170-11 1.822-11 0.866025          1.1250+8          E2A.M.Kalend+          (83)C0841 12 
+#/DATA      12
+#/DATASET

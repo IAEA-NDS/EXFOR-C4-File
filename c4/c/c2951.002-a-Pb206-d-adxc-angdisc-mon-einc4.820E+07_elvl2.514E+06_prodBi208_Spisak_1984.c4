@@ -1,0 +1,29 @@
+#ENTRY      C2951
+#AUTHOR1    M.J.Spisak+
+#YEAR       1984
+#INSTITUTE  (1USAPUP)
+#TITLE      206Pb(alpha,d)208Bi at 48 MeV
+#AUTHOR(S)  M.J.Spisak, W.W.Daehnick
+#REF-CODE   (J,PR/C,29,2088,1984)
+#REFERENCE  Phys.Rev.C 29 (1984) 2088
+#DATASETS   0
+#
+#DATASET    C2951002 
+#DATE       20230522
+#REACTION   82-PB-206(A,D)83-BI-208,PAR,DA
+#PROJ       2004
+#TARG       82206
+#MF         4
+#MT         650
+#PRODUCT    83-BI-208
+#C4BEGIN    [ 2004 82206   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 82206   4 650  C 4.8200+7          5.8240-6 1.3160-6 0.982613          2514000. 5028.000LVLM.J.Spisak+          (84)C2951  2 
+ 2004 82206   4 650  C 4.8200+7          2.8590-6 8.1910-7 0.963163          2514000. 5028.000LVLM.J.Spisak+          (84)C2951  2 
+ 2004 82206   4 650  C 4.8200+7          3.9590-6 7.2930-7 0.934204          2514000. 5028.000LVLM.J.Spisak+          (84)C2951  2 
+ 2004 82206   4 650  C 4.8200+7          2.5490-6 6.3790-7 0.898794          2514000. 5028.000LVLM.J.Spisak+          (84)C2951  2 
+ 2004 82206   4 650  C 4.8200+7          1.5580-6 2.9710-7 0.813101          2514000. 5028.000LVLM.J.Spisak+          (84)C2951  2 
+#/DATA      5
+#/DATASET

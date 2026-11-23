@@ -1,0 +1,32 @@
+#ENTRY      C2352
+#AUTHOR1    S.M.Sterbenz+
+#YEAR       1987
+#INSTITUTE  (1USAYAL)
+#TITLE      Elastic Scattering of 14C + 12C, 14C + 16O, and 14C +
+#+          18O
+#AUTHOR(S)  S.M.Sterbenz
+#REF-CODE   (T,STERBENZ,1987)
+#REFERENCE  Thesis  (1987)
+#DATASETS   0
+#
+#DATASET    C2352003 
+#DATE       20180816
+#REACTION   6-C-12(6-C-14,EL)6-C-12,,DA,,RTH
+#PROJ       6014
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 6014  6012   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6014  6012   4   2 AC 3.8564+7          0.103014          0.731734                              S.M.Sterbenz         (87)C2352  3 
+ 6014  6012   4   2 AC 3.8564+7          0.090494          0.719109                              S.M.Sterbenz         (87)C2352  3 
+ 6014  6012   4   2 AC 3.8564+7          0.088124          0.704609                              S.M.Sterbenz         (87)C2352  3 
+ 6014  6012   4   2 AC 3.8564+7          0.076145          0.688152                              S.M.Sterbenz         (87)C2352  3 
+ 6014  6012   4   2 AC 3.8564+7          0.050808          0.671358                              S.M.Sterbenz         (87)C2352  3 
+ 6014  6012   4   2 AC 3.8564+7          0.022937          0.650748                              S.M.Sterbenz         (87)C2352  3 
+ 6014  6012   4   2 AC 3.8564+7          8.1533-3          0.626087                              S.M.Sterbenz         (87)C2352  3 
+#/DATA      7
+#/DATASET

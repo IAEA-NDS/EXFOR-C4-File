@@ -1,0 +1,30 @@
+#ENTRY      C3024
+#AUTHOR1    A.Sandoval+
+#YEAR       1980
+#INSTITUTE  (1USABRK)
+#TITLE      Spectra of p, d, and t from relativistic nuclear
+#+          collisions
+#AUTHOR(S)  A.Sandoval, H.H.Gutbrod, W.G.Meyer, R.Stock, C.Lukner, A.M.Poskanzer, 
+#+          J.Gosset, J.-C.Jourdain, C.H.King, G.King, Nguyen Van Sen, 
+#+          G.D.Westfall, K.L.Wolf
+#REF-CODE   (J,PR/C,21,1321,1980)
+#REFERENCE  Phys.Rev.C 21 (1980) 1321
+#DATASETS   0
+#
+#DATASET    C3024005 
+#DATE       20250207
+#REACTION   92-U-238(10-NE-20,X)2-HE-3,,DA/DE
+#PROJ       10020
+#TARG       92238
+#MF         6
+#MT         206
+#PRODUCT    2-HE-3
+#C4BEGIN    [10020 92238   6 206  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+10020 92238   6 206    7.8600+9          2.290-10 9.700-11-0.866025          3.0000+8          E2A.Sandoval           (80)C3024  5 
+10020 92238   6 206    7.8600+9          1.200-10 5.000-11-0.866025          4.2000+8          E2A.Sandoval           (80)C3024  5 
+10020 92238   6 206    7.8600+9          6.500-11 2.030-11-0.866025          5.4000+8          E2A.Sandoval           (80)C3024  5 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      C2886
+#AUTHOR1    L.A.Riley+
+#YEAR       2022
+#INSTITUTE  (1USAURS)
+#TITLE      54Fe(d,p)55Fe and the evolution of single neutron
+#+          energies in the N = 29 isotones
+#AUTHOR(S)  L.A.Riley, I.C.S.Hay, L.T.Baby, A.L.Conley, P.D.Cottle, 
+#+          J.Esparza, K.Hanselman, B.Kelly, K.W.Kemper, K.T.Macon, 
+#+          G.W.McCann, M.W.Quirin, R.Renom, R.L.Saunders, M.Spieker, 
+#+          I.Wiedenhover
+#REF-CODE   (J,PR/C,106,064308,2022)
+#REFERENCE  Phys.Rev.C 106 (2022) 064308
+#DATASETS   0
+#
+#DATASET    C2886002 
+#DATE       20230123
+#REACTION   26-FE-54(D,P)26-FE-55,PAR,DA
+#PROJ       1002
+#TARG       26054
+#MF         4
+#MT         600
+#PRODUCT    26-FE-55
+#C4BEGIN    [ 1002 26054   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 26054   4 600  C 1.6000+7          7.1000-4 4.3900-5 0.964003          8843000.         LVLL.A.Riley+           (22)C2886  2 
+ 1002 26054   4 600  C 1.6000+7          7.4600-4 1.4600-4 0.936366          8843000.         LVLL.A.Riley+           (22)C2886  2 
+ 1002 26054   4 600  C 1.6000+7          6.1800-4 6.3400-5 0.901228          8843000.         LVLL.A.Riley+           (22)C2886  2 
+ 1002 26054   4 600  C 1.6000+7          3.7100-4 1.7100-5 0.858871          8843000.         LVLL.A.Riley+           (22)C2886  2 
+ 1002 26054   4 600  C 1.6000+7          2.9300-4 8.6800-5 0.809735          8843000.         LVLL.A.Riley+           (22)C2886  2 
+ 1002 26054   4 600  C 1.6000+7          4.3600-4 2.9000-4 0.754251          8843000.         LVLL.A.Riley+           (22)C2886  2 
+ 1002 26054   4 600  C 1.6000+7          4.3300-4 2.4000-4 0.692899          8843000.         LVLL.A.Riley+           (22)C2886  2 
+ 1002 26054   4 600  C 1.6000+7          1.3600-4 1.3500-5 0.626060          8843000.         LVLL.A.Riley+           (22)C2886  2 
+#/DATA      8
+#/DATASET

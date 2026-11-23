@@ -1,0 +1,35 @@
+#ENTRY      C0041
+#AUTHOR1    A.Galonsky+
+#YEAR       1956
+#INSTITUTE  (1USAORL)
+#TITLE      Cross Sections for the T(d,n)He4 Reaction
+#AUTHOR(S)  A.Galonsky, C.H.Johnson
+#REF-CODE   (J,PR,104,421,1956)
+#REFERENCE  Phys.Rev. 104 (1956) 421
+#DATASETS   0
+#
+#DATASET    C0041002 
+#DATE       20171029
+#REACTION   1-H-3(D,N)2-HE-4,,DA
+#PROJ       1002
+#TARG       1003
+#MF         4
+#MT         4
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  1003   4   4 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1003   4   4 DC 3970000.          0.015470 5.0000-4 0.997564                              A.Galonsky+          (56)C0041  2 
+ 1002  1003   4   4 DC 3970000.          0.013110 5.0000-4 0.955793                              A.Galonsky+          (56)C0041  2 
+ 1002  1003   4   4 DC 3970000.          9.8800-3 4.0000-4 0.828060                              A.Galonsky+          (56)C0041  2 
+ 1002  1003   4   4 DC 3970000.          7.3900-3 4.0000-4 0.632029                              A.Galonsky+          (56)C0041  2 
+ 1002  1003   4   4 DC 3970000.          5.7400-3 2.0000-4 0.389124                              A.Galonsky+          (56)C0041  2 
+ 1002  1003   4   4 DC 3970000.          5.2700-3 2.0000-4 0.123601                              A.Galonsky+          (56)C0041  2 
+ 1002  1003   4   4 DC 3970000.          4.1400-3 1.0000-4-0.142629                              A.Galonsky+          (56)C0041  2 
+ 1002  1003   4   4 DC 3970000.          4.1800-3 2.0000-4-0.142629                              A.Galonsky+          (56)C0041  2 
+ 1002  1003   4   4 DC 3970000.          4.6600-3 2.0000-4-0.389124                              A.Galonsky+          (56)C0041  2 
+ 1002  1003   4   4 DC 3970000.          6.0000-3 2.0000-4-0.603208                              A.Galonsky+          (56)C0041  2 
+ 1002  1003   4   4 DC 3970000.          6.6700-3 3.0000-4-0.764921                              A.Galonsky+          (56)C0041  2 
+#/DATA      11
+#/DATASET

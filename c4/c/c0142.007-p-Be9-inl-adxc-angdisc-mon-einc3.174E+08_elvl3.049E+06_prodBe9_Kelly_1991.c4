@@ -1,0 +1,36 @@
+#ENTRY      C0142
+#AUTHOR1    J.J.Kelly+
+#YEAR       1991
+#INSTITUTE  (1USALAS)
+#TITLE      Effective interaction for 16O(p,p') at E(p)=318 MeV
+#AUTHOR(S)  J.J.Kelly, A.E.Feldman, B.S.Flanders, H.Seifert, D.Lopiano, 
+#+          B.Aas, A.Azizi, G.Igo, G.Weston, C.Whitten, A.Wong, M.V.Hynes, 
+#+          J.McClelland, W.Bertozzi, J.M.Finn, C.E.Hyde-Wright, R.W.Lourie, 
+#+          P.E.Ulmer, B.E.Norum, B.L.Berman
+#REF-CODE   (J,PR/C,43,1272,199103)
+#REFERENCE  Phys.Rev.C 43 (1991) 1272
+#DATASETS   0
+#
+#DATASET    C0142007 
+#DATE       20160328
+#REACTION   4-BE-9(P,INL)4-BE-9,PAR,DA
+#PROJ       1001
+#TARG       4009
+#MF         4
+#MT         601
+#PRODUCT    4-BE-9
+#C4BEGIN    [ 1001  4009   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   4 601 AC 3.1740+8 400000.0 1.1700-4 1.1320-4 0.978473 1.0806-3 3049000.         LVLJ.J.Kelly+           (91)C0142  7 
+ 1001  4009   4 601 AC 3.1740+8 400000.0 7.7800-5 2.6429-5 0.925937 1.9775-3 3049000.         LVLJ.J.Kelly+           (91)C0142  7 
+ 1001  4009   4 601 AC 3.1740+8 400000.0 4.7400-5 1.4931-5 0.896950 2.3150-3 3049000.         LVLJ.J.Kelly+           (91)C0142  7 
+ 1001  4009   4 601 AC 3.1740+8 400000.0 1.5300-5 7.8688-6 0.874704 2.5377-3 3049000.         LVLJ.J.Kelly+           (91)C0142  7 
+ 1001  4009   4 601 AC 3.1740+8 400000.0 1.4000-5 4.5654-6 0.862690 2.6480-3 3049000.         LVLJ.J.Kelly+           (91)C0142  7 
+ 1001  4009   4 601 AC 3.1740+8 400000.0 1.5400-5 3.4173-6 0.837909 2.8579-3 3049000.         LVLJ.J.Kelly+           (91)C0142  7 
+ 1001  4009   4 601 AC 3.1740+8 400000.0 7.8000-6 1.6310-6 0.811370 3.0606-3 3049000.         LVLJ.J.Kelly+           (91)C0142  7 
+ 1001  4009   4 601 AC 3.1740+8 400000.0 7.1900-6 1.8212-6 0.797268 3.1606-3 3049000.         LVLJ.J.Kelly+           (91)C0142  7 
+ 1001  4009   4 601 AC 3.1740+8 400000.0 1.9700-6 1.0110-6 0.760406 3.4005-3 3049000.         LVLJ.J.Kelly+           (91)C0142  7 
+#/DATA      9
+#/DATASET

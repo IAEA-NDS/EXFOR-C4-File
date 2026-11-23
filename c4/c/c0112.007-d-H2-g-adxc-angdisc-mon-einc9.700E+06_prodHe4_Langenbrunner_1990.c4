@@ -1,0 +1,36 @@
+#ENTRY      C0112
+#AUTHOR1    J.L.Langenbrunner+
+#YEAR       1990
+#INSTITUTE  (1USATNL)
+#TITLE      Two-deuteron radiative capture: polarization
+#+          observables at E(d)<15 MeV
+#AUTHOR(S)  J.L.Langenbrunner, H.R.Weller, D.R.Tilley
+#REF-CODE   (J,PR/C,42,1214,199010)
+#REFERENCE  Phys.Rev.C 42 (1990) 1214
+#DATASETS   0
+#
+#DATASET    C0112007 
+#DATE       19990726
+#REACTION   1-H-2(D,G)2-HE-4,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         102
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  1002   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4 102  C 9700000.          1.0675-8 2.440-10 0.744312 0.079260                     J.L.Langenbrunner+   (90)C0112  7 
+ 1002  1002   4 102  C 9700000.          9.8210-9 2.440-10 0.611527 0.093904                     J.L.Langenbrunner+   (90)C0112  7 
+ 1002  1002   4 102  C 9700000.          6.8930-9 1.220-10 0.460200 0.105368                     J.L.Langenbrunner+   (90)C0112  7 
+ 1002  1002   4 102  C 9700000.          4.8800-9 6.100-11 0.295708 0.113375                     J.L.Langenbrunner+   (90)C0112  7 
+ 1002  1002   4 102  C 9700000.          1.0980-9 6.100-11 0.123601 0.117772                     J.L.Langenbrunner+   (90)C0112  7 
+ 1002  1002   4 102  C 9700000.          7.320-10 6.100-11-0.052336 0.118520                     J.L.Langenbrunner+   (90)C0112  7 
+ 1002  1002   4 102  C 9700000.          2.3790-9 1.220-10-0.223250 0.115687                     J.L.Langenbrunner+   (90)C0112  7 
+ 1002  1002   4 102  C 9700000.          5.9170-9 1.830-10-0.387516 0.109409                     J.L.Langenbrunner+   (90)C0112  7 
+ 1002  1002   4 102  C 9700000.          8.9060-9 1.830-10-0.537300 0.100096                     J.L.Langenbrunner+   (90)C0112  7 
+ 1002  1002   4 102  C 9700000.          1.0553-8 1.830-10-0.671721 0.087920                     J.L.Langenbrunner+   (90)C0112  7 
+ 1002  1002   4 102  C 9700000.          1.0797-8 3.660-10-0.760406 0.077078                     J.L.Langenbrunner+   (90)C0112  7 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      C1195
+#AUTHOR1    S.Truong+
+#YEAR       1983
+#INSTITUTE  (1USAPEN)
+#TITLE      1p-2h and 2p-3h states in 15C
+#AUTHOR(S)  S.Truong, H.T.Fortune
+#REF-CODE   (J,PR/C,28,977,1983)
+#REFERENCE  Phys.Rev.C 28 (1983) 977
+#DATASETS   0
+#
+#DATASET    C1195002 
+#DATE       20050406
+#REACTION   6-C-13(T,P)6-C-15,PAR,DA
+#PROJ       1003
+#TARG       6013
+#MF         4
+#MT         600
+#PRODUCT    6-C-15
+#C4BEGIN    [ 1003  6013   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  6013   4 600  C 1.8000+7          0.011600          0.996723          4220000.         LVLS.Truong+            (83)C1195  2 
+ 1003  6013   4 600  C 1.8000+7          0.010400          0.978867          4220000.         LVLS.Truong+            (83)C1195  2 
+ 1003  6013   4 600  C 1.8000+7          7.5500-3          0.934826          4220000.         LVLS.Truong+            (83)C1195  2 
+ 1003  6013   4 600  C 1.8000+7          4.1800-3          0.872922          4220000.         LVLS.Truong+            (83)C1195  2 
+ 1003  6013   4 600  C 1.8000+7          1.6100-3          0.793353          4220000.         LVLS.Truong+            (83)C1195  2 
+ 1003  6013   4 600  C 1.8000+7          7.6700-4          0.689620          4220000.         LVLS.Truong+            (83)C1195  2 
+ 1003  6013   4 600  C 1.8000+7          8.6900-4          0.582123          4220000.         LVLS.Truong+            (83)C1195  2 
+ 1003  6013   4 600  C 1.8000+7          1.0100-3          0.457098          4220000.         LVLS.Truong+            (83)C1195  2 
+ 1003  6013   4 600  C 1.8000+7          9.2500-4          0.333807          4220000.         LVLS.Truong+            (83)C1195  2 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      C2235
+#AUTHOR1    S.Bedoor+
+#YEAR       2016
+#INSTITUTE  (1USAWMU)
+#TITLE      Structure of 14C and 14B from the
+#+          14,15C(d,3He)13,14B reactions
+#AUTHOR(S)  S.Bedoor, A.H.Wuosmaa, M.Albers, M.Alcorta, S.Almaraz-Calderon, 
+#+          B.B.Back, P.F.Bertone, C.M.Deibel, C.R.Hoffman, J.C.Lighthall, 
+#+          S.T.Marley, D.G.McNeel, R.C.Pardo, K.E.Rehm, J.P.Schiffer, 
+#+          D.V.Shetty
+#REF-CODE   (J,PR/C,93,044323,2016)
+#REFERENCE  Phys.Rev.C 93 (2016) 044323
+#DATASETS   0
+#
+#DATASET    C2235002 
+#DATE       20211007
+#REACTION   (1-H-2(6-C-14,HE3)5-B-13,PAR,DA,RSD)=(6-C-14(D,HE3)5-B-13,PAR,DA)
+#PROJ       1002
+#TARG       6014
+#MF         4
+#MT         750
+#PRODUCT    5-B-13
+#C4BEGIN    [ 1002  6014   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6014   4 750  C 3.4200+7          9.5000-5          0.920505 0.010911 3800000.         LVLS.Bedoor+            (16)C2235  2 
+ 1002  6014   4 750  C 3.4200+7          1.0300-4          0.898794 0.011477 3800000.         LVLS.Bedoor+            (16)C2235  2 
+ 1002  6014   4 750  C 3.4200+7          8.7000-5 1.1000-5 0.866025 0.013090 3800000.         LVLS.Bedoor+            (16)C2235  2 
+ 1002  6014   4 750  C 3.4200+7          8.9000-5 1.1000-5 0.838671 0.017110 3800000.         LVLS.Bedoor+            (16)C2235  2 
+ 1002  6014   4 750  C 3.4200+7          9.8000-5 1.3000-5 0.803857 0.012458 3800000.         LVLS.Bedoor+            (16)C2235  2 
+ 1002  6014   4 750  C 3.4200+7          1.0900-4 1.4000-5 0.777146 0.013180 3800000.         LVLS.Bedoor+            (16)C2235  2 
+ 1002  6014   4 750  C 3.4200+7          1.4900-4 2.1000-5 0.744312 0.011656 3800000.         LVLS.Bedoor+            (16)C2235  2 
+ 1002  6014   4 750  C 3.4200+7          1.5100-4 2.3000-5 0.719340 0.012124 3800000.         LVLS.Bedoor+            (16)C2235  2 
+#/DATA      8
+#/DATASET

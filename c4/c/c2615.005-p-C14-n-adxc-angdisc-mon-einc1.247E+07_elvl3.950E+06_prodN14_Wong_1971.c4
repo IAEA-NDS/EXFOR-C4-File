@@ -1,0 +1,34 @@
+#ENTRY      C2615
+#AUTHOR1    C.Wong+
+#YEAR       1971
+#INSTITUTE  (1USALRL)
+#TITLE      Polarization and angular distribution of the neutrons
+#+          from 14C(p,n) reaction and the tensor force
+#AUTHOR(S)  C.Wong, J.D.Anderson, V.A.Madsen, F.A.Schmittroth, M.J.Stomp
+#REF-CODE   (J,PR/C,3,1904,1971)
+#REFERENCE  Phys.Rev.C 3 (1971) 1904
+#DATASETS   0
+#
+#DATASET    C2615005 
+#DATE       20210810
+#REACTION   6-C-14(P,N)7-N-14,PAR,DA
+#PROJ       1001
+#TARG       6014
+#MF         4
+#MT         50
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1001  6014   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6014   4  50  C 1.2470+7          1.9770-3          0.998049          3950000.         LVLC.Wong+              (71)C2615  5 
+ 1001  6014   4  50  C 1.2470+7          2.0880-3          0.950814          3950000.         LVLC.Wong+              (71)C2615  5 
+ 1001  6014   4  50  C 1.2470+7          1.7150-3          0.821428          3950000.         LVLC.Wong+              (71)C2615  5 
+ 1001  6014   4  50  C 1.2470+7          2.4000-3          0.394022          3950000.         LVLC.Wong+              (71)C2615  5 
+ 1001  6014   4  50  C 1.2470+7          1.5130-3          0.125351          3950000.         LVLC.Wong+              (71)C2615  5 
+ 1001  6014   4  50  C 1.2470+7          2.5660-3         -0.117901          3950000.         LVLC.Wong+              (71)C2615  5 
+ 1001  6014   4  50  C 1.2470+7          3.5830-3         -0.383506          3950000.         LVLC.Wong+              (71)C2615  5 
+ 1001  6014   4  50  C 1.2470+7          3.3230-3         -0.602066          3950000.         LVLC.Wong+              (71)C2615  5 
+ 1001  6014   4  50  C 1.2470+7          2.9930-3         -0.763018          3950000.         LVLC.Wong+              (71)C2615  5 
+#/DATA      9
+#/DATASET

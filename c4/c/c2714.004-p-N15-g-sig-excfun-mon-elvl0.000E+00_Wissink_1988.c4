@@ -1,0 +1,41 @@
+#ENTRY      C2714
+#AUTHOR1    S.W.Wissink+
+#YEAR       1988
+#INSTITUTE  (1USASTF)
+#TITLE      Electric quadrupole strength in 16O from the
+#+          15N(p,gamma0)16O reaction
+#AUTHOR(S)  S.W.Wissink, S.S.Hanna, D.G.Mavis, T.R.Wang
+#REF-CODE   (J,PR/C,37,2289,1988)
+#REFERENCE  Phys.Rev.C 37 (1988) 2289
+#DATASETS   0
+#
+#DATASET    C2714004 
+#DATE       20220313
+#REACTION   7-N-15(P,G)8-O-16,PAR,SIG
+#PROJ       1001
+#TARG       7015
+#MF         3
+#MT         900
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  7015   3 900 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7015   3 900 D  1.7789+7          6.1090-6                            0.000000         LVLS.W.Wissink+         (88)C2714  4 
+ 1001  7015   3 900 D  1.8262+7          4.7510-6                            0.000000         LVLS.W.Wissink+         (88)C2714  4 
+ 1001  7015   3 900 D  1.8768+7          3.0543-5                            0.000000         LVLS.W.Wissink+         (88)C2714  4 
+ 1001  7015   3 900 D  1.9218+7          2.0362-5                            0.000000         LVLS.W.Wissink+         (88)C2714  4 
+ 1001  7015   3 900 D  1.9702+7          1.7647-5                            0.000000         LVLS.W.Wissink+         (88)C2714  4 
+ 1001  7015   3 900 D  2.0141+7          2.5113-5                            0.000000         LVLS.W.Wissink+         (88)C2714  4 
+ 1001  7015   3 900 D  2.0625+7          4.8190-5                            0.000000         LVLS.W.Wissink+         (88)C2714  4 
+ 1001  7015   3 900 D  2.1097+7          2.1041-5                            0.000000         LVLS.W.Wissink+         (88)C2714  4 
+ 1001  7015   3 900 D  2.1581+7          8.3483-5                            0.000000         LVLS.W.Wissink+         (88)C2714  4 
+ 1001  7015   3 900 D  2.2076+7          1.6832-4                            0.000000         LVLS.W.Wissink+         (88)C2714  4 
+ 1001  7015   3 900 D  2.2504+7          4.0724-5                            0.000000         LVLS.W.Wissink+         (88)C2714  4 
+ 1001  7015   3 900 D  2.3022+7          6.3800-5                            0.000000         LVLS.W.Wissink+         (88)C2714  4 
+ 1001  7015   3 900 D  2.3460+7          2.9185-5                            0.000000         LVLS.W.Wissink+         (88)C2714  4 
+ 1001  7015   3 900 D  2.3967+7          1.0317-4                            0.000000         LVLS.W.Wissink+         (88)C2714  4 
+ 1001  7015   3 900 D  2.4406+7          7.5339-5                            0.000000         LVLS.W.Wissink+         (88)C2714  4 
+ 1001  7015   3 900 D  2.4912+7          7.4660-5                            0.000000         LVLS.W.Wissink+         (88)C2714  4 
+#/DATA      16
+#/DATASET

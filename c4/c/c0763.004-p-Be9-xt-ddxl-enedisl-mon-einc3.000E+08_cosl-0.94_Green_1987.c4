@@ -1,0 +1,29 @@
+#ENTRY      C0763
+#AUTHOR1    R.E.L.Green+
+#YEAR       1987
+#INSTITUTE  (1CANSFU)
+#TITLE      Light fragment spectra to upper kinematic limits for
+#+          300 MeV proton reactions with Be and Ag
+#AUTHOR(S)  R.E.L.Green, R.G.Korteling, J.M.D'Auria, K.P.Jackson, R.L.Helmer
+#REF-CODE   (J,PR/C,35,1341,198704)
+#REFERENCE  Phys.Rev.C 35 (1987) 1341
+#DATASETS   0
+#
+#DATASET    C0763004 
+#DATE       20010119
+#REACTION   4-BE-9(P,X)1-H-3,,DA/DE
+#PROJ       1001
+#TARG       4009
+#MF         6
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1001  4009   6 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   6 205    3.0000+8          1.770-13 1.200-14-0.939693          3.7500+7          E2R.E.L.Green+         (87)C0763  4 
+ 1001  4009   6 205    3.0000+8          1.020-13 9.000-15-0.939693          4.2500+7          E2R.E.L.Green+         (87)C0763  4 
+ 1001  4009   6 205    3.0000+8          5.900-14 7.000-15-0.939693          4.7500+7          E2R.E.L.Green+         (87)C0763  4 
+ 1001  4009   6 205    3.0000+8          3.200-14 5.000-15-0.939693          5.2500+7          E2R.E.L.Green+         (87)C0763  4 
+#/DATA      4
+#/DATASET

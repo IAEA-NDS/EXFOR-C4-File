@@ -1,0 +1,32 @@
+#ENTRY      C0460
+#AUTHOR1    K.E.Rehm+
+#YEAR       1998
+#INSTITUTE  (1USAANL)
+#TITLE      Study of the 56Ni(d,p)57Ni Reaction and the
+#+          Astrophysical 56Ni(p,gamma)57Cu Reaction Rate
+#AUTHOR(S)  K.E.Rehm, F.Borasi, C.L.Jiang, D.Ackermann, I.Ahmad, B.A.Brown, 
+#+          F.Brumwell, C.N.Davids, P.Decrock, S.M.Fischer, J.Goerres, 
+#+          J.Greene, G.Hackman, B.Harss, D.Henderson, W.Henning, R.V.F.Janssens, 
+#+          G.McMichael, V.Nanel, D.Nisius, J.Nolan, R.C.Pardo, M.Paul, 
+#+          P.Reiter, J.P.Schiffer, S.Seweryniak, R.E.Segel, M.Wiescher, 
+#+          A.H.Wuosmaa
+#REF-CODE   (J,PRL,80,676,199801)
+#REFERENCE  Phys.Rev.Lett. 80 (1998) 676
+#DATASETS   0
+#
+#DATASET    C0460002 
+#DATE       20030418
+#REACTION   28-NI-56(D,P)28-NI-57,PAR,DA
+#PROJ       1002
+#TARG       28056
+#MF         4
+#MT         600
+#PRODUCT    28-NI-57
+#C4BEGIN    [ 1002 28056   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28056   4 600 AC 9293721.          2.3000-3 1.4000-3 0.920982 0.034000 768000.0         LVLK.E.Rehm+            (98)C0460  2 
+ 1002 28056   4 600 AC 9293721.          2.7000-3 9.6000-4 0.835232 0.047988 768000.0         LVLK.E.Rehm+            (98)C0460  2 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      C0015
+#AUTHOR1    W.R.Stratton+
+#YEAR       1952
+#INSTITUTE  (1USAMIN)
+#TITLE      The Elastic Scattering of Deuterons by Tritons
+#AUTHOR(S)  W.R.Stratton, G.D.Freier, G.R.Keepin, D.Rankin, T.F.Stratton
+#REF-CODE   (J,PR,88,257,195210)
+#REFERENCE  Phys.Rev. 88 (1952) 257
+#DATASETS   0
+#
+#DATASET    C0015002 
+#DATE       20020213
+#REACTION   1-H-3(D,EL)1-H-3,,DA
+#PROJ       1002
+#TARG       1003
+#MF         4
+#MT         2
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1002  1003   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1003   4   2  C 3220000.          0.054000 3.2400-3 0.549023                              W.R.Stratton+        (52)C0015  2 
+ 1002  1003   4   2  C 3220000.          0.042000 2.5200-3 0.416281                              W.R.Stratton+        (52)C0015  2 
+ 1002  1003   4   2  C 3220000.          0.032000 1.6000-3 0.289032                              W.R.Stratton+        (52)C0015  2 
+ 1002  1003   4   2  C 3220000.          0.026000 1.3000-3 0.166769                              W.R.Stratton+        (52)C0015  2 
+ 1002  1003   4   2  C 3220000.          0.022000 1.1000-3 6.123-17                              W.R.Stratton+        (52)C0015  2 
+ 1002  1003   4   2  C 3220000.          0.019000 9.5000-4-0.173648                              W.R.Stratton+        (52)C0015  2 
+ 1002  1003   4   2  C 3220000.          0.021000 1.0500-3-0.211325                              W.R.Stratton+        (52)C0015  2 
+ 1002  1003   4   2  C 3220000.          0.031000 1.5500-3-0.355923                              W.R.Stratton+        (52)C0015  2 
+ 1002  1003   4   2  C 3220000.          0.041000 2.0500-3-0.424990                              W.R.Stratton+        (52)C0015  2 
+ 1002  1003   4   2  C 3220000.          0.092000 4.6000-3-0.579281                              W.R.Stratton+        (52)C0015  2 
+ 1002  1003   4   2  C 3220000.          0.081000 7.2900-3-0.593419                              W.R.Stratton+        (52)C0015  2 
+#/DATA      11
+#/DATASET

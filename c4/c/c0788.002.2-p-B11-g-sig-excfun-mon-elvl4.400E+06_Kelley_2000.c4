@@ -1,0 +1,28 @@
+#ENTRY      C0788
+#AUTHOR1    J.H.Kelley+
+#YEAR       2000
+#INSTITUTE  (1USATNL)
+#TITLE      The 11B(p,gamma)12C reaction below 100 keV
+#AUTHOR(S)  J.H.Kelley, R.S.Canon, S.J.Gaff, R.M.Prior, B.J.Rice, E.C.Schreiber, 
+#+          M.Spraker, D.R.Tilley, E.A.Wulf, H.R.Weller
+#REF-CODE   (J,PR/C,62,025803,2000)
+#REFERENCE  Phys.Rev.C 62 (2000) 025803
+#DATASETS   0
+#
+#DATASET    C07880022
+#DATE       20010425
+#REACTION   5-B-11(P,G)6-C-12,PAR,SIG,,SFC
+#PROJ       1001
+#TARG       5011
+#MF         3
+#MT         900
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  5011   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5011   3 900    80000.00          2.1413-9 3.612-10                   4400000.         LVLJ.H.Kelley+          (00)C0788  22
+ 1001  5011   3 900    90000.00          6.3544-9 1.0330-9                   4400000.         LVLJ.H.Kelley+          (00)C0788  22
+ 1001  5011   3 900    100000.0          1.5632-8 2.7178-9                   4400000.         LVLJ.H.Kelley+          (00)C0788  22
+#/DATA      3
+#/DATASET

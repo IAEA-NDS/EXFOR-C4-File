@@ -1,0 +1,35 @@
+#ENTRY      C3026
+#AUTHOR1    C.B.Fulmer+
+#YEAR       1976
+#INSTITUTE  (1USAORL)
+#TITLE      Back-angle 3He and alpha-particle elastic scattering
+#+          from 27Al
+#AUTHOR(S)  C.B.Fulmer, D.C.Hensley, J.C.Hafele, C.C.Foster, N.M.O'Fallon, 
+#+          W.W.Eidson, S.A.Gronemeyer
+#REF-CODE   (J,PR/C,13,937,1976)
+#REFERENCE  Phys.Rev.C 13 (1976) 937
+#DATASETS   0
+#
+#DATASET    C3026003 
+#DATE       20250107
+#REACTION   13-AL-27(A,EL)13-AL-27,,DA
+#PROJ       2004
+#TARG       13027
+#MF         4
+#MT         2
+#PRODUCT    13-AL-27
+#C4BEGIN    [ 2004 13027   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 13027   4   2 CC 2.2000+7          6.8700-4         -0.898081                              C.B.Fulmer+          (76)C3026  3 
+ 2004 13027   4   2 CC 2.2000+7          1.0340-3         -0.926555                              C.B.Fulmer+          (76)C3026  3 
+ 2004 13027   4   2 CC 2.2000+7          1.1770-3         -0.946029                              C.B.Fulmer+          (76)C3026  3 
+ 2004 13027   4   2 CC 2.2000+7          8.9750-4         -0.964331                              C.B.Fulmer+          (76)C3026  3 
+ 2004 13027   4   2 CC 2.2000+7          8.5580-4         -0.977999                              C.B.Fulmer+          (76)C3026  3 
+ 2004 13027   4   2 CC 2.2000+7          1.3880-3         -0.988489                              C.B.Fulmer+          (76)C3026  3 
+ 2004 13027   4   2 CC 2.2000+7          2.2520-3         -0.995623                              C.B.Fulmer+          (76)C3026  3 
+ 2004 13027   4   2 CC 2.2000+7          2.8680-3         -0.998890                              C.B.Fulmer+          (76)C3026  3 
+ 2004 13027   4   2 CC 2.2000+7          3.2060-3         -0.999656                              C.B.Fulmer+          (76)C3026  3 
+#/DATA      9
+#/DATASET

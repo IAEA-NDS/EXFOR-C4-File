@@ -1,0 +1,44 @@
+#ENTRY      C2672
+#AUTHOR1    S.Y.Van Der Werf+
+#YEAR       1986
+#INSTITUTE  (2NEDKVI)
+#TITLE      High-spin 1p-1h configurations in 116Sn and their
+#+          fragmentation as seen in the reactions
+#+          116Sn(p(pol),p'), 116Sn(e,e'), 115In(3He,d) and
+#+          115In(alpha,t)
+#AUTHOR(S)  S.Y.Van Der Werf, N.Blasi, M.N.Harakeh, G.Wenes, A.D.Bacher, 
+#+          G.T.Emery, C.W.Glover, W.P.Jones, H.J.Karwowski, H.Nann, 
+#+          C.Olmer, P.Den Heijer, C.W.De Jager, H.De Vries, J.Ryckebusch, 
+#+          M.Waroquier
+#REF-CODE   (J,PL/B,166,372,1986)
+#REFERENCE  Phys.Lett.B 166 (1986) 372
+#DATASETS   0
+#
+#DATASET    C2672002 
+#DATE       20211016
+#REACTION   50-SN-116(P,INL)50-SN-116,PAR,DA
+#PROJ       1001
+#TARG       50116
+#MF         4
+#MT         601
+#PRODUCT    50-SN-116
+#C4BEGIN    [ 1001 50116   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50116   4 601  C 1.3380+8          3.0280-5          0.883120          3210000.         LVLS.Y.Van Der Werf+    (86)C2672  2 
+ 1001 50116   4 601  C 1.3380+8          3.5540-5          0.861399          3210000.         LVLS.Y.Van Der Werf+    (86)C2672  2 
+ 1001 50116   4 601  C 1.3380+8          4.4010-5          0.839459          3210000.         LVLS.Y.Van Der Werf+    (86)C2672  2 
+ 1001 50116   4 601  C 1.3380+8          4.5550-5          0.814541          3210000.         LVLS.Y.Van Der Werf+    (86)C2672  2 
+ 1001 50116   4 601  C 1.3380+8          4.8000-5          0.788011          3210000.         LVLS.Y.Van Der Werf+    (86)C2672  2 
+ 1001 50116   4 601  C 1.3380+8          3.7270-5          0.754664          3210000.         LVLS.Y.Van Der Werf+    (86)C2672  2 
+ 1001 50116   4 601  C 1.3380+8          2.8960-5          0.732579          3210000.         LVLS.Y.Van Der Werf+    (86)C2672  2 
+ 1001 50116   4 601  C 1.3380+8          2.1310-5          0.699888          3210000.         LVLS.Y.Van Der Werf+    (86)C2672  2 
+ 1001 50116   4 601  C 1.3380+8          1.4090-5          0.669870          3210000.         LVLS.Y.Van Der Werf+    (86)C2672  2 
+ 1001 50116   4 601  C 1.3380+8          7.9200-6          0.632381          3210000.         LVLS.Y.Van Der Werf+    (86)C2672  2 
+ 1001 50116   4 601  C 1.3380+8          3.9290-6          0.604530          3210000.         LVLS.Y.Van Der Werf+    (86)C2672  2 
+ 1001 50116   4 601  C 1.3380+8          1.5710-6          0.566953          3210000.         LVLS.Y.Van Der Werf+    (86)C2672  2 
+ 1001 50116   4 601  C 1.3380+8          1.0020-6          0.532551          3210000.         LVLS.Y.Van Der Werf+    (86)C2672  2 
+ 1001 50116   4 601  C 1.3380+8          7.7810-7          0.489885          3210000.         LVLS.Y.Van Der Werf+    (86)C2672  2 
+#/DATA      14
+#/DATASET

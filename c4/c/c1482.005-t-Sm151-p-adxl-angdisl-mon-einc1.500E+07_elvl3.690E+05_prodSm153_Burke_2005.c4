@@ -1,0 +1,30 @@
+#ENTRY      C1482
+#AUTHOR1    D.G.Burke+
+#YEAR       2005
+#INSTITUTE  (1CANMCM)
+#TITLE      Nuclear structure studies and particle-rotor model
+#+          tests for 151,153Sm using 149,151Sm(t,p) reactions
+#AUTHOR(S)  D.G.Burke, I.G.Nowikow
+#REF-CODE   (J,NP/A,756,308,2005)
+#REFERENCE  Nucl.Phys.A 756 (2005) 308
+#DATASETS   0
+#
+#DATASET    C1482005 
+#DATE       20061212
+#REACTION   62-SM-151(T,P)62-SM-153,PAR,DA
+#PROJ       1003
+#TARG       62151
+#MF         4
+#MT         600
+#PRODUCT    62-SM-153
+#C4BEGIN    [ 1003 62151   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 62151   4 600    1.5000+7          1.4520-5 3.4540-6 0.990658          369000.0         LVLD.G.Burke+           (05)C1482  5 
+ 1003 62151   4 600    1.5000+7          2.0580-6 1.0300-6 0.865938          369000.0         LVLD.G.Burke+           (05)C1482  5 
+ 1003 62151   4 600    1.5000+7          1.4040-7 7.2380-8 0.807836          369000.0         LVLD.G.Burke+           (05)C1482  5 
+ 1003 62151   4 600    1.5000+7          6.0390-7 1.9610-7 0.494716          369000.0         LVLD.G.Burke+           (05)C1482  5 
+ 1003 62151   4 600    1.5000+7          3.5170-7 1.1420-7 0.382748          369000.0         LVLD.G.Burke+           (05)C1482  5 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,38 @@
+#ENTRY      C0688
+#AUTHOR1    G.S.Blanpied+
+#YEAR       1988
+#INSTITUTE  (1USASCA)
+#TITLE      Elastic and inelastic scattering of 0.8 GeV protons
+#+          from 20Ne and 22Ne
+#AUTHOR(S)  G.S.Blanpied, B.G.Ritchie, M.L.Barlett, R.W.Fergerson, G.W.Hoffmann, 
+#+          J.A.McGill, B.H.Wildenthal
+#REF-CODE   (J,PR/C,38,2180,198811)
+#REFERENCE  Phys.Rev.C 38 (1988) 2180
+#DATASETS   0
+#
+#DATASET    C0688004 
+#DATE       20000802
+#REACTION   10-NE-20(P,INL)10-NE-20,PAR,DA
+#PROJ       1001
+#TARG       10020
+#MF         4
+#MT         601
+#PRODUCT    10-NE-20
+#C4BEGIN    [ 1001 10020   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 10020   4 601  C 8.0000+8          3.5900-5 3.0200-6 0.957269          4968000.         LVLG.S.Blanpied+        (88)C0688  4 
+ 1001 10020   4 601  C 8.0000+8          3.3640-5 2.8840-6 0.954084          4968000.         LVLG.S.Blanpied+        (88)C0688  4 
+ 1001 10020   4 601  C 8.0000+8          2.5470-5 2.5730-6 0.950786          4968000.         LVLG.S.Blanpied+        (88)C0688  4 
+ 1001 10020   4 601  C 8.0000+8          2.2760-5 1.6000-6 0.948655          4968000.         LVLG.S.Blanpied+        (88)C0688  4 
+ 1001 10020   4 601  C 8.0000+8          1.8970-5 1.4670-6 0.945177          4968000.         LVLG.S.Blanpied+        (88)C0688  4 
+ 1001 10020   4 601  C 8.0000+8          1.7980-5 1.4660-6 0.941588          4968000.         LVLG.S.Blanpied+        (88)C0688  4 
+ 1001 10020   4 601  C 8.0000+8          1.0690-5 8.9420-7 0.939274          4968000.         LVLG.S.Blanpied+        (88)C0688  4 
+ 1001 10020   4 601  C 8.0000+8          7.2790-6 7.7780-7 0.935506          4968000.         LVLG.S.Blanpied+        (88)C0688  4 
+ 1001 10020   4 601  C 8.0000+8          5.3610-6 6.9460-7 0.931691          4968000.         LVLG.S.Blanpied+        (88)C0688  4 
+ 1001 10020   4 601  C 8.0000+8          3.8570-6 9.5190-7 0.929197          4968000.         LVLG.S.Blanpied+        (88)C0688  4 
+ 1001 10020   4 601  C 8.0000+8          2.1870-6 8.9600-7 0.925143          4968000.         LVLG.S.Blanpied+        (88)C0688  4 
+ 1001 10020   4 601  C 8.0000+8          1.0140-6 8.2500-7 0.920982          4968000.         LVLG.S.Blanpied+        (88)C0688  4 
+#/DATA      12
+#/DATASET

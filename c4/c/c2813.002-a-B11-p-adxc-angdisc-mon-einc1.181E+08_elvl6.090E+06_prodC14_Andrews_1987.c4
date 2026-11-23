@@ -1,0 +1,37 @@
+#ENTRY      C2813
+#AUTHOR1    P.R.Andrews+
+#YEAR       1987
+#INSTITUTE  (1USAINU)
+#TITLE      Spectroscopy of 14C from the 11B(alpha,p) 14C
+#+          reaction at 118 MeV
+#AUTHOR(S)  P.R.Andrews, B.M.Spicer, G.G.Shute, V.C.Officer, J.M.R.Wastell, 
+#+          H.Nann, Q.Li, A.D.Bacher, D.L.Friesel, W.P.Jones
+#REF-CODE   (J,NP/A,468,43,1987)
+#REFERENCE  Nucl.Phys.A 468 (1987) 43
+#DATASETS   0
+#
+#DATASET    C2813002 
+#DATE       20220918
+#REACTION   5-B-11(A,P)6-C-14,PAR,DA
+#PROJ       2004
+#TARG       5011
+#MF         4
+#MT         600
+#PRODUCT    6-C-14
+#C4BEGIN    [ 2004  5011   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  5011   4 600  C 1.1810+8          2.8620-6          0.991531          6090000.         LVLP.R.Andrews+         (87)C2813  2 
+ 2004  5011   4 600  C 1.1810+8          2.0710-6          0.986309          6090000.         LVLP.R.Andrews+         (87)C2813  2 
+ 2004  5011   4 600  C 1.1810+8          1.7050-6          0.978245          6090000.         LVLP.R.Andrews+         (87)C2813  2 
+ 2004  5011   4 600  C 1.1810+8          1.2330-6          0.968592          6090000.         LVLP.R.Andrews+         (87)C2813  2 
+ 2004  5011   4 600  C 1.1810+8          9.1170-7          0.957772          6090000.         LVLP.R.Andrews+         (87)C2813  2 
+ 2004  5011   4 600  C 1.1810+8          6.5970-7          0.946672          6090000.         LVLP.R.Andrews+         (87)C2813  2 
+ 2004  5011   4 600  C 1.1810+8          4.1050-7          0.930763          6090000.         LVLP.R.Andrews+         (87)C2813  2 
+ 2004  5011   4 600  C 1.1810+8          1.5920-7          0.908399          6090000.         LVLP.R.Andrews+         (87)C2813  2 
+ 2004  5011   4 600  C 1.1810+8          2.5020-8          0.880792          6090000.         LVLP.R.Andrews+         (87)C2813  2 
+ 2004  5011   4 600  C 1.1810+8          3.6850-9          0.838728          6090000.         LVLP.R.Andrews+         (87)C2813  2 
+ 2004  5011   4 600  C 1.1810+8          1.4580-9          0.779316          6090000.         LVLP.R.Andrews+         (87)C2813  2 
+#/DATA      11
+#/DATASET

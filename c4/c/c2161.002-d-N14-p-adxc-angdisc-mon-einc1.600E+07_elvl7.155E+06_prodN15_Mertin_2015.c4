@@ -1,0 +1,32 @@
+#ENTRY      C2161
+#AUTHOR1    C.E.Mertin+
+#YEAR       2015
+#INSTITUTE  (1USAFSU)
+#TITLE      Single particle strengths and mirror states in 15N -
+#+          15-O below 12.0 MeV
+#AUTHOR(S)  C.E.Mertin, D.D.Caussyn, A.M.Crisp, N.Keeley, K.W.Kemper, 
+#+          O.Momotyuk, B.T.Roeder, A.Volya
+#REF-CODE   (J,PR/C,91,044317,2015)
+#REFERENCE  Phys.Rev.C 91 (2015) 044317
+#DATASETS   0
+#
+#DATASET    C2161002 
+#DATE       20150527
+#REACTION   7-N-14(D,P)7-N-15,PAR,DA
+#PROJ       1002
+#TARG       7014
+#MF         4
+#MT         600
+#PRODUCT    7-N-15
+#C4BEGIN    [ 1002  7014   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  7014   4 600  C 1.6000+7          0.014305 6.9600-4 0.981860          7155000.         LVLC.E.Mertin+          (15)C2161  2 
+ 1002  7014   4 600  C 1.6000+7          0.012127 5.7400-4 0.959363          7155000.         LVLC.E.Mertin+          (15)C2161  2 
+ 1002  7014   4 600  C 1.6000+7          0.010137 4.4100-4 0.928291          7155000.         LVLC.E.Mertin+          (15)C2161  2 
+ 1002  7014   4 600  C 1.6000+7          7.7360-3 3.5000-4 0.888857          7155000.         LVLC.E.Mertin+          (15)C2161  2 
+ 1002  7014   4 600  C 1.6000+7          4.8300-3 2.2700-4 0.841699          7155000.         LVLC.E.Mertin+          (15)C2161  2 
+ 1002  7014   4 600  C 1.6000+7          3.0520-3 1.9100-4 0.787150          7155000.         LVLC.E.Mertin+          (15)C2161  2 
+#/DATA      6
+#/DATASET

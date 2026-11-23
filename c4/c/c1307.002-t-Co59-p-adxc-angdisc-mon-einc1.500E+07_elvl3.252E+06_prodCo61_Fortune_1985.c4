@@ -1,0 +1,35 @@
+#ENTRY      C1307
+#AUTHOR1    H.T.Fortune+
+#YEAR       1985
+#INSTITUTE  (1USAPEN)
+#TITLE      Level structures of 61Co via the reaction
+#+          59Co(t,p)61Co
+#AUTHOR(S)  H.T.Fortune, M.Carchidi, H.Banu, H.M.Sen-Gupta
+#REF-CODE   (J,PR/C,31,392,1985)
+#REFERENCE  Phys.Rev.C 31 (1985) 392
+#DATASETS   0
+#
+#DATASET    C1307002 
+#DATE       20050811
+#REACTION   27-CO-59(T,P)27-CO-61,PAR,DA
+#PROJ       1003
+#TARG       27059
+#MF         4
+#MT         600
+#PRODUCT    27-CO-61
+#C4BEGIN    [ 1003 27059   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 27059   4 600  C 1.5000+7          2.5300-5          0.983255          3252000.         LVLH.T.Fortune+         (85)C1307  2 
+ 1003 27059   4 600  C 1.5000+7          3.1800-5          0.949425          3252000.         LVLH.T.Fortune+         (85)C1307  2 
+ 1003 27059   4 600  C 1.5000+7          2.7600-5          0.905569          3252000.         LVLH.T.Fortune+         (85)C1307  2 
+ 1003 27059   4 600  C 1.5000+7          2.1300-5          0.835807          3252000.         LVLH.T.Fortune+         (85)C1307  2 
+ 1003 27059   4 600  C 1.5000+7          1.9600-5          0.763796          3252000.         LVLH.T.Fortune+         (85)C1307  2 
+ 1003 27059   4 600  C 1.5000+7          1.3100-5          0.670427          3252000.         LVLH.T.Fortune+         (85)C1307  2 
+ 1003 27059   4 600  C 1.5000+7          1.1700-5          0.563526          3252000.         LVLH.T.Fortune+         (85)C1307  2 
+ 1003 27059   4 600  C 1.5000+7          6.0800-6 1.1300-6 0.447759          3252000.         LVLH.T.Fortune+         (85)C1307  2 
+ 1003 27059   4 600  C 1.5000+7          5.4200-6 1.0100-6 0.323917          3252000.         LVLH.T.Fortune+         (85)C1307  2 
+ 1003 27059   4 600  C 1.5000+7          4.3200-6 1.1000-6 0.201078          3252000.         LVLH.T.Fortune+         (85)C1307  2 
+#/DATA      10
+#/DATASET

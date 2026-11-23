@@ -1,0 +1,39 @@
+#ENTRY      C1339
+#AUTHOR1    P.E.Garrett+
+#YEAR       1993
+#INSTITUTE  (2SWTFRS)
+#TITLE      Tests of the IBFFM with single-nucleon transfer
+#+          reactions to 192,194Ir
+#AUTHOR(S)  P.E.Garrett, D.G.Burke
+#REF-CODE   (C,93FRIBOU,,236,1993)
+#REFERENCE  Proceedings of 8.Int.Conf.Capture Gamma-Ray Spectrosc.,Fribourg 1993 page 236
+#DATASETS   0
+#
+#DATASET    C1339002 
+#DATE       20050825
+#REACTION   77-IR-193(D,T)77-IR-192,PAR,DA
+#PROJ       1002
+#TARG       77193
+#MF         4
+#MT         700
+#PRODUCT    77-IR-192
+#C4BEGIN    [ 1002 77193   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 77193   4 700    1.8000+7          6.3800-5 1.2200-5 0.994485          128600.0         LVLP.E.Garrett+         (93)C1339  2 
+ 1002 77193   4 700    1.8000+7          8.0400-5 1.9000-5 0.989925          128600.0         LVLP.E.Garrett+         (93)C1339  2 
+ 1002 77193   4 700    1.8000+7          1.0100-4 2.2500-5 0.984196          128600.0         LVLP.E.Garrett+         (93)C1339  2 
+ 1002 77193   4 700    1.8000+7          9.1800-5 1.1600-5 0.975917          128600.0         LVLP.E.Garrett+         (93)C1339  2 
+ 1002 77193   4 700    1.8000+7          5.3200-5 2.7200-5 0.952661          128600.0         LVLP.E.Garrett+         (93)C1339  2 
+ 1002 77193   4 700    1.8000+7          6.4400-5 1.0300-5 0.922538          128600.0         LVLP.E.Garrett+         (93)C1339  2 
+ 1002 77193   4 700    1.8000+7          7.6400-5 1.2200-5 0.887011          128600.0         LVLP.E.Garrett+         (93)C1339  2 
+ 1002 77193   4 700    1.8000+7          1.0000-4 1.2600-5 0.865151          128600.0         LVLP.E.Garrett+         (93)C1339  2 
+ 1002 77193   4 700    1.8000+7          7.0400-5 1.1200-5 0.820152          128600.0         LVLP.E.Garrett+         (93)C1339  2 
+ 1002 77193   4 700    1.8000+7          5.7800-5 1.1000-5 0.762668          128600.0         LVLP.E.Garrett+         (93)C1339  2 
+ 1002 77193   4 700    1.8000+7          6.7300-5 8.5100-6 0.699663          128600.0         LVLP.E.Garrett+         (93)C1339  2 
+ 1002 77193   4 700    1.8000+7          6.7100-5 8.5100-6 0.641450          128600.0         LVLP.E.Garrett+         (93)C1339  2 
+ 1002 77193   4 700    1.8000+7          5.6000-5 1.1600-5 0.501511          128600.0         LVLP.E.Garrett+         (93)C1339  2 
+ 1002 77193   4 700    1.8000+7          3.0500-5 4.8900-6 0.340380          128600.0         LVLP.E.Garrett+         (93)C1339  2 
+#/DATA      14
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      C1204
+#AUTHOR1    C.Ellegaard+
+#YEAR       1983
+#INSTITUTE  (2DENCOP)
+#TITLE      Study of 46, 48Ca(alpha, p) reactions
+#AUTHOR(S)  C.Ellegaard, J.D.Garrett, O.Hansen, S.Y.V.D.Werf, R.R.Betts, 
+#+          S.B.Dicenzo, B.F.Bayman
+#REF-CODE   (J,NP/A,406,134,1983)
+#REFERENCE  Nucl.Phys.A 406 (1983) 134
+#DATASETS   0
+#
+#DATASET    C1204004 
+#DATE       20050405
+#REACTION   20-CA-48(A,P)21-SC-51,PAR,DA
+#PROJ       2004
+#TARG       20048
+#MF         4
+#MT         600
+#PRODUCT    21-SC-51
+#C4BEGIN    [ 2004 20048   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 20048   4 600  C 2.5000+7          2.7100-5          0.786935          859000.0         LVLC.Ellegaard+         (83)C1204  4 
+ 2004 20048   4 600  C 2.5000+7          1.6600-5          0.708340          859000.0         LVLC.Ellegaard+         (83)C1204  4 
+ 2004 20048   4 600  C 2.5000+7          1.3600-5          0.594823          859000.0         LVLC.Ellegaard+         (83)C1204  4 
+#/DATA      3
+#/DATASET

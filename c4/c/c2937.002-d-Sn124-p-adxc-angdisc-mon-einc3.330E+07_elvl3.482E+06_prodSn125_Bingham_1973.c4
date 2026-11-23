@@ -1,0 +1,32 @@
+#ENTRY      C2937
+#AUTHOR1    C.R.Bingham+
+#YEAR       1973
+#INSTITUTE  (1USATEN)
+#TITLE      Neutron shell structure in 125Sn by (d,p) and
+#+          (alpha,3He) reactions
+#AUTHOR(S)  C.R.Bingham, D.L.Hillis
+#REF-CODE   (J,PR/C,8,729,1973)
+#REFERENCE  Phys.Rev.C 8 (1973) 729
+#DATASETS   0
+#
+#DATASET    C2937002 
+#DATE       20231113
+#REACTION   50-SN-124(D,P)50-SN-125,PAR,DA
+#PROJ       1002
+#TARG       50124
+#MF         4
+#MT         600
+#PRODUCT    50-SN-125
+#C4BEGIN    [ 1002 50124   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50124   4 600  C 3.3300+7          2.5790-4          0.973058          3482000.         LVLC.R.Bingham+         (73)C2937  2 
+ 1002 50124   4 600  C 3.3300+7          1.8690-4          0.948986          3482000.         LVLC.R.Bingham+         (73)C2937  2 
+ 1002 50124   4 600  C 3.3300+7          9.4470-5          0.918929          3482000.         LVLC.R.Bingham+         (73)C2937  2 
+ 1002 50124   4 600  C 3.3300+7          1.2440-4          0.878067          3482000.         LVLC.R.Bingham+         (73)C2937  2 
+ 1002 50124   4 600  C 3.3300+7          7.3150-5          0.835520          3482000.         LVLC.R.Bingham+         (73)C2937  2 
+ 1002 50124   4 600  C 3.3300+7          4.1820-5          0.782825          3482000.         LVLC.R.Bingham+         (73)C2937  2 
+ 1002 50124   4 600  C 3.3300+7          4.5540-5          0.722485          3482000.         LVLC.R.Bingham+         (73)C2937  2 
+#/DATA      7
+#/DATASET

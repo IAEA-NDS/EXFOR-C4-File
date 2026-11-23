@@ -1,0 +1,28 @@
+#ENTRY      C2804
+#AUTHOR1    R.J.Peterson+
+#YEAR       1986
+#INSTITUTE  (1USACLU)
+#TITLE      Proton stripping to 6- stretched states of 26Al
+#AUTHOR(S)  R.J.Peterson, B.L.Clausen, J.J.Kraushaar, H.Nann, W.W.Jacobs, 
+#+          R.A.Lindgren, M.A.Plum
+#REF-CODE   (J,PR/C,33,31,1986)
+#REFERENCE  Phys.Rev.C 33 (1986) 31
+#DATASETS   0
+#
+#DATASET    C2804003 
+#DATE       20220917
+#REACTION   12-MG-25(A,T)13-AL-26,PAR,DA
+#PROJ       2004
+#TARG       12025
+#MF         4
+#MT         700
+#PRODUCT    13-AL-26
+#C4BEGIN    [ 2004 12025   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 12025   4 700  C 8.0900+7          1.0700-4 1.0820-5 0.989866          1.6830+7         LVLR.J.Peterson+        (86)C2804  3 
+ 2004 12025   4 700  C 8.0900+7          7.1800-5 7.1650-6 0.982923          1.6830+7         LVLR.J.Peterson+        (86)C2804  3 
+ 2004 12025   4 700  C 8.0900+7          4.9670-5 6.4690-6 0.974566          1.6830+7         LVLR.J.Peterson+        (86)C2804  3 
+#/DATA      3
+#/DATASET

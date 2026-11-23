@@ -1,0 +1,29 @@
+#ENTRY      C0925
+#AUTHOR1    F.E.Bertrand+
+#YEAR       1973
+#INSTITUTE  (1USAORL)
+#TITLE      Complete Hydrogen and Helium particle spectra from 30-
+#+          to 60-MeV proton bombardment of nuclei with A=12 to
+#+          209 and comparison with intranuclear cascade model
+#AUTHOR(S)  F.E.Bertrand, R.W.Peelle
+#REF-CODE   (J,PR/C,8,1045,1973)
+#REFERENCE  Phys.Rev.C 8 (1973) 1045
+#DATASETS   0
+#
+#DATASET    C0925010 
+#DATE       20040511
+#REACTION   8-O-16(P,X)2-HE-3,,DA/DE
+#PROJ       1001
+#TARG       8016
+#MF         6
+#MT         206
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  8016   6 206  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   6 206    6.2000+7          3.700-11 1.200-11-0.939693          8730000.          E2F.E.Bertrand+        (73)C0925 10 
+ 1001  8016   6 206    6.2000+7          2.100-11 7.000-12-0.939693          1.3680+7          E2F.E.Bertrand+        (73)C0925 10 
+ 1001  8016   6 206    6.2000+7          1.000-12 1.000-12-0.939693          2.3580+7          E2F.E.Bertrand+        (73)C0925 10 
+#/DATA      3
+#/DATASET

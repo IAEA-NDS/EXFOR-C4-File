@@ -1,0 +1,37 @@
+#ENTRY      C2700
+#AUTHOR1    J.G.Kulleck+
+#YEAR       1970
+#INSTITUTE  (1USATEX)
+#TITLE      Neutron Particle Hole Structure in 208Pb Through
+#+          Isobaric Analog Resonances
+#AUTHOR(S)  J.G.Kulleck, S.A.A.Zaidi, J.L.Parish, C.F.Moore, P.Von Bretano, 
+#+          P.Richard, D.Burch, W.R.Wharton
+#REF-CODE   (T,KULLECK,1970)
+#REFERENCE  Thesis  (1970)
+#DATASETS   0
+#
+#DATASET    C2700012 
+#DATE       20211211
+#REACTION   82-PB-208(P,INL)82-PB-208,PAR,DA
+#PROJ       1001
+#TARG       82208
+#MF         4
+#MT         601
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 1001 82208   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   4 601    1.6490+7          4.6275-4          0.490311          6000000.         LVLJ.G.Kulleck+         (70)C2700 12 
+ 1001 82208   4 601    1.6490+7          4.4035-4          0.344889          6000000.         LVLJ.G.Kulleck+         (70)C2700 12 
+ 1001 82208   4 601    1.6490+7          3.7701-4          0.186353          6000000.         LVLJ.G.Kulleck+         (70)C2700 12 
+ 1001 82208   4 601    1.6490+7          3.4190-4          4.6251-3          6000000.         LVLJ.G.Kulleck+         (70)C2700 12 
+ 1001 82208   4 601    1.6490+7          3.1235-4         -0.073900          6000000.         LVLJ.G.Kulleck+         (70)C2700 12 
+ 1001 82208   4 601    1.6490+7          3.3146-4         -0.162224          6000000.         LVLJ.G.Kulleck+         (70)C2700 12 
+ 1001 82208   4 601    1.6490+7          3.2380-4         -0.566334          6000000.         LVLJ.G.Kulleck+         (70)C2700 12 
+ 1001 82208   4 601    1.6490+7          3.2336-4         -0.648970          6000000.         LVLJ.G.Kulleck+         (70)C2700 12 
+ 1001 82208   4 601    1.6490+7          3.9033-4         -0.860520          6000000.         LVLJ.G.Kulleck+         (70)C2700 12 
+ 1001 82208   4 601    1.6490+7          4.0689-4         -0.902405          6000000.         LVLJ.G.Kulleck+         (70)C2700 12 
+ 1001 82208   4 601    1.6490+7          4.3254-4         -0.977717          6000000.         LVLJ.G.Kulleck+         (70)C2700 12 
+#/DATA      11
+#/DATASET

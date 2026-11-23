@@ -1,0 +1,32 @@
+#ENTRY      C3034
+#AUTHOR1    F.A.Rose+
+#YEAR       1969
+#INSTITUTE  (1USAWIS)
+#TITLE      Differential cross sections for the 14N(alpha,p)17O*
+#+          reaction
+#AUTHOR(S)  F.A.Rose
+#REF-CODE   (J,NP/A,124,305,1969)
+#REFERENCE  Nucl.Phys.A 124 (1969) 305
+#DATASETS   0
+#
+#DATASET    C3034002 
+#DATE       20250214
+#REACTION   7-N-14(A,P)8-O-17,PAR,DA
+#PROJ       2004
+#TARG       7014
+#MF         4
+#MT         600
+#PRODUCT    8-O-17
+#C4BEGIN    [ 2004  7014   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  7014   4 600  C 1.4250+7          6.2500-4 9.9700-4 0.955479          7560000.         LVLF.A.Rose             (69)C3034  2 
+ 2004  7014   4 600  C 1.4250+7          1.1050-3 6.6000-5 0.863202          7560000.         LVLF.A.Rose             (69)C3034  2 
+ 2004  7014   4 600  C 1.4250+7          9.1700-4 5.6000-5 0.751437          7560000.         LVLF.A.Rose             (69)C3034  2 
+ 2004  7014   4 600  C 1.4250+7          7.1000-4 7.5000-5 0.612507          7560000.         LVLF.A.Rose             (69)C3034  2 
+ 2004  7014   4 600  C 1.4250+7          7.4500-4 1.2400-4 0.452808          7560000.         LVLF.A.Rose             (69)C3034  2 
+ 2004  7014   4 600  C 1.4250+7          8.1600-4 1.6700-4 0.265691          7560000.         LVLF.A.Rose             (69)C3034  2 
+ 2004  7014   4 600  C 1.4250+7          4.1500-4 1.2100-4 0.097461          7560000.         LVLF.A.Rose             (69)C3034  2 
+#/DATA      7
+#/DATASET

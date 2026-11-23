@@ -1,0 +1,26 @@
+#ENTRY      C0969
+#AUTHOR1    P.T.Deason+
+#YEAR       1981
+#INSTITUTE  (1USAMSU)
+#TITLE      194,196,198Pt(p,p') reactions at 35 MeV
+#AUTHOR(S)  P.T.Deason, C.H.King, R.M.Ronningen, T.L.Khoo, F.M.Bernthal, 
+#+          J.A.Nolan Jr
+#REF-CODE   (J,PR/C,23,1414,198104)
+#REFERENCE  Phys.Rev.C 23 (1981) 1414
+#DATASETS   0
+#
+#DATASET    C0969004 
+#DATE       20040211
+#REACTION   78-PT-198(P,INL)78-PT-198,PAR,DA
+#PROJ       1001
+#TARG       78198
+#MF         4
+#MT         601
+#PRODUCT    78-PT-198
+#C4BEGIN    [ 1001 78198   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 78198   4 601    3.5000+7          7.4900-5          0.866025          2100000. 2000.000LVLP.T.Deason+          (81)C0969  4 
+#/DATA      1
+#/DATASET

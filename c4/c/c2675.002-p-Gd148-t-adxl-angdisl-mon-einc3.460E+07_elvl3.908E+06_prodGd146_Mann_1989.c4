@@ -1,0 +1,31 @@
+#ENTRY      C2675
+#AUTHOR1    L.G.Mann+
+#YEAR       1989
+#INSTITUTE  (1USALRL)
+#TITLE      148Gd(p,t)146Gd reaction: Neutron states in 146Gd
+#AUTHOR(S)  L.G.Mann, R.G.Lanier, G.L.Struble, S.W.Yates, R.A.Naumann, 
+#+          R.T.Kouzes
+#REF-CODE   (J,PR/C,39,2180,1989)
+#REFERENCE  Phys.Rev.C 39 (1989) 2180
+#DATASETS   0
+#
+#DATASET    C2675002 
+#DATE       20211021
+#REACTION   64-GD-148(P,T)64-GD-146,PAR,DA
+#PROJ       1001
+#TARG       64148
+#MF         4
+#MT         700
+#PRODUCT    64-GD-146
+#C4BEGIN    [ 1001 64148   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 64148   4 700    3.4600+7          5.6630-6 1.2660-6 0.984926          3908000.         LVLL.G.Mann+            (89)C2675  2 
+ 1001 64148   4 700    3.4600+7          2.0390-6 1.2140-6 0.941182          3908000.         LVLL.G.Mann+            (89)C2675  2 
+ 1001 64148   4 700    3.4600+7          2.5330-6 1.1780-6 0.865440          3908000.         LVLL.G.Mann+            (89)C2675  2 
+ 1001 64148   4 700    3.4600+7          5.2850-7 3.0890-7 0.767098          3908000.         LVLL.G.Mann+            (89)C2675  2 
+ 1001 64148   4 700    3.4600+7          2.5500-6 8.6200-7 0.647229          3908000.         LVLL.G.Mann+            (89)C2675  2 
+ 1001 64148   4 700    3.4600+7          7.2160-7 4.2580-7 0.574220          3908000.         LVLL.G.Mann+            (89)C2675  2 
+#/DATA      6
+#/DATASET

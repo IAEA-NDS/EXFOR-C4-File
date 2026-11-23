@@ -1,0 +1,32 @@
+#ENTRY      C2981
+#AUTHOR1    A.Jamshidi+
+#YEAR       1972
+#INSTITUTE  (1USAROC)
+#TITLE      Nuclear spectroscopy of 42Ca via the (d,t), (3He,d),
+#+          and (alpha,alpha') reactions
+#AUTHOR(S)  A.Jamshidi, W.P.Alford
+#REF-CODE   (J,PR/C,6,1411,1972)
+#REFERENCE  Phys.Rev.C 6 (1972) 1411
+#DATASETS   0
+#
+#DATASET    C2981002 
+#DATE       20240723
+#REACTION   20-CA-43(D,T)20-CA-42,PAR,DA
+#PROJ       1002
+#TARG       20043
+#MF         4
+#MT         700
+#PRODUCT    20-CA-42
+#C4BEGIN    [ 1002 20043   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 20043   4 700  C 2.0000+7          4.3490-4 3.5270-5 0.992648          4690000. 5000.000LVLA.Jamshidi+          (72)C2981  2 
+ 1002 20043   4 700  C 2.0000+7          1.4680-4 1.3790-5 0.984334          4690000. 5000.000LVLA.Jamshidi+          (72)C2981  2 
+ 1002 20043   4 700  C 2.0000+7          5.2450-5 6.2530-6 0.973936          4690000. 5000.000LVLA.Jamshidi+          (72)C2981  2 
+ 1002 20043   4 700  C 2.0000+7          1.7120-4 2.0400-5 0.934304          4690000. 5000.000LVLA.Jamshidi+          (72)C2981  2 
+ 1002 20043   4 700  C 2.0000+7          3.7840-5 4.0360-6 0.852166          4690000. 5000.000LVLA.Jamshidi+          (72)C2981  2 
+ 1002 20043   4 700  C 2.0000+7          2.0600-5 2.7100-6 0.675719          4690000. 5000.000LVLA.Jamshidi+          (72)C2981  2 
+ 1002 20043   4 700  C 2.0000+7          3.1840-5 5.3390-6 0.450613          4690000. 5000.000LVLA.Jamshidi+          (72)C2981  2 
+#/DATA      7
+#/DATASET

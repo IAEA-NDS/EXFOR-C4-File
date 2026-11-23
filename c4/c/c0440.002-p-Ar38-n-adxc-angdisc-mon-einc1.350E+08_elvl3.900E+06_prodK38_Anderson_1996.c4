@@ -1,0 +1,32 @@
+#ENTRY      C0440
+#AUTHOR1    B.D.Anderson+
+#YEAR       1996
+#INSTITUTE  (1USAINU)
+#TITLE      Gamow-Teller strength to 38K from the 38Ar(p,n) and
+#+          38Ca(beta+) decay
+#AUTHOR(S)  B.D.Anderson, A.R.Baldwin, P.Baumann, B.A.Brown, F.Didierjean, 
+#+          C.C.Foster, L.A.C.Garcia, A.Huck, A.Knipper, R.Madey, D.M.Mamley, 
+#+          G.Marguier, M.Ramdhane, H.Ravn, C.Richard-Serre, G.Walter, 
+#+          J.W.Watson
+#REF-CODE   (J,PR/C,54,602,9608)
+#REFERENCE  Phys.Rev.C 54 (1996) 602
+#DATASETS   0
+#
+#DATASET    C0440002 
+#DATE       19961220
+#REACTION   18-AR-38(P,N)19-K-38,PAR,DA
+#PROJ       1001
+#TARG       18038
+#MF         4
+#MT         50
+#PRODUCT    19-K-38
+#C4BEGIN    [ 1001 18038   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 18038   4  50  C 1.3500+8          2.4040-3 3.1260-5 0.999993          3900000.         LVLB.D.Anderson+        (96)C0440  2 
+ 1001 18038   4  50  C 1.3500+8          1.6280-3 2.0480-5 0.994170          3900000.         LVLB.D.Anderson+        (96)C0440  2 
+ 1001 18038   4  50  C 1.3500+8          3.3980-4 4.3800-5 0.978653          3900000.         LVLB.D.Anderson+        (96)C0440  2 
+ 1001 18038   4  50  C 1.3500+8          2.0310-4 1.1580-4 0.949699          3900000.         LVLB.D.Anderson+        (96)C0440  2 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,38 @@
+#ENTRY      C0148
+#AUTHOR1    H.Seifert+
+#YEAR       1993
+#INSTITUTE  (1USAINU)
+#TITLE      Effective interaction for 16O(p,p') and 40Ca(p,p')
+#+          at E(p) = 200 MeV
+#AUTHOR(S)  H.Seifert, J.J.Kelly, A.E.Feldman, B.S.Flanders, M.A.Khandaker, 
+#+          Q.Chen, A.D.Bacher, G.P.A.Berg, E.J.Stephenson, P.Karen, 
+#+          B.E.Norum, P.Welch, A.Scott
+#REF-CODE   (J,PR/C,47,1615,199304)
+#REFERENCE  Phys.Rev.C 47 (1993) 1615
+#DATASETS   0
+#
+#DATASET    C0148003 
+#DATE       19970421
+#REACTION   8-O-16(P,INL)8-O-16,PAR,DA
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         601
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  8016   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4 601 AC 2.0140+8 200000.0 3.5960-5 2.2018-5 0.989701          1.3980+7         LVLH.Seifert+           (93)C0148  3 
+ 1001  8016   4 601 AC 2.0140+8 200000.0 1.2450-5 7.9792-6 0.967312          1.3980+7         LVLH.Seifert+           (93)C0148  3 
+ 1001  8016   4 601 AC 2.0140+8 200000.0 3.2170-5 1.3997-5 0.942525          1.3980+7         LVLH.Seifert+           (93)C0148  3 
+ 1001  8016   4 601 AC 2.0140+8 200000.0 2.4440-5 8.4807-6 0.931755          1.3980+7         LVLH.Seifert+           (93)C0148  3 
+ 1001  8016   4 601 AC 2.0140+8 200000.0 2.7870-5 1.1675-5 0.921185          1.3980+7         LVLH.Seifert+           (93)C0148  3 
+ 1001  8016   4 601 AC 2.0140+8 200000.0 1.6990-5 1.1621-5 0.901983          1.3980+7         LVLH.Seifert+           (93)C0148  3 
+ 1001  8016   4 601 AC 2.0140+8 200000.0 1.6440-5 9.0798-6 0.869581          1.3980+7         LVLH.Seifert+           (93)C0148  3 
+ 1001  8016   4 601 AC 2.0140+8 200000.0 4.2100-6 2.9937-6 0.862602          1.3980+7         LVLH.Seifert+           (93)C0148  3 
+ 1001  8016   4 601 AC 2.0140+8 200000.0 3.8420-5 5.0753-6 0.800836          1.3980+7         LVLH.Seifert+           (93)C0148  3 
+ 1001  8016   4 601 AC 2.0140+8 200000.0 4.8980-6 9.5854-7 0.690378          1.3980+7         LVLH.Seifert+           (93)C0148  3 
+ 1001  8016   4 601 AC 2.0140+8 200000.0 2.0540-6 1.7272-6 0.649448          1.3980+7         LVLH.Seifert+           (93)C0148  3 
+#/DATA      11
+#/DATASET

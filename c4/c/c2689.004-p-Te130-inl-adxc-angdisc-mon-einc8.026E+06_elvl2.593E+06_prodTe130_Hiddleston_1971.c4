@@ -1,0 +1,36 @@
+#ENTRY      C2689
+#AUTHOR1    H.R.Hiddleston+
+#YEAR       1971
+#INSTITUTE  (1USATEX)
+#TITLE      Isobaric analog resonances in proton elastic and
+#+          inelastic scattering from 130Te
+#AUTHOR(S)  H.R.Hiddleston, C.L.Hollas, V.D.Mistry, P.J.Riley
+#REF-CODE   (J,PR/C,3,905,1971)
+#REFERENCE  Phys.Rev.C 3 (1971) 905
+#DATASETS   0
+#
+#DATASET    C2689004 
+#DATE       20211030
+#REACTION   52-TE-130(P,INL)52-TE-130,PAR,DA
+#PROJ       1001
+#TARG       52130
+#MF         4
+#MT         601
+#PRODUCT    52-TE-130
+#C4BEGIN    [ 1001 52130   4 601 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 52130   4 601 CC 8026047.          1.2300-4 1.0000-5 0.348376          2593000.         LVLH.R.Hiddleston+      (71)C2689  4 
+ 1001 52130   4 601 CC 8026047.          7.9000-5 9.0000-6 0.175195          2593000.         LVLH.R.Hiddleston+      (71)C2689  4 
+ 1001 52130   4 601 CC 8026047.          1.9000-4 1.3000-5 6.6497-3          2593000.         LVLH.R.Hiddleston+      (71)C2689  4 
+ 1001 52130   4 601 CC 8026047.          1.3200-4 1.0000-5-0.172445          2593000.         LVLH.R.Hiddleston+      (71)C2689  4 
+ 1001 52130   4 601 CC 8026047.          1.3100-4 1.0000-5-0.341479          2593000.         LVLH.R.Hiddleston+      (71)C2689  4 
+ 1001 52130   4 601 CC 8026047.          1.3000-4 9.0000-6-0.500076          2593000.         LVLH.R.Hiddleston+      (71)C2689  4 
+ 1001 52130   4 601 CC 8026047.          1.2600-4 9.0000-6-0.646297          2593000.         LVLH.R.Hiddleston+      (71)C2689  4 
+ 1001 52130   4 601 CC 8026047.          1.0600-4 8.0000-6-0.772046          2593000.         LVLH.R.Hiddleston+      (71)C2689  4 
+ 1001 52130   4 601 CC 8026047.          1.0400-4 9.0000-6-0.871008          2593000.         LVLH.R.Hiddleston+      (71)C2689  4 
+ 1001 52130   4 601 CC 8026047.          1.2600-4 8.0000-6-0.945672          2593000.         LVLH.R.Hiddleston+      (71)C2689  4 
+ 1001 52130   4 601 CC 8026047.          1.1100-4 7.0000-6-0.987900          2593000.         LVLH.R.Hiddleston+      (71)C2689  4 
+#/DATA      11
+#/DATASET

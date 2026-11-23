@@ -1,0 +1,30 @@
+#ENTRY      C1975
+#AUTHOR1    D.K.Sharp+
+#YEAR       2013
+#INSTITUTE  (2UK MAN)
+#TITLE      Neutron single-particle strength outside the N = 50
+#+          core
+#AUTHOR(S)  D.K.Sharp, B.P.Kay, J.S.Thomas, S.J.Freeman, J.P.Schiffer, 
+#+          B.B.Back, S.Bedoor, T.Bloxham, J.A.Clark, C.M.Deibel, C.R.Hoffman, 
+#+          A.M.Howard, J.C.Lighthall, S.T.Marley, A.J.Mitchell, T.Otsuka, 
+#+          P.D.Parker, K.E.Rehm, D.V.Shetty, A.H.Wuosmaa
+#REF-CODE   (J,PR/C,87,014312,2013)
+#REFERENCE  Phys.Rev.C 87 (2013) 014312
+#DATASETS   0
+#
+#DATASET    C1975005 
+#DATE       20130122
+#REACTION   40-ZR-90(A,HE3)40-ZR-91,PAR,DA
+#PROJ       2004
+#TARG       40090
+#MF         4
+#MT         750
+#PRODUCT    40-ZR-91
+#C4BEGIN    [ 2004 40090   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 40090   4 750    5.0000+7          5.2000-5 9.0000-6 0.996195          2875000. 1000.000LVLD.K.Sharp+           (13)C1975  5 
+ 2004 40090   4 750    5.0000+7          2.8000-5 4.0000-6 0.984808          2875000. 1000.000LVLD.K.Sharp+           (13)C1975  5 
+#/DATA      2
+#/DATASET

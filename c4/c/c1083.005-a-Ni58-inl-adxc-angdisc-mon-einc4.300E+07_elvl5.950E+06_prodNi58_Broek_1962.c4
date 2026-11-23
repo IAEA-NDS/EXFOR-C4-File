@@ -1,0 +1,36 @@
+#ENTRY      C1083
+#AUTHOR1    H.W.Broek+
+#YEAR       1962
+#INSTITUTE  (1USAANL)
+#TITLE      Elastic and inelastic scattering of 43 MeV alpha
+#+          particles by Ni-58 and Ni-60
+#AUTHOR(S)  H.W.Broek, T.H.Braid, J.L.Yntema, B.Zeidman
+#REF-CODE   (J,PR,126,1514,196205)
+#REFERENCE  Phys.Rev. 126 (1962) 1514
+#DATASETS   0
+#
+#DATASET    C1083005 
+#DATE       20041226
+#REACTION   28-NI-58(A,INL)28-NI-58,PAR,DA
+#PROJ       2004
+#TARG       28058
+#MF         4
+#MT         801
+#PRODUCT    28-NI-58
+#C4BEGIN    [ 2004 28058   4 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 28058   4 801  C 4.3000+7 279500.0 3.0000-4          0.884581          5950000.         LVLH.W.Broek+           (62)C1083  5 
+ 2004 28058   4 801  C 4.3000+7 279500.0 2.7000-4          0.866025          5950000.         LVLH.W.Broek+           (62)C1083  5 
+ 2004 28058   4 801  C 4.3000+7 279500.0 4.2000-4          0.847122          5950000.         LVLH.W.Broek+           (62)C1083  5 
+ 2004 28058   4 801  C 4.3000+7 279500.0 4.9000-4          0.827081          5950000.         LVLH.W.Broek+           (62)C1083  5 
+ 2004 28058   4 801  C 4.3000+7 279500.0 2.5000-4          0.805928          5950000.         LVLH.W.Broek+           (62)C1083  5 
+ 2004 28058   4 801  C 4.3000+7 279500.0 1.2000-4          0.782608          5950000.         LVLH.W.Broek+           (62)C1083  5 
+ 2004 28058   4 801  C 4.3000+7 279500.0 2.8000-4          0.734915          5950000.         LVLH.W.Broek+           (62)C1083  5 
+ 2004 28058   4 801  C 4.3000+7 279500.0 1.6000-4          0.683274          5950000.         LVLH.W.Broek+           (62)C1083  5 
+ 2004 28058   4 801  C 4.3000+7 279500.0 1.1000-4          0.656059          5950000.         LVLH.W.Broek+           (62)C1083  5 
+ 2004 28058   4 801  C 4.3000+7 279500.0 8.5000-5          0.627963          5950000.         LVLH.W.Broek+           (62)C1083  5 
+ 2004 28058   4 801  C 4.3000+7 279500.0 1.1000-4          0.598884          5950000.         LVLH.W.Broek+           (62)C1083  5 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      C0546
+#AUTHOR1    J.Kalen+
+#YEAR       1989
+#INSTITUTE  (1USAOSU)
+#TITLE      Radiative proton capture to excited states in 16O
+#AUTHOR(S)  J.Kalen, H.J.Hausman, A.Abduljalil, W.Kim, D.G.Marchlenski, 
+#+          J.P.McDermott, T.W.Rackers, S.L.Blatt, M.A.Kovash, A.D.Bacher
+#REF-CODE   (J,PR/C,39,340,198902)
+#REFERENCE  Phys.Rev.C 39 (1989) 340
+#DATASETS   0
+#
+#DATASET    C0546003 
+#DATE       19990729
+#REACTION   7-N-15(P,G)8-O-16,PAR,DA
+#PROJ       1001
+#TARG       7015
+#MF         4
+#MT         900
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  7015   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7015   4 900    4.9690+7          7.8800-7 1.5700-7 0.866025          1.2892+7 362000.0LVLJ.Kalen+             (89)C0546  3 
+ 1001  7015   4 900    4.9690+7          1.8260-6 3.6500-7 0.707107          1.2892+7 362000.0LVLJ.Kalen+             (89)C0546  3 
+ 1001  7015   4 900    4.9690+7          2.2470-6 4.4900-7 0.500000          1.2892+7 362000.0LVLJ.Kalen+             (89)C0546  3 
+ 1001  7015   4 900    4.9690+7          2.1260-6 4.2500-7 0.258819          1.2892+7 362000.0LVLJ.Kalen+             (89)C0546  3 
+ 1001  7015   4 900    4.9690+7          1.3560-6 2.7100-7 6.123-17          1.2892+7 362000.0LVLJ.Kalen+             (89)C0546  3 
+ 1001  7015   4 900    4.9690+7          4.4200-7 8.8000-8-0.500000          1.2892+7 362000.0LVLJ.Kalen+             (89)C0546  3 
+#/DATA      6
+#/DATASET

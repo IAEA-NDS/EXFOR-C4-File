@@ -1,0 +1,35 @@
+#ENTRY      C0790
+#AUTHOR1    J.M.Cameron+
+#YEAR       1984
+#INSTITUTE  (1CANALA)
+#TITLE      Cross sections and analyzing powers for the reaction
+#+          pd->3He+gamma at intermediate energies
+#AUTHOR(S)  J.M.Cameron, P.Kitching, W.J.McDonald, J.Pasos, J.Soukup, 
+#+          J.Thekkumthala, R.Abegg, D.A.Hutcheon, C.A.Miller, A.W.Stetz, 
+#+          I.J.Van Heerden
+#REF-CODE   (J,NP/A,424,549,1984)
+#REFERENCE  Nucl.Phys.A 424 (1984) 549
+#DATASETS   0
+#
+#DATASET    C0790002 
+#DATE       20010306
+#REACTION   1-H-2(P,G)2-HE-3,,DA
+#PROJ       1001
+#TARG       1002
+#MF         4
+#MT         102
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  1002   4 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   4 102 AC 3.5000+8          8.7900-8 4.7000-9 0.699663                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 3.5000+8          6.7300-8 3.5000-9 0.480223                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 3.5000+8          4.7700-8 2.7000-9 0.238533                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 3.5000+8          3.2000-8 1.8000-9-0.020942                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 3.5000+8          2.0100-8 1.3000-9-0.278991                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 3.5000+8          1.4200-8 1.1000-9-0.515038                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 3.5000+8          1.1800-8 1.1000-9-0.714473                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 3.5000+8          6.0000-9 6.000-10-0.867765                              J.M.Cameron+         (84)C0790  2 
+#/DATA      8
+#/DATASET

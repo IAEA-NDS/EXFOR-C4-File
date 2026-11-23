@@ -1,0 +1,35 @@
+#ENTRY      C3124
+#AUTHOR1    B.Kelly+
+#YEAR       2026
+#INSTITUTE  (1USAFSU)
+#TITLE      Detailed View at Magnetic Dipole Strengths: The Case
+#+          of Semimagic 50Ti
+#AUTHOR(S)  B.Kelly, M.Spieker, U.Friman-Gayer, L.T.Baby, T.Beck, A.L.Conley, 
+#+          S.W.Finch, J.Isaak, Krishichayan, E.Litvinova, H.Pai, N.Pietralla, 
+#+          D.Savran, W.Tornow, N.Tsoneva, A.Volya, V.Werner
+#REF-CODE   (J,PRL,136,082502,2026)
+#REFERENCE  Phys.Rev.Lett. 136 (2026) 082502
+#DATASETS   0
+#
+#DATASET    C3124002 
+#DATE       20260318
+#REACTION   22-TI-49(D,P)22-TI-50,PAR,DA
+#PROJ       1002
+#TARG       22049
+#MF         4
+#MT         600
+#PRODUCT    22-TI-50
+#C4BEGIN    [ 1002 22049   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 22049   4 600 AC 1.6000+7          5.6086-5 2.1223-5 0.936672          8551000.         LVLB.Kelly+             (26)C3124  2 
+ 1002 22049   4 600 AC 1.6000+7          7.2741-5 2.3410-5 0.901833          8551000.         LVLB.Kelly+             (26)C3124  2 
+ 1002 22049   4 600 AC 1.6000+7          3.3204-5 8.2549-6 0.859852          8551000.         LVLB.Kelly+             (26)C3124  2 
+ 1002 22049   4 600 AC 1.6000+7          2.0381-5 6.7682-6 0.811064          8551000.         LVLB.Kelly+             (26)C3124  2 
+ 1002 22049   4 600 AC 1.6000+7          1.2074-5 3.9230-6 0.755853          8551000.         LVLB.Kelly+             (26)C3124  2 
+ 1002 22049   4 600 AC 1.6000+7          1.2729-5 3.0649-6 0.694658          8551000.         LVLB.Kelly+             (26)C3124  2 
+ 1002 22049   4 600 AC 1.6000+7          1.0062-5 2.9480-6 0.629320          8551000.         LVLB.Kelly+             (26)C3124  2 
+ 1002 22049   4 600 AC 1.6000+7          5.4333-6 1.7433-6 0.481754          8551000.         LVLB.Kelly+             (26)C3124  2 
+#/DATA      8
+#/DATASET

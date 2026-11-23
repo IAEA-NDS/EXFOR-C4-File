@@ -1,0 +1,36 @@
+#ENTRY      C3060
+#AUTHOR1    L.A.Riley+
+#YEAR       2023
+#INSTITUTE  (1USAURS)
+#TITLE      g9/2 neutron strength in the N=29 isotones and the
+#+          52Cr(d,p)53Cr reaction
+#AUTHOR(S)  L.A.Riley, D.T.Simms, L.T.Baby, A.L.Conley, P.D.Cottle, 
+#+          J.Esparza, K.Hanselman, I.C.S.Hay, M.Heinze, B.Kelly, K.W.Kemper, 
+#+          G.W.McCann, R.Renom, M.Spieker, I.Wiedenhover
+#REF-CODE   (J,PR/C,108,044306,2023)
+#REFERENCE  Phys.Rev.C 108 (2023) 044306
+#DATASETS   0
+#
+#DATASET    C3060002 
+#DATE       20250506
+#REACTION   24-CR-52(D,P)24-CR-53,PAR,DA
+#PROJ       1002
+#TARG       24052
+#MF         4
+#MT         600
+#PRODUCT    24-CR-53
+#C4BEGIN    [ 1002 24052   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 24052   4 600 AC 1.6000+7          7.0000-4 8.5200-5 0.984010          3712000.         LVLL.A.Riley+           (23)C3060  2 
+ 1002 24052   4 600 AC 1.6000+7          1.5300-3 1.1300-4 0.964188          3712000.         LVLL.A.Riley+           (23)C3060  2 
+ 1002 24052   4 600 AC 1.6000+7          1.1600-3 4.1000-5 0.936611          3712000.         LVLL.A.Riley+           (23)C3060  2 
+ 1002 24052   4 600 AC 1.6000+7          1.7500-3 4.0400-5 0.901606          3712000.         LVLL.A.Riley+           (23)C3060  2 
+ 1002 24052   4 600 AC 1.6000+7          1.8400-3 4.1700-5 0.859496          3712000.         LVLL.A.Riley+           (23)C3060  2 
+ 1002 24052   4 600 AC 1.6000+7          1.6200-3 3.3200-5 0.810553          3712000.         LVLL.A.Riley+           (23)C3060  2 
+ 1002 24052   4 600 AC 1.6000+7          1.9500-3 4.8300-5 0.755167          3712000.         LVLL.A.Riley+           (23)C3060  2 
+ 1002 24052   4 600 AC 1.6000+7          1.1600-3 1.8300-5 0.694030          3712000.         LVLL.A.Riley+           (23)C3060  2 
+ 1002 24052   4 600 AC 1.6000+7          7.9600-4 2.0700-5 0.627420          3712000.         LVLL.A.Riley+           (23)C3060  2 
+#/DATA      9
+#/DATASET

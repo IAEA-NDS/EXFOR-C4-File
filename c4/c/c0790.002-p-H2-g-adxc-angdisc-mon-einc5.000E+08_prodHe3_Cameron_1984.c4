@@ -1,0 +1,43 @@
+#ENTRY      C0790
+#AUTHOR1    J.M.Cameron+
+#YEAR       1984
+#INSTITUTE  (1CANALA)
+#TITLE      Cross sections and analyzing powers for the reaction
+#+          pd->3He+gamma at intermediate energies
+#AUTHOR(S)  J.M.Cameron, P.Kitching, W.J.McDonald, J.Pasos, J.Soukup, 
+#+          J.Thekkumthala, R.Abegg, D.A.Hutcheon, C.A.Miller, A.W.Stetz, 
+#+          I.J.Van Heerden
+#REF-CODE   (J,NP/A,424,549,1984)
+#REFERENCE  Nucl.Phys.A 424 (1984) 549
+#DATASETS   0
+#
+#DATASET    C0790002 
+#DATE       20010306
+#REACTION   1-H-2(P,G)2-HE-3,,DA
+#PROJ       1001
+#TARG       1002
+#MF         4
+#MT         102
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  1002   4 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   4 102 AC 5.0000+8          6.7100-8 5.0000-9 0.964095                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 5.0000+8          8.0800-8 4.3000-9 0.905569                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 5.0000+8          4.3200-8 4.6000-9 0.670427                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 5.0000+8          3.4500-8 1.7000-9 0.584958                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 5.0000+8          3.2400-8 1.6000-9 0.500000                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 5.0000+8          2.5900-8 1.8000-9 0.436802                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 5.0000+8          2.1100-8 2.3000-9 0.258819                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 5.0000+8          1.5300-8 1.6000-9 6.123-17                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 5.0000+8          1.4800-8 1.3000-9-0.059306                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 5.0000+8          6.4000-9 9.000-10-0.258819                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 5.0000+8          5.3000-9 4.000-10-0.265556                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 5.0000+8          6.9000-9 6.000-10-0.328867                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 5.0000+8          6.1000-9 7.000-10-0.475624                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 5.0000+8          8.3000-9 9.000-10-0.554844                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 5.0000+8          5.5000-9 5.000-10-0.712026                              J.M.Cameron+         (84)C0790  2 
+ 1001  1002   4 102 AC 5.0000+8          3.6000-9 3.000-10-0.861629                              J.M.Cameron+         (84)C0790  2 
+#/DATA      16
+#/DATASET

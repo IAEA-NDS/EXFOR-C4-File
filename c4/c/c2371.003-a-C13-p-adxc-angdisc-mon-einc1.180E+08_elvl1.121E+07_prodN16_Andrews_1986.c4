@@ -1,0 +1,36 @@
+#ENTRY      C2371
+#AUTHOR1    P.R.Andrews+
+#YEAR       1986
+#INSTITUTE  (3AULAML)
+#TITLE      Location of multiparticle-multihole strength in 16N
+#+          via the 3-particle transfer reaction
+#+          13C(alpha,p)16N at 118MeV
+#AUTHOR(S)  P.R.Andrews, G.G.Shute, B.M.Spicer, S.F.Collins, V.C.Officer, 
+#+          J.M.Wastell, H.Nann, D.W.Devins, Qingli Li, W.P.Jones, C.Olmer, 
+#+          A.D.Bacher, G.T.Emery
+#REF-CODE   (J,NP/A,459,317,1986)
+#REFERENCE  Nucl.Phys.A 459 (1986) 317
+#DATASETS   0
+#
+#DATASET    C2371003 
+#DATE       20190606
+#REACTION   6-C-13(A,P)7-N-16,PAR,DA
+#PROJ       2004
+#TARG       6013
+#MF         4
+#MT         600
+#PRODUCT    7-N-16
+#C4BEGIN    [ 2004  6013   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  6013   4 600  C 1.1800+8          2.2000-4          0.979925          1.1210+7         LVLP.R.Andrews+         (86)C2371  3 
+ 2004  6013   4 600  C 1.1800+8          1.8900-4          0.961262          1.1210+7         LVLP.R.Andrews+         (86)C2371  3 
+ 2004  6013   4 600  C 1.1800+8          1.5300-4          0.933580          1.1210+7         LVLP.R.Andrews+         (86)C2371  3 
+ 2004  6013   4 600  C 1.1800+8          1.0700-4          0.906308          1.1210+7         LVLP.R.Andrews+         (86)C2371  3 
+ 2004  6013   4 600  C 1.1800+8          8.1800-5          0.866025          1.1210+7         LVLP.R.Andrews+         (86)C2371  3 
+ 2004  6013   4 600  C 1.1800+8          5.1600-5          0.819152          1.1210+7         LVLP.R.Andrews+         (86)C2371  3 
+ 2004  6013   4 600  C 1.1800+8          3.2100-5 2.1300-6 0.766044          1.1210+7         LVLP.R.Andrews+         (86)C2371  3 
+ 2004  6013   4 600  C 1.1800+8          1.7200-5 2.0300-6 0.694658          1.1210+7         LVLP.R.Andrews+         (86)C2371  3 
+#/DATA      8
+#/DATASET

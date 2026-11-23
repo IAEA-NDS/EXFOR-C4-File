@@ -1,0 +1,36 @@
+#ENTRY      C1293
+#AUTHOR1    E.R.Flynn+
+#YEAR       1983
+#INSTITUTE  (1USALRL)
+#TITLE      146Gd and 144Sm excited by the (p,t) reaction on
+#+          radioactive targets
+#AUTHOR(S)  E.R.Flynn, J.van der Plicht, J.B.Wilhelmy, L.G.Mann, G.L.Struble, 
+#+          R.G.Lanier
+#REF-CODE   (J,PR/C,28,97,1983)
+#REFERENCE  Phys.Rev.C 28 (1983) 97
+#DATASETS   0
+#
+#DATASET    C1293002 
+#DATE       20191125
+#REACTION   62-SM-146(P,T)62-SM-144,PAR,DA
+#PROJ       1001
+#TARG       62146
+#MF         4
+#MT         700
+#PRODUCT    62-SM-144
+#C4BEGIN    [ 1001 62146   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 62146   4 700  C 2.5000+7          5.0900-5          0.983255          1660000.         LVLE.R.Flynn+           (83)C1293  2 
+ 1001 62146   4 700  C 2.5000+7          4.7600-5          0.964095          1660000.         LVLE.R.Flynn+           (83)C1293  2 
+ 1001 62146   4 700  C 2.5000+7          3.1700-5          0.938493          1660000.         LVLE.R.Flynn+           (83)C1293  2 
+ 1001 62146   4 700  C 2.5000+7          1.2900-5          0.904083          1660000.         LVLE.R.Flynn+           (83)C1293  2 
+ 1001 62146   4 700  C 2.5000+7          1.2800-5          0.858960          1660000.         LVLE.R.Flynn+           (83)C1293  2 
+ 1001 62146   4 700  C 2.5000+7          1.7600-5          0.811064          1660000.         LVLE.R.Flynn+           (83)C1293  2 
+ 1001 62146   4 700  C 2.5000+7          1.6500-5          0.754710          1660000.         LVLE.R.Flynn+           (83)C1293  2 
+ 1001 62146   4 700  C 2.5000+7          9.2100-6          0.693402          1660000.         LVLE.R.Flynn+           (83)C1293  2 
+ 1001 62146   4 700  C 2.5000+7          4.9300-6          0.625243          1660000.         LVLE.R.Flynn+           (83)C1293  2 
+ 1001 62146   4 700  C 2.5000+7          5.2300-6          0.556296          1660000.         LVLE.R.Flynn+           (83)C1293  2 
+#/DATA      10
+#/DATASET

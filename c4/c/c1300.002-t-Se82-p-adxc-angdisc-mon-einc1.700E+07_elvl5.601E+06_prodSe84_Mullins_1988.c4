@@ -1,0 +1,32 @@
+#ENTRY      C1300
+#AUTHOR1    S.M.Mullins+
+#YEAR       1988
+#INSTITUTE  (1USAPEN)
+#TITLE      82Se(t,p)84Se reaction at 17 MeV
+#AUTHOR(S)  S.M.Mullins, D.L.Watson, H.T.Fortune
+#REF-CODE   (J,PR/C,37,587,1988)
+#REFERENCE  Phys.Rev.C 37 (1988) 587
+#DATASETS   0
+#
+#DATASET    C1300002 
+#DATE       20050808
+#REACTION   34-SE-82(T,P)34-SE-84,PAR,DA
+#PROJ       1003
+#TARG       34082
+#MF         4
+#MT         600
+#PRODUCT    34-SE-84
+#C4BEGIN    [ 1003 34082   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 34082   4 600  C 1.7000+7          6.3900-5          0.996464          5601000.         LVLS.M.Mullins+         (88)C1300  2 
+ 1003 34082   4 600  C 1.7000+7          9.0100-5          0.978148          5601000.         LVLS.M.Mullins+         (88)C1300  2 
+ 1003 34082   4 600  C 1.7000+7          1.3400-4          0.942057          5601000.         LVLS.M.Mullins+         (88)C1300  2 
+ 1003 34082   4 600  C 1.7000+7          1.1000-4          0.888617          5601000.         LVLS.M.Mullins+         (88)C1300  2 
+ 1003 34082   4 600  C 1.7000+7          7.1400-5          0.820152          5601000.         LVLS.M.Mullins+         (88)C1300  2 
+ 1003 34082   4 600  C 1.7000+7          2.5500-5          0.746638          5601000.         LVLS.M.Mullins+         (88)C1300  2 
+ 1003 34082   4 600  C 1.7000+7          2.2100-5          0.645458          5601000.         LVLS.M.Mullins+         (88)C1300  2 
+ 1003 34082   4 600  C 1.7000+7          1.8200-5          0.532876          5601000.         LVLS.M.Mullins+         (88)C1300  2 
+#/DATA      8
+#/DATASET

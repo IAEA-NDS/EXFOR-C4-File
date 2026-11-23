@@ -1,0 +1,31 @@
+#ENTRY      C2309
+#AUTHOR1    B.M.Foreman Jr+
+#YEAR       1959
+#INSTITUTE  (1USABRK)
+#TITLE      Spallation-fission competition in heavy-element
+#+          reactions: Th232+He4 and U233+d
+#AUTHOR(S)  B.M.Foreman Jr, W.M.Gibson, R.A.Glass, G.T.Seaborg
+#REF-CODE   (J,PR,116,382,1959)
+#REFERENCE  Phys.Rev. 116 (1959) 382
+#DATASETS   0
+#
+#DATASET    C2309018 
+#DATE       20180601
+#REACTION   90-TH-232(A,F)ELEM/MASS,CUM,SIG
+#PROJ       2004
+#TARG       90232
+#MF         3
+#MT         459
+#C4BEGIN    [ 2004 90232   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 90232   3 459    1.7600+7 500000.0 5.1000-5 1.0000-5           38089.9                     B.M.Foreman Jr+      (59)C2309 18 
+ 2004 90232   3 459    1.7600+7 500000.0 4.9000-5 1.0000-5           38091.9                     B.M.Foreman Jr+      (59)C2309 18 
+ 2004 90232   3 459    1.7600+7 500000.0 1.1000-4 4.0000-5           40095.9                     B.M.Foreman Jr+      (59)C2309 18 
+ 2004 90232   3 459    1.7600+7 500000.0 5.8000-5 2.0000-5           40097.9                     B.M.Foreman Jr+      (59)C2309 18 
+ 2004 90232   3 459    1.7600+7 500000.0 4.7000-6 3.0000-6           48115.9                     B.M.Foreman Jr+      (59)C2309 18 
+ 2004 90232   3 459    1.7600+7 500000.0 5.2000-6 4.0000-6           48115.9                     B.M.Foreman Jr+      (59)C2309 18 
+ 2004 90232   3 459    1.7600+7 500000.0 3.7000-5 1.9000-5           56140.9                     B.M.Foreman Jr+      (59)C2309 18 
+#/DATA      7
+#/DATASET

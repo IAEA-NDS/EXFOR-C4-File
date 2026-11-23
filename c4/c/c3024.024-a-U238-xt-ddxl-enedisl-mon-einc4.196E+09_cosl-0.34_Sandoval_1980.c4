@@ -1,0 +1,38 @@
+#ENTRY      C3024
+#AUTHOR1    A.Sandoval+
+#YEAR       1980
+#INSTITUTE  (1USABRK)
+#TITLE      Spectra of p, d, and t from relativistic nuclear
+#+          collisions
+#AUTHOR(S)  A.Sandoval, H.H.Gutbrod, W.G.Meyer, R.Stock, C.Lukner, A.M.Poskanzer, 
+#+          J.Gosset, J.-C.Jourdain, C.H.King, G.King, Nguyen Van Sen, 
+#+          G.D.Westfall, K.L.Wolf
+#REF-CODE   (J,PR/C,21,1321,1980)
+#REFERENCE  Phys.Rev.C 21 (1980) 1321
+#DATASETS   0
+#
+#DATASET    C3024024 
+#DATE       20250207
+#REACTION   92-U-238(A,X)1-H-3,,DA/DE
+#PROJ       2004
+#TARG       92238
+#MF         6
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [ 2004 92238   6 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 92238   6 205    4.1960+9          3.3800-9 1.000-10-0.342020          6.0000+7          E2A.Sandoval           (80)C3024 24 
+ 2004 92238   6 205    4.1960+9          1.3800-9 5.000-11-0.342020          8.4000+7          E2A.Sandoval           (80)C3024 24 
+ 2004 92238   6 205    4.1960+9          6.890-10 3.400-11-0.342020          1.0800+8          E2A.Sandoval           (80)C3024 24 
+ 2004 92238   6 205    4.1960+9          3.610-10 2.500-11-0.342020          1.3200+8          E2A.Sandoval           (80)C3024 24 
+ 2004 92238   6 205    4.1960+9          1.970-10 1.800-11-0.342020          1.5600+8          E2A.Sandoval           (80)C3024 24 
+ 2004 92238   6 205    4.1960+9          1.060-10 1.400-11-0.342020          1.8000+8          E2A.Sandoval           (80)C3024 24 
+ 2004 92238   6 205    4.1960+9          5.470-11 1.000-11-0.342020          2.0400+8          E2A.Sandoval           (80)C3024 24 
+ 2004 92238   6 205    4.1960+9          3.960-11 1.390-11-0.342020          2.2800+8          E2A.Sandoval           (80)C3024 24 
+ 2004 92238   6 205    4.1960+9          1.300-11 5.300-12-0.342020          2.5200+8          E2A.Sandoval           (80)C3024 24 
+ 2004 92238   6 205    4.1960+9          6.520-12 2.650-12-0.342020          2.7600+8          E2A.Sandoval           (80)C3024 24 
+ 2004 92238   6 205    4.1960+9          3.270-12 1.330-12-0.342020          3.0000+8          E2A.Sandoval           (80)C3024 24 
+#/DATA      11
+#/DATASET

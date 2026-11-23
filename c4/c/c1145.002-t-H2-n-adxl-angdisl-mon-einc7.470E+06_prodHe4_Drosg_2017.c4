@@ -1,0 +1,34 @@
+#ENTRY      C1145
+#AUTHOR1    M.Drosg+
+#YEAR       2017
+#INSTITUTE  (2AUSVIE)
+#TITLE      Measurement of angle-dependent differential cross
+#+          sections of 2H(t,n)4He with triton energies from
+#+          5.97 to 16.41 MeV
+#AUTHOR(S)  M.Drosg
+#REF-CODE   (R,INDC(AUS)-21,2017)
+#REFERENCE  Report INDC(AUS)-21, 2017
+#DATASETS   0
+#
+#DATASET    C1145002 
+#DATE       20170905
+#REACTION   1-H-2(T,N)2-HE-4,,DA
+#PROJ       1003
+#TARG       1002
+#MF         4
+#MT         4
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1003  1002   4   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  1002   4   4 A  7470000.          0.011670 3.9000-4 0.999998 3.0462-6                     M.Drosg              (17)C1145  2 
+ 1003  1002   4   4 A  7470000.          0.011600 2.4000-4 0.966376 4.4878-4                     M.Drosg              (17)C1145  2 
+ 1003  1002   4   4 A  7470000.          0.010260 2.4000-4 0.866897 8.7003-4                     M.Drosg              (17)C1145  2 
+ 1003  1002   4   4 A  7470000.          4.9800-3 1.6000-4 0.501511 1.5100-3                     M.Drosg              (17)C1145  2 
+ 1003  1002   4   4 A  7470000.          4.3600-3 1.6000-4 0.260505 1.6851-3                     M.Drosg              (17)C1145  2 
+ 1003  1002   4   4 A  7470000.          5.0600-3 1.6000-4 6.123-17 1.7453-3                     M.Drosg              (17)C1145  2 
+ 1003  1002   4   4 A  7470000.          5.8000-3 1.9000-4-0.498488 1.5130-3                     M.Drosg              (17)C1145  2 
+ 1003  1002   4   4 A  7470000.          7.7100-3 3.2000-4-0.818150 1.0036-3                     M.Drosg              (17)C1145  2 
+#/DATA      8
+#/DATASET

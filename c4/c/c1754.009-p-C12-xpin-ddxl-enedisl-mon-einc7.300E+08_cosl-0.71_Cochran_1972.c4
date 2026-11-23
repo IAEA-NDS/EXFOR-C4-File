@@ -1,0 +1,32 @@
+#ENTRY      C1754
+#AUTHOR1    D.R.F.Cochran+
+#YEAR       1972
+#INSTITUTE  (1USALAS)
+#TITLE      Production of charged pions by 730-MeV protons from
+#+          hydrogen and selected nuclei
+#AUTHOR(S)  D.R.F.Cochran, P.N.Dean, P.A.M.Gram, E.A.Knapp, E.R.Martin, 
+#+          D.E.Nagle, R.B.Perkins, W.J.Shlaer, H.A.Thiessen, E.D.Theriot
+#REF-CODE   (J,PR/D,6,3085,1972)
+#REFERENCE  Phys.Rev.D 6 (1972) 3085
+#DATASETS   0
+#
+#DATASET    C1754009 
+#DATE       20091126
+#REACTION   6-C-12(P,X)1-PN-0,,DA/DE
+#PROJ       1001
+#TARG       6012
+#MF         6
+#MT         210
+#PRODUCT    1-PN-0
+#C4BEGIN    [ 1001  6012   6 210  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   6 210    7.3000+8          2.990-12 4.700-13-0.707107          3.0000+7          E2D.R.F.Cochran+       (72)C1754  9 
+ 1001  6012   6 210    7.3000+8          3.080-12 2.700-13-0.707107          5.2000+7          E2D.R.F.Cochran+       (72)C1754  9 
+ 1001  6012   6 210    7.3000+8          1.970-12 1.600-13-0.707107          7.9000+7          E2D.R.F.Cochran+       (72)C1754  9 
+ 1001  6012   6 210    7.3000+8          1.050-12 9.000-14-0.707107          1.0500+8          E2D.R.F.Cochran+       (72)C1754  9 
+ 1001  6012   6 210    7.3000+8          2.000-13 2.000-14-0.707107          1.5500+8          E2D.R.F.Cochran+       (72)C1754  9 
+ 1001  6012   6 210    7.3000+8          3.000-14 1.000-14-0.707107          2.0500+8          E2D.R.F.Cochran+       (72)C1754  9 
+#/DATA      6
+#/DATASET

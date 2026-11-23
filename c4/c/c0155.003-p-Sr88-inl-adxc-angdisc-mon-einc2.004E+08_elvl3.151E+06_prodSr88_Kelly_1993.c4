@@ -1,0 +1,37 @@
+#ENTRY      C0155
+#AUTHOR1    J.J.Kelly+
+#YEAR       1993
+#INSTITUTE  (1USAINU)
+#TITLE      Neutron transition densities from 88Sr(p,p') at
+#+          E(p) = 200 MeV
+#AUTHOR(S)  J.J.Kelly, B.S.Flanders, F.W.Hersman, J.H.Heisenberg, J.Calarco, 
+#+          J.P.Connelly, A.Scott, F.T.Baker, V.Penumetcha, W.P.Jones, 
+#+          G.T.Emery, A.D.Bacher, C.Olmer, M.A.Grimm, M.L.Whiten
+#REF-CODE   (J,PR/C,47,2146,9305)
+#REFERENCE  Phys.Rev.C 47 (1993) 2146
+#DATASETS   0
+#
+#DATASET    C0155003 
+#DATE       19970423
+#REACTION   38-SR-88(P,INL)38-SR-88,PAR,DA
+#PROJ       1001
+#TARG       38088
+#MF         4
+#MT         601
+#PRODUCT    38-SR-88
+#C4BEGIN    [ 1001 38088   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38088   4 601 AC 2.0040+8          1.6420-5 1.2909-5 0.985586          3151000.         LVLJ.J.Kelly+           (93)C0155  3 
+ 1001 38088   4 601 AC 2.0040+8          1.2520-5 9.9985-6 0.984381          3151000.         LVLJ.J.Kelly+           (93)C0155  3 
+ 1001 38088   4 601 AC 2.0040+8          1.9730-5 1.2280-5 0.981091          3151000.         LVLJ.J.Kelly+           (93)C0155  3 
+ 1001 38088   4 601 AC 2.0040+8          3.4210-5 9.5925-6 0.977526          3151000.         LVLJ.J.Kelly+           (93)C0155  3 
+ 1001 38088   4 601 AC 2.0040+8          7.2910-5 2.6722-5 0.974605          3151000.         LVLJ.J.Kelly+           (93)C0155  3 
+ 1001 38088   4 601 AC 2.0040+8          1.8450-5 6.0092-6 0.969829          3151000.         LVLJ.J.Kelly+           (93)C0155  3 
+ 1001 38088   4 601 AC 2.0040+8          2.0870-5 4.9984-6 0.969787          3151000.         LVLJ.J.Kelly+           (93)C0155  3 
+ 1001 38088   4 601 AC 2.0040+8          1.6410-5 5.8272-6 0.961117          3151000.         LVLJ.J.Kelly+           (93)C0155  3 
+ 1001 38088   4 601 AC 2.0040+8          3.3030-5 1.1597-5 0.960585          3151000.         LVLJ.J.Kelly+           (93)C0155  3 
+ 1001 38088   4 601 AC 2.0040+8          1.8610-5 3.8969-6 0.958173          3151000.         LVLJ.J.Kelly+           (93)C0155  3 
+#/DATA      10
+#/DATASET

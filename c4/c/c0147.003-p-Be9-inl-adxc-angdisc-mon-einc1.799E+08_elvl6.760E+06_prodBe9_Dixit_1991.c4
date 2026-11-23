@@ -1,0 +1,38 @@
+#ENTRY      C0147
+#AUTHOR1    S.Dixit+
+#YEAR       1991
+#INSTITUTE  (1USAINU)
+#TITLE      Structure of 9Be from proton scattering at 180 MeV
+#AUTHOR(S)  S.Dixit, W.Bertozzi, T.N.Buti, J.M.Finn, F.W.Hersman, C.Hyde-Wright, 
+#+          M.V.Hynes, M.A.Kovash, B.E.Norum, J.J.Kelly, A.D.Bacher, 
+#+          G.T.Emery, C.C.Foster, W.P.Jones, D.W.Miller, B.L.Berman, 
+#+          D.J.Millener
+#REF-CODE   (J,PR/C,43,1758,9104)
+#REFERENCE  Phys.Rev.C 43 (1991) 1758
+#DATASETS   0
+#
+#DATASET    C0147003 
+#DATE       19970422
+#REACTION   4-BE-9(P,INL)4-BE-9,PAR,DA
+#PROJ       1001
+#TARG       4009
+#MF         4
+#MT         601
+#PRODUCT    4-BE-9
+#C4BEGIN    [ 1001  4009   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   4 601 AC 1.7990+8          5.9300-5 2.7936-5 0.980546 3.4259-4 6760000.         LVLS.Dixit+             (91)C0147  3 
+ 1001  4009   4 601 AC 1.7990+8          7.5320-4 7.1253-5 0.937464 6.0752-4 6760000.         LVLS.Dixit+             (91)C0147  3 
+ 1001  4009   4 601 AC 1.7990+8          1.0350-3 3.5604-5 0.871556 8.5573-4 6760000.         LVLS.Dixit+             (91)C0147  3 
+ 1001  4009   4 601 AC 1.7990+8          9.2120-4 3.1689-5 0.830693 9.7168-4 6760000.         LVLS.Dixit+             (91)C0147  3 
+ 1001  4009   4 601 AC 1.7990+8          5.1720-4 2.3274-5 0.779119 1.0941-3 6760000.         LVLS.Dixit+             (91)C0147  3 
+ 1001  4009   4 601 AC 1.7990+8          3.6030-4 8.6832-6 0.734796 1.1838-3 6760000.         LVLS.Dixit+             (91)C0147  3 
+ 1001  4009   4 601 AC 1.7990+8          1.5350-4 9.9008-6 0.666532 1.3011-3 6760000.         LVLS.Dixit+             (91)C0147  3 
+ 1001  4009   4 601 AC 1.7990+8          1.0330-4 3.2230-6 0.622788 1.3655-3 6760000.         LVLS.Dixit+             (91)C0147  3 
+ 1001  4009   4 601 AC 1.7990+8          5.4070-5 2.5467-6 0.553828 1.4532-3 6760000.         LVLS.Dixit+             (91)C0147  3 
+ 1001  4009   4 601 AC 1.7990+8          1.9990-5 1.5352-6 0.489535 1.5219-3 6760000.         LVLS.Dixit+             (91)C0147  3 
+ 1001  4009   4 601 AC 1.7990+8          1.3130-5 1.9537-6 0.447915 1.5605-3 6760000.         LVLS.Dixit+             (91)C0147  3 
+#/DATA      11
+#/DATASET

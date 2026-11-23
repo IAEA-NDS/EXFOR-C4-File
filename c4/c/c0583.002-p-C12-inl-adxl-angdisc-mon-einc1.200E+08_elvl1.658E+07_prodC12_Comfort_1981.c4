@@ -1,0 +1,40 @@
+#ENTRY      C0583
+#AUTHOR1    J.R.Comfort+
+#YEAR       1981
+#INSTITUTE  (1USAPUP)
+#TITLE      Analyzing powers for the 12C(p(pol),p')12C reaction at
+#+          120 MeV and a test of the distorted-wave impulse
+#+          approximation
+#AUTHOR(S)  J.R.Comfort, G.L.Moake, C.C.Foster, P.Schwandt, C.D.Goodman, 
+#+          J.Rapaport, W.G.Love
+#REF-CODE   (J,PR/C,24,1834,198111)
+#REFERENCE  Phys.Rev.C 24 (1981) 1834
+#DATASETS   0
+#
+#DATASET    C0583002 
+#DATE       19991108
+#REACTION   6-C-12(P,INL)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         601
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 601  C 1.2000+8          1.1700-5 3.3000-6 0.958869          1.6580+7         LVLJ.R.Comfort+         (81)C0583  2 
+ 1001  6012   4 601  C 1.2000+8          1.2600-5 3.3000-6 0.958869          1.6580+7         LVLJ.R.Comfort+         (81)C0583  2 
+ 1001  6012   4 601  C 1.2000+8          8.3000-6 2.8000-6 0.934329          1.6580+7         LVLJ.R.Comfort+         (81)C0583  2 
+ 1001  6012   4 601  C 1.2000+8          1.2200-5 3.6000-6 0.904455          1.6580+7         LVLJ.R.Comfort+         (81)C0583  2 
+ 1001  6012   4 601  C 1.2000+8          1.4300-5 1.6000-6 0.869409          1.6580+7         LVLJ.R.Comfort+         (81)C0583  2 
+ 1001  6012   4 601  C 1.2000+8          1.7800-5 2.0000-6 0.839809          1.6580+7         LVLJ.R.Comfort+         (81)C0583  2 
+ 1001  6012   4 601  C 1.2000+8          2.4300-5 1.6000-6 0.796319          1.6580+7         LVLJ.R.Comfort+         (81)C0583  2 
+ 1001  6012   4 601  C 1.2000+8          2.3200-5 1.7000-6 0.796319          1.6580+7         LVLJ.R.Comfort+         (81)C0583  2 
+ 1001  6012   4 601  C 1.2000+8          2.4800-5 1.8000-6 0.748493          1.6580+7         LVLJ.R.Comfort+         (81)C0583  2 
+ 1001  6012   4 601  C 1.2000+8          1.5200-5 1.5000-6 0.696539          1.6580+7         LVLJ.R.Comfort+         (81)C0583  2 
+ 1001  6012   4 601  C 1.2000+8          8.7000-6 1.2000-6 0.640914          1.6580+7         LVLJ.R.Comfort+         (81)C0583  2 
+ 1001  6012   4 601  C 1.2000+8          5.8000-6 8.0000-7 0.582123          1.6580+7         LVLJ.R.Comfort+         (81)C0583  2 
+ 1001  6012   4 601  C 1.2000+8          3.3000-6 6.0000-7 0.520265          1.6580+7         LVLJ.R.Comfort+         (81)C0583  2 
+#/DATA      13
+#/DATASET

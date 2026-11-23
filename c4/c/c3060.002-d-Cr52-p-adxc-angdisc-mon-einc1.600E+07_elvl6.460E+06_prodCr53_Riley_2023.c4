@@ -1,0 +1,35 @@
+#ENTRY      C3060
+#AUTHOR1    L.A.Riley+
+#YEAR       2023
+#INSTITUTE  (1USAURS)
+#TITLE      g9/2 neutron strength in the N=29 isotones and the
+#+          52Cr(d,p)53Cr reaction
+#AUTHOR(S)  L.A.Riley, D.T.Simms, L.T.Baby, A.L.Conley, P.D.Cottle, 
+#+          J.Esparza, K.Hanselman, I.C.S.Hay, M.Heinze, B.Kelly, K.W.Kemper, 
+#+          G.W.McCann, R.Renom, M.Spieker, I.Wiedenhover
+#REF-CODE   (J,PR/C,108,044306,2023)
+#REFERENCE  Phys.Rev.C 108 (2023) 044306
+#DATASETS   0
+#
+#DATASET    C3060002 
+#DATE       20250506
+#REACTION   24-CR-52(D,P)24-CR-53,PAR,DA
+#PROJ       1002
+#TARG       24052
+#MF         4
+#MT         600
+#PRODUCT    24-CR-53
+#C4BEGIN    [ 1002 24052   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 24052   4 600 AC 1.6000+7          9.2900-4 5.6100-5 0.964003          6460000.         LVLL.A.Riley+           (23)C3060  2 
+ 1002 24052   4 600 AC 1.6000+7          4.4300-4 4.3100-5 0.936366          6460000.         LVLL.A.Riley+           (23)C3060  2 
+ 1002 24052   4 600 AC 1.6000+7          3.3000-4 2.0000-5 0.901228          6460000.         LVLL.A.Riley+           (23)C3060  2 
+ 1002 24052   4 600 AC 1.6000+7          2.1100-4 2.2600-5 0.858871          6460000.         LVLL.A.Riley+           (23)C3060  2 
+ 1002 24052   4 600 AC 1.6000+7          1.1200-4 5.2500-5 0.809735          6460000.         LVLL.A.Riley+           (23)C3060  2 
+ 1002 24052   4 600 AC 1.6000+7          1.9400-4 2.6400-5 0.754251          6460000.         LVLL.A.Riley+           (23)C3060  2 
+ 1002 24052   4 600 AC 1.6000+7          1.3100-4 4.6700-6 0.692899          6460000.         LVLL.A.Riley+           (23)C3060  2 
+ 1002 24052   4 600 AC 1.6000+7          9.1900-5 2.8900-5 0.626060          6460000.         LVLL.A.Riley+           (23)C3060  2 
+#/DATA      8
+#/DATASET

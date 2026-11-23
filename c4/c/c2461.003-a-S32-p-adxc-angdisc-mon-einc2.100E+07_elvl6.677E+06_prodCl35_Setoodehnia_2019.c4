@@ -1,0 +1,32 @@
+#ENTRY      C2461
+#AUTHOR1    K.Setoodehnia+
+#YEAR       2019
+#INSTITUTE  (1USANCS)
+#TITLE      Experimental study of 35Cl excited states via
+#+          32S(alpha,p)
+#AUTHOR(S)  K.Setoodehnia, J.H.Kelley, C.Marshall, F.Portillo Chaves, 
+#+          R.Longland
+#REF-CODE   (J,PR/C,99,055812,2019)
+#REFERENCE  Phys.Rev.C 99 (2019) 055812
+#DATASETS   0
+#
+#DATASET    C2461003 
+#DATE       20200324
+#REACTION   16-S-32(A,P)17-CL-35,PAR,DA
+#PROJ       2004
+#TARG       16032
+#MF         4
+#MT         600
+#PRODUCT    17-CL-35
+#C4BEGIN    [ 2004 16032   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 16032   4 600  C 2.1000+7          6.9500-5 1.6400-5 0.981627          6677000.         LVLK.Setoodehnia+       (19)C2461  3 
+ 2004 16032   4 600  C 2.1000+7          7.7800-5 4.8000-6 0.961262          6677000.         LVLK.Setoodehnia+       (19)C2461  3 
+ 2004 16032   4 600  C 2.1000+7          7.7600-5 7.1000-6 0.933580          6677000.         LVLK.Setoodehnia+       (19)C2461  3 
+ 2004 16032   4 600  C 2.1000+7          7.9900-5 8.8000-6 0.848048          6677000.         LVLK.Setoodehnia+       (19)C2461  3 
+ 2004 16032   4 600  C 2.1000+7          7.1500-5 5.0000-6 0.731354          6677000.         LVLK.Setoodehnia+       (19)C2461  3 
+ 2004 16032   4 600  C 2.1000+7          7.6100-5 4.8000-5 0.669131          6677000.         LVLK.Setoodehnia+       (19)C2461  3 
+#/DATA      6
+#/DATASET

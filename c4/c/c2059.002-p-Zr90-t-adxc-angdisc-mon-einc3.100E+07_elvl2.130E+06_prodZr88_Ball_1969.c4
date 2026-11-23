@@ -1,0 +1,33 @@
+#ENTRY      C2059
+#AUTHOR1    J.B.Ball+
+#YEAR       1969
+#INSTITUTE  (1USAORL)
+#TITLE      Level Structure of 88Zr Studied with the 90Zr(p,t)
+#+          Reaction
+#AUTHOR(S)  J.B.Ball, R.L.Auble, R.M.Drisko, P.G.Roos
+#REF-CODE   (J,PR,177,1699,1969)
+#REFERENCE  Phys.Rev. 177 (1969) 1699
+#DATASETS   0
+#
+#DATASET    C2059002 
+#DATE       20130918
+#REACTION   40-ZR-90(P,T)40-ZR-88,PAR,DA
+#PROJ       1001
+#TARG       40090
+#MF         4
+#MT         700
+#PRODUCT    40-ZR-88
+#C4BEGIN    [ 1001 40090   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40090   4 700  C 3.1000+7          8.0700-6 3.1300-6 0.995660          2130000.         LVLJ.B.Ball+            (69)C2059  2 
+ 1001 40090   4 700  C 3.1000+7          5.4500-6 1.9600-6 0.964003          2130000.         LVLJ.B.Ball+            (69)C2059  2 
+ 1001 40090   4 700  C 3.1000+7          1.2900-5 1.8300-6 0.930737          2130000.         LVLJ.B.Ball+            (69)C2059  2 
+ 1001 40090   4 700  C 3.1000+7          1.8100-5 2.1600-6 0.903036          2130000.         LVLJ.B.Ball+            (69)C2059  2 
+ 1001 40090   4 700  C 3.1000+7          2.0900-5 1.9000-6 0.859496          2130000.         LVLJ.B.Ball+            (69)C2059  2 
+ 1001 40090   4 700  C 3.1000+7          2.6900-5 2.9200-6 0.813507          2130000.         LVLJ.B.Ball+            (69)C2059  2 
+ 1001 40090   4 700  C 3.1000+7          1.0100-5 2.2700-6 0.693402          2130000.         LVLJ.B.Ball+            (69)C2059  2 
+ 1001 40090   4 700  C 3.1000+7          6.0700-6 2.9400-6 0.554699          2130000.         LVLJ.B.Ball+            (69)C2059  2 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      C1180
+#AUTHOR1    P.A.Smith+
+#YEAR       1980
+#INSTITUTE  (1USACLU)
+#TITLE      Neutron-hole states in 204Tl
+#AUTHOR(S)  P.A.Smith, R.J.Peterson, R.A.Emigh, R.E.Anderson
+#REF-CODE   (J,NP/A,342,437,1980)
+#REFERENCE  Nucl.Phys.A 342 (1980) 437
+#DATASETS   0
+#
+#DATASET    C1180002 
+#DATE       20050223
+#REACTION   81-TL-205(P,D)81-TL-204,PAR,DA
+#PROJ       1001
+#TARG       81205
+#MF         4
+#MT         650
+#PRODUCT    81-TL-204
+#C4BEGIN    [ 1001 81205   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 81205   4 650  C 2.6100+7          8.4220-6 2.9440-6 0.984381          3045000.         LVLP.A.Smith+           (80)C1180  2 
+ 1001 81205   4 650  C 2.6100+7          1.3740-5 2.1270-6 0.966645          3045000.         LVLP.A.Smith+           (80)C1180  2 
+ 1001 81205   4 650  C 2.6100+7          1.1050-5 2.8290-6 0.938010          3045000.         LVLP.A.Smith+           (80)C1180  2 
+ 1001 81205   4 650  C 2.6100+7          1.8260-5 1.8390-6 0.903933          3045000.         LVLP.A.Smith+           (80)C1180  2 
+ 1001 81205   4 650  C 2.6100+7          1.2130-5 2.9240-6 0.884337          3045000.         LVLP.A.Smith+           (80)C1180  2 
+ 1001 81205   4 650  C 2.6100+7          1.0250-5 3.7510-6 0.865763          3045000.         LVLP.A.Smith+           (80)C1180  2 
+#/DATA      6
+#/DATASET

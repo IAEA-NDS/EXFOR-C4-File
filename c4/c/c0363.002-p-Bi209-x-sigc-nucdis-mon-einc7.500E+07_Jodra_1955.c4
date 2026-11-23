@@ -1,0 +1,34 @@
+#ENTRY      C0363
+#AUTHOR1    L.G.Jodra+
+#YEAR       1955
+#INSTITUTE  (1USACHI)
+#TITLE      High-energy fission of bismuth. proton energy
+#+          dependence
+#AUTHOR(S)  L.G.Jodra, N.Sugarman
+#REF-CODE   (J,PR,99,1470,1955)
+#REFERENCE  Phys.Rev. 99 (1955) 1470
+#DATASETS   0
+#
+#DATASET    C0363002 
+#DATE       20070717
+#REACTION   83-BI-209(P,X)ELEM/MASS,CUM,SIG
+#PROJ       1001
+#TARG       83209
+#MF         3
+#MT         459
+#C4BEGIN    [ 1001 83209   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 83209   3 459    7.5000+7          8.4000-5                    33077.9                     L.G.Jodra+           (55)C0363  2 
+ 1001 83209   3 459    7.5000+7          3.9000-5                    35083.9                     L.G.Jodra+           (55)C0363  2 
+ 1001 83209   3 459    7.5000+7          2.6000-5                    35084.9                     L.G.Jodra+           (55)C0363  2 
+ 1001 83209   3 459    7.5000+7          1.4000-5                    41095.1                     L.G.Jodra+           (55)C0363  2 
+ 1001 83209   3 459    7.5000+7          1.9000-5                    41095.9                     L.G.Jodra+           (55)C0363  2 
+ 1001 83209   3 459    7.5000+7          4.0000-4                    47111.9                     L.G.Jodra+           (55)C0363  2 
+ 1001 83209   3 459    7.5000+7          1.3000-4                    47112.9                     L.G.Jodra+           (55)C0363  2 
+ 1001 83209   3 459    7.5000+7          3.2000-4                    47113.9                     L.G.Jodra+           (55)C0363  2 
+ 1001 83209   3 459    7.5000+7          1.4000-4                    49111.9                     L.G.Jodra+           (55)C0363  2 
+ 1001 83209   3 459    7.5000+7          6.8000-7                    53132.9                     L.G.Jodra+           (55)C0363  2 
+#/DATA      10
+#/DATASET

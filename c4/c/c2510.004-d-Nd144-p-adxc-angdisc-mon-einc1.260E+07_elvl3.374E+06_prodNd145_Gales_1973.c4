@@ -1,0 +1,36 @@
+#ENTRY      C2510
+#AUTHOR1    S.Gales+
+#YEAR       1973
+#INSTITUTE  (1CANMON)
+#TITLE      The 144Nd(d,p) and 144Nd(d,t) reactions and
+#+          isobaric analog resonances in 144Nd(p,p0) and
+#+          144Nd(p,p')
+#AUTHOR(S)  S.Gales, L.Lessard, J.L.Foster
+#REF-CODE   (J,NP/A,202,535,1973)
+#REFERENCE  Nucl.Phys.A 202 (1973) 535
+#DATASETS   0
+#
+#DATASET    C2510004 
+#DATE       20210618
+#REACTION   60-ND-144(D,P)60-ND-145,PAR,DA
+#PROJ       1002
+#TARG       60144
+#MF         4
+#MT         600
+#PRODUCT    60-ND-145
+#C4BEGIN    [ 1002 60144   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 60144   4 600  C 1.2600+7          8.3310-5 1.0780-5 0.905680          3374000.         LVLS.Gales+             (73)C2510  4 
+ 1002 60144   4 600  C 1.2600+7          8.5550-5 1.0060-5 0.889009          3374000.         LVLS.Gales+             (73)C2510  4 
+ 1002 60144   4 600  C 1.2600+7          8.1040-5 1.1410-5 0.835510          3374000.         LVLS.Gales+             (73)C2510  4 
+ 1002 60144   4 600  C 1.2600+7          7.0540-5 1.0750-5 0.794075          3374000.         LVLS.Gales+             (73)C2510  4 
+ 1002 60144   4 600  C 1.2600+7          7.6740-5 8.4180-6 0.724930          3374000.         LVLS.Gales+             (73)C2510  4 
+ 1002 60144   4 600  C 1.2600+7          7.0770-5 1.1040-5 0.637437          3374000.         LVLS.Gales+             (73)C2510  4 
+ 1002 60144   4 600  C 1.2600+7          6.4380-5 7.8230-6 0.493927          3374000.         LVLS.Gales+             (73)C2510  4 
+ 1002 60144   4 600  C 1.2600+7          6.2620-5 9.2990-6 0.338426          3374000.         LVLS.Gales+             (73)C2510  4 
+ 1002 60144   4 600  C 1.2600+7          4.1110-5 4.8360-6 0.167457          3374000.         LVLS.Gales+             (73)C2510  4 
+ 1002 60144   4 600  C 1.2600+7          2.8480-5 6.5000-6 1.3788-3          3374000.         LVLS.Gales+             (73)C2510  4 
+#/DATA      10
+#/DATASET

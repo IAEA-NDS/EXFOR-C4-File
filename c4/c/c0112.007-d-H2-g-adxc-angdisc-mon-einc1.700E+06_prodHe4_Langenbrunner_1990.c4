@@ -1,0 +1,30 @@
+#ENTRY      C0112
+#AUTHOR1    J.L.Langenbrunner+
+#YEAR       1990
+#INSTITUTE  (1USATNL)
+#TITLE      Two-deuteron radiative capture: polarization
+#+          observables at E(d)<15 MeV
+#AUTHOR(S)  J.L.Langenbrunner, H.R.Weller, D.R.Tilley
+#REF-CODE   (J,PR/C,42,1214,199010)
+#REFERENCE  Phys.Rev.C 42 (1990) 1214
+#DATASETS   0
+#
+#DATASET    C0112007 
+#DATE       19990726
+#REACTION   1-H-2(D,G)2-HE-4,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         102
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  1002   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4 102  C 1700000.          3.0400-9 1.600-10 0.632029 0.091972                     J.L.Langenbrunner+   (90)C0112  7 
+ 1002  1002   4 102  C 1700000.          1.6400-9 1.200-10 0.325568 0.112216                     J.L.Langenbrunner+   (90)C0112  7 
+ 1002  1002   4 102  C 1700000.          8.800-10 8.000-11-0.017452 0.118664                     J.L.Langenbrunner+   (90)C0112  7 
+ 1002  1002   4 102  C 1700000.          1.7200-9 1.000-10-0.358368 0.110800                     J.L.Langenbrunner+   (90)C0112  7 
+ 1002  1002   4 102  C 1700000.          3.0400-9 1.800-10-0.653421 0.089842                     J.L.Langenbrunner+   (90)C0112  7 
+#/DATA      5
+#/DATASET

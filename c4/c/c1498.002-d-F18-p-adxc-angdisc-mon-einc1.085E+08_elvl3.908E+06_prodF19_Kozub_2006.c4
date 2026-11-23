@@ -1,0 +1,35 @@
+#ENTRY      C1498
+#AUTHOR1    R.L.Kozub+
+#YEAR       2006
+#INSTITUTE  (1USATEN)
+#TITLE      Neutron single particle strengths from the (d, p)
+#+          reaction on 18F
+#AUTHOR(S)  R.L.Kozub, D.W.Bardayan, J.C.Batchelder, J.C.Blackmon, C.R.Brune, 
+#+          A.E.Champagne, J.A.Cizewski, U.Greife, C.J.Gross, C.C.Jewett, 
+#+          R.J.Livesay, Z.Ma, B.H.Moazen, C.D.Nesaraja, L.Sahin, J.P.Scott, 
+#+          D.Shapira, M.S.Smith, J.S.Thomas
+#REF-CODE   (J,PR/C,73,044307,2006)
+#REFERENCE  Phys.Rev.C 73 (2006) 044307
+#DATASETS   0
+#
+#DATASET    C1498002 
+#DATE       20070105
+#REACTION   9-F-18(D,P)9-F-19,PAR,DA
+#PROJ       1002
+#TARG       9018
+#MF         4
+#MT         600
+#PRODUCT    9-F-19
+#C4BEGIN    [ 1002  9018   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  9018   4 600  C 1.0849+8          8.3000-4 6.5000-4 0.985109          3908000.         LVLR.L.Kozub+           (06)C1498  2 
+ 1002  9018   4 600  C 1.0849+8          1.0000-3 6.7000-4 0.981627          3908000.         LVLR.L.Kozub+           (06)C1498  2 
+ 1002  9018   4 600  C 1.0849+8          1.6500-3 6.4000-4 0.977783          3908000.         LVLR.L.Kozub+           (06)C1498  2 
+ 1002  9018   4 600  C 1.0849+8          6.7000-4 5.9000-4 0.973579          3908000.         LVLR.L.Kozub+           (06)C1498  2 
+ 1002  9018   4 600  C 1.0849+8          7.7000-4 4.5000-4 0.963163          3908000.         LVLR.L.Kozub+           (06)C1498  2 
+ 1002  9018   4 600  C 1.0849+8          5.0000-4 4.3000-4 0.957319          3908000.         LVLR.L.Kozub+           (06)C1498  2 
+ 1002  9018   4 600  C 1.0849+8          4.8000-4 4.7000-4 0.950516          3908000.         LVLR.L.Kozub+           (06)C1498  2 
+#/DATA      7
+#/DATASET

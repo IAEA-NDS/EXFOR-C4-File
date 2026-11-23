@@ -1,0 +1,42 @@
+#ENTRY      C1498
+#AUTHOR1    R.L.Kozub+
+#YEAR       2006
+#INSTITUTE  (1USATEN)
+#TITLE      Neutron single particle strengths from the (d, p)
+#+          reaction on 18F
+#AUTHOR(S)  R.L.Kozub, D.W.Bardayan, J.C.Batchelder, J.C.Blackmon, C.R.Brune, 
+#+          A.E.Champagne, J.A.Cizewski, U.Greife, C.J.Gross, C.C.Jewett, 
+#+          R.J.Livesay, Z.Ma, B.H.Moazen, C.D.Nesaraja, L.Sahin, J.P.Scott, 
+#+          D.Shapira, M.S.Smith, J.S.Thomas
+#REF-CODE   (J,PR/C,73,044307,2006)
+#REFERENCE  Phys.Rev.C 73 (2006) 044307
+#DATASETS   0
+#
+#DATASET    C1498002 
+#DATE       20070105
+#REACTION   9-F-18(D,P)9-F-19,PAR,DA
+#PROJ       1002
+#TARG       9018
+#MF         4
+#MT         600
+#PRODUCT    9-F-19
+#C4BEGIN    [ 1002  9018   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  9018   4 600  C 1.0849+8          5.6000-4 7.2000-4 0.986856          5107000.         LVLR.L.Kozub+           (06)C1498  2 
+ 1002  9018   4 600  C 1.0849+8          2.4000-4 7.3000-4 0.983885          5107000.         LVLR.L.Kozub+           (06)C1498  2 
+ 1002  9018   4 600  C 1.0849+8          7.8000-4 1.2600-3 0.980271          5107000.         LVLR.L.Kozub+           (06)C1498  2 
+ 1002  9018   4 600  C 1.0849+8          1.1600-3 6.3000-4 0.976672          5107000.         LVLR.L.Kozub+           (06)C1498  2 
+ 1002  9018   4 600  C 1.0849+8          8.4000-4 5.8000-4 0.972370          5107000.         LVLR.L.Kozub+           (06)C1498  2 
+ 1002  9018   4 600  C 1.0849+8          1.3100-3 5.0000-4 0.967268          5107000.         LVLR.L.Kozub+           (06)C1498  2 
+ 1002  9018   4 600  C 1.0849+8          1.2600-3 5.0000-4 0.961741          5107000.         LVLR.L.Kozub+           (06)C1498  2 
+ 1002  9018   4 600  C 1.0849+8          1.5100-3 5.1000-4 0.955793          5107000.         LVLR.L.Kozub+           (06)C1498  2 
+ 1002  9018   4 600  C 1.0849+8          1.0800-3 4.9000-4 0.948876          5107000.         LVLR.L.Kozub+           (06)C1498  2 
+ 1002  9018   4 600  C 1.0849+8          1.0400-3 4.4000-4 0.941471          5107000.         LVLR.L.Kozub+           (06)C1498  2 
+ 1002  9018   4 600  C 1.0849+8          1.9900-3 4.4000-4 0.933580          5107000.         LVLR.L.Kozub+           (06)C1498  2 
+ 1002  9018   4 600  C 1.0849+8          1.9400-3 4.5000-4 0.925210          5107000.         LVLR.L.Kozub+           (06)C1498  2 
+ 1002  9018   4 600  C 1.0849+8          1.3300-3 4.4000-4 0.916363          5107000.         LVLR.L.Kozub+           (06)C1498  2 
+ 1002  9018   4 600  C 1.0849+8          1.0600-3 3.6000-4 0.904083          5107000.         LVLR.L.Kozub+           (06)C1498  2 
+#/DATA      14
+#/DATASET

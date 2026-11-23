@@ -1,0 +1,37 @@
+#ENTRY      C0993
+#AUTHOR1    M.T.McEllistrem+
+#YEAR       1956
+#INSTITUTE  (1USAWIS)
+#TITLE      Differential Cross Sections for C12(d,d)C12 and
+#+          C12(d,p)C13
+#AUTHOR(S)  M.T.McEllistrem, K.W.Jones, R.Chiba, R.A.Douglas, D.F.Herring, 
+#+          E.A.Silverstein
+#REF-CODE   (J,PR,104,1008,195611)
+#REFERENCE  Phys.Rev. 104 (1956) 1008
+#DATASETS   0
+#
+#DATASET    C0993002 
+#DATE       20040720
+#REACTION   6-C-12(D,EL)6-C-12,,DA
+#PROJ       1002
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1002  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6012   4   2  C 2990000.          0.017000         -0.342020                              M.T.McEllistrem+     (56)C0993  2 
+ 1002  6012   4   2  C 3018000.          0.012000         -0.342020                              M.T.McEllistrem+     (56)C0993  2 
+ 1002  6012   4   2  C 3037000.          0.020000         -0.342020                              M.T.McEllistrem+     (56)C0993  2 
+ 1002  6012   4   2  C 3049000.          0.024000         -0.342020                              M.T.McEllistrem+     (56)C0993  2 
+ 1002  6012   4   2  C 3078000.          0.025000         -0.342020                              M.T.McEllistrem+     (56)C0993  2 
+ 1002  6012   4   2  C 3107000.          0.021000         -0.342020                              M.T.McEllistrem+     (56)C0993  2 
+ 1002  6012   4   2  C 3136000.          0.020000         -0.342020                              M.T.McEllistrem+     (56)C0993  2 
+ 1002  6012   4   2  C 3136000.          0.019000         -0.342020                              M.T.McEllistrem+     (56)C0993  2 
+ 1002  6012   4   2  C 3166000.          0.016000         -0.342020                              M.T.McEllistrem+     (56)C0993  2 
+ 1002  6012   4   2  C 3194000.          0.016000         -0.342020                              M.T.McEllistrem+     (56)C0993  2 
+ 1002  6012   4   2  C 3223000.          0.013000         -0.342020                              M.T.McEllistrem+     (56)C0993  2 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      C2888
+#AUTHOR1    A.Gula+
+#YEAR       2022
+#INSTITUTE  (1USANOT)
+#TITLE      Excitation function for the 6Li+alpha reaction
+#+          between 0.5 and 1.4 MeV
+#AUTHOR(S)  A.Gula, R.J.deBoer, R.Kelmar, J.Gorres, K.V.Manukyan, E.Stech, 
+#+          W.Tan, M.Wiescher
+#REF-CODE   (J,PR/C,106,065801,2022)
+#REFERENCE  Phys.Rev.C 106 (2022) 065801
+#DATASETS   0
+#
+#DATASET    C2888007 
+#DATE       20260717
+#REACTION   3-LI-6(A,G)5-B-10,PAR,DA
+#PROJ       2004
+#TARG       3006
+#MF         4
+#MT         900
+#PRODUCT    5-B-10
+#C4BEGIN    [ 2004  3006   4 900 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  3006   4 900 A  949700.0          1.6391-9 5.795-10-0.707107          1740000.         LVLA.Gula+              (22)C2888  7 
+ 2004  3006   4 900 A  1089600.          2.8780-8 2.4151-9-0.707107          1740000.         LVLA.Gula+              (22)C2888  7 
+ 2004  3006   4 900 A  1144900.          5.0966-8 4.9270-9-0.707107          1740000.         LVLA.Gula+              (22)C2888  7 
+ 2004  3006   4 900 A  1154800.          3.8497-8 3.5290-9-0.707107          1740000.         LVLA.Gula+              (22)C2888  7 
+ 2004  3006   4 900 A  1167700.          7.1141-8 1.1658-8-0.707107          1740000.         LVLA.Gula+              (22)C2888  7 
+ 2004  3006   4 900 A  1170800.          7.3433-8 6.7936-9-0.707107          1740000.         LVLA.Gula+              (22)C2888  7 
+ 2004  3006   4 900 A  1174600.          6.1901-8 6.0345-9-0.707107          1740000.         LVLA.Gula+              (22)C2888  7 
+ 2004  3006   4 900 A  1214900.          4.7344-8 5.9220-9-0.707107          1740000.         LVLA.Gula+              (22)C2888  7 
+ 2004  3006   4 900 A  1248300.          5.0558-8 5.4527-9-0.707107          1740000.         LVLA.Gula+              (22)C2888  7 
+ 2004  3006   4 900 A  1274700.          3.4502-8 4.3817-9-0.707107          1740000.         LVLA.Gula+              (22)C2888  7 
+#/DATA      10
+#/DATASET

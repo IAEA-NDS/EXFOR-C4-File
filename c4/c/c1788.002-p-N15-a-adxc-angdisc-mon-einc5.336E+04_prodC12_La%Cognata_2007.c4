@@ -1,0 +1,41 @@
+#ENTRY      C1788
+#AUTHOR1    M.La Cognata+
+#YEAR       2007
+#INSTITUTE  (2ITYLNS)
+#TITLE      Astrophysical S(E) factor of the 15N(p,alpha)12C
+#+          reaction at sub-Coulomb energies via the Trojan
+#+          horse method
+#AUTHOR(S)  M.La Cognata, S.Romano, C.Spitaleri, S.Cherubini, V.Crucilla, 
+#+          M.Gulino, L.Lamia, R.G.Pizzone, A.Tumino, R.Tribble, Changbo Fu, 
+#+          V.Z.Goldberg, A.M.Mukhamedzhanov, D.Schmidt, G.Tabacaru, 
+#+          L.Trache, B.F.Irgaziev
+#REF-CODE   (J,PR/C,76,065804,2007)
+#REFERENCE  Phys.Rev.C 76 (2007) 065804
+#DATASETS   0
+#
+#DATASET    C1788002 
+#DATE       20100526
+#REACTION   7-N-15(P,A)6-C-12,,DA
+#PROJ       1001
+#TARG       7015
+#MF         4
+#MT         107
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  7015   4 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7015   4 107  C 53359.48          1.430-11 3.530-12 0.054079                              M.La Cognata+        (07)C1788  2 
+ 1001  7015   4 107  C 53359.48          1.540-11 3.810-12-0.050593                              M.La Cognata+        (07)C1788  2 
+ 1001  7015   4 107  C 53359.48          1.860-11 4.600-12-0.151261                              M.La Cognata+        (07)C1788  2 
+ 1001  7015   4 107  C 53359.48          1.510-11 4.560-12-0.257133                              M.La Cognata+        (07)C1788  2 
+ 1001  7015   4 107  C 53359.48          1.630-11 4.710-12-0.356738                              M.La Cognata+        (07)C1788  2 
+ 1001  7015   4 107  C 53359.48          1.600-11 5.250-12-0.455545                              M.La Cognata+        (07)C1788  2 
+ 1001  7015   4 107  C 53359.48          1.900-11 1.150-11-0.627963                              M.La Cognata+        (07)C1788  2 
+ 1001  7015   4 107  C 53359.48          2.290-11 1.040-11-0.705872                              M.La Cognata+        (07)C1788  2 
+ 1001  7015   4 107  C 53359.48          1.730-11 6.710-12-0.778243                              M.La Cognata+        (07)C1788  2 
+ 1001  7015   4 107  C 53359.48          2.990-11 9.400-12-0.838671                              M.La Cognata+        (07)C1788  2 
+ 1001  7015   4 107  C 53359.48          1.210-11 7.280-12-0.891798                              M.La Cognata+        (07)C1788  2 
+ 1001  7015   4 107  C 53359.48          1.280-11 9.550-12-0.934204                              M.La Cognata+        (07)C1788  2 
+#/DATA      12
+#/DATASET

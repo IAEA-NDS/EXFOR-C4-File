@@ -1,0 +1,35 @@
+#ENTRY      C2967
+#AUTHOR1    M.Spieker+
+#YEAR       2023
+#INSTITUTE  (1USAFSU)
+#TITLE      Experimental study of excited states of 62Ni via one-
+#+          neutron (d,p) transfer up to the neutron-separation
+#+          threshold and characteristics of the pygmy dipole
+#+          resonance states
+#AUTHOR(S)  M.Spieker, L.T.Baby, A.L.Conley, B.Kelly, M.Muscher, R.Renom, 
+#+          T.Schuttler, A.Zilges
+#REF-CODE   (J,PR/C,108,014311,2023)
+#REFERENCE  Phys.Rev.C 108 (2023) 014311
+#DATASETS   0
+#
+#DATASET    C2967004 
+#DATE       20241212
+#REACTION   28-NI-61(D,P)28-NI-62,PAR,DA
+#PROJ       1002
+#TARG       28061
+#MF         4
+#MT         600
+#PRODUCT    28-NI-62
+#C4BEGIN    [ 1002 28061   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28061   4 600 A  1.6000+7          6.1000-5 2.9000-5 0.984808          7132000.         LVLM.Spieker+           (23)C2967  4 
+ 1002 28061   4 600 A  1.6000+7          1.1200-4 3.1000-5 0.965926          7132000.         LVLM.Spieker+           (23)C2967  4 
+ 1002 28061   4 600 A  1.6000+7          9.2000-5 2.5000-5 0.939693          7132000.         LVLM.Spieker+           (23)C2967  4 
+ 1002 28061   4 600 A  1.6000+7          2.7000-5 6.0000-6 0.866025          7132000.         LVLM.Spieker+           (23)C2967  4 
+ 1002 28061   4 600 A  1.6000+7          3.1000-5 1.2000-5 0.766044          7132000.         LVLM.Spieker+           (23)C2967  4 
+ 1002 28061   4 600 A  1.6000+7          2.3000-5 8.0000-6 0.642788          7132000.         LVLM.Spieker+           (23)C2967  4 
+ 1002 28061   4 600 A  1.6000+7          1.4000-5 3.0000-6 0.500000          7132000.         LVLM.Spieker+           (23)C2967  4 
+#/DATA      7
+#/DATASET

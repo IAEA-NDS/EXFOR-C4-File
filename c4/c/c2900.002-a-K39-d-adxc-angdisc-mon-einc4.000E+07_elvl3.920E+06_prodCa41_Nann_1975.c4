@@ -1,0 +1,34 @@
+#ENTRY      C2900
+#AUTHOR1    H.Nann+
+#YEAR       1975
+#INSTITUTE  (1USAMSU)
+#TITLE      (f7/2) 2,0(d3/2)-1 configuration states in 41Ca
+#+          strongly populated by the 39K(alpha,d) reaction
+#AUTHOR(S)  H.Nann, W.S.Chien, A.Saha, B.H.Wildenthal
+#REF-CODE   (J,PR/C,12,1524,1975)
+#REFERENCE  Phys.Rev.C 12 (1975) 1524
+#DATASETS   0
+#
+#DATASET    C2900002 
+#DATE       20231107
+#REACTION   19-K-39(A,D)20-CA-41,PAR,DA
+#PROJ       2004
+#TARG       19039
+#MF         4
+#MT         650
+#PRODUCT    20-CA-41
+#C4BEGIN    [ 2004 19039   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 19039   4 650  C 4.0000+7          0.220300 0.023330 0.983118          3920000.         LVLH.Nann+              (75)C2900  2 
+ 2004 19039   4 650  C 4.0000+7          0.211600 0.022820 0.960769          3920000.         LVLH.Nann+              (75)C2900  2 
+ 2004 19039   4 650  C 4.0000+7          0.213100 0.022560 0.933643          3920000.         LVLH.Nann+              (75)C2900  2 
+ 2004 19039   4 650  C 4.0000+7          0.158600 0.018040 0.904060          3920000.         LVLH.Nann+              (75)C2900  2 
+ 2004 19039   4 650  C 4.0000+7          0.118000 0.018900 0.870175          3920000.         LVLH.Nann+              (75)C2900  2 
+ 2004 19039   4 650  C 4.0000+7          0.087270 0.011870 0.830654          3920000.         LVLH.Nann+              (75)C2900  2 
+ 2004 19039   4 650  C 4.0000+7          0.059530 0.012790 0.787462          3920000.         LVLH.Nann+              (75)C2900  2 
+ 2004 19039   4 650  C 4.0000+7          0.047070 0.011280 0.725206          3920000.         LVLH.Nann+              (75)C2900  2 
+ 2004 19039   4 650  C 4.0000+7          0.056420 0.014420 0.588322          3920000.         LVLH.Nann+              (75)C2900  2 
+#/DATA      9
+#/DATASET

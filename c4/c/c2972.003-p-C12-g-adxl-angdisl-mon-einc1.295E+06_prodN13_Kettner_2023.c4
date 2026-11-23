@@ -1,0 +1,32 @@
+#ENTRY      C2972
+#AUTHOR1    K-U.Kettner+
+#YEAR       2023
+#INSTITUTE  (1USANOT)
+#TITLE      Absolute cross section of the 12C(p,gamma)13N reaction
+#AUTHOR(S)  K-U.Kettner, H.W.Becker, C.R.Brune, R.J.deBoer, J.Gorres, 
+#+          D.Odell, D.Rogalla, M.Wiescher
+#REF-CODE   (J,PR/C,108,035805,2023)
+#REFERENCE  Phys.Rev.C 108 (2023) 035805
+#DATASETS   0
+#
+#DATASET    C2972003 
+#DATE       20241212
+#REACTION   6-C-12(P,G)7-N-13,,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         102
+#PRODUCT    7-N-13
+#C4BEGIN    [ 1001  6012   4 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 102 A  1294600.          3.4400-8 8.970-10 1.000000                              K-U.Kettner+         (23)C2972  3 
+ 1001  6012   4 102 A  1294600.          3.5700-8 9.980-10 0.866025                              K-U.Kettner+         (23)C2972  3 
+ 1001  6012   4 102 A  1294600.          3.6000-8 9.370-10 0.707107                              K-U.Kettner+         (23)C2972  3 
+ 1001  6012   4 102 A  1294600.          3.5300-8 1.000-09 0.500000                              K-U.Kettner+         (23)C2972  3 
+ 1001  6012   4 102 A  1294600.          3.6000-8 9.710-10 6.123-17                              K-U.Kettner+         (23)C2972  3 
+ 1001  6012   4 102 A  1294600.          2.9700-8 9.300-10-0.500000                              K-U.Kettner+         (23)C2972  3 
+ 1001  6012   4 102 A  1294600.          2.5300-8 9.230-10-0.642788                              K-U.Kettner+         (23)C2972  3 
+#/DATA      7
+#/DATASET

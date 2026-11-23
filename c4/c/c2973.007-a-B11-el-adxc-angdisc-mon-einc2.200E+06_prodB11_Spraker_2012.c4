@@ -1,0 +1,35 @@
+#ENTRY      C2973
+#AUTHOR1    M.C.Spraker+
+#YEAR       2012
+#INSTITUTE  (1USANGC)
+#TITLE      The 11B(p,alpha)8Be -> alpha + alpha and the
+#+          11B(alpha,alpha)11B Reactions at Energies Below 5.4
+#+          MeV
+#AUTHOR(S)  M.C.Spraker, M.W.Ahmed, M.A.Blackston, N.Brown, R.H.France Iii, 
+#+          S.S.Henshaw, B.A.Perdue, R.M.Prior, P.-N.Seo, S.Stave, H.R.Weller, 
+#+          M.H.Sikora
+#REF-CODE   (J,JFE,31,357,2012)
+#REFERENCE  J.Fusion Energy 31 (2012) 357
+#DATASETS   0
+#
+#DATASET    C2973007 
+#DATE       20240312
+#REACTION   5-B-11(A,EL)5-B-11,,DA
+#PROJ       2004
+#TARG       5011
+#MF         4
+#MT         2
+#PRODUCT    5-B-11
+#C4BEGIN    [ 2004  5011   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  5011   4   2 AC 2200000.          0.816173 0.025842 0.519101                              M.C.Spraker+         (12)C2973  7 
+ 2004  5011   4   2 AC 2200000.          0.343964 0.022893 0.207331                              M.C.Spraker+         (12)C2973  7 
+ 2004  5011   4   2 AC 2200000.          0.158763 0.014375-0.081121                              M.C.Spraker+         (12)C2973  7 
+ 2004  5011   4   2 AC 2200000.          0.079510 0.014457-0.385584                              M.C.Spraker+         (12)C2973  7 
+ 2004  5011   4   2 AC 2200000.          0.074670 0.014375-0.670038                              M.C.Spraker+         (12)C2973  7 
+ 2004  5011   4   2 AC 2200000.          0.038419 5.8570-3-0.867592                              M.C.Spraker+         (12)C2973  7 
+ 2004  5011   4   2 AC 2200000.          0.079489 0.014416-0.982450                              M.C.Spraker+         (12)C2973  7 
+#/DATA      7
+#/DATASET

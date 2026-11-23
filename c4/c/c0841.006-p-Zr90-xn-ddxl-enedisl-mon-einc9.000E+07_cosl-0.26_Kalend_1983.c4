@@ -1,0 +1,32 @@
+#ENTRY      C0841
+#AUTHOR1    A.M.Kalend+
+#YEAR       1983
+#INSTITUTE  (1USAKNT)
+#TITLE      Energy and angular distributions of neutrons from 90
+#+          MeV and 140 MeV alpha-particle bombardment of nuclei
+#AUTHOR(S)  A.M.Kalend, B.D.Anderson, A.R.Baldwin, R.Madey, J.W.Watson, 
+#+          C.C.Chang, H.D.Holmgren, R.W.Koontz, J.R.Wu, H.Machner
+#REF-CODE   (J,PR/C,28,105,1983)
+#REFERENCE  Phys.Rev.C 28 (1983) 105
+#DATASETS   0
+#
+#DATASET    C0841006 
+#DATE       20100520
+#REACTION   40-ZR-90(P,X)0-NN-1,,DA/DE
+#PROJ       1001
+#TARG       40090
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1001 40090   6 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40090   6 201    9.0000+7          9.520-11 7.045-12-0.258819          4.2300+7          E2A.M.Kalend+          (83)C0841  6 
+ 1001 40090   6 201    9.0000+7          5.420-11 4.228-12-0.258819          4.8200+7          E2A.M.Kalend+          (83)C0841  6 
+ 1001 40090   6 201    9.0000+7          2.110-11 1.941-12-0.258819          5.5200+7          E2A.M.Kalend+          (83)C0841  6 
+ 1001 40090   6 201    9.0000+7          9.320-12 1.035-12-0.258819          6.3700+7          E2A.M.Kalend+          (83)C0841  6 
+ 1001 40090   6 201    9.0000+7          1.670-12 3.390-13-0.258819          7.4300+7          E2A.M.Kalend+          (83)C0841  6 
+ 1001 40090   6 201    9.0000+7          6.050-13 1.779-13-0.258819          8.7700+7          E2A.M.Kalend+          (83)C0841  6 
+#/DATA      6
+#/DATASET

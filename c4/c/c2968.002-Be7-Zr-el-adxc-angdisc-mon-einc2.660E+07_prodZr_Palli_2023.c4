@@ -1,0 +1,44 @@
+#ENTRY      C2968
+#AUTHOR1    K.Palli+
+#YEAR       2023
+#INSTITUTE  (2GRCIOA)
+#TITLE      Quasielastic scattering of 7Be + natZr at sub- and
+#+          near-barrier energies
+#AUTHOR(S)  K.Palli, A.Pakou, A.M.Moro, P.D.O'Malley, L.Acosta, A.M.Sanchez-Benitez, 
+#+          G.Souliotis, E.F.Aguilera, E.Andrade, D.Godos, O.Sgouros, 
+#+          V.Soukeras, C.Agodi, T.L.Bailey, D.W.Bardayan, C.Boomershine, 
+#+          M.Brodeur, F.Cappuzzello, S.Carmichael, M.Cavallaro, S.Dede, 
+#+          J.A.Duenas, J.Henning, K.Lee, W.S.Porter, F.Rivero, W.von Seeger
+#REF-CODE   (J,PR/C,107,064613,2023)
+#REFERENCE  Phys.Rev.C 107 (2023) 064613
+#DATASETS   0
+#
+#DATASET    C2968002 
+#DATE       20251002
+#REACTION   40-ZR-0(4-BE-7,EL)40-ZR-0,,DA,,RTH
+#PROJ       4007
+#TARG       40000
+#MF         4
+#MT         2
+#PRODUCT    40-ZR-0
+#C4BEGIN    [ 4007 40000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4007 40000   4   2 AC 2.6600+7          17.85560 0.068151 0.887011                              K.Palli+             (23)C2968  2 
+ 4007 40000   4   2 AC 2.6600+7          11.64452 0.056803 0.861629                              K.Palli+             (23)C2968  2 
+ 4007 40000   4   2 AC 2.6600+7          7.966803 0.047849 0.834848                              K.Palli+             (23)C2968  2 
+ 4007 40000   4   2 AC 2.6600+7          5.714061 0.039998 0.804894                              K.Palli+             (23)C2968  2 
+ 4007 40000   4   2 AC 2.6600+7          4.195525 0.033364 0.771625                              K.Palli+             (23)C2968  2 
+ 4007 40000   4   2 AC 2.6600+7          3.077110 0.027611 0.733730                              K.Palli+             (23)C2968  2 
+ 4007 40000   4   2 AC 2.6600+7          2.281523 0.025453 0.693402                              K.Palli+             (23)C2968  2 
+ 4007 40000   4   2 AC 2.6600+7          1.771021 0.021402 0.650774                              K.Palli+             (23)C2968  2 
+ 4007 40000   4   2 AC 2.6600+7          1.419717 0.020179 0.611527                              K.Palli+             (23)C2968  2 
+ 4007 40000   4   2 AC 2.6600+7          1.148868 0.018511 0.566406                              K.Palli+             (23)C2968  2 
+ 4007 40000   4   2 AC 2.6600+7          0.012199 8.4453-4-0.522499                              K.Palli+             (23)C2968  2 
+ 4007 40000   4   2 AC 2.6600+7          9.0734-3 7.4237-4-0.623880                              K.Palli+             (23)C2968  2 
+ 4007 40000   4   2 AC 2.6600+7          6.5582-3 7.0267-4-0.669131                              K.Palli+             (23)C2968  2 
+ 4007 40000   4   2 AC 2.6600+7          4.3093-3 4.2387-4-0.754710                              K.Palli+             (23)C2968  2 
+ 4007 40000   4   2 AC 2.6600+7          3.1004-3 5.5807-4-0.872922                              K.Palli+             (23)C2968  2 
+#/DATA      15
+#/DATASET

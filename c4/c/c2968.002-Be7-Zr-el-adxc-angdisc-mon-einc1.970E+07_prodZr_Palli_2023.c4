@@ -1,0 +1,35 @@
+#ENTRY      C2968
+#AUTHOR1    K.Palli+
+#YEAR       2023
+#INSTITUTE  (2GRCIOA)
+#TITLE      Quasielastic scattering of 7Be + natZr at sub- and
+#+          near-barrier energies
+#AUTHOR(S)  K.Palli, A.Pakou, A.M.Moro, P.D.O'Malley, L.Acosta, A.M.Sanchez-Benitez, 
+#+          G.Souliotis, E.F.Aguilera, E.Andrade, D.Godos, O.Sgouros, 
+#+          V.Soukeras, C.Agodi, T.L.Bailey, D.W.Bardayan, C.Boomershine, 
+#+          M.Brodeur, F.Cappuzzello, S.Carmichael, M.Cavallaro, S.Dede, 
+#+          J.A.Duenas, J.Henning, K.Lee, W.S.Porter, F.Rivero, W.von Seeger
+#REF-CODE   (J,PR/C,107,064613,2023)
+#REFERENCE  Phys.Rev.C 107 (2023) 064613
+#DATASETS   0
+#
+#DATASET    C2968002 
+#DATE       20251002
+#REACTION   40-ZR-0(4-BE-7,EL)40-ZR-0,,DA,,RTH
+#PROJ       4007
+#TARG       40000
+#MF         4
+#MT         2
+#PRODUCT    40-ZR-0
+#C4BEGIN    [ 4007 40000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4007 40000   4   2 AC 1.9700+7          21.39926 0.083919 0.862514                              K.Palli+             (23)C2968  2 
+ 4007 40000   4   2 AC 1.9700+7          7.532149 0.052203 0.769400                              K.Palli+             (23)C2968  2 
+ 4007 40000   4   2 AC 1.9700+7          2.939602 0.017638 0.632705                              K.Palli+             (23)C2968  2 
+ 4007 40000   4   2 AC 1.9700+7          0.148033 9.0081-3-0.625243                              K.Palli+             (23)C2968  2 
+ 4007 40000   4   2 AC 1.9700+7          0.125238 7.1305-3-0.748956                              K.Palli+             (23)C2968  2 
+ 4007 40000   4   2 AC 1.9700+7          0.110664 8.1200-3-0.848972                              K.Palli+             (23)C2968  2 
+#/DATA      6
+#/DATASET

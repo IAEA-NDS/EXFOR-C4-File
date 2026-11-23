@@ -1,0 +1,33 @@
+#ENTRY      C0142
+#AUTHOR1    J.J.Kelly+
+#YEAR       1991
+#INSTITUTE  (1USALAS)
+#TITLE      Effective interaction for 16O(p,p') at E(p)=318 MeV
+#AUTHOR(S)  J.J.Kelly, A.E.Feldman, B.S.Flanders, H.Seifert, D.Lopiano, 
+#+          B.Aas, A.Azizi, G.Igo, G.Weston, C.Whitten, A.Wong, M.V.Hynes, 
+#+          J.McClelland, W.Bertozzi, J.M.Finn, C.E.Hyde-Wright, R.W.Lourie, 
+#+          P.E.Ulmer, B.E.Norum, B.L.Berman
+#REF-CODE   (J,PR/C,43,1272,199103)
+#REFERENCE  Phys.Rev.C 43 (1991) 1272
+#DATASETS   0
+#
+#DATASET    C0142004 
+#DATE       19970410
+#REACTION   8-O-16(P,INL)8-O-16,PAR,DA
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         601
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  8016   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4 601 AC 3.1740+8 400000.0 2.4880-4 2.8587-5 0.907264 2.2021-3 9630000.         LVLJ.J.Kelly+           (91)C0142  4 
+ 1001  8016   4 601 AC 3.1740+8 400000.0 4.1260-5 6.4077-6 0.882127 2.4662-3 9630000.         LVLJ.J.Kelly+           (91)C0142  4 
+ 1001  8016   4 601 AC 3.1740+8 400000.0 1.1330-5 4.1672-6 0.854277 2.7218-3 9630000.         LVLJ.J.Kelly+           (91)C0142  4 
+ 1001  8016   4 601 AC 3.1740+8 400000.0 1.1920-5 1.2981-6 0.823731 2.9687-3 9630000.         LVLJ.J.Kelly+           (91)C0142  4 
+ 1001  8016   4 601 AC 3.1740+8 400000.0 6.7750-6 7.5270-7 0.790796 3.2048-3 9630000.         LVLJ.J.Kelly+           (91)C0142  4 
+ 1001  8016   4 601 AC 3.1740+8 400000.0 6.4360-6 1.5350-6 0.755396 3.4310-3 9630000.         LVLJ.J.Kelly+           (91)C0142  4 
+#/DATA      6
+#/DATASET

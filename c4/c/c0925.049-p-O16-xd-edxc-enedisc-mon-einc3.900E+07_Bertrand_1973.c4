@@ -1,0 +1,37 @@
+#ENTRY      C0925
+#AUTHOR1    F.E.Bertrand+
+#YEAR       1973
+#INSTITUTE  (1USAORL)
+#TITLE      Complete Hydrogen and Helium particle spectra from 30-
+#+          to 60-MeV proton bombardment of nuclei with A=12 to
+#+          209 and comparison with intranuclear cascade model
+#AUTHOR(S)  F.E.Bertrand, R.W.Peelle
+#REF-CODE   (J,PR/C,8,1045,1973)
+#REFERENCE  Phys.Rev.C 8 (1973) 1045
+#DATASETS   0
+#
+#DATASET    C0925049 
+#DATE       20110125
+#REACTION   8-O-16(P,X)1-H-2,,DE
+#PROJ       1001
+#TARG       8016
+#MF         5
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001  8016   5 204  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   5 204  C 3.9000+7          3.6100-9 6.000-11                   3830000.          E2F.E.Bertrand+        (73)C0925 49 
+ 1001  8016   5 204  C 3.9000+7          2.8800-9 5.000-11                   6090000.          E2F.E.Bertrand+        (73)C0925 49 
+ 1001  8016   5 204  C 3.9000+7          2.5200-9 5.000-11                   8340000.          E2F.E.Bertrand+        (73)C0925 49 
+ 1001  8016   5 204  C 3.9000+7          2.8000-9 5.000-11                   1.0600+7          E2F.E.Bertrand+        (73)C0925 49 
+ 1001  8016   5 204  C 3.9000+7          1.4100-9 5.000-11                   1.2850+7          E2F.E.Bertrand+        (73)C0925 49 
+ 1001  8016   5 204  C 3.9000+7          7.9800-9 1.500-10                   1.5110+7          E2F.E.Bertrand+        (73)C0925 49 
+ 1001  8016   5 204  C 3.9000+7          7.500-10 8.000-11                   1.7360+7          E2F.E.Bertrand+        (73)C0925 49 
+ 1001  8016   5 204  C 3.9000+7          1.400-10 1.300-10                   1.9620+7          E2F.E.Bertrand+        (73)C0925 49 
+ 1001  8016   5 204  C 3.9000+7          4.0100-9 1.500-10                   2.1000+7          E2F.E.Bertrand+        (73)C0925 49 
+ 1001  8016   5 204  C 3.9000+7          6.6000-9 1.500-10                   2.2000+7          E2F.E.Bertrand+        (73)C0925 49 
+ 1001  8016   5 204  C 3.9000+7          4.0700-9 7.000-11                   2.3000+7          E2F.E.Bertrand+        (73)C0925 49 
+#/DATA      11
+#/DATASET

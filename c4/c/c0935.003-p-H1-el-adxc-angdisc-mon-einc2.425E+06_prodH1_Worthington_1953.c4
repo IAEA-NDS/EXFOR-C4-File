@@ -1,0 +1,39 @@
+#ENTRY      C0935
+#AUTHOR1    H.R.Worthington+
+#YEAR       1953
+#INSTITUTE  (1USAWIS)
+#TITLE      Proton-Proton Scattering from 1.8 MeV to 4.2 MeV
+#AUTHOR(S)  H.R.Worthington, J.N.McGruer, D.E.Findley
+#REF-CODE   (J,PR,90,899,195306)
+#REFERENCE  Phys.Rev. 90 (1953) 899
+#DATASETS   0
+#
+#DATASET    C0935003 
+#DATE       20030929
+#REACTION   1-H-1(P,EL)1-H-1,,DA
+#PROJ       1001
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1001   4   2  C 2425000.          6.415290 0.016680 0.978148                              H.R.Worthington+     (53)C0935  3 
+ 1001  1001   4   2  C 2425000.          1.899170 6.4572-3 0.961262                              H.R.Worthington+     (53)C0935  3 
+ 1001  1001   4   2  C 2425000.          0.753110 1.6568-3 0.939693                              H.R.Worthington+     (53)C0935  3 
+ 1001  1001   4   2  C 2425000.          0.377870 1.0958-3 0.913545                              H.R.Worthington+     (53)C0935  3 
+ 1001  1001   4   2  C 2425000.          0.204530 3.0680-4 0.866025                              H.R.Worthington+     (53)C0935  3 
+ 1001  1001   4   2  C 2425000.          0.162730 3.5801-4 0.819152                              H.R.Worthington+     (53)C0935  3 
+ 1001  1001   4   2  C 2425000.          0.149220 4.1782-4 0.766044                              H.R.Worthington+     (53)C0935  3 
+ 1001  1001   4   2  C 2425000.          0.146730 3.8150-4 0.642788                              H.R.Worthington+     (53)C0935  3 
+ 1001  1001   4   2  C 2425000.          0.150640 3.4647-4 0.500000                              H.R.Worthington+     (53)C0935  3 
+ 1001  1001   4   2  C 2425000.          0.154670 3.2481-4 0.342020                              H.R.Worthington+     (53)C0935  3 
+ 1001  1001   4   2  C 2425000.          0.157080 3.1416-4 0.173648                              H.R.Worthington+     (53)C0935  3 
+ 1001  1001   4   2  C 2425000.          0.156860 3.7646-4 6.123-17                              H.R.Worthington+     (53)C0935  3 
+ 1001  1001   4   2  C 2425000.          0.156040 4.3691-4-0.173648                              H.R.Worthington+     (53)C0935  3 
+ 1001  1001   4   2  C 2425000.          0.154500 5.7165-4-0.342020                              H.R.Worthington+     (53)C0935  3 
+ 1001  1001   4   2  C 2425000.          0.150120 7.3559-4-0.500000                              H.R.Worthington+     (53)C0935  3 
+#/DATA      15
+#/DATASET

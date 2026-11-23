@@ -1,0 +1,36 @@
+#ENTRY      C2972
+#AUTHOR1    K-U.Kettner+
+#YEAR       2023
+#INSTITUTE  (1USANOT)
+#TITLE      Absolute cross section of the 12C(p,gamma)13N reaction
+#AUTHOR(S)  K-U.Kettner, H.W.Becker, C.R.Brune, R.J.deBoer, J.Gorres, 
+#+          D.Odell, D.Rogalla, M.Wiescher
+#REF-CODE   (J,PR/C,108,035805,2023)
+#REFERENCE  Phys.Rev.C 108 (2023) 035805
+#DATASETS   0
+#
+#DATASET    C2972003 
+#DATE       20241212
+#REACTION   6-C-12(P,G)7-N-13,,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         102
+#PRODUCT    7-N-13
+#C4BEGIN    [ 1001  6012   4 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 102 A  1495000.          8.5100-8 2.1800-9 1.000000                              K-U.Kettner+         (23)C2972  3 
+ 1001  6012   4 102 A  1495000.          8.5800-8 2.0300-9 0.965926                              K-U.Kettner+         (23)C2972  3 
+ 1001  6012   4 102 A  1495000.          9.6100-8 2.2500-9 0.866025                              K-U.Kettner+         (23)C2972  3 
+ 1001  6012   4 102 A  1495000.          9.6800-8 2.2000-9 0.707107                              K-U.Kettner+         (23)C2972  3 
+ 1001  6012   4 102 A  1495000.          1.0000-7 2.5700-9 0.573576                              K-U.Kettner+         (23)C2972  3 
+ 1001  6012   4 102 A  1495000.          9.8900-8 2.2800-9 0.500000                              K-U.Kettner+         (23)C2972  3 
+ 1001  6012   4 102 A  1495000.          9.4100-8 2.2800-9 0.258819                              K-U.Kettner+         (23)C2972  3 
+ 1001  6012   4 102 A  1495000.          8.4400-8 2.2900-9 6.123-17                              K-U.Kettner+         (23)C2972  3 
+ 1001  6012   4 102 A  1495000.          7.8100-8 2.3700-9-0.342020                              K-U.Kettner+         (23)C2972  3 
+ 1001  6012   4 102 A  1495000.          7.4000-8 2.1400-9-0.500000                              K-U.Kettner+         (23)C2972  3 
+ 1001  6012   4 102 A  1495000.          6.0000-8 2.1400-9-0.642788                              K-U.Kettner+         (23)C2972  3 
+#/DATA      11
+#/DATASET

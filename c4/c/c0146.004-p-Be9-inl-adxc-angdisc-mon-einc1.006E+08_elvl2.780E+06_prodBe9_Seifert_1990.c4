@@ -1,0 +1,35 @@
+#ENTRY      C0146
+#AUTHOR1    H.Seifert+
+#YEAR       1990
+#INSTITUTE  (1USAMRY)
+#TITLE      Energy dependence of the effective interaction for
+#+          nucleon-nucleus scattering.
+#AUTHOR(S)  H.Seifert
+#REF-CODE   (T,SEIFERT,1990)
+#REFERENCE  Thesis  (1990)
+#DATASETS   0
+#
+#DATASET    C0146004 
+#DATE       20010102
+#REACTION   4-BE-9(P,INL)4-BE-9,PAR,DA
+#PROJ       1001
+#TARG       4009
+#MF         4
+#MT         601
+#PRODUCT    4-BE-9
+#C4BEGIN    [ 1001  4009   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   4 601  C 1.0060+8          1.6220-4 1.1586-4 0.890213          2780000.         LVLH.Seifert            (90)C0146  4 
+ 1001  4009   4 601  C 1.0060+8          1.3130-4 9.6217-5 0.871556          2780000.         LVLH.Seifert            (90)C0146  4 
+ 1001  4009   4 601  C 1.0060+8          1.1580-4 4.5313-5 0.830984          2780000.         LVLH.Seifert            (90)C0146  4 
+ 1001  4009   4 601  C 1.0060+8          5.2680-5 1.8401-5 0.785641          2780000.         LVLH.Seifert            (90)C0146  4 
+ 1001  4009   4 601  C 1.0060+8          4.7290-5 2.9656-5 0.736333          2780000.         LVLH.Seifert            (90)C0146  4 
+ 1001  4009   4 601  C 1.0060+8          7.6690-5 1.0253-5 0.682636          2780000.         LVLH.Seifert            (90)C0146  4 
+ 1001  4009   4 601  C 1.0060+8          5.9170-5 1.0278-5 0.625243          2780000.         LVLH.Seifert            (90)C0146  4 
+ 1001  4009   4 601  C 1.0060+8          5.7490-5 2.2346-5 0.563670          2780000.         LVLH.Seifert            (90)C0146  4 
+ 1001  4009   4 601  C 1.0060+8          2.0820-5 3.2063-6 0.435231          2780000.         LVLH.Seifert            (90)C0146  4 
+ 1001  4009   4 601  C 1.0060+8          8.4120-6 5.9220-7 0.227841          2780000.         LVLH.Seifert            (90)C0146  4 
+#/DATA      10
+#/DATASET

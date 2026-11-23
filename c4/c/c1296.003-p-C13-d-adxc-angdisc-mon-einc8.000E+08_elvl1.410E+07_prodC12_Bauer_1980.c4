@@ -1,0 +1,36 @@
+#ENTRY      C1296
+#AUTHOR1    T.S.Bauer+
+#YEAR       1980
+#INSTITUTE  (1USACLA)
+#TITLE      7Li and 13C(p,d) reactions at Tp=800 MeV
+#AUTHOR(S)  T.S.Bauer, G.S.Adams, G.J.Igo, G.Pauletta, C.A.Whitten, 
+#+          G.R.Smith, J.R.Shepard, R.E.Anderson, R.L.Boudrie, N.J.DiGiacomo, 
+#+          J.J.Kraushaar, R.J.Peterson, G.Hoffmann
+#REF-CODE   (J,PR/C,21,757,1980)
+#REFERENCE  Phys.Rev.C 21 (1980) 757
+#DATASETS   0
+#
+#DATASET    C1296003 
+#DATE       20050805
+#REACTION   6-C-13(P,D)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       6013
+#MF         4
+#MT         650
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6013   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6013   4 650  C 8.0000+8          1.4200-6          0.997813          1.4100+7         LVLT.S.Bauer+           (80)C1296  3 
+ 1001  6013   4 650  C 8.0000+8          1.2300-6          0.995295          1.4100+7         LVLT.S.Bauer+           (80)C1296  3 
+ 1001  6013   4 650  C 8.0000+8          1.2900-6          0.988809          1.4100+7         LVLT.S.Bauer+           (80)C1296  3 
+ 1001  6013   4 650  C 8.0000+8          7.3600-7          0.982613          1.4100+7         LVLT.S.Bauer+           (80)C1296  3 
+ 1001  6013   4 650  C 8.0000+8          3.6400-7          0.970716          1.4100+7         LVLT.S.Bauer+           (80)C1296  3 
+ 1001  6013   4 650  C 8.0000+8          1.7500-7          0.954761          1.4100+7         LVLT.S.Bauer+           (80)C1296  3 
+ 1001  6013   4 650  C 8.0000+8          6.8600-8          0.933580          1.4100+7         LVLT.S.Bauer+           (80)C1296  3 
+ 1001  6013   4 650  C 8.0000+8          2.6200-8          0.910684          1.4100+7         LVLT.S.Bauer+           (80)C1296  3 
+ 1001  6013   4 650  C 8.0000+8          4.7100-9 1.3900-9 0.871214          1.4100+7         LVLT.S.Bauer+           (80)C1296  3 
+ 1001  6013   4 650  C 8.0000+8          1.0400-9 4.420-10 0.820152          1.4100+7         LVLT.S.Bauer+           (80)C1296  3 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      C0441
+#AUTHOR1    B.D.Anderson+
+#YEAR       1996
+#INSTITUTE  (1USAINU)
+#TITLE      12C(p,n)12N reaction at 135 MeV
+#AUTHOR(S)  B.D.Anderson, L.A.C.Garcia, D.J.Millener, D.M.Manley, A.R.Baldwin, 
+#+          A.Fazely, R.Madey, N.Tamimi, J.W.Watson, C.C.Foster
+#REF-CODE   (J,PR/C,54,237,9607)
+#REFERENCE  Phys.Rev.C 54 (1996) 237
+#DATASETS   0
+#
+#DATASET    C0441002 
+#DATE       19961223
+#REACTION   6-C-12(P,N)7-N-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         50
+#PRODUCT    7-N-12
+#C4BEGIN    [ 1001  6012   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4  50  C 1.3500+8          3.8070-4 2.6310-5 0.999994          8200000.         LVLB.D.Anderson+        (96)C0441  2 
+ 1001  6012   4  50  C 1.3500+8          5.5060-4 2.8730-5 0.993312          8200000.         LVLB.D.Anderson+        (96)C0441  2 
+ 1001  6012   4  50  C 1.3500+8          3.5870-4 3.4070-5 0.974252          8200000.         LVLB.D.Anderson+        (96)C0441  2 
+ 1001  6012   4  50  C 1.3500+8          1.5780-4 2.7690-5 0.940526          8200000.         LVLB.D.Anderson+        (96)C0441  2 
+ 1001  6012   4  50  C 1.3500+8          2.9670-5 1.2350-5 0.895323          8200000.         LVLB.D.Anderson+        (96)C0441  2 
+#/DATA      5
+#/DATASET

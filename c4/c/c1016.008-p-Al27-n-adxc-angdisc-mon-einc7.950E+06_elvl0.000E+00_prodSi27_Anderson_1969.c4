@@ -1,0 +1,30 @@
+#ENTRY      C1016
+#AUTHOR1    J.D.Anderson+
+#YEAR       1969
+#INSTITUTE  (1USALRL)
+#TITLE      Effective Two-Body Force Inferred from the (p,n)
+#+          Reaction on 17O,18O,27Al, and Other Light Nuclei
+#AUTHOR(S)  J.D.Anderson, S.D.Bloom, C.Wong, W.F.Hornyak, V.A.Madsen
+#REF-CODE   (J,PR,177,1416,1969)
+#REFERENCE  Phys.Rev. 177 (1969) 1416
+#DATASETS   0
+#
+#DATASET    C1016008 
+#DATE       20040407
+#REACTION   13-AL-27(P,N)14-SI-27,PAR,DA
+#PROJ       1001
+#TARG       13027
+#MF         4
+#MT         50
+#PRODUCT    14-SI-27
+#C4BEGIN    [ 1001 13027   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   4  50  C 7950000.          3.6900-3          0.952000          0.000000         LVLJ.D.Anderson+        (69)C1016  8 
+ 1001 13027   4  50  C 7950000.          3.4300-3 2.8000-4 0.845000          0.000000         LVLJ.D.Anderson+        (69)C1016  8 
+ 1001 13027   4  50  C 7950000.          3.4800-3          0.654000          0.000000         LVLJ.D.Anderson+        (69)C1016  8 
+ 1001 13027   4  50  C 7950000.          2.4200-3          0.440000          0.000000         LVLJ.D.Anderson+        (69)C1016  8 
+ 1001 13027   4  50  C 7950000.          2.3500-3          0.167000          0.000000         LVLJ.D.Anderson+        (69)C1016  8 
+#/DATA      5
+#/DATASET

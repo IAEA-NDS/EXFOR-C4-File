@@ -1,0 +1,30 @@
+#ENTRY      C0860
+#AUTHOR1    R.J.S.Brown+
+#YEAR       1952
+#INSTITUTE  (1USAMIN)
+#TITLE      Differential Cross Section Measurements for the
+#+          Scattering of Protons by Deuterons
+#AUTHOR(S)  R.J.S.Brown, G.D.Frier, H.D.Holmgren, W.R.Stratton, J.L.Yarnell
+#REF-CODE   (J,PR,88,253,195210)
+#REFERENCE  Phys.Rev. 88 (1952) 253
+#DATASETS   0
+#
+#DATASET    C0860002 
+#DATE       20011207
+#REACTION   1-H-1(D,EL)1-H-1,,DA
+#PROJ       1002
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1002  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1001   4   2  C 3220000.          0.581000         -0.356738                              R.J.S.Brown+         (52)C0860  2 
+ 1002  1001   4   2  C 3220000.          0.523000         -0.173648                              R.J.S.Brown+         (52)C0860  2 
+ 1002  1001   4   2  C 3220000.          0.512000          6.123-17                              R.J.S.Brown+         (52)C0860  2 
+ 1002  1001   4   2  C 3220000.          0.512000          0.166769                              R.J.S.Brown+         (52)C0860  2 
+ 1002  1001   4   2  C 3220000.          0.557000          0.384295                              R.J.S.Brown+         (52)C0860  2 
+#/DATA      5
+#/DATASET

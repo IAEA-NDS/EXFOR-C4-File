@@ -1,0 +1,35 @@
+#ENTRY      C0553
+#AUTHOR1    S.K.Nanda+
+#YEAR       1983
+#INSTITUTE  (1USARUT)
+#TITLE      Fine Structure and Spin Excitation in the Giant
+#+          Resonance Region of 90Zr
+#AUTHOR(S)  S.K.Nanda, C.Glashausser, K.W.Jones, J.A.McGill, T.A.Carey, 
+#+          J.B.McClelland, J.M.Moss, S.J.Seestrom-Morris, H.Ohnuma, 
+#+          M.Franey, M.Gazzaly, N.Hintz
+#REF-CODE   (J,PRL,51,1526,1983)
+#REFERENCE  Phys.Rev.Lett. 51 (1983) 1526
+#DATASETS   0
+#
+#DATASET    C0553007 
+#DATE       19990907
+#REACTION   40-ZR-90(P,INL)40-ZR-90,PAR,DA
+#PROJ       1001
+#TARG       40090
+#MF         4
+#MT         601
+#PRODUCT    40-ZR-90
+#C4BEGIN    [ 1001 40090   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40090   4 601 AC 3.1900+8          8.6100-3          0.999276          1.1000+7 1000000.LVLS.K.Nanda+           (83)C0553  7 
+ 1001 40090   4 601 AC 3.1900+8          8.8000-3          0.998978          1.1000+7 1000000.LVLS.K.Nanda+           (83)C0553  7 
+ 1001 40090   4 601 AC 3.1900+8          8.5400-3          0.998639          1.1000+7 1000000.LVLS.K.Nanda+           (83)C0553  7 
+ 1001 40090   4 601 AC 3.1900+8          7.4200-3          0.998240          1.1000+7 1000000.LVLS.K.Nanda+           (83)C0553  7 
+ 1001 40090   4 601 AC 3.1900+8          5.8700-3          0.997916          1.1000+7 1000000.LVLS.K.Nanda+           (83)C0553  7 
+ 1001 40090   4 601 AC 3.1900+8          5.3000-3          0.997428          1.1000+7 1000000.LVLS.K.Nanda+           (83)C0553  7 
+ 1001 40090   4 601 AC 3.1900+8          5.6500-3          0.996890          1.1000+7 1000000.LVLS.K.Nanda+           (83)C0553  7 
+ 1001 40090   4 601 AC 3.1900+8          5.8200-3          0.996315          1.1000+7 1000000.LVLS.K.Nanda+           (83)C0553  7 
+#/DATA      8
+#/DATASET

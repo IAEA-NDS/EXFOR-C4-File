@@ -1,0 +1,30 @@
+#ENTRY      C1302
+#AUTHOR1    L.R.Medsker+
+#YEAR       1987
+#INSTITUTE  (1USAPEN)
+#TITLE      112Cd from 110Cd(t,p)
+#AUTHOR(S)  L.R.Medsker, H.T.Fortune, J.D.Zumbro, C.P.Browne, J.F.Mateja
+#REF-CODE   (J,PR/C,36,1785,1987)
+#REFERENCE  Phys.Rev.C 36 (1987) 1785
+#DATASETS   0
+#
+#DATASET    C1302002 
+#DATE       20050808
+#REACTION   48-CD-110(T,P)48-CD-112,PAR,DA
+#PROJ       1003
+#TARG       48110
+#MF         4
+#MT         600
+#PRODUCT    48-CD-112
+#C4BEGIN    [ 1003 48110   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 48110   4 600  C 1.5000+7          3.2200-6 7.6500-7 0.996666          2162000.         LVLL.R.Medsker+         (87)C1302  2 
+ 1003 48110   4 600  C 1.5000+7          1.0500-5          0.979925          2162000.         LVLL.R.Medsker+         (87)C1302  2 
+ 1003 48110   4 600  C 1.5000+7          1.1700-5          0.943801          2162000.         LVLL.R.Medsker+         (87)C1302  2 
+ 1003 48110   4 600  C 1.5000+7          6.9900-6 1.1200-6 0.887815          2162000.         LVLL.R.Medsker+         (87)C1302  2 
+ 1003 48110   4 600  C 1.5000+7          2.3400-6 4.9500-7 0.305695          2162000.         LVLL.R.Medsker+         (87)C1302  2 
+ 1003 48110   4 600  C 1.5000+7          5.2200-7 1.9600-7 0.062791          2162000.         LVLL.R.Medsker+         (87)C1302  2 
+#/DATA      6
+#/DATASET

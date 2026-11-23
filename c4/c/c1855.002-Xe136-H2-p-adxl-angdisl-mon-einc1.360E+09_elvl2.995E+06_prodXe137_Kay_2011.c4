@@ -1,0 +1,28 @@
+#ENTRY      C1855
+#AUTHOR1    B.P.Kay+
+#YEAR       2011
+#INSTITUTE  (1USAANL)
+#TITLE      Single-neutron energies outside 136Xe
+#AUTHOR(S)  B.P.Kay, J.P.Schiffer, S.J.Freeman, C.R.Hoffman, B.B.Back, 
+#+          S.I.Baker, S.Bedoor, T.Bloxham, J.A.Clark, C.M.Deibel, A.M.Howard, 
+#+          J.C.Lighthall, S.T.Marley, K.E.Rehm, D.K.Sharp, D.V.Shetty, 
+#+          J.S.Thomas, A.H.Wuosmaa
+#REF-CODE   (J,PR/C,84,024325,2011)
+#REFERENCE  Phys.Rev.C 84 (2011) 024325
+#DATASETS   0
+#
+#DATASET    C1855002 
+#DATE       20110924
+#REACTION   1-H-2(54-XE-136,P)54-XE-137,PAR,DA
+#PROJ       54136
+#TARG       1002
+#MF         4
+#MT         600
+#PRODUCT    54-XE-137
+#C4BEGIN    [54136  1002   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+54136  1002   4 600    1.3600+9          1.4000-3 2.1000-4 0.933580          2995000.         LVLB.P.Kay+             (11)C1855  2 
+#/DATA      1
+#/DATASET

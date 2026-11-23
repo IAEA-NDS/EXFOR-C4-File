@@ -1,0 +1,38 @@
+#ENTRY      C1140
+#AUTHOR1    D.W.Bardayan+
+#YEAR       2003
+#INSTITUTE  (1USAORL)
+#TITLE      Study of 26Si States Important for 26Al
+#+          Nucleosynthesis in Novae
+#AUTHOR(S)  D.W.Bardayan, J.C.Blackmon, A.E.Champagne, A.K.Dummer, T.Davinson, 
+#+          U.Greife, D.Hill, B.A.Jonhson, R.L.Kozub, C.S.Lee, M.S.Smith, 
+#+          P.J.Woods
+#REF-CODE   (J,NP/A,718,505,2003)
+#REFERENCE  Nucl.Phys.A 718 (2003) 505
+#DATASETS   0
+#
+#DATASET    C1140002 
+#DATE       20050119
+#REACTION   14-SI-28(P,T)14-SI-26,PAR,DA
+#PROJ       1001
+#TARG       14028
+#MF         4
+#MT         700
+#PRODUCT    14-SI-26
+#C4BEGIN    [ 1001 14028   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 14028   4 700  C 4.1000+7 1000000. 1.1830-5          0.837337          7687000.         LVLD.W.Bardayan+        (03)C1140  2 
+ 1001 14028   4 700  C 4.1000+7 1000000. 1.1710-5          0.789620          7687000.         LVLD.W.Bardayan+        (03)C1140  2 
+ 1001 14028   4 700  C 4.1000+7 1000000. 9.9350-6          0.770513          7687000.         LVLD.W.Bardayan+        (03)C1140  2 
+ 1001 14028   4 700  C 4.1000+7 1000000. 9.2940-6          0.728969          7687000.         LVLD.W.Bardayan+        (03)C1140  2 
+ 1001 14028   4 700  C 4.1000+7 1000000. 7.6800-6          0.682764          7687000.         LVLD.W.Bardayan+        (03)C1140  2 
+ 1001 14028   4 700  C 4.1000+7 1000000. 5.8390-6          0.642921          7687000.         LVLD.W.Bardayan+        (03)C1140  2 
+ 1001 14028   4 700  C 4.1000+7 1000000. 4.2060-6          0.578427          7687000.         LVLD.W.Bardayan+        (03)C1140  2 
+ 1001 14028   4 700  C 4.1000+7 1000000. 3.6210-6          0.530511          7687000.         LVLD.W.Bardayan+        (03)C1140  2 
+ 1001 14028   4 700  C 4.1000+7 1000000. 4.2210-6          0.497882          7687000.         LVLD.W.Bardayan+        (03)C1140  2 
+ 1001 14028   4 700  C 4.1000+7 1000000. 3.8930-6          0.448227          7687000.         LVLD.W.Bardayan+        (03)C1140  2 
+ 1001 14028   4 700  C 4.1000+7 1000000. 2.8800-6          0.399549          7687000.         LVLD.W.Bardayan+        (03)C1140  2 
+#/DATA      11
+#/DATASET

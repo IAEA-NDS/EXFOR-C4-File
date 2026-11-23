@@ -1,0 +1,32 @@
+#ENTRY      C3104
+#AUTHOR1    M.Spieker+
+#YEAR       2025
+#INSTITUTE  (1USAFSU)
+#TITLE      Experimental study of 53Cr via the (d,pgamma) reaction
+#AUTHOR(S)  M.Spieker, L.A.Riley, M.Heinze, A.L.Conley, B.Kelly, P.D.Cottle, 
+#+          R.Aggarwal, S.Ajayi, L.T.Baby, S.Baker, I.Conroy, I.B.D'Amato, 
+#+          J.Esparza, S.Genty, I.Hay, K.W.Kemper, M.I.Khawaja, P.S.Kielb, 
+#+          A.N.Kuchera, E.Lopez-Saavedra, A.B.Morelock, J.Piekarewicz, 
+#+          A.Sandrik, V.Sitaraman, E.Temanson, C.Wibisono, I.Wiedenhoever
+#REF-CODE   (J,PR/C,112,064331,2025)
+#REFERENCE  Phys.Rev.C 112 (2025) 064331
+#DATASETS   0
+#
+#DATASET    C3104002 
+#DATE       20260219
+#REACTION   24-CR-52(D,P)24-CR-53,PAR,DA
+#PROJ       1002
+#TARG       24052
+#MF         4
+#MT         600
+#PRODUCT    24-CR-53
+#C4BEGIN    [ 1002 24052   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 24052   4 600 A  1.6000+7          5.8280-4 3.4500-5 0.906308          7175000.         LVLM.Spieker+           (25)C3104  2 
+ 1002 24052   4 600 A  1.6000+7          3.8900-4 1.3000-5 0.819152          7175000.         LVLM.Spieker+           (25)C3104  2 
+ 1002 24052   4 600 A  1.6000+7          3.3300-4 1.7000-5 0.766044          7175000.         LVLM.Spieker+           (25)C3104  2 
+ 1002 24052   4 600 A  1.6000+7          2.0700-4 8.0000-6 0.707107          7175000.         LVLM.Spieker+           (25)C3104  2 
+#/DATA      4
+#/DATASET

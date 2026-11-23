@@ -1,0 +1,34 @@
+#ENTRY      C0370
+#AUTHOR1    P.C.Stevenson+
+#YEAR       1958
+#INSTITUTE  (1USALRL)
+#TITLE      Further radiochemical studies of the high-energy
+#+          fission products
+#AUTHOR(S)  P.C.Stevenson, H.G.Hicks, W.E.Nervik, D.R.Nethaway
+#REF-CODE   (J,PR,111,886,1958)
+#REFERENCE  Phys.Rev. 111 (1958) 886
+#DATASETS   0
+#
+#DATASET    C0370003 
+#DATE       19871228
+#REACTION   92-U-238(P,F)ELEM/MASS,CUM,SIG
+#PROJ       1001
+#TARG       92238
+#MF         3
+#MT         459
+#C4BEGIN    [ 1001 92238   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92238   3 459    3.4000+8          0.032000                    39091.9                     P.C.Stevenson+       (58)C0370  3 
+ 1001 92238   3 459    3.4000+8          0.038000                    39093.9                     P.C.Stevenson+       (58)C0370  3 
+ 1001 92238   3 459    3.4000+8          0.059000                    42099.9                     P.C.Stevenson+       (58)C0370  3 
+ 1001 92238   3 459    3.4000+8          0.031000                    58141.9                     P.C.Stevenson+       (58)C0370  3 
+ 1001 92238   3 459    3.4000+8          0.020000                    58143.9                     P.C.Stevenson+       (58)C0370  3 
+ 1001 92238   3 459    3.4000+8          0.014000                    58144.9                     P.C.Stevenson+       (58)C0370  3 
+ 1001 92238   3 459    3.4000+8          9.7000-3                    60147.9                     P.C.Stevenson+       (58)C0370  3 
+ 1001 92238   3 459    3.4000+8          2.0000-3                    62153.9                     P.C.Stevenson+       (58)C0370  3 
+ 1001 92238   3 459    3.4000+8          1.2200-3                    63156.9                     P.C.Stevenson+       (58)C0370  3 
+ 1001 92238   3 459    3.4000+8          4.0000-4                    63157.9                     P.C.Stevenson+       (58)C0370  3 
+#/DATA      10
+#/DATASET

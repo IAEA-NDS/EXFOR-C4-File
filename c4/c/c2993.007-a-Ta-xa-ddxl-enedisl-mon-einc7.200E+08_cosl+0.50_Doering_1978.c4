@@ -1,0 +1,40 @@
+#ENTRY      C2993
+#AUTHOR1    R.R.Doering+
+#YEAR       1978
+#INSTITUTE  (1USAVIR)
+#TITLE      Correlated energy spectra of light fragments from
+#+          720-MeV alpha-induced reactions
+#AUTHOR(S)  R.R.Doering, T.C.Schweizer, S.T.Thornton, L.C.Dennis, K.R.Cordell, 
+#+          K.O.H.Ziock, J.C.Comiso
+#REF-CODE   (J,PRL,40,1433,1978)
+#REFERENCE  Phys.Rev.Lett. 40 (1978) 1433
+#DATASETS   0
+#
+#DATASET    C2993007 
+#DATE       20240929
+#REACTION   73-TA-0(A,X)2-HE-4,,DA/DE
+#PROJ       2004
+#TARG       73000
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 2004 73000   6 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 73000   6 207    7.2000+8          9.727-10          0.500000          3.3210+7          E2R.R.Doering+         (78)C2993  7 
+ 2004 73000   6 207    7.2000+8          4.658-10          0.500000          4.3723+7          E2R.R.Doering+         (78)C2993  7 
+ 2004 73000   6 207    7.2000+8          2.305-10          0.500000          5.9106+7          E2R.R.Doering+         (78)C2993  7 
+ 2004 73000   6 207    7.2000+8          7.334-11          0.500000          7.9404+7          E2R.R.Doering+         (78)C2993  7 
+ 2004 73000   6 207    7.2000+8          3.291-11          0.500000          1.0036+8          E2R.R.Doering+         (78)C2993  7 
+ 2004 73000   6 207    7.2000+8          1.526-11          0.500000          1.1993+8          E2R.R.Doering+         (78)C2993  7 
+ 2004 73000   6 207    7.2000+8          5.358-12          0.500000          1.4927+8          E2R.R.Doering+         (78)C2993  7 
+ 2004 73000   6 207    7.2000+8          2.292-12 4.523-13 0.500000          1.9042+8          E2R.R.Doering+         (78)C2993  7 
+ 2004 73000   6 207    7.2000+8          8.883-13          0.500000          2.3019+8          E2R.R.Doering+         (78)C2993  7 
+ 2004 73000   6 207    7.2000+8          3.862-13          0.500000          2.6994+8          E2R.R.Doering+         (78)C2993  7 
+ 2004 73000   6 207    7.2000+8          1.425-13 2.815-14 0.500000          3.1250+8          E2R.R.Doering+         (78)C2993  7 
+ 2004 73000   6 207    7.2000+8          3.493-14 9.724-15 0.500000          3.5162+8          E2R.R.Doering+         (78)C2993  7 
+ 2004 73000   6 207    7.2000+8          2.324-14 6.961-15 0.500000          3.9203+8          E2R.R.Doering+         (78)C2993  7 
+ 2004 73000   6 207    7.2000+8          7.283-15 3.685-15 0.500000          4.3182+8          E2R.R.Doering+         (78)C2993  7 
+#/DATA      14
+#/DATASET

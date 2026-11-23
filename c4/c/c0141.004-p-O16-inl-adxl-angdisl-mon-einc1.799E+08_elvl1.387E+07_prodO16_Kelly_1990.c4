@@ -1,0 +1,39 @@
+#ENTRY      C0141
+#AUTHOR1    J.J.Kelly+
+#YEAR       1990
+#INSTITUTE  (1USAINU)
+#TITLE      Effective interactions and nuclear structure using
+#+          180 MeV protons. I. 16O(p,p')
+#AUTHOR(S)  J.J.Kelly, J.M.Finn, W.Bertozzi, T.N.Buti, F.W.Hersman, 
+#+          C.Hyde-Wright, M.V.Hynes, M.A.Kovash, B.Murdock, P.Ulmer, 
+#+          A.D.Bacher, G.T.Emery, C.C.Foster, W.P.Jones, D.W.Miller, 
+#+          B.L.Berman
+#REF-CODE   (J,PR/C,41,2504,9006)
+#REFERENCE  Phys.Rev.C 41 (1990) 2504
+#DATASETS   0
+#
+#DATASET    C0141004 
+#DATE       19970410
+#REACTION   8-O-16(P,INL)8-O-16,PAR,DA
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         601
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  8016   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4 601 A  1.7990+8          5.9710-5 6.3054-6 0.943454 5.7858-4 1.3870+7         LVLJ.J.Kelly+           (90)C0141  4 
+ 1001  8016   4 601 A  1.7990+8          6.3620-5 5.0578-6 0.916013 7.0014-4 1.3870+7         LVLJ.J.Kelly+           (90)C0141  4 
+ 1001  8016   4 601 A  1.7990+8          6.3140-5 7.6021-6 0.883521 8.1750-4 1.3870+7         LVLJ.J.Kelly+           (90)C0141  4 
+ 1001  8016   4 601 A  1.7990+8          9.9670-5 4.3755-6 0.846193 9.3004-4 1.3870+7         LVLJ.J.Kelly+           (90)C0141  4 
+ 1001  8016   4 601 A  1.7990+8          9.2280-5 3.8388-6 0.798741 1.0501-3 1.3870+7         LVLJ.J.Kelly+           (90)C0141  4 
+ 1001  8016   4 601 A  1.7990+8          8.0960-5 1.1496-6 0.758134 1.1381-3 1.3870+7         LVLJ.J.Kelly+           (90)C0141  4 
+ 1001  8016   4 601 A  1.7990+8          6.0220-5 8.6115-7 0.694784 1.2553-3 1.3870+7         LVLJ.J.Kelly+           (90)C0141  4 
+ 1001  8016   4 601 A  1.7990+8          3.4530-5 1.9406-6 0.653949 1.3204-3 1.3870+7         LVLJ.J.Kelly+           (90)C0141  4 
+ 1001  8016   4 601 A  1.7990+8          1.6300-5 7.5632-7 0.589337 1.4100-3 1.3870+7         LVLJ.J.Kelly+           (90)C0141  4 
+ 1001  8016   4 601 A  1.7990+8          8.2870-6 4.0523-7 0.528883 1.4813-3 1.3870+7         LVLJ.J.Kelly+           (90)C0141  4 
+ 1001  8016   4 601 A  1.7990+8          3.9750-6 2.9137-7 0.489687 1.5217-3 1.3870+7         LVLJ.J.Kelly+           (90)C0141  4 
+#/DATA      11
+#/DATASET

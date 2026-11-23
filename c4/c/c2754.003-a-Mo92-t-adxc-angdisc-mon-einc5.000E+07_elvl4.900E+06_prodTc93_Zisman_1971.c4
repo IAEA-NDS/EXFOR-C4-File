@@ -1,0 +1,33 @@
+#ENTRY      C2754
+#AUTHOR1    M.S.Zisman+
+#YEAR       1971
+#INSTITUTE  (1USABRK)
+#TITLE      High-spin proton states observed in the reactions
+#+          90Zr(alpha,t)91Nb and 92Mo(alpha,t)93Tc at 50 MeV
+#AUTHOR(S)  M.S.Zisman, B.G.Harvey
+#REF-CODE   (J,PR/C,4,1809,1971)
+#REFERENCE  Phys.Rev.C 4 (1971) 1809
+#DATASETS   0
+#
+#DATASET    C2754003 
+#DATE       20220601
+#REACTION   42-MO-92(A,T)43-TC-93,PAR,DA
+#PROJ       2004
+#TARG       42092
+#MF         4
+#MT         700
+#PRODUCT    43-TC-93
+#C4BEGIN    [ 2004 42092   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 42092   4 700  C 5.0000+7          3.2340-4          0.960167          4900000.         LVLM.S.Zisman+          (71)C2754  3 
+ 2004 42092   4 700  C 5.0000+7          1.9410-4          0.935018          4900000.         LVLM.S.Zisman+          (71)C2754  3 
+ 2004 42092   4 700  C 5.0000+7          1.5420-4 1.1980-5 0.897428          4900000.         LVLM.S.Zisman+          (71)C2754  3 
+ 2004 42092   4 700  C 5.0000+7          8.0640-5 6.2730-6 0.851846          4900000.         LVLM.S.Zisman+          (71)C2754  3 
+ 2004 42092   4 700  C 5.0000+7          6.3680-5 5.6780-6 0.834608          4900000.         LVLM.S.Zisman+          (71)C2754  3 
+ 2004 42092   4 700  C 5.0000+7          4.7820-5 3.7100-6 0.804334          4900000.         LVLM.S.Zisman+          (71)C2754  3 
+ 2004 42092   4 700  C 5.0000+7          1.8680-5 2.7910-6 0.682675          4900000.         LVLM.S.Zisman+          (71)C2754  3 
+ 2004 42092   4 700  C 5.0000+7          9.5920-6 2.1880-6 0.615235          4900000.         LVLM.S.Zisman+          (71)C2754  3 
+#/DATA      8
+#/DATASET

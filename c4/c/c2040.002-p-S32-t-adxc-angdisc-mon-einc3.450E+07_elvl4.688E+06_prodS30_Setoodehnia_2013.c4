@@ -1,0 +1,36 @@
+#ENTRY      C2040
+#AUTHOR1    K.Setoodehnia+
+#YEAR       2013
+#INSTITUTE  (1CANMCM)
+#TITLE      Nuclear structure of 30S and its implications for
+#+          nucleosynthesis in classical novae
+#AUTHOR(S)  K.Setoodehnia, A.A.Chen, D.Kahl, T.Komatsubara, J.Jose, 
+#+          R.Longland, Y.Abe, D.N.Binh, J.Chen, S.Cherubini, J.A.Clark, 
+#+          C.M.Deibel, S.Fukuoka, T.Hashimoto, T.Hayakawa, J.Hendriks, 
+#+          Y.Ishibashi, Y.Ito, S.Kubono, W.N.Lennard, T.Moriguchi, 
+#+          D.Nagae, R.Nishikiori, T.Niwa, A.Ozawa, P.D.Parker, D.Seiler, 
+#+          T.Shizuma, H.Suzuki, C.Wrede, H.Yamaguchi, T.Yuasa
+#REF-CODE   (J,PR/C,87,065801,2013)
+#REFERENCE  Phys.Rev.C 87 (2013) 065801
+#DATASETS   0
+#
+#DATASET    C2040002 
+#DATE       20130724
+#REACTION   16-S-32(P,T)16-S-30,PAR,DA
+#PROJ       1001
+#TARG       16032
+#MF         4
+#MT         700
+#PRODUCT    16-S-30
+#C4BEGIN    [ 1001 16032   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 16032   4 700  C 3.4500+7          1.0900-6 1.6000-7 0.981360          4688000.         LVLK.Setoodehnia+       (13)C2040  2 
+ 1001 16032   4 700  C 3.4500+7          1.9300-6 2.3000-7 0.926332          4688000.         LVLK.Setoodehnia+       (13)C2040  2 
+ 1001 16032   4 700  C 3.4500+7          2.1200-6 2.5000-7 0.911116          4688000.         LVLK.Setoodehnia+       (13)C2040  2 
+ 1001 16032   4 700  C 3.4500+7          1.8300-6 7.0000-8 0.862690          4688000.         LVLK.Setoodehnia+       (13)C2040  2 
+ 1001 16032   4 700  C 3.4500+7          5.3000-7 6.0000-8 0.650509          4688000.         LVLK.Setoodehnia+       (13)C2040  2 
+ 1001 16032   4 700  C 3.4500+7          5.5000-7 9.0000-8 0.382361          4688000.         LVLK.Setoodehnia+       (13)C2040  2 
+#/DATA      6
+#/DATASET

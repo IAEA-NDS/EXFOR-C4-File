@@ -1,0 +1,53 @@
+#ENTRY      C2767
+#AUTHOR1    B.Vande Kolk+
+#YEAR       2022
+#INSTITUTE  (1USANOT)
+#TITLE      Investigation of the 10B(p,a)7Be reaction from 0.8
+#+          to 2.0 MeV
+#AUTHOR(S)  B.Vande Kolk, K.T.Macon, R.J.deBoer, T.Anderson, A.Boeltzig, 
+#+          K.Brandenburg, C.R.Brune, Y.Chen, A.M.Clark, T.Danley, B.Frentz, 
+#+          R.Giri, J.Gorres, M.Hall, S.L.Henderson, E.Holmbeck, K.B.Howard, 
+#+          D.Jacobs, J.Lai, Q.Liu, J.Long, K.Manukyan, T.Massey, M.Moran, 
+#+          L.Morales, D.Odell, P.O'Malley, S.N.Paneru, A.Richard, D.Schneider, 
+#+          M.Skulski, N.Sensharma, C.Seymour, G.Seymour, D.Soltesz, 
+#+          S.Strauss, A.Voinov, L.Wustrich, M.Wiescher
+#REF-CODE   (J,PR/C,105,055802,2022)
+#REFERENCE  Phys.Rev.C 105 (2022) 055802
+#DATASETS   0
+#
+#DATASET    C2767002 
+#DATE       20220807
+#REACTION   5-B-10(P,A)4-BE-7,PAR,DA
+#PROJ       1001
+#TARG       5010
+#MF         4
+#MT         800
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  5010   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5010   4 800    800100.0          4.6150-3 3.4970-3-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+ 1001  5010   4 800    849500.0          5.7330-3 4.2380-3-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+ 1001  5010   4 800    900100.0          7.0070-3 3.4580-3-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+ 1001  5010   4 800    950000.0          7.0720-3 3.8090-3-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+ 1001  5010   4 800    999900.0          8.3980-3 3.5750-3-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+ 1001  5010   4 800    1150600.          9.1000-3 2.6910-3-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+ 1001  5010   4 800    1199900.          0.010920 2.5090-3-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+ 1001  5010   4 800    1248000.          0.013390 2.4050-3-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+ 1001  5010   4 800    1300500.          0.014300 2.3140-3-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+ 1001  5010   4 800    1350100.          0.013520 2.1970-3-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+ 1001  5010   4 800    1400800.          0.015210 1.8590-3-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+ 1001  5010   4 800    1450000.          0.016250 1.8330-3-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+ 1001  5010   4 800    1500300.          0.015210 1.7810-3-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+ 1001  5010   4 800    1549700.          0.013260 1.6510-3-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+ 1001  5010   4 800    1600200.          0.010530 1.2818-3-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+ 1001  5010   4 800    1650000.          8.1120-3 8.5930-4-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+ 1001  5010   4 800    1700400.          7.4620-3 7.2800-4-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+ 1001  5010   4 800    1750700.          5.2000-3 8.8400-4-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+ 1001  5010   4 800    1800900.          5.2000-3 7.9950-4-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+ 1001  5010   4 800    1849400.          5.5770-3 7.4100-4-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+ 1001  5010   4 800    1900100.          5.0050-3 6.8900-4-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+ 1001  5010   4 800    1949800.          5.1740-3 6.1230-4-0.422618          0.000000         LVLB.Vande Kolk+        (22)C2767  2 
+#/DATA      22
+#/DATASET

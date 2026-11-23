@@ -1,0 +1,40 @@
+#ENTRY      C1876
+#AUTHOR1    G.Murillo+
+#YEAR       2011
+#INSTITUTE  (3MEXINI)
+#TITLE      Characterization of excited states of 15N through
+#+          14C(p,p)14C using polarized proton beam
+#AUTHOR(S)  G.Murillo, M.Fernandez, J.Ramirez, M.G.Mejia-Gil, R.Policroniades, 
+#+          A.Varela, S.E.Dardeny, S.Sen, R.M.Prior, E.Chavez
+#REF-CODE   (J,RMF,57,55,2011)
+#REFERENCE  Rev.Mex.Fis. 57 (2011) 55
+#DATASETS   0
+#
+#DATASET    C18760041
+#DATE       20120129
+#REACTION   6-C-14(P,EL)6-C-14,,DA
+#PROJ       1001
+#TARG       6014
+#MF         4
+#MT         2
+#PRODUCT    6-C-14
+#C4BEGIN    [ 1001  6014   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6014   4   2  C 6680000.          0.173000          0.788011                              G.Murillo+           (11)C1876  41
+ 1001  6014   4   2  C 6680000.          0.115000          0.669131                              G.Murillo+           (11)C1876  41
+ 1001  6014   4   2  C 6680000.          0.043300          0.529919                              G.Murillo+           (11)C1876  41
+ 1001  6014   4   2  C 6680000.          0.018400          0.374607                              G.Murillo+           (11)C1876  41
+ 1001  6014   4   2  C 6680000.          0.016600          0.207912                              G.Murillo+           (11)C1876  41
+ 1001  6014   4   2  C 6680000.          0.029500          0.034899                              G.Murillo+           (11)C1876  41
+ 1001  6014   4   2  C 6680000.          0.042700         -0.139173                              G.Murillo+           (11)C1876  41
+ 1001  6014   4   2  C 6680000.          0.052500         -0.309017                              G.Murillo+           (11)C1876  41
+ 1001  6014   4   2  C 6680000.          0.050200         -0.469472                              G.Murillo+           (11)C1876  41
+ 1001  6014   4   2  C 6680000.          0.048000         -0.615661                              G.Murillo+           (11)C1876  41
+ 1001  6014   4   2  C 6680000.          0.038500         -0.743145                              G.Murillo+           (11)C1876  41
+ 1001  6014   4   2  C 6680000.          0.031300         -0.848048                              G.Murillo+           (11)C1876  41
+ 1001  6014   4   2  C 6680000.          0.026200         -0.913545                              G.Murillo+           (11)C1876  41
+ 1001  6014   4   2  C 6680000.          0.027000         -0.970296                              G.Murillo+           (11)C1876  41
+#/DATA      14
+#/DATASET

@@ -1,0 +1,45 @@
+#ENTRY      C2695
+#AUTHOR1    S.N.Paneru+
+#YEAR       2019
+#INSTITUTE  (1USAOHO)
+#TITLE      s-wave scattering lengths for the 7Be + p system from
+#+          an R-matrix analysis
+#AUTHOR(S)  S.N.Paneru, C.R.Brune, R.Giri, R.J.Livesay, U.Greife, J.C.Blackmon, 
+#+          D.W.Bardayan, K.A.Chipps, B.Davids, D.S.Connolly, K.Y.Chae, 
+#+          A.E.Champagne, C.Deibel, K.L.Jones, M.S.Johnson, R.L.Kozub, 
+#+          Z.Ma, C.D.Nesaraja, S.D.Pain, F.Sarazin, J.F.Shriner Jr, 
+#+          D.W.Stracener, M.S.Smith, J.S.Thomas, D.W.Visser, C.Wrede
+#REF-CODE   (J,PR/C,99,045807,2019)
+#REFERENCE  Phys.Rev.C 99 (2019) 045807
+#DATASETS   0
+#
+#DATASET    C2695003 
+#DATE       20211107
+#REACTION   (1-H-1(4-BE-7,EL)1-H-1,,DA)=(4-BE-7(P,EL)4-BE-7,,DA)
+#PROJ       1001
+#TARG       4007
+#MF         4
+#MT         2
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  4007   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4007   4   2  C 1553187.          0.014200 8.7800-4-0.609454                              S.N.Paneru+          (19)C2695  3 
+ 1001  4007   4   2  C 1553187.          0.014400 9.3300-4-0.552374                              S.N.Paneru+          (19)C2695  3 
+ 1001  4007   4   2  C 1553187.          0.017500 1.1700-3-0.494549                              S.N.Paneru+          (19)C2695  3 
+ 1001  4007   4   2  C 1553187.          0.019500 1.3600-3-0.436174                              S.N.Paneru+          (19)C2695  3 
+ 1001  4007   4   2  C 1553187.          0.021200 1.5400-3-0.377679                              S.N.Paneru+          (19)C2695  3 
+ 1001  4007   4   2  C 1553187.          0.023300 1.7900-3-0.319621                              S.N.Paneru+          (19)C2695  3 
+ 1001  4007   4   2  C 1553187.          0.024800 2.1100-3-0.262526                              S.N.Paneru+          (19)C2695  3 
+ 1001  4007   4   2  C 1553187.          0.028600 2.6200-3-0.206887                              S.N.Paneru+          (19)C2695  3 
+ 1001  4007   4   2  C 1553187.          0.032200 3.3600-3-0.152348                              S.N.Paneru+          (19)C2695  3 
+ 1001  4007   4   2  C 1553187.          0.036900 3.7900-3-0.099580                              S.N.Paneru+          (19)C2695  3 
+ 1001  4007   4   2  C 1553187.          0.037200 4.4600-3-0.048431                              S.N.Paneru+          (19)C2695  3 
+ 1001  4007   4   2  C 1553187.          0.044000 5.3300-3 9.0757-4                              S.N.Paneru+          (19)C2695  3 
+ 1001  4007   4   2  C 1553187.          0.041800 5.0800-3 0.048065                              S.N.Paneru+          (19)C2695  3 
+ 1001  4007   4   2  C 1553187.          0.047200 5.7800-3 0.093274                              S.N.Paneru+          (19)C2695  3 
+ 1001  4007   4   2  C 1553187.          0.047800 5.9200-3 0.136217                              S.N.Paneru+          (19)C2695  3 
+ 1001  4007   4   2  C 1553187.          0.059000 7.4800-3 0.177892                              S.N.Paneru+          (19)C2695  3 
+#/DATA      16
+#/DATASET

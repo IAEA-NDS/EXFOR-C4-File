@@ -1,0 +1,28 @@
+#ENTRY      C1991
+#AUTHOR1    J.P.Schiffer+
+#YEAR       2013
+#INSTITUTE  (1USAANL)
+#TITLE      Valence nucleon populations in the Ni isotopes
+#AUTHOR(S)  J.P.Schiffer, C.R.Hoffman, B.P.Kay, J.A.Clark, C.M.Deibel, 
+#+          S.J.Freeman, M.Honma, A.M.Howard, A.J.Mitchell, T.Otsuka, 
+#+          P.D.Parker, D.K.Sharp, J.S.Thomas
+#REF-CODE   (J,PR/C,87,034306,2013)
+#REFERENCE  Phys.Rev.C 87 (2013) 034306
+#DATASETS   0
+#
+#DATASET    C1991003 
+#DATE       20130403
+#REACTION   28-NI-60(D,P)28-NI-61,PAR,DA
+#PROJ       1002
+#TARG       28060
+#MF         4
+#MT         600
+#PRODUCT    28-NI-61
+#C4BEGIN    [ 1002 28060   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28060   4 600    1.0000+7 33000.00 6.7000-5          0.965926          1455000.         LVLJ.P.Schiffer+        (13)C1991  3 
+ 1002 28060   4 600    1.0000+7 33000.00 7.2000-5          0.819152          1455000.         LVLJ.P.Schiffer+        (13)C1991  3 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,37 @@
+#ENTRY      C1523
+#AUTHOR1    T.N.Taddeucci+
+#YEAR       1984
+#INSTITUTE  (1USAVIR)
+#TITLE      (p,n) reactions on 14C and 14N and the effective
+#+          nucleon-nucleon interaction
+#AUTHOR(S)  T.N.Taddeucci, R.R.Doering, A.Galonsky, S.M.Austin
+#REF-CODE   (J,PR/C,29,764,1984)
+#REFERENCE  Phys.Rev.C 29 (1984) 764
+#DATASETS   0
+#
+#DATASET    C1523005 
+#DATE       20070316
+#REACTION   6-C-14(P,N)7-N-14,PAR,DA
+#PROJ       1001
+#TARG       6014
+#MF         4
+#MT         50
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1001  6014   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6014   4  50  C 2.5700+7          3.1420-3          0.984473          2310000.         LVLT.N.Taddeucci+       (84)C1523  5 
+ 1001  6014   4  50  C 2.5700+7          1.5510-3          0.929584          2310000.         LVLT.N.Taddeucci+       (84)C1523  5 
+ 1001  6014   4  50  C 2.5700+7          1.2690-3          0.846379          2310000.         LVLT.N.Taddeucci+       (84)C1523  5 
+ 1001  6014   4  50  C 2.5700+7          2.0180-3          0.734086          2310000.         LVLT.N.Taddeucci+       (84)C1523  5 
+ 1001  6014   4  50  C 2.5700+7          2.1500-3          0.607653          2310000.         LVLT.N.Taddeucci+       (84)C1523  5 
+ 1001  6014   4  50  C 2.5700+7          1.3720-3          0.444322          2310000.         LVLT.N.Taddeucci+       (84)C1523  5 
+ 1001  6014   4  50  C 2.5700+7          5.2440-4          0.298874          2310000.         LVLT.N.Taddeucci+       (84)C1523  5 
+ 1001  6014   4  50  C 2.5700+7          2.0860-4          0.106958          2310000.         LVLT.N.Taddeucci+       (84)C1523  5 
+ 1001  6014   4  50  C 2.5700+7          2.4270-4         -0.064184          2310000.         LVLT.N.Taddeucci+       (84)C1523  5 
+ 1001  6014   4  50  C 2.5700+7          3.2100-4         -0.238533          2310000.         LVLT.N.Taddeucci+       (84)C1523  5 
+ 1001  6014   4  50  C 2.5700+7          2.5230-4         -0.408330          2310000.         LVLT.N.Taddeucci+       (84)C1523  5 
+ 1001  6014   4  50  C 2.5700+7          1.3500-4         -0.553392          2310000.         LVLT.N.Taddeucci+       (84)C1523  5 
+#/DATA      12
+#/DATASET

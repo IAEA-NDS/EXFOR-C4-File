@@ -1,0 +1,37 @@
+#ENTRY      C0648
+#AUTHOR1    H.Rohdjess+
+#YEAR       1998
+#INSTITUTE  (2GERHAM)
+#TITLE      Elastic pd scattering with 200-300 MeV protons.
+#AUTHOR(S)  H.Rohdjess, W.Scobel, H.O.Meyer, P.V.Pancella, S.F.Pate, 
+#+          M.A.Pickar, R.E.Pollock, B.Von Przewoski, T.Rinckel, F.Sperisen, 
+#+          H.Witala, J.Golak, D.Hueber, H.Kamada, W.Gloeckle
+#REF-CODE   (J,PR/C,57,2111,199805)
+#REFERENCE  Phys.Rev.C 57 (1998) 2111
+#DATASETS   0
+#
+#DATASET    C0648002 
+#DATE       20000425
+#REACTION   1-H-2(P,EL)1-H-2,,DA
+#PROJ       1001
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   4   2    2.1000+8          0.030294 1.5560-3 0.994881                              H.Rohdjess+          (98)C0648  2 
+ 1001  1002   4   2    2.1000+8          0.029072 1.4730-3 0.994151                              H.Rohdjess+          (98)C0648  2 
+ 1001  1002   4   2    2.1000+8          0.030810 1.4660-3 0.993373                              H.Rohdjess+          (98)C0648  2 
+ 1001  1002   4   2    2.1000+8          0.028442 1.3640-3 0.992546                              H.Rohdjess+          (98)C0648  2 
+ 1001  1002   4   2    2.1000+8          0.028633 1.3350-3 0.991671                              H.Rohdjess+          (98)C0648  2 
+ 1001  1002   4   2    2.1000+8          0.027550 1.2720-3 0.990748                              H.Rohdjess+          (98)C0648  2 
+ 1001  1002   4   2    2.1000+8          0.028501 1.2730-3 0.989776                              H.Rohdjess+          (98)C0648  2 
+ 1001  1002   4   2    2.1000+8          0.028631 1.2510-3 0.988756                              H.Rohdjess+          (98)C0648  2 
+ 1001  1002   4   2    2.1000+8          0.030782 1.2810-3 0.987688                              H.Rohdjess+          (98)C0648  2 
+ 1001  1002   4   2    2.1000+8          0.026528 1.1510-3 0.986572                              H.Rohdjess+          (98)C0648  2 
+ 1001  1002   4   2    2.1000+8          0.027705 1.1630-3 0.985408                              H.Rohdjess+          (98)C0648  2 
+#/DATA      11
+#/DATASET

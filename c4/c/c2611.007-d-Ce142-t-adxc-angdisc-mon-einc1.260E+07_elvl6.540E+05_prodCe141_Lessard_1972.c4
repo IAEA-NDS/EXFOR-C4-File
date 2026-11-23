@@ -1,0 +1,36 @@
+#ENTRY      C2611
+#AUTHOR1    L.Lessard+
+#YEAR       1972
+#INSTITUTE  (1CANMON)
+#TITLE      142Ce(d,p) and 142Ce(d,t) Reactions and Isobaric
+#+          Analog Resonances in 142Ce(p,p0) and 142Ce(p,p1)
+#AUTHOR(S)  L.Lessard, S.Gales, J.L.Foster Jr
+#REF-CODE   (J,PR/C,6,517,1972)
+#REFERENCE  Phys.Rev.C 6 (1972) 517
+#DATASETS   0
+#
+#DATASET    C2611007 
+#DATE       20210607
+#REACTION   58-CE-142(D,T)58-CE-141,PAR,DA
+#PROJ       1002
+#TARG       58142
+#MF         4
+#MT         700
+#PRODUCT    58-CE-141
+#C4BEGIN    [ 1002 58142   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 58142   4 700  C 1.2600+7          7.0650-4 8.6040-5 0.821627          654000.0         LVLL.Lessard+           (72)C2611  7 
+ 1002 58142   4 700  C 1.2600+7          7.6210-4 2.3200-4 0.787484          654000.0         LVLL.Lessard+           (72)C2611  7 
+ 1002 58142   4 700  C 1.2600+7          6.1660-4 5.8990-5 0.778813          654000.0         LVLL.Lessard+           (72)C2611  7 
+ 1002 58142   4 700  C 1.2600+7          6.9940-4 8.8020-5 0.753793          654000.0         LVLL.Lessard+           (72)C2611  7 
+ 1002 58142   4 700  C 1.2600+7          6.4660-4 7.6190-5 0.708808          654000.0         LVLL.Lessard+           (72)C2611  7 
+ 1002 58142   4 700  C 1.2600+7          6.5390-4 9.2900-5 0.666884          654000.0         LVLL.Lessard+           (72)C2611  7 
+ 1002 58142   4 700  C 1.2600+7          3.6190-4 4.4100-5 0.535252          654000.0         LVLL.Lessard+           (72)C2611  7 
+ 1002 58142   4 700  C 1.2600+7          2.9940-4 9.8220-5 0.466418          654000.0         LVLL.Lessard+           (72)C2611  7 
+ 1002 58142   4 700  C 1.2600+7          3.2070-4 5.6250-5 0.385858          654000.0         LVLL.Lessard+           (72)C2611  7 
+ 1002 58142   4 700  C 1.2600+7          2.8100-4 5.4070-5 0.304000          654000.0         LVLL.Lessard+           (72)C2611  7 
+ 1002 58142   4 700  C 1.2600+7          2.2910-4 4.5070-5 0.214428          654000.0         LVLL.Lessard+           (72)C2611  7 
+#/DATA      11
+#/DATASET

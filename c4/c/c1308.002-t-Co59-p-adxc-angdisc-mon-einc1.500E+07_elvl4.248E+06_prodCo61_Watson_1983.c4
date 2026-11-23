@@ -1,0 +1,31 @@
+#ENTRY      C1308
+#AUTHOR1    D.L.Watson+
+#YEAR       1983
+#INSTITUTE  (1USAPEN)
+#TITLE      The 52Cr(t, p)54 reaction at Et = 15 MeV
+#AUTHOR(S)  D.L.Watson, M.A.Abouzeid, H.T.Fortune, L.C.Bland, J.B.McGrory
+#REF-CODE   (J,NP/A,406,291,1983)
+#REFERENCE  Nucl.Phys.A 406 (1983) 291
+#DATASETS   0
+#
+#DATASET    C1308002 
+#DATE       20050811
+#REACTION   27-CO-59(T,P)27-CO-61,PAR,DA
+#PROJ       1003
+#TARG       27059
+#MF         4
+#MT         600
+#PRODUCT    27-CO-61
+#C4BEGIN    [ 1003 27059   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 27059   4 600  C 1.5000+7          1.5400-5          0.995853          4248000.         LVLD.L.Watson+          (83)C1308  2 
+ 1003 27059   4 600  C 1.5000+7          2.6500-5          0.976672          4248000.         LVLD.L.Watson+          (83)C1308  2 
+ 1003 27059   4 600  C 1.5000+7          2.4900-5          0.883766          4248000.         LVLD.L.Watson+          (83)C1308  2 
+ 1003 27059   4 600  C 1.5000+7          7.4600-6          0.638768          4248000.         LVLD.L.Watson+          (83)C1308  2 
+ 1003 27059   4 600  C 1.5000+7          2.9100-6 4.5800-7 0.521010          4248000.         LVLD.L.Watson+          (83)C1308  2 
+ 1003 27059   4 600  C 1.5000+7          3.6500-6          0.401948          4248000.         LVLD.L.Watson+          (83)C1308  2 
+ 1003 27059   4 600  C 1.5000+7          4.0800-6 6.4500-7 0.156434          4248000.         LVLD.L.Watson+          (83)C1308  2 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      C0198
+#AUTHOR1    W.N.Lennard+
+#YEAR       1989
+#INSTITUTE  (1CANUWO)
+#TITLE      An alternative technique for oxygen surface coverage
+#+          measurements
+#AUTHOR(S)  W.N.Lennard, S.Y.Tong, I.V.Mitchell, G.R.Massoumi
+#REF-CODE   (J,NIM/B,43,187,1989)
+#REFERENCE  Nucl.Instrum.Meth.B 43 (1989) 187
+#DATASETS   0
+#
+#DATASET    C0198002 
+#DATE       20070712
+#REACTION   8-O-16(HE3,P)9-F-18,PAR,DA
+#PROJ       2003
+#TARG       8016
+#MF         4
+#MT         600
+#PRODUCT    9-F-18
+#C4BEGIN    [ 2003  8016   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  8016   4 600    2392000.          1.2100-5 4.8400-7-0.059306 0.020907 1080000.         LVLW.N.Lennard+         (89)C0198  2 
+ 2003  8016   4 600    2392000.          7.7500-5 3.1000-6-0.403545 0.019163 1080000.         LVLW.N.Lennard+         (89)C0198  2 
+ 2003  8016   4 600    2392000.          1.9000-4 7.6000-6-0.693402 0.015091 1080000.         LVLW.N.Lennard+         (89)C0198  2 
+ 2003  8016   4 600    2392000.          2.6500-4 1.0600-5-0.896486 9.2797-3 1080000.         LVLW.N.Lennard+         (89)C0198  2 
+#/DATA      4
+#/DATASET

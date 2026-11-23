@@ -1,0 +1,32 @@
+#ENTRY      C0156
+#AUTHOR1    A.E.Feldman+
+#YEAR       1994
+#INSTITUTE  (1USAINU)
+#TITLE      Neutron transition densities for 48Ca from proton
+#+          scattering at 200 and 318 MeV
+#AUTHOR(S)  A.E.Feldman, J.J.Kelly, B.S.Flanders, M.A.Khandaker, H.Seifert, 
+#+          P.Boberg, S.D.Hyman, P.H.Karen, B.E.Norum, P.Welch, Q.Chen, 
+#+          A.D.Bacher, G.P.A.Berg, E.J.Stephenson, S.Nanda, A.Saha, 
+#+          A.Scott
+#REF-CODE   (J,PR/C,49,2068,9404)
+#REFERENCE  Phys.Rev.C 49 (1994) 2068
+#DATASETS   0
+#
+#DATASET    C0156003 
+#DATE       19970423
+#REACTION   20-CA-48(P,INL)20-CA-48,PAR,DA
+#PROJ       1001
+#TARG       20048
+#MF         4
+#MT         601
+#PRODUCT    20-CA-48
+#C4BEGIN    [ 1001 20048   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20048   4 601 AC 3.1780+8 300000.0 1.2660-5 5.3704-6 0.953874          5304000.         LVLA.E.Feldman+         (94)C0156  3 
+ 1001 20048   4 601 AC 3.1780+8 300000.0 9.8210-6 4.9626-6 0.942408          5304000.         LVLA.E.Feldman+         (94)C0156  3 
+ 1001 20048   4 601 AC 3.1780+8 300000.0 9.6790-6 4.9111-6 0.929969          5304000.         LVLA.E.Feldman+         (94)C0156  3 
+ 1001 20048   4 601 AC 3.1780+8 300000.0 2.9850-6 1.4791-6 0.916083          5304000.         LVLA.E.Feldman+         (94)C0156  3 
+#/DATA      4
+#/DATASET

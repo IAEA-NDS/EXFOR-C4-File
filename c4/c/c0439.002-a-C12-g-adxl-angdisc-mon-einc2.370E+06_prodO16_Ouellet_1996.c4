@@ -1,0 +1,32 @@
+#ENTRY      C0439
+#AUTHOR1    J.M.L.Ouellet+
+#YEAR       1996
+#INSTITUTE  (1CANQU)
+#TITLE      12C(alpha,gamma)16O cross sections at stellar energies
+#AUTHOR(S)  J.M.L.Ouellet, M.N.Butler, H.C.Evans, H.W.Lee, J.R.Leslie, 
+#+          J.D.MacArthur, W.McLatchie, H.-B.Mak, P.Skensved, J.L.Whitton, 
+#+          X.Zhao, T.K.Alexander
+#REF-CODE   (J,PR/C,54,1982,1996)
+#REFERENCE  Phys.Rev.C 54 (1996) 1982
+#DATASETS   0
+#
+#DATASET    C0439002 
+#DATE       19961105
+#REACTION   6-C-12(A,G)8-O-16,,DA
+#PROJ       2004
+#TARG       6012
+#MF         4
+#MT         102
+#PRODUCT    8-O-16
+#C4BEGIN    [ 2004  6012   4 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  6012   4 102 AC 2369993. 3200.508 1.700-10 3.000-11 0.882948                              J.M.L.Ouellet+       (96)C0439  2 
+ 2004  6012   4 102 AC 2369993. 3200.508 3.500-10 3.000-11 0.500000                              J.M.L.Ouellet+       (96)C0439  2 
+ 2004  6012   4 102 AC 2369993. 3200.508 2.400-10 2.000-11 6.123-17                              J.M.L.Ouellet+       (96)C0439  2 
+ 2004  6012   4 102 AC 2369993. 3200.508 2.800-10 2.000-11 6.123-17                              J.M.L.Ouellet+       (96)C0439  2 
+ 2004  6012   4 102 AC 2369993. 3200.508 1.300-10 3.000-11-0.500000                              J.M.L.Ouellet+       (96)C0439  2 
+ 2004  6012   4 102 AC 2369993. 3200.508 7.000-11 2.000-11-0.798636                              J.M.L.Ouellet+       (96)C0439  2 
+#/DATA      6
+#/DATASET

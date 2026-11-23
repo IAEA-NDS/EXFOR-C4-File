@@ -1,0 +1,29 @@
+#ENTRY      C2545
+#AUTHOR1    D.Lee+
+#YEAR       1983
+#INSTITUTE  (1USABRK)
+#TITLE      Excitation functions for production of heavy
+#+          actinides from interactions of 18O with 248Cm and 249Cf
+#AUTHOR(S)  D.Lee, K.J.Moody, M.J.Nurmia, G.T.Seaborg, H.R.Von Gunten, 
+#+          D.C.Hoffman
+#REF-CODE   (J,PR/C,27,2656,1983)
+#REFERENCE  Phys.Rev.C 27 (1983) 2656
+#DATASETS   0
+#
+#DATASET    C2545002 
+#DATE       20200502
+#REACTION   96-CM-248(8-O-18,X)ELEM/MASS,,SIG
+#PROJ       8018
+#TARG       96248
+#MF         3
+#MT         454
+#C4BEGIN    [ 8018 96248   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8018 96248   3 454    9.7000+7          3.3000-6 6.9300-7           98254.9                     D.Lee+               (83)C2545  2 
+ 8018 96248   3 454    1.0400+8          2.5000-6 5.0000-7           98254.9                     D.Lee+               (83)C2545  2 
+ 8018 96248   3 454    1.1300+8          1.2000-6 6.0000-7           98254.9                     D.Lee+               (83)C2545  2 
+ 8018 96248   3 454    1.2200+8          4.0000-7 5.2000-8           98254.9                     D.Lee+               (83)C2545  2 
+#/DATA      4
+#/DATASET

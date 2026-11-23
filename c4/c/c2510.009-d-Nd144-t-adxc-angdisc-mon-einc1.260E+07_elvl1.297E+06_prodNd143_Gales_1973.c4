@@ -1,0 +1,32 @@
+#ENTRY      C2510
+#AUTHOR1    S.Gales+
+#YEAR       1973
+#INSTITUTE  (1CANMON)
+#TITLE      The 144Nd(d,p) and 144Nd(d,t) reactions and
+#+          isobaric analog resonances in 144Nd(p,p0) and
+#+          144Nd(p,p')
+#AUTHOR(S)  S.Gales, L.Lessard, J.L.Foster
+#REF-CODE   (J,NP/A,202,535,1973)
+#REFERENCE  Nucl.Phys.A 202 (1973) 535
+#DATASETS   0
+#
+#DATASET    C2510009 
+#DATE       20210618
+#REACTION   60-ND-144(D,T)60-ND-143,PAR,DA
+#PROJ       1002
+#TARG       60144
+#MF         4
+#MT         700
+#PRODUCT    60-ND-143
+#C4BEGIN    [ 1002 60144   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 60144   4 700  C 1.2600+7          5.3610-5 8.6080-6 0.728467          1297000.         LVLS.Gales+             (73)C2510  9 
+ 1002 60144   4 700  C 1.2600+7          4.9740-5 5.7020-6 0.675732          1297000.         LVLS.Gales+             (73)C2510  9 
+ 1002 60144   4 700  C 1.2600+7          4.2990-5 7.1780-6 0.633516          1297000.         LVLS.Gales+             (73)C2510  9 
+ 1002 60144   4 700  C 1.2600+7          4.5670-5 5.5070-6 0.588166          1297000.         LVLS.Gales+             (73)C2510  9 
+ 1002 60144   4 700  C 1.2600+7          4.5450-5 3.8250-6 0.397148          1297000.         LVLS.Gales+             (73)C2510  9 
+ 1002 60144   4 700  C 1.2600+7          3.5060-5 7.2020-6-0.016370          1297000.         LVLS.Gales+             (73)C2510  9 
+#/DATA      6
+#/DATASET

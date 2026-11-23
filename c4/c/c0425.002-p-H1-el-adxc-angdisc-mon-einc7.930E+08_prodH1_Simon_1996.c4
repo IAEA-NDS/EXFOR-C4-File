@@ -1,0 +1,32 @@
+#ENTRY      C0425
+#AUTHOR1    A.J.Simon+
+#YEAR       1996
+#INSTITUTE  (1USALAS)
+#TITLE      Absolute pp-elastic cross sections from 492 to 793 MeV
+#+          using CH2 targets
+#AUTHOR(S)  A.J.Simon, G.Glass, M.W.Mc Naughton, T.Noro, K.H.Mc Naughton, 
+#+          P.J.Riley, E.Guelmez, C.A.Whitten Jr, V.R.Cupps, R.D.Ransome, 
+#+          D.L.Adams
+#REF-CODE   (J,PR/C,53,30,9601)
+#REFERENCE  Phys.Rev.C 53 (1996) 30
+#DATASETS   0
+#
+#DATASET    C0425002 
+#DATE       19960306
+#REACTION   1-H-1(P,EL)1-H-1,,DA
+#PROJ       1001
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001  1001   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1001   4   2 AC 7.9300+8          1.4440-3 1.6000-5 0.272616                              A.J.Simon+           (96)C0425  2 
+ 1001  1001   4   2 AC 7.9300+8          1.2880-3 1.5000-5 0.210984                              A.J.Simon+           (96)C0425  2 
+ 1001  1001   4   2 AC 7.9300+8          1.1860-3 1.5000-5 0.149708                              A.J.Simon+           (96)C0425  2 
+ 1001  1001   4   2 AC 7.9300+8          1.1350-3 1.5000-5 0.087330                              A.J.Simon+           (96)C0425  2 
+ 1001  1001   4   2 AC 7.9300+8          1.0620-3 1.3000-5 0.025828                              A.J.Simon+           (96)C0425  2 
+#/DATA      5
+#/DATASET

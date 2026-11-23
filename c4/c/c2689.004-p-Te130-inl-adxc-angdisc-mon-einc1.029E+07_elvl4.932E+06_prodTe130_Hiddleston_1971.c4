@@ -1,0 +1,31 @@
+#ENTRY      C2689
+#AUTHOR1    H.R.Hiddleston+
+#YEAR       1971
+#INSTITUTE  (1USATEX)
+#TITLE      Isobaric analog resonances in proton elastic and
+#+          inelastic scattering from 130Te
+#AUTHOR(S)  H.R.Hiddleston, C.L.Hollas, V.D.Mistry, P.J.Riley
+#REF-CODE   (J,PR/C,3,905,1971)
+#REFERENCE  Phys.Rev.C 3 (1971) 905
+#DATASETS   0
+#
+#DATASET    C2689004 
+#DATE       20211030
+#REACTION   52-TE-130(P,INL)52-TE-130,PAR,DA
+#PROJ       1001
+#TARG       52130
+#MF         4
+#MT         601
+#PRODUCT    52-TE-130
+#C4BEGIN    [ 1001 52130   4 601 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 52130   4 601 CC 1.0289+7          1.5300-4 9.0000-6-0.052353          4932000.         LVLH.R.Hiddleston+      (71)C2689  4 
+ 1001 52130   4 601 CC 1.0289+7          1.4300-4 9.0000-6-0.225920          4932000.         LVLH.R.Hiddleston+      (71)C2689  4 
+ 1001 52130   4 601 CC 1.0289+7          1.3400-4 1.0000-5-0.392546          4932000.         LVLH.R.Hiddleston+      (71)C2689  4 
+ 1001 52130   4 601 CC 1.0289+7          1.1300-4 7.0000-6-0.539418          4932000.         LVLH.R.Hiddleston+      (71)C2689  4 
+ 1001 52130   4 601 CC 1.0289+7          1.3400-4 8.0000-6-0.799810          4932000.         LVLH.R.Hiddleston+      (71)C2689  4 
+ 1001 52130   4 601 CC 1.0289+7          9.2000-5 9.0000-6-0.956615          4932000.         LVLH.R.Hiddleston+      (71)C2689  4 
+#/DATA      6
+#/DATASET

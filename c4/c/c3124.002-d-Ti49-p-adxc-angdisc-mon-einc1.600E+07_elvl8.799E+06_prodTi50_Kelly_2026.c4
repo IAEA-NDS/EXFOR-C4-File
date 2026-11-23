@@ -1,0 +1,37 @@
+#ENTRY      C3124
+#AUTHOR1    B.Kelly+
+#YEAR       2026
+#INSTITUTE  (1USAFSU)
+#TITLE      Detailed View at Magnetic Dipole Strengths: The Case
+#+          of Semimagic 50Ti
+#AUTHOR(S)  B.Kelly, M.Spieker, U.Friman-Gayer, L.T.Baby, T.Beck, A.L.Conley, 
+#+          S.W.Finch, J.Isaak, Krishichayan, E.Litvinova, H.Pai, N.Pietralla, 
+#+          D.Savran, W.Tornow, N.Tsoneva, A.Volya, V.Werner
+#REF-CODE   (J,PRL,136,082502,2026)
+#REFERENCE  Phys.Rev.Lett. 136 (2026) 082502
+#DATASETS   0
+#
+#DATASET    C3124002 
+#DATE       20260318
+#REACTION   22-TI-49(D,P)22-TI-50,PAR,DA
+#PROJ       1002
+#TARG       22049
+#MF         4
+#MT         600
+#PRODUCT    22-TI-50
+#C4BEGIN    [ 1002 22049   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 22049   4 600 AC 1.6000+7          3.4236-4 6.7154-5 0.964557          8799000.         LVLB.Kelly+             (26)C3124  2 
+ 1002 22049   4 600 AC 1.6000+7          3.9276-4 6.4681-5 0.936672          8799000.         LVLB.Kelly+             (26)C3124  2 
+ 1002 22049   4 600 AC 1.6000+7          3.4966-4 5.5075-5 0.901833          8799000.         LVLB.Kelly+             (26)C3124  2 
+ 1002 22049   4 600 AC 1.6000+7          3.5378-4 5.5736-5 0.859852          8799000.         LVLB.Kelly+             (26)C3124  2 
+ 1002 22049   4 600 AC 1.6000+7          2.7083-4 4.4015-5 0.811064          8799000.         LVLB.Kelly+             (26)C3124  2 
+ 1002 22049   4 600 AC 1.6000+7          2.2219-4 4.2658-5 0.755853          8799000.         LVLB.Kelly+             (26)C3124  2 
+ 1002 22049   4 600 AC 1.6000+7          8.9220-5 1.4596-5 0.694658          8799000.         LVLB.Kelly+             (26)C3124  2 
+ 1002 22049   4 600 AC 1.6000+7          8.6028-5 1.3318-5 0.629320          8799000.         LVLB.Kelly+             (26)C3124  2 
+ 1002 22049   4 600 AC 1.6000+7          7.6368-5 1.1834-5 0.557745          8799000.         LVLB.Kelly+             (26)C3124  2 
+ 1002 22049   4 600 AC 1.6000+7          7.0695-5 1.0918-5 0.481754          8799000.         LVLB.Kelly+             (26)C3124  2 
+#/DATA      10
+#/DATASET

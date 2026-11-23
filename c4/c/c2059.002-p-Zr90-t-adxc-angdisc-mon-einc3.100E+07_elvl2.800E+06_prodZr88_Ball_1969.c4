@@ -1,0 +1,34 @@
+#ENTRY      C2059
+#AUTHOR1    J.B.Ball+
+#YEAR       1969
+#INSTITUTE  (1USAORL)
+#TITLE      Level Structure of 88Zr Studied with the 90Zr(p,t)
+#+          Reaction
+#AUTHOR(S)  J.B.Ball, R.L.Auble, R.M.Drisko, P.G.Roos
+#REF-CODE   (J,PR,177,1699,1969)
+#REFERENCE  Phys.Rev. 177 (1969) 1699
+#DATASETS   0
+#
+#DATASET    C2059002 
+#DATE       20130918
+#REACTION   40-ZR-90(P,T)40-ZR-88,PAR,DA
+#PROJ       1001
+#TARG       40090
+#MF         4
+#MT         700
+#PRODUCT    40-ZR-88
+#C4BEGIN    [ 1001 40090   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40090   4 700  C 3.1000+7          4.3500-5 4.4200-6 0.995773          2800000.         LVLJ.B.Ball+            (69)C2059  2 
+ 1001 40090   4 700  C 3.1000+7          2.3600-5 4.0300-6 0.964142          2800000.         LVLJ.B.Ball+            (69)C2059  2 
+ 1001 40090   4 700  C 3.1000+7          2.8400-5 3.1100-6 0.936733          2800000.         LVLJ.B.Ball+            (69)C2059  2 
+ 1001 40090   4 700  C 3.1000+7          3.1100-5 3.6600-6 0.901531          2800000.         LVLJ.B.Ball+            (69)C2059  2 
+ 1001 40090   4 700  C 3.1000+7          4.5200-5 4.2300-6 0.859941          2800000.         LVLJ.B.Ball+            (69)C2059  2 
+ 1001 40090   4 700  C 3.1000+7          5.1600-5 4.8200-6 0.809120          2800000.         LVLJ.B.Ball+            (69)C2059  2 
+ 1001 40090   4 700  C 3.1000+7          5.2400-5 3.6100-6 0.693024          2800000.         LVLJ.B.Ball+            (69)C2059  2 
+ 1001 40090   4 700  C 3.1000+7          1.7100-5 2.1400-6 0.555715          2800000.         LVLJ.B.Ball+            (69)C2059  2 
+ 1001 40090   4 700  C 3.1000+7          1.9300-5 2.4900-6 0.401468          2800000.         LVLJ.B.Ball+            (69)C2059  2 
+#/DATA      9
+#/DATASET

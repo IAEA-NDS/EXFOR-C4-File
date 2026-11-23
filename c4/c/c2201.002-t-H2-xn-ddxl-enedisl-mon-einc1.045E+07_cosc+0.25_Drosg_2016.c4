@@ -1,0 +1,30 @@
+#ENTRY      C2201
+#AUTHOR1    M.Drosg+
+#YEAR       2016
+#INSTITUTE  (2AUSVIE)
+#TITLE      Double-differential angle-dependent three-body
+#+          neutron production cross sections of the reaction
+#+          2H(t,n)X+Y at triton energies between 5.97 and 16.41
+#+          MeV
+#AUTHOR(S)  M.Drosg, G.Haouat, D.M.Drake
+#REF-CODE   (J,NSE,183,298,2016)
+#REFERENCE  Nucl.Sci.Eng. 183 (2016) 298
+#DATASETS   0
+#
+#DATASET    C2201002 
+#DATE       20160111
+#REACTION   1-H-2(T,X)0-NN-1,,DA/DE
+#PROJ       1003
+#TARG       1002
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1003  1002   6 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  1002   6 201  C 1.0450+7 30000.00 4.7378-9 2.870-10 0.253758 5.0646-4 575000.0          E2M.Drosg+             (16)C2201  2 
+ 1003  1002   6 201  C 1.0450+7 30000.00 1.6464-9 2.455-10 0.253758 5.0646-4 725000.0          E2M.Drosg+             (16)C2201  2 
+ 1003  1002   6 201  C 1.0450+7 30000.00 2.900-12 2.374-10 0.253758 5.0646-4 875000.0          E2M.Drosg+             (16)C2201  2 
+#/DATA      3
+#/DATASET

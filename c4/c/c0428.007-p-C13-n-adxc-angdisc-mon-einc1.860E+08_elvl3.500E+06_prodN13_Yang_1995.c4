@@ -1,0 +1,38 @@
+#ENTRY      C0428
+#AUTHOR1    X.Yang+
+#YEAR       1995
+#INSTITUTE  (1USAINU)
+#TITLE      Dipole excitations in p-shell nuclei via (p,n)
+#+          reactions
+#AUTHOR(S)  X.Yang, L.Wang, J.Rapaport, C.D.Goodman, C.C.Foster, Y.Wang, 
+#+          E.Sugarbaker, D.Marchlenski, S.De Lucia, B.Luther, L.Rybarcyk, 
+#+          T.N.Taddeucci, B.K.Park
+#REF-CODE   (J,PR/C,52,2535,199511)
+#REFERENCE  Phys.Rev.C 52 (1995) 2535
+#DATASETS   0
+#
+#DATASET    C0428007 
+#DATE       19960419
+#REACTION   6-C-13(P,N)7-N-13,PAR,DA
+#PROJ       1001
+#TARG       6013
+#MF         4
+#MT         50
+#PRODUCT    7-N-13
+#C4BEGIN    [ 1001  6013   4  50 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6013   4  50 CC 1.8600+8          9.8190-3 5.0100-4 1.000000          3500000.         LVLX.Yang+              (95)C0428  7 
+ 1001  6013   4  50 CC 1.8600+8          5.9930-3 2.9000-4 0.995396          3500000.         LVLX.Yang+              (95)C0428  7 
+ 1001  6013   4  50 CC 1.8600+8          1.9320-3 1.2900-4 0.981959          3500000.         LVLX.Yang+              (95)C0428  7 
+ 1001  6013   4  50 CC 1.8600+8          5.9700-4 6.7000-5 0.959314          3500000.         LVLX.Yang+              (95)C0428  7 
+ 1001  6013   4  50 CC 1.8600+8          2.7200-4 1.1900-4 0.928486          3500000.         LVLX.Yang+              (95)C0428  7 
+ 1001  6013   4  50 CC 1.8600+8          2.0300-4 1.8000-5 0.888617          3500000.         LVLX.Yang+              (95)C0428  7 
+ 1001  6013   4  50 CC 1.8600+8          1.1200-4 1.8000-5 0.841511          3500000.         LVLX.Yang+              (95)C0428  7 
+ 1001  6013   4  50 CC 1.8600+8          5.0000-5 1.2000-5 0.788011          3500000.         LVLX.Yang+              (95)C0428  7 
+ 1001  6013   4  50 CC 1.8600+8          2.2000-5 8.0000-6 0.726575          3500000.         LVLX.Yang+              (95)C0428  7 
+ 1001  6013   4  50 CC 1.8600+8          2.6000-5 2.0000-5 0.658689          3500000.         LVLX.Yang+              (95)C0428  7 
+ 1001  6013   4  50 CC 1.8600+8          6.0000-6 2.0000-6 0.586372          3500000.         LVLX.Yang+              (95)C0428  7 
+#/DATA      11
+#/DATASET

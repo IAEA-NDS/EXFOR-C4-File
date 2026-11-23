@@ -1,0 +1,32 @@
+#ENTRY      C1242
+#AUTHOR1    J.J.Kolata+
+#YEAR       2004
+#INSTITUTE  (1USANOT)
+#TITLE      Elastic scattering of 10Be on 208Pb near the Coulomb
+#+          barrier
+#AUTHOR(S)  J.J.Kolata, E.F.Aguilera, F.D.Becchetti, Y.Chen, P.A.DeYoung, 
+#+          H.Garcia-Martinez, J.D.Hinnefeld, J.H.Lupton, E.Martinez-Quiroz, 
+#+          G.Peaslee
+#REF-CODE   (J,PR/C,69,047601,2004)
+#REFERENCE  Phys.Rev.C 69 (2004) 047601
+#DATASETS   0
+#
+#DATASET    C1242002 
+#DATE       20050601
+#REACTION   82-PB-208(4-BE-10,EL)82-PB-208,,DA,,RTH
+#PROJ       4010
+#TARG       82208
+#MF         4
+#MT         2
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 4010 82208   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4010 82208   4   2  C 3.9900+7          4.060623          0.692143                              J.J.Kolata+          (04)C1242  2 
+ 4010 82208   4   2  C 3.9900+7          0.625667          0.207912                              J.J.Kolata+          (04)C1242  2 
+ 4010 82208   4   2  C 3.9900+7          0.121013 0.013877-0.529919                              J.J.Kolata+          (04)C1242  2 
+ 4010 82208   4   2  C 3.9900+7          0.062909 0.013866-0.731354                              J.J.Kolata+          (04)C1242  2 
+ 4010 82208   4   2  C 3.9900+7          0.037782 8.7501-3-0.874620                              J.J.Kolata+          (04)C1242  2 
+#/DATA      5
+#/DATASET

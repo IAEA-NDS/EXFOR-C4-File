@@ -1,0 +1,36 @@
+#ENTRY      C0145
+#AUTHOR1    J.J.Kelly+
+#YEAR       1991
+#INSTITUTE  (1USAMRY)
+#TITLE      Neutron and proton transition densities from
+#+          32,34S(p,p') at E(p) = 318 MeV.
+#+          I. Isoscalar densities of 32S
+#AUTHOR(S)  J.J.Kelly, M.A.Khandaker, P.Boberg, A.E.Feldman, B.S.Flanders, 
+#+          S.Hyman, H.Seifert, P.Karen, B.E.Norum, P.Welch, S.Nanda, 
+#+          A.Saha
+#REF-CODE   (J,PR/C,44,1963,9111)
+#REFERENCE  Phys.Rev.C 44 (1991) 1963
+#DATASETS   0
+#
+#DATASET    C0145007 
+#DATE       19970422
+#REACTION   16-S-34(P,INL)16-S-34,PAR,DA
+#PROJ       1001
+#TARG       16034
+#MF         4
+#MT         601
+#PRODUCT    16-S-34
+#C4BEGIN    [ 1001 16034   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 16034   4 601 AC 3.1770+8 400000.0 4.8660-5 3.3089-6 0.914325          6174000.         LVLJ.J.Kelly+           (91)C0145  7 
+ 1001 16034   4 601 AC 3.1770+8 400000.0 1.8400-5 3.9210-6 0.899100          6174000.         LVLJ.J.Kelly+           (91)C0145  7 
+ 1001 16034   4 601 AC 3.1770+8 400000.0 3.5410-5 4.0367-6 0.882702          6174000.         LVLJ.J.Kelly+           (91)C0145  7 
+ 1001 16034   4 601 AC 3.1770+8 400000.0 2.1350-5 1.1059-6 0.865151          6174000.         LVLJ.J.Kelly+           (91)C0145  7 
+ 1001 16034   4 601 AC 3.1770+8 400000.0 1.4820-5 1.1812-6 0.853005          6174000.         LVLJ.J.Kelly+           (91)C0145  7 
+ 1001 16034   4 601 AC 3.1770+8 400000.0 1.1320-5 1.0437-6 0.839809          6174000.         LVLJ.J.Kelly+           (91)C0145  7 
+ 1001 16034   4 601 AC 3.1770+8 400000.0 4.9780-6 4.6295-7 0.784127          6174000.         LVLJ.J.Kelly+           (91)C0145  7 
+ 1001 16034   4 601 AC 3.1770+8 400000.0 3.6790-6 3.9770-7 0.761312          6174000.         LVLJ.J.Kelly+           (91)C0145  7 
+#/DATA      8
+#/DATASET

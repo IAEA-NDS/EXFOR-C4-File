@@ -1,0 +1,36 @@
+#ENTRY      C0841
+#AUTHOR1    A.M.Kalend+
+#YEAR       1983
+#INSTITUTE  (1USAKNT)
+#TITLE      Energy and angular distributions of neutrons from 90
+#+          MeV and 140 MeV alpha-particle bombardment of nuclei
+#AUTHOR(S)  A.M.Kalend, B.D.Anderson, A.R.Baldwin, R.Madey, J.W.Watson, 
+#+          C.C.Chang, H.D.Holmgren, R.W.Koontz, J.R.Wu, H.Machner
+#REF-CODE   (J,PR/C,28,105,1983)
+#REFERENCE  Phys.Rev.C 28 (1983) 105
+#DATASETS   0
+#
+#DATASET    C0841004 
+#DATE       20100520
+#REACTION   28-NI-58(P,X)0-NN-1,,DA/DE
+#PROJ       1001
+#TARG       28058
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1001 28058   6 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28058   6 201    9.0000+7          1.3100-9 7.991-11 0.866025          4.1200+7          E2A.M.Kalend+          (83)C0841  4 
+ 1001 28058   6 201    9.0000+7          1.3300-9 7.980-11 0.866025          4.4400+7          E2A.M.Kalend+          (83)C0841  4 
+ 1001 28058   6 201    9.0000+7          1.2100-9 7.139-11 0.866025          4.8000+7          E2A.M.Kalend+          (83)C0841  4 
+ 1001 28058   6 201    9.0000+7          1.1500-9 6.785-11 0.866025          5.2000+7          E2A.M.Kalend+          (83)C0841  4 
+ 1001 28058   6 201    9.0000+7          9.820-10 5.794-11 0.866025          5.6500+7          E2A.M.Kalend+          (83)C0841  4 
+ 1001 28058   6 201    9.0000+7          9.150-10 5.399-11 0.866025          6.1600+7          E2A.M.Kalend+          (83)C0841  4 
+ 1001 28058   6 201    9.0000+7          6.880-10 4.059-11 0.866025          6.7300+7          E2A.M.Kalend+          (83)C0841  4 
+ 1001 28058   6 201    9.0000+7          4.870-10 2.922-11 0.866025          7.3900+7          E2A.M.Kalend+          (83)C0841  4 
+ 1001 28058   6 201    9.0000+7          1.270-10 8.763-12 0.866025          8.1400+7          E2A.M.Kalend+          (83)C0841  4 
+ 1001 28058   6 201    9.0000+7          8.330-11 1.341-11 0.866025          9.0200+7          E2A.M.Kalend+          (83)C0841  4 
+#/DATA      10
+#/DATASET

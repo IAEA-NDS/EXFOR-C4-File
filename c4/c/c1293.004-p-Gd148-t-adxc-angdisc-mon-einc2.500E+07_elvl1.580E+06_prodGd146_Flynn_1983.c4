@@ -1,0 +1,35 @@
+#ENTRY      C1293
+#AUTHOR1    E.R.Flynn+
+#YEAR       1983
+#INSTITUTE  (1USALRL)
+#TITLE      146Gd and 144Sm excited by the (p,t) reaction on
+#+          radioactive targets
+#AUTHOR(S)  E.R.Flynn, J.van der Plicht, J.B.Wilhelmy, L.G.Mann, G.L.Struble, 
+#+          R.G.Lanier
+#REF-CODE   (J,PR/C,28,97,1983)
+#REFERENCE  Phys.Rev.C 28 (1983) 97
+#DATASETS   0
+#
+#DATASET    C1293004 
+#DATE       20191125
+#REACTION   64-GD-148(P,T)64-GD-146,PAR,DA
+#PROJ       1001
+#TARG       64148
+#MF         4
+#MT         700
+#PRODUCT    64-GD-146
+#C4BEGIN    [ 1001 64148   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 64148   4 700  C 2.5000+7          2.7800-6          0.984503          1580000.         LVLE.R.Flynn+           (83)C1293  4 
+ 1001 64148   4 700  C 2.5000+7          6.7500-6          0.967268          1580000.         LVLE.R.Flynn+           (83)C1293  4 
+ 1001 64148   4 700  C 2.5000+7          1.3400-5          0.940288          1580000.         LVLE.R.Flynn+           (83)C1293  4 
+ 1001 64148   4 700  C 2.5000+7          1.2800-5          0.906308          1580000.         LVLE.R.Flynn+           (83)C1293  4 
+ 1001 64148   4 700  C 2.5000+7          1.0100-5          0.865151          1580000.         LVLE.R.Flynn+           (83)C1293  4 
+ 1001 64148   4 700  C 2.5000+7          9.6800-6          0.820152          1580000.         LVLE.R.Flynn+           (83)C1293  4 
+ 1001 64148   4 700  C 2.5000+7          8.6400-6          0.768284          1580000.         LVLE.R.Flynn+           (83)C1293  4 
+ 1001 64148   4 700  C 2.5000+7          7.6000-6          0.708340          1580000.         LVLE.R.Flynn+           (83)C1293  4 
+ 1001 64148   4 700  C 2.5000+7          6.2300-6          0.645458          1580000.         LVLE.R.Flynn+           (83)C1293  4 
+#/DATA      9
+#/DATASET

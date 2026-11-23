@@ -1,0 +1,29 @@
+#ENTRY      C1014
+#AUTHOR1    H.C.Chow+
+#YEAR       1975
+#INSTITUTE  (1CANUBC)
+#TITLE      The 16O(p,gamma)17F Direct Capture Cross Section with
+#+          an Extrapolation to Astrophysical Energies
+#AUTHOR(S)  H.C.Chow, G.M.Griffiths, T.H.Hall
+#REF-CODE   (J,CJP,53,1672,1975)
+#REFERENCE  Can.J.Phys. 53 (1975) 1672
+#DATASETS   0
+#
+#DATASET    C1014003 
+#DATE       20040408
+#REACTION   8-O-16(P,G)9-F-17,PAR,DA
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         900
+#PRODUCT    9-F-17
+#C4BEGIN    [ 1001  8016   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4 900    1369211.          4.6000-8 5.0000-9 6.123-17          0.000000         LVLH.C.Chow+            (75)C1014  3 
+ 1001  8016   4 900    1671133.          6.6000-8 6.0000-9 6.123-17          0.000000         LVLH.C.Chow+            (75)C1014  3 
+ 1001  8016   4 900    1951797.          9.6000-8 6.0000-9 6.123-17          0.000000         LVLH.C.Chow+            (75)C1014  3 
+ 1001  8016   4 900    2555667.          1.6400-7 8.0000-9 6.123-17          0.000000         LVLH.C.Chow+            (75)C1014  3 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      C2756
+#AUTHOR1    M.S.Zisman+
+#YEAR       1972
+#INSTITUTE  (1USABRK)
+#TITLE      High-spin levels of 92,93,94,95,96Nb and 94Tc
+#+          populated with (alpha,d) and (alpha,t) reactions at
+#+          50 MeV
+#AUTHOR(S)  M.S.Zisman, B.G.Harvey
+#REF-CODE   (J,PR/C,5,1031,1972)
+#REFERENCE  Phys.Rev.C 5 (1972) 1031
+#DATASETS   0
+#
+#DATASET    C2756009 
+#DATE       20220606
+#REACTION   40-ZR-91(A,D)41-NB-93,PAR,DA
+#PROJ       2004
+#TARG       40091
+#MF         4
+#MT         650
+#PRODUCT    41-NB-93
+#C4BEGIN    [ 2004 40091   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 40091   4 650  C 5.0000+7 20000.00 8.6350-5 7.1090-6 0.963873          960000.0         LVLM.S.Zisman+          (72)C2756  9 
+ 2004 40091   4 650  C 5.0000+7 20000.00 6.6050-5 4.2580-6 0.935271          960000.0         LVLM.S.Zisman+          (72)C2756  9 
+ 2004 40091   4 650  C 5.0000+7 20000.00 3.6970-5 3.1590-6 0.902623          960000.0         LVLM.S.Zisman+          (72)C2756  9 
+ 2004 40091   4 650  C 5.0000+7 20000.00 1.9210-5 2.3030-6 0.858897          960000.0         LVLM.S.Zisman+          (72)C2756  9 
+ 2004 40091   4 650  C 5.0000+7 20000.00 1.5710-5 2.1600-6 0.810952          960000.0         LVLM.S.Zisman+          (72)C2756  9 
+ 2004 40091   4 650  C 5.0000+7 20000.00 1.3010-5 1.4380-6 0.692055          960000.0         LVLM.S.Zisman+          (72)C2756  9 
+ 2004 40091   4 650  C 5.0000+7 20000.00 8.7830-6 1.6460-6 0.620710          960000.0         LVLM.S.Zisman+          (72)C2756  9 
+ 2004 40091   4 650  C 5.0000+7 20000.00 3.8290-6 1.0380-6 0.551151          960000.0         LVLM.S.Zisman+          (72)C2756  9 
+#/DATA      8
+#/DATASET

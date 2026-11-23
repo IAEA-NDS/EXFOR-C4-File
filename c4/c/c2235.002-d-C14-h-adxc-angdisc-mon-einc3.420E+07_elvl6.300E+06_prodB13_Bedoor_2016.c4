@@ -1,0 +1,34 @@
+#ENTRY      C2235
+#AUTHOR1    S.Bedoor+
+#YEAR       2016
+#INSTITUTE  (1USAWMU)
+#TITLE      Structure of 14C and 14B from the
+#+          14,15C(d,3He)13,14B reactions
+#AUTHOR(S)  S.Bedoor, A.H.Wuosmaa, M.Albers, M.Alcorta, S.Almaraz-Calderon, 
+#+          B.B.Back, P.F.Bertone, C.M.Deibel, C.R.Hoffman, J.C.Lighthall, 
+#+          S.T.Marley, D.G.McNeel, R.C.Pardo, K.E.Rehm, J.P.Schiffer, 
+#+          D.V.Shetty
+#REF-CODE   (J,PR/C,93,044323,2016)
+#REFERENCE  Phys.Rev.C 93 (2016) 044323
+#DATASETS   0
+#
+#DATASET    C2235002 
+#DATE       20211007
+#REACTION   (1-H-2(6-C-14,HE3)5-B-13,PAR,DA,RSD)=(6-C-14(D,HE3)5-B-13,PAR,DA)
+#PROJ       1002
+#TARG       6014
+#MF         4
+#MT         750
+#PRODUCT    5-B-13
+#C4BEGIN    [ 1002  6014   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6014   4 750  C 3.4200+7          4.5000-5 8.0000-6 0.973579 7.9709-3 6300000.         LVLS.Bedoor+            (16)C2235  2 
+ 1002  6014   4 750  C 3.4200+7          3.8000-5 7.0000-6 0.951057 0.010787 6300000.         LVLS.Bedoor+            (16)C2235  2 
+ 1002  6014   4 750  C 3.4200+7          7.0000-5 9.0000-6 0.913545 0.011358 6300000.         LVLS.Bedoor+            (16)C2235  2 
+ 1002  6014   4 750  C 3.4200+7          8.7000-5 1.1000-5 0.895712 0.011641 6300000.         LVLS.Bedoor+            (16)C2235  2 
+ 1002  6014   4 750  C 3.4200+7          1.2800-4 1.6000-5 0.860742 0.013327 6300000.         LVLS.Bedoor+            (16)C2235  2 
+ 1002  6014   4 750  C 3.4200+7          1.1500-4 1.5000-5 0.826098 0.015737 6300000.         LVLS.Bedoor+            (16)C2235  2 
+#/DATA      6
+#/DATASET

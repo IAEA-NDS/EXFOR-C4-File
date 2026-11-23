@@ -1,0 +1,42 @@
+#ENTRY      C0154
+#AUTHOR1    A.E.Feldman+
+#YEAR       1994
+#INSTITUTE  (1USAINU)
+#TITLE      Neutron transition densities for 48Ca from proton
+#+          scattering at 200 and 318 MeV
+#AUTHOR(S)  A.E.Feldman, J.J.Kelly, B.S.Flanders, M.A.Khandaker, H.Seifert, 
+#+          P.Boberg, S.D.Hyman, P.H.Karen, B.E.Norum, P.Welch, Q.Chen, 
+#+          A.D.Bacher, G.P.A.Berg, E.J.Stephenson, S.Nanda, A.Saha, 
+#+          A.Scott
+#REF-CODE   (J,PR/C,49,2068,9404)
+#REFERENCE  Phys.Rev.C 49 (1994) 2068
+#DATASETS   0
+#
+#DATASET    C0154003 
+#DATE       19970423
+#REACTION   20-CA-48(P,INL)20-CA-48,PAR,DA
+#PROJ       1001
+#TARG       20048
+#MF         4
+#MT         601
+#PRODUCT    20-CA-48
+#C4BEGIN    [ 1001 20048   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20048   4 601 AC 2.0140+8 200000.0 3.5240-5 1.3102-5 0.991581          6820000.         LVLA.E.Feldman+         (94)C0154  3 
+ 1001 20048   4 601 AC 2.0140+8 200000.0 1.6800-5 5.1677-6 0.986658          6820000.         LVLA.E.Feldman+         (94)C0154  3 
+ 1001 20048   4 601 AC 2.0140+8 200000.0 2.7820-5 5.1634-6 0.976522          6820000.         LVLA.E.Feldman+         (94)C0154  3 
+ 1001 20048   4 601 AC 2.0140+8 200000.0 1.1310-5 4.0071-6 0.963537          6820000.         LVLA.E.Feldman+         (94)C0154  3 
+ 1001 20048   4 601 AC 2.0140+8 200000.0 2.5410-6 2.3377-6 0.938010          6820000.         LVLA.E.Feldman+         (94)C0154  3 
+ 1001 20048   4 601 AC 2.0140+8 200000.0 1.1120-5 1.4423-6 0.910900          6820000.         LVLA.E.Feldman+         (94)C0154  3 
+ 1001 20048   4 601 AC 2.0140+8 200000.0 7.2360-6 1.4045-6 0.887494          6820000.         LVLA.E.Feldman+         (94)C0154  3 
+ 1001 20048   4 601 AC 2.0140+8 200000.0 3.8200-6 1.2530-6 0.874789          6820000.         LVLA.E.Feldman+         (94)C0154  3 
+ 1001 20048   4 601 AC 2.0140+8 200000.0 3.3100-6 9.3772-7 0.861541          6820000.         LVLA.E.Feldman+         (94)C0154  3 
+ 1001 20048   4 601 AC 2.0140+8 200000.0 2.0460-6 3.4946-7 0.751955          6820000.         LVLA.E.Feldman+         (94)C0154  3 
+ 1001 20048   4 601 AC 2.0140+8 200000.0 7.5350-7 1.4716-7 0.715693          6820000.         LVLA.E.Feldman+         (94)C0154  3 
+ 1001 20048   4 601 AC 2.0140+8 200000.0 4.7290-7 1.2262-7 0.677518          6820000.         LVLA.E.Feldman+         (94)C0154  3 
+ 1001 20048   4 601 AC 2.0140+8 200000.0 1.3380-7 6.2097-8 0.637424          6820000.         LVLA.E.Feldman+         (94)C0154  3 
+ 1001 20048   4 601 AC 2.0140+8 200000.0 1.2230-7 4.4774-8 0.595524          6820000.         LVLA.E.Feldman+         (94)C0154  3 
+#/DATA      14
+#/DATASET

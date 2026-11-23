@@ -1,0 +1,32 @@
+#ENTRY      C1763
+#AUTHOR1    A.Budzanowski+
+#YEAR       2009
+#INSTITUTE  (3POLIFJ)
+#TITLE      Variation of nonequilibrium processes in the p + Ni
+#+          system with beam energy
+#AUTHOR(S)  A.Budzanowski, M.Fidelus, D.Filges, F.Goldenbaum, H.Hodde, 
+#+          L.Jarczyk, B.Kamys, M.Kistryn, St.Kistryn, St.Kliczewski, 
+#+          A.Kowalczyk, E.Kozik, P.Kulessa, H.Machner, A.Magiera, B.Piskor-Ignatowicz, 
+#+          K.Pysz, Z.Rudy, R.Siudak, M.Wojciechowski
+#REF-CODE   (J,PR/C,80,054604,2009)
+#REFERENCE  Phys.Rev.C 80 (2009) 054604
+#DATASETS   0
+#
+#DATASET    C1763005 
+#DATE       20091216
+#REACTION   28-NI-0(P,X)2-HE-3,,DA/DE
+#PROJ       1001
+#TARG       28000
+#MF         6
+#MT         206
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001 28000   6 206  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28000   6 206    1.7500+8          5.780-11 2.500-12 0.173648          1.2500+7          E2A.Budzanowski+       (09)C1763  5 
+ 1001 28000   6 206    1.7500+8          5.630-11 2.700-12 0.173648          1.5500+7          E2A.Budzanowski+       (09)C1763  5 
+ 1001 28000   6 206    1.7500+8          4.330-11 1.400-12 0.173648          1.8500+7          E2A.Budzanowski+       (09)C1763  5 
+ 1001 28000   6 206    1.7500+8          3.560-11 1.200-12 0.173648          2.1500+7          E2A.Budzanowski+       (09)C1763  5 
+#/DATA      4
+#/DATASET

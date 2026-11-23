@@ -1,0 +1,35 @@
+#ENTRY      C2984
+#AUTHOR1    R.G.Markham+
+#YEAR       1974
+#INSTITUTE  (1USAROC)
+#TITLE      Structure of 113In studied via the reactions
+#+          115In(p,t) 113In, 112Cd(3He,d)113In, and
+#+          112Cd(4He,t)113In
+#AUTHOR(S)  R.G.Markham, H.W.Fulbright
+#REF-CODE   (J,PR/C,9,1633,1974)
+#REFERENCE  Phys.Rev.C 9 (1974) 1633
+#DATASETS   0
+#
+#DATASET    C2984002 
+#DATE       20240912
+#REACTION   49-IN-115(P,T)49-IN-113,PAR,DA
+#PROJ       1001
+#TARG       49115
+#MF         4
+#MT         700
+#PRODUCT    49-IN-113
+#C4BEGIN    [ 1001 49115   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 49115   4 700  C 1.9000+7 6000.000 1.0060-5 1.1860-6 0.996557          1026000.         LVLR.G.Markham+         (74)C2984  2 
+ 1001 49115   4 700  C 1.9000+7 6000.000 5.9810-6 8.5530-7 0.985547          1026000.         LVLR.G.Markham+         (74)C2984  2 
+ 1001 49115   4 700  C 1.9000+7 6000.000 6.3900-6 1.0780-6 0.966075          1026000.         LVLR.G.Markham+         (74)C2984  2 
+ 1001 49115   4 700  C 1.9000+7 6000.000 5.5870-6 6.1200-7 0.940466          1026000.         LVLR.G.Markham+         (74)C2984  2 
+ 1001 49115   4 700  C 1.9000+7 6000.000 4.4030-6 4.8240-7 0.912420          1026000.         LVLR.G.Markham+         (74)C2984  2 
+ 1001 49115   4 700  C 1.9000+7 6000.000 3.1500-6 4.7740-7 0.861744          1026000.         LVLR.G.Markham+         (74)C2984  2 
+ 1001 49115   4 700  C 1.9000+7 6000.000 2.1550-6 3.9160-7 0.814247          1026000.         LVLR.G.Markham+         (74)C2984  2 
+ 1001 49115   4 700  C 1.9000+7 6000.000 1.9410-6 4.1340-7 0.761640          1026000.         LVLR.G.Markham+         (74)C2984  2 
+ 1001 49115   4 700  C 1.9000+7 6000.000 2.0440-6 4.5600-7 0.698328          1026000.         LVLR.G.Markham+         (74)C2984  2 
+#/DATA      9
+#/DATASET

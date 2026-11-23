@@ -1,0 +1,28 @@
+#ENTRY      C0534
+#AUTHOR1    M.Drosg+
+#YEAR       1982
+#INSTITUTE  (1USALAS)
+#TITLE      Differential Cross Sections of the Reaction 4He(t,n)6Li
+#+          between 8.5 and 16.5 MeV and the n-6Li Cross-Section
+#+          Standard
+#AUTHOR(S)  M.Drosg, D.M.Drake, R.A.Hardekopf, G.M.Hale
+#REF-CODE   (R,LA-9129,198201)
+#REFERENCE  Report LA-9129, 1982
+#DATASETS   0
+#
+#DATASET    C0534003 
+#DATE       19990701
+#REACTION   2-HE-4(T,N)3-LI-6,PAR,DA
+#PROJ       1003
+#TARG       2004
+#MF         4
+#MT         50
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 1003  2004   4  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  2004   4  50 A  1.6457+7 37000.00 6.3000-3 4.2840-3 0.984808          3562000.         LVLM.Drosg+             (82)C0534  3 
+ 1003  2004   4  50 A  1.6457+7 37000.00 6.7000-3 2.4120-3 0.939693          3562000.         LVLM.Drosg+             (82)C0534  3 
+#/DATA      2
+#/DATASET

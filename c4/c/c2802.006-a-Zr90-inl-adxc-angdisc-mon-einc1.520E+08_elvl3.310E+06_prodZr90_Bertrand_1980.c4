@@ -1,0 +1,38 @@
+#ENTRY      C2802
+#AUTHOR1    F.E.Bertrand+
+#YEAR       1980
+#INSTITUTE  (1USAORL)
+#TITLE      Giant multipole resonances from inelastic scattering
+#+          of 152-MeV alpha particles
+#AUTHOR(S)  F.E.Bertrand, G.R.Satchler, D.J.Horen, J.R.Wu, A.D.Bacher, 
+#+          G.T.Emery, W.P.Jones, D.W.Miller, A.van der Woude
+#REF-CODE   (J,PR/C,22,1832,1980)
+#REFERENCE  Phys.Rev.C 22 (1980) 1832
+#DATASETS   0
+#
+#DATASET    C2802006 
+#DATE       20220904
+#REACTION   40-ZR-90(A,INL)40-ZR-90,PAR,DA
+#PROJ       2004
+#TARG       40090
+#MF         4
+#MT         801
+#PRODUCT    40-ZR-90
+#C4BEGIN    [ 2004 40090   4 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 40090   4 801  C 1.5200+8          0.027590 3.2600-3 0.981581          3310000.         LVLF.E.Bertrand+        (80)C2802  6 
+ 2004 40090   4 801  C 1.5200+8          0.010170 1.5960-3 0.978042          3310000.         LVLF.E.Bertrand+        (80)C2802  6 
+ 2004 40090   4 801  C 1.5200+8          5.9710-3 6.1830-4 0.974343          3310000.         LVLF.E.Bertrand+        (80)C2802  6 
+ 2004 40090   4 801  C 1.5200+8          0.017080 2.2990-3 0.969433          3310000.         LVLF.E.Bertrand+        (80)C2802  6 
+ 2004 40090   4 801  C 1.5200+8          0.017080 2.5870-3 0.965432          3310000.         LVLF.E.Bertrand+        (80)C2802  6 
+ 2004 40090   4 801  C 1.5200+8          0.010300 1.0670-3 0.960493          3310000.         LVLF.E.Bertrand+        (80)C2802  6 
+ 2004 40090   4 801  C 1.5200+8          3.6960-3 5.4680-4 0.954475          3310000.         LVLF.E.Bertrand+        (80)C2802  6 
+ 2004 40090   4 801  C 1.5200+8          0.011220 1.7440-3 0.942682          3310000.         LVLF.E.Bertrand+        (80)C2802  6 
+ 2004 40090   4 801  C 1.5200+8          4.2430-3 5.7100-4 0.936409          3310000.         LVLF.E.Bertrand+        (80)C2802  6 
+ 2004 40090   4 801  C 1.5200+8          2.0600-3 3.3600-4 0.930743          3310000.         LVLF.E.Bertrand+        (80)C2802  6 
+ 2004 40090   4 801  C 1.5200+8          2.6970-3 3.3850-4 0.923880          3310000.         LVLF.E.Bertrand+        (80)C2802  6 
+ 2004 40090   4 801  C 1.5200+8          3.6960-3 5.5980-4 0.916454          3310000.         LVLF.E.Bertrand+        (80)C2802  6 
+#/DATA      12
+#/DATASET

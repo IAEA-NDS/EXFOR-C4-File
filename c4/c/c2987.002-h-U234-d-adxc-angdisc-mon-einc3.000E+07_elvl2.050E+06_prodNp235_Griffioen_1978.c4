@@ -1,0 +1,28 @@
+#ENTRY      C2987
+#AUTHOR1    R.D.Griffioen+
+#YEAR       1978
+#INSTITUTE  (1USAROC)
+#TITLE      Levels of 235Np excited by the 234U(3He,d) and
+#+          234U(alpha,t) reactions
+#AUTHOR(S)  R.D.Griffioen, R.C.Thompson, J.R.Huizenga
+#REF-CODE   (J,PR/C,18,671,1978)
+#REFERENCE  Phys.Rev.C 18 (1978) 671
+#DATASETS   0
+#
+#DATASET    C2987002 
+#DATE       20240914
+#REACTION   92-U-234(HE3,D)93-NP-235,PAR,DA
+#PROJ       2003
+#TARG       92234
+#MF         4
+#MT         650
+#PRODUCT    93-NP-235
+#C4BEGIN    [ 2003 92234   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 92234   4 650  C 3.0000+7          5.9000-6 2.8000-6 0.707107          2050000. 5000.000LVLR.D.Griffioen+       (78)C2987  2 
+ 2003 92234   4 650  C 3.0000+7          4.1000-6 1.1000-6 0.500000          2050000. 5000.000LVLR.D.Griffioen+       (78)C2987  2 
+ 2003 92234   4 650  C 3.0000+7          1.0300-5 5.0000-6 0.258819          2050000. 5000.000LVLR.D.Griffioen+       (78)C2987  2 
+#/DATA      3
+#/DATASET

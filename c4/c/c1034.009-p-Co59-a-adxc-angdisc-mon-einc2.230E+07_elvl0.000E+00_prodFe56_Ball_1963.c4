@@ -1,0 +1,33 @@
+#ENTRY      C1034
+#AUTHOR1    J.B.Ball+
+#YEAR       1963
+#INSTITUTE  (1USAORL)
+#TITLE      (p,d), (p,t), and (p,alpha) Reactions to the Same
+#+          Final States in Fe-56 and in Zr-90
+#AUTHOR(S)  J.B.Ball, C.B.Fulmer, C.D.Goodman
+#REF-CODE   (J,PR,130,2342,1963)
+#REFERENCE  Phys.Rev. 130 (1963) 2342
+#DATASETS   0
+#
+#DATASET    C1034009 
+#DATE       20220629
+#REACTION   27-CO-59(P,A)26-FE-56,PAR,DA
+#PROJ       1001
+#TARG       27059
+#MF         4
+#MT         800
+#PRODUCT    26-FE-56
+#C4BEGIN    [ 1001 27059   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 27059   4 800  C 2.2300+7          3.5340-6 1.1290-6 0.968929          0.000000         LVLJ.B.Ball+            (63)C1034  9 
+ 1001 27059   4 800  C 2.2300+7          6.1100-6 1.5690-6 0.937701          0.000000         LVLJ.B.Ball+            (63)C1034  9 
+ 1001 27059   4 800  C 2.2300+7          3.3680-6 9.4540-7 0.896765          0.000000         LVLJ.B.Ball+            (63)C1034  9 
+ 1001 27059   4 800  C 2.2300+7          7.0230-6 1.3240-6 0.860680          0.000000         LVLJ.B.Ball+            (63)C1034  9 
+ 1001 27059   4 800  C 2.2300+7          4.6080-6 7.0020-7 0.756482          0.000000         LVLJ.B.Ball+            (63)C1034  9 
+ 1001 27059   4 800  C 2.2300+7          2.1750-6 3.7030-7 0.628493          0.000000         LVLJ.B.Ball+            (63)C1034  9 
+ 1001 27059   4 800  C 2.2300+7          8.6720-7 2.4340-7 0.316775          0.000000         LVLJ.B.Ball+            (63)C1034  9 
+ 1001 27059   4 800  C 2.2300+7          3.8050-7 1.7490-7-0.199864          0.000000         LVLJ.B.Ball+            (63)C1034  9 
+#/DATA      8
+#/DATASET

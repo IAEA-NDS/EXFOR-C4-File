@@ -1,0 +1,36 @@
+#ENTRY      C2665
+#AUTHOR1    S.M.Grimes+
+#YEAR       1985
+#INSTITUTE  (1USALRL)
+#TITLE      Gamow-Teller matrix elements from the 11B(p,n)11C
+#+          reaction at Ep=26 MeV
+#AUTHOR(S)  S.M.Grimes, J.D.Anderson, J.C.Davis, R.H.Howell, C.Wong, 
+#+          A.W.Carpenter, J.A.Carr, F.Petrovich
+#REF-CODE   (J,PR/C,31,1679,1985)
+#REFERENCE  Phys.Rev.C 31 (1985) 1679
+#DATASETS   0
+#
+#DATASET    C2665002 
+#DATE       20211010
+#REACTION   5-B-11(P,N)6-C-11,PAR,DA
+#PROJ       1001
+#TARG       5011
+#MF         4
+#MT         50
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1001  5011   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5011   4  50  C 1.8000+7          4.8730-4         -0.848000          4804000.         LVLS.M.Grimes+          (85)C2665  2 
+ 1001  5011   4  50  C 1.8000+7          5.6150-4         -0.692000          4804000.         LVLS.M.Grimes+          (85)C2665  2 
+ 1001  5011   4  50  C 1.8000+7          4.9950-4         -0.498000          4804000.         LVLS.M.Grimes+          (85)C2665  2 
+ 1001  5011   4  50  C 1.8000+7          5.0960-4         -0.267000          4804000.         LVLS.M.Grimes+          (85)C2665  2 
+ 1001  5011   4  50  C 1.8000+7          4.7020-4         -4.0000-3          4804000.         LVLS.M.Grimes+          (85)C2665  2 
+ 1001  5011   4  50  C 1.8000+7          5.5320-4          0.257000          4804000.         LVLS.M.Grimes+          (85)C2665  2 
+ 1001  5011   4  50  C 1.8000+7          8.8400-4          0.513000          4804000.         LVLS.M.Grimes+          (85)C2665  2 
+ 1001  5011   4  50  C 1.8000+7          8.7840-4          0.736000          4804000.         LVLS.M.Grimes+          (85)C2665  2 
+ 1001  5011   4  50  C 1.8000+7          7.3730-4          0.902000          4804000.         LVLS.M.Grimes+          (85)C2665  2 
+ 1001  5011   4  50  C 1.8000+7          7.6480-4          0.991000          4804000.         LVLS.M.Grimes+          (85)C2665  2 
+#/DATA      10
+#/DATASET

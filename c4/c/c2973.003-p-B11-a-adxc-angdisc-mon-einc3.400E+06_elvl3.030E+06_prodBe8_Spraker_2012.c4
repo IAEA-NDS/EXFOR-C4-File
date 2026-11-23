@@ -1,0 +1,36 @@
+#ENTRY      C2973
+#AUTHOR1    M.C.Spraker+
+#YEAR       2012
+#INSTITUTE  (1USANGC)
+#TITLE      The 11B(p,alpha)8Be -> alpha + alpha and the
+#+          11B(alpha,alpha)11B Reactions at Energies Below 5.4
+#+          MeV
+#AUTHOR(S)  M.C.Spraker, M.W.Ahmed, M.A.Blackston, N.Brown, R.H.France Iii, 
+#+          S.S.Henshaw, B.A.Perdue, R.M.Prior, P.-N.Seo, S.Stave, H.R.Weller, 
+#+          M.H.Sikora
+#REF-CODE   (J,JFE,31,357,2012)
+#REFERENCE  J.Fusion Energy 31 (2012) 357
+#DATASETS   0
+#
+#DATASET    C2973003 
+#DATE       20240312
+#REACTION   5-B-11(P,A)4-BE-8,PAR,DA
+#PROJ       1001
+#TARG       5011
+#MF         4
+#MT         800
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 1001  5011   4 800 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5011   4 800 AC 3400000.          0.169961 2.8697-4 0.832148          3030000.         LVLM.C.Spraker+         (12)C2973  3 
+ 1001  5011   4 800 AC 3400000.          0.161982 2.6582-4 0.639976          3030000.         LVLM.C.Spraker+         (12)C2973  3 
+ 1001  5011   4 800 AC 3400000.          0.150604 3.1714-4 0.400669          3030000.         LVLM.C.Spraker+         (12)C2973  3 
+ 1001  5011   4 800 AC 3400000.          0.141414 2.5623-4 0.137099          3030000.         LVLM.C.Spraker+         (12)C2973  3 
+ 1001  5011   4 800 AC 3400000.          0.131765 2.5790-4-0.128449          3030000.         LVLM.C.Spraker+         (12)C2973  3 
+ 1001  5011   4 800 AC 3400000.          0.129250 2.6571-4-0.525175          3030000.         LVLM.C.Spraker+         (12)C2973  3 
+ 1001  5011   4 800 AC 3400000.          0.122726 2.7598-4-0.768395          3030000.         LVLM.C.Spraker+         (12)C2973  3 
+ 1001  5011   4 800 AC 3400000.          0.108325 2.7836-4-0.953822          3030000.         LVLM.C.Spraker+         (12)C2973  3 
+#/DATA      8
+#/DATASET

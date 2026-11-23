@@ -1,0 +1,35 @@
+#ENTRY      C0672
+#AUTHOR1    J.E.Finck+
+#YEAR       1983
+#INSTITUTE  (1USAMSU)
+#TITLE      A study of 206Pb by inelastic scattering of 35 MeV
+#+          protons
+#AUTHOR(S)  J.E.Finck, G.M.Crawley, J.A.Nolen Jr, R.T.Kouzes
+#REF-CODE   (J,NP/A,407,163,1983)
+#REFERENCE  Nucl.Phys.A 407 (1983) 163
+#DATASETS   0
+#
+#DATASET    C0672003 
+#DATE       20000828
+#REACTION   82-PB-206(P,INL)82-PB-206,PAR,DA
+#PROJ       1001
+#TARG       82206
+#MF         4
+#MT         601
+#PRODUCT    82-PB-206
+#C4BEGIN    [ 1001 82206   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82206   4 601 A  3.5000+7          1.1500-4 5.2800-4 0.905569          5007000.         LVLJ.E.Finck+           (83)C0672  3 
+ 1001 82206   4 601 A  3.5000+7          1.3400-4 6.9500-4 0.841511          5007000.         LVLJ.E.Finck+           (83)C0672  3 
+ 1001 82206   4 601 A  3.5000+7          4.9800-4 0.010500 0.763796          5007000.         LVLJ.E.Finck+           (83)C0672  3 
+ 1001 82206   4 601 A  3.5000+7          4.3300-4 0.010300 0.716911          5007000.         LVLJ.E.Finck+           (83)C0672  3 
+ 1001 82206   4 601 A  3.5000+7          5.2100-4 0.010300 0.640110          5007000.         LVLJ.E.Finck+           (83)C0672  3 
+ 1001 82206   4 601 A  3.5000+7          5.9000-4 0.010300 0.611527          5007000.         LVLJ.E.Finck+           (83)C0672  3 
+ 1001 82206   4 601 A  3.5000+7          3.7500-4 0.010200 0.540240          5007000.         LVLJ.E.Finck+           (83)C0672  3 
+ 1001 82206   4 601 A  3.5000+7          4.7400-4 0.010300 0.417867          5007000.         LVLJ.E.Finck+           (83)C0672  3 
+ 1001 82206   4 601 A  3.5000+7          2.8500-4 0.010200 0.337095          5007000.         LVLJ.E.Finck+           (83)C0672  3 
+ 1001 82206   4 601 A  3.5000+7          1.6300-4 0.010200 0.253758          5007000.         LVLJ.E.Finck+           (83)C0672  3 
+#/DATA      10
+#/DATASET

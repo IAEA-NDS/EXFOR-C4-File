@@ -1,0 +1,33 @@
+#ENTRY      C2606
+#AUTHOR1    O.Chamberlain+
+#YEAR       1951
+#INSTITUTE  (1USABRK)
+#TITLE      Experiments on Proton-Proton Scattering from 120 to
+#+          345 MeV
+#AUTHOR(S)  O.Chamberlain, E.Segre, C.Wiegand
+#REF-CODE   (J,PR,83,923,1951)
+#REFERENCE  Phys.Rev. 83 (1951) 923
+#DATASETS   0
+#
+#DATASET    C2606003 
+#DATE       20210504
+#REACTION   1-H-1(P,EL)1-H-1,,DA
+#PROJ       1001
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1001   4   2  C 2.5000+8          3.2300-3 2.9000-4 0.676876                              O.Chamberlain+       (51)C2606  3 
+ 1001  1001   4   2  C 2.5000+8          3.9700-3 5.1000-4 0.676876                              O.Chamberlain+       (51)C2606  3 
+ 1001  1001   4   2  C 2.5000+8          3.8400-3 2.0000-4 0.428935                              O.Chamberlain+       (51)C2606  3 
+ 1001  1001   4   2  C 2.5000+8          3.5300-3 1.8000-4 0.201078                              O.Chamberlain+       (51)C2606  3 
+ 1001  1001   4   2  C 2.5000+8          3.6900-3 1.5000-4 0.201078                              O.Chamberlain+       (51)C2606  3 
+ 1001  1001   4   2  C 2.5000+8          3.6700-3 2.1000-4 0.048850                              O.Chamberlain+       (51)C2606  3 
+ 1001  1001   4   2  C 2.5000+8          3.9500-3 2.2000-4 0.041876                              O.Chamberlain+       (51)C2606  3 
+ 1001  1001   4   2  C 2.5000+8          3.5900-3 2.1000-4 0.041876                              O.Chamberlain+       (51)C2606  3 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      C2804
+#AUTHOR1    R.J.Peterson+
+#YEAR       1986
+#INSTITUTE  (1USACLU)
+#TITLE      Proton stripping to 6- stretched states of 26Al
+#AUTHOR(S)  R.J.Peterson, B.L.Clausen, J.J.Kraushaar, H.Nann, W.W.Jacobs, 
+#+          R.A.Lindgren, M.A.Plum
+#REF-CODE   (J,PR/C,33,31,1986)
+#REFERENCE  Phys.Rev.C 33 (1986) 31
+#DATASETS   0
+#
+#DATASET    C2804003 
+#DATE       20220917
+#REACTION   12-MG-25(A,T)13-AL-26,PAR,DA
+#PROJ       2004
+#TARG       12025
+#MF         4
+#MT         700
+#PRODUCT    13-AL-26
+#C4BEGIN    [ 2004 12025   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 12025   4 700  C 8.0900+7          9.4460-4 6.4720-5 0.990790          5390000.         LVLR.J.Peterson+        (86)C2804  3 
+ 2004 12025   4 700  C 8.0900+7          4.1260-4          0.976885          5390000.         LVLR.J.Peterson+        (86)C2804  3 
+ 2004 12025   4 700  C 8.0900+7          2.5560-4          0.962142          5390000.         LVLR.J.Peterson+        (86)C2804  3 
+ 2004 12025   4 700  C 8.0900+7          1.6690-4          0.936916          5390000.         LVLR.J.Peterson+        (86)C2804  3 
+ 2004 12025   4 700  C 8.0900+7          1.0840-4          0.905228          5390000.         LVLR.J.Peterson+        (86)C2804  3 
+ 2004 12025   4 700  C 8.0900+7          6.8720-5          0.868934          5390000.         LVLR.J.Peterson+        (86)C2804  3 
+ 2004 12025   4 700  C 8.0900+7          3.9640-5          0.825183          5390000.         LVLR.J.Peterson+        (86)C2804  3 
+#/DATA      7
+#/DATASET

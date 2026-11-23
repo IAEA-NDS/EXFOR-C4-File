@@ -1,0 +1,36 @@
+#ENTRY      C3045
+#AUTHOR1    A.N.Kuchera+
+#YEAR       2024
+#INSTITUTE  (1USAFSU)
+#TITLE      11B states above the alpha-decay threshold via the
+#+          10B(d,p) 11B reaction
+#AUTHOR(S)  A.N.Kuchera, G.Ryan, G.Selby, D.Snider, S.Anderson, S.Almaraz-Calderon, 
+#+          L.T.Baby, B.A.Brown, K.Hanselman, E.Lopez-Saavedra, K.T.Macon, 
+#+          G.W.McCann, K.W.Kemper, M.Spieker, I.Wiedenhover
+#REF-CODE   (J,PR/C,110,054319,2024)
+#REFERENCE  Phys.Rev.C 110 (2024) 054319
+#DATASETS   0
+#
+#DATASET    C3045002 
+#DATE       20250228
+#REACTION   5-B-10(D,P)5-B-11,PAR,DA
+#PROJ       1002
+#TARG       5010
+#MF         4
+#MT         600
+#PRODUCT    5-B-11
+#C4BEGIN    [ 1002  5010   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5010   4 600 AC 1.6000+7          4.5740-3 6.9357-4 0.980512          8920000.         LVLA.N.Kuchera          (24)C3045  2 
+ 1002  5010   4 600 AC 1.6000+7          2.9907-3 4.5086-4 0.956356          8920000.         LVLA.N.Kuchera          (24)C3045  2 
+ 1002  5010   4 600 AC 1.6000+7          2.5146-3 3.7840-4 0.923009          8920000.         LVLA.N.Kuchera          (24)C3045  2 
+ 1002  5010   4 600 AC 1.6000+7          1.3652-3 2.0535-4 0.880891          8920000.         LVLA.N.Kuchera          (24)C3045  2 
+ 1002  5010   4 600 AC 1.6000+7          7.6176-4 1.1520-4 0.830596          8920000.         LVLA.N.Kuchera          (24)C3045  2 
+ 1002  5010   4 600 AC 1.6000+7          4.4123-4 6.6374-5 0.772623          8920000.         LVLA.N.Kuchera          (24)C3045  2 
+ 1002  5010   4 600 AC 1.6000+7          4.2090-4 6.4425-5 0.707847          8920000.         LVLA.N.Kuchera          (24)C3045  2 
+ 1002  5010   4 600 AC 1.6000+7          4.5069-4 6.7838-5 0.636886          8920000.         LVLA.N.Kuchera          (24)C3045  2 
+ 1002  5010   4 600 AC 1.6000+7          4.3152-4 6.4961-5 0.560639          8920000.         LVLA.N.Kuchera          (24)C3045  2 
+#/DATA      9
+#/DATASET

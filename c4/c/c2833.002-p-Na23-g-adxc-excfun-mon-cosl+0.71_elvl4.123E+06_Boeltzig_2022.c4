@@ -1,0 +1,31 @@
+#ENTRY      C2833
+#AUTHOR1    A.Boeltzig+
+#YEAR       2022
+#INSTITUTE  (2ITYNAP)
+#TITLE      Investigation of direct capture in the 23Na(p,gamma)
+#+          24Mg reaction
+#AUTHOR(S)  A.Boeltzig, R.J.deBoer, Y.Chen, A.Best, M.Couder, A.Di Leva, 
+#+          B.Frentz, J.Gorres, Gy.Gyurky, G.Imbriani, M.Junker, Q.Liu, 
+#+          S.Lyons, K.Manukyan, K.T.Macon, L.Morales, M.T.Moran, D.Odell, 
+#+          C.Seymour, G.Seymour, E.Stech, B.Vande Kolk, M.Wiescher
+#REF-CODE   (J,PR/C,106,045801,2022)
+#REFERENCE  Phys.Rev.C 106 (2022) 045801
+#DATASETS   0
+#
+#DATASET    C2833002 
+#DATE       20260717
+#REACTION   11-NA-23(P,G)12-MG-24,PAR,DA
+#PROJ       1001
+#TARG       11023
+#MF         4
+#MT         900
+#PRODUCT    12-MG-24
+#C4BEGIN    [ 1001 11023   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 11023   4 900  C 860451.5 1000.038 9.020-10 4.140-10 0.707107          4123000.         LVLA.Boeltzig+          (22)C2833  2 
+ 1001 11023   4 900  C 1006907. 1000.045 1.5700-9 4.900-10 0.707107          4123000.         LVLA.Boeltzig+          (22)C2833  2 
+ 1001 11023   4 900  C 1028203. 1000.045 1.7200-9 6.910-10 0.707107          4123000.         LVLA.Boeltzig+          (22)C2833  2 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      C1034
+#AUTHOR1    J.B.Ball+
+#YEAR       1963
+#INSTITUTE  (1USAORL)
+#TITLE      (p,d), (p,t), and (p,alpha) Reactions to the Same
+#+          Final States in Fe-56 and in Zr-90
+#AUTHOR(S)  J.B.Ball, C.B.Fulmer, C.D.Goodman
+#REF-CODE   (J,PR,130,2342,1963)
+#REFERENCE  Phys.Rev. 130 (1963) 2342
+#DATASETS   0
+#
+#DATASET    C1034009 
+#DATE       20220629
+#REACTION   27-CO-59(P,A)26-FE-56,PAR,DA
+#PROJ       1001
+#TARG       27059
+#MF         4
+#MT         800
+#PRODUCT    26-FE-56
+#C4BEGIN    [ 1001 27059   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 27059   4 800  C 2.2300+7          4.7290-5          0.969774          2100000.         LVLJ.B.Ball+            (63)C1034  9 
+ 1001 27059   4 800  C 2.2300+7          2.5780-5          0.937105          2100000.         LVLJ.B.Ball+            (63)C1034  9 
+ 1001 27059   4 800  C 2.2300+7          4.3600-5          0.896865          2100000.         LVLJ.B.Ball+            (63)C1034  9 
+ 1001 27059   4 800  C 2.2300+7          2.9630-5          0.858146          2100000.         LVLJ.B.Ball+            (63)C1034  9 
+ 1001 27059   4 800  C 2.2300+7          2.0100-5          0.757474          2100000.         LVLJ.B.Ball+            (63)C1034  9 
+ 1001 27059   4 800  C 2.2300+7          1.2620-5          0.629402          2100000.         LVLJ.B.Ball+            (63)C1034  9 
+ 1001 27059   4 800  C 2.2300+7          4.6100-6          0.321076          2100000.         LVLJ.B.Ball+            (63)C1034  9 
+ 1001 27059   4 800  C 2.2300+7          2.0440-6         -0.208202          2100000.         LVLJ.B.Ball+            (63)C1034  9 
+ 1001 27059   4 800  C 2.2300+7          3.8200-7 1.7780-7-0.525323          2100000.         LVLJ.B.Ball+            (63)C1034  9 
+#/DATA      9
+#/DATASET

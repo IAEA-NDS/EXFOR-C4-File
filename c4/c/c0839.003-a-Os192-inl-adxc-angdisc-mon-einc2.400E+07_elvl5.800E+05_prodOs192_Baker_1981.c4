@@ -1,0 +1,36 @@
+#ENTRY      C0839
+#AUTHOR1    F.T.Baker+
+#YEAR       1981
+#INSTITUTE  (1USAGEO)
+#TITLE      192Os(alpha,alpha') reaction at E(alpha)=24 MeV and
+#+          the IBA model
+#AUTHOR(S)  F.T.Baker, M.A.Grimm Jr, A.Scott, R.C.Styles, T.H.Kruse, 
+#+          K.Jones, R.Suchannek
+#REF-CODE   (J,NP/A,371,68,1981)
+#REFERENCE  Nucl.Phys.A 371 (1981) 68
+#DATASETS   0
+#
+#DATASET    C0839003 
+#DATE       20020813
+#REACTION   76-OS-192(A,INL)76-OS-192,PAR,DA
+#PROJ       2004
+#TARG       76192
+#MF         4
+#MT         801
+#PRODUCT    76-OS-192
+#C4BEGIN    [ 2004 76192   4 801 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 76192   4 801 AC 2.4000+7          7.1000-5 1.1502-4 0.630540          580000.0         LVLF.T.Baker+           (81)C0839  3 
+ 2004 76192   4 801 AC 2.4000+7          4.9000-5 1.5680-5 0.484352          580000.0         LVLF.T.Baker+           (81)C0839  3 
+ 2004 76192   4 801 AC 2.4000+7          1.9000-5 8.9300-6 0.323587          580000.0         LVLF.T.Baker+           (81)C0839  3 
+ 2004 76192   4 801 AC 2.4000+7          3.7000-5 7.4000-6 0.153331          580000.0         LVLF.T.Baker+           (81)C0839  3 
+ 2004 76192   4 801 AC 2.4000+7          7.8000-5 7.8000-6-0.020768          580000.0         LVLF.T.Baker+           (81)C0839  3 
+ 2004 76192   4 801 AC 2.4000+7          9.6000-5 9.6000-6-0.193892          580000.0         LVLF.T.Baker+           (81)C0839  3 
+ 2004 76192   4 801 AC 2.4000+7          1.0200-4 1.0200-5-0.360322          580000.0         LVLF.T.Baker+           (81)C0839  3 
+ 2004 76192   4 801 AC 2.4000+7          1.0600-4 1.0600-5-0.515487          580000.0         LVLF.T.Baker+           (81)C0839  3 
+ 2004 76192   4 801 AC 2.4000+7          8.6000-5 8.6000-6-0.654873          580000.0         LVLF.T.Baker+           (81)C0839  3 
+ 2004 76192   4 801 AC 2.4000+7          7.9000-5 7.9000-6-0.774613          580000.0         LVLF.T.Baker+           (81)C0839  3 
+#/DATA      10
+#/DATASET

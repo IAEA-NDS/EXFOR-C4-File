@@ -1,0 +1,30 @@
+#ENTRY      C1310
+#AUTHOR1    S.Mordechai+
+#YEAR       1982
+#INSTITUTE  (3ISLNEG)
+#TITLE      Excitation of 81As by the 82Se(t, alpha ) reaction
+#AUTHOR(S)  S.Mordechai, S.LaFrance, H.T.Fortune
+#REF-CODE   (J,PR/C,25,1276,1982)
+#REFERENCE  Phys.Rev.C 25 (1982) 1276
+#DATASETS   0
+#
+#DATASET    C1310002 
+#DATE       20050811
+#REACTION   34-SE-82(T,A)33-AS-81,PAR,DA
+#PROJ       1003
+#TARG       34082
+#MF         4
+#MT         800
+#PRODUCT    33-AS-81
+#C4BEGIN    [ 1003 34082   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 34082   4 800  C 1.8000+7          4.2300-4          0.939094          3098000.         LVLS.Mordechai+         (82)C1310  2 
+ 1003 34082   4 800  C 1.8000+7          9.0600-5 5.8600-6 0.883766          3098000.         LVLS.Mordechai+         (82)C1310  2 
+ 1003 34082   4 800  C 1.8000+7          1.2600-4          0.817145          3098000.         LVLS.Mordechai+         (82)C1310  2 
+ 1003 34082   4 800  C 1.8000+7          3.1400-5 3.9400-6 0.731354          3098000.         LVLS.Mordechai+         (82)C1310  2 
+ 1003 34082   4 800  C 1.8000+7          2.5200-5 3.5300-6 0.633381          3098000.         LVLS.Mordechai+         (82)C1310  2 
+ 1003 34082   4 800  C 1.8000+7          1.2000-5 2.8300-6 0.523986          3098000.         LVLS.Mordechai+         (82)C1310  2 
+#/DATA      6
+#/DATASET

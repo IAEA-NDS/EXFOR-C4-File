@@ -1,0 +1,30 @@
+#ENTRY      C1325
+#AUTHOR1    P.C.Li+
+#YEAR       1987
+#INSTITUTE  (1USAPUP)
+#TITLE      Nuclear structure of 86,87Rb from 87,88Si(d, 3He) at
+#+          28 MeV
+#AUTHOR(S)  P.C.Li, W.W.Daehnick, S.K.Saha, J.D.Brown, R.T.Kouzes
+#REF-CODE   (J,NP/A,469,393,1987)
+#REFERENCE  Nucl.Phys.A 469 (1987) 393
+#DATASETS   0
+#
+#DATASET    C1325002 
+#DATE       20050817
+#REACTION   38-SR-88(D,HE3)37-RB-87,PAR,DA
+#PROJ       1002
+#TARG       38088
+#MF         4
+#MT         750
+#PRODUCT    37-RB-87
+#C4BEGIN    [ 1002 38088   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 38088   4 750  C 2.7900+7          6.0300-5 1.1700-5 0.951594          1578000.         LVLP.C.Li+              (87)C1325  2 
+ 1002 38088   4 750  C 2.7900+7          5.1000-5 1.2000-5 0.919821          1578000.         LVLP.C.Li+              (87)C1325  2 
+ 1002 38088   4 750  C 2.7900+7          4.8200-5 1.2700-5 0.901077          1578000.         LVLP.C.Li+              (87)C1325  2 
+ 1002 38088   4 750  C 2.7900+7          5.2400-5 1.0100-5 0.858065          1578000.         LVLP.C.Li+              (87)C1325  2 
+ 1002 38088   4 750  C 2.7900+7          3.4900-5 7.2600-6 0.748956          1578000.         LVLP.C.Li+              (87)C1325  2 
+#/DATA      5
+#/DATASET

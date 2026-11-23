@@ -1,0 +1,33 @@
+#ENTRY      C0363
+#AUTHOR1    L.G.Jodra+
+#YEAR       1955
+#INSTITUTE  (1USACHI)
+#TITLE      High-energy fission of bismuth. proton energy
+#+          dependence
+#AUTHOR(S)  L.G.Jodra, N.Sugarman
+#REF-CODE   (J,PR,99,1470,1955)
+#REFERENCE  Phys.Rev. 99 (1955) 1470
+#DATASETS   0
+#
+#DATASET    C0363003 
+#DATE       20070717
+#REACTION   83-BI-209(P,X)ELEM/MASS,IND,SIG
+#PROJ       1001
+#TARG       83209
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 83209   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 83209   3 454    7.5000+7          9.0000-6                    33074.9                     L.G.Jodra+           (55)C0363  3 
+ 1001 83209   3 454    7.5000+7          3.8000-6                    35082.9                     L.G.Jodra+           (55)C0363  3 
+ 1001 83209   3 454    7.5000+7          3.0000-5                    41096.9                     L.G.Jodra+           (55)C0363  3 
+ 1001 83209   3 454    7.5000+7          5.0000-6                    49114.1                     L.G.Jodra+           (55)C0363  3 
+ 1001 83209   3 454    7.5000+7          1.4000-4                    49115.1                     L.G.Jodra+           (55)C0363  3 
+ 1001 83209   3 454    7.5000+7          3.4000-7                    53124.9                     L.G.Jodra+           (55)C0363  3 
+ 1001 83209   3 454    7.5000+7          1.4000-6                    53126.9                     L.G.Jodra+           (55)C0363  3 
+ 1001 83209   3 454    7.5000+7          1.4000-6                    53128.9                     L.G.Jodra+           (55)C0363  3 
+ 1001 83209   3 454    7.5000+7          9.4000-7                    53130.9                     L.G.Jodra+           (55)C0363  3 
+#/DATA      9
+#/DATASET
