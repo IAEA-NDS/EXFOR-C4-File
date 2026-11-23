@@ -1,0 +1,43 @@
+#ENTRY      T0134
+#AUTHOR1    A.J.Elwyn+
+#YEAR       1977
+#INSTITUTE  (1USAANL)
+#TITLE      Absolute cross sections for deuteron-induced reactions
+#+          on 6Li at energies below 1 MeV.
+#AUTHOR(S)  A.J.Elwyn, R.E.Holland, C.N.Davids, L.Meyer-Schuetzmeister, 
+#+          J.E.Monahan, F.P.Mooring, W.Ray Jr
+#REF-CODE   (J,PR/C,16,1744,197711)
+#REFERENCE  Phys.Rev.C 16 (1977) 1744
+#DATASETS   0
+#
+#DATASET    T0134002 
+#DATE       20001128
+#REACTION   3-LI-6(D,A)2-HE-4,,DA
+#PROJ       1002
+#TARG       3006
+#MF         4
+#MT         107
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  3006   4 107 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3006   4 107 A  369000.0          2.0600-3          0.965926                              A.J.Elwyn+           (77)T0134  2 
+ 1002  3006   4 107 A  369000.0          2.0700-3          0.906308                              A.J.Elwyn+           (77)T0134  2 
+ 1002  3006   4 107 A  369000.0          2.0800-3          0.819152                              A.J.Elwyn+           (77)T0134  2 
+ 1002  3006   4 107 A  369000.0          2.0500-3          0.707107                              A.J.Elwyn+           (77)T0134  2 
+ 1002  3006   4 107 A  369000.0          1.9100-3          0.573576                              A.J.Elwyn+           (77)T0134  2 
+ 1002  3006   4 107 A  369000.0          1.9000-3          0.422618                              A.J.Elwyn+           (77)T0134  2 
+ 1002  3006   4 107 A  369000.0          1.8300-3          0.258819                              A.J.Elwyn+           (77)T0134  2 
+ 1002  3006   4 107 A  369000.0          1.7600-3          0.130526                              A.J.Elwyn+           (77)T0134  2 
+ 1002  3006   4 107 A  369000.0          1.7200-3          6.123-17                              A.J.Elwyn+           (77)T0134  2 
+ 1002  3006   4 107 A  369000.0          1.7100-3         -0.130526                              A.J.Elwyn+           (77)T0134  2 
+ 1002  3006   4 107 A  369000.0          1.7100-3         -0.258819                              A.J.Elwyn+           (77)T0134  2 
+ 1002  3006   4 107 A  369000.0          1.6400-3         -0.422618                              A.J.Elwyn+           (77)T0134  2 
+ 1002  3006   4 107 A  369000.0          1.6500-3         -0.573576                              A.J.Elwyn+           (77)T0134  2 
+ 1002  3006   4 107 A  369000.0          1.6900-3         -0.707107                              A.J.Elwyn+           (77)T0134  2 
+ 1002  3006   4 107 A  369000.0          1.6600-3         -0.819152                              A.J.Elwyn+           (77)T0134  2 
+ 1002  3006   4 107 A  369000.0          1.6000-3         -0.906308                              A.J.Elwyn+           (77)T0134  2 
+ 1002  3006   4 107 A  369000.0          1.5900-3         -0.965926                              A.J.Elwyn+           (77)T0134  2 
+#/DATA      17
+#/DATASET

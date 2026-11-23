@@ -1,0 +1,28 @@
+#ENTRY      T0059
+#AUTHOR1    J.Thekkumthala+
+#YEAR       1986
+#INSTITUTE  (1CANALA)
+#TITLE      Cross section and analyzing powers for the reaction
+#+          p 3H -> gamma 4He at Ep = 227, 300 and 375 MeV
+#AUTHOR(S)  J.Thekkumthala, J.M.Cameron, C.A.Davis, P.Kitching, J.Pasos, 
+#+          J.Soukup, J.Uegaki, H.S.Wilson, R.Abegg, D.A.Hutcheon, C.A.Miller, 
+#+          A.W.Stetz, A.H.Hussein
+#REF-CODE   (J,NP/A,455,687,1986)
+#REFERENCE  Nucl.Phys.A 455 (1986) 687
+#DATASETS   0
+#
+#DATASET    T0059002 
+#DATE       20001024
+#REACTION   1-H-3(P,G)2-HE-4,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         102
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  1003   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4 102    2.2700+8          3.1900-8 2.2000-9 6.123-17 0.178024                     J.Thekkumthala+      (86)T0059  2 
+#/DATA      1
+#/DATASET

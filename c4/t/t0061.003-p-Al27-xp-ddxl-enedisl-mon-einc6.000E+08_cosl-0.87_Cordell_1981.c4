@@ -1,0 +1,31 @@
+#ENTRY      T0061
+#AUTHOR1    K.R.Cordell+
+#YEAR       1981
+#INSTITUTE  (1USAVIR)
+#TITLE      Proton-inclusive cross sections from 600 MeV proton-
+#+          nucleus reactions
+#AUTHOR(S)  K.R.Cordell, S.T.Thornton, L.C.Dennis, R.R.Doering, R.L.Parks, 
+#+          T.C.Schweizer
+#REF-CODE   (J,NP/A,352,485,1981)
+#REFERENCE  Nucl.Phys.A 352 (1981) 485
+#DATASETS   0
+#
+#DATASET    T0061003 
+#DATE       20001018
+#REACTION   13-AL-27(P,X)1-H-1,,DA/DE
+#PROJ       1001
+#TARG       13027
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001 13027   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   6 203    6.0000+8          7.400-12 5.550-12-0.866025          1.2390+8          E2K.R.Cordell+         (81)T0061  3 
+ 1001 13027   6 203    6.0000+8          4.260-12 3.195-12-0.866025          1.4880+8          E2K.R.Cordell+         (81)T0061  3 
+ 1001 13027   6 203    6.0000+8          1.720-12 1.290-12-0.866025          1.7910+8          E2K.R.Cordell+         (81)T0061  3 
+ 1001 13027   6 203    6.0000+8          4.600-13 3.450-13-0.866025          2.1720+8          E2K.R.Cordell+         (81)T0061  3 
+ 1001 13027   6 203    6.0000+8          6.088-14 4.566-14-0.866025          2.7450+8          E2K.R.Cordell+         (81)T0061  3 
+#/DATA      5
+#/DATASET

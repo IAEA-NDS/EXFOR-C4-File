@@ -1,0 +1,36 @@
+#ENTRY      T0061
+#AUTHOR1    K.R.Cordell+
+#YEAR       1981
+#INSTITUTE  (1USAVIR)
+#TITLE      Proton-inclusive cross sections from 600 MeV proton-
+#+          nucleus reactions
+#AUTHOR(S)  K.R.Cordell, S.T.Thornton, L.C.Dennis, R.R.Doering, R.L.Parks, 
+#+          T.C.Schweizer
+#REF-CODE   (J,NP/A,352,485,1981)
+#REFERENCE  Nucl.Phys.A 352 (1981) 485
+#DATASETS   0
+#
+#DATASET    T0061003 
+#DATE       20001018
+#REACTION   13-AL-27(P,X)1-H-1,,DA/DE
+#PROJ       1001
+#TARG       13027
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001 13027   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   6 203    6.0000+8          2.322-10 1.742-10 0.500000          1.0680+8          E2K.R.Cordell+         (81)T0061  3 
+ 1001 13027   6 203    6.0000+8          2.308-10 1.731-10 0.500000          1.2460+8          E2K.R.Cordell+         (81)T0061  3 
+ 1001 13027   6 203    6.0000+8          2.144-10 1.608-10 0.500000          1.4380+8          E2K.R.Cordell+         (81)T0061  3 
+ 1001 13027   6 203    6.0000+8          1.889-10 1.417-10 0.500000          1.6160+8          E2K.R.Cordell+         (81)T0061  3 
+ 1001 13027   6 203    6.0000+8          1.823-10 1.367-10 0.500000          1.8660+8          E2K.R.Cordell+         (81)T0061  3 
+ 1001 13027   6 203    6.0000+8          1.235-10 9.263-11 0.500000          2.1730+8          E2K.R.Cordell+         (81)T0061  3 
+ 1001 13027   6 203    6.0000+8          7.310-11 5.482-11 0.500000          2.4800+8          E2K.R.Cordell+         (81)T0061  3 
+ 1001 13027   6 203    6.0000+8          6.310-11 4.733-11 0.500000          2.8600+8          E2K.R.Cordell+         (81)T0061  3 
+ 1001 13027   6 203    6.0000+8          2.310-11 1.732-11 0.500000          3.3730+8          E2K.R.Cordell+         (81)T0061  3 
+ 1001 13027   6 203    6.0000+8          5.600-12 4.200-12 0.500000          4.1070+8          E2K.R.Cordell+         (81)T0061  3 
+#/DATA      10
+#/DATASET

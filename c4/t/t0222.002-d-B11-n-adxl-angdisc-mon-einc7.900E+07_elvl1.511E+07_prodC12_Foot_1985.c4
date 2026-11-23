@@ -1,0 +1,37 @@
+#ENTRY      T0222
+#AUTHOR1    P.B.Foot+
+#YEAR       1985
+#INSTITUTE  (3AULAML)
+#TITLE      11B(d,n)12C reaction and the adiabatic approximation.
+#AUTHOR(S)  P.B.Foot, G.G.Shute, B.M.Spicer, C.C.Foster, H.Nann, E.J.Stephenson, 
+#+          B.D.Anderson, A.R.Baldwin, B.S.Flanders, C.Lebo, R.Madey, 
+#+          J.W.Watson
+#REF-CODE   (J,PR/C,31,1133,198504)
+#REFERENCE  Phys.Rev.C 31 (1985) 1133
+#DATASETS   0
+#
+#DATASET    T0222002 
+#DATE       20030426
+#REACTION   5-B-11(D,N)6-C-12,PAR,DA
+#PROJ       1002
+#TARG       5011
+#MF         4
+#MT         50
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1002  5011   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5011   4  50  C 7.9000+7 300000.0 9.8600-4          0.999816          1.5110+7         LVLP.B.Foot+            (85)T0222  2 
+ 1002  5011   4  50  C 7.9000+7 300000.0 8.4800-4          0.997801          1.5110+7         LVLP.B.Foot+            (85)T0222  2 
+ 1002  5011   4  50  C 7.9000+7 300000.0 7.1300-4          0.991894          1.5110+7         LVLP.B.Foot+            (85)T0222  2 
+ 1002  5011   4  50  C 7.9000+7 300000.0 4.0900-4          0.975149          1.5110+7         LVLP.B.Foot+            (85)T0222  2 
+ 1002  5011   4  50  C 7.9000+7 300000.0 1.7800-4 1.9900-5 0.948876          1.5110+7         LVLP.B.Foot+            (85)T0222  2 
+ 1002  5011   4  50  C 7.9000+7 300000.0 6.7100-5 9.0500-6 0.912834          1.5110+7         LVLP.B.Foot+            (85)T0222  2 
+ 1002  5011   4  50  C 7.9000+7 300000.0 4.4800-5 6.0500-6 0.888617          1.5110+7         LVLP.B.Foot+            (85)T0222  2 
+ 1002  5011   4  50  C 7.9000+7 300000.0 6.0100-5 1.2600-5 0.885394          1.5110+7         LVLP.B.Foot+            (85)T0222  2 
+ 1002  5011   4  50  C 7.9000+7 300000.0 6.1200-5 1.2800-5 0.858960          1.5110+7         LVLP.B.Foot+            (85)T0222  2 
+ 1002  5011   4  50  C 7.9000+7 300000.0 2.6700-5 7.7200-6 0.826098          1.5110+7         LVLP.B.Foot+            (85)T0222  2 
+ 1002  5011   4  50  C 7.9000+7 300000.0 1.7400-5 5.5000-6 0.769400          1.5110+7         LVLP.B.Foot+            (85)T0222  2 
+#/DATA      11
+#/DATASET

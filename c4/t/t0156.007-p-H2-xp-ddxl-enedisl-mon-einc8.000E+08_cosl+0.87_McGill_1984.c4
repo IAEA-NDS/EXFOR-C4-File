@@ -1,0 +1,34 @@
+#ENTRY      T0156
+#AUTHOR1    J.A.McGill+
+#YEAR       1984
+#INSTITUTE  (1USATEX)
+#TITLE      Proton + nucleus inclusive (p,p') scattering at
+#+          800 MeV.
+#AUTHOR(S)  J.A.McGill, G.W.Hoffmann, M.L.Barlett, R.W.Fergerson, E.C.Milner, 
+#+          R.E.Chrien, R.J.Sutter, T.Kozlowski, R.L.Stearns
+#REF-CODE   (J,PR/C,29,204,198401)
+#REFERENCE  Phys.Rev.C 29 (1984) 204
+#DATASETS   0
+#
+#DATASET    T0156007 
+#DATE       20120320
+#REACTION   1-H-2(P,X)1-H-1,,DA/DP
+#PROJ       1001
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001  1002   6 203 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   6 203 A  8.0000+8          1.828-11 4.217-12 0.866025          1.9231+9          E2J.A.McGill+          (84)T0156  7 
+ 1001  1002   6 203 A  8.0000+8          2.526-11 4.210-12 0.866025          1.9375+9          E2J.A.McGill+          (84)T0156  7 
+ 1001  1002   6 203 A  8.0000+8          2.928-11 2.789-12 0.866025          1.9887+9          E2J.A.McGill+          (84)T0156  7 
+ 1001  1002   6 203 A  8.0000+8          4.006-11 4.144-12 0.866025          2.0674+9          E2J.A.McGill+          (84)T0156  7 
+ 1001  1002   6 203 A  8.0000+8          2.871-11 2.735-12 0.866025          2.1594+9          E2J.A.McGill+          (84)T0156  7 
+ 1001  1002   6 203 A  8.0000+8          2.033-11 2.710-12 0.866025          2.2442+9          E2J.A.McGill+          (84)T0156  7 
+ 1001  1002   6 203 A  8.0000+8          2.022-11 2.696-12 0.866025          2.2989+9          E2J.A.McGill+          (84)T0156  7 
+ 1001  1002   6 203 A  8.0000+8          1.748-10 9.339-12 0.866025          2.4075+9          E2J.A.McGill+          (84)T0156  7 
+#/DATA      8
+#/DATASET

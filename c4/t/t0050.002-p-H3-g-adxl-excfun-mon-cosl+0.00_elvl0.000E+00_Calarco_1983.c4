@@ -1,0 +1,28 @@
+#ENTRY      T0050
+#AUTHOR1    J.R.Calarco+
+#YEAR       1983
+#INSTITUTE  (1USASTF)
+#TITLE      Absolute cross section for the reaction 3H(p,gamma0)4He
+#+          and a review of 4He(gamma,p0)3H measurements
+#AUTHOR(S)  J.R.Calarco, S.S.Hanna, C.C.Chang, E.M.Diener, E.Kuhlmann, 
+#+          G.A.Fisher
+#REF-CODE   (J,PR/C,28,483,198308)
+#REFERENCE  Phys.Rev.C 28 (1983) 483
+#DATASETS   0
+#
+#DATASET    T0050002 
+#DATE       20120317
+#REACTION   1-H-3(P,G)2-HE-4,PAR,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         900
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  1003   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4 900    8340000.          8.9900-6 6.0000-7 6.123-17 0.017453 0.000000         LVLJ.R.Calarco+         (83)T0050  2 
+ 1001  1003   4 900    1.3600+7          6.2500-6 4.0000-7 6.123-17 0.017453 0.000000         LVLJ.R.Calarco+         (83)T0050  2 
+#/DATA      2
+#/DATASET

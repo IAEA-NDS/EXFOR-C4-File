@@ -1,0 +1,34 @@
+#ENTRY      T0067
+#AUTHOR1    J.R.Campbell+
+#YEAR       1987
+#INSTITUTE  (1CANMNA)
+#TITLE      The 18O(p,a)15N reaction at 40.9 MeV
+#AUTHOR(S)  J.R.Campbell, O.A.Abou-Zeid, W.R.Falk, R.Abegg, S.K.Datta, 
+#+          S.P.Kwan
+#REF-CODE   (J,NP/A,467,205,1987)
+#REFERENCE  Nucl.Phys.A 467 (1987) 205
+#DATASETS   0
+#
+#DATASET    T0067002 
+#DATE       20011129
+#REACTION   8-O-18(P,A)7-N-15,PAR,DA
+#PROJ       1001
+#TARG       8018
+#MF         4
+#MT         800
+#PRODUCT    7-N-15
+#C4BEGIN    [ 1001  8018   4 800 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8018   4 800 AC 4.0900+7          0.019700 1.9000-3 0.983885          7567000.         LVLJ.R.Campbell+        (87)T0067  2 
+ 1001  8018   4 800 AC 4.0900+7          0.024900          0.971134          7567000.         LVLJ.R.Campbell+        (87)T0067  2 
+ 1001  8018   4 800 AC 4.0900+7          0.030600          0.906308          7567000.         LVLJ.R.Campbell+        (87)T0067  2 
+ 1001  8018   4 800 AC 4.0900+7          0.020300 2.3000-3 0.880477          7567000.         LVLJ.R.Campbell+        (87)T0067  2 
+ 1001  8018   4 800 AC 4.0900+7          0.012100 1.5000-3 0.806960          7567000.         LVLJ.R.Campbell+        (87)T0067  2 
+ 1001  8018   4 800 AC 4.0900+7          0.012800 1.7000-3 0.773840          7567000.         LVLJ.R.Campbell+        (87)T0067  2 
+ 1001  8018   4 800 AC 4.0900+7          0.016600 2.0000-3 0.683274          7567000.         LVLJ.R.Campbell+        (87)T0067  2 
+ 1001  8018   4 800 AC 4.0900+7          0.018100 2.1000-3 0.657375          7567000.         LVLJ.R.Campbell+        (87)T0067  2 
+ 1001  8018   4 800 AC 4.0900+7          0.015300 2.0000-3 0.504528          7567000.         LVLJ.R.Campbell+        (87)T0067  2 
+#/DATA      9
+#/DATASET

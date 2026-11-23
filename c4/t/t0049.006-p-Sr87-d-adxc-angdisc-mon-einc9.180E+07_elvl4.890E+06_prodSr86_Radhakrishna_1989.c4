@@ -1,0 +1,35 @@
+#ENTRY      T0049
+#AUTHOR1    M.C.Radhakrishna+
+#YEAR       1989
+#INSTITUTE  (1USAINU)
+#TITLE      Neutron pickup strength in 87Sr from the (p(pol),d)
+#+          reaction
+#AUTHOR(S)  M.C.Radhakrishna, N.G.Puttaswamy, H.Nann, D.W.Miller, P.P.Singh, 
+#+          W.W.Jacobs, W.P.Jones, E.J.Stephenson
+#REF-CODE   (J,PR/C,40,1603,1989)
+#REFERENCE  Phys.Rev.C 40 (1989) 1603
+#DATASETS   0
+#
+#DATASET    T0049006 
+#DATE       20220418
+#REACTION   38-SR-87(P,D)38-SR-86,PAR,DA
+#PROJ       1001
+#TARG       38087
+#MF         4
+#MT         650
+#PRODUCT    38-SR-86
+#C4BEGIN    [ 1001 38087   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   4 650  C 9.1800+7          4.3400-5          0.992392          4890000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          8.1750-5          0.990382          4890000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          6.3100-5          0.984777          4890000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          6.4940-5          0.977112          4890000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          6.1310-5          0.971764          4890000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          7.2860-5          0.960580          4890000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          4.5970-5          0.949934          4890000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          3.1620-5          0.939442          4890000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+ 1001 38087   4 650  C 9.1800+7          1.9390-5          0.918819          4890000.         LVLM.C.Radhakrishna+    (89)T0049  6 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      T0022
+#AUTHOR1    M.E.Cobern+
+#YEAR       1981
+#INSTITUTE  (1USAPEN)
+#TITLE      16O(t,p)18O to low-lying states in 18O
+#AUTHOR(S)  M.E.Cobern, L.C.Bland, H.T.Fortune, G.E.Moore, S.Mordechai, 
+#+          R.Middleton
+#REF-CODE   (J,PR/C,23,2387,198106)
+#REFERENCE  Phys.Rev.C 23 (1981) 2387
+#DATASETS   0
+#
+#DATASET    T0022002 
+#DATE       19991109
+#REACTION   8-O-16(T,P)8-O-18,PAR,DA
+#PROJ       1003
+#TARG       8016
+#MF         4
+#MT         600
+#PRODUCT    8-O-18
+#C4BEGIN    [ 1003  8016   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  8016   4 600  C 1.5000+7 10000.00 1.6000-4          0.991872 1.1104-3 6890000.         LVLM.E.Cobern+          (81)T0022  2 
+ 1003  8016   4 600  C 1.5000+7 10000.00 1.1400-4          0.962123 2.3790-3 6890000.         LVLM.E.Cobern+          (81)T0022  2 
+ 1003  8016   4 600  C 1.5000+7 10000.00 5.3800-5          0.912977 3.5606-3 6890000.         LVLM.E.Cobern+          (81)T0022  2 
+ 1003  8016   4 600  C 1.5000+7 10000.00 4.3700-5          0.756310 5.7091-3 6890000.         LVLM.E.Cobern+          (81)T0022  2 
+#/DATA      4
+#/DATASET

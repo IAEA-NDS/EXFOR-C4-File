@@ -1,0 +1,30 @@
+#ENTRY      T0256
+#AUTHOR1    M.H.Mortensen+
+#YEAR       1980
+#INSTITUTE  (1USAYAL)
+#TITLE      W(p,t) reactions. II. Odd targets.
+#AUTHOR(S)  M.H.Mortensen, R.R.Betts, C.K.Bockelman
+#REF-CODE   (J,PR/C,21,2288,1980)
+#REFERENCE  Phys.Rev.C 21 (1980) 2288
+#DATASETS   0
+#
+#DATASET    T0256002 
+#DATE       20031219
+#REACTION   74-W-183(P,T)74-W-181,PAR,DA
+#PROJ       1001
+#TARG       74183
+#MF         4
+#MT         700
+#PRODUCT    74-W-181
+#C4BEGIN    [ 1001 74183   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 74183   4 700  C 2.1000+7          6.3000-5          0.994916          560000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          5.3800-5          0.975535          560000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          3.3300-5          0.935197          560000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          1.3870-5 1.5257-6 0.883684          560000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          1.2970-5 1.2970-6 0.811676          560000.0         LVLM.H.Mortensen+       (80)T0256  2 
+ 1001 74183   4 700  C 2.1000+7          6.6800-6 6.0120-7 0.721760          560000.0         LVLM.H.Mortensen+       (80)T0256  2 
+#/DATA      6
+#/DATASET

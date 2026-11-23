@@ -1,0 +1,38 @@
+#ENTRY      T0403
+#AUTHOR1    M.Yasue+
+#YEAR       1984
+#INSTITUTE  (1USACSU)
+#TITLE      (alpha,d) reaction on 12C and 13C and weak coupling
+#+          configurations
+#AUTHOR(S)  M.Yasue, J.J.Hamill, H.C.Bhang, M.A.Rumore, R.J.Peterson
+#REF-CODE   (J,PR/C,30,770,1984)
+#REFERENCE  Phys.Rev.C 30 (1984) 770
+#DATASETS   0
+#
+#DATASET    T0403003 
+#DATE       20050314
+#REACTION   6-C-13(A,D)7-N-15,PAR,DA
+#PROJ       2004
+#TARG       6013
+#MF         4
+#MT         650
+#PRODUCT    7-N-15
+#C4BEGIN    [ 2004  6013   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  6013   4 650  C 3.4900+7          1.0210-4          0.988409          1.3830+7         LVLM.Yasue+             (84)T0403  3 
+ 2004  6013   4 650  C 3.4900+7          1.1450-4          0.978267          1.3830+7         LVLM.Yasue+             (84)T0403  3 
+ 2004  6013   4 650  C 3.4900+7          9.4920-5          0.963308          1.3830+7         LVLM.Yasue+             (84)T0403  3 
+ 2004  6013   4 650  C 3.4900+7          7.6900-5          0.946840          1.3830+7         LVLM.Yasue+             (84)T0403  3 
+ 2004  6013   4 650  C 3.4900+7          8.6260-5          0.924526          1.3830+7         LVLM.Yasue+             (84)T0403  3 
+ 2004  6013   4 650  C 3.4900+7          8.0220-5          0.869124          1.3830+7         LVLM.Yasue+             (84)T0403  3 
+ 2004  6013   4 650  C 3.4900+7          4.5780-5          0.800459          1.3830+7         LVLM.Yasue+             (84)T0403  3 
+ 2004  6013   4 650  C 3.4900+7          4.4600-5          0.723341          1.3830+7         LVLM.Yasue+             (84)T0403  3 
+ 2004  6013   4 650  C 3.4900+7          4.9850-5          0.545063          1.3830+7         LVLM.Yasue+             (84)T0403  3 
+ 2004  6013   4 650  C 3.4900+7          5.4420-5          0.330976          1.3830+7         LVLM.Yasue+             (84)T0403  3 
+ 2004  6013   4 650  C 3.4900+7          5.8070-5          0.119045          1.3830+7         LVLM.Yasue+             (84)T0403  3 
+ 2004  6013   4 650  C 3.4900+7          4.4760-5         -0.083852          1.3830+7         LVLM.Yasue+             (84)T0403  3 
+ 2004  6013   4 650  C 3.4900+7          5.2450-5         -0.270617          1.3830+7         LVLM.Yasue+             (84)T0403  3 
+#/DATA      13
+#/DATASET

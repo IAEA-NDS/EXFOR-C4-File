@@ -1,0 +1,37 @@
+#ENTRY      T0023
+#AUTHOR1    J.F.Mateja+
+#YEAR       1981
+#INSTITUTE  (1USAFSU)
+#TITLE      (t,p) studies of 52Ti, 53V, and 57Mn and tests of
+#+          mixed-configuration shell-model calculations
+#AUTHOR(S)  J.F.Mateja, L.R.Medsker, C.P.Browne, J.D.Zumbro, H.T.Fortune, 
+#+          R.Middleton, J.B.McGrory
+#REF-CODE   (J,PR/C,23,2435,198106)
+#REFERENCE  Phys.Rev.C 23 (1981) 2435
+#DATASETS   0
+#
+#DATASET    T0023002 
+#DATE       19990930
+#REACTION   22-TI-50(T,P)22-TI-52,PAR,DA
+#PROJ       1003
+#TARG       22050
+#MF         4
+#MT         600
+#PRODUCT    22-TI-52
+#C4BEGIN    [ 1003 22050   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 22050   4 600  C 1.5000+7          0.980000          0.981427 1.5636-3 0.000000         LVLJ.F.Mateja+          (81)T0023  2 
+ 1003 22050   4 600  C 1.5000+7          0.248000          0.946930 2.6200-3 0.000000         LVLJ.F.Mateja+          (81)T0023  2 
+ 1003 22050   4 600  C 1.5000+7          0.054800          0.898104 3.5845-3 0.000000         LVLJ.F.Mateja+          (81)T0023  2 
+ 1003 22050   4 600  C 1.5000+7          0.037800          0.831179 4.5318-3 0.000000         LVLJ.F.Mateja+          (81)T0023  2 
+ 1003 22050   4 600  C 1.5000+7          0.091300          0.743495 5.4507-3 0.000000         LVLJ.F.Mateja+          (81)T0023  2 
+ 1003 22050   4 600  C 1.5000+7          0.170000          0.645058 6.2282-3 0.000000         LVLJ.F.Mateja+          (81)T0023  2 
+ 1003 22050   4 600  C 1.5000+7          0.105000          0.544639 6.8357-3 0.000000         LVLJ.F.Mateja+          (81)T0023  2 
+ 1003 22050   4 600  C 1.5000+7          0.029900          0.427516 7.3683-3 0.000000         LVLJ.F.Mateja+          (81)T0023  2 
+ 1003 22050   4 600  C 1.5000+7          8.9100-3          0.302869 7.7679-3 0.000000         LVLJ.F.Mateja+          (81)T0023  2 
+ 1003 22050   4 600  C 1.5000+7          0.034300          0.172617 8.0283-3 0.000000         LVLJ.F.Mateja+          (81)T0023  2 
+ 1003 22050   4 600  C 1.5000+7          0.037100          0.042399 8.1434-3 0.000000         LVLJ.F.Mateja+          (81)T0023  2 
+#/DATA      11
+#/DATASET

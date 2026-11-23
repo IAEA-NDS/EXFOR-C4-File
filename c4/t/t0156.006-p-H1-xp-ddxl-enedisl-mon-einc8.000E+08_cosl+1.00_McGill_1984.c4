@@ -1,0 +1,37 @@
+#ENTRY      T0156
+#AUTHOR1    J.A.McGill+
+#YEAR       1984
+#INSTITUTE  (1USATEX)
+#TITLE      Proton + nucleus inclusive (p,p') scattering at
+#+          800 MeV.
+#AUTHOR(S)  J.A.McGill, G.W.Hoffmann, M.L.Barlett, R.W.Fergerson, E.C.Milner, 
+#+          R.E.Chrien, R.J.Sutter, T.Kozlowski, R.L.Stearns
+#REF-CODE   (J,PR/C,29,204,198401)
+#REFERENCE  Phys.Rev.C 29 (1984) 204
+#DATASETS   0
+#
+#DATASET    T0156006 
+#DATE       20120320
+#REACTION   1-H-1(P,X)1-H-1,,DA/DP
+#PROJ       1001
+#TARG       1001
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001  1001   6 203 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1001   6 203 A  8.0000+8          1.672-11 2.529-12 0.996195          1.9266+9          E2J.A.McGill+          (84)T0156  6 
+ 1001  1001   6 203 A  8.0000+8          2.355-11 3.364-12 0.996195          1.9452+9          E2J.A.McGill+          (84)T0156  6 
+ 1001  1001   6 203 A  8.0000+8          4.523-11 4.467-12 0.996195          1.9794+9          E2J.A.McGill+          (84)T0156  6 
+ 1001  1001   6 203 A  8.0000+8          7.707-11 6.342-12 0.996195          2.0848+9          E2J.A.McGill+          (84)T0156  6 
+ 1001  1001   6 203 A  8.0000+8          9.311-11 7.257-12 0.996195          2.1464+9          E2J.A.McGill+          (84)T0156  6 
+ 1001  1001   6 203 A  8.0000+8          9.327-11 8.157-12 0.996195          2.2129+9          E2J.A.McGill+          (84)T0156  6 
+ 1001  1001   6 203 A  8.0000+8          1.330-10 9.584-12 0.996195          2.2836+9          E2J.A.McGill+          (84)T0156  6 
+ 1001  1001   6 203 A  8.0000+8          1.095-10 8.917-12 0.996195          2.4349+9          E2J.A.McGill+          (84)T0156  6 
+ 1001  1001   6 203 A  8.0000+8          1.456-11 4.103-12 0.996195          2.4984+9          E2J.A.McGill+          (84)T0156  6 
+ 1001  1001   6 203 A  8.0000+8          4.745-12 3.954-12 0.996195          2.5471+9          E2J.A.McGill+          (84)T0156  6 
+ 1001  1001   6 203 A  8.0000+8          0.000000 8.139-12 0.996195          2.5965+9          E2J.A.McGill+          (84)T0156  6 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,40 @@
+#ENTRY      T0152
+#AUTHOR1    S.Kailas+
+#YEAR       1984
+#INSTITUTE  (3INDTRM)
+#TITLE      Excitation of low-lying levels and giant multipole
+#+          resonances in 92Zr, 120Sn and 208Pb by inelastic
+#+          scattering of 104 MeV polarized protons.
+#AUTHOR(S)  S.Kailas, P.P.Singh, D.L.Friesel, C.C.Foster, P.Schwandt, 
+#+          J.Wiggins
+#REF-CODE   (J,PR/C,29,2075,198406)
+#REFERENCE  Phys.Rev.C 29 (1984) 2075
+#DATASETS   0
+#
+#DATASET    T0152004 
+#DATE       20010430
+#REACTION   40-ZR-92(P,INL)40-ZR-92,PAR,DA
+#PROJ       1001
+#TARG       40092
+#MF         4
+#MT         601
+#PRODUCT    40-ZR-92
+#C4BEGIN    [ 1001 40092   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40092   4 601  C 1.0350+8          6.3000-5          0.968279          2470000.         LVLS.Kailas+            (84)T0152  4 
+ 1001 40092   4 601  C 1.0350+8          2.0800-4          0.958820          2470000.         LVLS.Kailas+            (84)T0152  4 
+ 1001 40092   4 601  C 1.0350+8          3.5200-4          0.948213          2470000.         LVLS.Kailas+            (84)T0152  4 
+ 1001 40092   4 601  C 1.0350+8          4.4900-4          0.936427          2470000.         LVLS.Kailas+            (84)T0152  4 
+ 1001 40092   4 601  C 1.0350+8          4.1100-4          0.923478          2470000.         LVLS.Kailas+            (84)T0152  4 
+ 1001 40092   4 601  C 1.0350+8          5.4400-4          0.909381          2470000.         LVLS.Kailas+            (84)T0152  4 
+ 1001 40092   4 601  C 1.0350+8          5.7500-4          0.894076          2470000.         LVLS.Kailas+            (84)T0152  4 
+ 1001 40092   4 601  C 1.0350+8          5.4200-4          0.877732          2470000.         LVLS.Kailas+            (84)T0152  4 
+ 1001 40092   4 601  C 1.0350+8          4.3500-4          0.860297          2470000.         LVLS.Kailas+            (84)T0152  4 
+ 1001 40092   4 601  C 1.0350+8          2.1600-4          0.812084          2470000.         LVLS.Kailas+            (84)T0152  4 
+ 1001 40092   4 601  C 1.0350+8          9.6000-5          0.757565          2470000.         LVLS.Kailas+            (84)T0152  4 
+ 1001 40092   4 601  C 1.0350+8          3.3000-5          0.697290          2470000.         LVLS.Kailas+            (84)T0152  4 
+ 1001 40092   4 601  C 1.0350+8          1.2000-5          0.631488          2470000.         LVLS.Kailas+            (84)T0152  4 
+#/DATA      13
+#/DATASET

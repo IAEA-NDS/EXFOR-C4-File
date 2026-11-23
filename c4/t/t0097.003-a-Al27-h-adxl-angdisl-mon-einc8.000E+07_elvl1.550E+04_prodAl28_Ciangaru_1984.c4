@@ -1,0 +1,33 @@
+#ENTRY      T0097
+#AUTHOR1    G.Ciangaru+
+#YEAR       1984
+#INSTITUTE  (1USAMRY)
+#TITLE      Nuclear states of 28Si and 28Al from (alpha,t) and
+#+          (alpha,3He) reactions at 80 MeV
+#AUTHOR(S)  G.Ciangaru, C.C.Chang, J.R.Wu, R.W.Koontz, H.D.Holmgren
+#REF-CODE   (J,PR/C,29,2017,198406)
+#REFERENCE  Phys.Rev.C 29 (1984) 2017
+#DATASETS   0
+#
+#DATASET    T0097003 
+#DATE       20020614
+#REACTION   13-AL-27(A,HE3)13-AL-28,PAR,DA
+#PROJ       2004
+#TARG       13027
+#MF         4
+#MT         750
+#PRODUCT    13-AL-28
+#C4BEGIN    [ 2004 13027   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 13027   4 750    8.0000+7          2.0970-3 8.3880-6 0.980615          15500.00 15500.00LVLG.Ciangaru+          (84)T0097  3 
+ 2004 13027   4 750    8.0000+7          1.1360-3 4.5440-6 0.971549          15500.00 15500.00LVLG.Ciangaru+          (84)T0097  3 
+ 2004 13027   4 750    8.0000+7          7.1190-4 2.8476-6 0.961262          15500.00 15500.00LVLG.Ciangaru+          (84)T0097  3 
+ 2004 13027   4 750    8.0000+7          5.4900-4 2.1960-6 0.949425          15500.00 15500.00LVLG.Ciangaru+          (84)T0097  3 
+ 2004 13027   4 750    8.0000+7          4.3530-4 1.7412-6 0.937282          15500.00 15500.00LVLG.Ciangaru+          (84)T0097  3 
+ 2004 13027   4 750    8.0000+7          3.0470-4 1.2188-6 0.922538          15500.00 15500.00LVLG.Ciangaru+          (84)T0097  3 
+ 2004 13027   4 750    8.0000+7          2.8900-4 1.1560-6 0.904827          15500.00 15500.00LVLG.Ciangaru+          (84)T0097  3 
+ 2004 13027   4 750    8.0000+7          1.5100-4 6.0400-7 0.804894          15500.00 15500.00LVLG.Ciangaru+          (84)T0097  3 
+#/DATA      8
+#/DATASET

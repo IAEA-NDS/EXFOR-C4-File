@@ -1,0 +1,33 @@
+#ENTRY      T0134
+#AUTHOR1    A.J.Elwyn+
+#YEAR       1977
+#INSTITUTE  (1USAANL)
+#TITLE      Absolute cross sections for deuteron-induced reactions
+#+          on 6Li at energies below 1 MeV.
+#AUTHOR(S)  A.J.Elwyn, R.E.Holland, C.N.Davids, L.Meyer-Schuetzmeister, 
+#+          J.E.Monahan, F.P.Mooring, W.Ray Jr
+#REF-CODE   (J,PR/C,16,1744,197711)
+#REFERENCE  Phys.Rev.C 16 (1977) 1744
+#DATASETS   0
+#
+#DATASET    T0134006 
+#DATE       20001128
+#REACTION   3-LI-6(D,N)4-BE-7,PAR,DA
+#PROJ       1002
+#TARG       3006
+#MF         4
+#MT         50
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1002  3006   4  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3006   4  50 A  482000.0          4.5500-3          1.000000          0.000000         LVLA.J.Elwyn+           (77)T0134  6 
+ 1002  3006   4  50 A  482000.0          4.4700-3          0.857167          0.000000         LVLA.J.Elwyn+           (77)T0134  6 
+ 1002  3006   4  50 A  482000.0          3.9400-3          0.500000          0.000000         LVLA.J.Elwyn+           (77)T0134  6 
+ 1002  3006   4  50 A  482000.0          3.6800-3          0.258819          0.000000         LVLA.J.Elwyn+           (77)T0134  6 
+ 1002  3006   4  50 A  482000.0          2.9300-3         -0.368125          0.000000         LVLA.J.Elwyn+           (77)T0134  6 
+ 1002  3006   4  50 A  482000.0          3.0200-3         -0.594823          0.000000         LVLA.J.Elwyn+           (77)T0134  6 
+ 1002  3006   4  50 A  482000.0          2.7100-3         -0.843391          0.000000         LVLA.J.Elwyn+           (77)T0134  6 
+#/DATA      7
+#/DATASET

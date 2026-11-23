@@ -1,0 +1,34 @@
+#ENTRY      T0097
+#AUTHOR1    G.Ciangaru+
+#YEAR       1984
+#INSTITUTE  (1USAMRY)
+#TITLE      Nuclear states of 28Si and 28Al from (alpha,t) and
+#+          (alpha,3He) reactions at 80 MeV
+#AUTHOR(S)  G.Ciangaru, C.C.Chang, J.R.Wu, R.W.Koontz, H.D.Holmgren
+#REF-CODE   (J,PR/C,29,2017,198406)
+#REFERENCE  Phys.Rev.C 29 (1984) 2017
+#DATASETS   0
+#
+#DATASET    T0097002 
+#DATE       20020614
+#REACTION   13-AL-27(A,T)14-SI-28,PAR,DA
+#PROJ       2004
+#TARG       13027
+#MF         4
+#MT         700
+#PRODUCT    14-SI-28
+#C4BEGIN    [ 2004 13027   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 13027   4 700  C 8.0000+7          9.7310-4 3.8924-6 0.991445          6276000.         LVLG.Ciangaru+          (84)T0097  2 
+ 2004 13027   4 700  C 8.0000+7          6.2460-4 2.4984-6 0.985109          6276000.         LVLG.Ciangaru+          (84)T0097  2 
+ 2004 13027   4 700  C 8.0000+7          4.2150-4 1.6860-6 0.978148          6276000.         LVLG.Ciangaru+          (84)T0097  2 
+ 2004 13027   4 700  C 8.0000+7          2.5740-4 1.0296-6 0.969016          6276000.         LVLG.Ciangaru+          (84)T0097  2 
+ 2004 13027   4 700  C 8.0000+7          2.6110-4 1.0444-6 0.958323          6276000.         LVLG.Ciangaru+          (84)T0097  2 
+ 2004 13027   4 700  C 8.0000+7          1.9270-4 7.7080-7 0.947210          6276000.         LVLG.Ciangaru+          (84)T0097  2 
+ 2004 13027   4 700  C 8.0000+7          1.3380-4 5.3520-7 0.931691          6276000.         LVLG.Ciangaru+          (84)T0097  2 
+ 2004 13027   4 700  C 8.0000+7          8.8580-5 3.5432-7 0.918446          6276000.         LVLG.Ciangaru+          (84)T0097  2 
+ 2004 13027   4 700  C 8.0000+7          9.7280-5 3.8912-7 0.901833          6276000.         LVLG.Ciangaru+          (84)T0097  2 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,40 @@
+#ENTRY      T0069
+#AUTHOR1    S.A.Dickey+
+#YEAR       1985
+#INSTITUTE  (1USACLU)
+#TITLE      The 54Fe(p,d)53Fe and 140Ce(p,d)139Ce reactions at
+#+          122 MeV
+#AUTHOR(S)  S.A.Dickey, J.J.Kraushaar, J.R.Shepard, D.W.Miller, W.W.Jacobs, 
+#+          W.P.Jones
+#REF-CODE   (J,NP/A,441,189,1985)
+#REFERENCE  Nucl.Phys.A 441 (1985) 189
+#DATASETS   0
+#
+#DATASET    T0069004 
+#DATE       20010226
+#REACTION   58-CE-140(P,D)58-CE-139,PAR,DA
+#PROJ       1001
+#TARG       58140
+#MF         4
+#MT         650
+#PRODUCT    58-CE-139
+#C4BEGIN    [ 1001 58140   4 650 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 58140   4 650 AC 1.2240+8          7.0000-4          0.994338          2840000.         LVLS.A.Dickey+          (85)T0069  4 
+ 1001 58140   4 650 AC 1.2240+8          7.1400-4          0.990024          2840000.         LVLS.A.Dickey+          (85)T0069  4 
+ 1001 58140   4 650 AC 1.2240+8          6.2800-4          0.984196          2840000.         LVLS.A.Dickey+          (85)T0069  4 
+ 1001 58140   4 650 AC 1.2240+8          5.7200-4          0.977416          2840000.         LVLS.A.Dickey+          (85)T0069  4 
+ 1001 58140   4 650 AC 1.2240+8          4.8300-4          0.969445          2840000.         LVLS.A.Dickey+          (85)T0069  4 
+ 1001 58140   4 650 AC 1.2240+8          3.1600-4          0.959805          2840000.         LVLS.A.Dickey+          (85)T0069  4 
+ 1001 58140   4 650 AC 1.2240+8          2.2400-4          0.949972          2840000.         LVLS.A.Dickey+          (85)T0069  4 
+ 1001 58140   4 650 AC 1.2240+8          1.4600-4          0.937889          2840000.         LVLS.A.Dickey+          (85)T0069  4 
+ 1001 58140   4 650 AC 1.2240+8          1.0700-4          0.925871          2840000.         LVLS.A.Dickey+          (85)T0069  4 
+ 1001 58140   4 650 AC 1.2240+8          8.5800-5          0.912120          2840000.         LVLS.A.Dickey+          (85)T0069  4 
+ 1001 58140   4 650 AC 1.2240+8          5.7800-5          0.879649          2840000.         LVLS.A.Dickey+          (85)T0069  4 
+ 1001 58140   4 650 AC 1.2240+8          3.6100-5          0.844328          2840000.         LVLS.A.Dickey+          (85)T0069  4 
+ 1001 58140   4 650 AC 1.2240+8          1.9000-5          0.803857          2840000.         LVLS.A.Dickey+          (85)T0069  4 
+ 1001 58140   4 650 AC 1.2240+8          1.1800-5          0.760406          2840000.         LVLS.A.Dickey+          (85)T0069  4 
+#/DATA      14
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      T0062
+#AUTHOR1    A.C.Rester+
+#YEAR       1980
+#INSTITUTE  (1USAORL)
+#TITLE      Nuclear structure study of the states in 72Ge and 74Ge
+#+          with (p,t) reactions.
+#AUTHOR(S)  A.C.Rester, J.B.Ball, R.L.Auble
+#REF-CODE   (J,NP/A,346,371,1980)
+#REFERENCE  Nucl.Phys.A 346 (1980) 371
+#DATASETS   0
+#
+#DATASET    T0062005 
+#DATE       20001115
+#REACTION   32-GE-76(P,T)32-GE-74,PAR,DA
+#PROJ       1001
+#TARG       32076
+#MF         4
+#MT         700
+#PRODUCT    32-GE-74
+#C4BEGIN    [ 1001 32076   4 700 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 32076   4 700 AC 3.5400+7 14000.00 1.5000-5          0.981627 1.6651-3 4175000.         LVLA.C.Rester+          (80)T0062  5 
+ 1001 32076   4 700 AC 3.5400+7 14000.00 8.1000-6          0.961262 2.4054-3 4175000.         LVLA.C.Rester+          (80)T0062  5 
+ 1001 32076   4 700 AC 3.5400+7 14000.00 4.6000-6          0.933580 3.1274-3 4175000.         LVLA.C.Rester+          (80)T0062  5 
+ 1001 32076   4 700 AC 3.5400+7 14000.00 6.9000-6          0.898794 3.8255-3 4175000.         LVLA.C.Rester+          (80)T0062  5 
+ 1001 32076   4 700 AC 3.5400+7 14000.00 8.1000-6          0.857167 4.4946-3 4175000.         LVLA.C.Rester+          (80)T0062  5 
+ 1001 32076   4 700 AC 3.5400+7 14000.00 6.6000-6          0.798636 5.2518-3 4175000.         LVLA.C.Rester+          (80)T0062  5 
+ 1001 32076   4 700 AC 3.5400+7 14000.00 3.5000-6          0.681998 6.3823-3 4175000.         LVLA.C.Rester+          (80)T0062  5 
+#/DATA      7
+#/DATASET

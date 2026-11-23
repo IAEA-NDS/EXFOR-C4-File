@@ -1,0 +1,41 @@
+#ENTRY      T0179
+#AUTHOR1    R.Perrino+
+#YEAR       1992
+#INSTITUTE  (2ITYITY)
+#TITLE      Low-lying excitations in 176Yb and 180Hf from (p,p')
+#+          scattering at E(p) = 98.4 MeV
+#AUTHOR(S)  R.Perrino, R.De Leo, A.D.Bacher, G.T.Emery, C.W.Glover, 
+#+          H.Nann, C.Olmer, R.V.F.Janssens, S.Y.van der Werf
+#REF-CODE   (J,PR/C,45,1017,1992)
+#REFERENCE  Phys.Rev.C 45 (1992) 1017
+#DATASETS   0
+#
+#DATASET    T0179003 
+#DATE       20020722
+#REACTION   72-HF-180(P,INL)72-HF-180,PAR,DA
+#PROJ       1001
+#TARG       72180
+#MF         4
+#MT         601
+#PRODUCT    72-HF-180
+#C4BEGIN    [ 1001 72180   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 72180   4 601  C 9.8400+7          3.5227-3 1.3470-3 0.939094          312000.0         LVLR.Perrino+           (92)T0179  3 
+ 1001 72180   4 601  C 9.8400+7          3.0505-3 1.1664-3 0.923880          312000.0         LVLR.Perrino+           (92)T0179  3 
+ 1001 72180   4 601  C 9.8400+7          2.1288-3 7.1000-4 0.905569          312000.0         LVLR.Perrino+           (92)T0179  3 
+ 1001 72180   4 601  C 9.8400+7          9.6470-4 3.6890-4 0.886204          312000.0         LVLR.Perrino+           (92)T0179  3 
+ 1001 72180   4 601  C 9.8400+7          5.0480-4          0.865151          312000.0         LVLR.Perrino+           (92)T0179  3 
+ 1001 72180   4 601  C 9.8400+7          3.9240-4          0.841511          312000.0         LVLR.Perrino+           (92)T0179  3 
+ 1001 72180   4 601  C 9.8400+7          5.2330-4          0.818150          312000.0         LVLR.Perrino+           (92)T0179  3 
+ 1001 72180   4 601  C 9.8400+7          5.8290-4          0.792290          312000.0         LVLR.Perrino+           (92)T0179  3 
+ 1001 72180   4 601  C 9.8400+7          4.3710-4          0.763796          312000.0         LVLR.Perrino+           (92)T0179  3 
+ 1001 72180   4 601  C 9.8400+7          1.9810-4          0.733730          312000.0         LVLR.Perrino+           (92)T0179  3 
+ 1001 72180   4 601  C 9.8400+7          2.0535-4          0.702153          312000.0         LVLR.Perrino+           (92)T0179  3 
+ 1001 72180   4 601  C 9.8400+7          2.1288-4          0.671721          312000.0         LVLR.Perrino+           (92)T0179  3 
+ 1001 72180   4 601  C 9.8400+7          1.7783-4          0.637424          312000.0         LVLR.Perrino+           (92)T0179  3 
+ 1001 72180   4 601  C 9.8400+7          1.2409-4          0.601815          312000.0         LVLR.Perrino+           (92)T0179  3 
+ 1001 72180   4 601  C 9.8400+7          7.4990-5          0.566406          312000.0         LVLR.Perrino+           (92)T0179  3 
+#/DATA      15
+#/DATASET

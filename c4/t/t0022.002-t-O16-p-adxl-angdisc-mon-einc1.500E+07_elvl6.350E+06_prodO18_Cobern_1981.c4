@@ -1,0 +1,31 @@
+#ENTRY      T0022
+#AUTHOR1    M.E.Cobern+
+#YEAR       1981
+#INSTITUTE  (1USAPEN)
+#TITLE      16O(t,p)18O to low-lying states in 18O
+#AUTHOR(S)  M.E.Cobern, L.C.Bland, H.T.Fortune, G.E.Moore, S.Mordechai, 
+#+          R.Middleton
+#REF-CODE   (J,PR/C,23,2387,198106)
+#REFERENCE  Phys.Rev.C 23 (1981) 2387
+#DATASETS   0
+#
+#DATASET    T0022002 
+#DATE       19991109
+#REACTION   8-O-16(T,P)8-O-18,PAR,DA
+#PROJ       1003
+#TARG       8016
+#MF         4
+#MT         600
+#PRODUCT    8-O-18
+#C4BEGIN    [ 1003  8016   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  8016   4 600  C 1.5000+7 10000.00 1.4200-4          0.959756 2.4507-3 6350000.         LVLM.E.Cobern+          (81)T0022  2 
+ 1003  8016   4 600  C 1.5000+7 10000.00 9.9900-5          0.907631 3.6632-3 6350000.         LVLM.E.Cobern+          (81)T0022  2 
+ 1003  8016   4 600  C 1.5000+7 10000.00 7.2900-5          0.756196 5.7102-3 6350000.         LVLM.E.Cobern+          (81)T0022  2 
+ 1003  8016   4 600  C 1.5000+7 10000.00 7.7100-5          0.647854 6.6476-3 6350000.         LVLM.E.Cobern+          (81)T0022  2 
+ 1003  8016   4 600  C 1.5000+7 10000.00 9.0100-5          0.531694 7.3909-3 6350000.         LVLM.E.Cobern+          (81)T0022  2 
+ 1003  8016   4 600  C 1.5000+7 10000.00 6.7700-5          0.408171 7.9666-3 6350000.         LVLM.E.Cobern+          (81)T0022  2 
+#/DATA      6
+#/DATASET

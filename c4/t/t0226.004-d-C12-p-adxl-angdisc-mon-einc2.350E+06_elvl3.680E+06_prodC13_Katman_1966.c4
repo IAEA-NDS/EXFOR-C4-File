@@ -1,0 +1,41 @@
+#ENTRY      T0226
+#AUTHOR1    T.S.Katman+
+#YEAR       1966
+#INSTITUTE  (1USADKE)
+#TITLE      12C(d,pg)13C angular distributions and correlations
+#+          near threshold
+#AUTHOR(S)  T.S.Katman, N.R.Fletcher, D.R.Tilley, R.M.Williamson
+#REF-CODE   (J,NP,80,449,1966)
+#REFERENCE  Nucl.Phys. 80 (1966) 449
+#DATASETS   0
+#
+#DATASET    T0226004 
+#DATE       20030926
+#REACTION   6-C-12(D,P)6-C-13,PAR,DA
+#PROJ       1002
+#TARG       6012
+#MF         4
+#MT         600
+#PRODUCT    6-C-13
+#C4BEGIN    [ 1002  6012   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6012   4 600  C 2350000.          8.5470-3          0.924413          3680000.         LVLT.S.Katman+          (66)T0226  4 
+ 1002  6012   4 600  C 2350000.          7.0060-3          0.899405          3680000.         LVLT.S.Katman+          (66)T0226  4 
+ 1002  6012   4 600  C 2350000.          8.0300-3          0.880560          3680000.         LVLT.S.Katman+          (66)T0226  4 
+ 1002  6012   4 600  C 2350000.          6.5520-3          0.824916          3680000.         LVLT.S.Katman+          (66)T0226  4 
+ 1002  6012   4 600  C 2350000.          5.4420-3          0.763345          3680000.         LVLT.S.Katman+          (66)T0226  4 
+ 1002  6012   4 600  C 2350000.          4.5180-3          0.615937          3680000.         LVLT.S.Katman+          (66)T0226  4 
+ 1002  6012   4 600  C 2350000.          4.0910-3          0.462523          3680000.         LVLT.S.Katman+          (66)T0226  4 
+ 1002  6012   4 600  C 2350000.          3.1510-3          0.281337          3680000.         LVLT.S.Katman+          (66)T0226  4 
+ 1002  6012   4 600  C 2350000.          2.9320-3          0.274127          3680000.         LVLT.S.Katman+          (66)T0226  4 
+ 1002  6012   4 600  C 2350000.          2.6330-3          0.193036          3680000.         LVLT.S.Katman+          (66)T0226  4 
+ 1002  6012   4 600  C 2350000.          1.8910-3          0.010646          3680000.         LVLT.S.Katman+          (66)T0226  4 
+ 1002  6012   4 600  C 2350000.          8.0760-4         -0.161604          3680000.         LVLT.S.Katman+          (66)T0226  4 
+ 1002  6012   4 600  C 2350000.          1.1810-3         -0.241922          3680000.         LVLT.S.Katman+          (66)T0226  4 
+ 1002  6012   4 600  C 2350000.          8.3870-4         -0.323917          3680000.         LVLT.S.Katman+          (66)T0226  4 
+ 1002  6012   4 600  C 2350000.          6.6730-4         -0.461749          3680000.         LVLT.S.Katman+          (66)T0226  4 
+ 1002  6012   4 600  C 2350000.          6.6680-4         -0.543174          3680000.         LVLT.S.Katman+          (66)T0226  4 
+#/DATA      16
+#/DATASET

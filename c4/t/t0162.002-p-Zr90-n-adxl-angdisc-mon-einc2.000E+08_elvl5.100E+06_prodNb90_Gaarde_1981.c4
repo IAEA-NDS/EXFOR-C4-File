@@ -1,0 +1,29 @@
+#ENTRY      T0162
+#AUTHOR1    C.Gaarde+
+#YEAR       1981
+#INSTITUTE  (2DENNBI)
+#TITLE      Excitation of giant spin-isospin multipole vibrations
+#AUTHOR(S)  C.Gaarde, J.Rapaport, T.N.Taddeucci, C.D.Goodman, C.C.Foster, 
+#+          D.E.Bainum, C.A.Goulding, M.B.Grenfield, D.J.Horen, E.Sugarbaker
+#REF-CODE   (J,NP/A,369,258,1981)
+#REFERENCE  Nucl.Phys.A 369 (1981) 258
+#DATASETS   0
+#
+#DATASET    T0162002 
+#DATE       20010613
+#REACTION   40-ZR-90(P,N)41-NB-90,PAR,DA
+#PROJ       1001
+#TARG       40090
+#MF         4
+#MT         50
+#PRODUCT    41-NB-90
+#C4BEGIN    [ 1001 40090   4  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40090   4  50 AC 2.0000+8 1000000. 5.3000-3 1.2190-3 1.000000          5100000.         LVLC.Gaarde+            (81)T0162  2 
+ 1001 40090   4  50 AC 2.0000+8 1000000. 3.8000-3 7.9800-4 0.998611          5100000.         LVLC.Gaarde+            (81)T0162  2 
+ 1001 40090   4  50 AC 2.0000+8 1000000. 2.6000-3 5.9800-4 0.997146          5100000.         LVLC.Gaarde+            (81)T0162  2 
+ 1001 40090   4  50 AC 2.0000+8 1000000. 1.0400-3 2.2880-4 0.991513          5100000.         LVLC.Gaarde+            (81)T0162  2 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,37 @@
+#ENTRY      T0027
+#AUTHOR1    K.S.Dhuga+
+#YEAR       1986
+#INSTITUTE  (1USAPEN)
+#TITLE      Direct and compound components of the
+#+          27Al(6Li,alpha)29Si at 32 MeV.
+#AUTHOR(S)  K.S.Dhuga, H.T.Fortune, M.Burlein, M.Carchidi, M.Dwyer, 
+#+          G.Gilfoyle, J.W.Sweet
+#REF-CODE   (J,PR/C,33,1294,1986)
+#REFERENCE  Phys.Rev.C 33 (1986) 1294
+#DATASETS   0
+#
+#DATASET    T0027002 
+#DATE       20181107
+#REACTION   13-AL-27(3-LI-6,A)14-SI-29,PAR,DA
+#PROJ       3006
+#TARG       13027
+#MF         4
+#MT         800
+#PRODUCT    14-SI-29
+#C4BEGIN    [ 3006 13027   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 13027   4 800  C 3.2000+7          3.7500-6 3.7500-7 0.986458          3070000.         LVLK.S.Dhuga+           (86)T0027  2 
+ 3006 13027   4 800  C 3.2000+7          3.0300-6 3.0300-7 0.964557          3070000.         LVLK.S.Dhuga+           (86)T0027  2 
+ 3006 13027   4 800  C 3.2000+7          2.0400-6 2.0400-7 0.932513          3070000.         LVLK.S.Dhuga+           (86)T0027  2 
+ 3006 13027   4 800  C 3.2000+7          1.2600-6 1.2600-7 0.889017          3070000.         LVLK.S.Dhuga+           (86)T0027  2 
+ 3006 13027   4 800  C 3.2000+7          7.3300-7 7.3300-8 0.843766          3070000.         LVLK.S.Dhuga+           (86)T0027  2 
+ 3006 13027   4 800  C 3.2000+7          8.6100-7 8.6100-8 0.782065          3070000.         LVLK.S.Dhuga+           (86)T0027  2 
+ 3006 13027   4 800  C 3.2000+7          9.7200-7 9.7200-8 0.719582          3070000.         LVLK.S.Dhuga+           (86)T0027  2 
+ 3006 13027   4 800  C 3.2000+7          9.7300-7 9.7300-8 0.653553          3070000.         LVLK.S.Dhuga+           (86)T0027  2 
+ 3006 13027   4 800  C 3.2000+7          5.9700-7 5.9700-8 0.492575          3070000.         LVLK.S.Dhuga+           (86)T0027  2 
+ 3006 13027   4 800  C 3.2000+7          4.9700-7 4.9700-8 0.319786          3070000.         LVLK.S.Dhuga+           (86)T0027  2 
+ 3006 13027   4 800  C 3.2000+7          5.6900-7 5.6900-8 0.143147          3070000.         LVLK.S.Dhuga+           (86)T0027  2 
+#/DATA      11
+#/DATASET

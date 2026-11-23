@@ -1,0 +1,27 @@
+#ENTRY      T0073
+#AUTHOR1    B.D.Kern+
+#YEAR       1984
+#INSTITUTE  (1USAKTY)
+#TITLE      Excited states of 96Nb from the 96Zr(p,n gamma)96Nb
+#+          reaction
+#AUTHOR(S)  B.D.Kern, T.Fenyes, A.Krasznahorkay, Z.Dombradi, S.Brant, 
+#+          V.Paar
+#REF-CODE   (J,NP/A,430,301,1984)
+#REFERENCE  Nucl.Phys.A 430 (1984) 301
+#DATASETS   0
+#
+#DATASET    T0073002 
+#DATE       20011119
+#REACTION   40-ZR-96(P,N)41-NB-96,PAR,SIG,G
+#PROJ       1001
+#TARG       40096
+#MF         13
+#MT         50
+#PRODUCT    41-NB-96
+#C4BEGIN    [ 1001 40096  13  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40096  13  50    3020000.          2.3800-5 4.6000-6                   576000.0            B.D.Kern+            (84)T0073  2 
+#/DATA      1
+#/DATASET

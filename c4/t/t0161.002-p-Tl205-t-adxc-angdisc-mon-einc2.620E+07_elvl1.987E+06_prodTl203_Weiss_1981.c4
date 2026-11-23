@@ -1,0 +1,39 @@
+#ENTRY      T0161
+#AUTHOR1    R.C.Weiss+
+#YEAR       1981
+#INSTITUTE  (1USACLU)
+#TITLE      A Study of Particle-Vibration Multiplets in 203Tl
+#+          Using the 205Tl(p,t)203Tl, 208Pb(p,t)206Pb and
+#+          206Pb(p,t)204Pb Reactions
+#AUTHOR(S)  R.C.Weiss, R.E.Anderson, J.J.Kraushaar, R.A.Ristinen, E.Rost, 
+#+          S.Shastry
+#REF-CODE   (J,NP/A,355,45,1981)
+#REFERENCE  Nucl.Phys.A 355 (1981) 45
+#DATASETS   0
+#
+#DATASET    T0161002 
+#DATE       20010612
+#REACTION   81-TL-205(P,T)81-TL-203,PAR,DA
+#PROJ       1001
+#TARG       81205
+#MF         4
+#MT         700
+#PRODUCT    81-TL-203
+#C4BEGIN    [ 1001 81205   4 700 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 81205   4 700 AC 2.6200+7          8.6000-6 1.8060-6 0.997767          1987000.         LVLR.C.Weiss+           (81)T0161  2 
+ 1001 81205   4 700 AC 2.6200+7          6.8000-6 1.0200-6 0.994245          1987000.         LVLR.C.Weiss+           (81)T0161  2 
+ 1001 81205   4 700 AC 2.6200+7          9.0000-6 1.5300-6 0.980478          1987000.         LVLR.C.Weiss+           (81)T0161  2 
+ 1001 81205   4 700 AC 2.6200+7          1.0800-5 2.1600-6 0.970591          1987000.         LVLR.C.Weiss+           (81)T0161  2 
+ 1001 81205   4 700 AC 2.6200+7          6.4000-6 1.4080-6 0.960682          1987000.         LVLR.C.Weiss+           (81)T0161  2 
+ 1001 81205   4 700 AC 2.6200+7          6.0000-6 1.6200-6 0.929841          1987000.         LVLR.C.Weiss+           (81)T0161  2 
+ 1001 81205   4 700 AC 2.6200+7          5.3000-6 1.1130-6 0.894934          1987000.         LVLR.C.Weiss+           (81)T0161  2 
+ 1001 81205   4 700 AC 2.6200+7          7.1000-6 1.0650-6 0.872496          1987000.         LVLR.C.Weiss+           (81)T0161  2 
+ 1001 81205   4 700 AC 2.6200+7          6.4000-6 1.2160-6 0.849617          1987000.         LVLR.C.Weiss+           (81)T0161  2 
+ 1001 81205   4 700 AC 2.6200+7          6.6000-6 1.3200-6 0.826197          1987000.         LVLR.C.Weiss+           (81)T0161  2 
+ 1001 81205   4 700 AC 2.6200+7          9.3000-6 1.3950-6 0.798425          1987000.         LVLR.C.Weiss+           (81)T0161  2 
+ 1001 81205   4 700 AC 2.6200+7          7.5000-6 1.5000-6 0.776377          1987000.         LVLR.C.Weiss+           (81)T0161  2 
+#/DATA      12
+#/DATASET

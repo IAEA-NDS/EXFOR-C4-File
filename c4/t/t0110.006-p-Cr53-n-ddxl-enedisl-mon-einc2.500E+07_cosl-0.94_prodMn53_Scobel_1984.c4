@@ -1,0 +1,26 @@
+#ENTRY      T0110
+#AUTHOR1    W.Scobel+
+#YEAR       1984
+#INSTITUTE  (1USALRL)
+#TITLE      Single particle effects in precompound reactions
+#AUTHOR(S)  W.Scobel, M.Blann, T.T.Komoto, M.Trabandt, S.M.Grimes, L.F.Hansen, 
+#+          C.Wong, B.A.Pohl
+#REF-CODE   (J,PR/C,30,1480,198411)
+#REFERENCE  Phys.Rev.C 30 (1984) 1480
+#DATASETS   0
+#
+#DATASET    T0110006 
+#DATE       20071109
+#REACTION   24-CR-53(P,N)25-MN-53,,DA/DE
+#PROJ       1001
+#TARG       24053
+#MF         6
+#MT         4
+#PRODUCT    25-MN-53
+#C4BEGIN    [ 1001 24053   6   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24053   6   4 A  2.5000+7 80000.00 4.3600-6 1.0600-6-0.939094          5480000.          E2W.Scobel+            (84)T0110  6 
+#/DATA      1
+#/DATASET

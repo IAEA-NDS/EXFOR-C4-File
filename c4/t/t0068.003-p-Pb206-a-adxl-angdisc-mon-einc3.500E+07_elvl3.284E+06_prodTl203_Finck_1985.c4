@@ -1,0 +1,31 @@
+#ENTRY      T0068
+#AUTHOR1    J.E.Finck+
+#YEAR       1985
+#INSTITUTE  (1USAMSU)
+#TITLE      The 206,204Pb(p,alpha)203,201Tl reactions at 35 MeV
+#AUTHOR(S)  J.E.Finck, G.M.Crawley, D.Weber, P.A.Smith
+#REF-CODE   (J,NP/A,441,57,1985)
+#REFERENCE  Nucl.Phys.A 441 (1985) 57
+#DATASETS   0
+#
+#DATASET    T0068003 
+#DATE       20010301
+#REACTION   82-PB-206(P,A)81-TL-203,PAR,DA
+#PROJ       1001
+#TARG       82206
+#MF         4
+#MT         800
+#PRODUCT    81-TL-203
+#C4BEGIN    [ 1001 82206   4 800 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82206   4 800 AC 3.5000+7          3.4000-6 1.0600-6 0.992332          3284000.         LVLJ.E.Finck+           (85)T0068  3 
+ 1001 82206   4 800 AC 3.5000+7          3.2000-6 8.9100-7 0.983885          3284000.         LVLJ.E.Finck+           (85)T0068  3 
+ 1001 82206   4 800 AC 3.5000+7          2.8200-6 5.5400-7 0.964557          3284000.         LVLJ.E.Finck+           (85)T0068  3 
+ 1001 82206   4 800 AC 3.5000+7          2.2900-6 7.7800-7 0.937889          3284000.         LVLJ.E.Finck+           (85)T0068  3 
+ 1001 82206   4 800 AC 3.5000+7          2.1900-6 6.3800-7 0.903335          3284000.         LVLJ.E.Finck+           (85)T0068  3 
+ 1001 82206   4 800 AC 3.5000+7          1.1200-6 5.4800-7 0.863396          3284000.         LVLJ.E.Finck+           (85)T0068  3 
+ 1001 82206   4 800 AC 3.5000+7          1.4100-6 7.5700-7 0.815128          3284000.         LVLJ.E.Finck+           (85)T0068  3 
+#/DATA      7
+#/DATASET

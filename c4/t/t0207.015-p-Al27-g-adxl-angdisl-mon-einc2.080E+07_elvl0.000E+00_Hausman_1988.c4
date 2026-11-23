@@ -1,0 +1,31 @@
+#ENTRY      T0207
+#AUTHOR1    H.J.Hausman+
+#YEAR       1988
+#INSTITUTE  (1USAOSU)
+#TITLE      Ground state proton capture reactions from 20 to 100
+#+          MeV
+#AUTHOR(S)  H.J.Hausman, S.L.Blatt, T.R.Donoghue, J.Kalen, W.Kim, D.G.Marchlenski, 
+#+          T.W.Rackers, P.Schmalbrock, M.A.Kovash, A.D.Bacher
+#REF-CODE   (J,PR/C,37,503,198802)
+#REFERENCE  Phys.Rev.C 37 (1988) 503
+#DATASETS   0
+#
+#DATASET    T0207015 
+#DATE       20020805
+#REACTION   13-AL-27(P,G)14-SI-28,PAR,DA
+#PROJ       1001
+#TARG       13027
+#MF         4
+#MT         900
+#PRODUCT    14-SI-28
+#C4BEGIN    [ 1001 13027   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   4 900    2.0800+7          7.0000-7 1.4000-7 0.864275          0.000000         LVLH.J.Hausman+         (88)T0207 15 
+ 1001 13027   4 900    2.0800+7          8.0000-7 1.6000-7 0.728969          0.000000         LVLH.J.Hausman+         (88)T0207 15 
+ 1001 13027   4 900    2.0800+7          7.5000-7 1.5000-7 0.504528          0.000000         LVLH.J.Hausman+         (88)T0207 15 
+ 1001 13027   4 900    2.0800+7          6.8000-7 1.3600-7 0.010472          0.000000         LVLH.J.Hausman+         (88)T0207 15 
+ 1001 13027   4 900    2.0800+7          3.7500-7 7.5000-8-0.495459          0.000000         LVLH.J.Hausman+         (88)T0207 15 
+#/DATA      5
+#/DATASET

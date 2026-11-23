@@ -1,0 +1,29 @@
+#ENTRY      T0089
+#AUTHOR1    K.H.Hahn+
+#YEAR       1987
+#INSTITUTE  (1USACAL)
+#TITLE      Search for nonresonant capture in the 16O(a,gamma)20Ne
+#+          reaction at low energies
+#AUTHOR(S)  K.H.Hahn, K.H.Chang, T.R.Donoghue, B.W.Filippone
+#REF-CODE   (J,PR/C,36,892,1987)
+#REFERENCE  Phys.Rev.C 36 (1987) 892
+#DATASETS   0
+#
+#DATASET    T0089003 
+#DATE       20011018
+#REACTION   8-O-16(A,G)10-NE-20,PAR,SIG,,SFC
+#PROJ       2004
+#TARG       8016
+#MF         3
+#MT         900
+#PRODUCT    10-NE-20
+#C4BEGIN    [ 2004  8016   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  8016   3 900    2125508.          9.063-11 5.826-11                   0.000000         LVLK.H.Hahn+            (87)T0089  3 
+ 2004  8016   3 900    2750695.          9.004-10 3.925-10                   0.000000         LVLK.H.Hahn+            (87)T0089  3 
+ 2004  8016   3 900    2875734.          9.745-10 3.360-10                   0.000000         LVLK.H.Hahn+            (87)T0089  3 
+ 2004  8016   3 900    2938254.          4.418-10 4.418-10                   0.000000         LVLK.H.Hahn+            (87)T0089  3 
+#/DATA      4
+#/DATASET

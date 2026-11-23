@@ -1,0 +1,35 @@
+#ENTRY      T0268
+#AUTHOR1    J.A.Weinman+
+#YEAR       1964
+#INSTITUTE  (1USAANL)
+#TITLE      States in 28Si with 12.7<E(x)<13.7 MeV by (alpha,gamma)
+#+          and (alpha,aalpha) reactions on 24Mg
+#AUTHOR(S)  J.A.Weinman, L.Meyer-Schutzmeister, L.L.Lee Jr
+#REF-CODE   (J,PR,133,B590,1964)
+#REFERENCE  Phys.Rev. 133 (1964) B590
+#DATASETS   0
+#
+#DATASET    T0268002 
+#DATE       20230918
+#REACTION   12-MG-24(A,EL)12-MG-24,,DA
+#PROJ       2004
+#TARG       12024
+#MF         4
+#MT         2
+#PRODUCT    12-MG-24
+#C4BEGIN    [ 2004 12024   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 12024   4   2    3280000. 200000.0 1.1533-4 2.3996-6-0.774944                              J.A.Weinman+         (64)T0268  2 
+ 2004 12024   4   2    3296600. 200000.0 1.1153-4 3.1994-6-0.774944                              J.A.Weinman+         (64)T0268  2 
+ 2004 12024   4   2    3305100. 200000.0 1.0123-4 3.9993-6-0.774944                              J.A.Weinman+         (64)T0268  2 
+ 2004 12024   4   2    3312700. 200000.0 8.0523-5 3.1995-6-0.774944                              J.A.Weinman+         (64)T0268  2 
+ 2004 12024   4   2    3317100. 200000.0 9.2577-5 3.1994-6-0.774944                              J.A.Weinman+         (64)T0268  2 
+ 2004 12024   4   2    3321500. 200000.0 1.0863-4 3.1995-6-0.774944                              J.A.Weinman+         (64)T0268  2 
+ 2004 12024   4   2    3325000. 200000.0 1.1987-4 3.1995-6-0.774944                              J.A.Weinman+         (64)T0268  2 
+ 2004 12024   4   2    3330300. 200000.0 1.3354-4 3.9993-6-0.774944                              J.A.Weinman+         (64)T0268  2 
+ 2004 12024   4   2    3337600. 200000.0 1.3282-4 3.9993-6-0.774944                              J.A.Weinman+         (64)T0268  2 
+ 2004 12024   4   2    3355200. 200000.0 1.2424-4 3.9993-6-0.774944                              J.A.Weinman+         (64)T0268  2 
+#/DATA      10
+#/DATASET

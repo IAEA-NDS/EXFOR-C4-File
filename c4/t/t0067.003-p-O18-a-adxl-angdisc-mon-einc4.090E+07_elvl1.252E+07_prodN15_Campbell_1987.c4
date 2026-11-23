@@ -1,0 +1,39 @@
+#ENTRY      T0067
+#AUTHOR1    J.R.Campbell+
+#YEAR       1987
+#INSTITUTE  (1CANMNA)
+#TITLE      The 18O(p,a)15N reaction at 40.9 MeV
+#AUTHOR(S)  J.R.Campbell, O.A.Abou-Zeid, W.R.Falk, R.Abegg, S.K.Datta, 
+#+          S.P.Kwan
+#REF-CODE   (J,NP/A,467,205,1987)
+#REFERENCE  Nucl.Phys.A 467 (1987) 205
+#DATASETS   0
+#
+#DATASET    T0067003 
+#DATE       20011129
+#REACTION   8-O-18(P,A)7-N-15,PAR,DA
+#PROJ       1001
+#TARG       8018
+#MF         4
+#MT         800
+#PRODUCT    7-N-15
+#C4BEGIN    [ 1001  8018   4 800 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8018   4 800 AC 4.0900+7          0.094400          0.980955          1.2522+7         LVLJ.R.Campbell+        (87)T0067  3 
+ 1001  8018   4 800 AC 4.0900+7          0.094800          0.949972          1.2522+7         LVLJ.R.Campbell+        (87)T0067  3 
+ 1001  8018   4 800 AC 4.0900+7          0.100000          0.922538          1.2522+7         LVLJ.R.Campbell+        (87)T0067  3 
+ 1001  8018   4 800 AC 4.0900+7          0.065900          0.869495          1.2522+7         LVLJ.R.Campbell+        (87)T0067  3 
+ 1001  8018   4 800 AC 4.0900+7          0.056500          0.831954          1.2522+7         LVLJ.R.Campbell+        (87)T0067  3 
+ 1001  8018   4 800 AC 4.0900+7          0.037200          0.758134          1.2522+7         LVLJ.R.Campbell+        (87)T0067  3 
+ 1001  8018   4 800 AC 4.0900+7          0.037100          0.705872          1.2522+7         LVLJ.R.Campbell+        (87)T0067  3 
+ 1001  8018   4 800 AC 4.0900+7          0.034400 4.8000-3 0.634731          1.2522+7         LVLJ.R.Campbell+        (87)T0067  3 
+ 1001  8018   4 800 AC 4.0900+7          0.029800          0.559193          1.2522+7         LVLJ.R.Campbell+        (87)T0067  3 
+ 1001  8018   4 800 AC 4.0900+7          0.023700          0.477159          1.2522+7         LVLJ.R.Campbell+        (87)T0067  3 
+ 1001  8018   4 800 AC 4.0900+7          0.016200          0.389124          1.2522+7         LVLJ.R.Campbell+        (87)T0067  3 
+ 1001  8018   4 800 AC 4.0900+7          9.3400-3 1.3600-3 0.304033          1.2522+7         LVLJ.R.Campbell+        (87)T0067  3 
+ 1001  8018   4 800 AC 4.0900+7          1.2400-3 2.5000-4 0.209619          1.2522+7         LVLJ.R.Campbell+        (87)T0067  3 
+ 1001  8018   4 800 AC 4.0900+7          1.7300-3 3.4000-4 0.027922          1.2522+7         LVLJ.R.Campbell+        (87)T0067  3 
+#/DATA      14
+#/DATASET

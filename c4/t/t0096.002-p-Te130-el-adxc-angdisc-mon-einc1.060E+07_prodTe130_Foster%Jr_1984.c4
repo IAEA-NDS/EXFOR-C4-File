@@ -1,0 +1,41 @@
+#ENTRY      T0096
+#AUTHOR1    J.L.Foster Jr+
+#YEAR       1984
+#INSTITUTE  (1USAINU)
+#TITLE      130Te(p(pol),p1) and 130Te(p,p1(pol)) reactions on
+#+          analog resonances
+#AUTHOR(S)  J.L.Foster Jr, S.E.Darden, M.C.Rozak, J.A.Ross, J.P.Martin, 
+#+          L.Lessard, S.Gales, G.Noury, J.M.Pearson, P.Depommier, M.C.Hermida, 
+#+          M.Ruiz
+#REF-CODE   (J,PR/C,30,79,1984)
+#REFERENCE  Phys.Rev.C 30 (1984) 79
+#DATASETS   0
+#
+#DATASET    T0096002 
+#DATE       20171029
+#REACTION   52-TE-130(P,EL)52-TE-130,,DA,,RTH
+#PROJ       1001
+#TARG       52130
+#MF         4
+#MT         2
+#PRODUCT    52-TE-130
+#C4BEGIN    [ 1001 52130   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 52130   4   2  C 1.0600+7          1.665584          0.754710                              J.L.Foster Jr+       (84)T0096  2 
+ 1001 52130   4   2  C 1.0600+7          0.593136          0.627963                              J.L.Foster Jr+       (84)T0096  2 
+ 1001 52130   4   2  C 1.0600+7          0.314081          0.484810                              J.L.Foster Jr+       (84)T0096  2 
+ 1001 52130   4   2  C 1.0600+7          0.181375          0.327218                              J.L.Foster Jr+       (84)T0096  2 
+ 1001 52130   4   2  C 1.0600+7          0.093545          0.161604                              J.L.Foster Jr+       (84)T0096  2 
+ 1001 52130   4   2  C 1.0600+7          0.050030         -0.013962                              J.L.Foster Jr+       (84)T0096  2 
+ 1001 52130   4   2  C 1.0600+7          0.037890         -0.182236                              J.L.Foster Jr+       (84)T0096  2 
+ 1001 52130   4   2  C 1.0600+7          0.031697         -0.348572                              J.L.Foster Jr+       (84)T0096  2 
+ 1001 52130   4   2  C 1.0600+7          0.026250         -0.504528                              J.L.Foster Jr+       (84)T0096  2 
+ 1001 52130   4   2  C 1.0600+7          0.017868         -0.641450                              J.L.Foster Jr+       (84)T0096  2 
+ 1001 52130   4   2  C 1.0600+7          0.011171         -0.766044                              J.L.Foster Jr+       (84)T0096  2 
+ 1001 52130   4   2  C 1.0600+7          7.9024-3         -0.869495                              J.L.Foster Jr+       (84)T0096  2 
+ 1001 52130   4   2  C 1.0600+7          7.2039-3         -0.935444                              J.L.Foster Jr+       (84)T0096  2 
+ 1001 52130   4   2  C 1.0600+7          7.7529-3         -0.984503                              J.L.Foster Jr+       (84)T0096  2 
+#/DATA      14
+#/DATASET

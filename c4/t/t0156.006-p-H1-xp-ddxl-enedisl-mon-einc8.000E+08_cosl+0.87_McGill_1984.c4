@@ -1,0 +1,35 @@
+#ENTRY      T0156
+#AUTHOR1    J.A.McGill+
+#YEAR       1984
+#INSTITUTE  (1USATEX)
+#TITLE      Proton + nucleus inclusive (p,p') scattering at
+#+          800 MeV.
+#AUTHOR(S)  J.A.McGill, G.W.Hoffmann, M.L.Barlett, R.W.Fergerson, E.C.Milner, 
+#+          R.E.Chrien, R.J.Sutter, T.Kozlowski, R.L.Stearns
+#REF-CODE   (J,PR/C,29,204,198401)
+#REFERENCE  Phys.Rev.C 29 (1984) 204
+#DATASETS   0
+#
+#DATASET    T0156006 
+#DATE       20120320
+#REACTION   1-H-1(P,X)1-H-1,,DA/DP
+#PROJ       1001
+#TARG       1001
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001  1001   6 203 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1001   6 203 A  8.0000+8          1.687-11 9.841-13 0.866025          1.9231+9          E2J.A.McGill+          (84)T0156  6 
+ 1001  1001   6 203 A  8.0000+8          1.937-11 1.123-12 0.866025          1.9356+9          E2J.A.McGill+          (84)T0156  6 
+ 1001  1001   6 203 A  8.0000+8          1.862-11 1.120-12 0.866025          1.9558+9          E2J.A.McGill+          (84)T0156  6 
+ 1001  1001   6 203 A  8.0000+8          2.238-11 1.251-12 0.866025          2.0132+9          E2J.A.McGill+          (84)T0156  6 
+ 1001  1001   6 203 A  8.0000+8          1.955-11 1.101-12 0.866025          2.0967+9          E2J.A.McGill+          (84)T0156  6 
+ 1001  1001   6 203 A  8.0000+8          9.810-12 6.812-13 0.866025          2.1925+9          E2J.A.McGill+          (84)T0156  6 
+ 1001  1001   6 203 A  8.0000+8          2.710-12 2.710-13 0.866025          2.2442+9          E2J.A.McGill+          (84)T0156  6 
+ 1001  1001   6 203 A  8.0000+8          4.448-13 2.022-13 0.866025          2.2981+9          E2J.A.McGill+          (84)T0156  6 
+ 1001  1001   6 203 A  8.0000+8          0.000000 4.025-13 0.866025          2.3479+9          E2J.A.McGill+          (84)T0156  6 
+#/DATA      9
+#/DATASET

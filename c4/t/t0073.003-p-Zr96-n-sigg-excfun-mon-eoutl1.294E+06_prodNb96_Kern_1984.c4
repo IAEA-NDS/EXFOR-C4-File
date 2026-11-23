@@ -1,0 +1,35 @@
+#ENTRY      T0073
+#AUTHOR1    B.D.Kern+
+#YEAR       1984
+#INSTITUTE  (1USAKTY)
+#TITLE      Excited states of 96Nb from the 96Zr(p,n gamma)96Nb
+#+          reaction
+#AUTHOR(S)  B.D.Kern, T.Fenyes, A.Krasznahorkay, Z.Dombradi, S.Brant, 
+#+          V.Paar
+#REF-CODE   (J,NP/A,430,301,1984)
+#REFERENCE  Nucl.Phys.A 430 (1984) 301
+#DATASETS   0
+#
+#DATASET    T0073003 
+#DATE       20011119
+#REACTION   40-ZR-96(P,N)41-NB-96,PAR,SIG,G
+#PROJ       1001
+#TARG       40096
+#MF         13
+#MT         50
+#PRODUCT    41-NB-96
+#C4BEGIN    [ 1001 40096  13  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40096  13  50    2560000.          1.1400-6 8.5000-7                   1294000.            B.D.Kern+            (84)T0073  3 
+ 1001 40096  13  50    2610000.          1.4300-6 1.1400-6                   1294000.            B.D.Kern+            (84)T0073  3 
+ 1001 40096  13  50    2650000.          1.4500-6 1.2000-6                   1294000.            B.D.Kern+            (84)T0073  3 
+ 1001 40096  13  50    2700000.          4.6900-6 1.7300-6                   1294000.            B.D.Kern+            (84)T0073  3 
+ 1001 40096  13  50    2750000.          3.2300-6 1.6600-6                   1294000.            B.D.Kern+            (84)T0073  3 
+ 1001 40096  13  50    2810000.          5.9400-6 2.6800-6                   1294000.            B.D.Kern+            (84)T0073  3 
+ 1001 40096  13  50    2900000.          8.5500-6 3.7900-6                   1294000.            B.D.Kern+            (84)T0073  3 
+ 1001 40096  13  50    2950000.          1.1100-5 4.1000-6                   1294000.            B.D.Kern+            (84)T0073  3 
+ 1001 40096  13  50    3010000.          1.1000-5 4.1000-6                   1294000.            B.D.Kern+            (84)T0073  3 
+#/DATA      9
+#/DATASET
