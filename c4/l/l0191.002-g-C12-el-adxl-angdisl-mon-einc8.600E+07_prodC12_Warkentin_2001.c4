@@ -1,0 +1,32 @@
+#ENTRY      L0191
+#AUTHOR1    B.J.Warkentin+
+#YEAR       2001
+#INSTITUTE  (1CANSAS)
+#TITLE      Nuclear Compton scattering from 12C and bound-nucleon
+#+          polarizabilities
+#AUTHOR(S)  B.J.Warkentin, D.L.Hornidge, R.Igarashi, J.C.Bergstrom, 
+#+          E.L.Hallin, N.R.Kolb, R.E.Pywell, D.M.Skopik, J.M.Vogt, 
+#+          G.Feldman
+#REF-CODE   (J,PR/C,64,014603,2001)
+#REFERENCE  Phys.Rev.C 64 (2001) 014603
+#DATASETS   0
+#
+#DATASET    L0191002 
+#DATE       20140408
+#REACTION   6-C-12(G,EL)6-C-12,,DA
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [    0  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4   2    8.6000+7          6.5600-7 3.8000-8 0.819152                              B.J.Warkentin+       (01)L0191  2 
+    0  6012   4   2    8.6000+7          4.2500-7 1.8000-8 0.500000                              B.J.Warkentin+       (01)L0191  2 
+    0  6012   4   2    8.6000+7          3.4700-7 1.1000-8 6.123-17                              B.J.Warkentin+       (01)L0191  2 
+    0  6012   4   2    8.6000+7          4.1900-7 1.2000-8-0.500000                              B.J.Warkentin+       (01)L0191  2 
+    0  6012   4   2    8.6000+7          4.0700-7 1.5000-8-0.866025                              B.J.Warkentin+       (01)L0191  2 
+#/DATA      5
+#/DATASET
