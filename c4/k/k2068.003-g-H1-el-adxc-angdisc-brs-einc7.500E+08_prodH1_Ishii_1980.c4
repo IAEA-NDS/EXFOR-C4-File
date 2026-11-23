@@ -1,0 +1,27 @@
+#ENTRY      K2068
+#AUTHOR1    T.Ishii+
+#YEAR       1980
+#INSTITUTE  (2JPNKTO)
+#TITLE      Differential cross sections of proton Compton
+#+          scattering in the resonance region
+#AUTHOR(S)  T.Ishii, K.Egawa, S.Kato, T.Miyachi, K.Sugano, K.Toshioka, 
+#+          K.Ukai, M.Chiba, K.Joh, T.Shinohara, Y.Yoribayashi, Y.Wada
+#REF-CODE   (J,NP/B,165,(2),189,198003)
+#REFERENCE  Nucl.Phys.B 165 No.2 (1980) 189
+#DATASETS   0
+#
+#DATASET    K2068003 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 7.5000+8 1.2500+7 9.4000-8 1.1000-8-0.213030 0.051158                     T.Ishii+             (80)K2068  3 
+#/DATA      1
+#/DATASET

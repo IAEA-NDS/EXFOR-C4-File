@@ -1,0 +1,27 @@
+#ENTRY      K2069
+#AUTHOR1    Y.Wada+
+#YEAR       1984
+#INSTITUTE  (2JPNTOK)
+#TITLE      Proton Compton scattering at backward angles in the
+#+          energy range from 400 MeV to 1050 MeV
+#AUTHOR(S)  Y.Wada, K.Egawa, A.Imanishi, T.Ishii, S.Kato, K.Ukai, F.Naito, 
+#+          H.Nara, T.Noguchi, K.Takahashi
+#REF-CODE   (J,NP/B,247,(2),313,198412)
+#REFERENCE  Nucl.Phys.B 247 No.2 (1984) 313
+#DATASETS   0
+#
+#DATASET    K2069004 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 4.7500+8 1.2500+7 8.7000-8 1.1500-8-0.946085                              Y.Wada+              (84)K2069  4 
+#/DATA      1
+#/DATASET

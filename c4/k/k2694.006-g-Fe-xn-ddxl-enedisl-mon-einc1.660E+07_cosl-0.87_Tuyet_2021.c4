@@ -1,0 +1,37 @@
+#ENTRY      K2694
+#AUTHOR1    T.K.Tuyet+
+#YEAR       2021
+#INSTITUTE  (2JPNKEK)
+#TITLE      Energy and angular distribution of photo-neutrons for
+#+          16.6 MeV polarized photon on medium-heavy targets
+#AUTHOR(S)  T.K.Tuyet, T.Sanami, H.Yamazaki, T.Itoga, A.Takeuchi, Y.Namito, 
+#+          S.Miyamoto, Y.Asano
+#REF-CODE   (J,NIM/A,989,164965,2021)
+#REFERENCE  Nucl.Instrum.Meth.A 989 (2021) 164965
+#DATASETS   0
+#
+#DATASET    K2694006 
+#DATE       20220621
+#REACTION   26-FE-0(G,X)0-NN-1,,DA/DE
+#PROJ       0
+#TARG       26000
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    0 26000   6 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 26000   6 201    1.6600+7          5.821-10 8.459-11-0.866025          2400000.          E2T.K.Tuyet+           (21)K2694  6 
+    0 26000   6 201    1.6600+7          5.101-10 7.425-11-0.866025          2800000.          E2T.K.Tuyet+           (21)K2694  6 
+    0 26000   6 201    1.6600+7          5.382-10 7.828-11-0.866025          3200000.          E2T.K.Tuyet+           (21)K2694  6 
+    0 26000   6 201    1.6600+7          4.004-10 6.023-11-0.866025          3600000.          E2T.K.Tuyet+           (21)K2694  6 
+    0 26000   6 201    1.6600+7          3.662-10 5.562-11-0.866025          4000000.          E2T.K.Tuyet+           (21)K2694  6 
+    0 26000   6 201    1.6600+7          2.905-10 4.551-11-0.866025          4400000.          E2T.K.Tuyet+           (21)K2694  6 
+    0 26000   6 201    1.6600+7          2.704-10 4.296-11-0.866025          4800000.          E2T.K.Tuyet+           (21)K2694  6 
+    0 26000   6 201    1.6600+7          2.951-10 4.650-11-0.866025          5200000.          E2T.K.Tuyet+           (21)K2694  6 
+    0 26000   6 201    1.6600+7          2.212-10 3.682-11-0.866025          5600000.          E2T.K.Tuyet+           (21)K2694  6 
+    0 26000   6 201    1.6600+7          1.133-10 2.226-11-0.866025          6000000.          E2T.K.Tuyet+           (21)K2694  6 
+    0 26000   6 201    1.6600+7          5.649-11 1.393-11-0.866025          6400000.          E2T.K.Tuyet+           (21)K2694  6 
+#/DATA      11
+#/DATASET

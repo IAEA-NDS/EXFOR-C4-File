@@ -1,0 +1,28 @@
+#ENTRY      K2067
+#AUTHOR1    K.Toshioka+
+#YEAR       1978
+#INSTITUTE  (2JPNTOK)
+#TITLE      Differential cross sections of proton Compton
+#+          scattering in the energy range between 450 and 950 MeV
+#AUTHOR(S)  K.Toshioka, M.Chiba, S.Kato, K.Sugano, K.Ukai, T.Shimomura, 
+#+          T.Shinohara, M.Daigo, Y.Hemmi, R.Kikuchi, M.Minowa, K.Miyake, 
+#+          T.Nakamura, A.Noda, M.Ono, Y.Suzuki, M.Yoshioka, Y.Hoshi
+#REF-CODE   (J,NP/B,141,(4),364,197809)
+#REFERENCE  Nucl.Phys.B 141 No.4 (1978) 364
+#DATASETS   0
+#
+#DATASET    K2067002 
+#DATE       20080131
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 6.0000+8          5.8000-8 7.0000-9-1.7453-3 0.047124                     K.Toshioka+          (78)K2067  2 
+#/DATA      1
+#/DATASET
