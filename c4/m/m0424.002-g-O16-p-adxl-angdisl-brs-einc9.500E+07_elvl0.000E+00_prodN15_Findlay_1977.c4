@@ -1,0 +1,28 @@
+#ENTRY      M0424
+#AUTHOR1    D.J.S.Findlay+
+#YEAR       1977
+#INSTITUTE  (2UK GLS)
+#TITLE      The O-16(g,p-0) reaction at intermediate photon
+#+          energies.
+#AUTHOR(S)  D.J.S.Findlay, R.O.Owens
+#REF-CODE   (J,NP/A,279,385,1977)
+#REFERENCE  Nucl.Phys.A 279 (1977) 385
+#DATASETS   0
+#
+#DATASET    M0424002 
+#DATE       20130621
+#REACTION   8-O-16(G,P)7-N-15,PAR,DA,,BRS
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         600
+#PRODUCT    7-N-15
+#C4BEGIN    [    0  8016   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4 600    9.5000+7          1.4500-6 1.8000-7 0.707107          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    9.5000+7          3.3100-7 6.2000-8 0.258819          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+    0  8016   4 600    9.5000+7          4.0100-8 9.6000-9-0.258819          0.000000         LVLD.J.S.Findlay+       (77)M0424  2 
+#/DATA      3
+#/DATASET

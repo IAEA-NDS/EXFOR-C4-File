@@ -1,0 +1,28 @@
+#ENTRY      M0582
+#AUTHOR1    M.J.Leitch+
+#YEAR       1985
+#INSTITUTE  (1USAMIT)
+#TITLE      16O(gamma,p)15N reaction for Egamma = 100 - 400 MeV.
+#AUTHOR(S)  M.J.Leitch, J.L.Matthews, W.W.Sapp, C.P.Sargent, S.A.Wood, 
+#+          D.J.S.Findlay, R.O.Owens, B.L.Roberts
+#REF-CODE   (J,PR/C,31,1633,1985)
+#REFERENCE  Phys.Rev.C 31 (1985) 1633
+#DATASETS   0
+#
+#DATASET    M0582005 
+#DATE       20190625
+#REACTION   8-O-16(G,P)7-N-15,PAR,DA,,BRS
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         600
+#PRODUCT    7-N-15
+#C4BEGIN    [    0  8016   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4 600    1.2590+8          1.1000-8 5.8000-9-0.707107          5300000.         LVLM.J.Leitch+          (85)M0582  5 
+    0  8016   4 600    1.5130+8          6.000-10 6.1000-9-0.707107          5300000.         LVLM.J.Leitch+          (85)M0582  5 
+    0  8016   4 600    1.8120+8          1.1000-9 2.8000-9-0.707107          5300000.         LVLM.J.Leitch+          (85)M0582  5 
+#/DATA      3
+#/DATASET

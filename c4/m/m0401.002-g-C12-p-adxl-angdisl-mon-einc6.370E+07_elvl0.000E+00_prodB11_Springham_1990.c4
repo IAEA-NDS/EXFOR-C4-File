@@ -1,0 +1,42 @@
+#ENTRY      M0401
+#AUTHOR1    S.V.Springham+
+#YEAR       1990
+#INSTITUTE  (2GERMNZ)
+#TITLE      A high-resolution study of the C-12(g,p) reaction
+#+          with 49 - 78.5 MeV tagged photons.
+#AUTHOR(S)  S.V.Springham, D.Branford, T.Davinson, A.C.Shotter, J.Yorkston, 
+#+          J.C.McGeorge, J.D.Kellie, S.J.Hall, R.Beck, P.Jennewein, 
+#+          B.Schoch
+#REF-CODE   (J,NP/A,517,93,1990)
+#REFERENCE  Nucl.Phys.A 517 (1990) 93
+#DATASETS   0
+#
+#DATASET    M0401002 
+#DATE       20161222
+#REACTION   6-C-12(G,P)5-B-11,PAR,DA
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         600
+#PRODUCT    5-B-11
+#C4BEGIN    [    0  6012   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4 600    6.3700+7          1.7600-5 4.5000-6 0.425779          0.000000         LVLS.V.Springham+       (90)M0401  2 
+    0  6012   4 600    6.3700+7          2.0400-5 3.9000-6 0.414693          0.000000         LVLS.V.Springham+       (90)M0401  2 
+    0  6012   4 600    6.3700+7          1.3400-5 2.5000-6 0.346936          0.000000         LVLS.V.Springham+       (90)M0401  2 
+    0  6012   4 600    6.3700+7          1.3000-5 2.1000-6 0.333807          0.000000         LVLS.V.Springham+       (90)M0401  2 
+    0  6012   4 600    6.3700+7          1.1000-5 1.7000-6 0.241922          0.000000         LVLS.V.Springham+       (90)M0401  2 
+    0  6012   4 600    6.3700+7          1.3600-5 1.7000-6 0.230050          0.000000         LVLS.V.Springham+       (90)M0401  2 
+    0  6012   4 600    6.3700+7          7.5000-6 1.2000-6 0.123601          0.000000         LVLS.V.Springham+       (90)M0401  2 
+    0  6012   4 600    6.3700+7          7.5000-6 1.1000-6 0.116671          0.000000         LVLS.V.Springham+       (90)M0401  2 
+    0  6012   4 600    6.3700+7          5.0000-6 9.0000-7 6.123-17          0.000000         LVLS.V.Springham+       (90)M0401  2 
+    0  6012   4 600    6.3700+7          3.5000-6 8.0000-7-0.116671          0.000000         LVLS.V.Springham+       (90)M0401  2 
+    0  6012   4 600    6.3700+7          2.9000-6 7.0000-7-0.123601          0.000000         LVLS.V.Springham+       (90)M0401  2 
+    0  6012   4 600    6.3700+7          2.4000-6 7.0000-7-0.230050          0.000000         LVLS.V.Springham+       (90)M0401  2 
+    0  6012   4 600    6.3700+7          1.8000-6 7.0000-7-0.240228          0.000000         LVLS.V.Springham+       (90)M0401  2 
+    0  6012   4 600    6.3700+7          2.0000-6 8.0000-7-0.333807          0.000000         LVLS.V.Springham+       (90)M0401  2 
+    0  6012   4 600    6.3700+7          1.6000-6 8.0000-7-0.346936          0.000000         LVLS.V.Springham+       (90)M0401  2 
+#/DATA      15
+#/DATASET

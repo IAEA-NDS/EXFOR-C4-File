@@ -1,0 +1,33 @@
+#ENTRY      M0580
+#AUTHOR1    A.M.Nathan+
+#YEAR       1986
+#INSTITUTE  (1USAUI)
+#TITLE      Photon scattering from 206Pb.
+#AUTHOR(S)  A.M.Nathan, P.L.Cole, P.T.Debevec, S.D.Hoblit, S.F.LeBrun, 
+#+          D.H.Wright
+#REF-CODE   (J,PR/C,34,480,1986)
+#REFERENCE  Phys.Rev.C 34 (1986) 480
+#DATASETS   0
+#
+#DATASET    M0580002 
+#DATE       20230614
+#REACTION   82-PB-206(G,EL)82-PB-206,,DA
+#PROJ       0
+#TARG       82206
+#MF         4
+#MT         2
+#PRODUCT    82-PB-206
+#C4BEGIN    [    0 82206   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 82206   4   2    1.3820+7          7.2000-4 1.8000-5 6.123-17                              A.M.Nathan+          (86)M0580  2 
+    0 82206   4   2    1.4170+7          7.5900-4 2.0000-5 6.123-17                              A.M.Nathan+          (86)M0580  2 
+    0 82206   4   2    1.4540+7          7.4200-4 1.7000-5 6.123-17                              A.M.Nathan+          (86)M0580  2 
+    0 82206   4   2    1.4940+7          6.7600-4 1.7000-5 6.123-17                              A.M.Nathan+          (86)M0580  2 
+    0 82206   4   2    1.5350+7          6.1400-4 1.5000-5 6.123-17                              A.M.Nathan+          (86)M0580  2 
+    0 82206   4   2    1.5800+7          5.2500-4 1.5000-5 6.123-17                              A.M.Nathan+          (86)M0580  2 
+    0 82206   4   2    1.6270+7          4.4400-4 1.4000-5 6.123-17                              A.M.Nathan+          (86)M0580  2 
+    0 82206   4   2    1.6770+7          3.6100-4 1.2000-5 6.123-17                              A.M.Nathan+          (86)M0580  2 
+#/DATA      8
+#/DATASET

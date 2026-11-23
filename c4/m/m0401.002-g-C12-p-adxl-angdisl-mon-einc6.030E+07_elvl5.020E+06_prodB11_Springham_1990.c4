@@ -1,0 +1,35 @@
+#ENTRY      M0401
+#AUTHOR1    S.V.Springham+
+#YEAR       1990
+#INSTITUTE  (2GERMNZ)
+#TITLE      A high-resolution study of the C-12(g,p) reaction
+#+          with 49 - 78.5 MeV tagged photons.
+#AUTHOR(S)  S.V.Springham, D.Branford, T.Davinson, A.C.Shotter, J.Yorkston, 
+#+          J.C.McGeorge, J.D.Kellie, S.J.Hall, R.Beck, P.Jennewein, 
+#+          B.Schoch
+#REF-CODE   (J,NP/A,517,93,1990)
+#REFERENCE  Nucl.Phys.A 517 (1990) 93
+#DATASETS   0
+#
+#DATASET    M0401002 
+#DATE       20161222
+#REACTION   6-C-12(G,P)5-B-11,PAR,DA
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         600
+#PRODUCT    5-B-11
+#C4BEGIN    [    0  6012   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4 600    6.0300+7          1.3000-6 1.1000-6 0.425779          5020000.         LVLS.V.Springham+       (90)M0401  2 
+    0  6012   4 600    6.0300+7          2.0000-6 9.0000-7 0.346936          5020000.         LVLS.V.Springham+       (90)M0401  2 
+    0  6012   4 600    6.0300+7          2.8000-6 7.0000-7 0.241922          5020000.         LVLS.V.Springham+       (90)M0401  2 
+    0  6012   4 600    6.0300+7          2.9000-6 6.0000-7 0.123601          5020000.         LVLS.V.Springham+       (90)M0401  2 
+    0  6012   4 600    6.0300+7          1.9000-6 5.0000-7 6.123-17          5020000.         LVLS.V.Springham+       (90)M0401  2 
+    0  6012   4 600    6.0300+7          1.7000-6 5.0000-7-0.123601          5020000.         LVLS.V.Springham+       (90)M0401  2 
+    0  6012   4 600    6.0300+7          6.0000-7 4.0000-7-0.240228          5020000.         LVLS.V.Springham+       (90)M0401  2 
+    0  6012   4 600    6.0300+7          1.6000-6 8.0000-7-0.346936          5020000.         LVLS.V.Springham+       (90)M0401  2 
+#/DATA      8
+#/DATASET

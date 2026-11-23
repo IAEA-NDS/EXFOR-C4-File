@@ -1,0 +1,28 @@
+#ENTRY      M0552
+#AUTHOR1    E.L.Hallin+
+#YEAR       1993
+#INSTITUTE  (1CANSAS)
+#TITLE      Compton scattering from the proton.
+#AUTHOR(S)  E.L.Hallin, D.Amendt, J.C.Bergstrom, H.S.Caplan, R.Igarashi, 
+#+          D.M.Skopik, E.C.Booth, D.Delli Carpini, J.P.Miller, F.J.Federspiel, 
+#+          B.E.MacGibbon, A.M.Nathan
+#REF-CODE   (J,PR/C,48,1497,1993)
+#REFERENCE  Phys.Rev.C 48 (1993) 1497
+#DATASETS   0
+#
+#DATASET    M0552006 
+#DATE       20190524
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 2.8400+8          1.7400-7 2.6000-8 0.656059                              E.L.Hallin+          (93)M0552  6 
+    0  1001   4   2  C 2.9000+8          2.2300-7 3.3000-8 0.656059                              E.L.Hallin+          (93)M0552  6 
+#/DATA      2
+#/DATASET

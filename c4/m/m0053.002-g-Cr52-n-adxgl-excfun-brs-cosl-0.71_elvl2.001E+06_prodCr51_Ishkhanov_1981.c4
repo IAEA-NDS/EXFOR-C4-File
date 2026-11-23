@@ -1,0 +1,30 @@
+#ENTRY      M0053
+#AUTHOR1    B.S.Ishkhanov+
+#YEAR       1981
+#INSTITUTE  (4RUSMOS)
+#TITLE      Partial cross sections for various channels of the
+#+          Cr-52(gamma,xgamma') reaction.
+#AUTHOR(S)  B.S.Ishkhanov, Yu.A.Novikov, E.S.Omarov, I.M.Piskarev
+#REF-CODE   (J,YF,33,570,1981)
+#REFERENCE  Yad.Fiz. 33 (1981) 570
+#DATASETS   0
+#
+#DATASET    M0053002 
+#DATE       20121030
+#REACTION   24-CR-52(G,N)24-CR-51,PAR,DA,G,BRS
+#PROJ       0
+#TARG       24052
+#MF         14
+#MT         50
+#PRODUCT    24-CR-51
+#C4BEGIN    [    0 24052  14  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 24052  14  50 A  1.6000+7          3.0000-6 7.0000-6-0.707107          2001000.            B.S.Ishkhanov+       (81)M0053  2 
+    0 24052  14  50 A  1.9000+7          1.3800-4 1.7000-5-0.707107          2001000.            B.S.Ishkhanov+       (81)M0053  2 
+    0 24052  14  50 A  2.2000+7          1.8100-4 2.5000-5-0.707107          2001000.            B.S.Ishkhanov+       (81)M0053  2 
+    0 24052  14  50 A  2.4100+7          1.3100-4 3.0000-5-0.707107          2001000.            B.S.Ishkhanov+       (81)M0053  2 
+    0 24052  14  50 A  2.7100+7          2.7000-5 3.2000-5-0.707107          2001000.            B.S.Ishkhanov+       (81)M0053  2 
+#/DATA      5
+#/DATASET

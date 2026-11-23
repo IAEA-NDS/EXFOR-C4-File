@@ -1,0 +1,40 @@
+#ENTRY      M0552
+#AUTHOR1    E.L.Hallin+
+#YEAR       1993
+#INSTITUTE  (1CANSAS)
+#TITLE      Compton scattering from the proton.
+#AUTHOR(S)  E.L.Hallin, D.Amendt, J.C.Bergstrom, H.S.Caplan, R.Igarashi, 
+#+          D.M.Skopik, E.C.Booth, D.Delli Carpini, J.P.Miller, F.J.Federspiel, 
+#+          B.E.MacGibbon, A.M.Nathan
+#REF-CODE   (J,PR/C,48,1497,1993)
+#REFERENCE  Phys.Rev.C 48 (1993) 1497
+#DATASETS   0
+#
+#DATASET    M0552006 
+#DATE       20190524
+#REACTION   1-H-1(G,EL)1-H-1,,DA,,BRS
+#PROJ       0
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1001   4   2  C 1.3000+8          2.2000-8 1.7000-9-0.777146                              E.L.Hallin+          (93)M0552  6 
+    0  1001   4   2  C 1.3800+8          2.5300-8 1.6000-9-0.777146                              E.L.Hallin+          (93)M0552  6 
+    0  1001   4   2  C 1.4600+8          2.4100-8 1.6000-9-0.777146                              E.L.Hallin+          (93)M0552  6 
+    0  1001   4   2  C 1.5400+8          2.9800-8 1.8000-9-0.777146                              E.L.Hallin+          (93)M0552  6 
+    0  1001   4   2  C 1.6200+8          4.0800-8 2.4000-9-0.777146                              E.L.Hallin+          (93)M0552  6 
+    0  1001   4   2  C 1.7000+8          5.6000-8 2.4000-9-0.777146                              E.L.Hallin+          (93)M0552  6 
+    0  1001   4   2  C 1.7900+8          4.4200-8 2.3000-9-0.777146                              E.L.Hallin+          (93)M0552  6 
+    0  1001   4   2  C 1.8800+8          4.6400-8 2.7000-9-0.777146                              E.L.Hallin+          (93)M0552  6 
+    0  1001   4   2  C 1.9600+8          6.8600-8 6.4000-9-0.777146                              E.L.Hallin+          (93)M0552  6 
+    0  1001   4   2  C 2.2200+8          7.3000-8 3.4000-9-0.777146                              E.L.Hallin+          (93)M0552  6 
+    0  1001   4   2  C 2.2200+8          7.1700-8 3.1000-9-0.777146                              E.L.Hallin+          (93)M0552  6 
+    0  1001   4   2  C 2.3200+8          9.9300-8 4.3000-9-0.777146                              E.L.Hallin+          (93)M0552  6 
+    0  1001   4   2  C 2.3200+8          9.6300-8 3.9000-9-0.777146                              E.L.Hallin+          (93)M0552  6 
+    0  1001   4   2  C 2.8200+8          1.9300-7 9.0000-9-0.777146                              E.L.Hallin+          (93)M0552  6 
+#/DATA      14
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      M0416
+#AUTHOR1    P.Rullhusen+
+#YEAR       1982
+#INSTITUTE  (2GERJUL)
+#TITLE      Coulomb correction effect in delbruck scattering  and
+#+          nuclear  resonance  fluorescence  of  2  to  10  MeV
+#+          photons on U-238.
+#AUTHOR(S)  P.Rullhusen, U.Zurmuhl, W.Muckenheim, F.Smend, M.Schumacher, 
+#+          H.G.Borner
+#REF-CODE   (J,NP/A,382,79,1982)
+#REFERENCE  Nucl.Phys.A 382 (1982) 79
+#DATASETS   0
+#
+#DATASET    M0416002 
+#DATE       20160905
+#REACTION   92-U-238(G,EL)92-U-238,,DA
+#PROJ       0
+#TARG       92238
+#MF         4
+#MT         2
+#PRODUCT    92-U-238
+#C4BEGIN    [    0 92238   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 92238   4   2    2752300.          5.0500-5 4.1000-6-0.500000                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    3229400.          5.9900-5 2.3000-5-0.500000                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    3381300.          3.7800-5 2.1000-5-0.500000                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    4086500.          2.7800-5 1.6000-5-0.500000                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    4295500.          1.7400-5 7.8000-6-0.500000                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    4462100.          3.6700-5 2.3000-5-0.500000                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    4806600.          1.3440-4 1.5200-5-0.500000                              P.Rullhusen+         (82)M0416  2 
+    0 92238   4   2    8998000.          2.7000-5 5.0000-7-0.500000                              P.Rullhusen+         (82)M0416  2 
+#/DATA      8
+#/DATASET

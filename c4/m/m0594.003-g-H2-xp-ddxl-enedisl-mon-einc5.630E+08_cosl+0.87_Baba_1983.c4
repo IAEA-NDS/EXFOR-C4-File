@@ -1,0 +1,29 @@
+#ENTRY      M0594
+#AUTHOR1    K.Baba+
+#YEAR       1983
+#INSTITUTE  (2JPNHIR)
+#TITLE      Measurement of differential cross sections for
+#+          processes gamma+d -> pn, pi-0+d, and pX in the energy
+#+          range of dibaryon resonances.
+#AUTHOR(S)  K.Baba, I.Endo, H.Fukuma, K.Inoue, T.Kawamoto, T.Ohsugi, 
+#+          Y.Sumi, T.Takeshita, S.Uehara, Y.Yano, T.Maki
+#REF-CODE   (J,PR/C,28,286,1983)
+#REFERENCE  Phys.Rev.C 28 (1983) 286
+#DATASETS   0
+#
+#DATASET    M0594003 
+#DATE       20190626
+#REACTION   1-H-2(G,X)1-H-1,,DA/DP
+#PROJ       0
+#TARG       1002
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    0  1002   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  1002   6 203    5.6300+8          7.500-13 6.000-14 0.866025 0.043633 1.9983+9          E2K.Baba+              (83)M0594  3 
+    0  1002   6 203    5.6300+8          7.500-13 6.000-14 0.866025 0.043633 2.0184+9          E2K.Baba+              (83)M0594  3 
+#/DATA      2
+#/DATASET

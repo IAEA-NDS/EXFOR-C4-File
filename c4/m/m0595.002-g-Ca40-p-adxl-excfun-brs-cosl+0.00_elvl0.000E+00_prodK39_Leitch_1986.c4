@@ -1,0 +1,32 @@
+#ENTRY      M0595
+#AUTHOR1    M.J.Leitch+
+#YEAR       1986
+#INSTITUTE  (1USAMIT)
+#TITLE      40Ca(gamma,p0)39K reaction for Egamma = 100 - 300 MeV.
+#AUTHOR(S)  M.J.Leitch, F.C.Lin, J.L.Matthews, W.W.Sapp, C.P.Sargent, 
+#+          D.J.S.Findlay, R.O.Owens, B.L.Roberts
+#REF-CODE   (J,PR/C,33,1511,1986)
+#REFERENCE  Phys.Rev.C 33 (1986) 1511
+#DATASETS   0
+#
+#DATASET    M0595002 
+#DATE       20230614
+#REACTION   20-CA-40(G,P)19-K-39,PAR,DA,,BRS
+#PROJ       0
+#TARG       20040
+#MF         4
+#MT         600
+#PRODUCT    19-K-39
+#C4BEGIN    [    0 20040   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0 20040   4 600    1.0150+8          9.3000-8 1.1000-8 6.123-17          0.000000         LVLM.J.Leitch+          (86)M0595  2 
+    0 20040   4 600    1.2640+8          3.5900-8 4.8000-9 6.123-17          0.000000         LVLM.J.Leitch+          (86)M0595  2 
+    0 20040   4 600    1.5130+8          5.0000-9 1.4000-9 6.123-17          0.000000         LVLM.J.Leitch+          (86)M0595  2 
+    0 20040   4 600    1.7620+8          1.3000-9 7.000-10 6.123-17          0.000000         LVLM.J.Leitch+          (86)M0595  2 
+    0 20040   4 600    2.0120+8          3.600-10 3.600-10 6.123-17          0.000000         LVLM.J.Leitch+          (86)M0595  2 
+    0 20040   4 600    2.4120+8          5.400-10 4.600-10 6.123-17          0.000000         LVLM.J.Leitch+          (86)M0595  2 
+    0 20040   4 600    2.8130+8          2.900-10 2.400-10 6.123-17          0.000000         LVLM.J.Leitch+          (86)M0595  2 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      M0579
+#AUTHOR1    R.A.Schumacher+
+#YEAR       1986
+#INSTITUTE  (1USAMIT)
+#TITLE      Two-body photodisintegration of 4He in the
+#+          100 - 360 MeV region.
+#AUTHOR(S)  R.A.Schumacher, J.L.Matthews, W.W.Sapp, R.S.Turley, G.S.Adams, 
+#+          R.O.Owens
+#REF-CODE   (J,PR/C,33,50,1986)
+#REFERENCE  Phys.Rev.C 33 (1986) 50
+#DATASETS   0
+#
+#DATASET    M0579004 
+#DATE       20190625
+#REACTION   2-HE-4(G,N)2-HE-3,,DA,,BRS
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   4  C 3.1800+8 5000000. 3.6000-8 1.8000-9-0.483282                              R.A.Schumacher+      (86)M0579  4 
+#/DATA      1
+#/DATASET

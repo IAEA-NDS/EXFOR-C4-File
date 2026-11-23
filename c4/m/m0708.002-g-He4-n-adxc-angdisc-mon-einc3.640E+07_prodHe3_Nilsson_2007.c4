@@ -1,0 +1,36 @@
+#ENTRY      M0708
+#AUTHOR1    B.Nilsson+
+#YEAR       2007
+#INSTITUTE  (2SWDLND)
+#TITLE      Measurement of the 4He(gamma,n) reaction from
+#+          23 < Eg < 70 MeV.
+#AUTHOR(S)  B.Nilsson, J.-O.Adler, B.-E.Andersson, J.R.M.Annand, I.Akkurt, 
+#+          M.J.Boland, G.I.Crawford, K.G.Fissum, K.Hansen, P.D.Harty, 
+#+          D.G.Ireland, L.Isaksson, M.Karlsson, M.Lundin, J.C.McGeorge, 
+#+          G.J.Miller, H.Ruijter, A.Sandell, B.Schroder, D.A.Sims, 
+#+          D.Watts
+#REF-CODE   (J,PR/C,75,014007,2007)
+#REFERENCE  Phys.Rev.C 75 (2007) 014007
+#DATASETS   0
+#
+#DATASET    M0708002 
+#DATE       20260120
+#REACTION   2-HE-4(G,N)2-HE-3,,DA
+#PROJ       0
+#TARG       2004
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [    0  2004   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2004   4   4  C 3.6400+7 300000.0 4.0000-5 4.0000-6 0.675590                              B.Nilsson+           (07)M0708  2 
+    0  2004   4   4  C 3.6400+7 300000.0 6.8000-5 4.0000-6 0.453990                              B.Nilsson+           (07)M0708  2 
+    0  2004   4   4  C 3.6400+7 300000.0 9.3000-5 5.0000-6 0.201078                              B.Nilsson+           (07)M0708  2 
+    0  2004   4   4  C 3.6400+7 300000.0 7.9000-5 4.0000-6-0.061049                              B.Nilsson+           (07)M0708  2 
+    0  2004   4   4  C 3.6400+7 300000.0 6.7000-5 3.0000-6-0.317305                              B.Nilsson+           (07)M0708  2 
+    0  2004   4   4  C 3.6400+7 300000.0 7.5000-5 4.0000-6-0.546102                              B.Nilsson+           (07)M0708  2 
+    0  2004   4   4  C 3.6400+7 300000.0 5.2000-5 4.0000-6-0.737277                              B.Nilsson+           (07)M0708  2 
+#/DATA      7
+#/DATASET

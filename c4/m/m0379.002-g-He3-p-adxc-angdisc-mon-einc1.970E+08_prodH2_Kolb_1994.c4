@@ -1,0 +1,39 @@
+#ENTRY      M0379
+#AUTHOR1    N.R.Kolb+
+#YEAR       1994
+#INSTITUTE  (1CANALA)
+#TITLE      He-3(g,pd) cross sections with tagged  photons  below
+#+          the delta-resonance.
+#AUTHOR(S)  N.R.Kolb, E.B.Cairns, E.D.Hackett, E.Korkmaz, T.Nakano, 
+#+          A.K.Opper, M.A.Quraan, N.L.Rodning, F.M.Rozon, J.Asai, G.Feldman, 
+#+          E.Hallin, G.V.O'rielly, R.E.Pywell, D.M.Skopik
+#REF-CODE   (J,PR/C,49,2586,1994)
+#REFERENCE  Phys.Rev.C 49 (1994) 2586
+#DATASETS   0
+#
+#DATASET    M0379002 
+#DATE       20161018
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 1.9700+8          4.6300-7 6.5000-8 0.766044                              N.R.Kolb+            (94)M0379  2 
+    0  2003   4 103  C 1.9700+8          6.4200-7 6.6000-8 0.642788                              N.R.Kolb+            (94)M0379  2 
+    0  2003   4 103  C 1.9700+8          7.2800-7 6.4000-8 0.500000                              N.R.Kolb+            (94)M0379  2 
+    0  2003   4 103  C 1.9700+8          5.2400-7 5.2000-8 0.342020                              N.R.Kolb+            (94)M0379  2 
+    0  2003   4 103  C 1.9700+8          3.9900-7 4.5000-8 0.173648                              N.R.Kolb+            (94)M0379  2 
+    0  2003   4 103  C 1.9700+8          3.2000-7 3.9000-8 6.123-17                              N.R.Kolb+            (94)M0379  2 
+    0  2003   4 103  C 1.9700+8          3.0200-7 3.9000-8-0.173648                              N.R.Kolb+            (94)M0379  2 
+    0  2003   4 103  C 1.9700+8          3.0000-7 3.9000-8-0.342020                              N.R.Kolb+            (94)M0379  2 
+    0  2003   4 103  C 1.9700+8          1.8800-7 3.2000-8-0.500000                              N.R.Kolb+            (94)M0379  2 
+    0  2003   4 103  C 1.9700+8          9.0000-8 2.4000-8-0.642788                              N.R.Kolb+            (94)M0379  2 
+    0  2003   4 103  C 1.9700+8          9.0000-9 9.0000-9-0.766044                              N.R.Kolb+            (94)M0379  2 
+    0  2003   4 103  C 1.9700+8          1.5000-8 1.5000-8-0.866025                              N.R.Kolb+            (94)M0379  2 
+#/DATA      12
+#/DATASET

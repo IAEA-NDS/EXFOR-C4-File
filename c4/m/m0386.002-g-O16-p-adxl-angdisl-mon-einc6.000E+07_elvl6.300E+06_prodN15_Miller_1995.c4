@@ -1,0 +1,37 @@
+#ENTRY      M0386
+#AUTHOR1    G.J.Miller+
+#YEAR       1995
+#INSTITUTE  (2SWDLND)
+#TITLE      The O-16(g,p) reaction at Eg = 60 and 72 MeV.
+#AUTHOR(S)  G.J.Miller, J.C.McGeorge, J.R.M.Annand, G.I.Crawford, V.Holliday, 
+#+          I.J.D.Macgregor, R.O.Owens, J.Ryckebusch, J.-O.Adler, B.-E.Andersson, 
+#+          L.Isaakson, B.Schroder
+#REF-CODE   (J,NP/A,586,125,1995)
+#REFERENCE  Nucl.Phys.A 586 (1995) 125
+#DATASETS   0
+#
+#DATASET    M0386002 
+#DATE       20161221
+#REACTION   8-O-16(G,P)7-N-15,PAR,DA
+#PROJ       0
+#TARG       8016
+#MF         4
+#MT         600
+#PRODUCT    7-N-15
+#C4BEGIN    [    0  8016   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  8016   4 600    6.0000+7 3000000. 5.8000-6 1.5000-6 0.906308          6300000.         LVLG.J.Miller+          (95)M0386  2 
+    0  8016   4 600    6.0000+7 3000000. 5.6000-6 4.0000-7 0.819152          6300000.         LVLG.J.Miller+          (95)M0386  2 
+    0  8016   4 600    6.0000+7 3000000. 6.2000-6 4.0000-7 0.707107          6300000.         LVLG.J.Miller+          (95)M0386  2 
+    0  8016   4 600    6.0000+7 3000000. 6.2000-6 5.0000-7 0.573576          6300000.         LVLG.J.Miller+          (95)M0386  2 
+    0  8016   4 600    6.0000+7 3000000. 4.8000-6 5.0000-7 0.422618          6300000.         LVLG.J.Miller+          (95)M0386  2 
+    0  8016   4 600    6.0000+7 3000000. 4.5000-6 4.0000-7 0.258819          6300000.         LVLG.J.Miller+          (95)M0386  2 
+    0  8016   4 600    6.0000+7 3000000. 3.5000-6 5.0000-7 0.087156          6300000.         LVLG.J.Miller+          (95)M0386  2 
+    0  8016   4 600    6.0000+7 3000000. 2.7000-6 4.0000-7-0.087156          6300000.         LVLG.J.Miller+          (95)M0386  2 
+    0  8016   4 600    6.0000+7 3000000. 1.6000-6 4.0000-7-0.258819          6300000.         LVLG.J.Miller+          (95)M0386  2 
+    0  8016   4 600    6.0000+7 3000000. 8.0000-7 2.0000-7-0.422618          6300000.         LVLG.J.Miller+          (95)M0386  2 
+    0  8016   4 600    6.0000+7 3000000. 7.1000-7 1.6000-7-0.573576          6300000.         LVLG.J.Miller+          (95)M0386  2 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      M0589
+#AUTHOR1    R.Igarashi+
+#YEAR       1995
+#INSTITUTE  (1CANSAS)
+#TITLE      Photon scattering from 12C and 4He nuclei near the
+#+          DELTA (1232) resonance.
+#AUTHOR(S)  R.Igarashi, J.C.Bergstrom, H.S.Caplan, K.G.E.Doss, E.L.Hallin, 
+#+          D.M.Skopik, D.Delli Carpini, E.C.Booth, E.K.McIntyre, J.P.Miller, 
+#+          M.A.Lucas, B.E.Macgibbon, A.M.Nathan, D.Wells
+#REF-CODE   (J,PR/C,52,755,1995)
+#REFERENCE  Phys.Rev.C 52 (1995) 755
+#DATASETS   0
+#
+#DATASET    M0589004 
+#DATE       20260120
+#REACTION   6-C-12(G,EL)6-C-12,,DA,,BRS
+#PROJ       0
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [    0  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  6012   4   2  C 2.8060+8          1.5600-5 3.7000-6 0.936672                              R.Igarashi+          (95)M0589  4 
+    0  6012   4   2  C 2.8060+8          7.8900-6 1.1800-6 0.858065                              R.Igarashi+          (95)M0589  4 
+    0  6012   4   2  C 2.8060+8          3.2900-6 4.0000-7 0.694658                              R.Igarashi+          (95)M0589  4 
+    0  6012   4   2  C 2.8060+8          1.2300-7          0.389124                              R.Igarashi+          (95)M0589  4 
+    0  6012   4   2  C 2.8060+8          8.2100-8         -0.019197                              R.Igarashi+          (95)M0589  4 
+    0  6012   4   2  C 2.8060+8          4.3100-8         -0.521010                              R.Igarashi+          (95)M0589  4 
+    0  6012   4   2  C 2.8060+8          1.4000-8         -0.823136                              R.Igarashi+          (95)M0589  4 
+#/DATA      7
+#/DATASET

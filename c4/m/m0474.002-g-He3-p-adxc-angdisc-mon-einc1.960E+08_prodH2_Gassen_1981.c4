@@ -1,0 +1,31 @@
+#ENTRY      M0474
+#AUTHOR1    H.J.Gassen+
+#YEAR       1981
+#INSTITUTE  (2GERBON)
+#TITLE      Measurement of the two-body photodisintegration of
+#+          He-3 in the delta(1236) resonance region.
+#AUTHOR(S)  H.J.Gassen, A.Hegerath, W.Loers, B.Mecking, G.Noldeke, T.Reichelt, 
+#+          H.Stanek
+#REF-CODE   (J,ZP/A,303,35,1981)
+#REFERENCE  Z.Phys.A 303 (1981) 35
+#DATASETS   0
+#
+#DATASET    M0474002 
+#DATE       20160426
+#REACTION   2-HE-3(G,P)1-H-2,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         103
+#PRODUCT    1-H-2
+#C4BEGIN    [    0  2003   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 103  C 1.9600+8          5.7300-7 2.9000-8 0.500000                              H.J.Gassen+          (81)M0474  2 
+    0  2003   4 103  C 1.9600+8          4.3400-7 1.3000-8 0.258819                              H.J.Gassen+          (81)M0474  2 
+    0  2003   4 103  C 1.9600+8          3.0400-7 1.5000-8 6.123-17                              H.J.Gassen+          (81)M0474  2 
+    0  2003   4 103  C 1.9600+8          2.0900-7 7.0000-9-0.500000                              H.J.Gassen+          (81)M0474  2 
+    0  2003   4 103  C 1.9600+8          5.7000-8 4.0000-9-0.866025                              H.J.Gassen+          (81)M0474  2 
+#/DATA      5
+#/DATASET
