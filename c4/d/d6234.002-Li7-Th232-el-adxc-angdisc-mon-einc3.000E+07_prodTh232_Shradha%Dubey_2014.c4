@@ -1,0 +1,43 @@
+#ENTRY      D6234
+#AUTHOR1    Shradha Dubey+
+#YEAR       2014
+#INSTITUTE  (3INDBDA)
+#TITLE      Effect of breakup processes on the near-barrier
+#+          elastic scattering of the 6,7Li + 232Th systems
+#AUTHOR(S)  Shradha Dubey, S.Mukherjee, D.C.Biswas, B.K.Nayak, D.Patel, 
+#+          G.K.Prajapati, Y.K.Gupta, B.N.Joshi, L.S.Danu, S.Mukhopadhyay, 
+#+          B.V.John, V.V.Desai, S.V.Suryanarayana, R.P.Vind, N.N.Deshmukh, 
+#+          S.Appnnababu, P.M.Prajapati
+#REF-CODE   (J,PR/C,89,014610,2014)
+#REFERENCE  Phys.Rev.C 89 (2014) 014610
+#DATASETS   0
+#
+#DATASET    D6234002 
+#DATE       20150121
+#REACTION   90-TH-232(3-LI-7,EL)90-TH-232,,DA,,RTH
+#PROJ       3007
+#TARG       90232
+#MF         4
+#MT         2
+#PRODUCT    90-TH-232
+#C4BEGIN    [ 3007 90232   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 90232   4   2  C 3.0000+7          45.33311 0.489598 0.900850                              Shradha Dubey+       (14)D6234  2 
+ 3007 90232   4   2  C 3.0000+7          12.23149 0.187142 0.809120                              Shradha Dubey+       (14)D6234  2 
+ 3007 90232   4   2  C 3.0000+7          7.536692 0.095308 0.753449                              Shradha Dubey+       (14)D6234  2 
+ 3007 90232   4   2  C 3.0000+7          4.694553 0.074174 0.691891                              Shradha Dubey+       (14)D6234  2 
+ 3007 90232   4   2  C 3.0000+7          3.270021 0.080483 0.624970                              Shradha Dubey+       (14)D6234  2 
+ 3007 90232   4   2  C 3.0000+7          2.231430 0.046637 0.553101                              Shradha Dubey+       (14)D6234  2 
+ 3007 90232   4   2  C 3.0000+7          1.688483 0.051517 0.477159                              Shradha Dubey+       (14)D6234  2 
+ 3007 90232   4   2  C 3.0000+7          0.930409 0.035079 0.315318                              Shradha Dubey+       (14)D6234  2 
+ 3007 90232   4   2  C 3.0000+7          0.763592 0.017012 0.230559                              Shradha Dubey+       (14)D6234  2 
+ 3007 90232   4   2  C 3.0000+7          0.602205 0.024714 0.144356                              Shradha Dubey+       (14)D6234  2 
+ 3007 90232   4   2  C 3.0000+7          0.405812 0.014235-0.030190                              Shradha Dubey+       (14)D6234  2 
+ 3007 90232   4   2  C 3.0000+7          0.287937 0.011922-0.202787                              Shradha Dubey+       (14)D6234  2 
+ 3007 90232   4   2  C 3.0000+7          0.224251 8.7578-3-0.368449                              Shradha Dubey+       (14)D6234  2 
+ 3007 90232   4   2  C 3.0000+7          0.172092 8.3056-3-0.522499                              Shradha Dubey+       (14)D6234  2 
+ 3007 90232   4   2  C 3.0000+7          0.133044 6.3539-3-0.660264                              Shradha Dubey+       (14)D6234  2 
+#/DATA      15
+#/DATASET

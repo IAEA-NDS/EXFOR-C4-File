@@ -1,0 +1,40 @@
+#ENTRY      D0514
+#AUTHOR1    A.Bubak+
+#YEAR       2007
+#INSTITUTE  (2GERJUL)
+#TITLE      Non-equilibrium emission of complex fragments from
+#+          p + Au collisions at 2.5 GeV proton beam energy
+#AUTHOR(S)  A.Bubak, A.Budzanowski, D.Filges, F.Goldenbaum, A.Heczko, 
+#+          H.Hodde, L.Jarczyk, B.Kamys, M.Kistryn, St.Kistryn, St.Kliczewski, 
+#+          A.Kowalczyk, E.Kozik, P.Kulessa, H.Machner, A.Magiera, W.Migdal, 
+#+          N.Paul, B.Piskor-Ignatowicz, M.Puchala, K.Pysz, Z.Rudy, 
+#+          R.Siudak, M.Wojciechowski, P.Wustner
+#REF-CODE   (J,PR/C,76,014618,2007)
+#REFERENCE  Phys.Rev.C 76 (2007) 014618
+#DATASETS   0
+#
+#DATASET    D0514003 
+#DATE       20080904
+#REACTION   79-AU-197(P,X)1-H-2,,DA/DE
+#PROJ       1001
+#TARG       79197
+#MF         6
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001 79197   6 204 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 79197   6 204 A  2.5000+9          1.2060-9 6.400-11 0.819152          5500000.          E2A.Bubak+             (07)D0514  3 
+ 1001 79197   6 204 A  2.5000+9          3.2800-9 1.000-10 0.819152          8500000.          E2A.Bubak+             (07)D0514  3 
+ 1001 79197   6 204 A  2.5000+9          4.6100-9 1.100-10 0.819152          1.1500+7          E2A.Bubak+             (07)D0514  3 
+ 1001 79197   6 204 A  2.5000+9          4.9200-9 1.300-10 0.819152          1.4500+7          E2A.Bubak+             (07)D0514  3 
+ 1001 79197   6 204 A  2.5000+9          4.3600-9 1.200-10 0.819152          1.7500+7          E2A.Bubak+             (07)D0514  3 
+ 1001 79197   6 204 A  2.5000+9          3.4900-9 1.100-10 0.819152          2.0500+7          E2A.Bubak+             (07)D0514  3 
+ 1001 79197   6 204 A  2.5000+9          3.2300-9 1.000-10 0.819152          2.3500+7          E2A.Bubak+             (07)D0514  3 
+ 1001 79197   6 204 A  2.5000+9          2.5400-9 9.300-11 0.819152          2.6500+7          E2A.Bubak+             (07)D0514  3 
+ 1001 79197   6 204 A  2.5000+9          2.4080-9 9.000-11 0.819152          2.9500+7          E2A.Bubak+             (07)D0514  3 
+ 1001 79197   6 204 A  2.5000+9          2.0330-9 8.300-11 0.819152          3.2500+7          E2A.Bubak+             (07)D0514  3 
+ 1001 79197   6 204 A  2.5000+9          2.0500-9 8.300-11 0.819152          3.5500+7          E2A.Bubak+             (07)D0514  3 
+#/DATA      11
+#/DATASET

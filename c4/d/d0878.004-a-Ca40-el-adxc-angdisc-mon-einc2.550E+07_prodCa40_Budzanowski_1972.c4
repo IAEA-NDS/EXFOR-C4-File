@@ -1,0 +1,31 @@
+#ENTRY      D0878
+#AUTHOR1    A.Budzanowski+
+#YEAR       1972
+#INSTITUTE  (3POLIFJ)
+#TITLE      Energy variation of the elastic scattering of alpha
+#+          particles on Mg, Si, Ca and Co nuclei in the energy
+#+          range from 23.5 to 28.5 MeV
+#AUTHOR(S)  A.Budzanowski, K.Chyla, K.Grotowski, L.Jarczyk, A.Kapuscik, 
+#+          S.Micek, J.Ploskonka, A.Strzalkowski, J.Szmider, Z.Wrobel, 
+#+          R.Zybert
+#REF-CODE   (R,INP-740,1972)
+#REFERENCE  Report INP-740, 1972
+#DATASETS   0
+#
+#DATASET    D0878004 
+#DATE       20180208
+#REACTION   20-CA-40(A,EL)20-CA-40,,DA
+#PROJ       2004
+#TARG       20040
+#MF         4
+#MT         2
+#PRODUCT    20-CA-40
+#C4BEGIN    [ 2004 20040   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 20040   4   2 CC 2.5500+7 50000.00 2.0800-4 2.8000-5-0.980751                              A.Budzanowski+       (72)D0878  4 
+ 2004 20040   4   2 CC 2.5500+7 50000.00 6.9500-3 2.9000-4-0.999229                              A.Budzanowski+       (72)D0878  4 
+ 2004 20040   4   2 CC 2.5500+7 50000.00 7.8500-3 1.6000-4-0.999848                              A.Budzanowski+       (72)D0878  4 
+#/DATA      3
+#/DATASET

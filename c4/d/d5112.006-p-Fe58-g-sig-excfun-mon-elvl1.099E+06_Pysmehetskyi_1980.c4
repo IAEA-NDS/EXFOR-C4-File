@@ -1,0 +1,33 @@
+#ENTRY      D5112
+#AUTHOR1    S.A.Pysmehetskyi+
+#YEAR       1980
+#INSTITUTE  (4UKRKFT)
+#TITLE      Analysis of partial cross sections of 56,58-Fe(p,g)
+#AUTHOR(S)  S.A.Pysmehetskyi, I.I.Zalyubovskyi, B.A.Nemashkalo, V.E.Storizhko
+#REF-CODE   (C,80LENGRD,,302,1980)
+#REFERENCE  Proceedings of 30.Conf.Nucl.Spectr.and Nucl.Struct.,Leningrad 1980 page 302
+#DATASETS   0
+#
+#DATASET    D5112006 
+#DATE       20150223
+#REACTION   26-FE-58(P,G)27-CO-59,PAR,SIG
+#PROJ       1001
+#TARG       26058
+#MF         3
+#MT         900
+#PRODUCT    27-CO-59
+#C4BEGIN    [ 1001 26058   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26058   3 900    1910000.          8.5000-6                            1099000.         LVLS.A.Pysmehetskyi+    (80)D5112  6 
+ 1001 26058   3 900    2040000.          2.0200-5                            1099000.         LVLS.A.Pysmehetskyi+    (80)D5112  6 
+ 1001 26058   3 900    2180000.          1.6200-5                            1099000.         LVLS.A.Pysmehetskyi+    (80)D5112  6 
+ 1001 26058   3 900    2310000.          1.8900-5                            1099000.         LVLS.A.Pysmehetskyi+    (80)D5112  6 
+ 1001 26058   3 900    2420000.          2.8000-5                            1099000.         LVLS.A.Pysmehetskyi+    (80)D5112  6 
+ 1001 26058   3 900    2540000.          3.3800-5                            1099000.         LVLS.A.Pysmehetskyi+    (80)D5112  6 
+ 1001 26058   3 900    2640000.          2.8500-5                            1099000.         LVLS.A.Pysmehetskyi+    (80)D5112  6 
+ 1001 26058   3 900    2750000.          2.5300-5                            1099000.         LVLS.A.Pysmehetskyi+    (80)D5112  6 
+ 1001 26058   3 900    2860000.          2.5800-5                            1099000.         LVLS.A.Pysmehetskyi+    (80)D5112  6 
+#/DATA      9
+#/DATASET

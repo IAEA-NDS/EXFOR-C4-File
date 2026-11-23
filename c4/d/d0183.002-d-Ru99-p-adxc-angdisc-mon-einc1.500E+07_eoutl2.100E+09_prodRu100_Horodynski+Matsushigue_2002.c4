@@ -1,0 +1,32 @@
+#ENTRY      D0183
+#AUTHOR1    L.B.Horodynski-Matsushigue+
+#YEAR       2002
+#INSTITUTE  (3BZLIPE)
+#TITLE      Particle spectroscopy of low-lying
+#+          collective states in 100Ru
+#AUTHOR(S)  L.B.Horodynski-Matsushigue, C.L.Rodrigues, F.C.Sampaio, 
+#+          T.Borello-Lewin
+#REF-CODE   (J,NP/A,709,73,2002)
+#REFERENCE  Nucl.Phys.A 709 (2002) 73
+#DATASETS   0
+#
+#DATASET    D0183002 
+#DATE       20040929
+#REACTION   44-RU-99(D,P)44-RU-100,PAR,DA
+#PROJ       1002
+#TARG       44099
+#MF         4
+#MT         600
+#PRODUCT    44-RU-100
+#C4BEGIN    [ 1002 44099   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 44099   4 600 AC 1.5000+7 15000.00 9.3730-5 9.8150-6 0.990024          2.1000+9          E2L.B.Horodynski-Matsushigue+(02)D0183  2 
+ 1002 44099   4 600 AC 1.5000+7 15000.00 3.8200-5 3.8600-6 0.965062          2.1000+9          E2L.B.Horodynski-Matsushigue+(02)D0183  2 
+ 1002 44099   4 600 AC 1.5000+7 15000.00 7.3070-5 5.7860-6 0.949863          2.1000+9          E2L.B.Horodynski-Matsushigue+(02)D0183  2 
+ 1002 44099   4 600 AC 1.5000+7 15000.00 4.9980-5 6.0910-6 0.880146          2.1000+9          E2L.B.Horodynski-Matsushigue+(02)D0183  2 
+ 1002 44099   4 600 AC 1.5000+7 15000.00 1.8870-5 4.7350-6 0.815027          2.1000+9          E2L.B.Horodynski-Matsushigue+(02)D0183  2 
+ 1002 44099   4 600 AC 1.5000+7 15000.00 2.2430-5 2.3230-6 0.700785          2.1000+9          E2L.B.Horodynski-Matsushigue+(02)D0183  2 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      D0580
+#AUTHOR1    B.Piskor-Ignatowicz+
+#YEAR       2009
+#INSTITUTE  (3POLUJK)
+#TITLE      Charged-particle emission by 175 MeV proton on nickel
+#+          targets
+#AUTHOR(S)  B.Piskor-Ignatowicz, F.Goldenbaum
+#REF-CODE   (W,GOLDENBAUM,2009)
+#REFERENCE  Private communication  (2009)
+#DATASETS   0
+#
+#DATASET    D0580004 
+#DATE       20090621
+#REACTION   28-NI-58(P,X)1-H-3,,DA/DE
+#PROJ       1001
+#TARG       28058
+#MF         6
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1001 28058   6 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28058   6 205    1.7500+8          7.630-11 1.500-12 0.173648          7500000. 1500000. E2B.Piskor-Ignatowicz+ (09)D0580  4 
+ 1001 28058   6 205    1.7500+8          7.410-11 1.600-12 0.173648          1.0500+7 1500000. E2B.Piskor-Ignatowicz+ (09)D0580  4 
+#/DATA      2
+#/DATASET

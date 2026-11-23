@@ -1,0 +1,35 @@
+#ENTRY      D0630
+#AUTHOR1    P.N.de Faria+
+#YEAR       2010
+#INSTITUTE  (3BZLUSP)
+#TITLE      Elastic scattering and total reaction cross section
+#+          of 6He + 120Sn
+#AUTHOR(S)  P.N.de Faria, R.Lichtenthaler, K.C.C.Pires, A.M.Moro, A.Lepine-Szily, 
+#+          V.Guimaraes, D.R.Mendes Jr, A.Arazi, M.Rodriguez-Gallardo, 
+#+          A.Barioni, V.Morcelle, M.C.Morais, O.Camargo Jr, J.Alcantara Nunez, 
+#+          M.Assuncao
+#REF-CODE   (J,PR/C,81,044605,2010)
+#REFERENCE  Phys.Rev.C 81 (2010) 044605
+#DATASETS   0
+#
+#DATASET    D0630002 
+#DATE       20100901
+#REACTION   50-SN-120(2-HE-6,EL)50-SN-120,,DA,,RTH
+#PROJ       2006
+#TARG       50120
+#MF         4
+#MT         2
+#PRODUCT    50-SN-120
+#C4BEGIN    [ 2006 50120   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2006 50120   4   2  C 1.9800+7          18.68562 0.919661 0.914960                              P.N.de Faria+        (10)D0630  2 
+ 2006 50120   4   2  C 1.9800+7          9.511007 0.532867 0.872922                              P.N.de Faria+        (10)D0630  2 
+ 2006 50120   4   2  C 1.9800+7          1.700820 0.280413 0.710799                              P.N.de Faria+        (10)D0630  2 
+ 2006 50120   4   2  C 1.9800+7          0.896628 0.142415 0.642788                              P.N.de Faria+        (10)D0630  2 
+ 2006 50120   4   2  C 1.9800+7          0.404298 0.101261 0.557745                              P.N.de Faria+        (10)D0630  2 
+ 2006 50120   4   2  C 1.9800+7          0.237422 0.058175 0.478692                              P.N.de Faria+        (10)D0630  2 
+ 2006 50120   4   2  C 1.9800+7          0.035859 0.024826 0.180519                              P.N.de Faria+        (10)D0630  2 
+#/DATA      7
+#/DATASET

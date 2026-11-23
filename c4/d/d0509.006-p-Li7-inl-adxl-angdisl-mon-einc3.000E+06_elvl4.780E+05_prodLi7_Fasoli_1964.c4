@@ -1,0 +1,32 @@
+#ENTRY      D0509
+#AUTHOR1    U.Fasoli+
+#YEAR       1964
+#INSTITUTE  (2ITYPAD)
+#TITLE      Elastic and inelastic scattering of protons by 7Li
+#+          in the energy interval (3.0-5.5) MeV.
+#AUTHOR(S)  U.Fasoli, D.Toniolo, G.Zago
+#REF-CODE   (J,NC,34,(3),542,1964)
+#REFERENCE  Nuovo Cim. 34 No.3 (1964) 542
+#DATASETS   0
+#
+#DATASET    D0509006 
+#DATE       20080825
+#REACTION   3-LI-7(P,INL)3-LI-7,PAR,DA
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         601
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1001  3007   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4 601    3000000.          0.027950          0.321580          478000.0         LVLU.Fasoli+            (64)D0509  6 
+ 1001  3007   4 601    3000000.          0.030210          0.010106          478000.0         LVLU.Fasoli+            (64)D0509  6 
+ 1001  3007   4 601    3000000.          0.033603         -0.355330          478000.0         LVLU.Fasoli+            (64)D0509  6 
+ 1001  3007   4 601    3000000.          0.035866         -0.593230          478000.0         LVLU.Fasoli+            (64)D0509  6 
+ 1001  3007   4 601    3000000.          0.037222         -0.782080          478000.0         LVLU.Fasoli+            (64)D0509  6 
+ 1001  3007   4 601    3000000.          0.037900         -0.865460          478000.0         LVLU.Fasoli+            (64)D0509  6 
+ 1001  3007   4 601    3000000.          0.039713         -0.990550          478000.0         LVLU.Fasoli+            (64)D0509  6 
+#/DATA      7
+#/DATASET

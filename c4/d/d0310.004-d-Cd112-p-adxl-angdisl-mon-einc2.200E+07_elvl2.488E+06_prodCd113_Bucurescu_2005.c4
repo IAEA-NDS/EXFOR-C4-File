@@ -1,0 +1,32 @@
+#ENTRY      D0310
+#AUTHOR1    D.Bucurescu+
+#YEAR       2005
+#INSTITUTE  (3RUMBUC)
+#TITLE      Detailed spectroscopy of 113Cd through
+#+          transfer reactions
+#AUTHOR(S)  D.Bucurescu, Y.Eisermann, G.Graw, R.Hertenberger, H.-F.Wirth, 
+#+          Yu.V.Ponomarev
+#REF-CODE   (J,NP/A,756,54,2005)
+#REFERENCE  Nucl.Phys.A 756 (2005) 54
+#DATASETS   0
+#
+#DATASET    D0310004 
+#DATE       20050324
+#REACTION   48-CD-112(D,P)48-CD-113,PAR,DA
+#PROJ       1002
+#TARG       48112
+#MF         4
+#MT         600
+#PRODUCT    48-CD-113
+#C4BEGIN    [ 1002 48112   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 48112   4 600 A  2.2000+7 2500.000 1.9085-5 3.9363-6 0.939693          2487900. 2500.000LVLD.Bucurescu+         (05)D0310  4 
+ 1002 48112   4 600 A  2.2000+7 2500.000 1.6751-5 2.8764-6 0.920505          2487900. 2500.000LVLD.Bucurescu+         (05)D0310  4 
+ 1002 48112   4 600 A  2.2000+7 2500.000 1.6755-5 1.9826-6 0.898794          2487900. 2500.000LVLD.Bucurescu+         (05)D0310  4 
+ 1002 48112   4 600 A  2.2000+7 2500.000 8.2261-6 1.7933-6 0.766044          2487900. 2500.000LVLD.Bucurescu+         (05)D0310  4 
+ 1002 48112   4 600 A  2.2000+7 2500.000 2.5405-5 1.3200-6 0.707107          2487900. 2500.000LVLD.Bucurescu+         (05)D0310  4 
+ 1002 48112   4 600 A  2.2000+7 2500.000 4.2656-6 1.0784-6 0.573576          2487900. 2500.000LVLD.Bucurescu+         (05)D0310  4 
+#/DATA      6
+#/DATASET

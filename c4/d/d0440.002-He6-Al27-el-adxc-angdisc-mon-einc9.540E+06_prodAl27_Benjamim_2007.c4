@@ -1,0 +1,35 @@
+#ENTRY      D0440
+#AUTHOR1    E.A.Benjamim+
+#YEAR       2007
+#INSTITUTE  (3BZLUSP)
+#TITLE      Elastic scattering and total reaction cross section
+#+          for the 6He + 27Al system
+#AUTHOR(S)  E.A.Benjamim, A.Lepine-Szily, D.R.Mendes Jr, R.Lichtenthaler, 
+#+          V.Guimaraes, P.R.S.Gomes, L.C.Chamon, M.S.Hussein, A.M.Moro, 
+#+          A.Arazi, I.Padron, J.Alcantara Nunez, M.Assuncao, A.Barioni, 
+#+          O.Camargo Jr, R.Z.Denke, P.N.De Faria, K.C.C.Pires
+#REF-CODE   (J,PL/B,647,30,2007)
+#REFERENCE  Phys.Lett.B 647 (2007) 30
+#DATASETS   0
+#
+#DATASET    D0440002 
+#DATE       20070327
+#REACTION   13-AL-27(2-HE-6,EL)13-AL-27,,DA,,RTH
+#PROJ       2006
+#TARG       13027
+#MF         4
+#MT         2
+#PRODUCT    13-AL-27
+#C4BEGIN    [ 2006 13027   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2006 13027   4   2 AC 9540000.          10.86944 1.345740 0.925408 0.021166                     E.A.Benjamim+        (07)D0440  2 
+ 2006 13027   4   2 AC 9540000.          3.573882 0.516227 0.879566 0.026572                     E.A.Benjamim+        (07)D0440  2 
+ 2006 13027   4   2 AC 9540000.          1.588064 0.216554 0.821348 0.031859                     E.A.Benjamim+        (07)D0440  2 
+ 2006 13027   4   2 AC 9540000.          0.952729 0.174443 0.792822 0.034038                     E.A.Benjamim+        (07)D0440  2 
+ 2006 13027   4   2 AC 9540000.          0.580902 0.068921 0.758134 0.036420                     E.A.Benjamim+        (07)D0440  2 
+ 2006 13027   4   2 AC 9540000.          0.199516 0.046945 0.686707 0.040600                     E.A.Benjamim+        (07)D0440  2 
+ 2006 13027   4   2 AC 9540000.          0.222775 0.055694 0.647721 0.042551                     E.A.Benjamim+        (07)D0440  2 
+#/DATA      7
+#/DATASET

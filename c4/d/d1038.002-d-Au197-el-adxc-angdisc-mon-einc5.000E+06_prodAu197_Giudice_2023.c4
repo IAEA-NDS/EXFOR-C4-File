@@ -1,0 +1,35 @@
+#ENTRY      D1038
+#AUTHOR1    T.Giudice+
+#YEAR       2023
+#INSTITUTE  (3ARGCNE)
+#TITLE      Study of the threshold anomaly in the elastic
+#+          scattering of d+ 197 Au
+#AUTHOR(S)  T.Giudice, D.Abriola, A.Arazi, E.De Barbara, M A.Cardona, 
+#+          J.Gomez, D.Hojman, R M.Id Betan, M S.Kohen, N.Llaneza, G V.Marti, 
+#+          B.Paes, D.Schneider, H.Soler, J.Lubian
+#REF-CODE   (J,JP/G,50,045103,2023)
+#REFERENCE  J.Phys.G 50 (2023) 045103
+#DATASETS   0
+#
+#DATASET    D1038002 
+#DATE       20230222
+#REACTION   79-AU-197(D,EL)79-AU-197,,DA,,RTH
+#PROJ       1002
+#TARG       79197
+#MF         4
+#MT         2
+#PRODUCT    79-AU-197
+#C4BEGIN    [ 1002 79197   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 79197   4   2 AC 5000000.          68.08319 2.193949 0.863396                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 5000000.          10.06616 0.311428 0.637424                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 5000000.          5.177415 0.158911 0.492424                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 5000000.          2.966807 0.092248 0.333807                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 5000000.          1.264984 0.040097-0.010472                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 5000000.          0.712110 0.022457-0.350207                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 5000000.          0.474047 0.015072-0.648120                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 5000000.          0.416249 0.017695-0.770513                              T.Giudice+           (23)D1038  2 
+#/DATA      8
+#/DATASET

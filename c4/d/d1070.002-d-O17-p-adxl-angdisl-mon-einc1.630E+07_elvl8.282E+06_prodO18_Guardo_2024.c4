@@ -1,0 +1,48 @@
+#ENTRY      D1070
+#AUTHOR1    G.L.Guardo+
+#YEAR       2024
+#INSTITUTE  (2ITYLNS)
+#TITLE      Asymptotic normalization coefficient investigation of
+#+          the 17O(d,p) transfer for astrophysical application
+#+          to the 17O(n,alpha)14C reaction at low energies
+#AUTHOR(S)  G.L.Guardo, L.Lamia, J.P.Fernandez-Garcia, S.Piskor, M.La Cognata, 
+#+          G.DtextquoterightAgata, S.Palmerini, D.Vescovi, V.Burjan, 
+#+          R.J.Deboer, V.Kroha, D.Lattuada, J.Mrazek, A.A.Oliva, R.G.Pizzone, 
+#+          G.G.Rapisarda, S.Romano, M.L.Sergi, R.Sparta, A.Tumino
+#REF-CODE   (J,AJ,975,32,2024)
+#REFERENCE  Astrophys.J. 975 (2024) 32
+#DATASETS   0
+#
+#DATASET    D1070002 
+#DATE       20250422
+#REACTION   8-O-17(D,P)8-O-18,PAR,DA
+#PROJ       1002
+#TARG       8017
+#MF         4
+#MT         600
+#PRODUCT    8-O-18
+#C4BEGIN    [ 1002  8017   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  8017   4 600    1.6300+7          9.4100-4          0.992757          8282000.         LVLG.L.Guardo+          (24)D1070  2 
+ 1002  8017   4 600    1.6300+7          7.4700-4          0.990509          8282000.         LVLG.L.Guardo+          (24)D1070  2 
+ 1002  8017   4 600    1.6300+7          7.4700-4          0.986286          8282000.         LVLG.L.Guardo+          (24)D1070  2 
+ 1002  8017   4 600    1.6300+7          6.4800-4          0.980955          8282000.         LVLG.L.Guardo+          (24)D1070  2 
+ 1002  8017   4 600    1.6300+7          4.7700-4          0.972776          8282000.         LVLG.L.Guardo+          (24)D1070  2 
+ 1002  8017   4 600    1.6300+7          3.9600-4          0.948324          8282000.         LVLG.L.Guardo+          (24)D1070  2 
+ 1002  8017   4 600    1.6300+7          3.3900-4          0.946649          8282000.         LVLG.L.Guardo+          (24)D1070  2 
+ 1002  8017   4 600    1.6300+7          2.6400-4          0.928486          8282000.         LVLG.L.Guardo+          (24)D1070  2 
+ 1002  8017   4 600    1.6300+7          2.2100-4          0.903335          8282000.         LVLG.L.Guardo+          (24)D1070  2 
+ 1002  8017   4 600    1.6300+7          2.2900-4          0.895712          8282000.         LVLG.L.Guardo+          (24)D1070  2 
+ 1002  8017   4 600    1.6300+7          1.7400-4          0.887815          8282000.         LVLG.L.Guardo+          (24)D1070  2 
+ 1002  8017   4 600    1.6300+7          1.7600-4          0.871214          8282000.         LVLG.L.Guardo+          (24)D1070  2 
+ 1002  8017   4 600    1.6300+7          1.7600-4          0.844328          8282000.         LVLG.L.Guardo+          (24)D1070  2 
+ 1002  8017   4 600    1.6300+7          1.4100-4          0.806960          8282000.         LVLG.L.Guardo+          (24)D1070  2 
+ 1002  8017   4 600    1.6300+7          1.2100-4          0.764921          8282000.         LVLG.L.Guardo+          (24)D1070  2 
+ 1002  8017   4 600    1.6300+7          1.1700-4          0.728969          8282000.         LVLG.L.Guardo+          (24)D1070  2 
+ 1002  8017   4 600    1.6300+7          7.0100-5          0.684547          8282000.         LVLG.L.Guardo+          (24)D1070  2 
+ 1002  8017   4 600    1.6300+7          6.2200-5          0.538771          8282000.         LVLG.L.Guardo+          (24)D1070  2 
+ 1002  8017   4 600    1.6300+7          3.3000-5          0.379456          8282000.         LVLG.L.Guardo+          (24)D1070  2 
+#/DATA      19
+#/DATASET

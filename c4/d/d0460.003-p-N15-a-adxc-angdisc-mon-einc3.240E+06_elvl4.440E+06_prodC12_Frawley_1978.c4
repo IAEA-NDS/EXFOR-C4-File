@@ -1,0 +1,35 @@
+#ENTRY      D0460
+#AUTHOR1    A.D.Frawley+
+#YEAR       1978
+#INSTITUTE  (3AULCBR)
+#TITLE      Energy Levels of 16O Near 15 MeV Excitation from
+#+          15N + p Reactions
+#AUTHOR(S)  A.D.Frawley, K.H.Bray, T.R.Ophel
+#REF-CODE   (J,NP/A,294,161,1978)
+#REFERENCE  Nucl.Phys.A 294 (1978) 161
+#DATASETS   0
+#
+#DATASET    D0460003 
+#DATE       20080410
+#REACTION   7-N-15(P,A)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       7015
+#MF         4
+#MT         800
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  7015   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7015   4 800  C 3240000.          8.2143-3          0.926601          4440000.         LVLA.D.Frawley+         (78)D0460  3 
+ 1001  7015   4 800  C 3240000.          0.012923          0.767344          4440000.         LVLA.D.Frawley+         (78)D0460  3 
+ 1001  7015   4 800  C 3240000.          0.014181          0.557252          4440000.         LVLA.D.Frawley+         (78)D0460  3 
+ 1001  7015   4 800  C 3240000.          0.013184          0.308071          4440000.         LVLA.D.Frawley+         (78)D0460  3 
+ 1001  7015   4 800  C 3240000.          0.011976          0.040550          4440000.         LVLA.D.Frawley+         (78)D0460  3 
+ 1001  7015   4 800  C 3240000.          0.012177         -0.230220          4440000.         LVLA.D.Frawley+         (78)D0460  3 
+ 1001  7015   4 800  C 3240000.          0.013576         -0.470396          4440000.         LVLA.D.Frawley+         (78)D0460  3 
+ 1001  7015   4 800  C 3240000.          0.012933         -0.667573          4440000.         LVLA.D.Frawley+         (78)D0460  3 
+ 1001  7015   4 800  C 3240000.          0.010177         -0.822938          4440000.         LVLA.D.Frawley+         (78)D0460  3 
+ 1001  7015   4 800  C 3240000.          5.2328-3         -0.958123          4440000.         LVLA.D.Frawley+         (78)D0460  3 
+#/DATA      10
+#/DATASET

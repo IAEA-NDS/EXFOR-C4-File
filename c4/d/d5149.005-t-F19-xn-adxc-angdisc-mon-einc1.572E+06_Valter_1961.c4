@@ -1,0 +1,36 @@
+#ENTRY      D5149
+#AUTHOR1    A.K.Val'ter+
+#YEAR       1961
+#INSTITUTE  (4UKRKFT)
+#TITLE      Neutron yield of the reaction between tritons and
+#+          fluorine and aluminum nuclei
+#AUTHOR(S)  A.K.Val'ter, P.I.Vatset, L.Ya.Kolesnikov, S.G.Tonapetyan, 
+#+          K.K.Chernyavskii, A.I.Shpetnyi
+#REF-CODE   (J,JET,13,871,1961)
+#REFERENCE  J.Exp.Theor.Phys. 13 (1961) 871
+#DATASETS   0
+#
+#DATASET    D5149005 
+#DATE       20190117
+#REACTION   9-F-19(T,X)0-NN-1,,DA
+#PROJ       1003
+#TARG       9019
+#MF         4
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1003  9019   4 201 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  9019   4 201 CC 1572000.          0.019487          0.999961                              A.K.Val'ter+         (61)D5149  5 
+ 1003  9019   4 201 CC 1572000.          0.019676 7.6240-4 0.962769                              A.K.Val'ter+         (61)D5149  5 
+ 1003  9019   4 201 CC 1572000.          0.019305          0.852898                              A.K.Val'ter+         (61)D5149  5 
+ 1003  9019   4 201 CC 1572000.          0.018249 8.8940-4 0.686802                              A.K.Val'ter+         (61)D5149  5 
+ 1003  9019   4 201 CC 1572000.          0.016405          0.475144                              A.K.Val'ter+         (61)D5149  5 
+ 1003  9019   4 201 CC 1572000.          0.014560          0.218375                              A.K.Val'ter+         (61)D5149  5 
+ 1003  9019   4 201 CC 1572000.          0.013606 8.1300-4-0.039971                              A.K.Val'ter+         (61)D5149  5 
+ 1003  9019   4 201 CC 1572000.          0.014075         -0.300301                              A.K.Val'ter+         (61)D5149  5 
+ 1003  9019   4 201 CC 1572000.          0.015688 8.3860-4-0.532711                              A.K.Val'ter+         (61)D5149  5 
+ 1003  9019   4 201 CC 1572000.          0.017326 8.6390-4-0.725726                              A.K.Val'ter+         (61)D5149  5 
+#/DATA      10
+#/DATASET

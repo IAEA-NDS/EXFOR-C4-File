@@ -1,0 +1,36 @@
+#ENTRY      D0310
+#AUTHOR1    D.Bucurescu+
+#YEAR       2005
+#INSTITUTE  (3RUMBUC)
+#TITLE      Detailed spectroscopy of 113Cd through
+#+          transfer reactions
+#AUTHOR(S)  D.Bucurescu, Y.Eisermann, G.Graw, R.Hertenberger, H.-F.Wirth, 
+#+          Yu.V.Ponomarev
+#REF-CODE   (J,NP/A,756,54,2005)
+#REFERENCE  Nucl.Phys.A 756 (2005) 54
+#DATASETS   0
+#
+#DATASET    D0310002 
+#DATE       20050324
+#REACTION   48-CD-114(D,T)48-CD-113,PAR,DA
+#PROJ       1002
+#TARG       48114
+#MF         4
+#MT         700
+#PRODUCT    48-CD-113
+#C4BEGIN    [ 1002 48114   4 700 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 48114   4 700 A  2.5000+7 2500.000 8.1417-6 5.3825-7 0.981627          1473400. 1400.000LVLD.Bucurescu+         (05)D0310  2 
+ 1002 48114   4 700 A  2.5000+7 2500.000 1.0470-5 5.3498-7 0.970296          1473400. 1400.000LVLD.Bucurescu+         (05)D0310  2 
+ 1002 48114   4 700 A  2.5000+7 2500.000 5.0052-6 4.1449-7 0.956305          1473400. 1400.000LVLD.Bucurescu+         (05)D0310  2 
+ 1002 48114   4 700 A  2.5000+7 2500.000 5.0619-6 4.0784-7 0.939693          1473400. 1400.000LVLD.Bucurescu+         (05)D0310  2 
+ 1002 48114   4 700 A  2.5000+7 2500.000 6.7245-6 3.7564-7 0.920505          1473400. 1400.000LVLD.Bucurescu+         (05)D0310  2 
+ 1002 48114   4 700 A  2.5000+7 2500.000 4.3781-6 4.1669-7 0.898794          1473400. 1400.000LVLD.Bucurescu+         (05)D0310  2 
+ 1002 48114   4 700 A  2.5000+7 2500.000 3.0171-6 4.0027-7 0.866025          1473400. 1400.000LVLD.Bucurescu+         (05)D0310  2 
+ 1002 48114   4 700 A  2.5000+7 2500.000 3.4200-6 2.5026-7 0.819152          1473400. 1400.000LVLD.Bucurescu+         (05)D0310  2 
+ 1002 48114   4 700 A  2.5000+7 2500.000 2.6286-6 1.8945-7 0.766044          1473400. 1400.000LVLD.Bucurescu+         (05)D0310  2 
+ 1002 48114   4 700 A  2.5000+7 2500.000 2.0777-6 1.7583-7 0.707107          1473400. 1400.000LVLD.Bucurescu+         (05)D0310  2 
+#/DATA      10
+#/DATASET

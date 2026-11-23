@@ -1,0 +1,37 @@
+#ENTRY      D5112
+#AUTHOR1    S.A.Pysmehetskyi+
+#YEAR       1980
+#INSTITUTE  (4UKRKFT)
+#TITLE      Analysis of partial cross sections of 56,58-Fe(p,g)
+#AUTHOR(S)  S.A.Pysmehetskyi, I.I.Zalyubovskyi, B.A.Nemashkalo, V.E.Storizhko
+#REF-CODE   (C,80LENGRD,,302,1980)
+#REFERENCE  Proceedings of 30.Conf.Nucl.Spectr.and Nucl.Struct.,Leningrad 1980 page 302
+#DATASETS   0
+#
+#DATASET    D5112007 
+#DATE       20150223
+#REACTION   26-FE-56(P,G)27-CO-57,PAR,SIG
+#PROJ       1001
+#TARG       26056
+#MF         3
+#MT         900
+#PRODUCT    27-CO-57
+#C4BEGIN    [ 1001 26056   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26056   3 900    1524000.          1.5860-6 3.3900-7                   0.000000         LVLS.A.Pysmehetskyi+    (80)D5112  7 
+ 1001 26056   3 900    1724000.          7.4170-6 1.4620-6                   0.000000         LVLS.A.Pysmehetskyi+    (80)D5112  7 
+ 1001 26056   3 900    2050000.          1.4640-5 3.1260-6                   0.000000         LVLS.A.Pysmehetskyi+    (80)D5112  7 
+ 1001 26056   3 900    2133000.          1.4660-5 2.9550-6                   0.000000         LVLS.A.Pysmehetskyi+    (80)D5112  7 
+ 1001 26056   3 900    2237000.          1.6360-5 2.9760-6                   0.000000         LVLS.A.Pysmehetskyi+    (80)D5112  7 
+ 1001 26056   3 900    2243000.          1.4200-5 2.6790-6                   0.000000         LVLS.A.Pysmehetskyi+    (80)D5112  7 
+ 1001 26056   3 900    2327000.          1.2160-5 2.2940-6                   0.000000         LVLS.A.Pysmehetskyi+    (80)D5112  7 
+ 1001 26056   3 900    2432000.          8.7960-6 1.5090-6                   0.000000         LVLS.A.Pysmehetskyi+    (80)D5112  7 
+ 1001 26056   3 900    2529000.          1.2620-5 2.5340-6                   0.000000         LVLS.A.Pysmehetskyi+    (80)D5112  7 
+ 1001 26056   3 900    2613000.          1.3250-5 2.9930-6                   0.000000         LVLS.A.Pysmehetskyi+    (80)D5112  7 
+ 1001 26056   3 900    2822000.          2.1780-5 4.7350-6                   0.000000         LVLS.A.Pysmehetskyi+    (80)D5112  7 
+ 1001 26056   3 900    2921000.          1.7860-5 3.9250-6                   0.000000         LVLS.A.Pysmehetskyi+    (80)D5112  7 
+ 1001 26056   3 900    2931000.          1.0100-5 2.1610-6                   0.000000         LVLS.A.Pysmehetskyi+    (80)D5112  7 
+#/DATA      13
+#/DATASET

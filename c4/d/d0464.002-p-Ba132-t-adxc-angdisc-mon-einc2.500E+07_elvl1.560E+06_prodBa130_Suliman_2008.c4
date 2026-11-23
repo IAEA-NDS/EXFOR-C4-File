@@ -1,0 +1,33 @@
+#ENTRY      D0464
+#AUTHOR1    G.Suliman+
+#YEAR       2008
+#INSTITUTE  (3RUMBUC)
+#TITLE      Study of the 130Ba nucleus with the (p,t) reaction
+#AUTHOR(S)  G.Suliman, D.Bucurescu, R.Hertenberger, H.-F.Wirth, T.Faestermann, 
+#+          R.Krucken, T.Behrens, V.Bildstein, K.Eppinger, C.Hinke, 
+#+          M.Mahgoub, P.Meierbeck, M.Reithner, S.Schwertel, N.Chauvin
+#REF-CODE   (J,EPJ/A,36,243,2008)
+#REFERENCE  Eur.Phys.J.A 36 (2008) 243
+#DATASETS   0
+#
+#DATASET    D0464002 
+#DATE       20080527
+#REACTION   56-BA-132(P,T)56-BA-130,PAR,DA
+#PROJ       1001
+#TARG       56132
+#MF         4
+#MT         700
+#PRODUCT    56-BA-130
+#C4BEGIN    [ 1001 56132   4 700 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 56132   4 700 AC 2.5000+7 4000.000 3.9632-7 3.6329-7 0.996041          1560000.         LVLG.Suliman+           (08)D0464  2 
+ 1001 56132   4 700 AC 2.5000+7 4000.000 6.0438-7 2.0146-7 0.984196          1560000.         LVLG.Suliman+           (08)D0464  2 
+ 1001 56132   4 700 AC 2.5000+7 4000.000 4.8693-7 1.3912-7 0.965016          1560000.         LVLG.Suliman+           (08)D0464  2 
+ 1001 56132   4 700 AC 2.5000+7 4000.000 4.6345-7 1.3732-7 0.937889          1560000.         LVLG.Suliman+           (08)D0464  2 
+ 1001 56132   4 700 AC 2.5000+7 4000.000 7.0187-7 1.4357-7 0.903335          1560000.         LVLG.Suliman+           (08)D0464  2 
+ 1001 56132   4 700 AC 2.5000+7 4000.000 8.5799-7 1.4850-7 0.861629          1560000.         LVLG.Suliman+           (08)D0464  2 
+ 1001 56132   4 700 AC 2.5000+7 4000.000 4.4253-7 1.0481-7 0.813101          1560000.         LVLG.Suliman+           (08)D0464  2 
+#/DATA      7
+#/DATASET

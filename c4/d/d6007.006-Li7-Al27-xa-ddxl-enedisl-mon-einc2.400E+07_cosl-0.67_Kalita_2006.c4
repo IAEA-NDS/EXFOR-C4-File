@@ -1,0 +1,44 @@
+#ENTRY      D6007
+#AUTHOR1    K.Kalita+
+#YEAR       2006
+#INSTITUTE  (3INDNSD)
+#TITLE      Elastic scattering and fusion cross sections for
+#+          7Be,7Li+27Al systems.
+#AUTHOR(S)  K.Kalita, S.Verma, R.Singh, J.J.Das, A.Jhingan, N.Madhavan, 
+#+          S.Nath, T.Varughese, P.Sugathan, V.V.Parkar, K.Mahata, K.Ramachandran, 
+#+          A.Shrivastava, A.Chatterjee, S.Kailas, S.Barua, P.Basu, 
+#+          H.Majumdar, M.Sinha, R.Bhattacharya, A.K.Sinha
+#REF-CODE   (J,PR/C,73,(2),024609,2006)
+#REFERENCE  Phys.Rev.C 73 No.2 (2006) 024609
+#DATASETS   0
+#
+#DATASET    D6007006 
+#DATE       20091104
+#REACTION   13-AL-27(3-LI-7,X)2-HE-4,,DA/DE
+#PROJ       3007
+#TARG       13027
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 3007 13027   6 207 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 13027   6 207 A  2.4000+7          3.1970-9 3.290-10-0.669131          5500000.          E2K.Kalita+            (06)D6007  6 
+ 3007 13027   6 207 A  2.4000+7          3.1420-9 3.240-10-0.669131          6500000.          E2K.Kalita+            (06)D6007  6 
+ 3007 13027   6 207 A  2.4000+7          2.4670-9 2.650-10-0.669131          7500000.          E2K.Kalita+            (06)D6007  6 
+ 3007 13027   6 207 A  2.4000+7          1.9200-9 2.160-10-0.669131          8500000.          E2K.Kalita+            (06)D6007  6 
+ 3007 13027   6 207 A  2.4000+7          1.4110-9 1.610-10-0.669131          9500000.          E2K.Kalita+            (06)D6007  6 
+ 3007 13027   6 207 A  2.4000+7          1.1460-9 1.430-10-0.669131          1.0500+7          E2K.Kalita+            (06)D6007  6 
+ 3007 13027   6 207 A  2.4000+7          8.530-10 1.140-10-0.669131          1.1500+7          E2K.Kalita+            (06)D6007  6 
+ 3007 13027   6 207 A  2.4000+7          5.780-10 8.500-11-0.669131          1.2500+7          E2K.Kalita+            (06)D6007  6 
+ 3007 13027   6 207 A  2.4000+7          3.790-10 6.300-11-0.669131          1.3500+7          E2K.Kalita+            (06)D6007  6 
+ 3007 13027   6 207 A  2.4000+7          2.240-10 4.300-11-0.669131          1.4500+7          E2K.Kalita+            (06)D6007  6 
+ 3007 13027   6 207 A  2.4000+7          1.100-10 2.700-11-0.669131          1.5500+7          E2K.Kalita+            (06)D6007  6 
+ 3007 13027   6 207 A  2.4000+7          7.200-11 2.100-11-0.669131          1.6500+7          E2K.Kalita+            (06)D6007  6 
+ 3007 13027   6 207 A  2.4000+7          3.100-11 1.300-11-0.669131          1.7500+7          E2K.Kalita+            (06)D6007  6 
+ 3007 13027   6 207 A  2.4000+7          1.700-11 9.000-12-0.669131          1.8500+7          E2K.Kalita+            (06)D6007  6 
+ 3007 13027   6 207 A  2.4000+7          7.000-12 5.000-12-0.669131          1.9500+7          E2K.Kalita+            (06)D6007  6 
+ 3007 13027   6 207 A  2.4000+7          3.000-12 2.000-12-0.669131          2.0500+7          E2K.Kalita+            (06)D6007  6 
+#/DATA      16
+#/DATASET

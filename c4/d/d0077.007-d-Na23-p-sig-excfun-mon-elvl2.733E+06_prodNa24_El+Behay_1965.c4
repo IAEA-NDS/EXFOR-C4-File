@@ -1,0 +1,34 @@
+#ENTRY      D0077
+#AUTHOR1    A.Z.El-Behay+
+#YEAR       1965
+#INSTITUTE  (3EGYCAI)
+#TITLE      The (d,p) reaction on 23Na in the deuteron energy
+#+          range from 1.0 to 2.5 MeV
+#AUTHOR(S)  A.Z.El-Behay, M.A.Farouk, M.L.Jhingan, M.H.Nassef, I.I.Zaloubovsky
+#REF-CODE   (J,NP,74,225,1965)
+#REFERENCE  Nucl.Phys. 74 (1965) 225
+#DATASETS   0
+#
+#DATASET    D0077007 
+#DATE       20040211
+#REACTION   11-NA-23(D,P)11-NA-24,PAR,SIG
+#PROJ       1002
+#TARG       11023
+#MF         3
+#MT         600
+#PRODUCT    11-NA-24
+#C4BEGIN    [ 1002 11023   3 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 11023   3 600    1503000.          0.046089                            2733100. 170300.0LVLA.Z.El-Behay+        (65)D0077  7 
+ 1002 11023   3 600    1604300.          0.054721                            2733100. 170300.0LVLA.Z.El-Behay+        (65)D0077  7 
+ 1002 11023   3 600    1705200.          0.068050                            2733100. 170300.0LVLA.Z.El-Behay+        (65)D0077  7 
+ 1002 11023   3 600    1800500.          0.071970                            2733100. 170300.0LVLA.Z.El-Behay+        (65)D0077  7 
+ 1002 11023   3 600    1901500.          0.083956                            2733100. 170300.0LVLA.Z.El-Behay+        (65)D0077  7 
+ 1002 11023   3 600    2200000.          0.099437                            2733100. 170300.0LVLA.Z.El-Behay+        (65)D0077  7 
+ 1002 11023   3 600    2302100.          0.099682                            2733100. 170300.0LVLA.Z.El-Behay+        (65)D0077  7 
+ 1002 11023   3 600    2401200.          0.108640                            2733100. 170300.0LVLA.Z.El-Behay+        (65)D0077  7 
+ 1002 11023   3 600    2498000.          0.119610                            2733100. 170300.0LVLA.Z.El-Behay+        (65)D0077  7 
+#/DATA      9
+#/DATASET

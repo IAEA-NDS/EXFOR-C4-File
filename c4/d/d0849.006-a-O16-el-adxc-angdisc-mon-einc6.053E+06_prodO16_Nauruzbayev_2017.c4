@@ -1,0 +1,27 @@
+#ENTRY      D0849
+#AUTHOR1    D.K.Nauruzbayev+
+#YEAR       2017
+#INSTITUTE  (4KASNZR)
+#TITLE      Structure of 20Ne states in resonance 16O+alpha
+#+          elastic scattering
+#AUTHOR(S)  D.K.Nauruzbayev, V.Z.Goldberg, A.K.Nurmukhanbetova, M.S.Golovkov, 
+#+          A.Volya, G.V.Rogachev, R.E.Tribble
+#REF-CODE   (J,PR/C,96,014322,2017)
+#REFERENCE  Phys.Rev.C 96 (2017) 014322
+#DATASETS   0
+#
+#DATASET    D0849006 
+#DATE       20180131
+#REACTION   (2-HE-4(8-O-16,EL)2-HE-4,,DA)=(8-O-16(A,EL)8-O-16,,DA)
+#PROJ       2004
+#TARG       8016
+#MF         4
+#MT         2
+#PRODUCT    8-O-16
+#C4BEGIN    [ 2004  8016   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  8016   4   2 CC 6053134.          0.105485 0.016679-0.957052                              D.K.Nauruzbayev+     (17)D0849  6 
+#/DATA      1
+#/DATASET

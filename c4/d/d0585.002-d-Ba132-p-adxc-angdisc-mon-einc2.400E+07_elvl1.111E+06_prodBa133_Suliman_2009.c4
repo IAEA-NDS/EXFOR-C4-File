@@ -1,0 +1,35 @@
+#ENTRY      D0585
+#AUTHOR1    G.Suliman+
+#YEAR       2009
+#INSTITUTE  (3RUMBUC)
+#TITLE      Study of the 133Ba nucleus with the (d,p) reaction
+#AUTHOR(S)  G.Suliman, D.Bucurescu, C.Rusu, R.Hertenberger, H.-F.Wirth, 
+#+          T.Faestermann, R.Krucken, K.Wimmer, T.Behrens, V.Bildstein, 
+#+          K.Eppinger, C.Hinke, M.Mahgoub, P.Meierbeck, M.Reithner, 
+#+          S.Schwertel, N.Chauvin
+#REF-CODE   (J,EPJ/A,41,299,2009)
+#REFERENCE  Eur.Phys.J.A 41 (2009) 299
+#DATASETS   0
+#
+#DATASET    D0585002 
+#DATE       20091007
+#REACTION   56-BA-132(D,P)56-BA-133,PAR,DA
+#PROJ       1002
+#TARG       56132
+#MF         4
+#MT         600
+#PRODUCT    56-BA-133
+#C4BEGIN    [ 1002 56132   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 56132   4 600  C 2.4000+7          3.2899-6 8.8222-7 0.994338          1111200.         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          5.6679-6 1.2406-6 0.984503          1111200.         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          4.9072-6 1.0372-6 0.973976          1111200.         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          5.2605-6 8.9097-7 0.960294          1111200.         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          5.0478-6 8.1988-7 0.938493          1111200.         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          3.1949-6 1.2267-6 0.922538          1111200.         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          3.1054-6 5.8854-7 0.904827          1111200.         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          1.0001-6 3.4084-6 0.816138          1111200.         LVLG.Suliman+           (09)D0585  2 
+#/DATA      8
+#/DATASET

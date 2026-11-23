@@ -1,0 +1,40 @@
+#ENTRY      D0890
+#AUTHOR1    H.Hulubei+
+#YEAR       1964
+#INSTITUTE  (3RUMBUC)
+#TITLE      Scattering of protons with energies below 5 MeV on
+#+          Ne-20
+#AUTHOR(S)  H.Hulubei, J.Francz, N.Martalogu, N.Scintei, M.Ivascu, A.Berinde, 
+#+          I.Neamu
+#REF-CODE   (J,JET,18,1248,1964)
+#REFERENCE  J.Exp.Theor.Phys. 18 (1964) 1248
+#DATASETS   0
+#
+#DATASET    D0890003 
+#DATE       20180220
+#REACTION   10-NE-20(P,INL)10-NE-20,PAR,DA
+#PROJ       1001
+#TARG       10020
+#MF         4
+#MT         601
+#PRODUCT    10-NE-20
+#C4BEGIN    [ 1001 10020   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 10020   4 601  C 3650000.          0.014036          0.828158          1630000.         LVLH.Hulubei+           (64)D0890  3 
+ 1001 10020   4 601  C 3650000.          0.011929          0.691135          1630000.         LVLH.Hulubei+           (64)D0890  3 
+ 1001 10020   4 601  C 3650000.          0.011494 5.5700-4 0.608207          1630000.         LVLH.Hulubei+           (64)D0890  3 
+ 1001 10020   4 601  C 3650000.          0.010440          0.460974          1630000.         LVLH.Hulubei+           (64)D0890  3 
+ 1001 10020   4 601  C 3650000.          0.010563          0.289032          1630000.         LVLH.Hulubei+           (64)D0890  3 
+ 1001 10020   4 601  C 3650000.          8.2710-3          0.118577          1630000.         LVLH.Hulubei+           (64)D0890  3 
+ 1001 10020   4 601  C 3650000.          8.0530-3 4.0200-4-0.050593          1630000.         LVLH.Hulubei+           (64)D0890  3 
+ 1001 10020   4 601  C 3650000.          7.1530-3         -0.239381          1630000.         LVLH.Hulubei+           (64)D0890  3 
+ 1001 10020   4 601  C 3650000.          5.6970-3 4.9500-4-0.399389          1630000.         LVLH.Hulubei+           (64)D0890  3 
+ 1001 10020   4 601  C 3650000.          5.2000-3         -0.557310          1630000.         LVLH.Hulubei+           (64)D0890  3 
+ 1001 10020   4 601  C 3650000.          4.7340-3         -0.701034          1630000.         LVLH.Hulubei+           (64)D0890  3 
+ 1001 10020   4 601  C 3650000.          4.0520-3         -0.804687          1630000.         LVLH.Hulubei+           (64)D0890  3 
+ 1001 10020   4 601  C 3650000.          3.5860-3         -0.893293          1630000.         LVLH.Hulubei+           (64)D0890  3 
+ 1001 10020   4 601  C 3650000.          2.5320-3         -0.960876          1630000.         LVLH.Hulubei+           (64)D0890  3 
+#/DATA      14
+#/DATASET

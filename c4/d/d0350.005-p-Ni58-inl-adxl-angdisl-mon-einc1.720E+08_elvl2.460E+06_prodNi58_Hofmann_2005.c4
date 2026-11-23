@@ -1,0 +1,46 @@
+#ENTRY      D0350
+#AUTHOR1    F.Hofmann+
+#YEAR       2005
+#INSTITUTE  (2GERTHD)
+#TITLE      Polarized proton scattering on 58Ni at small momentum
+#+          transfer: A test of the microscopic optical model
+#+          and effective interactions
+#AUTHOR(S)  F.Hofmann, C.Baeumer, A.M.van den Berg, D.Frekers, V.M.Hannen, 
+#+          M.N.Harakeh, M.A.de Huu, Y.Kalmykov, P.von Neumann-Cosel, 
+#+          V.Yu.Ponomarev, S.Rakers, B.Reitz, A.Richter, A.Shevchenko, 
+#+          K.Schweda, J.Wambach, H.J.Woertche
+#REF-CODE   (J,PL/B,612,165,2005)
+#REFERENCE  Phys.Lett.B 612 (2005) 165
+#DATASETS   0
+#
+#DATASET    D0350005 
+#DATE       20050517
+#REACTION   28-NI-58(P,INL)28-NI-58,PAR,DA
+#PROJ       1001
+#TARG       28058
+#MF         4
+#MT         601
+#PRODUCT    28-NI-58
+#C4BEGIN    [ 1001 28058   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28058   4 601 A  1.7200+8 40000.00 5.1000-5 6.0000-6 0.987469          2460000.         LVLF.Hofmann+           (05)D0350  5 
+ 1001 28058   4 601 A  1.7200+8 40000.00 6.9000-5 5.0000-6 0.986025          2460000.         LVLF.Hofmann+           (05)D0350  5 
+ 1001 28058   4 601 A  1.7200+8 40000.00 9.0000-5 7.0000-6 0.984503          2460000.         LVLF.Hofmann+           (05)D0350  5 
+ 1001 28058   4 601 A  1.7200+8 40000.00 9.8000-5 4.0000-6 0.982903          2460000.         LVLF.Hofmann+           (05)D0350  5 
+ 1001 28058   4 601 A  1.7200+8 40000.00 1.2700-4 4.0000-6 0.981225          2460000.         LVLF.Hofmann+           (05)D0350  5 
+ 1001 28058   4 601 A  1.7200+8 40000.00 1.7300-4 2.0000-5 0.979470          2460000.         LVLF.Hofmann+           (05)D0350  5 
+ 1001 28058   4 601 A  1.7200+8 40000.00 4.4000-4 1.1000-5 0.964095          2460000.         LVLF.Hofmann+           (05)D0350  5 
+ 1001 28058   4 601 A  1.7200+8 40000.00 4.5900-4 1.1000-5 0.961693          2460000.         LVLF.Hofmann+           (05)D0350  5 
+ 1001 28058   4 601 A  1.7200+8 40000.00 4.8900-4 1.1000-5 0.959215          2460000.         LVLF.Hofmann+           (05)D0350  5 
+ 1001 28058   4 601 A  1.7200+8 40000.00 5.2900-4 1.2000-5 0.956661          2460000.         LVLF.Hofmann+           (05)D0350  5 
+ 1001 28058   4 601 A  1.7200+8 40000.00 5.7000-4 1.4000-5 0.954031          2460000.         LVLF.Hofmann+           (05)D0350  5 
+ 1001 28058   4 601 A  1.7200+8 40000.00 6.4000-4 1.0000-5 0.950732          2460000.         LVLF.Hofmann+           (05)D0350  5 
+ 1001 28058   4 601 A  1.7200+8 40000.00 6.0500-4 1.1000-5 0.947935          2460000.         LVLF.Hofmann+           (05)D0350  5 
+ 1001 28058   4 601 A  1.7200+8 40000.00 5.9000-4 1.1000-5 0.945063          2460000.         LVLF.Hofmann+           (05)D0350  5 
+ 1001 28058   4 601 A  1.7200+8 40000.00 5.7200-4 1.1000-5 0.942116          2460000.         LVLF.Hofmann+           (05)D0350  5 
+ 1001 28058   4 601 A  1.7200+8 40000.00 5.3000-4 1.1000-5 0.939094          2460000.         LVLF.Hofmann+           (05)D0350  5 
+ 1001 28058   4 601 A  1.7200+8 40000.00 5.9600-4 1.1000-5 0.935998          2460000.         LVLF.Hofmann+           (05)D0350  5 
+#/DATA      17
+#/DATASET

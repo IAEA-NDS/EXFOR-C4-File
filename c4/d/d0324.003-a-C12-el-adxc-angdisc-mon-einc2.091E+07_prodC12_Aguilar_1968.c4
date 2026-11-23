@@ -1,0 +1,32 @@
+#ENTRY      D0324
+#AUTHOR1    J.Aguilar+
+#YEAR       1968
+#INSTITUTE  (2SPNJNE)
+#TITLE      Angular distributions of the 12C(a,a)12C reaction
+#+          excitation function at the 20-24 energy range
+#AUTHOR(S)  J.Aguilar, C.Fernandez Pineda, J.L.Ferrero, A.Garcia, J.M.Chaveli, 
+#+          F.Senent, J.B.A.England
+#REF-CODE   (J,ARS,64,273,1968)
+#REFERENCE  An.Fis. 64 (1968) 273
+#DATASETS   0
+#
+#DATASET    D0324003 
+#DATE       20050407
+#REACTION   6-C-12(A,EL)6-C-12,,DA
+#PROJ       2004
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 2004  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  6012   4   2  C 2.0910+7 180000.0 0.010116 1.7601-3-0.889895                              J.Aguilar+           (68)D0324  3 
+ 2004  6012   4   2  C 2.0910+7 180000.0 0.017667 2.2930-3-0.937949                              J.Aguilar+           (68)D0324  3 
+ 2004  6012   4   2  C 2.0910+7 180000.0 0.018791 2.1523-3-0.959412                              J.Aguilar+           (68)D0324  3 
+ 2004  6012   4   2  C 2.0910+7 180000.0 0.020510 2.9695-3-0.972735                              J.Aguilar+           (68)D0324  3 
+ 2004  6012   4   2  C 2.0910+7 180000.0 0.048921 4.8427-3-0.979680                              J.Aguilar+           (68)D0324  3 
+ 2004  6012   4   2  C 2.0910+7 180000.0 0.065759 7.5318-3-0.984899                              J.Aguilar+           (68)D0324  3 
+#/DATA      6
+#/DATASET

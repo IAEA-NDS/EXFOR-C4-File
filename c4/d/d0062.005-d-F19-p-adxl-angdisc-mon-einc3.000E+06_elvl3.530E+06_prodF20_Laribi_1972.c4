@@ -1,0 +1,37 @@
+#ENTRY      D0062
+#AUTHOR1    S.Laribi+
+#YEAR       1972
+#INSTITUTE  (3ALGCDT)
+#TITLE      Investigation of some excited states of the 20F
+#+          in the 19F(d,a), 19F(d,p) reactions at Ed=3 MeV
+#AUTHOR(S)  S.Laribi, H.Beaumevieille, N.Bendjaballah, D.Lalanne, J.F.Allard, 
+#+          B.Faid
+#REF-CODE   (J,NP/A,191,368,1972)
+#REFERENCE  Nucl.Phys.A 191 (1972) 368
+#DATASETS   0
+#
+#DATASET    D0062005 
+#DATE       20040217
+#REACTION   9-F-19(D,P)9-F-20,PAR,DA
+#PROJ       1002
+#TARG       9019
+#MF         4
+#MT         600
+#PRODUCT    9-F-20
+#C4BEGIN    [ 1002  9019   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  9019   4 600  C 3000000. 3000.000 6.9878-3 9.2490-4 0.910539          3530000.         LVLS.Laribi+            (72)D0062  5 
+ 1002  9019   4 600  C 3000000. 3000.000 5.5284-3 6.5837-4 0.886090          3530000.         LVLS.Laribi+            (72)D0062  5 
+ 1002  9019   4 600  C 3000000. 3000.000 3.5837-3 5.0144-4 0.871873          3530000.         LVLS.Laribi+            (72)D0062  5 
+ 1002  9019   4 600  C 3000000. 3000.000 2.6336-3 3.9976-4 0.839989          3530000.         LVLS.Laribi+            (72)D0062  5 
+ 1002  9019   4 600  C 3000000. 3000.000 1.2277-3 2.0375-4 0.779917          3530000.         LVLS.Laribi+            (72)D0062  5 
+ 1002  9019   4 600  C 3000000. 3000.000 5.1541-4 1.2538-4 0.611541          3530000.         LVLS.Laribi+            (72)D0062  5 
+ 1002  9019   4 600  C 3000000. 3000.000 8.0314-4 1.3332-4 0.547811          3530000.         LVLS.Laribi+            (72)D0062  5 
+ 1002  9019   4 600  C 3000000. 3000.000 4.7701-4 1.0981-4 0.402843          3530000.         LVLS.Laribi+            (72)D0062  5 
+ 1002  9019   4 600  C 3000000. 3000.000 4.9598-4 1.5683-4-0.012618          3530000.         LVLS.Laribi+            (72)D0062  5 
+ 1002  9019   4 600  C 3000000. 3000.000 1.1756-3 1.4106-4-0.352168          3530000.         LVLS.Laribi+            (72)D0062  5 
+ 1002  9019   4 600  C 3000000. 3000.000 5.0645-4 1.5663-4-0.669390          3530000.         LVLS.Laribi+            (72)D0062  5 
+#/DATA      11
+#/DATASET

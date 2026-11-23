@@ -1,0 +1,49 @@
+#ENTRY      D8095
+#AUTHOR1    M.Apollonio+
+#YEAR       2010
+#INSTITUTE  (2ITYTRI)
+#TITLE      Measurements of forward proton production with
+#+          incident protons and charged pions on nuclear targets
+#+          at the CERN Proton Synchroton
+#AUTHOR(S)  M.Apollonio, A.Artamonov, A.Bagulya, G.Barr, A.Blondel, 
+#+          F.Bobisut, M.Bogomilov, M.Bonesini, C.Booth, S.Borghi, S.Bunyatov, 
+#+          J.Burguet-Castell, M.G.Catanesi, A.Cervera-Villanueva, P.Chimenti, 
+#+          L.Coney, E.Di Capua, U.Dore, J.Dumarchez, R.Edgecock, M.Ellis, 
+#+          F.Ferri, U.Gastaldi, S.Giani, G.Giannini, D.Gibin, S.Gilardoni, 
+#+          P.Gorbunov, C.Goessling, J.J.Gomez-Cadenas, A.Grant, J.S.Graulich, 
+#+          G.Gregoire, V.Grichine, A.Grossheim, A.Guglielmi, L.Howlett, 
+#+          A.Ivanchenko, V.Ivanchenko, A.Kayis-Topaksu, M.Kirsanov, 
+#+          D.Kolev, A.Krasnoperov, J.Martin-Albo, C.Meurer, M.Mezzetto, 
+#+          G.B.Mills, M.C.Morone, P.Novella, D.Orestano, V.Palladino, 
+#+          J.Panman, I.Papadopoulos, F.Pastore, S.Piperov, N.Polukhina, 
+#+          B.Popov, G.Prior, E.Radicioni, D.Schmitz, R.Schroeter, G.Skoro, 
+#+          M.Sorel, E.Tcherniaev, P.Temnikov, V.Tereschenko, A.Tonazzo, 
+#+          L.Tortora, R.Tsenov, I.Tsukerman, G.Vidal-Sitjes, C.Wiebusch, 
+#+          P.Zucchelli
+#REF-CODE   (J,PR/C,82,045208,2010)
+#REFERENCE  Phys.Rev.C 82 (2010) 045208
+#DATASETS   0
+#
+#DATASET    D8095016 
+#DATE       20240626
+#REACTION   50-SN-0(P,X)1-H-1,,DA/DP
+#PROJ       1001
+#TARG       50000
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001 50000   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50000   6 203    7.1161+9          1.6190-9 2.470-10 0.974794 5.5777-3 2.1274+9 8.8136+7 E2M.Apollonio+         (10)D8095 16 
+ 1001 50000   6 203    7.1161+9          1.0198-9 1.457-10 0.974794 5.5777-3 2.4904+9 1.2548+8 E2M.Apollonio+         (10)D8095 16 
+ 1001 50000   6 203    7.1161+9          6.027-10 1.026-10 0.974794 5.5777-3 2.9140+9 1.5014+8 E2M.Apollonio+         (10)D8095 16 
+ 1001 50000   6 203    7.1161+9          5.616-10 9.985-11 0.974794 5.5777-3 3.3667+9 1.6708+8 E2M.Apollonio+         (10)D8095 16 
+ 1001 50000   6 203    7.1161+9          3.539-10 6.102-11 0.974794 5.5777-3 3.8350+9 1.7927+8 E2M.Apollonio+         (10)D8095 16 
+ 1001 50000   6 203    7.1161+9          2.756-10 3.594-11 0.974794 5.5777-3 4.3123+9 1.8841+8 E2M.Apollonio+         (10)D8095 16 
+ 1001 50000   6 203    7.1161+9          1.769-10 3.539-11 0.974794 5.5777-3 4.7955+9 1.9550+8 E2M.Apollonio+         (10)D8095 16 
+ 1001 50000   6 203    7.1161+9          1.389-10 2.315-11 0.974794 5.5777-3 5.5269+9 4.0710+8 E2M.Apollonio+         (10)D8095 16 
+ 1001 50000   6 203    7.1161+9          4.974-11 1.243-11 0.974794 5.5777-3 6.7565+9 6.3828+8 E2M.Apollonio+         (10)D8095 16 
+#/DATA      9
+#/DATASET

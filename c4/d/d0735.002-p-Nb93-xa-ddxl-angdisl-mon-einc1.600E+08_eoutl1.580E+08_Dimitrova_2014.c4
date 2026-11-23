@@ -1,0 +1,31 @@
+#ENTRY      D0735
+#AUTHOR1    S.S.Dimitrova+
+#YEAR       2014
+#INSTITUTE  (3BULBLA)
+#TITLE      Inclusive reaction 93Nb(p,alpha) at an incident
+#+          energy of 160 MeV
+#AUTHOR(S)  S.S.Dimitrova, A.A.Cowley, J.J.van Zyl, E.V.Zemlyanaya, 
+#+          K.V.Lukyanov
+#REF-CODE   (J,PR/C,89,034616,2014)
+#REFERENCE  Phys.Rev.C 89 (2014) 034616
+#DATASETS   0
+#
+#DATASET    D0735002 
+#DATE       20140610
+#REACTION   41-NB-93(P,X)2-HE-4,,DA/DE
+#PROJ       1001
+#TARG       41093
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001 41093   6 207 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 41093   6 207 A  1.6000+8 500000.0 8.870-14 9.670-15 0.965926          1.5800+8 6320000. E2S.S.Dimitrova+       (14)D0735  2 
+ 1001 41093   6 207 A  1.6000+8 500000.0 1.080-13 1.300-14 0.939693          1.5800+8 6320000. E2S.S.Dimitrova+       (14)D0735  2 
+ 1001 41093   6 207 A  1.6000+8 500000.0 2.240-14 5.270-15 0.906308          1.5800+8 6320000. E2S.S.Dimitrova+       (14)D0735  2 
+ 1001 41093   6 207 A  1.6000+8 500000.0 1.080-14 3.810-15 0.819152          1.5800+8 6320000. E2S.S.Dimitrova+       (14)D0735  2 
+ 1001 41093   6 207 A  1.6000+8 500000.0 2.000-15 7.060-16 0.766044          1.5800+8 6320000. E2S.S.Dimitrova+       (14)D0735  2 
+#/DATA      5
+#/DATASET

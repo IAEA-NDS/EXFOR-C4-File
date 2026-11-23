@@ -1,0 +1,33 @@
+#ENTRY      D0313
+#AUTHOR1    M.R.D.Rodrigues+
+#YEAR       2002
+#INSTITUTE  (3BZLUSP)
+#TITLE      Single hole spectroscopic strength in 98Ru through
+#+          the 99Ru(d,t) reaction
+#AUTHOR(S)  M.R.D.Rodrigues, T.Borello-Lewin, L.B.Horodynski-Matsushigue, 
+#+          J.L.M.Duarte, C.L.Rodrigues, M.D.L.Barbosa, G.M.Ukita, G.B.da Silva
+#REF-CODE   (J,PR/C,66,034314,2002)
+#REFERENCE  Phys.Rev.C 66 (2002) 034314
+#DATASETS   0
+#
+#DATASET    D0313002 
+#DATE       20051011
+#REACTION   44-RU-99(D,T)44-RU-98,PAR,DA
+#PROJ       1002
+#TARG       44099
+#MF         4
+#MT         700
+#PRODUCT    44-RU-98
+#C4BEGIN    [ 1002 44099   4 700 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 44099   4 700 AC 1.5000+7          7.2800-5 8.8000-6 0.989681          3284000.         LVLM.R.D.Rodrigues+     (02)D0313  2 
+ 1002 44099   4 700 AC 1.5000+7          2.0800-5 6.1000-6 0.983885          3284000.         LVLM.R.D.Rodrigues+     (02)D0313  2 
+ 1002 44099   4 700 AC 1.5000+7          2.3000-5 7.9000-6 0.972857          3284000.         LVLM.R.D.Rodrigues+     (02)D0313  2 
+ 1002 44099   4 700 AC 1.5000+7          7.4000-5 1.0000-5 0.929712          3284000.         LVLM.R.D.Rodrigues+     (02)D0313  2 
+ 1002 44099   4 700 AC 1.5000+7          4.8700-5 6.5000-6 0.884744          3284000.         LVLM.R.D.Rodrigues+     (02)D0313  2 
+ 1002 44099   4 700 AC 1.5000+7          2.3700-5 9.3000-6 0.809222          3284000.         LVLM.R.D.Rodrigues+     (02)D0313  2 
+ 1002 44099   4 700 AC 1.5000+7          1.4400-5 3.4000-6 0.765146          3284000.         LVLM.R.D.Rodrigues+     (02)D0313  2 
+#/DATA      7
+#/DATASET

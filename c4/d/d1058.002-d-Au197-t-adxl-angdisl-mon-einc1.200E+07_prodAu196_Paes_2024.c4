@@ -1,0 +1,39 @@
+#ENTRY      D1058
+#AUTHOR1    B.Paes+
+#YEAR       2024
+#INSTITUTE  (3ARGCNE)
+#TITLE      Comprehensive study of the d+197Au system at
+#+          near-barrier energies
+#AUTHOR(S)  B.Paes, T.Giudice, J.Gomez, D.Abriola, A.Arazi, M.A.Cardona, 
+#+          R.M.IdBetan, D.Hojman, E.de Barbara, G.Marti, H.Soler, F.Torabi, 
+#+          B.V.Carlson, J.Lubian
+#REF-CODE   (J,PR/C,110,054606,2024)
+#REFERENCE  Phys.Rev.C 110 (2024) 054606
+#DATASETS   0
+#
+#DATASET    D1058002 
+#DATE       20250310
+#REACTION   79-AU-197(D,T)79-AU-196,,DA
+#PROJ       1002
+#TARG       79197
+#MF         4
+#MT         105
+#PRODUCT    79-AU-196
+#C4BEGIN    [ 1002 79197   4 105  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 79197   4 105    1.2000+7          1.1900-3 1.0000-4 0.788011                              B.Paes+              (24)D1058  2 
+ 1002 79197   4 105    1.2000+7          2.7000-4 3.0000-5 0.694658                              B.Paes+              (24)D1058  2 
+ 1002 79197   4 105    1.2000+7          7.2000-4 1.0000-4 0.642788                              B.Paes+              (24)D1058  2 
+ 1002 79197   4 105    1.2000+7          1.4200-3 1.0000-4 0.559193                              B.Paes+              (24)D1058  2 
+ 1002 79197   4 105    1.2000+7          8.5000-4 5.0000-5 0.500000                              B.Paes+              (24)D1058  2 
+ 1002 79197   4 105    1.2000+7          1.3500-3 1.0000-4 0.342020                              B.Paes+              (24)D1058  2 
+ 1002 79197   4 105    1.2000+7          1.6200-3 1.0000-4 0.173648                              B.Paes+              (24)D1058  2 
+ 1002 79197   4 105    1.2000+7          1.6300-3 1.0000-4 6.123-17                              B.Paes+              (24)D1058  2 
+ 1002 79197   4 105    1.2000+7          1.5300-3 1.0000-4-0.173648                              B.Paes+              (24)D1058  2 
+ 1002 79197   4 105    1.2000+7          1.5600-3 1.0000-4-0.500000                              B.Paes+              (24)D1058  2 
+ 1002 79197   4 105    1.2000+7          1.5600-3 1.0000-4-0.642788                              B.Paes+              (24)D1058  2 
+ 1002 79197   4 105    1.2000+7          1.4300-3 1.0000-4-0.866025                              B.Paes+              (24)D1058  2 
+#/DATA      12
+#/DATASET

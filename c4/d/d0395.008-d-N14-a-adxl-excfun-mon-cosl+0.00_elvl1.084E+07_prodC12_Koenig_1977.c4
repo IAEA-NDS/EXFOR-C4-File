@@ -1,0 +1,28 @@
+#ENTRY      D0395
+#AUTHOR1    W.Koenig+
+#YEAR       1977
+#INSTITUTE  (2GERMBG)
+#TITLE      Search for Quartet Excited States in 16O
+#AUTHOR(S)  W.Koenig, A.Riccato, R.Stock, P.Cuzzocrea, E.Perillo, M.Sandoli, 
+#+          G.Spadaccini
+#REF-CODE   (J,NC/A,39,9,1977)
+#REFERENCE  Nuovo Cim.A 39 (1977) 9
+#DATASETS   0
+#
+#DATASET    D0395008 
+#DATE       20060405
+#REACTION   7-N-14(D,A)6-C-12,PAR,DA
+#PROJ       1002
+#TARG       7014
+#MF         4
+#MT         800
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1002  7014   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  7014   4 800    623100.0          7.1430-4          6.123-17          1.0840+7         LVLW.Koenig+            (77)D0395  8 
+ 1002  7014   4 800    681800.0          1.6660-4          6.123-17          1.0840+7         LVLW.Koenig+            (77)D0395  8 
+ 1002  7014   4 800    711900.0          2.9000-4 8.8210-5 6.123-17          1.0840+7         LVLW.Koenig+            (77)D0395  8 
+#/DATA      3
+#/DATASET

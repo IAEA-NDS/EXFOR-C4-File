@@ -1,0 +1,32 @@
+#ENTRY      D0193
+#AUTHOR1    S.Dahlgren+
+#YEAR       1967
+#INSTITUTE  (2SWDUPP)
+#TITLE      Inelastic Scattering of 185 MeV Protons from Mg and Al
+#AUTHOR(S)  S.Dahlgren, D.Hasselgren, B.Hoistad, A.Ingemarsson, A.Johansson, 
+#+          P.-U.Renberg, O.Sundberg, G.Tibell
+#REF-CODE   (J,NP/A,90,673,1967)
+#REFERENCE  Nucl.Phys.A 90 (1967) 673
+#DATASETS   0
+#
+#DATASET    D0193009 
+#DATE       20050507
+#REACTION   13-AL-27(P,INL)13-AL-27,PAR,DA
+#PROJ       1001
+#TARG       13027
+#MF         4
+#MT         601
+#PRODUCT    13-AL-27
+#C4BEGIN    [ 1001 13027   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   4 601    1.8500+8          6.0162-4 1.5229-4 0.997524          1.1620+7 100000.0LVLS.Dahlgren+          (67)D0193  9 
+ 1001 13027   4 601    1.8500+8          2.9973-4 1.2944-4 0.984955          1.1620+7 100000.0LVLS.Dahlgren+          (67)D0193  9 
+ 1001 13027   4 601    1.8500+8          3.0239-4 1.0406-4 0.965926          1.1620+7 100000.0LVLS.Dahlgren+          (67)D0193  9 
+ 1001 13027   4 601    1.8500+8          4.5219-4 1.0409-4 0.953733          1.1620+7 100000.0LVLS.Dahlgren+          (67)D0193  9 
+ 1001 13027   4 601    1.8500+8          4.0149-4 8.6293-5 0.939412          1.1620+7 100000.0LVLS.Dahlgren+          (67)D0193  9 
+ 1001 13027   4 601    1.8500+8          2.5441-4 6.0914-5 0.905968          1.1620+7 100000.0LVLS.Dahlgren+          (67)D0193  9 
+ 1001 13027   4 601    1.8500+8          1.5058-4 1.0155-4 0.819242          1.1620+7 100000.0LVLS.Dahlgren+          (67)D0193  9 
+#/DATA      7
+#/DATASET

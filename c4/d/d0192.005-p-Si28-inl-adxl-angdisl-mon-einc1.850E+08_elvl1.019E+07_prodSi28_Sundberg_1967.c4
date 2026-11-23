@@ -1,0 +1,36 @@
+#ENTRY      D0192
+#AUTHOR1    O.Sundberg+
+#YEAR       1967
+#INSTITUTE  (2SWDUPP)
+#TITLE      Excited levels of 28Si investigated by inelastic
+#+          scattering of 185 MeV protons
+#AUTHOR(S)  O.Sundberg, A.Johansson, G.Tibell, S.Dahlgren, D.Hasselgren, 
+#+          B.Hoistad, A.Ingemarsson, P.-U.Renberg
+#REF-CODE   (J,NP/A,101,481,1967)
+#REFERENCE  Nucl.Phys.A 101 (1967) 481
+#DATASETS   0
+#
+#DATASET    D0192005 
+#DATE       20050507
+#REACTION   14-SI-28(P,INL)14-SI-28,PAR,DA
+#PROJ       1001
+#TARG       14028
+#MF         4
+#MT         601
+#PRODUCT    14-SI-28
+#C4BEGIN    [ 1001 14028   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 14028   4 601    1.8500+8          1.2131-4 6.5315-5 0.992577          1.0190+7 50000.00LVLO.Sundberg+          (67)D0192  5 
+ 1001 14028   4 601    1.8500+8          2.6531-4 5.7766-5 0.984616          1.0190+7 50000.00LVLO.Sundberg+          (67)D0192  5 
+ 1001 14028   4 601    1.8500+8          4.7445-4 3.0159-5 0.976390          1.0190+7 50000.00LVLO.Sundberg+          (67)D0192  5 
+ 1001 14028   4 601    1.8500+8          8.8208-4 5.5280-5 0.965844          1.0190+7 50000.00LVLO.Sundberg+          (67)D0192  5 
+ 1001 14028   4 601    1.8500+8          1.0309-3 5.0243-5 0.953785          1.0190+7 50000.00LVLO.Sundberg+          (67)D0192  5 
+ 1001 14028   4 601    1.8500+8          7.9044-4 4.2706-5 0.939406          1.0190+7 50000.00LVLO.Sundberg+          (67)D0192  5 
+ 1001 14028   4 601    1.8500+8          5.1037-4 4.0194-5 0.905961          1.0190+7 50000.00LVLO.Sundberg+          (67)D0192  5 
+ 1001 14028   4 601    1.8500+8          2.0519-4 1.7572-5 0.865414          1.0190+7 50000.00LVLO.Sundberg+          (67)D0192  5 
+ 1001 14028   4 601    1.8500+8          1.0534-4 2.0097-5 0.842969          1.0190+7 50000.00LVLO.Sundberg+          (67)D0192  5 
+ 1001 14028   4 601    1.8500+8          5.4547-5 1.5073-5 0.765977          1.0190+7 50000.00LVLO.Sundberg+          (67)D0192  5 
+#/DATA      10
+#/DATASET

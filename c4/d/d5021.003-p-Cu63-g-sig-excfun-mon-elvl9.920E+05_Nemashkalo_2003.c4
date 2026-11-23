@@ -1,0 +1,35 @@
+#ENTRY      D5021
+#AUTHOR1    B.A.Nemashkalo+
+#YEAR       2003
+#INSTITUTE  (4UKRKFT)
+#TITLE      Photon strength functions for 64Zn nucleus in region
+#+          of 10 MeV
+#AUTHOR(S)  B.A.Nemashkalo, S.N.Utenkov, S.S.Ratkevich, I.D.Fedorets
+#REF-CODE   (J,BAS,67,1717,2003)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 67 (2003) 1717
+#DATASETS   0
+#
+#DATASET    D5021003 
+#DATE       20070202
+#REACTION   29-CU-63(P,G)30-ZN-64,PAR,SIG
+#PROJ       1001
+#TARG       29063
+#MF         3
+#MT         900
+#PRODUCT    30-ZN-64
+#C4BEGIN    [ 1001 29063   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29063   3 900    1461900. 93622.00 2.1339-6 5.3917-7                   992000.0         LVLB.A.Nemashkalo+      (03)D5021  3 
+ 1001 29063   3 900    1617900. 93622.00 4.1010-6 1.0367-6                   992000.0         LVLB.A.Nemashkalo+      (03)D5021  3 
+ 1001 29063   3 900    1793100. 78845.00 7.1399-6 1.8040-6                   992000.0         LVLB.A.Nemashkalo+      (03)D5021  3 
+ 1001 29063   3 900    2004200. 88732.00 1.6239-5 4.1029-6                   992000.0         LVLB.A.Nemashkalo+      (03)D5021  3 
+ 1001 29063   3 900    2202500. 88696.00 2.0734-5 5.0553-6                   992000.0         LVLB.A.Nemashkalo+      (03)D5021  3 
+ 1001 29063   3 900    2395400. 83771.00 2.4503-5 5.7649-6                   992000.0         LVLB.A.Nemashkalo+      (03)D5021  3 
+ 1001 29063   3 900    2598200. 88732.00 2.8750-5 7.2641-6                   992000.0         LVLB.A.Nemashkalo+      (03)D5021  3 
+ 1001 29063   3 900    2786100. 88732.00 3.3033-5 7.1972-6                   992000.0         LVLB.A.Nemashkalo+      (03)D5021  3 
+ 1001 29063   3 900    2998100. 103400.0 3.4383-5 9.2983-6                   992000.0         LVLB.A.Nemashkalo+      (03)D5021  3 
+ 1001 29063   3 900    3200200. 103400.0 3.5541-5 8.9798-6                   992000.0         LVLB.A.Nemashkalo+      (03)D5021  3 
+#/DATA      10
+#/DATASET

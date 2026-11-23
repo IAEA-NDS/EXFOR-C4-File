@@ -1,0 +1,41 @@
+#ENTRY      D6013
+#AUTHOR1    A.Shrivastava+
+#YEAR       1998
+#INSTITUTE  (3INDTRM)
+#TITLE      Elastic scattering of l1B from 209Bi in the energy
+#+          range 49.8 <= E <= 84.1 MeV
+#AUTHOR(S)  A.Shrivastava, S.Kailas, P.Singh, A.Chatterjee, A.Navin, 
+#+          A.M.Samant, V.Ramdev Raj, S.Mandal, S.K.Datta, D.K.Awasthi
+#REF-CODE   (J,NP/A,635,411,1998)
+#REFERENCE  Nucl.Phys.A 635 (1998) 411
+#DATASETS   0
+#
+#DATASET    D6013002 
+#DATE       20071101
+#REACTION   83-BI-209(5-B-11,EL)83-BI-209,,DA,,RTH
+#PROJ       5011
+#TARG       83209
+#MF         4
+#MT         2
+#PRODUCT    83-BI-209
+#C4BEGIN    [ 5011 83209   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 5011 83209   4   2  C 5.5800+7          17.35631 0.694253 0.861966                              A.Shrivastava+       (98)D6013  2 
+ 5011 83209   4   2  C 5.5800+7          5.395641 0.215826 0.757679                              A.Shrivastava+       (98)D6013  2 
+ 5011 83209   4   2  C 5.5800+7          2.321337 0.092853 0.622706                              A.Shrivastava+       (98)D6013  2 
+ 5011 83209   4   2  C 5.5800+7          0.112491 4.4996-3 0.469518                              A.Shrivastava+       (98)D6013  2 
+ 5011 83209   4   2  C 5.5800+7          0.674864 0.026995 0.300556                              A.Shrivastava+       (98)D6013  2 
+ 5011 83209   4   2  C 5.5800+7          0.463091 0.018524 0.137669                              A.Shrivastava+       (98)D6013  2 
+ 5011 83209   4   2  C 5.5800+7          0.289342 0.011574-0.045346                              A.Shrivastava+       (98)D6013  2 
+ 5011 83209   4   2  C 5.5800+7          0.139135 5.5654-3-0.218825                              A.Shrivastava+       (98)D6013  2 
+ 5011 83209   4   2  C 5.5800+7          0.052562 2.1025-3-0.381877                              A.Shrivastava+       (98)D6013  2 
+ 5011 83209   4   2  C 5.5800+7          0.023746 9.4983-4-0.526956                              A.Shrivastava+       (98)D6013  2 
+ 5011 83209   4   2  C 5.5800+7          0.011111 4.4444-4-0.657901                              A.Shrivastava+       (98)D6013  2 
+ 5011 83209   4   2  C 5.5800+7          6.0452-3 2.4181-4-0.779119                              A.Shrivastava+       (98)D6013  2 
+ 5011 83209   4   2  C 5.5800+7          3.4262-3 1.3705-4-0.870613                              A.Shrivastava+       (98)D6013  2 
+ 5011 83209   4   2  C 5.5800+7          2.2664-3 9.0657-5-0.940288                              A.Shrivastava+       (98)D6013  2 
+ 5011 83209   4   2  C 5.5800+7          1.9922-3 7.9688-5-0.983096                              A.Shrivastava+       (98)D6013  2 
+#/DATA      15
+#/DATASET

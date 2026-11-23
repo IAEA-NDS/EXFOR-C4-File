@@ -1,0 +1,27 @@
+#ENTRY      D6484
+#AUTHOR1    S.Kumar+
+#YEAR       2024
+#INSTITUTE  (3INDTRM)
+#TITLE      Mass distributions in 12C+232Th fission: role of
+#+          shell effects and excitation energy
+#AUTHOR(S)  S.Kumar, S.Patra, A.Mhatre, A.Kumar, K.Ramachandran, R.Tripathi
+#REF-CODE   (J,EPJ/A,60,146,2024)
+#REFERENCE  Eur.Phys.J.A 60 (2024) 146
+#DATASETS   0
+#
+#DATASET    D6484003 
+#DATE       20250930
+#REACTION   90-TH-232(6-C-12,F)ELEM/MASS,IND,FY
+#PROJ       6012
+#TARG       90232
+#MF         8
+#MT         454
+#C4BEGIN    [ 6012 90232   8 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 90232   8 454    6.2500+7          4.8000-3 2.0000-4 51.00000 124.0000 0.000000            S.Kumar+             (24)D6484  3 
+ 6012 90232   8 454    6.2500+7          6.3000-3 5.0000-4 51.00000 126.0000 0.000000            S.Kumar+             (24)D6484  3 
+ 6012 90232   8 454    6.2500+7          5.7000-3 2.0000-4 53.00000 130.0000 0.000000            S.Kumar+             (24)D6484  3 
+#/DATA      3
+#/DATASET

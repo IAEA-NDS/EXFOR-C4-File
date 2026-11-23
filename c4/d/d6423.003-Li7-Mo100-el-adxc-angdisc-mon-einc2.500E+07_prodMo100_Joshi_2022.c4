@@ -1,0 +1,43 @@
+#ENTRY      D6423
+#AUTHOR1    C.Joshi+
+#YEAR       2022
+#INSTITUTE  (3INDBDA)
+#TITLE      Exploring breakup coupling effect in 7Li + 92,100Mo
+#+          elastic scattering around coulomb barrier energies
+#AUTHOR(S)  C.Joshi, H.Kumawat, R.K.Singh, N.L.Singh, D.Patel, B.K.Nayak, 
+#+          J.Acharya, A.Parihari, K.Rani, S.D.Sharma, G.Kaur, I.Ahmed, 
+#+          K.S.Golda, N.Saneesh, M.Kumar, A.Jhingan, P.Sugathan
+#REF-CODE   (J,EPJ/A,58,40,2022)
+#REFERENCE  Eur.Phys.J.A 58 (2022) 40
+#DATASETS   0
+#
+#DATASET    D6423003 
+#DATE       20231102
+#REACTION   42-MO-100(3-LI-7,EL)42-MO-100,,DA,,RTH
+#PROJ       3007
+#TARG       42100
+#MF         4
+#MT         2
+#PRODUCT    42-MO-100
+#C4BEGIN    [ 3007 42100   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 42100   4   2  C 2.5000+7          12.85881          0.891592                              C.Joshi+             (22)D6423  3 
+ 3007 42100   4   2  C 2.5000+7          5.841282          0.843607                              C.Joshi+             (22)D6423  3 
+ 3007 42100   4   2  C 2.5000+7          3.133085          0.777223                              C.Joshi+             (22)D6423  3 
+ 3007 42100   4   2  C 2.5000+7          1.787620          0.700810                              C.Joshi+             (22)D6423  3 
+ 3007 42100   4   2  C 2.5000+7          0.939886          0.615318                              C.Joshi+             (22)D6423  3 
+ 3007 42100   4   2  C 2.5000+7          0.411431          0.529031                              C.Joshi+             (22)D6423  3 
+ 3007 42100   4   2  C 2.5000+7          0.250468          0.429298                              C.Joshi+             (22)D6423  3 
+ 3007 42100   4   2  C 2.5000+7          0.130490          0.331980                              C.Joshi+             (22)D6423  3 
+ 3007 42100   4   2  C 2.5000+7          0.070307          0.230967                              C.Joshi+             (22)D6423  3 
+ 3007 42100   4   2  C 2.5000+7          0.033547          0.123203                              C.Joshi+             (22)D6423  3 
+ 3007 42100   4   2  C 2.5000+7          0.019103          0.018185                              C.Joshi+             (22)D6423  3 
+ 3007 42100   4   2  C 2.5000+7          0.011037         -0.091224                              C.Joshi+             (22)D6423  3 
+ 3007 42100   4   2  C 2.5000+7          8.0482-3         -0.191272                              C.Joshi+             (22)D6423  3 
+ 3007 42100   4   2  C 2.5000+7          4.5362-3         -0.285337                              C.Joshi+             (22)D6423  3 
+ 3007 42100   4   2  C 2.5000+7          3.5949-3         -0.384505                              C.Joshi+             (22)D6423  3 
+ 3007 42100   4   2  C 2.5000+7          3.2605-4         -0.981128                              C.Joshi+             (22)D6423  3 
+#/DATA      16
+#/DATASET

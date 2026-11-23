@@ -1,0 +1,33 @@
+#ENTRY      D0049
+#AUTHOR1    J.D.Carlson+
+#YEAR       1975
+#INSTITUTE  (1USAOHO)
+#TITLE      Optical model analysis of quasielastic (p,n) reactions
+#+          at 22.8 MeV
+#AUTHOR(S)  J.D.Carlson, C.D.Zafiratos, D.A.Lind
+#REF-CODE   (J,NP/A,249,29,1975)
+#REFERENCE  Nucl.Phys.A 249 (1975) 29
+#DATASETS   0
+#
+#DATASET    D0049014 
+#DATE       20060726
+#REACTION   24-CR-50(P,N)25-MN-50,PAR,DA
+#PROJ       1001
+#TARG       24050
+#MF         4
+#MT         50
+#PRODUCT    25-MN-50
+#C4BEGIN    [ 1001 24050   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   4  50  C 2.3000+7          5.8730-5 2.4150-5 0.954968          1790000.         LVLJ.D.Carlson+         (75)D0049 14 
+ 1001 24050   4  50  C 2.3000+7          6.3780-5 2.2420-5 0.848787          1790000.         LVLJ.D.Carlson+         (75)D0049 14 
+ 1001 24050   4  50  C 2.3000+7          4.9230-5 2.6790-5 0.754481          1790000.         LVLJ.D.Carlson+         (75)D0049 14 
+ 1001 24050   4  50  C 2.3000+7          4.1560-5 1.4850-5 0.554844          1790000.         LVLJ.D.Carlson+         (75)D0049 14 
+ 1001 24050   4  50  C 2.3000+7          7.1530-5 1.1440-5 0.362113          1790000.         LVLJ.D.Carlson+         (75)D0049 14 
+ 1001 24050   4  50  C 2.3000+7          2.3950-5 2.2780-5 0.261852          1790000.         LVLJ.D.Carlson+         (75)D0049 14 
+ 1001 24050   4  50  C 2.3000+7          9.5600-6 5.5480-6-0.309349          1790000.         LVLJ.D.Carlson+         (75)D0049 14 
+ 1001 24050   4  50  C 2.3000+7          8.4250-6 1.7290-5-0.471320          1790000.         LVLJ.D.Carlson+         (75)D0049 14 
+#/DATA      8
+#/DATASET

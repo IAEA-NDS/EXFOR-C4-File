@@ -1,0 +1,34 @@
+#ENTRY      D0513
+#AUTHOR1    M.Heil+
+#YEAR       2008
+#INSTITUTE  (2GERJUL)
+#TITLE      The 13C(alpha,n) reaction and its role as a neutron
+#+          source for the s process
+#AUTHOR(S)  M.Heil, R.Detwiler, R.E.Azuma, A.Couture, J.Daly, J.Goerres, 
+#+          F.Kappeler, R.Reifarth, P.Tischhauser, C.Ugalde, M.Wiescher
+#REF-CODE   (J,PR/C,78,025803,2008)
+#REFERENCE  Phys.Rev.C 78 (2008) 025803
+#DATASETS   0
+#
+#DATASET    D0513004 
+#DATE       20150605
+#REACTION   6-C-13(A,EL)6-C-13,,DA
+#PROJ       2004
+#TARG       6013
+#MF         4
+#MT         2
+#PRODUCT    6-C-13
+#C4BEGIN    [ 2004  6013   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  6013   4   2 A  2756780.          0.752000 0.027700 0.707107                              M.Heil+              (08)D0513  4 
+ 2004  6013   4   2 A  2756780.          0.370000 0.013400 0.422618                              M.Heil+              (08)D0513  4 
+ 2004  6013   4   2 A  2756780.          0.067200 2.5200-3 0.087156                              M.Heil+              (08)D0513  4 
+ 2004  6013   4   2 A  2756780.          0.030000 1.1100-3-0.258819                              M.Heil+              (08)D0513  4 
+ 2004  6013   4   2 A  2756780.          0.030000 1.1000-3-0.258819                              M.Heil+              (08)D0513  4 
+ 2004  6013   4   2 A  2756780.          0.074500 2.7000-3-0.573576                              M.Heil+              (08)D0513  4 
+ 2004  6013   4   2 A  2756780.          0.137000 4.9700-3-0.819152                              M.Heil+              (08)D0513  4 
+ 2004  6013   4   2 A  2756780.          0.184000 6.6700-3-0.965926                              M.Heil+              (08)D0513  4 
+#/DATA      8
+#/DATASET

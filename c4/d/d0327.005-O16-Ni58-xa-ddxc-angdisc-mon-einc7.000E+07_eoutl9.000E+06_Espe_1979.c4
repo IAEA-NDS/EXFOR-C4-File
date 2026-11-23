@@ -1,0 +1,33 @@
+#ENTRY      D0327
+#AUTHOR1    I.Espe+
+#YEAR       1979
+#INSTITUTE  (2NOROSL)
+#TITLE      Charged particle evaporation from compound nuclei
+#+          formed by bombardment of 58Ni with 70 MeV 16O ions
+#AUTHOR(S)  I.Espe, B.Skaali, P.O.Tjom, S.M.Lee, M.Rozkos, B.Elbek
+#REF-CODE   (J,CZJ/B,29,1208,1979)
+#REFERENCE  Czechslov.J.Phys.B 29 (1979) 1208
+#DATASETS   0
+#
+#DATASET    D0327005 
+#DATE       20131002
+#REACTION   28-NI-58(8-O-16,X)2-HE-4,,DA/DE
+#PROJ       8016
+#TARG       28058
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 8016 28058   6 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 28058   6 207  C 7.0000+7          2.6018-9          0.623880          9000000.          E2I.Espe+              (79)D0327  5 
+ 8016 28058   6 207  C 7.0000+7          2.0169-9          0.450878          9000000.          E2I.Espe+              (79)D0327  5 
+ 8016 28058   6 207  C 7.0000+7          1.8880-9          0.253758          9000000.          E2I.Espe+              (79)D0327  5 
+ 8016 28058   6 207  C 7.0000+7          2.0345-9          0.073238          9000000.          E2I.Espe+              (79)D0327  5 
+ 8016 28058   6 207  C 7.0000+7          2.0922-9         -0.127065          9000000.          E2I.Espe+              (79)D0327  5 
+ 8016 28058   6 207  C 7.0000+7          2.5067-9         -0.305695          9000000.          E2I.Espe+              (79)D0327  5 
+ 8016 28058   6 207  C 7.0000+7          2.5154-9         -0.449319          9000000.          E2I.Espe+              (79)D0327  5 
+ 8016 28058   6 207  C 7.0000+7          2.5543-9         -0.587785          9000000.          E2I.Espe+              (79)D0327  5 
+#/DATA      8
+#/DATASET

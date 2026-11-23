@@ -1,0 +1,34 @@
+#ENTRY      D5040
+#AUTHOR1    S.N.Utenkov+
+#YEAR       2006
+#INSTITUTE  (4UKRKFT)
+#TITLE      Proton radiactive cross sections for reaction
+#+          54Cr(p,g)55Mn
+#AUTHOR(S)  S.N.Utenkov, K.V.Shebeko
+#REF-CODE   (J,BAS,70,1859,2006)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 70 (2006) 1859
+#DATASETS   0
+#
+#DATASET    D5040006 
+#DATE       20070222
+#REACTION   24-CR-54(P,G)25-MN-55,PAR,SIG
+#PROJ       1001
+#TARG       24054
+#MF         3
+#MT         900
+#PRODUCT    25-MN-55
+#C4BEGIN    [ 1001 24054   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24054   3 900    1535600.          6.0854-6 1.6631-6                   2564000.         LVLS.N.Utenkov+         (06)D5040  6 
+ 1001 24054   3 900    1651700.          1.2829-5 3.0901-6                   2564000.         LVLS.N.Utenkov+         (06)D5040  6 
+ 1001 24054   3 900    1777200.          1.1738-5 2.7323-6                   2564000.         LVLS.N.Utenkov+         (06)D5040  6 
+ 1001 24054   3 900    1890600.          2.2638-5 5.1096-6                   2564000.         LVLS.N.Utenkov+         (06)D5040  6 
+ 1001 24054   3 900    1947000.          1.9830-5 4.0405-6                   2564000.         LVLS.N.Utenkov+         (06)D5040  6 
+ 1001 24054   3 900    2010100.          5.0652-5 8.6735-6                   2564000.         LVLS.N.Utenkov+         (06)D5040  6 
+ 1001 24054   3 900    2134600.          4.4570-5 6.8901-6                   2564000.         LVLS.N.Utenkov+         (06)D5040  6 
+ 1001 24054   3 900    2176100.          3.9731-5 7.0089-6                   2564000.         LVLS.N.Utenkov+         (06)D5040  6 
+ 1001 24054   3 900    2323700.          2.4637-5 5.9412-6                   2564000.         LVLS.N.Utenkov+         (06)D5040  6 
+#/DATA      9
+#/DATASET

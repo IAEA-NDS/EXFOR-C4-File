@@ -1,0 +1,32 @@
+#ENTRY      D0392
+#AUTHOR1    H.Beaumevieille+
+#YEAR       1969
+#INSTITUTE  (3ALGCDT)
+#TITLE      Study of the 14N(d,d)14N and 14N(d,p)15N angular
+#+          distributions and excited states of 15N
+#AUTHOR(S)  H.Beaumevieille, M.Lambert, M.Yaker, A.Amokrane, Nguyen van Sen
+#REF-CODE   (J,NP/A,125,568,1969)
+#REFERENCE  Nucl.Phys.A 125 (1969) 568
+#DATASETS   0
+#
+#DATASET    D0392002 
+#DATE       20050314
+#REACTION   7-N-14(D,EL)7-N-14,,DA,,RTH
+#PROJ       1002
+#TARG       7014
+#MF         4
+#MT         2
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1002  7014   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  7014   4   2  C 1900000.          26.08307 2.394395 0.945757                              H.Beaumevieille+     (69)D0392  2 
+ 1002  7014   4   2  C 1900000.          9.017872 0.680008 0.910734                              H.Beaumevieille+     (69)D0392  2 
+ 1002  7014   4   2  C 1900000.          4.298374 0.285190 0.874171                              H.Beaumevieille+     (69)D0392  2 
+ 1002  7014   4   2  C 1900000.          0.620936          0.650217                              H.Beaumevieille+     (69)D0392  2 
+ 1002  7014   4   2  C 1900000.          0.083064          0.018255                              H.Beaumevieille+     (69)D0392  2 
+ 1002  7014   4   2  C 1900000.          0.011089 8.8879-4-0.912692                              H.Beaumevieille+     (69)D0392  2 
+ 1002  7014   4   2  C 1900000.          0.010791 1.2917-3-0.943049                              H.Beaumevieille+     (69)D0392  2 
+#/DATA      7
+#/DATASET

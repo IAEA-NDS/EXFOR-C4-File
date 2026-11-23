@@ -1,0 +1,42 @@
+#ENTRY      D0578
+#AUTHOR1    B.V.Zhuravlev+
+#YEAR       1991
+#INSTITUTE  (4RUSFEI)
+#TITLE      Neutron spectra from (p,n) reactions on the 165Ho,
+#+          204Pb, 206Pb, 207Pb, 208Pb and 209Bi nuclides and
+#+          their nuclear level densities
+#AUTHOR(S)  B.V.Zhuravlev, N.S.Biryukov, A.P.Rudenko, N.N.Titarenko, 
+#+          V.I.Trykova
+#REF-CODE   (R,INDC(CCP)-327,23,1991)
+#REFERENCE  Report INDC(CCP)-327 page 23, 1991
+#DATASETS   0
+#
+#DATASET    D0578002 
+#DATE       20090810
+#REACTION   67-HO-165(P,N)68-ER-165,,DA/DE
+#PROJ       1001
+#TARG       67165
+#MF         6
+#MT         4
+#PRODUCT    68-ER-165
+#C4BEGIN    [ 1001 67165   6   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 67165   6   4 A  6950000.          2.0279-9         -0.707107          748000.0          E2B.V.Zhuravlev+       (91)D0578  2 
+ 1001 67165   6   4 A  6950000.          6.280-10         -0.707107          1650000.          E2B.V.Zhuravlev+       (91)D0578  2 
+ 1001 67165   6   4 A  6950000.          2.188-10         -0.707107          2290000.          E2B.V.Zhuravlev+       (91)D0578  2 
+ 1001 67165   6   4 A  6950000.          1.327-10         -0.707107          2673000.          E2B.V.Zhuravlev+       (91)D0578  2 
+ 1001 67165   6   4 A  6950000.          1.069-10         -0.707107          2832000.          E2B.V.Zhuravlev+       (91)D0578  2 
+ 1001 67165   6   4 A  6950000.          7.828-11         -0.707107          3086000.          E2B.V.Zhuravlev+       (91)D0578  2 
+ 1001 67165   6   4 A  6950000.          5.197-11         -0.707107          3201000.          E2B.V.Zhuravlev+       (91)D0578  2 
+ 1001 67165   6   4 A  6950000.          2.069-11         -0.707107          3759000.          E2B.V.Zhuravlev+       (91)D0578  2 
+ 1001 67165   6   4 A  6950000.          1.412-11         -0.707107          3905000.          E2B.V.Zhuravlev+       (91)D0578  2 
+ 1001 67165   6   4 A  6950000.          9.117-12         -0.707107          3997000.          E2B.V.Zhuravlev+       (91)D0578  2 
+ 1001 67165   6   4 A  6950000.          4.310-12         -0.707107          4455000.          E2B.V.Zhuravlev+       (91)D0578  2 
+ 1001 67165   6   4 A  6950000.          3.172-12         -0.707107          4828000.          E2B.V.Zhuravlev+       (91)D0578  2 
+ 1001 67165   6   4 A  6950000.          2.224-12         -0.707107          5009000.          E2B.V.Zhuravlev+       (91)D0578  2 
+ 1001 67165   6   4 A  6950000.          1.990-12         -0.707107          5110000.          E2B.V.Zhuravlev+       (91)D0578  2 
+ 1001 67165   6   4 A  6950000.          1.533-12         -0.707107          5334000.          E2B.V.Zhuravlev+       (91)D0578  2 
+#/DATA      15
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      D0709
+#AUTHOR1    T.R.Ophel+
+#YEAR       1976
+#INSTITUTE  (3AULCBR)
+#TITLE      A remeasurement of the 12C(a,g0) excitation function
+#+          in the vicinity of the 12.44 and 13.1 MeV levels of
+#+          16O
+#AUTHOR(S)  T.R.Ophel, A.D.Frawley, P.B.Treacy, K.H.Bray
+#REF-CODE   (J,NP/A,273,397,1976)
+#REFERENCE  Nucl.Phys.A 273 (1976) 397
+#DATASETS   0
+#
+#DATASET    D0709003 
+#DATE       20130325
+#REACTION   6-C-12(A,G)8-O-16,PAR,DA
+#PROJ       2004
+#TARG       6012
+#MF         4
+#MT         900
+#PRODUCT    8-O-16
+#C4BEGIN    [ 2004  6012   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  6012   4 900    7050000.          2.1000-6 5.0000-7 6.123-17          0.000000         LVLT.R.Ophel+           (76)D0709  3 
+ 2004  6012   4 900    7900000.          1.7000-6 5.0000-7 6.123-17          0.000000         LVLT.R.Ophel+           (76)D0709  3 
+#/DATA      2
+#/DATASET

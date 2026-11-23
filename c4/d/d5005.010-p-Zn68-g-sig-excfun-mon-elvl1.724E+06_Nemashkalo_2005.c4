@@ -1,0 +1,33 @@
+#ENTRY      D5005
+#AUTHOR1    B.A.Nemashkalo+
+#YEAR       2005
+#INSTITUTE  (4UKRKFT)
+#TITLE      Partial cross sections for 68Zn(p,g)69Ga reaction
+#AUTHOR(S)  B.A.Nemashkalo, K.V.Shebeko, S.N.Utenkov
+#REF-CODE   (J,BAS,69,108,2005)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 69 (2005) 108
+#DATASETS   0
+#
+#DATASET    D5005010 
+#DATE       20060707
+#REACTION   30-ZN-68(P,G)31-GA-69,PAR,SIG
+#PROJ       1001
+#TARG       30068
+#MF         3
+#MT         900
+#PRODUCT    31-GA-69
+#C4BEGIN    [ 1001 30068   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30068   3 900    2192000.          1.2359-6 1.7927-7                   1724000.         LVLB.A.Nemashkalo+      (05)D5005 10 
+ 1001 30068   3 900    2315600.          5.6621-6 8.2125-7                   1724000.         LVLB.A.Nemashkalo+      (05)D5005 10 
+ 1001 30068   3 900    2403500.          2.1910-6 3.1780-7                   1724000.         LVLB.A.Nemashkalo+      (05)D5005 10 
+ 1001 30068   3 900    2505500.          8.5731-6 1.1333-6                   1724000.         LVLB.A.Nemashkalo+      (05)D5005 10 
+ 1001 30068   3 900    2590000.          3.7989-6 5.5101-7                   1724000.         LVLB.A.Nemashkalo+      (05)D5005 10 
+ 1001 30068   3 900    2694800.          8.3585-6 1.2124-6                   1724000.         LVLB.A.Nemashkalo+      (05)D5005 10 
+ 1001 30068   3 900    2845000.          9.7678-6 1.4168-6                   1724000.         LVLB.A.Nemashkalo+      (05)D5005 10 
+ 1001 30068   3 900    2923400.          8.8141-6 1.3930-6                   1724000.         LVLB.A.Nemashkalo+      (05)D5005 10 
+ 1001 30068   3 900    2941700.          1.2363-5 1.9539-6                   1724000.         LVLB.A.Nemashkalo+      (05)D5005 10 
+#/DATA      9
+#/DATASET

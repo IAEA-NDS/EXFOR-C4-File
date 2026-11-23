@@ -1,0 +1,38 @@
+#ENTRY      D0733
+#AUTHOR1    M.Fidelus+
+#YEAR       2014
+#INSTITUTE  (3POLUJK)
+#TITLE      Sequential and simultaneous emission of particles from
+#+          p+Al collisions at GeV energies
+#AUTHOR(S)  M.Fidelus, D.Filges, F.Goldenbaum, H.Hodde, A.Jany, L.Jarczyk, 
+#+          B.Kamys, M.Kistryn, St.Kistryn, St.Kliczewski, E.Kozik, 
+#+          P.Kulessa, H.Machner, A.Magiera, B.Piskor-Ignatowicz, K.Pysz, 
+#+          Z.Rudy, Sushil K.Sharma, R.Siudak, M.Wojciechowski
+#REF-CODE   (J,PR/C,89,054617,2014)
+#REFERENCE  Phys.Rev.C 89 (2014) 054617
+#DATASETS   0
+#
+#DATASET    D0733003 
+#DATE       20141209
+#REACTION   13-AL-27(P,X)1-H-2,,DA/DE
+#PROJ       1001
+#TARG       13027
+#MF         6
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001 13027   6 204 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   6 204 A  1.2000+9          7.890-10 3.100-11 0.642788          4500000.          E2M.Fidelus+           (14)D0733  3 
+ 1001 13027   6 204 A  1.2000+9          7.760-10 3.100-11 0.642788          7500000.          E2M.Fidelus+           (14)D0733  3 
+ 1001 13027   6 204 A  1.2000+9          7.820-10 1.700-11 0.642788          9500000.          E2M.Fidelus+           (14)D0733  3 
+ 1001 13027   6 204 A  1.2000+9          6.470-10 1.700-11 0.642788          1.2500+7          E2M.Fidelus+           (14)D0733  3 
+ 1001 13027   6 204 A  1.2000+9          5.170-10 2.500-11 0.642788          1.5500+7          E2M.Fidelus+           (14)D0733  3 
+ 1001 13027   6 204 A  1.2000+9          4.870-10 2.400-11 0.642788          1.8500+7          E2M.Fidelus+           (14)D0733  3 
+ 1001 13027   6 204 A  1.2000+9          4.550-10 2.300-11 0.642788          2.1500+7          E2M.Fidelus+           (14)D0733  3 
+ 1001 13027   6 204 A  1.2000+9          4.390-10 2.300-11 0.642788          2.4500+7          E2M.Fidelus+           (14)D0733  3 
+ 1001 13027   6 204 A  1.2000+9          4.090-10 2.200-11 0.642788          2.7500+7          E2M.Fidelus+           (14)D0733  3 
+ 1001 13027   6 204 A  1.2000+9          4.050-10 2.200-11 0.642788          3.0500+7          E2M.Fidelus+           (14)D0733  3 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      D8089
+#AUTHOR1    A.Ozawa+
+#YEAR       2000
+#INSTITUTE  (2JPNIPC)
+#TITLE      Production cross-sections of light neutron-rich nuclei
+#+          from 40Ar fragmentation at about 1 GeV/nucleon
+#AUTHOR(S)  A.Ozawa, O.Bochkarev, L.Chulkov, D.Cortina, H.Geissel, M.Hellstroem, 
+#+          M.Ivanov, R.Janik, K.Kimura, T.Kobayashi, A.A.Korsheninnikov, 
+#+          G.Muenzenberg, F.Nickel, A.A.Ogloblin, M.Pfuetzner, V.Pribora, 
+#+          H.Simon, B.Sitar, P.Strmen, K.Suemmerer, T.Suzuki, I.Tanihata, 
+#+          M.Winkler, K.Yoshida
+#REF-CODE   (J,NP/A,673,411,2000)
+#REFERENCE  Nucl.Phys.A 673 (2000) 411
+#DATASETS   0
+#
+#DATASET    D8089002 
+#DATE       20240202
+#REACTION   4-BE-9(18-AR-40,X)ELEM/MASS,,SIG
+#PROJ       18040
+#TARG       4009
+#MF         3
+#MT         454
+#C4BEGIN    [18040  4009   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18040  4009   3 454 A  3.960+10          1.0500-7 3.3000-8            5017.9                     A.Ozawa+             (00)D8089  2 
+#/DATA      1
+#/DATASET

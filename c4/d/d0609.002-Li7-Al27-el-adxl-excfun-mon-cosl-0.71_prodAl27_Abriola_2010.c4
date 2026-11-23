@@ -1,0 +1,42 @@
+#ENTRY      D0609
+#AUTHOR1    D.Abriola+
+#YEAR       2010
+#INSTITUTE  (3ARGCNE)
+#TITLE      Elastic scattering of 7Li + 27Al at several angles in
+#+          the 7-11 MeV energy range
+#AUTHOR(S)  D.Abriola, P.Carnelli, A.Arazi, J.M.Figueira, O.A.Capurro, 
+#+          M.A.Cardona, J.O.Fernandez Niello, D.Hojman, L.Fimiani, 
+#+          P.Grinberg, D.Martinez Heimann, G.V.Marti, A.E.Negri, A.J.Pacheco
+#REF-CODE   (J,NIM/B,268,1793,2010)
+#REFERENCE  Nucl.Instrum.Meth.B 268 (2010) 1793
+#DATASETS   0
+#
+#DATASET    D0609002 
+#DATE       20100519
+#REACTION   13-AL-27(3-LI-7,EL)13-AL-27,,DA,,RTH
+#PROJ       3007
+#TARG       13027
+#MF         4
+#MT         2
+#PRODUCT    13-AL-27
+#C4BEGIN    [ 3007 13027   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 13027   4   2 A  6870000.          0.044676 1.7064-3-0.707107                              D.Abriola+           (10)D0609  2 
+ 3007 13027   4   2 A  7120000.          0.040631 1.7812-3-0.707107                              D.Abriola+           (10)D0609  2 
+ 3007 13027   4   2 A  7370000.          0.035449 1.8421-3-0.707107                              D.Abriola+           (10)D0609  2 
+ 3007 13027   4   2 A  7620000.          0.027235 1.2189-3-0.707107                              D.Abriola+           (10)D0609  2 
+ 3007 13027   4   2 A  7880000.          0.023266 7.4672-4-0.707107                              D.Abriola+           (10)D0609  2 
+ 3007 13027   4   2 A  8130000.          0.018387 8.4918-4-0.707107                              D.Abriola+           (10)D0609  2 
+ 3007 13027   4   2 A  8380000.          0.015811 5.5600-4-0.707107                              D.Abriola+           (10)D0609  2 
+ 3007 13027   4   2 A  8630000.          0.012746 6.8808-4-0.707107                              D.Abriola+           (10)D0609  2 
+ 3007 13027   4   2 A  8880000.          9.7790-3 4.3325-4-0.707107                              D.Abriola+           (10)D0609  2 
+ 3007 13027   4   2 A  9140000.          7.6823-3 4.3816-4-0.707107                              D.Abriola+           (10)D0609  2 
+ 3007 13027   4   2 A  9390000.          7.1402-3 3.3210-4-0.707107                              D.Abriola+           (10)D0609  2 
+ 3007 13027   4   2 A  9640000.          7.2735-3 2.8884-4-0.707107                              D.Abriola+           (10)D0609  2 
+ 3007 13027   4   2 A  9890000.          5.4385-3 5.9873-4-0.707107                              D.Abriola+           (10)D0609  2 
+ 3007 13027   4   2 A  1.0390+7          6.1481-3 3.6165-4-0.707107                              D.Abriola+           (10)D0609  2 
+ 3007 13027   4   2 A  1.0900+7          3.5734-3 5.3396-4-0.707107                              D.Abriola+           (10)D0609  2 
+#/DATA      15
+#/DATASET

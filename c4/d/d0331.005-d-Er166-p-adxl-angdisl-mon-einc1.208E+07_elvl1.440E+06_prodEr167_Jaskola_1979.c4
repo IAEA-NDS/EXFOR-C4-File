@@ -1,0 +1,37 @@
+#ENTRY      D0331
+#AUTHOR1    M.Jaskola+
+#YEAR       1979
+#INSTITUTE  (3POLIPJ)
+#TITLE      Angular distribution for (d,p) and (d,t) reactions
+#+          on 154Sm, 166Er, 170Yb and 176Yb target nuclei
+#AUTHOR(S)  M.Jaskola, B.Elbek, K.Nybo, P.O.Tjom
+#REF-CODE   (J,APP/B,10,137,1979)
+#REFERENCE  Acta Phys.Pol.B 10 (1979) 137
+#DATASETS   0
+#
+#DATASET    D0331005 
+#DATE       20050905
+#REACTION   68-ER-166(D,P)68-ER-167,PAR,DA
+#PROJ       1002
+#TARG       68166
+#MF         4
+#MT         600
+#PRODUCT    68-ER-167
+#C4BEGIN    [ 1002 68166   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 68166   4 600    1.2080+7          1.5000-5          0.906308          1440000.         LVLM.Jaskola+           (79)D0331  5 
+ 1002 68166   4 600    1.2080+7          8.8000-5          0.866025          1440000.         LVLM.Jaskola+           (79)D0331  5 
+ 1002 68166   4 600    1.2080+7          1.0900-4          0.819152          1440000.         LVLM.Jaskola+           (79)D0331  5 
+ 1002 68166   4 600    1.2080+7          1.5500-4          0.766044          1440000.         LVLM.Jaskola+           (79)D0331  5 
+ 1002 68166   4 600    1.2080+7          1.4800-4          0.707107          1440000.         LVLM.Jaskola+           (79)D0331  5 
+ 1002 68166   4 600    1.2080+7          1.5000-4          0.642788          1440000.         LVLM.Jaskola+           (79)D0331  5 
+ 1002 68166   4 600    1.2080+7          1.5600-4          0.500000          1440000.         LVLM.Jaskola+           (79)D0331  5 
+ 1002 68166   4 600    1.2080+7          1.2700-4          0.258819          1440000.         LVLM.Jaskola+           (79)D0331  5 
+ 1002 68166   4 600    1.2080+7          1.2100-4          6.123-17          1440000.         LVLM.Jaskola+           (79)D0331  5 
+ 1002 68166   4 600    1.2080+7          8.4000-5         -0.258819          1440000.         LVLM.Jaskola+           (79)D0331  5 
+ 1002 68166   4 600    1.2080+7          6.5000-5         -0.573576          1440000.         LVLM.Jaskola+           (79)D0331  5 
+ 1002 68166   4 600    1.2080+7          3.3000-5         -0.866025          1440000.         LVLM.Jaskola+           (79)D0331  5 
+#/DATA      12
+#/DATASET

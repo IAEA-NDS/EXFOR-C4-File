@@ -1,0 +1,30 @@
+#ENTRY      D1057
+#AUTHOR1    T.Dunatov+
+#YEAR       2025
+#INSTITUTE  (3CRORBZ)
+#TITLE      Study of natB(3He,p) reactions cross sections using
+#+          a novel setup for 3He-NRA micro analyses
+#AUTHOR(S)  T.Dunatov, G.Provatas, S.Fazinic, V.Foteinou, F.Maragkos, 
+#+          K.I.Nizic, M.Micetic
+#REF-CODE   (J,RPC,226,112298,2025)
+#REFERENCE  Radiat.Phys.Chem. 226 (2025) 112298
+#DATASETS   0
+#
+#DATASET    D1057003 
+#DATE       20241121
+#REACTION   5-B-11(HE3,P)6-C-13,PAR,DA
+#PROJ       2003
+#TARG       5011
+#MF         4
+#MT         600
+#PRODUCT    6-C-13
+#C4BEGIN    [ 2003  5011   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  5011   4 600 A  2676600. 18160.00 2.6000-4 1.1000-5-0.829038          3679787.         LVLT.Dunatov+           (25)D1057  3 
+ 2003  5011   4 600 A  2776600. 15797.00 2.7300-4 1.2000-5-0.829038          3679787.         LVLT.Dunatov+           (25)D1057  3 
+ 2003  5011   4 600 A  2877900. 15939.00 2.7800-4 1.2000-5-0.829038          3679787.         LVLT.Dunatov+           (25)D1057  3 
+ 2003  5011   4 600 A  2977900. 15931.00 2.8700-4 1.2000-5-0.829038          3679787.         LVLT.Dunatov+           (25)D1057  3 
+#/DATA      4
+#/DATASET

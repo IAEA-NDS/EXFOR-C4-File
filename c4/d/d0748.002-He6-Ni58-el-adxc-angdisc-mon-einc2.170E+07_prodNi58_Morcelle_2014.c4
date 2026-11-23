@@ -1,0 +1,40 @@
+#ENTRY      D0748
+#AUTHOR1    V.Morcelle+
+#YEAR       2014
+#INSTITUTE  (3BZLUFF)
+#TITLE      Four-body effects in the 6He+58Ni scattering
+#AUTHOR(S)  V.Morcelle, K.C.C.Pires, M.Rodriguez-Gallardo, R.Lichtenhaeler, 
+#+          A.Lepine-Szily, V.Guimaraes, P.N.de Faria, D.R.Mendes Jr, 
+#+          A.M.Moro, L.R.Gasques, E.Leistenschneider, R.Pampa Condori, 
+#+          V.Scarduelli, M.C.Morais, A.Barioni, J.C.Zamora, J.M.B.Shorto
+#REF-CODE   (J,PL/B,732,228,2014)
+#REFERENCE  Phys.Lett.B 732 (2014) 228
+#DATASETS   0
+#
+#DATASET    D0748002 
+#DATE       20150116
+#REACTION   28-NI-58(2-HE-6,EL)28-NI-58,,DA,,RTH
+#PROJ       2006
+#TARG       28058
+#MF         4
+#MT         2
+#PRODUCT    28-NI-58
+#C4BEGIN    [ 2006 28058   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2006 28058   4   2 AC 2.1700+7          28.74030 4.023643 0.961741                              V.Morcelle+          (14)D0748  2 
+ 2006 28058   4   2 AC 2.1700+7          5.236488 0.872748 0.927184                              V.Morcelle+          (14)D0748  2 
+ 2006 28058   4   2 AC 2.1700+7          1.383972 0.296565 0.887011                              V.Morcelle+          (14)D0748  2 
+ 2006 28058   4   2 AC 2.1700+7          0.949269 0.193728 0.852640                              V.Morcelle+          (14)D0748  2 
+ 2006 28058   4   2 AC 2.1700+7          0.296706 0.071929 0.783693                              V.Morcelle+          (14)D0748  2 
+ 2006 28058   4   2 AC 2.1700+7          0.114112 0.027170 0.721760                              V.Morcelle+          (14)D0748  2 
+ 2006 28058   4   2 AC 2.1700+7          0.049031 0.021013 0.653421                              V.Morcelle+          (14)D0748  2 
+ 2006 28058   4   2 AC 2.1700+7          0.023767 9.5067-3 0.579281                              V.Morcelle+          (14)D0748  2 
+ 2006 28058   4   2 AC 2.1700+7          0.016929 8.4647-3 0.501511                              V.Morcelle+          (14)D0748  2 
+ 2006 28058   4   2 AC 2.1700+7          8.0470-3 4.0235-3 0.439939                              V.Morcelle+          (14)D0748  2 
+ 2006 28058   4   2 AC 2.1700+7          4.7629-3 1.9051-3 0.335452                              V.Morcelle+          (14)D0748  2 
+ 2006 28058   4   2 AC 2.1700+7          2.2358-3 7.4527-4 0.248690                              V.Morcelle+          (14)D0748  2 
+ 2006 28058   4   2 AC 2.1700+7          1.1970-3 5.9848-4 0.161604                              V.Morcelle+          (14)D0748  2 
+#/DATA      13
+#/DATASET

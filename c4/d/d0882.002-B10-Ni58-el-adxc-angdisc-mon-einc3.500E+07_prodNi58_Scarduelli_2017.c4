@@ -1,0 +1,50 @@
+#ENTRY      D0882
+#AUTHOR1    V.Scarduelli+
+#YEAR       2017
+#INSTITUTE  (3BZLUSP)
+#TITLE      Elastic and inelastic scattering for the 10B + 58Ni
+#+          system at near-barrier energies
+#AUTHOR(S)  V.Scarduelli, E.Crema, V.Guimaraes, D.Abriola, A.Arazi, 
+#+          E.de Barbara, O.A.Capurro, M.A.Cardona, J.Gallardo, D.Hojman, 
+#+          G.V.Marti, A.J.Pacheco, D.Rodrigues, Y.Y.Yang, N.N.Deshmukh, 
+#+          B.Paes, J.Lubian, D.R.Mendes Jr, V.Morcelle, D.S.Monteiro
+#REF-CODE   (J,PR/C,96,054610,2017)
+#REFERENCE  Phys.Rev.C 96 (2017) 054610
+#DATASETS   0
+#
+#DATASET    D0882002 
+#DATE       20180213
+#REACTION   28-NI-58(5-B-10,EL)28-NI-58,,DA,,RTH
+#PROJ       5010
+#TARG       28058
+#MF         4
+#MT         2
+#PRODUCT    28-NI-58
+#C4BEGIN    [ 5010 28058   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 5010 28058   4   2  C 3.5000+7          4.893247 0.049422 0.847307                              V.Scarduelli+        (17)D0882  2 
+ 5010 28058   4   2  C 3.5000+7          3.035946 0.047267 0.789834                              V.Scarduelli+        (17)D0882  2 
+ 5010 28058   4   2  C 3.5000+7          1.864518 0.029093 0.724894                              V.Scarduelli+        (17)D0882  2 
+ 5010 28058   4   2  C 3.5000+7          0.987599 0.016134 0.653288                              V.Scarduelli+        (17)D0882  2 
+ 5010 28058   4   2  C 3.5000+7          0.478060 9.7162-3 0.576147                              V.Scarduelli+        (17)D0882  2 
+ 5010 28058   4   2  C 3.5000+7          0.223188 5.3522-3 0.494245                              V.Scarduelli+        (17)D0882  2 
+ 5010 28058   4   2  C 3.5000+7          0.110988 3.1972-3 0.408649                              V.Scarduelli+        (17)D0882  2 
+ 5010 28058   4   2  C 3.5000+7          0.106062 2.9362-3 0.408649                              V.Scarduelli+        (17)D0882  2 
+ 5010 28058   4   2  C 3.5000+7          0.050547 3.2101-3 0.320282                              V.Scarduelli+        (17)D0882  2 
+ 5010 28058   4   2  C 3.5000+7          0.055164 1.8767-3 0.320282                              V.Scarduelli+        (17)D0882  2 
+ 5010 28058   4   2  C 3.5000+7          0.024259 1.7905-3 0.230220                              V.Scarduelli+        (17)D0882  2 
+ 5010 28058   4   2  C 3.5000+7          0.012814 1.0935-3 0.139346                              V.Scarduelli+        (17)D0882  2 
+ 5010 28058   4   2  C 3.5000+7          6.6812-3 7.8157-4 0.048675                              V.Scarduelli+        (17)D0882  2 
+ 5010 28058   4   2  C 3.5000+7          2.6722-3 4.3134-4-0.041353                              V.Scarduelli+        (17)D0882  2 
+ 5010 28058   4   2  C 3.5000+7          1.7707-3 3.0405-4-0.129488                              V.Scarduelli+        (17)D0882  2 
+ 5010 28058   4   2  C 3.5000+7          1.1893-3 5.4061-5-0.215417                              V.Scarduelli+        (17)D0882  2 
+ 5010 28058   4   2  C 3.5000+7          5.6833-4 6.0893-5-0.298541                              V.Scarduelli+        (17)D0882  2 
+ 5010 28058   4   2  C 3.5000+7          4.3258-4 4.2056-5-0.378002                              V.Scarduelli+        (17)D0882  2 
+ 5010 28058   4   2  C 3.5000+7          2.4829-4 2.6988-5-0.453835                              V.Scarduelli+        (17)D0882  2 
+ 5010 28058   4   2  C 3.5000+7          1.7653-4 2.4518-5-0.525323                              V.Scarduelli+        (17)D0882  2 
+ 5010 28058   4   2  C 3.5000+7          1.4399-4 1.7999-5-0.592294                              V.Scarduelli+        (17)D0882  2 
+ 5010 28058   4   2  C 3.5000+7          1.0512-4 1.1680-5-0.711781                              V.Scarduelli+        (17)D0882  2 
+#/DATA      22
+#/DATASET

@@ -1,0 +1,38 @@
+#ENTRY      D0601
+#AUTHOR1    B.Vignon+
+#YEAR       1969
+#INSTITUTE  (2FR GRE)
+#TITLE      The 6Li(3He,p) and 8Li(3He,p+2alpha) reactions at
+#+          the energy less than 2 MeV
+#AUTHOR(S)  B.Vignon, E.Ligeon, J.P.Longequeue
+#REF-CODE   (J,JPR,30,913,1969)
+#REFERENCE  J.Phys.(Paris) 30 (1969) 913
+#DATASETS   0
+#
+#DATASET    D0601004 
+#DATE       20100824
+#REACTION   3-LI-6(HE3,P)4-BE-8,PAR,DA
+#PROJ       2003
+#TARG       3006
+#MF         4
+#MT         600
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 2003  3006   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  3006   4 600  C 1500000.          3.4916-3          0.924460          2900000.         LVLB.Vignon+            (69)D0601  4 
+ 2003  3006   4 600  C 1500000.          3.4010-3          0.840652          2900000.         LVLB.Vignon+            (69)D0601  4 
+ 2003  3006   4 600  C 1500000.          3.2923-3          0.729339          2900000.         LVLB.Vignon+            (69)D0601  4 
+ 2003  3006   4 600  C 1500000.          3.1835-3          0.613004          2900000.         LVLB.Vignon+            (69)D0601  4 
+ 2003  3006   4 600  C 1500000.          3.0747-3          0.467621          2900000.         LVLB.Vignon+            (69)D0601  4 
+ 2003  3006   4 600  C 1500000.          2.9660-3          0.285688          2900000.         LVLB.Vignon+            (69)D0601  4 
+ 2003  3006   4 600  C 1500000.          2.8754-3          0.131841          2900000.         LVLB.Vignon+            (69)D0601  4 
+ 2003  3006   4 600  C 1500000.          2.7666-3         -0.041021          2900000.         LVLB.Vignon+            (69)D0601  4 
+ 2003  3006   4 600  C 1500000.          2.6760-3         -0.220357          2900000.         LVLB.Vignon+            (69)D0601  4 
+ 2003  3006   4 600  C 1500000.          2.5854-3         -0.370557          2900000.         LVLB.Vignon+            (69)D0601  4 
+ 2003  3006   4 600  C 1500000.          2.4584-3         -0.525175          2900000.         LVLB.Vignon+            (69)D0601  4 
+ 2003  3006   4 600  C 1500000.          2.3133-3         -0.669908          2900000.         LVLB.Vignon+            (69)D0601  4 
+ 2003  3006   4 600  C 1500000.          2.3136-3         -0.782934          2900000.         LVLB.Vignon+            (69)D0601  4 
+#/DATA      13
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      D0871
+#AUTHOR1    A.Alevra+
+#YEAR       1976
+#INSTITUTE  (3RUMBUC)
+#TITLE      Continuous spectra of protons emitted in
+#+          alpha-particle induced reactions
+#AUTHOR(S)  A.Alevra, M.Duma, I.R.Lukas-Koch, M.T.Magda, M.E.Nistor, 
+#+          A.Chevarier, N.Chevarier, A.Demeyer, G.Hollinger, T.M.Duc
+#REF-CODE   (J,NP/A,265,376,1976)
+#REFERENCE  Nucl.Phys.A 265 (1976) 376
+#DATASETS   0
+#
+#DATASET    D0871004 
+#DATE       20180130
+#REACTION   26-FE-56(A,X)1-H-1,,DA/DE
+#PROJ       2004
+#TARG       26056
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 2004 26056   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 26056   6 203  C 2.3000+7 300000.0 1.248-10          0.941447          1.8000+7          E2A.Alevra+            (76)D0871  4 
+ 2004 26056   6 203  C 2.3000+7 300000.0 4.209-11          0.867653          1.8000+7          E2A.Alevra+            (76)D0871  4 
+ 2004 26056   6 203  C 2.3000+7 300000.0 3.141-12          0.693075          1.8000+7          E2A.Alevra+            (76)D0871  4 
+ 2004 26056   6 203  C 2.3000+7 300000.0 1.997-12          0.485985          1.8000+7          E2A.Alevra+            (76)D0871  4 
+ 2004 26056   6 203  C 2.3000+7 300000.0 2.825-12          0.272683          1.8000+7          E2A.Alevra+            (76)D0871  4 
+ 2004 26056   6 203  C 2.3000+7 300000.0 1.270-12         -9.1454-3          1.8000+7          E2A.Alevra+            (76)D0871  4 
+#/DATA      6
+#/DATASET

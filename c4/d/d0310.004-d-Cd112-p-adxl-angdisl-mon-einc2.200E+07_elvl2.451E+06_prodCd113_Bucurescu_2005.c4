@@ -1,0 +1,35 @@
+#ENTRY      D0310
+#AUTHOR1    D.Bucurescu+
+#YEAR       2005
+#INSTITUTE  (3RUMBUC)
+#TITLE      Detailed spectroscopy of 113Cd through
+#+          transfer reactions
+#AUTHOR(S)  D.Bucurescu, Y.Eisermann, G.Graw, R.Hertenberger, H.-F.Wirth, 
+#+          Yu.V.Ponomarev
+#REF-CODE   (J,NP/A,756,54,2005)
+#REFERENCE  Nucl.Phys.A 756 (2005) 54
+#DATASETS   0
+#
+#DATASET    D0310004 
+#DATE       20050324
+#REACTION   48-CD-112(D,P)48-CD-113,PAR,DA
+#PROJ       1002
+#TARG       48112
+#MF         4
+#MT         600
+#PRODUCT    48-CD-113
+#C4BEGIN    [ 1002 48112   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 48112   4 600 A  2.2000+7 2500.000 1.0302-4 6.7560-6 0.956305          2450600. 2500.000LVLD.Bucurescu+         (05)D0310  4 
+ 1002 48112   4 600 A  2.2000+7 2500.000 5.6238-5 4.6613-6 0.939693          2450600. 2500.000LVLD.Bucurescu+         (05)D0310  4 
+ 1002 48112   4 600 A  2.2000+7 2500.000 5.9197-5 2.9268-6 0.920505          2450600. 2500.000LVLD.Bucurescu+         (05)D0310  4 
+ 1002 48112   4 600 A  2.2000+7 2500.000 5.8832-5 2.0050-6 0.898794          2450600. 2500.000LVLD.Bucurescu+         (05)D0310  4 
+ 1002 48112   4 600 A  2.2000+7 2500.000 3.3861-5 2.2536-6 0.819152          2450600. 2500.000LVLD.Bucurescu+         (05)D0310  4 
+ 1002 48112   4 600 A  2.2000+7 2500.000 2.8064-5 1.5514-6 0.766044          2450600. 2500.000LVLD.Bucurescu+         (05)D0310  4 
+ 1002 48112   4 600 A  2.2000+7 2500.000 1.2890-5 1.1844-6 0.707107          2450600. 2500.000LVLD.Bucurescu+         (05)D0310  4 
+ 1002 48112   4 600 A  2.2000+7 2500.000 1.8326-5 9.1616-7 0.642788          2450600. 2500.000LVLD.Bucurescu+         (05)D0310  4 
+ 1002 48112   4 600 A  2.2000+7 2500.000 1.5653-5 7.6965-7 0.573576          2450600. 2500.000LVLD.Bucurescu+         (05)D0310  4 
+#/DATA      9
+#/DATASET

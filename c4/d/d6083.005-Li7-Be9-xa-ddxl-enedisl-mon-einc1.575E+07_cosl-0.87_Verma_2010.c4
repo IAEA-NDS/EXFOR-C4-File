@@ -1,0 +1,35 @@
+#ENTRY      D6083
+#AUTHOR1    S.Verma+
+#YEAR       2010
+#INSTITUTE  (3INDDLH)
+#TITLE      Interaction of loosely bound radioactive 7Be and
+#+          stable 7Li with 9Be
+#AUTHOR(S)  S.Verma, J.J.Das, A.Jhingan, K.Kalita, S.Barua, K.S.Golda, 
+#+          N.Madhavan, P.Sugathan, S.Nath, T.Varughese, J.Gehlot, S.Mandal, 
+#+          Ranjit, P.K.Sahu, B.John, B.K.Nayak, V.Jha, A.Saxena, S.K.Datta, 
+#+          R.Singh
+#REF-CODE   (J,EPJ/A,44,385,2010)
+#REFERENCE  Eur.Phys.J.A 44 (2010) 385
+#DATASETS   0
+#
+#DATASET    D6083005 
+#DATE       20110816
+#REACTION   4-BE-9(3-LI-7,X)2-HE-4,,DA/DE
+#PROJ       3007
+#TARG       4009
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 3007  4009   6 207 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007  4009   6 207 A  1.5750+7          1.4470-9 5.769-10-0.866025          2000000.          E2S.Verma+             (10)D6083  5 
+ 3007  4009   6 207 A  1.5750+7          2.6410-9 7.927-10-0.866025          3000000.          E2S.Verma+             (10)D6083  5 
+ 3007  4009   6 207 A  1.5750+7          7.122-10 1.984-10-0.866025          4000000.          E2S.Verma+             (10)D6083  5 
+ 3007  4009   6 207 A  1.5750+7          4.126-10 1.348-10-0.866025          5000000.          E2S.Verma+             (10)D6083  5 
+ 3007  4009   6 207 A  1.5750+7          1.021-10 6.850-11-0.866025          6000000.          E2S.Verma+             (10)D6083  5 
+ 3007  4009   6 207 A  1.5750+7          2.130-11 2.000-11-0.866025          7000000.          E2S.Verma+             (10)D6083  5 
+ 3007  4009   6 207 A  1.5750+7          5.900-11 4.000-11-0.866025          8000000.          E2S.Verma+             (10)D6083  5 
+#/DATA      7
+#/DATASET

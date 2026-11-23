@@ -1,0 +1,35 @@
+#ENTRY      D0430
+#AUTHOR1    S.Pellegrino+
+#YEAR       2008
+#INSTITUTE  (2FR SAC)
+#TITLE      Differential cross-sections for nuclear reactions on Al
+#+          and Si induced by deuterons at low energy (1-2 MeV)
+#AUTHOR(S)  S.Pellegrino
+#REF-CODE   (J,NIM/B,266,2268,2008)
+#REFERENCE  Nucl.Instrum.Meth.B 266 (2008) 2268
+#DATASETS   0
+#
+#DATASET    D0430003 
+#DATE       20070110
+#REACTION   13-AL-27(D,A)12-MG-25,PAR,DA
+#PROJ       1002
+#TARG       13027
+#MF         4
+#MT         800
+#PRODUCT    12-MG-25
+#C4BEGIN    [ 1002 13027   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 13027   4 800    1000000.          3.0000-6         -0.866025          974853.0         LVLS.Pellegrino         (08)D0430  3 
+ 1002 13027   4 800    1250000.          1.2000-5         -0.866025          974853.0         LVLS.Pellegrino         (08)D0430  3 
+ 1002 13027   4 800    1350000.          3.5000-5         -0.866025          974853.0         LVLS.Pellegrino         (08)D0430  3 
+ 1002 13027   4 800    1450000.          5.6000-5         -0.866025          974853.0         LVLS.Pellegrino         (08)D0430  3 
+ 1002 13027   4 800    1500000.          6.2000-5         -0.866025          974853.0         LVLS.Pellegrino         (08)D0430  3 
+ 1002 13027   4 800    1650000.          5.8000-5         -0.866025          974853.0         LVLS.Pellegrino         (08)D0430  3 
+ 1002 13027   4 800    1750000.          9.7000-5         -0.866025          974853.0         LVLS.Pellegrino         (08)D0430  3 
+ 1002 13027   4 800    1850000.          1.0200-4         -0.866025          974853.0         LVLS.Pellegrino         (08)D0430  3 
+ 1002 13027   4 800    1950000.          1.8200-4         -0.866025          974853.0         LVLS.Pellegrino         (08)D0430  3 
+ 1002 13027   4 800    2000000.          1.3400-4         -0.866025          974853.0         LVLS.Pellegrino         (08)D0430  3 
+#/DATA      10
+#/DATASET

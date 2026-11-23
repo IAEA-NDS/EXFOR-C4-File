@@ -1,0 +1,38 @@
+#ENTRY      D0571
+#AUTHOR1    P.Guazzoni+
+#YEAR       2008
+#INSTITUTE  (2ITYMIL)
+#TITLE      118Sn levels studied by the 120Sn(p,t) reaction:
+#+          High-resolution measurements, shell model, and
+#+          distorted-wave Born approximation calculations
+#AUTHOR(S)  P.Guazzoni, L.Zetta, A.Covello, A.Gargano, B.F.Bayman, T.Faestermann, 
+#+          G.Graw, R.Hertenberger, H.F.Wirth, M.Jaskola
+#REF-CODE   (J,PR/C,78,064608,2008)
+#REFERENCE  Phys.Rev.C 78 (2008) 064608
+#DATASETS   0
+#
+#DATASET    D0571002 
+#DATE       20090515
+#REACTION   50-SN-120(P,T)50-SN-118,PAR,DA
+#PROJ       1001
+#TARG       50120
+#MF         4
+#MT         700
+#PRODUCT    50-SN-118
+#C4BEGIN    [ 1001 50120   4 700 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50120   4 700 AC 2.1000+7          3.0000-6 5.0000-7 0.984165          3355000.         LVLP.Guazzoni+          (08)D0571  2 
+ 1001 50120   4 700 AC 2.1000+7          1.4980-6 2.8600-7 0.964511          3355000.         LVLP.Guazzoni+          (08)D0571  2 
+ 1001 50120   4 700 AC 2.1000+7          3.8670-6 4.0000-7 0.937221          3355000.         LVLP.Guazzoni+          (08)D0571  2 
+ 1001 50120   4 700 AC 2.1000+7          5.3460-6 4.4400-7 0.902585          3355000.         LVLP.Guazzoni+          (08)D0571  2 
+ 1001 50120   4 700 AC 2.1000+7          7.1920-6 4.7200-7 0.860742          3355000.         LVLP.Guazzoni+          (08)D0571  2 
+ 1001 50120   4 700 AC 2.1000+7          5.2540-6 3.4100-7 0.812287          3355000.         LVLP.Guazzoni+          (08)D0571  2 
+ 1001 50120   4 700 AC 2.1000+7          3.1350-6 2.4900-7 0.757337          3355000.         LVLP.Guazzoni+          (08)D0571  2 
+ 1001 50120   4 700 AC 2.1000+7          6.6000-7 1.4200-7 0.696664          3355000.         LVLP.Guazzoni+          (08)D0571  2 
+ 1001 50120   4 700 AC 2.1000+7          1.3440-6 1.3400-7 0.630540          3355000.         LVLP.Guazzoni+          (08)D0571  2 
+ 1001 50120   4 700 AC 2.1000+7          2.5870-6 1.8200-7 0.522499          3355000.         LVLP.Guazzoni+          (08)D0571  2 
+ 1001 50120   4 700 AC 2.1000+7          2.5080-6 1.4500-7 0.405461          3355000.         LVLP.Guazzoni+          (08)D0571  2 
+#/DATA      11
+#/DATASET

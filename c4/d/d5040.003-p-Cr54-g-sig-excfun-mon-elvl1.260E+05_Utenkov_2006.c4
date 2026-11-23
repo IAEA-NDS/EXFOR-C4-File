@@ -1,0 +1,36 @@
+#ENTRY      D5040
+#AUTHOR1    S.N.Utenkov+
+#YEAR       2006
+#INSTITUTE  (4UKRKFT)
+#TITLE      Proton radiactive cross sections for reaction
+#+          54Cr(p,g)55Mn
+#AUTHOR(S)  S.N.Utenkov, K.V.Shebeko
+#REF-CODE   (J,BAS,70,1859,2006)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 70 (2006) 1859
+#DATASETS   0
+#
+#DATASET    D5040003 
+#DATE       20070222
+#REACTION   24-CR-54(P,G)25-MN-55,PAR,SIG
+#PROJ       1001
+#TARG       24054
+#MF         3
+#MT         900
+#PRODUCT    25-MN-55
+#C4BEGIN    [ 1001 24054   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24054   3 900    1539300.          7.6483-6 2.4302-6                   126000.0         LVLS.N.Utenkov+         (06)D5040  3 
+ 1001 24054   3 900    1661400.          1.2470-5 5.0362-6                   126000.0         LVLS.N.Utenkov+         (06)D5040  3 
+ 1001 24054   3 900    1778900.          4.5759-5 6.9456-6                   126000.0         LVLS.N.Utenkov+         (06)D5040  3 
+ 1001 24054   3 900    1893400.          7.0885-5 1.0762-5                   126000.0         LVLS.N.Utenkov+         (06)D5040  3 
+ 1001 24054   3 900    1951000.          4.2475-5 6.7697-6                   126000.0         LVLS.N.Utenkov+         (06)D5040  3 
+ 1001 24054   3 900    2011300.          8.8549-5 1.3889-5                   126000.0         LVLS.N.Utenkov+         (06)D5040  3 
+ 1001 24054   3 900    2073300.          7.1776-5 1.7881-5                   126000.0         LVLS.N.Utenkov+         (06)D5040  3 
+ 1001 24054   3 900    2126400.          3.1903-5 6.2513-6                   126000.0         LVLS.N.Utenkov+         (06)D5040  3 
+ 1001 24054   3 900    2173000.          3.2128-5 5.9018-6                   126000.0         LVLS.N.Utenkov+         (06)D5040  3 
+ 1001 24054   3 900    2212400.          1.1684-5 5.3811-6                   126000.0         LVLS.N.Utenkov+         (06)D5040  3 
+ 1001 24054   3 900    2319100.          6.4195-6 2.4302-6                   126000.0         LVLS.N.Utenkov+         (06)D5040  3 
+#/DATA      11
+#/DATASET

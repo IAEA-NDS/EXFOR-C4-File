@@ -1,0 +1,33 @@
+#ENTRY      D0512
+#AUTHOR1    A.Budzanowski+
+#YEAR       2008
+#INSTITUTE  (3POLIFJ)
+#TITLE      Competition of coalescence and "fireball" processes
+#+          in nonequilibrium emission of light charged particles
+#+          from p + Au collisions
+#AUTHOR(S)  A.Budzanowski, M.Fidelus, D.Filges, F.Goldenbaum, H.Hodde, 
+#+          L.Jarczyk, B.Kamys, M.Kistryn, St.Kistryn, St.Kliczewski, 
+#+          A.Kowalczyk, E.Kozik, P.Kulessa, H.Machner, A.Magiera, B.Piskor-Ignatowicz, 
+#+          K.Pysz, Z.Rudy, R.Siudak, M.Wojciechowski
+#REF-CODE   (J,PR/C,78,024603,2008)
+#REFERENCE  Phys.Rev.C 78 (2008) 024603
+#DATASETS   0
+#
+#DATASET    D0512002 
+#DATE       20090717
+#REACTION   79-AU-197(P,X)1-H-1,,DA/DE
+#PROJ       1001
+#TARG       79197
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001 79197   6 203 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 79197   6 203 A  1.9000+9          1.1240-9 6.900-11 0.173648          2500000.          E2A.Budzanowski+       (08)D0512  2 
+ 1001 79197   6 203 A  1.9000+9          1.5350-9 8.100-11 0.173648          3500000.          E2A.Budzanowski+       (08)D0512  2 
+ 1001 79197   6 203 A  1.9000+9          1.9830-9 9.200-11 0.173648          4500000.          E2A.Budzanowski+       (08)D0512  2 
+ 1001 79197   6 203 A  1.9000+9          6.3500-9 1.600-10 0.173648          5500000.          E2A.Budzanowski+       (08)D0512  2 
+#/DATA      4
+#/DATASET

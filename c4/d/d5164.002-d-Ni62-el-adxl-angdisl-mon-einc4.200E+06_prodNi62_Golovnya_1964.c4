@@ -1,0 +1,33 @@
+#ENTRY      D5164
+#AUTHOR1    V.Ya.Golovnya+
+#YEAR       1964
+#INSTITUTE  (4UKRKFT)
+#TITLE      Elastic scattering of 3.4-4.2 MeV protons by Ni62 and
+#+          Ni64 isotopes
+#AUTHOR(S)  V.Ya.Golovnya, A.P.Klyucharev, B.A.Shilyaev
+#REF-CODE   (J,JET,18,1183,1964)
+#REFERENCE  J.Exp.Theor.Phys. 18 (1964) 1183
+#DATASETS   0
+#
+#DATASET    D5164002 
+#DATE       20190131
+#REACTION   28-NI-62(D,EL)28-NI-62,,DA,,RTH
+#PROJ       1002
+#TARG       28062
+#MF         4
+#MT         2
+#PRODUCT    28-NI-62
+#C4BEGIN    [ 1002 28062   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28062   4   2    4200000.          11.99351 0.123246 0.861926 4.0442-3                     V.Ya.Golovnya+       (64)D5164  2 
+ 1002 28062   4   2    4200000.          6.289895          0.808400 5.5570-3                     V.Ya.Golovnya+       (64)D5164  2 
+ 1002 28062   4   2    4200000.          4.044891          0.761588 6.8536-3                     V.Ya.Golovnya+       (64)D5164  2 
+ 1002 28062   4   2    4200000.          2.500032          0.697508 8.5869-3                     V.Ya.Golovnya+       (64)D5164  2 
+ 1002 28062   4   2    4200000.          1.167581 0.011772 0.562106 0.012082                     V.Ya.Golovnya+       (64)D5164  2 
+ 1002 28062   4   2    4200000.          0.873877          0.492238 0.013790                     V.Ya.Golovnya+       (64)D5164  2 
+ 1002 28062   4   2    4200000.          0.499859 4.8504-3 0.342671 0.017207                     V.Ya.Golovnya+       (64)D5164  2 
+ 1002 28062   4   2    4200000.          0.303073          0.164843 0.020790                     V.Ya.Golovnya+       (64)D5164  2 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      D6424
+#AUTHOR1    C.Joshi+
+#YEAR       2022
+#INSTITUTE  (3INDBDA)
+#TITLE      Inclusive alpha production for the 6Li + 51V system
+#AUTHOR(S)  C.Joshi, H.Kumawat, V.V.Parkar, D.Dutta, S.V.Suryanarayana, 
+#+          V.Jha, R.K.Singh, N.L.Singh, S.Kailas
+#REF-CODE   (J,PR/C,105,034615,2022)
+#REFERENCE  Phys.Rev.C 105 (2022) 034615
+#DATASETS   0
+#
+#DATASET    D6424003 
+#DATE       20231114
+#REACTION   23-V-51(3-LI-6,X)2-HE-4,,DA
+#PROJ       3006
+#TARG       23051
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 3006 23051   4 207 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 23051   4 207 A  2.2030+7          0.159790 1.0041-3 0.939693                              C.Joshi+             (22)D6424  3 
+ 3006 23051   4 207 A  2.2030+7          0.184647 1.0861-3 0.866025                              C.Joshi+             (22)D6424  3 
+ 3006 23051   4 207 A  2.2030+7          0.129179 9.4760-4 0.766044                              C.Joshi+             (22)D6424  3 
+ 3006 23051   4 207 A  2.2030+7          0.108756 7.7640-4 0.642788                              C.Joshi+             (22)D6424  3 
+ 3006 23051   4 207 A  2.2030+7          0.069438 5.8590-4 0.500000                              C.Joshi+             (22)D6424  3 
+ 3006 23051   4 207 A  2.2030+7          0.041105 1.0393-3 0.342020                              C.Joshi+             (22)D6424  3 
+ 3006 23051   4 207 A  2.2030+7          0.025489 6.6910-4 0.173648                              C.Joshi+             (22)D6424  3 
+ 3006 23051   4 207 A  2.2030+7          0.020832 7.8660-4 6.123-17                              C.Joshi+             (22)D6424  3 
+ 3006 23051   4 207 A  2.2030+7          0.020988 8.8440-4-0.173648                              C.Joshi+             (22)D6424  3 
+ 3006 23051   4 207 A  2.2030+7          0.014102 1.3305-3-0.500000                              C.Joshi+             (22)D6424  3 
+ 3006 23051   4 207 A  2.2030+7          0.013757 1.3856-3-0.642788                              C.Joshi+             (22)D6424  3 
+#/DATA      11
+#/DATASET

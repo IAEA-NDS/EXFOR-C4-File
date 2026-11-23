@@ -1,0 +1,39 @@
+#ENTRY      D0898
+#AUTHOR1    P.Amador-Valenzuela+
+#YEAR       2017
+#INSTITUTE  (3MEXINI)
+#TITLE      Measurements of angular distributions for 7Li
+#+          elastically scattered from 58Ni at energies around
+#+          the Coulomb barrier
+#AUTHOR(S)  P.Amador-Valenzuela, E.F.Aguilera, E.Martinez-Quiroz, D.Lizcano, 
+#+          J.C.Morales-Rivera
+#REF-CODE   (J,JP/CS,876,012002,2017)
+#REFERENCE  J.Phys.Conf.Ser. 876 (2017) 012002
+#DATASETS   0
+#
+#DATASET    D0898002 
+#DATE       20180323
+#REACTION   28-NI-58(3-LI-7,EL)28-NI-58,,DA,,RTH
+#PROJ       3007
+#TARG       28058
+#MF         4
+#MT         2
+#PRODUCT    28-NI-58
+#C4BEGIN    [ 3007 28058   4   2 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 28058   4   2 PC 1.2000+7          6.833253 0.082425 0.783693                              P.Amador-Valenzuela+ (17)D0898  2 
+ 3007 28058   4   2 PC 1.2000+7          2.610000 0.031493 0.652098                              P.Amador-Valenzuela+ (17)D0898  2 
+ 3007 28058   4   2 PC 1.2000+7          1.269076 0.015409 0.498488                              P.Amador-Valenzuela+ (17)D0898  2 
+ 3007 28058   4   2 PC 1.2000+7          0.715264 8.7538-3 0.330514                              P.Amador-Valenzuela+ (17)D0898  2 
+ 3007 28058   4   2 PC 1.2000+7          0.715250 8.7325-3 0.330514                              P.Amador-Valenzuela+ (17)D0898  2 
+ 3007 28058   4   2 PC 1.2000+7          0.445893 5.4197-3 0.154710                              P.Amador-Valenzuela+ (17)D0898  2 
+ 3007 28058   4   2 PC 1.2000+7          0.302967 3.7873-3-0.024432                              P.Amador-Valenzuela+ (17)D0898  2 
+ 3007 28058   4   2 PC 1.2000+7          0.219217 2.8057-3-0.195946                              P.Amador-Valenzuela+ (17)D0898  2 
+ 3007 28058   4   2 PC 1.2000+7          0.118935 1.4788-3-0.592013                              P.Amador-Valenzuela+ (17)D0898  2 
+ 3007 28058   4   2 PC 1.2000+7          0.092889 1.2298-3-0.767165                              P.Amador-Valenzuela+ (17)D0898  2 
+ 3007 28058   4   2 PC 1.2000+7          0.077960 9.8473-4-0.899558                              P.Amador-Valenzuela+ (17)D0898  2 
+ 3007 28058   4   2 PC 1.2000+7          0.070792 9.5871-4-0.975535                              P.Amador-Valenzuela+ (17)D0898  2 
+#/DATA      12
+#/DATASET

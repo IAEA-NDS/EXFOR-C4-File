@@ -1,0 +1,34 @@
+#ENTRY      D0850
+#AUTHOR1    P.F.F.Carnelli+
+#YEAR       2018
+#INSTITUTE  (3ARGCNE)
+#TITLE      Inclusive and exclusive measurements of alpha particle
+#+          production mechanisms in the 7Li +144Sm system
+#AUTHOR(S)  P.F.F.Carnelli, D.Martinez Heimann, A.J.Pacheco, A.Arazi, 
+#+          O.A.Capurro, J.O.Fernandez Niello, M.A.Cardona, E.de Barbara, 
+#+          J.M.Figueira, D.L.Hojman, G.V.Marti, A.E.Negri
+#REF-CODE   (J,NP/A,969,94,2018)
+#REFERENCE  Nucl.Phys.A 969 (2018) 94
+#DATASETS   0
+#
+#DATASET    D0850003 
+#DATE       20171211
+#REACTION   62-SM-144(3-LI-7,X)2-HE-4,,DA
+#PROJ       3007
+#TARG       62144
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 3007 62144   4 207 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 62144   4 207 D  2.4000+7          1.2100-3 4.9000-4-0.416281                              P.F.F.Carnelli+      (18)D0850  3 
+ 3007 62144   4 207 D  2.4000+7          1.0000-3 2.3000-4-0.463296                              P.F.F.Carnelli+      (18)D0850  3 
+ 3007 62144   4 207 D  2.4000+7          1.3000-3 2.7000-4-0.547563                              P.F.F.Carnelli+      (18)D0850  3 
+ 3007 62144   4 207 D  2.4000+7          9.4000-4 1.8000-4-0.590606                              P.F.F.Carnelli+      (18)D0850  3 
+ 3007 62144   4 207 D  2.4000+7          1.0200-3 1.8000-4-0.632029                              P.F.F.Carnelli+      (18)D0850  3 
+ 3007 62144   4 207 D  2.4000+7          9.1000-4 2.5000-4-0.712026                              P.F.F.Carnelli+      (18)D0850  3 
+ 3007 62144   4 207 D  2.4000+7          7.9000-4 1.5000-4-0.747798                              P.F.F.Carnelli+      (18)D0850  3 
+#/DATA      7
+#/DATASET

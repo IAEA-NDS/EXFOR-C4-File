@@ -1,0 +1,35 @@
+#ENTRY      D0559
+#AUTHOR1    M.Kokkoris+
+#YEAR       2009
+#INSTITUTE  (2GRCTUA)
+#TITLE      Study of Selected Differential Cross Sections of the
+#+          28Si(d,p0,p1,p2,p3) reactions for NRA Purposes
+#AUTHOR(S)  M.Kokkoris, K.Michalakis, P.Misailides, A.Lagoyannis, S.Harissopulos, 
+#+          R.Vlastou, C.T.Papadopoulos
+#REF-CODE   (J,NIM/B,267,1744,2009)
+#REFERENCE  Nucl.Instrum.Meth.B 267 (2009) 1744
+#DATASETS   0
+#
+#DATASET    D0559002 
+#DATE       20090207
+#REACTION   14-SI-28(D,P)14-SI-29,PAR,DA
+#PROJ       1002
+#TARG       14028
+#MF         4
+#MT         600
+#PRODUCT    14-SI-29
+#C4BEGIN    [ 1002 14028   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 14028   4 600 A  1553600. 2000.000 4.8000-4 3.0000-5-0.819152          0.000000         LVLM.Kokkoris+          (09)D0559  2 
+ 1002 14028   4 600 A  1603600. 2000.000 3.8000-4 2.8000-5-0.819152          0.000000         LVLM.Kokkoris+          (09)D0559  2 
+ 1002 14028   4 600 A  1653700. 2000.000 3.0700-4 2.8000-5-0.819152          0.000000         LVLM.Kokkoris+          (09)D0559  2 
+ 1002 14028   4 600 A  1753800. 2000.000 1.9400-4 2.4000-5-0.819152          0.000000         LVLM.Kokkoris+          (09)D0559  2 
+ 1002 14028   4 600 A  1803800. 2000.000 5.4000-4 3.0000-5-0.819152          0.000000         LVLM.Kokkoris+          (09)D0559  2 
+ 1002 14028   4 600 A  1853900. 2000.000 9.3000-4 4.0000-5-0.819152          0.000000         LVLM.Kokkoris+          (09)D0559  2 
+ 1002 14028   4 600 A  1903900. 2000.000 1.0600-3 5.0000-5-0.819152          0.000000         LVLM.Kokkoris+          (09)D0559  2 
+ 1002 14028   4 600 A  1954000. 2000.000 8.4000-4 4.0000-5-0.819152          0.000000         LVLM.Kokkoris+          (09)D0559  2 
+ 1002 14028   4 600 A  2004000. 2000.000 2.4600-4 2.4000-5-0.819152          0.000000         LVLM.Kokkoris+          (09)D0559  2 
+#/DATA      9
+#/DATASET

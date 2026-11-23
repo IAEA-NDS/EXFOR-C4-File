@@ -1,0 +1,40 @@
+#ENTRY      D6029
+#AUTHOR1    S.Santra+
+#YEAR       2001
+#INSTITUTE  (3INDTRM)
+#TITLE      Coupled reaction channel analysis of elastic,
+#+          inelastic, transfer, and fusion cross sections
+#+          for 12C + 208Pb
+#AUTHOR(S)  S.Santra, P.Singh, S.Kailas, A.Chatterjee, A.Shrivastava, 
+#+          K.Mahata
+#REF-CODE   (J,PR/C,64,024602,20010625)
+#REFERENCE  Phys.Rev.C 64 (2001) 024602
+#DATASETS   0
+#
+#DATASET    D6029002 
+#DATE       20091106
+#REACTION   82-PB-208(6-C-12,EL)82-PB-208,,DA,,RTH
+#PROJ       6012
+#TARG       82208
+#MF         4
+#MT         2
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 6012 82208   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 82208   4   2  C 5.8900+7          0.506581 7.8520-3 0.106264                              S.Santra+            (01)D6029  2 
+ 6012 82208   4   2  C 5.8900+7          0.352881 7.8850-3-0.069756                              S.Santra+            (01)D6029  2 
+ 6012 82208   4   2  C 5.8900+7          0.266433 5.7348-3-0.240228                              S.Santra+            (01)D6029  2 
+ 6012 82208   4   2  C 5.8900+7          0.204736 4.4571-3-0.400349                              S.Santra+            (01)D6029  2 
+ 6012 82208   4   2  C 5.8900+7          0.167819 3.4945-3-0.551937                              S.Santra+            (01)D6029  2 
+ 6012 82208   4   2  C 5.8900+7          0.146644 2.6808-3-0.684547                              S.Santra+            (01)D6029  2 
+ 6012 82208   4   2  C 5.8900+7          0.118488 2.1689-3-0.796530                              S.Santra+            (01)D6029  2 
+ 6012 82208   4   2  C 5.8900+7          0.093968 2.7206-3-0.885394                              S.Santra+            (01)D6029  2 
+ 6012 82208   4   2  C 5.8900+7          0.086317 2.3606-3-0.906308                              S.Santra+            (01)D6029  2 
+ 6012 82208   4   2  C 5.8900+7          0.081100 2.0432-3-0.949972                              S.Santra+            (01)D6029  2 
+ 6012 82208   4   2  C 5.8900+7          0.078870 1.8269-3-0.963163                              S.Santra+            (01)D6029  2 
+ 6012 82208   4   2  C 5.8900+7          0.076034 1.7913-3-0.988228                              S.Santra+            (01)D6029  2 
+ 6012 82208   4   2  C 5.8900+7          0.070787 1.5565-3-0.994338                              S.Santra+            (01)D6029  2 
+#/DATA      13
+#/DATASET

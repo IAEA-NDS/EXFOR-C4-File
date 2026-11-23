@@ -1,0 +1,42 @@
+#ENTRY      D0878
+#AUTHOR1    A.Budzanowski+
+#YEAR       1972
+#INSTITUTE  (3POLIFJ)
+#TITLE      Energy variation of the elastic scattering of alpha
+#+          particles on Mg, Si, Ca and Co nuclei in the energy
+#+          range from 23.5 to 28.5 MeV
+#AUTHOR(S)  A.Budzanowski, K.Chyla, K.Grotowski, L.Jarczyk, A.Kapuscik, 
+#+          S.Micek, J.Ploskonka, A.Strzalkowski, J.Szmider, Z.Wrobel, 
+#+          R.Zybert
+#REF-CODE   (R,INP-740,1972)
+#REFERENCE  Report INP-740, 1972
+#DATASETS   0
+#
+#DATASET    D0878004 
+#DATE       20180208
+#REACTION   20-CA-40(A,EL)20-CA-40,,DA
+#PROJ       2004
+#TARG       20040
+#MF         4
+#MT         2
+#PRODUCT    20-CA-40
+#C4BEGIN    [ 2004 20040   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 20040   4   2 CC 2.3500+7 50000.00 4.0100-4 3.6000-5-0.871042                              A.Budzanowski+       (72)D0878  4 
+ 2004 20040   4   2 CC 2.3500+7 50000.00 1.3700-3 5.0000-5-0.889974                              A.Budzanowski+       (72)D0878  4 
+ 2004 20040   4   2 CC 2.3500+7 50000.00 2.7800-3 7.0000-5-0.907411                              A.Budzanowski+       (72)D0878  4 
+ 2004 20040   4   2 CC 2.3500+7 50000.00 3.7100-3 5.0000-5-0.923344                              A.Budzanowski+       (72)D0878  4 
+ 2004 20040   4   2 CC 2.3500+7 50000.00 3.7900-3 6.0000-5-0.937828                              A.Budzanowski+       (72)D0878  4 
+ 2004 20040   4   2 CC 2.3500+7 50000.00 2.8100-3 9.0000-5-0.950841                              A.Budzanowski+       (72)D0878  4 
+ 2004 20040   4   2 CC 2.3500+7 50000.00 1.4100-3 7.0000-5-0.962313                              A.Budzanowski+       (72)D0878  4 
+ 2004 20040   4   2 CC 2.3500+7 50000.00 3.6900-4 2.5000-5-0.972288                              A.Budzanowski+       (72)D0878  4 
+ 2004 20040   4   2 CC 2.3500+7 50000.00 4.0700-4 4.3000-5-0.980751                              A.Budzanowski+       (72)D0878  4 
+ 2004 20040   4   2 CC 2.3500+7 50000.00 2.2900-3 1.3000-4-0.987688                              A.Budzanowski+       (72)D0878  4 
+ 2004 20040   4   2 CC 2.3500+7 50000.00 5.6200-3 2.1000-4-0.993068                              A.Budzanowski+       (72)D0878  4 
+ 2004 20040   4   2 CC 2.3500+7 50000.00 0.010800 3.0000-4-0.996917                              A.Budzanowski+       (72)D0878  4 
+ 2004 20040   4   2 CC 2.3500+7 50000.00 0.014100 3.0000-4-0.999229                              A.Budzanowski+       (72)D0878  4 
+ 2004 20040   4   2 CC 2.3500+7 50000.00 0.015000 2.0000-4-0.999848                              A.Budzanowski+       (72)D0878  4 
+#/DATA      14
+#/DATASET

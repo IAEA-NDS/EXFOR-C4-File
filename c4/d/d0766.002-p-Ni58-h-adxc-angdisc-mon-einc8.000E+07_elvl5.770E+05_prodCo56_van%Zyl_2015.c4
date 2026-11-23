@@ -1,0 +1,35 @@
+#ENTRY      D0766
+#AUTHOR1    J.J.van Zyl+
+#YEAR       2015
+#INSTITUTE  (3SAFSTL)
+#TITLE      Incident-energy dependence of angular distributions of
+#+          cross section and analyzing power for the
+#+          58Ni(p,3He)56Co reaction between 80 and 120 MeV
+#AUTHOR(S)  J.J.van Zyl, A.A.Cowley, R.Neveling, E.Z.Buthelezi, S.V.Foertsch, 
+#+          J.Mabiala, J.P.Mira, F.Nemulodi, F.D.Smit, G.F.Steyn, J.A.Swartz, 
+#+          I.T.Usman
+#REF-CODE   (J,PR/C,91,024614,2015)
+#REFERENCE  Phys.Rev.C 91 (2015) 024614
+#DATASETS   0
+#
+#DATASET    D0766002 
+#DATE       20150302
+#REACTION   28-NI-58(P,HE3)27-CO-56,PAR,DA
+#PROJ       1001
+#TARG       28058
+#MF         4
+#MT         750
+#PRODUCT    27-CO-56
+#C4BEGIN    [ 1001 28058   4 750 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28058   4 750 AC 8.0000+7 500000.0 7.9000-6 3.0900-7 0.900243          577000.0         LVLJ.J.van Zyl+         (15)D0766  2 
+ 1001 28058   4 750 AC 8.0000+7 500000.0 3.8800-6 1.6100-7 0.857527          577000.0         LVLJ.J.van Zyl+         (15)D0766  2 
+ 1001 28058   4 750 AC 8.0000+7 500000.0 1.2300-6 8.3500-8 0.807990          577000.0         LVLJ.J.van Zyl+         (15)D0766  2 
+ 1001 28058   4 750 AC 8.0000+7 500000.0 8.4300-7 7.4900-8 0.752070          577000.0         LVLJ.J.van Zyl+         (15)D0766  2 
+ 1001 28058   4 750 AC 8.0000+7 500000.0 7.4500-7 4.9700-8 0.690251          577000.0         LVLJ.J.van Zyl+         (15)D0766  2 
+ 1001 28058   4 750 AC 8.0000+7 500000.0 2.6500-7 4.3800-8 0.622924          577000.0         LVLJ.J.van Zyl+         (15)D0766  2 
+ 1001 28058   4 750 AC 8.0000+7 500000.0 1.9000-7 3.2300-8 0.474703          577000.0         LVLJ.J.van Zyl+         (15)D0766  2 
+#/DATA      7
+#/DATASET

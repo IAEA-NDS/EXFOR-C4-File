@@ -1,0 +1,34 @@
+#ENTRY      D5021
+#AUTHOR1    B.A.Nemashkalo+
+#YEAR       2003
+#INSTITUTE  (4UKRKFT)
+#TITLE      Photon strength functions for 64Zn nucleus in region
+#+          of 10 MeV
+#AUTHOR(S)  B.A.Nemashkalo, S.N.Utenkov, S.S.Ratkevich, I.D.Fedorets
+#REF-CODE   (J,BAS,67,1717,2003)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 67 (2003) 1717
+#DATASETS   0
+#
+#DATASET    D5021005 
+#DATE       20070202
+#REACTION   29-CU-63(P,G)30-ZN-64,PAR,SIG
+#PROJ       1001
+#TARG       29063
+#MF         3
+#MT         900
+#PRODUCT    30-ZN-64
+#C4BEGIN    [ 1001 29063   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29063   3 900    1609600. 106770.0 4.2224-7 1.3169-7                   2307000.         LVLB.A.Nemashkalo+      (03)D5021  5 
+ 1001 29063   3 900    1804000. 97883.00 6.7953-7 2.1180-7                   2307000.         LVLB.A.Nemashkalo+      (03)D5021  5 
+ 1001 29063   3 900    2015800. 102260.0 1.9782-6 6.7012-7                   2307000.         LVLB.A.Nemashkalo+      (03)D5021  5 
+ 1001 29063   3 900    2214600. 88788.00 3.1513-6 1.0259-6                   2307000.         LVLB.A.Nemashkalo+      (03)D5021  5 
+ 1001 29063   3 900    2414500. 93231.00 5.8962-6 1.9146-6                   2307000.         LVLB.A.Nemashkalo+      (03)D5021  5 
+ 1001 29063   3 900    2612700. 106770.0 8.6667-6 2.4732-6                   2307000.         LVLB.A.Nemashkalo+      (03)D5021  5 
+ 1001 29063   3 900    2818400. 93370.00 1.0415-5 3.2462-6                   2307000.         LVLB.A.Nemashkalo+      (03)D5021  5 
+ 1001 29063   3 900    3023500. 106630.0 1.1549-5 3.7527-6                   2307000.         LVLB.A.Nemashkalo+      (03)D5021  5 
+ 1001 29063   3 900    3224200. 115520.0 1.2809-5 4.3335-6                   2307000.         LVLB.A.Nemashkalo+      (03)D5021  5 
+#/DATA      9
+#/DATASET

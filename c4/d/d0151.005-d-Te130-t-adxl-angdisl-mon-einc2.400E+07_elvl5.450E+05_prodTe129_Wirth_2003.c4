@@ -1,0 +1,37 @@
+#ENTRY      D0151
+#AUTHOR1    H.-F.Wirth+
+#YEAR       2003
+#INSTITUTE  (2GERMUU)
+#TITLE      Nuclear structure of 129Te studied with (n,gamma),
+#+          (d,p) and (d(pol),t) reactions
+#AUTHOR(S)  H.-F.Wirth, T.von Egidy, I.Tomandl, J.Honzatko, D.Bucurescu, 
+#+          N.Marginean, V.Yu.Ponomarev, R.Hertenberger, Y.Eisermann, 
+#+          G.Graw
+#REF-CODE   (J,NP/A,716,3,2003)
+#REFERENCE  Nucl.Phys.A 716 (2003) 3
+#DATASETS   0
+#
+#DATASET    D0151005 
+#DATE       20040715
+#REACTION   52-TE-130(D,T)52-TE-129,PAR,DA
+#PROJ       1002
+#TARG       52130
+#MF         4
+#MT         700
+#PRODUCT    52-TE-129
+#C4BEGIN    [ 1002 52130   4 700 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 52130   4 700 A  2.4000+7 2500.000 5.4310-5 1.9500-6 0.991445          545000.0         LVLH.-F.Wirth+          (03)D0151  5 
+ 1002 52130   4 700 A  2.4000+7 2500.000 6.3910-5 1.9700-6 0.984808          545000.0         LVLH.-F.Wirth+          (03)D0151  5 
+ 1002 52130   4 700 A  2.4000+7 2500.000 6.7350-5 1.8900-6 0.976296          545000.0         LVLH.-F.Wirth+          (03)D0151  5 
+ 1002 52130   4 700 A  2.4000+7 2500.000 5.5880-5 1.5900-6 0.965926          545000.0         LVLH.-F.Wirth+          (03)D0151  5 
+ 1002 52130   4 700 A  2.4000+7 2500.000 3.5540-5 1.4000-6 0.953717          545000.0         LVLH.-F.Wirth+          (03)D0151  5 
+ 1002 52130   4 700 A  2.4000+7 2500.000 2.2760-5 1.1400-6 0.939693          545000.0         LVLH.-F.Wirth+          (03)D0151  5 
+ 1002 52130   4 700 A  2.4000+7 2500.000 2.0760-5 1.2500-6 0.906308          545000.0         LVLH.-F.Wirth+          (03)D0151  5 
+ 1002 52130   4 700 A  2.4000+7 2500.000 1.8960-5 9.7300-7 0.866025          545000.0         LVLH.-F.Wirth+          (03)D0151  5 
+ 1002 52130   4 700 A  2.4000+7 2500.000 4.4100-6 5.4906-7 0.819152          545000.0         LVLH.-F.Wirth+          (03)D0151  5 
+ 1002 52130   4 700 A  2.4000+7 2500.000 9.4300-6 5.0395-7 0.766044          545000.0         LVLH.-F.Wirth+          (03)D0151  5 
+#/DATA      10
+#/DATASET

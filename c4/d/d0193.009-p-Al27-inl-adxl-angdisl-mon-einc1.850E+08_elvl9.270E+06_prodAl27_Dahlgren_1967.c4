@@ -1,0 +1,34 @@
+#ENTRY      D0193
+#AUTHOR1    S.Dahlgren+
+#YEAR       1967
+#INSTITUTE  (2SWDUPP)
+#TITLE      Inelastic Scattering of 185 MeV Protons from Mg and Al
+#AUTHOR(S)  S.Dahlgren, D.Hasselgren, B.Hoistad, A.Ingemarsson, A.Johansson, 
+#+          P.-U.Renberg, O.Sundberg, G.Tibell
+#REF-CODE   (J,NP/A,90,673,1967)
+#REFERENCE  Nucl.Phys.A 90 (1967) 673
+#DATASETS   0
+#
+#DATASET    D0193009 
+#DATE       20050507
+#REACTION   13-AL-27(P,INL)13-AL-27,PAR,DA
+#PROJ       1001
+#TARG       13027
+#MF         4
+#MT         601
+#PRODUCT    13-AL-27
+#C4BEGIN    [ 1001 13027   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   4 601    1.8500+8          1.0161-4 4.7159-5 0.984822          9270000. 80000.00LVLS.Dahlgren+          (67)D0193  9 
+ 1001 13027   4 601    1.8500+8          2.2142-4 4.8434-5 0.976338          9270000. 80000.00LVLS.Dahlgren+          (67)D0193  9 
+ 1001 13027   4 601    1.8500+8          3.6161-4 3.9511-5 0.965772          9270000. 80000.00LVLS.Dahlgren+          (67)D0193  9 
+ 1001 13027   4 601    1.8500+8          3.7053-4 4.0786-5 0.953570          9270000. 80000.00LVLS.Dahlgren+          (67)D0193  9 
+ 1001 13027   4 601    1.8500+8          4.4317-4 5.4807-5 0.939561          9270000. 80000.00LVLS.Dahlgren+          (67)D0193  9 
+ 1001 13027   4 601    1.8500+8          2.4306-4 4.2061-5 0.906249          9270000. 80000.00LVLS.Dahlgren+          (67)D0193  9 
+ 1001 13027   4 601    1.8500+8          1.7167-4 3.3139-5 0.866060          9270000. 80000.00LVLS.Dahlgren+          (67)D0193  9 
+ 1001 13027   4 601    1.8500+8          8.3711-5 3.0590-5 0.819332          9270000. 80000.00LVLS.Dahlgren+          (67)D0193  9 
+ 1001 13027   4 601    1.8500+8          3.5266-5 2.1668-5 0.765820          9270000. 80000.00LVLS.Dahlgren+          (67)D0193  9 
+#/DATA      9
+#/DATASET

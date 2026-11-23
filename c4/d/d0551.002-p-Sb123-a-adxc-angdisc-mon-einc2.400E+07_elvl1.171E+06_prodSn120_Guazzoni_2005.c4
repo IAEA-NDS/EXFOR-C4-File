@@ -1,0 +1,36 @@
+#ENTRY      D0551
+#AUTHOR1    P.Guazzoni+
+#YEAR       2005
+#INSTITUTE  (2ITYGVA)
+#TITLE      120Sn homologous levels via the 123Sb(p,alpha)120Sn
+#+          reaction: Experimental evidence and microscopic
+#+          calculations
+#AUTHOR(S)  P.Guazzoni, L.Zetta, B.F.Bayman, A.Covello, A.Gargano, G.Graw, 
+#+          R.Hertenberger, H.F.Wirth, M.Jaskola
+#REF-CODE   (J,PR/C,72,044604,2005)
+#REFERENCE  Phys.Rev.C 72 (2005) 044604
+#DATASETS   0
+#
+#DATASET    D0551002 
+#DATE       20090329
+#REACTION   51-SB-123(P,A)50-SN-120,PAR,DA
+#PROJ       1001
+#TARG       51123
+#MF         4
+#MT         800
+#PRODUCT    50-SN-120
+#C4BEGIN    [ 1001 51123   4 800 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 51123   4 800 AC 2.4000+7          2.4000-6 2.8000-7 0.994356          1171000.         LVLP.Guazzoni+          (05)D0551  2 
+ 1001 51123   4 800 AC 2.4000+7          3.1000-6 2.0000-7 0.984350          1171000.         LVLP.Guazzoni+          (05)D0551  2 
+ 1001 51123   4 800 AC 2.4000+7          3.0000-6 2.4000-7 0.964925          1171000.         LVLP.Guazzoni+          (05)D0551  2 
+ 1001 51123   4 800 AC 2.4000+7          3.6600-6 2.2000-7 0.937949          1171000.         LVLP.Guazzoni+          (05)D0551  2 
+ 1001 51123   4 800 AC 2.4000+7          3.0900-6 1.6000-7 0.903635          1171000.         LVLP.Guazzoni+          (05)D0551  2 
+ 1001 51123   4 800 AC 2.4000+7          2.0500-6 1.2000-7 0.862249          1171000.         LVLP.Guazzoni+          (05)D0551  2 
+ 1001 51123   4 800 AC 2.4000+7          1.5500-6 1.0000-7 0.787796          1171000.         LVLP.Guazzoni+          (05)D0551  2 
+ 1001 51123   4 800 AC 2.4000+7          1.1400-6 9.0000-8 0.699663          1171000.         LVLP.Guazzoni+          (05)D0551  2 
+ 1001 51123   4 800 AC 2.4000+7          7.0000-7 6.0000-8 0.599303          1171000.         LVLP.Guazzoni+          (05)D0551  2 
+#/DATA      9
+#/DATASET

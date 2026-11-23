@@ -1,0 +1,44 @@
+#ENTRY      D0180
+#AUTHOR1    E.S.Rossi Jr+
+#YEAR       2002
+#INSTITUTE  (3BZLUSP)
+#TITLE      Effect of the 18O Nuclear Density on the Nuclear
+#+          Potentials of the 18O  + 58, 60Ni Systems
+#AUTHOR(S)  E.S.Rossi Jr, D.Pereira, L.C.Chamon, C.P.Silva, M.A.G.Alvarez, 
+#+          L.R.Gasques, J.Lubian, B.V.Carlson, C.De Conti
+#REF-CODE   (J,NP/A,707,325,2002)
+#REFERENCE  Nucl.Phys.A 707 (2002) 325
+#DATASETS   0
+#
+#DATASET    D0180002 
+#DATE       20060609
+#REACTION   28-NI-58(8-O-18,EL)28-NI-58,,DA,,RTH
+#PROJ       8018
+#TARG       28058
+#MF         4
+#MT         2
+#PRODUCT    28-NI-58
+#C4BEGIN    [ 8018 28058   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8018 28058   4   2 AC 3.8000+7          0.148159 2.7468-3-0.224951                              E.S.Rossi Jr+        (02)D0180  2 
+ 8018 28058   4   2 AC 3.8000+7          0.128020 2.4515-3-0.310676                              E.S.Rossi Jr+        (02)D0180  2 
+ 8018 28058   4   2 AC 3.8000+7          0.113179 2.3918-3-0.390731                              E.S.Rossi Jr+        (02)D0180  2 
+ 8018 28058   4   2 AC 3.8000+7          0.099344 2.2449-3-0.466387                              E.S.Rossi Jr+        (02)D0180  2 
+ 8018 28058   4   2 AC 3.8000+7          0.088200 2.9674-3-0.535827                              E.S.Rossi Jr+        (02)D0180  2 
+ 8018 28058   4   2 AC 3.8000+7          0.080019 2.0996-3-0.601815                              E.S.Rossi Jr+        (02)D0180  2 
+ 8018 28058   4   2 AC 3.8000+7          0.070648 2.1953-3-0.660002                              E.S.Rossi Jr+        (02)D0180  2 
+ 8018 28058   4   2 AC 3.8000+7          0.067225 2.2938-3-0.714473                              E.S.Rossi Jr+        (02)D0180  2 
+ 8018 28058   4   2 AC 3.8000+7          0.064098 2.1611-3-0.762668                              E.S.Rossi Jr+        (02)D0180  2 
+ 8018 28058   4   2 AC 3.8000+7          0.056814 1.5305-3-0.806960                              E.S.Rossi Jr+        (02)D0180  2 
+ 8018 28058   4   2 AC 3.8000+7          0.055083 1.3931-3-0.845262                              E.S.Rossi Jr+        (02)D0180  2 
+ 8018 28058   4   2 AC 3.8000+7          0.049152 1.3745-3-0.878817                              E.S.Rossi Jr+        (02)D0180  2 
+ 8018 28058   4   2 AC 3.8000+7          0.046483 1.3312-3-0.908508                              E.S.Rossi Jr+        (02)D0180  2 
+ 8018 28058   4   2 AC 3.8000+7          0.044805 1.8120-3-0.932954                              E.S.Rossi Jr+        (02)D0180  2 
+ 8018 28058   4   2 AC 3.8000+7          0.044020 1.3498-3-0.953717                              E.S.Rossi Jr+        (02)D0180  2 
+ 8018 28058   4   2 AC 3.8000+7          0.039401 1.4054-3-0.970716                              E.S.Rossi Jr+        (02)D0180  2 
+ 8018 28058   4   2 AC 3.8000+7          0.043270 1.5296-3-0.983571                              E.S.Rossi Jr+        (02)D0180  2 
+ 8018 28058   4   2 AC 3.8000+7          0.037889 1.3200-3-0.992757                              E.S.Rossi Jr+        (02)D0180  2 
+#/DATA      18
+#/DATASET

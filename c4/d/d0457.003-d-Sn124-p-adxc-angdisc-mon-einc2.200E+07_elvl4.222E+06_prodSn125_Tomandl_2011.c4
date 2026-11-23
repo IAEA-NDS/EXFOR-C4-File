@@ -1,0 +1,33 @@
+#ENTRY      D0457
+#AUTHOR1    I.Tomandl+
+#YEAR       2011
+#INSTITUTE  (3CZRUJF)
+#TITLE      Nuclear structure study of semi-magic 125Sn via (n,g)
+#+          and (d,p) reactions
+#AUTHOR(S)  I.Tomandl, J.Honzatko, T.von Egidy, H.-F.Wirth, T.Faestermann, 
+#+          V.Yu.Ponomarev, S.Pasic, R.Hertenberger, Y.Eisermann, G.Graw
+#REF-CODE   (J,PR/C,83,044326,2011)
+#REFERENCE  Phys.Rev.C 83 (2011) 044326
+#DATASETS   0
+#
+#DATASET    D0457003 
+#DATE       20080125
+#REACTION   50-SN-124(D,P)50-SN-125,PAR,DA
+#PROJ       1002
+#TARG       50124
+#MF         4
+#MT         600
+#PRODUCT    50-SN-125
+#C4BEGIN    [ 1002 50124   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50124   4 600 AC 2.2000+7 4000.000 1.4100-5 2.9000-6 0.965245          4222400.         LVLI.Tomandl+           (11)D0457  3 
+ 1002 50124   4 600 AC 2.2000+7 4000.000 1.0300-5 2.8000-6 0.938493          4222400.         LVLI.Tomandl+           (11)D0457  3 
+ 1002 50124   4 600 AC 2.2000+7 4000.000 9.5000-6 2.6000-6 0.904455          4222400.         LVLI.Tomandl+           (11)D0457  3 
+ 1002 50124   4 600 AC 2.2000+7 4000.000 8.3000-6 1.1000-6 0.863484          4222400.         LVLI.Tomandl+           (11)D0457  3 
+ 1002 50124   4 600 AC 2.2000+7 4000.000 7.9000-6 1.3000-6 0.815835          4222400.         LVLI.Tomandl+           (11)D0457  3 
+ 1002 50124   4 600 AC 2.2000+7 4000.000 6.2000-6 9.6000-7 0.761878          4222400.         LVLI.Tomandl+           (11)D0457  3 
+ 1002 50124   4 600 AC 2.2000+7 4000.000 2.8000-6 8.0000-7 0.702029          4222400.         LVLI.Tomandl+           (11)D0457  3 
+#/DATA      7
+#/DATASET

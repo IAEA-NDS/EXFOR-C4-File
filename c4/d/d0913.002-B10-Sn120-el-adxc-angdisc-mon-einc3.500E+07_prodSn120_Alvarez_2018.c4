@@ -1,0 +1,51 @@
+#ENTRY      D0913
+#AUTHOR1    M.A.G.Alvarez+
+#YEAR       2018
+#INSTITUTE  (2SPNSEU)
+#TITLE      Elastic scattering, inelastic excitation, and 1n
+#+          pick-up transfer cross sections for 10B + 120Sn
+#+          at energies near the Coulomb barrier
+#AUTHOR(S)  M.A.G.Alvarez, M.Rodriguez-Gallardo, L.R.Gasques, L.C.Chamon, 
+#+          J.R.B.Oliveira, V.Scarduelli, A.S.Freitas, E.S.Rossi Jr, 
+#+          V.A.B.Zagatto, J.Rangel, J.Lubian, I.Padron
+#REF-CODE   (J,PR/C,98,024621,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 024621
+#DATASETS   0
+#
+#DATASET    D0913002 
+#DATE       20180913
+#REACTION   50-SN-120(5-B-10,EL)50-SN-120,,DA,,RTH
+#PROJ       5010
+#TARG       50120
+#MF         4
+#MT         2
+#PRODUCT    50-SN-120
+#C4BEGIN    [ 5010 50120   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 5010 50120   4   2  C 3.5000+7          1.857143 0.022011 0.592013                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          1.326645 0.011823 0.516533                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          0.958913 7.8311-3 0.436802                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          0.755074 6.9825-3 0.353475                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          0.584973 7.0548-3 0.267238                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          0.467764 6.7041-3 0.180519                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          0.366769 7.3874-3 0.092371                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          0.317644 5.5656-3 3.4907-3                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          0.260111 3.1727-3-0.083678                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          0.222567 2.8569-3-0.170209                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          0.190534 2.9036-3-0.253758                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          0.164541 2.9075-3-0.335452                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          0.142389 2.4512-3-0.414693                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          0.119886 1.8756-3-0.489382                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          0.102725 1.8740-3-0.560639                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          0.085102 2.1674-3-0.627963                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          0.073565 1.5530-3-0.690882                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          0.063140 1.1790-3-0.747798                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          0.053905 1.2558-3-0.799685                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          0.048767 8.0245-4-0.845262                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          0.042868 8.5527-4-0.886204                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          0.039305 7.6606-4-0.920505                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.5000+7          0.035872 7.1939-4-0.948876                              M.A.G.Alvarez+       (18)D0913  2 
+#/DATA      23
+#/DATASET

@@ -1,0 +1,41 @@
+#ENTRY      D0800
+#AUTHOR1    S.B.Dubovichenko+
+#YEAR       2011
+#INSTITUTE  (4KASKAS)
+#TITLE      Astrophysical S factor for the radiative-capture
+#+          reaction p 6Li -> 7Be gamma
+#AUTHOR(S)  S.B.Dubovichenko, N.Burtebaev, D.M.Zazulin, Zh.K.Kerimkulov, 
+#+          A.S.A.Amar
+#REF-CODE   (J,PAN,74,984,2011)
+#REFERENCE  Phys.At.Nucl. 74 (2011) 984
+#DATASETS   0
+#
+#DATASET    D08000021
+#DATE       20160624
+#REACTION   3-LI-6(P,EL)3-LI-6,,DA,,RTH
+#PROJ       1001
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 1001  3006   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3006   4   2  C 1136300. 1000.000 2.901365 0.290137 0.874620                              S.B.Dubovichenko+    (11)D0800  21
+ 1001  3006   4   2  C 1136300. 1000.000 1.632203 0.163220 0.821149                              S.B.Dubovichenko+    (11)D0800  21
+ 1001  3006   4   2  C 1136300. 1000.000 0.559082 0.055908 0.693402                              S.B.Dubovichenko+    (11)D0800  21
+ 1001  3006   4   2  C 1136300. 1000.000 0.288708 0.028871 0.540240                              S.B.Dubovichenko+    (11)D0800  21
+ 1001  3006   4   2  C 1136300. 1000.000 0.168763 0.016876 0.369747                              S.B.Dubovichenko+    (11)D0800  21
+ 1001  3006   4   2  C 1136300. 1000.000 0.125020 0.012502 0.190809                              S.B.Dubovichenko+    (11)D0800  21
+ 1001  3006   4   2  C 1136300. 1000.000 0.073954 7.3954-3-0.166769                              S.B.Dubovichenko+    (11)D0800  21
+ 1001  3006   4   2  C 1136300. 1000.000 0.066028 6.6028-3-0.332161                              S.B.Dubovichenko+    (11)D0800  21
+ 1001  3006   4   2  C 1136300. 1000.000 0.073905 7.3905-3-0.484810                              S.B.Dubovichenko+    (11)D0800  21
+ 1001  3006   4   2  C 1136300. 1000.000 0.069630 6.9630-3-0.619779                              S.B.Dubovichenko+    (11)D0800  21
+ 1001  3006   4   2  C 1136300. 1000.000 0.061578 6.1578-3-0.734915                              S.B.Dubovichenko+    (11)D0800  21
+ 1001  3006   4   2  C 1136300. 1000.000 0.060619 6.0619-3-0.830984                              S.B.Dubovichenko+    (11)D0800  21
+ 1001  3006   4   2  C 1136300. 1000.000 0.062866 6.2866-3-0.904827                              S.B.Dubovichenko+    (11)D0800  21
+ 1001  3006   4   2  C 1136300. 1000.000 0.060845 6.0845-3-0.957822                              S.B.Dubovichenko+    (11)D0800  21
+ 1001  3006   4   2  C 1136300. 1000.000 0.061870 6.1870-3-0.989526                              S.B.Dubovichenko+    (11)D0800  21
+#/DATA      15
+#/DATASET

@@ -1,0 +1,50 @@
+#ENTRY      D0847
+#AUTHOR1    V.A.B.Zagatto+
+#YEAR       2017
+#INSTITUTE  (3BZLUFF)
+#TITLE      Elastic scattering, inelastic excitation, and neutron
+#+          transfer for 7Li+120Sn at energies around the Coulomb
+#+          barrier
+#AUTHOR(S)  V.A.B.Zagatto, J.Lubian, L.R.Gasques, M.A.G.Alvarez, L.C.Chamon, 
+#+          J.R.B.Oliveira, J.A.Alcantara-Nunez, N.H.Medina, V.Scarduelli, 
+#+          A.Freitas, I.Padron, E.S.Rossi Jr, J.M.B.Shorto
+#REF-CODE   (J,PR/C,95,064614,2017)
+#REFERENCE  Phys.Rev.C 95 (2017) 064614
+#DATASETS   0
+#
+#DATASET    D0847002 
+#DATE       20171205
+#REACTION   50-SN-120(3-LI-7,EL)50-SN-120,,DA,,RTH
+#PROJ       3007
+#TARG       50120
+#MF         4
+#MT         2
+#PRODUCT    50-SN-120
+#C4BEGIN    [ 3007 50120   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 50120   4   2 AC 2.2000+7          1.232866 0.011174 0.533659                              V.A.B.Zagatto+       (17)D0847  2 
+ 3007 50120   4   2 AC 2.2000+7          0.920614 6.3742-3 0.455467                              V.A.B.Zagatto+       (17)D0847  2 
+ 3007 50120   4   2 AC 2.2000+7          0.686854 5.5114-3 0.373959                              V.A.B.Zagatto+       (17)D0847  2 
+ 3007 50120   4   2 AC 2.2000+7          0.547148 5.8891-3 0.289834                              V.A.B.Zagatto+       (17)D0847  2 
+ 3007 50120   4   2 AC 2.2000+7          0.426787 5.1112-3 0.203813                              V.A.B.Zagatto+       (17)D0847  2 
+ 3007 50120   4   2 AC 2.2000+7          0.358097 5.8818-3 0.116601                              V.A.B.Zagatto+       (17)D0847  2 
+ 3007 50120   4   2 AC 2.2000+7          0.279464 3.1497-3 0.028934                              V.A.B.Zagatto+       (17)D0847  2 
+ 3007 50120   4   2 AC 2.2000+7          0.209649 1.6868-3-0.058522                              V.A.B.Zagatto+       (17)D0847  2 
+ 3007 50120   4   2 AC 2.2000+7          0.155677 1.4414-3-0.145082                              V.A.B.Zagatto+       (17)D0847  2 
+ 3007 50120   4   2 AC 2.2000+7          0.125262 1.2490-3-0.230118                              V.A.B.Zagatto+       (17)D0847  2 
+ 3007 50120   4   2 AC 2.2000+7          0.094442 1.0963-3-0.312998                              V.A.B.Zagatto+       (17)D0847  2 
+ 3007 50120   4   2 AC 2.2000+7          0.070808 1.1129-3-0.393172                              V.A.B.Zagatto+       (17)D0847  2 
+ 3007 50120   4   2 AC 2.2000+7          0.055097 6.2468-4-0.470088                              V.A.B.Zagatto+       (17)D0847  2 
+ 3007 50120   4   2 AC 2.2000+7          0.045462 5.6686-4-0.543248                              V.A.B.Zagatto+       (17)D0847  2 
+ 3007 50120   4   2 AC 2.2000+7          0.035840 5.1942-4-0.612176                              V.A.B.Zagatto+       (17)D0847  2 
+ 3007 50120   4   2 AC 2.2000+7          0.029589 4.8034-4-0.676478                              V.A.B.Zagatto+       (17)D0847  2 
+ 3007 50120   4   2 AC 2.2000+7          0.024107 4.4809-4-0.735754                              V.A.B.Zagatto+       (17)D0847  2 
+ 3007 50120   4   2 AC 2.2000+7          0.020906 3.3720-4-0.789684                              V.A.B.Zagatto+       (17)D0847  2 
+ 3007 50120   4   2 AC 2.2000+7          0.016705 2.3979-4-0.837938                              V.A.B.Zagatto+       (17)D0847  2 
+ 3007 50120   4   2 AC 2.2000+7          0.014510 2.2911-4-0.880287                              V.A.B.Zagatto+       (17)D0847  2 
+ 3007 50120   4   2 AC 2.2000+7          0.013379 2.2054-4-0.916481                              V.A.B.Zagatto+       (17)D0847  2 
+ 3007 50120   4   2 AC 2.2000+7          0.012473 2.8510-4-0.946351                              V.A.B.Zagatto+       (17)D0847  2 
+#/DATA      22
+#/DATASET

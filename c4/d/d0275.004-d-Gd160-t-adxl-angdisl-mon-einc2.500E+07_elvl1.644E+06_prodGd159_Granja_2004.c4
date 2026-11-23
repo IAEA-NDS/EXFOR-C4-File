@@ -1,0 +1,29 @@
+#ENTRY      D0275
+#AUTHOR1    C.Granja+
+#YEAR       2004
+#INSTITUTE  (2GERMUN)
+#TITLE      Nuclear structure of 159Gd
+#AUTHOR(S)  C.Granja, S.Pospisil, A.Aprahamian, H.Borner, H.Lehmann, 
+#+          T.von Egidy, H.-F.Wirth, G.Graw, R.Hertenberger, Y.Eisermann, 
+#+          D.Nosek, L.Rubacek, S.A.Telezhnikov
+#REF-CODE   (J,PR/C,70,034316,2004)
+#REFERENCE  Phys.Rev.C 70 (2004) 034316
+#DATASETS   0
+#
+#DATASET    D0275004 
+#DATE       20120502
+#REACTION   64-GD-160(D,T)64-GD-159,PAR,DA
+#PROJ       1002
+#TARG       64160
+#MF         4
+#MT         700
+#PRODUCT    64-GD-159
+#C4BEGIN    [ 1002 64160   4 700 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 64160   4 700 A  2.5000+7          5.6000-3 8.0000-4 0.990268          1644000. 5000.000LVLC.Granja+            (04)D0275  4 
+ 1002 64160   4 700 A  2.5000+7          2.7000-3 2.0000-4 0.766044          1644000. 5000.000LVLC.Granja+            (04)D0275  4 
+ 1002 64160   4 700 A  2.5000+7          1.6000-3 3.0000-4 0.642788          1644000. 5000.000LVLC.Granja+            (04)D0275  4 
+#/DATA      3
+#/DATASET

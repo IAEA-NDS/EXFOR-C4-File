@@ -1,0 +1,38 @@
+#ENTRY      D1025
+#AUTHOR1    J.C.Zamora+
+#YEAR       2022
+#INSTITUTE  (3BZLUSP)
+#TITLE      Role of direct mechanism in two-nucleon T = 0
+#+          transfer reactions in Light nuclei using the (6Li,a)
+#+          probe
+#AUTHOR(S)  J.C.Zamora, J.L.Ferreira, A.Barioni, E.N.Cardozo, D.Abriola, 
+#+          A.Arazi, M.Assuncao, E.De Barbara, M.A.Cardona, V.Guimaraes, 
+#+          D.Hojman, G.V.Marti, D.R.Mendes, A.J.Pacheco, K.C.C.Pires, 
+#+          D.Ramos, O.C.B.Santos, J.Lubian
+#REF-CODE   (J,PR/C,106,014603,2022)
+#REFERENCE  Phys.Rev.C 106 (2022) 014603
+#DATASETS   0
+#
+#DATASET    D1025005 
+#DATE       20220823
+#REACTION   9-F-19(3-LI-6,A)10-NE-21,PAR,DA
+#PROJ       3006
+#TARG       9019
+#MF         4
+#MT         800
+#PRODUCT    10-NE-21
+#C4BEGIN    [ 3006  9019   4 800 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006  9019   4 800 AC 2.0000+7          1.7180-5 2.8970-6 0.868632          3700000.         LVLJ.C.Zamora+          (22)D1025  5 
+ 3006  9019   4 800 AC 2.0000+7          1.1060-5 1.8850-6 0.849893          3700000.         LVLJ.C.Zamora+          (22)D1025  5 
+ 3006  9019   4 800 AC 2.0000+7          7.1010-6 2.1560-6 0.792290          3700000.         LVLJ.C.Zamora+          (22)D1025  5 
+ 3006  9019   4 800 AC 2.0000+7          1.2070-5 1.7630-6 0.730162          3700000.         LVLJ.C.Zamora+          (22)D1025  5 
+ 3006  9019   4 800 AC 2.0000+7          7.6390-6 1.9920-6 0.658689          3700000.         LVLJ.C.Zamora+          (22)D1025  5 
+ 3006  9019   4 800 AC 2.0000+7          6.6560-6 1.2800-6 0.586372          3700000.         LVLJ.C.Zamora+          (22)D1025  5 
+ 3006  9019   4 800 AC 2.0000+7          5.5380-6 1.6810-6 0.504528          3700000.         LVLJ.C.Zamora+          (22)D1025  5 
+ 3006  9019   4 800 AC 2.0000+7          6.2530-6 1.4540-6 0.425779          3700000.         LVLJ.C.Zamora+          (22)D1025  5 
+ 3006  9019   4 800 AC 2.0000+7          6.9950-6 2.2270-6 0.337095          3700000.         LVLJ.C.Zamora+          (22)D1025  5 
+#/DATA      9
+#/DATASET

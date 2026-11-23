@@ -1,0 +1,37 @@
+#ENTRY      D6280
+#AUTHOR1    D.Patel+
+#YEAR       2013
+#INSTITUTE  (3INDBDA)
+#TITLE      Elastic scattering and fusion cross-sections in
+#+          7Li+27Al reaction
+#AUTHOR(S)  D.Patel, S.Santra, S.Mukherjee, B.K.Nayak, P.K.Rath, V.V.Parkar, 
+#+          R.K.Choudhury
+#REF-CODE   (J,PRM,81,587,2013)
+#REFERENCE  Pramana 81 (2013) 587
+#DATASETS   0
+#
+#DATASET    D6280002 
+#DATE       20170905
+#REACTION   13-AL-27(3-LI-7,EL)13-AL-27,,DA,,RTH
+#PROJ       3007
+#TARG       13027
+#MF         4
+#MT         2
+#PRODUCT    13-AL-27
+#C4BEGIN    [ 3007 13027   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 13027   4   2 AC 1.4000+7          63.64560 6.364560 0.968322                              D.Patel+             (13)D6280  2 
+ 3007 13027   4   2 AC 1.4000+7          15.26673 1.526674 0.935321                              D.Patel+             (13)D6280  2 
+ 3007 13027   4   2 AC 1.4000+7          4.760214 0.476563 0.891402                              D.Patel+             (13)D6280  2 
+ 3007 13027   4   2 AC 1.4000+7          1.931044 0.193104 0.837337                              D.Patel+             (13)D6280  2 
+ 3007 13027   4   2 AC 1.4000+7          0.733153 0.073816 0.774061                              D.Patel+             (13)D6280  2 
+ 3007 13027   4   2 AC 1.4000+7          0.360869 0.036087 0.702526                              D.Patel+             (13)D6280  2 
+ 3007 13027   4   2 AC 1.4000+7          0.180848 0.018085 0.624152                              D.Patel+             (13)D6280  2 
+ 3007 13027   4   2 AC 1.4000+7          0.096803 9.6502-3 0.539800                              D.Patel+             (13)D6280  2 
+ 3007 13027   4   2 AC 1.4000+7          0.052952 5.2952-3 0.450878                              D.Patel+             (13)D6280  2 
+ 3007 13027   4   2 AC 1.4000+7          0.032145 3.2611-3 0.358694                              D.Patel+             (13)D6280  2 
+ 3007 13027   4   2 AC 1.4000+7          5.3707-4 5.3707-5-0.580277                              D.Patel+             (13)D6280  2 
+#/DATA      11
+#/DATASET

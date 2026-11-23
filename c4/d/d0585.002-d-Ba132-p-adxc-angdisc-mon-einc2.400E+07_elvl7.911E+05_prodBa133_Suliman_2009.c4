@@ -1,0 +1,37 @@
+#ENTRY      D0585
+#AUTHOR1    G.Suliman+
+#YEAR       2009
+#INSTITUTE  (3RUMBUC)
+#TITLE      Study of the 133Ba nucleus with the (d,p) reaction
+#AUTHOR(S)  G.Suliman, D.Bucurescu, C.Rusu, R.Hertenberger, H.-F.Wirth, 
+#+          T.Faestermann, R.Krucken, K.Wimmer, T.Behrens, V.Bildstein, 
+#+          K.Eppinger, C.Hinke, M.Mahgoub, P.Meierbeck, M.Reithner, 
+#+          S.Schwertel, N.Chauvin
+#REF-CODE   (J,EPJ/A,41,299,2009)
+#REFERENCE  Eur.Phys.J.A 41 (2009) 299
+#DATASETS   0
+#
+#DATASET    D0585002 
+#DATE       20091007
+#REACTION   56-BA-132(D,P)56-BA-133,PAR,DA
+#PROJ       1002
+#TARG       56132
+#MF         4
+#MT         600
+#PRODUCT    56-BA-133
+#C4BEGIN    [ 1002 56132   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 56132   4 600  C 2.4000+7          1.1404-4 3.7668-6 0.994338          791100.0         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          2.3192-4 5.8809-6 0.984503          791100.0         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          2.6243-4 6.1385-6 0.973976          791100.0         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          2.8326-4 5.4933-6 0.960294          791100.0         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          2.5505-4 4.9628-6 0.938493          791100.0         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          2.0845-4 6.8751-6 0.922538          791100.0         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          1.6740-4 8.0492-6 0.904827          791100.0         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          7.8508-5 2.1488-6 0.863396          791100.0         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          6.5741-5 1.7237-6 0.816138          791100.0         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          7.4662-5 1.6642-6 0.761538          791100.0         LVLG.Suliman+           (09)D0585  2 
+#/DATA      10
+#/DATASET

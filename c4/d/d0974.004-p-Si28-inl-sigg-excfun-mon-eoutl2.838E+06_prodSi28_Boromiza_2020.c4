@@ -1,0 +1,39 @@
+#ENTRY      D0974
+#AUTHOR1    M.Boromiza+
+#YEAR       2020
+#INSTITUTE  (3RUMBUC)
+#TITLE      Nucleon inelastic scattering cross sections on 16O and
+#+          28Si
+#AUTHOR(S)  M.Boromiza, C.Borcea, P.Dessagne, D.Ghita, T.Glodariu, G.Henning, 
+#+          M.Kerveno, N.Marginean, C.Mihai, R.Mihai, A.Negret, C.Nita, 
+#+          M.Nyman, A.Olacel, A.Oprea, A.J.M.Plompen, C.Sotty, G.Suliman, 
+#+          R.Suvaila, L.Stan, A.Turturica, G.Turturica
+#REF-CODE   (J,PR/C,101,024604,2020)
+#REFERENCE  Phys.Rev.C 101 (2020) 024604
+#DATASETS   0
+#
+#DATASET    D0974004 
+#DATE       20200214
+#REACTION   14-SI-28(P,INL)14-SI-28,PAR,SIG,G
+#PROJ       1001
+#TARG       14028
+#MF         13
+#MT         601
+#PRODUCT    14-SI-28
+#C4BEGIN    [ 1001 14028  13 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 14028  13 601 A  5580000. 820000.0 6.2400-3 1.7000-4                   2838200.            M.Boromiza+          (20)D0974  4 
+ 1001 14028  13 601 A  6770000. 710000.0 0.014530 3.9000-4                   2838200.            M.Boromiza+          (20)D0974  4 
+ 1001 14028  13 601 A  7900000. 640000.0 0.028300 7.9000-4                   2838200.            M.Boromiza+          (20)D0974  4 
+ 1001 14028  13 601 A  9000000. 580000.0 0.046010 1.2800-3                   2838200.            M.Boromiza+          (20)D0974  4 
+ 1001 14028  13 601 A  1.0080+7 530000.0 0.070750 1.5000-3                   2838200.            M.Boromiza+          (20)D0974  4 
+ 1001 14028  13 601 A  1.1140+7 500000.0 0.079260 2.2200-3                   2838200.            M.Boromiza+          (20)D0974  4 
+ 1001 14028  13 601 A  1.2190+7 470000.0 0.084830 2.3700-3                   2838200.            M.Boromiza+          (20)D0974  4 
+ 1001 14028  13 601 A  1.3240+7 440000.0 0.100310 2.7900-3                   2838200.            M.Boromiza+          (20)D0974  4 
+ 1001 14028  13 601 A  1.4280+7 420000.0 0.086490 2.4100-3                   2838200.            M.Boromiza+          (20)D0974  4 
+ 1001 14028  13 601 A  1.5310+7 400000.0 0.082720 2.3100-3                   2838200.            M.Boromiza+          (20)D0974  4 
+ 1001 14028  13 601 A  1.6340+7 380000.0 0.081950 2.2800-3                   2838200.            M.Boromiza+          (20)D0974  4 
+#/DATA      11
+#/DATASET

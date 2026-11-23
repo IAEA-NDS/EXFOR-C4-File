@@ -1,0 +1,35 @@
+#ENTRY      D0275
+#AUTHOR1    C.Granja+
+#YEAR       2004
+#INSTITUTE  (2GERMUN)
+#TITLE      Nuclear structure of 159Gd
+#AUTHOR(S)  C.Granja, S.Pospisil, A.Aprahamian, H.Borner, H.Lehmann, 
+#+          T.von Egidy, H.-F.Wirth, G.Graw, R.Hertenberger, Y.Eisermann, 
+#+          D.Nosek, L.Rubacek, S.A.Telezhnikov
+#REF-CODE   (J,PR/C,70,034316,2004)
+#REFERENCE  Phys.Rev.C 70 (2004) 034316
+#DATASETS   0
+#
+#DATASET    D0275002 
+#DATE       20120502
+#REACTION   64-GD-158(D,P)64-GD-159,PAR,DA
+#PROJ       1002
+#TARG       64158
+#MF         4
+#MT         600
+#PRODUCT    64-GD-159
+#C4BEGIN    [ 1002 64158   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 64158   4 600 A  1.8000+7          4.0387-5 3.6350-6 0.974370          185600.0 250.0000LVLC.Granja+            (04)D0275  2 
+ 1002 64158   4 600 A  1.8000+7          4.7606-5 2.6390-6 0.956305          185600.0 250.0000LVLC.Granja+            (04)D0275  2 
+ 1002 64158   4 600 A  1.8000+7          5.9475-5 2.4570-6 0.933580          185600.0 250.0000LVLC.Granja+            (04)D0275  2 
+ 1002 64158   4 600 A  1.8000+7          8.0363-5 2.8890-6 0.906308          185600.0 250.0000LVLC.Granja+            (04)D0275  2 
+ 1002 64158   4 600 A  1.8000+7          8.4817-5 2.5510-6 0.866025          185600.0 250.0000LVLC.Granja+            (04)D0275  2 
+ 1002 64158   4 600 A  1.8000+7          7.1200-5 1.9630-6 0.819152          185600.0 250.0000LVLC.Granja+            (04)D0275  2 
+ 1002 64158   4 600 A  1.8000+7          4.7408-5 2.1830-6 0.766044          185600.0 250.0000LVLC.Granja+            (04)D0275  2 
+ 1002 64158   4 600 A  1.8000+7          3.3055-5 1.2660-6 0.707107          185600.0 250.0000LVLC.Granja+            (04)D0275  2 
+ 1002 64158   4 600 A  1.8000+7          3.7382-5 1.3760-6 0.573576          185600.0 250.0000LVLC.Granja+            (04)D0275  2 
+#/DATA      9
+#/DATASET

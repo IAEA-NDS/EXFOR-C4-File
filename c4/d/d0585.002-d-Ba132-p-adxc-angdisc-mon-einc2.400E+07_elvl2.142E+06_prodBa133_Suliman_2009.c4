@@ -1,0 +1,34 @@
+#ENTRY      D0585
+#AUTHOR1    G.Suliman+
+#YEAR       2009
+#INSTITUTE  (3RUMBUC)
+#TITLE      Study of the 133Ba nucleus with the (d,p) reaction
+#AUTHOR(S)  G.Suliman, D.Bucurescu, C.Rusu, R.Hertenberger, H.-F.Wirth, 
+#+          T.Faestermann, R.Krucken, K.Wimmer, T.Behrens, V.Bildstein, 
+#+          K.Eppinger, C.Hinke, M.Mahgoub, P.Meierbeck, M.Reithner, 
+#+          S.Schwertel, N.Chauvin
+#REF-CODE   (J,EPJ/A,41,299,2009)
+#REFERENCE  Eur.Phys.J.A 41 (2009) 299
+#DATASETS   0
+#
+#DATASET    D0585002 
+#DATE       20091007
+#REACTION   56-BA-132(D,P)56-BA-133,PAR,DA
+#PROJ       1002
+#TARG       56132
+#MF         4
+#MT         600
+#PRODUCT    56-BA-133
+#C4BEGIN    [ 1002 56132   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 56132   4 600  C 2.4000+7          2.8247-5 3.2946-6 0.994338          2142200.         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          5.9169-5 4.7994-6 0.984503          2142200.         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          5.7133-5 5.8670-6 0.973976          2142200.         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          6.1351-5 4.4993-6 0.960294          2142200.         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          5.9711-5 3.9676-6 0.938493          2142200.         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          5.5174-5 4.8687-6 0.922538          2142200.         LVLG.Suliman+           (09)D0585  2 
+ 1002 56132   4 600  C 2.4000+7          2.7672-5 2.8901-6 0.761538          2142200.         LVLG.Suliman+           (09)D0585  2 
+#/DATA      7
+#/DATASET

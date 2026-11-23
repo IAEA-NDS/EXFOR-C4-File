@@ -1,0 +1,39 @@
+#ENTRY      D5187
+#AUTHOR1    B.A.Nemashkalo+
+#YEAR       1992
+#INSTITUTE  (4UKRKFT)
+#TITLE      Analysis of the partial and total cross sections for
+#+          the reaction 48,50Ti (p,g) 49,51V
+#AUTHOR(S)  B.A.Nemashkalo, K.V.Shebeko, V.K.Sirotkin
+#REF-CODE   (J,YF,55,123,1992)
+#REFERENCE  Yad.Fiz. 55 (1992) 123
+#DATASETS   0
+#
+#DATASET    D5187002 
+#DATE       20210604
+#REACTION   22-TI-48(P,G)23-V-49,PAR,SIG
+#PROJ       1001
+#TARG       22048
+#MF         3
+#MT         900
+#PRODUCT    23-V-49
+#C4BEGIN    [ 1001 22048   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 22048   3 900    1546000.          3.2360-6 1.6260-6                   1996000.         LVLB.A.Nemashkalo+      (92)D5187  2 
+ 1001 22048   3 900    1756000.          5.3020-6 2.3770-6                   1996000.         LVLB.A.Nemashkalo+      (92)D5187  2 
+ 1001 22048   3 900    1944000.          6.9850-6 2.7490-6                   1996000.         LVLB.A.Nemashkalo+      (92)D5187  2 
+ 1001 22048   3 900    2183000.          6.4350-6 2.5030-6                   1996000.         LVLB.A.Nemashkalo+      (92)D5187  2 
+ 1001 22048   3 900    2317000.          9.1020-6 2.3760-6                   1996000.         LVLB.A.Nemashkalo+      (92)D5187  2 
+ 1001 22048   3 900    2532000.          1.0294-5 3.5000-6                   1996000.         LVLB.A.Nemashkalo+      (92)D5187  2 
+ 1001 22048   3 900    2627000.          1.2573-5 3.9970-6                   1996000.         LVLB.A.Nemashkalo+      (92)D5187  2 
+ 1001 22048   3 900    2705000.          7.0980-6 2.7560-6                   1996000.         LVLB.A.Nemashkalo+      (92)D5187  2 
+ 1001 22048   3 900    2856000.          1.2270-5 3.6260-6                   1996000.         LVLB.A.Nemashkalo+      (92)D5187  2 
+ 1001 22048   3 900    2986000.          9.1860-6 2.8780-6                   1996000.         LVLB.A.Nemashkalo+      (92)D5187  2 
+ 1001 22048   3 900    3106000.          7.7230-6 2.6240-6                   1996000.         LVLB.A.Nemashkalo+      (92)D5187  2 
+ 1001 22048   3 900    3188000.          1.3374-5 3.5000-6                   1996000.         LVLB.A.Nemashkalo+      (92)D5187  2 
+ 1001 22048   3 900    3301000.          1.1034-5 2.6220-6                   1996000.         LVLB.A.Nemashkalo+      (92)D5187  2 
+ 1001 22048   3 900    3459000.          1.2459-5 3.2510-6                   1996000.         LVLB.A.Nemashkalo+      (92)D5187  2 
+#/DATA      14
+#/DATASET

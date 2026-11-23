@@ -1,0 +1,38 @@
+#ENTRY      D0890
+#AUTHOR1    H.Hulubei+
+#YEAR       1964
+#INSTITUTE  (3RUMBUC)
+#TITLE      Scattering of protons with energies below 5 MeV on
+#+          Ne-20
+#AUTHOR(S)  H.Hulubei, J.Francz, N.Martalogu, N.Scintei, M.Ivascu, A.Berinde, 
+#+          I.Neamu
+#REF-CODE   (J,JET,18,1248,1964)
+#REFERENCE  J.Exp.Theor.Phys. 18 (1964) 1248
+#DATASETS   0
+#
+#DATASET    D0890004 
+#DATE       20180220
+#REACTION   10-NE-20(P,EL)10-NE-20,,DA
+#PROJ       1001
+#TARG       10020
+#MF         4
+#MT         2
+#PRODUCT    10-NE-20
+#C4BEGIN    [ 1001 10020   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 10020   4   2  C 3650000.          1.100300          0.828158                              H.Hulubei+           (64)D0890  4 
+ 1001 10020   4   2  C 3650000.          0.448180          0.672367                              H.Hulubei+           (64)D0890  4 
+ 1001 10020   4   2  C 3650000.          0.217320          0.472397                              H.Hulubei+           (64)D0890  4 
+ 1001 10020   4   2  C 3650000.          0.136970          0.299873                              H.Hulubei+           (64)D0890  4 
+ 1001 10020   4   2  C 3650000.          0.100360          0.121696                              H.Hulubei+           (64)D0890  4 
+ 1001 10020   4   2  C 3650000.          0.080890         -0.037167                              H.Hulubei+           (64)D0890  4 
+ 1001 10020   4   2  C 3650000.          0.071112         -0.230389                              H.Hulubei+           (64)D0890  4 
+ 1001 10020   4   2  C 3650000.          0.066106         -0.382522                              H.Hulubei+           (64)D0890  4 
+ 1001 10020   4   2  C 3650000.          0.073742         -0.525769                              H.Hulubei+           (64)D0890  4 
+ 1001 10020   4   2  C 3650000.          0.086228         -0.686326                              H.Hulubei+           (64)D0890  4 
+ 1001 10020   4   2  C 3650000.          0.096959         -0.790583                              H.Hulubei+           (64)D0890  4 
+ 1001 10020   4   2  C 3650000.          0.141330         -0.953454                              H.Hulubei+           (64)D0890  4 
+#/DATA      12
+#/DATASET

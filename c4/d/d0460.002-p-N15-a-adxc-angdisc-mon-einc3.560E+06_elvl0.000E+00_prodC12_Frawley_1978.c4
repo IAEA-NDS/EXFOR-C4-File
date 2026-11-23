@@ -1,0 +1,32 @@
+#ENTRY      D0460
+#AUTHOR1    A.D.Frawley+
+#YEAR       1978
+#INSTITUTE  (3AULCBR)
+#TITLE      Energy Levels of 16O Near 15 MeV Excitation from
+#+          15N + p Reactions
+#AUTHOR(S)  A.D.Frawley, K.H.Bray, T.R.Ophel
+#REF-CODE   (J,NP/A,294,161,1978)
+#REFERENCE  Nucl.Phys.A 294 (1978) 161
+#DATASETS   0
+#
+#DATASET    D0460002 
+#DATE       20080410
+#REACTION   7-N-15(P,A)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       7015
+#MF         4
+#MT         800
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  7015   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7015   4 800  C 3560000.          0.024025          0.910005          0.000000         LVLA.D.Frawley+         (78)D0460  2 
+ 1001  7015   4 800  C 3560000.          7.9712-3          0.806806          0.000000         LVLA.D.Frawley+         (78)D0460  2 
+ 1001  7015   4 800  C 3560000.          3.9402-3         -0.750688          0.000000         LVLA.D.Frawley+         (78)D0460  2 
+ 1001  7015   4 800  C 3560000.          0.014108         -0.830499          0.000000         LVLA.D.Frawley+         (78)D0460  2 
+ 1001  7015   4 800  C 3560000.          0.024273         -0.882702          0.000000         LVLA.D.Frawley+         (78)D0460  2 
+ 1001  7015   4 800  C 3560000.          0.035570         -0.936427          0.000000         LVLA.D.Frawley+         (78)D0460  2 
+ 1001  7015   4 800  C 3560000.          0.043197         -0.968453          0.000000         LVLA.D.Frawley+         (78)D0460  2 
+#/DATA      7
+#/DATASET

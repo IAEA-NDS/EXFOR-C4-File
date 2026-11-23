@@ -1,0 +1,37 @@
+#ENTRY      D0392
+#AUTHOR1    H.Beaumevieille+
+#YEAR       1969
+#INSTITUTE  (3ALGCDT)
+#TITLE      Study of the 14N(d,d)14N and 14N(d,p)15N angular
+#+          distributions and excited states of 15N
+#AUTHOR(S)  H.Beaumevieille, M.Lambert, M.Yaker, A.Amokrane, Nguyen van Sen
+#REF-CODE   (J,NP/A,125,568,1969)
+#REFERENCE  Nucl.Phys.A 125 (1969) 568
+#DATASETS   0
+#
+#DATASET    D0392007 
+#DATE       20050314
+#REACTION   7-N-14(D,P)7-N-15,PAR,DA
+#PROJ       1002
+#TARG       7014
+#MF         4
+#MT         600
+#PRODUCT    7-N-15
+#C4BEGIN    [ 1002  7014   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  7014   4 600  C 2000000.          9.3474-3          0.662698          7310000.         LVLH.Beaumevieille+     (69)D0392  7 
+ 1002  7014   4 600  C 2000000.          3.5069-3          0.550146          7310000.         LVLH.Beaumevieille+     (69)D0392  7 
+ 1002  7014   4 600  C 2000000.          4.3500-3          0.255817          7310000.         LVLH.Beaumevieille+     (69)D0392  7 
+ 1002  7014   4 600  C 2000000.          5.9917-3          0.089816          7310000.         LVLH.Beaumevieille+     (69)D0392  7 
+ 1002  7014   4 600  C 2000000.          6.4952-3         -0.078929          7310000.         LVLH.Beaumevieille+     (69)D0392  7 
+ 1002  7014   4 600  C 2000000.          8.9644-3         -0.391855          7310000.         LVLH.Beaumevieille+     (69)D0392  7 
+ 1002  7014   4 600  C 2000000.          8.9794-3         -0.535090          7310000.         LVLH.Beaumevieille+     (69)D0392  7 
+ 1002  7014   4 600  C 2000000.          8.9925-3         -0.648386          7310000.         LVLH.Beaumevieille+     (69)D0392  7 
+ 1002  7014   4 600  C 2000000.          0.010144         -0.748724          7310000.         LVLH.Beaumevieille+     (69)D0392  7 
+ 1002  7014   4 600  C 2000000.          9.1806-3         -0.830499          7310000.         LVLH.Beaumevieille+     (69)D0392  7 
+ 1002  7014   4 600  C 2000000.          0.010004         -0.887815          7310000.         LVLH.Beaumevieille+     (69)D0392  7 
+ 1002  7014   4 600  C 2000000.          0.010500         -0.923478          7310000.         LVLH.Beaumevieille+     (69)D0392  7 
+#/DATA      12
+#/DATASET

@@ -1,0 +1,40 @@
+#ENTRY      D6109
+#AUTHOR1    H.Kumawat+
+#YEAR       2010
+#INSTITUTE  (3INDTRM)
+#TITLE      Inclusive alpha-production cross section for the 6Li +
+#+          90Zr system at energies near the fusion barrier
+#AUTHOR(S)  H.Kumawat, V.Jha, V.V.Parkar, B.J.Roy, S.Santra, V.Kumar, 
+#+          D.Dutta, P.Shukla, L.M.Pant, A.K.Mohanty, R.K.Choudhury, 
+#+          S.Kailas
+#REF-CODE   (J,PR/C,81,054601,2010)
+#REFERENCE  Phys.Rev.C 81 (2010) 054601
+#DATASETS   0
+#
+#DATASET    D6109003 
+#DATE       20110224
+#REACTION   40-ZR-90(3-LI-6,X)2-HE-4,,DA
+#PROJ       3006
+#TARG       40090
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 3006 40090   4 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 40090   4 207  C 1.5000+7          6.5750-3 2.9730-4-0.570427                              H.Kumawat+           (10)D6109  3 
+ 3006 40090   4 207  C 1.5000+7          7.3636-3 3.3490-4-0.637827                              H.Kumawat+           (10)D6109  3 
+ 3006 40090   4 207  C 1.5000+7          7.7151-3 4.2100-4-0.669779                              H.Kumawat+           (10)D6109  3 
+ 3006 40090   4 207  C 1.5000+7          7.7457-3 3.1890-4-0.700536                              H.Kumawat+           (10)D6109  3 
+ 3006 40090   4 207  C 1.5000+7          8.6693-3 4.1520-4-0.729924                              H.Kumawat+           (10)D6109  3 
+ 3006 40090   4 207  C 1.5000+7          7.6141-3 3.3520-4-0.757907                              H.Kumawat+           (10)D6109  3 
+ 3006 40090   4 207  C 1.5000+7          8.2691-3 3.9310-4-0.784668                              H.Kumawat+           (10)D6109  3 
+ 3006 40090   4 207  C 1.5000+7          7.2442-3 2.8380-4-0.809837                              H.Kumawat+           (10)D6109  3 
+ 3006 40090   4 207  C 1.5000+7          8.3941-3 2.9880-4-0.809837                              H.Kumawat+           (10)D6109  3 
+ 3006 40090   4 207  C 1.5000+7          8.4524-3 3.6960-4-0.833693                              H.Kumawat+           (10)D6109  3 
+ 3006 40090   4 207  C 1.5000+7          7.8490-3 2.8280-4-0.855997                              H.Kumawat+           (10)D6109  3 
+ 3006 40090   4 207  C 1.5000+7          8.8725-3 3.2720-4-0.855997                              H.Kumawat+           (10)D6109  3 
+ 3006 40090   4 207  C 1.5000+7          7.4875-3 3.1040-4-0.876811                              H.Kumawat+           (10)D6109  3 
+#/DATA      13
+#/DATASET

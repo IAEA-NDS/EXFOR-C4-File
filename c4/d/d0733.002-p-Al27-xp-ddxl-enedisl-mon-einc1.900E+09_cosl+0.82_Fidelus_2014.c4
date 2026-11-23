@@ -1,0 +1,35 @@
+#ENTRY      D0733
+#AUTHOR1    M.Fidelus+
+#YEAR       2014
+#INSTITUTE  (3POLUJK)
+#TITLE      Sequential and simultaneous emission of particles from
+#+          p+Al collisions at GeV energies
+#AUTHOR(S)  M.Fidelus, D.Filges, F.Goldenbaum, H.Hodde, A.Jany, L.Jarczyk, 
+#+          B.Kamys, M.Kistryn, St.Kistryn, St.Kliczewski, E.Kozik, 
+#+          P.Kulessa, H.Machner, A.Magiera, B.Piskor-Ignatowicz, K.Pysz, 
+#+          Z.Rudy, Sushil K.Sharma, R.Siudak, M.Wojciechowski
+#REF-CODE   (J,PR/C,89,054617,2014)
+#REFERENCE  Phys.Rev.C 89 (2014) 054617
+#DATASETS   0
+#
+#DATASET    D0733002 
+#DATE       20141209
+#REACTION   13-AL-27(P,X)1-H-1,,DA/DE
+#PROJ       1001
+#TARG       13027
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001 13027   6 203 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   6 203 A  1.9000+9          6.4000-9 1.300-10 0.819152          3500000.          E2M.Fidelus+           (14)D0733  2 
+ 1001 13027   6 203 A  1.9000+9          4.5560-9 9.000-11 0.819152          6000000.          E2M.Fidelus+           (14)D0733  2 
+ 1001 13027   6 203 A  1.9000+9          2.8920-9 8.700-11 0.819152          1.0500+7          E2M.Fidelus+           (14)D0733  2 
+ 1001 13027   6 203 A  1.9000+9          2.2920-9 7.800-11 0.819152          1.3500+7          E2M.Fidelus+           (14)D0733  2 
+ 1001 13027   6 203 A  1.9000+9          1.9340-9 7.100-11 0.819152          1.6500+7          E2M.Fidelus+           (14)D0733  2 
+ 1001 13027   6 203 A  1.9000+9          1.7210-9 6.700-11 0.819152          1.9500+7          E2M.Fidelus+           (14)D0733  2 
+ 1001 13027   6 203 A  1.9000+9          1.5800-9 5.300-11 0.819152          2.2000+7          E2M.Fidelus+           (14)D0733  2 
+#/DATA      7
+#/DATASET

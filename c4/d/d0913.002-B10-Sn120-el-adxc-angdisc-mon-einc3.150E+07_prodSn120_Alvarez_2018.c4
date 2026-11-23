@@ -1,0 +1,49 @@
+#ENTRY      D0913
+#AUTHOR1    M.A.G.Alvarez+
+#YEAR       2018
+#INSTITUTE  (2SPNSEU)
+#TITLE      Elastic scattering, inelastic excitation, and 1n
+#+          pick-up transfer cross sections for 10B + 120Sn
+#+          at energies near the Coulomb barrier
+#AUTHOR(S)  M.A.G.Alvarez, M.Rodriguez-Gallardo, L.R.Gasques, L.C.Chamon, 
+#+          J.R.B.Oliveira, V.Scarduelli, A.S.Freitas, E.S.Rossi Jr, 
+#+          V.A.B.Zagatto, J.Rangel, J.Lubian, I.Padron
+#REF-CODE   (J,PR/C,98,024621,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 024621
+#DATASETS   0
+#
+#DATASET    D0913002 
+#DATE       20180913
+#REACTION   50-SN-120(5-B-10,EL)50-SN-120,,DA,,RTH
+#PROJ       5010
+#TARG       50120
+#MF         4
+#MT         2
+#PRODUCT    50-SN-120
+#C4BEGIN    [ 5010 50120   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 5010 50120   4   2  C 3.1500+7          2.295072 0.011054 0.592013                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.1500+7          1.634225 0.011152 0.516533                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.1500+7          1.223240 0.010031 0.436802                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.1500+7          0.922285 8.5286-3 0.353475                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.1500+7          0.725616 9.8519-3 0.267238                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.1500+7          0.387830 5.0954-3 3.4907-3                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.1500+7          0.331440 3.0683-3-0.083678                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.1500+7          0.277685 2.7992-3-0.170209                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.1500+7          0.238397 2.8288-3-0.253758                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.1500+7          0.214851 2.8372-3-0.335452                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.1500+7          0.192854 1.5514-3-0.414693                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.1500+7          0.171405 1.7108-3-0.489382                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.1500+7          0.157369 1.6368-3-0.560639                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.1500+7          0.145635 1.7212-3-0.627963                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.1500+7          0.134207 1.9038-3-0.690882                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.1500+7          0.119949 2.5975-3-0.747798                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.1500+7          0.113097 1.5859-3-0.799685                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.1500+7          0.104224 1.5423-3-0.845262                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.1500+7          0.099221 1.8316-3-0.886204                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.1500+7          0.092071 1.5070-3-0.920505                              M.A.G.Alvarez+       (18)D0913  2 
+ 5010 50120   4   2  C 3.1500+7          0.088976 1.8267-3-0.948876                              M.A.G.Alvarez+       (18)D0913  2 
+#/DATA      21
+#/DATASET

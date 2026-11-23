@@ -1,0 +1,35 @@
+#ENTRY      D5018
+#AUTHOR1    B.A.Nemashkalo+
+#YEAR       2005
+#INSTITUTE  (4UKRKFT)
+#TITLE      Partial cross sections for 66Zn(p,g)67Ga reaction
+#AUTHOR(S)  B.A.Nemashkalo, K.B.Shebeko, S.N.Utenkov
+#REF-CODE   (J,BAS,69,1809,2005)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 69 (2005) 1809
+#DATASETS   0
+#
+#DATASET    D5018002 
+#DATE       20070131
+#REACTION   30-ZN-66(P,G)31-GA-67,PAR,SIG
+#PROJ       1001
+#TARG       30066
+#MF         3
+#MT         900
+#PRODUCT    31-GA-67
+#C4BEGIN    [ 1001 30066   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30066   3 900    1751500.          5.7749-6 1.7964-6                   0.000000         LVLB.A.Nemashkalo+      (05)D5018  2 
+ 1001 30066   3 900    1928400.          1.7144-5 3.6609-6                   0.000000         LVLB.A.Nemashkalo+      (05)D5018  2 
+ 1001 30066   3 900    2087800.          2.9215-5 5.3303-6                   0.000000         LVLB.A.Nemashkalo+      (05)D5018  2 
+ 1001 30066   3 900    2191800.          2.5255-5 5.9892-6                   0.000000         LVLB.A.Nemashkalo+      (05)D5018  2 
+ 1001 30066   3 900    2316300.          3.9033-5 8.6377-6                   0.000000         LVLB.A.Nemashkalo+      (05)D5018  2 
+ 1001 30066   3 900    2398400.          4.2537-5 1.1812-5                   0.000000         LVLB.A.Nemashkalo+      (05)D5018  2 
+ 1001 30066   3 900    2500100.          5.6645-5 1.2091-5                   0.000000         LVLB.A.Nemashkalo+      (05)D5018  2 
+ 1001 30066   3 900    2596200.          7.1629-5 1.6993-5                   0.000000         LVLB.A.Nemashkalo+      (05)D5018  2 
+ 1001 30066   3 900    2690000.          8.0124-5 2.0296-5                   0.000000         LVLB.A.Nemashkalo+      (05)D5018  2 
+ 1001 30066   3 900    2845500.          9.4524-5 1.9438-5                   0.000000         LVLB.A.Nemashkalo+      (05)D5018  2 
+ 1001 30066   3 900    2927700.          1.0104-4 3.0579-5                   0.000000         LVLB.A.Nemashkalo+      (05)D5018  2 
+#/DATA      11
+#/DATASET

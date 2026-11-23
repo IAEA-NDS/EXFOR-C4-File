@@ -1,0 +1,38 @@
+#ENTRY      D1004
+#AUTHOR1    O.C.B.Santos+
+#YEAR       2021
+#INSTITUTE  (3BZLUSP)
+#TITLE      Evidence of the effect of strong stripping channels
+#+          on the dynamics of the 8Li+58Ni reaction
+#AUTHOR(S)  O.C.B.Santos, R.Lichtenthaeler, K.C.C.Pires, U.Umbelino, 
+#+          E.O.N.Zevallos, A.L.De Lara, A.S.Serra, V.Scarduelli, J.Alcantara-Nunez, 
+#+          V.Guimaraes, A.Lepine-Szily, J.C.Zamora, A.M.Moro, S.Appannababu, 
+#+          M.Assuncao, A.Barioni, R.Linares, V.A.B.Zagatto, P.N.de Faria, 
+#+          M.C.Morais, V.Morcelle, J.M.B.Shorto, J.Lei
+#REF-CODE   (J,PR/C,103,064601,2021)
+#REFERENCE  Phys.Rev.C 103 (2021) 064601
+#DATASETS   0
+#
+#DATASET    D1004002 
+#DATE       20210629
+#REACTION   28-NI-58(3-LI-8,EL)28-NI-58,,DA,,RTH
+#PROJ       3008
+#TARG       28058
+#MF         4
+#MT         2
+#PRODUCT    28-NI-58
+#C4BEGIN    [ 3008 28058   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3008 28058   4   2 AC 3.0000+7          11.67997 0.627581 0.932677                              O.C.B.Santos+        (21)D1004  2 
+ 3008 28058   4   2 AC 3.0000+7          3.710349 0.198230 0.889440                              O.C.B.Santos+        (21)D1004  2 
+ 3008 28058   4   2 AC 3.0000+7          1.233923 0.068207 0.840359                              O.C.B.Santos+        (21)D1004  2 
+ 3008 28058   4   2 AC 3.0000+7          0.400869 0.024773 0.783715                              O.C.B.Santos+        (21)D1004  2 
+ 3008 28058   4   2 AC 3.0000+7          0.146033 0.020004 0.718940                              O.C.B.Santos+        (21)D1004  2 
+ 3008 28058   4   2 AC 3.0000+7          0.056517 0.010885 0.645284                              O.C.B.Santos+        (21)D1004  2 
+ 3008 28058   4   2 AC 3.0000+7          0.019094 2.4375-3 0.490767                              O.C.B.Santos+        (21)D1004  2 
+ 3008 28058   4   2 AC 3.0000+7          0.014180 1.7911-3 0.405939                              O.C.B.Santos+        (21)D1004  2 
+ 3008 28058   4   2 AC 3.0000+7          4.6441-3 1.1327-3 0.318066                              O.C.B.Santos+        (21)D1004  2 
+#/DATA      9
+#/DATASET

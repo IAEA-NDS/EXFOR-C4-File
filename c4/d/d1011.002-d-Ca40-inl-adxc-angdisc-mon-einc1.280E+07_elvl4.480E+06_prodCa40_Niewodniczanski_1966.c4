@@ -1,0 +1,40 @@
+#ENTRY      D1011
+#AUTHOR1    H.Niewodniczanski+
+#YEAR       1966
+#INSTITUTE  (3POLIFJ)
+#TITLE      The 40Ca(d,d), (d,d') and (d,p) reactions at deuteron
+#+          energy 12.8 MeV
+#AUTHOR(S)  H.Niewodniczanski, J.Nurzynski, A.Strzalkowski, G.R.Satchler
+#REF-CODE   (R,INP-442,1966)
+#REFERENCE  Report INP-442, 1966
+#DATASETS   0
+#
+#DATASET    D1011002 
+#DATE       20220208
+#REACTION   20-CA-40(D,INL)20-CA-40,PAR,DA
+#PROJ       1002
+#TARG       20040
+#MF         4
+#MT         651
+#PRODUCT    20-CA-40
+#C4BEGIN    [ 1002 20040   4 651  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 20040   4 651  C 1.2800+7          5.1600-4 3.7000-5 0.739631          4480000.         LVLH.Niewodniczanski+   (66)D1011  2 
+ 1002 20040   4 651  C 1.2800+7          3.4400-4 2.4000-5 0.674302          4480000.         LVLH.Niewodniczanski+   (66)D1011  2 
+ 1002 20040   4 651  C 1.2800+7          3.3400-4 2.1000-5 0.604599          4480000.         LVLH.Niewodniczanski+   (66)D1011  2 
+ 1002 20040   4 651  C 1.2800+7          3.1100-4 1.9000-5 0.529919          4480000.         LVLH.Niewodniczanski+   (66)D1011  2 
+ 1002 20040   4 651  C 1.2800+7          3.2700-4 2.1000-5 0.452435          4480000.         LVLH.Niewodniczanski+   (66)D1011  2 
+ 1002 20040   4 651  C 1.2800+7          2.6600-4 1.8000-5 0.369747          4480000.         LVLH.Niewodniczanski+   (66)D1011  2 
+ 1002 20040   4 651  C 1.2800+7          1.8400-4 1.3000-5 0.285688          4480000.         LVLH.Niewodniczanski+   (66)D1011  2 
+ 1002 20040   4 651  C 1.2800+7          2.1300-4 1.8000-5 0.199368          4480000.         LVLH.Niewodniczanski+   (66)D1011  2 
+ 1002 20040   4 651  C 1.2800+7          2.1900-4 1.8000-5 0.111469          4480000.         LVLH.Niewodniczanski+   (66)D1011  2 
+ 1002 20040   4 651  C 1.2800+7          1.9300-4 1.6000-5 0.024432          4480000.         LVLH.Niewodniczanski+   (66)D1011  2 
+ 1002 20040   4 651  C 1.2800+7          1.9700-4 1.6000-5-0.062791          4480000.         LVLH.Niewodniczanski+   (66)D1011  2 
+ 1002 20040   4 651  C 1.2800+7          1.7600-4 1.5000-5-0.149535          4480000.         LVLH.Niewodniczanski+   (66)D1011  2 
+ 1002 20040   4 651  C 1.2800+7          1.1500-4 1.1000-5-0.235142          4480000.         LVLH.Niewodniczanski+   (66)D1011  2 
+ 1002 20040   4 651  C 1.2800+7          1.0500-4 1.0000-5-0.317305          4480000.         LVLH.Niewodniczanski+   (66)D1011  2 
+ 1002 20040   4 651  C 1.2800+7          1.2000-4 1.1000-5-0.397148          4480000.         LVLH.Niewodniczanski+   (66)D1011  2 
+#/DATA      15
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      D0135
+#AUTHOR1    U.Fasoli+
+#YEAR       1964
+#INSTITUTE  (2ITYPAD)
+#TITLE      The elastic scattering of protons by 6Li in the
+#+          energy range (1.3-5.6) MeV
+#AUTHOR(S)  U.Fasoli, E.A.Silverstein, D.Toniolo, G.Zago
+#REF-CODE   (J,NC,34,1832,1964)
+#REFERENCE  Nuovo Cim. 34 (1964) 1832
+#DATASETS   0
+#
+#DATASET    D0135003 
+#DATE       20040228
+#REACTION   3-LI-6(P,EL)3-LI-6,,DA
+#PROJ       1001
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 1001  3006   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3006   4   2  C 4470000. 10000.00 0.127860 1.9179-3 0.588050                              U.Fasoli+            (64)D0135  3 
+ 1001  3006   4   2  C 4470000. 10000.00 0.088539 1.3281-3 0.346970                              U.Fasoli+            (64)D0135  3 
+ 1001  3006   4   2  C 4470000. 10000.00 0.067024 1.0054-3 0.010692                              U.Fasoli+            (64)D0135  3 
+ 1001  3006   4   2  C 4470000. 10000.00 0.057289 8.5934-4-0.329930                              U.Fasoli+            (64)D0135  3 
+ 1001  3006   4   2  C 4470000. 10000.00 0.054938 8.2407-4-0.570050                              U.Fasoli+            (64)D0135  3 
+ 1001  3006   4   2  C 4470000. 10000.00 0.055616 8.3424-4-0.763350                              U.Fasoli+            (64)D0135  3 
+ 1001  3006   4   2  C 4470000. 10000.00 0.055944 8.3916-4-0.864320                              U.Fasoli+            (64)D0135  3 
+ 1001  3006   4   2  C 4470000. 10000.00 0.064418 9.6627-4-0.967310                              U.Fasoli+            (64)D0135  3 
+#/DATA      8
+#/DATASET

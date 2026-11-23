@@ -1,0 +1,35 @@
+#ENTRY      D0511
+#AUTHOR1    W.W.Daehnick+
+#YEAR       1964
+#INSTITUTE  (1USAPTN)
+#TITLE      Energy dependence of elastic and inelastic
+#+          scattering from C12 for protons between 14 and 19 MeV
+#AUTHOR(S)  W.W.Daehnick, R.Sherr
+#REF-CODE   (J,PR,133,(4B),B934,1964)
+#REFERENCE  Phys.Rev. 133 No.4B (1964) B934
+#DATASETS   0
+#
+#DATASET    D0511005 
+#DATE       20080825
+#REACTION   6-C-12(P,INL)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         601
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 601    1.4800+7          2.4968-3 4.5304-4 0.973195 8.0279-4 7660000.         LVLW.W.Daehnick+        (64)D0511  5 
+ 1001  6012   4 601    1.4800+7          1.7019-3 3.7367-4 0.916579 1.3958-3 7660000.         LVLW.W.Daehnick+        (64)D0511  5 
+ 1001  6012   4 601    1.4800+7          6.8552-4 2.7887-4 0.720975 2.4189-3 7660000.         LVLW.W.Daehnick+        (64)D0511  5 
+ 1001  6012   4 601    1.4800+7          4.4504-4 9.7686-5 0.510558 3.0014-3 7660000.         LVLW.W.Daehnick+        (64)D0511  5 
+ 1001  6012   4 601    1.4800+7          2.4485-4 6.0925-5 0.353328 3.2655-3 7660000.         LVLW.W.Daehnick+        (64)D0511  5 
+ 1001  6012   4 601    1.4800+7          2.0033-4 4.5918-5 0.180279 3.4335-3 7660000.         LVLW.W.Daehnick+        (64)D0511  5 
+ 1001  6012   4 601    1.4800+7          3.0443-4 6.6821-5 3.4557-3 3.4906-3 7660000.         LVLW.W.Daehnick+        (64)D0511  5 
+ 1001  6012   4 601    1.4800+7          3.8242-4 9.1426-5-0.165168 3.4427-3 7660000.         LVLW.W.Daehnick+        (64)D0511  5 
+ 1001  6012   4 601    1.4800+7          5.2835-4 1.1597-4-0.336767 3.2868-3 7660000.         LVLW.W.Daehnick+        (64)D0511  5 
+ 1001  6012   4 601    1.4800+7          7.0569-4 3.1910-4-0.633246 2.7016-3 7660000.         LVLW.W.Daehnick+        (64)D0511  5 
+#/DATA      10
+#/DATASET

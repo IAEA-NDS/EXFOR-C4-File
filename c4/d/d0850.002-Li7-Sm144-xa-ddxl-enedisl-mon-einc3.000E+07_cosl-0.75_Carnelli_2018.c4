@@ -1,0 +1,36 @@
+#ENTRY      D0850
+#AUTHOR1    P.F.F.Carnelli+
+#YEAR       2018
+#INSTITUTE  (3ARGCNE)
+#TITLE      Inclusive and exclusive measurements of alpha particle
+#+          production mechanisms in the 7Li +144Sm system
+#AUTHOR(S)  P.F.F.Carnelli, D.Martinez Heimann, A.J.Pacheco, A.Arazi, 
+#+          O.A.Capurro, J.O.Fernandez Niello, M.A.Cardona, E.de Barbara, 
+#+          J.M.Figueira, D.L.Hojman, G.V.Marti, A.E.Negri
+#REF-CODE   (J,NP/A,969,94,2018)
+#REFERENCE  Nucl.Phys.A 969 (2018) 94
+#DATASETS   0
+#
+#DATASET    D0850002 
+#DATE       20171211
+#REACTION   62-SM-144(3-LI-7,X)2-HE-4,,DA/DE
+#PROJ       3007
+#TARG       62144
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 3007 62144   6 207 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 62144   6 207 A  3.0000+7          7.000-11 1.100-10-0.747798          1.0500+7          E2P.F.F.Carnelli+      (18)D0850  2 
+ 3007 62144   6 207 A  3.0000+7          3.400-10 1.400-10-0.747798          1.1500+7          E2P.F.F.Carnelli+      (18)D0850  2 
+ 3007 62144   6 207 A  3.0000+7          4.000-10 1.300-10-0.747798          1.2500+7          E2P.F.F.Carnelli+      (18)D0850  2 
+ 3007 62144   6 207 A  3.0000+7          6.000-10 1.500-10-0.747798          1.3500+7          E2P.F.F.Carnelli+      (18)D0850  2 
+ 3007 62144   6 207 A  3.0000+7          7.600-10 1.600-10-0.747798          1.4500+7          E2P.F.F.Carnelli+      (18)D0850  2 
+ 3007 62144   6 207 A  3.0000+7          3.900-10 1.200-10-0.747798          1.5500+7          E2P.F.F.Carnelli+      (18)D0850  2 
+ 3007 62144   6 207 A  3.0000+7          1.200-10 7.000-11-0.747798          1.6500+7          E2P.F.F.Carnelli+      (18)D0850  2 
+ 3007 62144   6 207 A  3.0000+7          1.100-10 6.000-11-0.747798          1.7500+7          E2P.F.F.Carnelli+      (18)D0850  2 
+ 3007 62144   6 207 A  3.0000+7          2.000-11 2.000-11-0.747798          1.8500+7          E2P.F.F.Carnelli+      (18)D0850  2 
+#/DATA      9
+#/DATASET

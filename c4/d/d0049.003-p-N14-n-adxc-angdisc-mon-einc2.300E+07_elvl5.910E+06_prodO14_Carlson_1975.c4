@@ -1,0 +1,36 @@
+#ENTRY      D0049
+#AUTHOR1    J.D.Carlson+
+#YEAR       1975
+#INSTITUTE  (1USAOHO)
+#TITLE      Optical model analysis of quasielastic (p,n) reactions
+#+          at 22.8 MeV
+#AUTHOR(S)  J.D.Carlson, C.D.Zafiratos, D.A.Lind
+#REF-CODE   (J,NP/A,249,29,1975)
+#REFERENCE  Nucl.Phys.A 249 (1975) 29
+#DATASETS   0
+#
+#DATASET    D0049003 
+#DATE       20060726
+#REACTION   7-N-14(P,N)8-O-14,PAR,DA
+#PROJ       1001
+#TARG       7014
+#MF         4
+#MT         50
+#PRODUCT    8-O-14
+#C4BEGIN    [ 1001  7014   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7014   4  50  C 2.3000+7          5.9530-4 1.0770-4 0.981326          5910000.         LVLJ.D.Carlson+         (75)D0049  3 
+ 1001  7014   4  50  C 2.3000+7          7.4950-4 1.2380-4 0.947098          5910000.         LVLJ.D.Carlson+         (75)D0049  3 
+ 1001  7014   4  50  C 2.3000+7          5.6900-4 1.2040-4 0.885799          5910000.         LVLJ.D.Carlson+         (75)D0049  3 
+ 1001  7014   4  50  C 2.3000+7          5.6910-4 1.1840-4 0.498034          5910000.         LVLJ.D.Carlson+         (75)D0049  3 
+ 1001  7014   4  50  C 2.3000+7          1.0340-3 8.9000-5 0.404024          5910000.         LVLJ.D.Carlson+         (75)D0049  3 
+ 1001  7014   4  50  C 2.3000+7          5.8520-4 6.1500-5 0.304864          5910000.         LVLJ.D.Carlson+         (75)D0049  3 
+ 1001  7014   4  50  C 2.3000+7          4.4780-4 5.4400-5 0.201420          5910000.         LVLJ.D.Carlson+         (75)D0049  3 
+ 1001  7014   4  50  C 2.3000+7          1.8530-4 2.1100-5-0.012915          5910000.         LVLJ.D.Carlson+         (75)D0049  3 
+ 1001  7014   4  50  C 2.3000+7          2.6840-4 3.9300-5-0.531546          5910000.         LVLJ.D.Carlson+         (75)D0049  3 
+ 1001  7014   4  50  C 2.3000+7          1.4170-4 1.7400-5-0.715936          5910000.         LVLJ.D.Carlson+         (75)D0049  3 
+ 1001  7014   4  50  C 2.3000+7          1.5220-4 2.3200-5-0.782065          5910000.         LVLJ.D.Carlson+         (75)D0049  3 
+#/DATA      11
+#/DATASET

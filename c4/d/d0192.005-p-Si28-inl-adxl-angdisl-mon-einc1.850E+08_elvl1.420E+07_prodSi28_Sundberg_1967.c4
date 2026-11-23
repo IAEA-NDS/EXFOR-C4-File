@@ -1,0 +1,30 @@
+#ENTRY      D0192
+#AUTHOR1    O.Sundberg+
+#YEAR       1967
+#INSTITUTE  (2SWDUPP)
+#TITLE      Excited levels of 28Si investigated by inelastic
+#+          scattering of 185 MeV protons
+#AUTHOR(S)  O.Sundberg, A.Johansson, G.Tibell, S.Dahlgren, D.Hasselgren, 
+#+          B.Hoistad, A.Ingemarsson, P.-U.Renberg
+#REF-CODE   (J,NP/A,101,481,1967)
+#REFERENCE  Nucl.Phys.A 101 (1967) 481
+#DATASETS   0
+#
+#DATASET    D0192005 
+#DATE       20050507
+#REACTION   14-SI-28(P,INL)14-SI-28,PAR,DA
+#PROJ       1001
+#TARG       14028
+#MF         4
+#MT         601
+#PRODUCT    14-SI-28
+#C4BEGIN    [ 1001 14028   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 14028   4 601    1.8500+8          5.9253-4 8.2989-5 0.906330          1.4200+7 80000.00LVLO.Sundberg+          (67)D0192  5 
+ 1001 14028   4 601    1.8500+8          6.5862-4 7.0421-5 0.865825          1.4200+7 80000.00LVLO.Sundberg+          (67)D0192  5 
+ 1001 14028   4 601    1.8500+8          6.4137-4 7.2936-5 0.843016          1.4200+7 80000.00LVLO.Sundberg+          (67)D0192  5 
+ 1001 14028   4 601    1.8500+8          1.9975-4 4.0234-5 0.766504          1.4200+7 80000.00LVLO.Sundberg+          (67)D0192  5 
+#/DATA      4
+#/DATASET

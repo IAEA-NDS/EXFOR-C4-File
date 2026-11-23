@@ -1,0 +1,43 @@
+#ENTRY      D1038
+#AUTHOR1    T.Giudice+
+#YEAR       2023
+#INSTITUTE  (3ARGCNE)
+#TITLE      Study of the threshold anomaly in the elastic
+#+          scattering of d+ 197 Au
+#AUTHOR(S)  T.Giudice, D.Abriola, A.Arazi, E.De Barbara, M A.Cardona, 
+#+          J.Gomez, D.Hojman, R M.Id Betan, M S.Kohen, N.Llaneza, G V.Marti, 
+#+          B.Paes, D.Schneider, H.Soler, J.Lubian
+#REF-CODE   (J,JP/G,50,045103,2023)
+#REFERENCE  J.Phys.G 50 (2023) 045103
+#DATASETS   0
+#
+#DATASET    D1038002 
+#DATE       20230222
+#REACTION   79-AU-197(D,EL)79-AU-197,,DA,,RTH
+#PROJ       1002
+#TARG       79197
+#MF         4
+#MT         2
+#PRODUCT    79-AU-197
+#C4BEGIN    [ 1002 79197   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 79197   4   2 AC 9000000.          44.28101 0.900021 0.904827                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 9000000.          12.10590 0.241154 0.816138                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 9000000.          7.118058 0.143365 0.761538                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 9000000.          4.617738 0.091895 0.702153                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 9000000.          3.063433 0.062013 0.637424                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 9000000.          1.583728 0.031643 0.492424                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 9000000.          0.909252 0.018369 0.333807                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 9000000.          0.551426 0.011063 0.163326                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 9000000.          0.372063 7.5850-3-0.010472                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 9000000.          0.258514 5.2342-3-0.183951                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 9000000.          0.197875 4.0246-3-0.350207                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 9000000.          0.146533 3.0490-3-0.507538                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 9000000.          0.124102 2.5511-3-0.648120                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 9000000.          0.098044 2.4706-3-0.770513                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 9000000.          0.077908 1.7313-3-0.940881                              T.Giudice+           (23)D1038  2 
+ 1002 79197   4   2 AC 9000000.          0.077410 1.8678-3-0.981959                              T.Giudice+           (23)D1038  2 
+#/DATA      16
+#/DATASET

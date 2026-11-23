@@ -1,0 +1,35 @@
+#ENTRY      D0389
+#AUTHOR1    G.Corleo+
+#YEAR       1968
+#INSTITUTE  (2ITYCAT)
+#TITLE      Differential absolute cross-section for the nuclear
+#+          reactions 27Al(d,p)28Al and 27Al(d,alpha)25Mg
+#+          at Theta(lab.) = 90 degr.
+#AUTHOR(S)  G.Corleo, S.Sambataro
+#REF-CODE   (J,NC/B,56,83,1968)
+#REFERENCE  Nuovo Cim.B 56 (1968) 83
+#DATASETS   0
+#
+#DATASET    D0389005 
+#DATE       20060307
+#REACTION   13-AL-27(D,P)13-AL-28,PAR,DA
+#PROJ       1002
+#TARG       13027
+#MF         4
+#MT         600
+#PRODUCT    13-AL-28
+#C4BEGIN    [ 1002 13027   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 13027   4 600    1600400. 40000.00 7.7461-5          6.123-17          2670000.         LVLG.Corleo+            (68)D0389  5 
+ 1002 13027   4 600    1649900. 40000.00 8.9421-5          6.123-17          2670000.         LVLG.Corleo+            (68)D0389  5 
+ 1002 13027   4 600    1699600. 40000.00 1.2102-4 1.7854-5 6.123-17          2670000.         LVLG.Corleo+            (68)D0389  5 
+ 1002 13027   4 600    1751000. 40000.00 1.4010-4 1.4263-5 6.123-17          2670000.         LVLG.Corleo+            (68)D0389  5 
+ 1002 13027   4 600    1800500. 40000.00 1.5028-4 1.9659-5 6.123-17          2670000.         LVLG.Corleo+            (68)D0389  5 
+ 1002 13027   4 600    1850200. 40000.00 1.7830-4 1.9659-5 6.123-17          2670000.         LVLG.Corleo+            (68)D0389  5 
+ 1002 13027   4 600    1901300. 40000.00 1.6703-4 1.2517-5 6.123-17          2670000.         LVLG.Corleo+            (68)D0389  5 
+ 1002 13027   4 600    1950800. 40000.00 1.8078-4 1.9659-5 6.123-17          2670000.         LVLG.Corleo+            (68)D0389  5 
+ 1002 13027   4 600    2002100. 40000.00 1.9093-4 1.9659-5 6.123-17          2670000.         LVLG.Corleo+            (68)D0389  5 
+#/DATA      9
+#/DATASET

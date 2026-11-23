@@ -1,0 +1,35 @@
+#ENTRY      D1034
+#AUTHOR1    U.Umbelino+
+#YEAR       2022
+#INSTITUTE  (3BZLUSP)
+#TITLE      Quasielastic scattering of light radioactive and
+#+          stable projectiles on 9Be
+#AUTHOR(S)  U.Umbelino, R.Lichtenthaeler, O.C.B.Santos, K.C.C.Pires, 
+#+          A.S.Serra, V.Scarduelli, A.L.de Lara, E.O.N.Zevallos, J.C.Zamora, 
+#+          A.Lepine-Szily, J.M.B.Shorto, M.Assuncao, V.A.B.Zagatto
+#REF-CODE   (J,PR/C,106,054602,2022)
+#REFERENCE  Phys.Rev.C 106 (2022) 054602
+#DATASETS   0
+#
+#DATASET    D1034002 
+#DATE       20221209
+#REACTION   4-BE-9(3-LI-6,EL)4-BE-9,,DA,,RTH
+#PROJ       3006
+#TARG       4009
+#MF         4
+#MT         2
+#PRODUCT    4-BE-9
+#C4BEGIN    [ 3006  4009   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006  4009   4   2 AC 1.1200+7          2.118065 0.162838 0.929616                              U.Umbelino+          (22)D1034  2 
+ 3006  4009   4   2 AC 1.1200+7          1.817759 0.172286 0.918577                              U.Umbelino+          (22)D1034  2 
+ 3006  4009   4   2 AC 1.1200+7          1.201593 0.077545 0.906779                              U.Umbelino+          (22)D1034  2 
+ 3006  4009   4   2 AC 1.1200+7          0.585227 0.048164 0.880973                              U.Umbelino+          (22)D1034  2 
+ 3006  4009   4   2 AC 1.1200+7          0.430397 0.038498 0.866992                              U.Umbelino+          (22)D1034  2 
+ 3006  4009   4   2 AC 1.1200+7          0.161875 0.023832 0.820930                              U.Umbelino+          (22)D1034  2 
+ 3006  4009   4   2 AC 1.1200+7          0.077860 0.011379 0.691652                              U.Umbelino+          (22)D1034  2 
+ 3006  4009   4   2 AC 1.1200+7          0.041511 0.012271 0.628208                              U.Umbelino+          (22)D1034  2 
+#/DATA      8
+#/DATASET

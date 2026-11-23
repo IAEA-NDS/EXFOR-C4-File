@@ -1,0 +1,41 @@
+#ENTRY      D1031
+#AUTHOR1    V.Scarduelli+
+#YEAR       2022
+#INSTITUTE  (3BZLUSP)
+#TITLE      Consistent analysis of the 11B + 120Sn reaction
+#+          channels
+#AUTHOR(S)  V.Scarduelli, L.R.Gasques, L.C.Chamon, V.A.B.Zagatto, M.A.G.Alvarez, 
+#+          A.Lepine-Szily
+#REF-CODE   (J,PR/C,106,044606,2022)
+#REFERENCE  Phys.Rev.C 106 (2022) 044606
+#DATASETS   0
+#
+#DATASET    D1031003 
+#DATE       20221128
+#REACTION   50-SN-120(5-B-11,EL)50-SN-120,,DA,,RTH
+#PROJ       5011
+#TARG       50120
+#MF         4
+#MT         2
+#PRODUCT    50-SN-120
+#C4BEGIN    [ 5011 50120   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 5011 50120   4   2 CC 3.2600+7          0.128992 6.5840-4-0.654156                              V.Scarduelli+        (22)D1031  3 
+ 5011 50120   4   2 CC 3.2600+7          0.121298 6.2548-4-0.678594                              V.Scarduelli+        (22)D1031  3 
+ 5011 50120   4   2 CC 3.2600+7          0.120289 6.2345-4-0.702591                              V.Scarduelli+        (22)D1031  3 
+ 5011 50120   4   2 CC 3.2600+7          0.115920 6.0655-4-0.726093                              V.Scarduelli+        (22)D1031  3 
+ 5011 50120   4   2 CC 3.2600+7          0.111621 5.8967-4-0.749043                              V.Scarduelli+        (22)D1031  3 
+ 5011 50120   4   2 CC 3.2600+7          0.106568 5.7283-4-0.771073                              V.Scarduelli+        (22)D1031  3 
+ 5011 50120   4   2 CC 3.2600+7          0.105125 5.6631-4-0.792364                              V.Scarduelli+        (22)D1031  3 
+ 5011 50120   4   2 CC 3.2600+7          0.102568 9.4003-4-0.812684                              V.Scarduelli+        (22)D1031  3 
+ 5011 50120   4   2 CC 3.2600+7          0.097468 9.5452-4-0.832018                              V.Scarduelli+        (22)D1031  3 
+ 5011 50120   4   2 CC 3.2600+7          0.092455 8.9886-4-0.850183                              V.Scarduelli+        (22)D1031  3 
+ 5011 50120   4   2 CC 3.2600+7          0.091078 8.4783-4-0.867353                              V.Scarduelli+        (22)D1031  3 
+ 5011 50120   4   2 CC 3.2600+7          0.086608 5.1603-4-0.883293                              V.Scarduelli+        (22)D1031  3 
+ 5011 50120   4   2 CC 3.2600+7          0.085940 8.2921-4-0.898033                              V.Scarduelli+        (22)D1031  3 
+ 5011 50120   4   2 CC 3.2600+7          0.084556 8.0870-4-0.911609                              V.Scarduelli+        (22)D1031  3 
+ 5011 50120   4   2 CC 3.2600+7          0.082994 6.1875-4-0.924056                              V.Scarduelli+        (22)D1031  3 
+#/DATA      15
+#/DATASET

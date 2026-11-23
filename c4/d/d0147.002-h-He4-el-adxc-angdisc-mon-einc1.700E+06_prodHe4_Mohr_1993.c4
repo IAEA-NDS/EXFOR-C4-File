@@ -1,0 +1,36 @@
+#ENTRY      D0147
+#AUTHOR1    P.Mohr+
+#YEAR       1993
+#INSTITUTE  (2GERTUE)
+#TITLE      Alpha scattering and capture reactions in the A=7
+#+          system at low energies
+#AUTHOR(S)  P.Mohr, H.Abele, R.Zwiebel, G.Staudt, H.Krauss, H.Oberhummer, 
+#+          A.Denker, J.W.Hammer, G.Wolf
+#REF-CODE   (J,PR/C,48,1420,1993)
+#REFERENCE  Phys.Rev.C 48 (1993) 1420
+#DATASETS   0
+#
+#DATASET    D0147002 
+#DATE       20141031
+#REACTION   2-HE-4(HE3,EL)2-HE-4,,DA,,RTH
+#PROJ       2003
+#TARG       2004
+#MF         4
+#MT         2
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 2003  2004   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  2004   4   2 AC 1700000.          1.727956 0.014510 0.766044                              P.Mohr+              (93)D0147  2 
+ 2003  2004   4   2 AC 1700000.          1.358931 4.6888-3 0.725627                              P.Mohr+              (93)D0147  2 
+ 2003  2004   4   2 AC 1700000.          0.425496 2.5035-3 0.492743                              P.Mohr+              (93)D0147  2 
+ 2003  2004   4   2 AC 1700000.          0.335127 9.0844-4 0.361267                              P.Mohr+              (93)D0147  2 
+ 2003  2004   4   2 AC 1700000.          0.102143 4.1001-4-0.173648                              P.Mohr+              (93)D0147  2 
+ 2003  2004   4   2 AC 1700000.          0.083801 5.8077-4-0.182321                              P.Mohr+              (93)D0147  2 
+ 2003  2004   4   2 AC 1700000.          0.038235 9.3094-4-0.342020                              P.Mohr+              (93)D0147  2 
+ 2003  2004   4   2 AC 1700000.          0.062334 6.5679-4-0.419626                              P.Mohr+              (93)D0147  2 
+ 2003  2004   4   2 AC 1700000.          0.040754 8.8477-4-0.610325                              P.Mohr+              (93)D0147  2 
+ 2003  2004   4   2 AC 1700000.          0.048862 6.7904-4-0.766044                              P.Mohr+              (93)D0147  2 
+#/DATA      10
+#/DATASET

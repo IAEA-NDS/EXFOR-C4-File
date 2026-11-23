@@ -1,0 +1,40 @@
+#ENTRY      D0011
+#AUTHOR1    J.E.Simmons+
+#YEAR       1968
+#INSTITUTE  (1USALAS)
+#TITLE      Absolute cross sections of the T(d,n)4He reaction for
+#+          7.0 to 21.0-MeV deuterons
+#AUTHOR(S)  J.E.Simmons, J.J.Malanify
+#REF-CODE   (J,BAP,13,564(AG4),1968)
+#REFERENCE  Bull.Am.Phys.Soc. 13 (1968) 564(AG4)
+#DATASETS   0
+#
+#DATASET    D0011002 
+#DATE       20200511
+#REACTION   1-H-3(D,N)2-HE-4,,DA
+#PROJ       1002
+#TARG       1003
+#MF         4
+#MT         4
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  1003   4   4 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1003   4   4 DC 1.5000+7          0.015650          0.999056                              J.E.Simmons+         (68)D0011  2 
+ 1002  1003   4   4 DC 1.5000+7          0.014880          0.993884                              J.E.Simmons+         (68)D0011  2 
+ 1002  1003   4   4 DC 1.5000+7          0.011660          0.975149                              J.E.Simmons+         (68)D0011  2 
+ 1002  1003   4   4 DC 1.5000+7          7.8600-3          0.944892                              J.E.Simmons+         (68)D0011  2 
+ 1002  1003   4   4 DC 1.5000+7          4.6000-3          0.902435                              J.E.Simmons+         (68)D0011  2 
+ 1002  1003   4   4 DC 1.5000+7          2.3900-3          0.850260                              J.E.Simmons+         (68)D0011  2 
+ 1002  1003   4   4 DC 1.5000+7          1.8600-3          0.787150                              J.E.Simmons+         (68)D0011  2 
+ 1002  1003   4   4 DC 1.5000+7          2.6300-3          0.716545                              J.E.Simmons+         (68)D0011  2 
+ 1002  1003   4   4 DC 1.5000+7          3.5200-3          0.638768                              J.E.Simmons+         (68)D0011  2 
+ 1002  1003   4   4 DC 1.5000+7          5.2000-3          0.464069                              J.E.Simmons+         (68)D0011  2 
+ 1002  1003   4   4 DC 1.5000+7          4.2900-3          0.274798                              J.E.Simmons+         (68)D0011  2 
+ 1002  1003   4   4 DC 1.5000+7          2.8100-3          0.081243                              J.E.Simmons+         (68)D0011  2 
+ 1002  1003   4   4 DC 1.5000+7          1.5100-3         -0.285688                              J.E.Simmons+         (68)D0011  2 
+ 1002  1003   4   4 DC 1.5000+7          2.8500-3         -0.587079                              J.E.Simmons+         (68)D0011  2 
+ 1002  1003   4   4 DC 1.5000+7          2.7100-3         -0.806445                              J.E.Simmons+         (68)D0011  2 
+#/DATA      15
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      D0295
+#AUTHOR1    R.De Swiniarski+
+#YEAR       1977
+#INSTITUTE  (2FR GRE)
+#TITLE      Elastic and inelastic scattering of 30 MeV polarized
+#+          protons on 90Zr,92Zr,and 92Mo
+#AUTHOR(S)  R.De Swiniarski, Dinh-Lien Pham, G.Bagieu
+#REF-CODE   (J,CJP,55,43,1977)
+#REFERENCE  Can.J.Phys. 55 (1977) 43
+#DATASETS   0
+#
+#DATASET    D0295004 
+#DATE       20230627
+#REACTION   40-ZR-90(P,INL)40-ZR-90,PAR,DA
+#PROJ       1001
+#TARG       40090
+#MF         4
+#MT         601
+#PRODUCT    40-ZR-90
+#C4BEGIN    [ 1001 40090   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40090   4 601  C 3.0000+7 100000.0 1.7842-4 1.4544-5 0.806703          3080000.         LVLR.De Swiniarski+     (77)D0295  4 
+ 1001 40090   4 601  C 3.0000+7 100000.0 1.4882-4 1.9202-5 0.754309          3080000.         LVLR.De Swiniarski+     (77)D0295  4 
+ 1001 40090   4 601  C 3.0000+7 100000.0 1.0038-4 1.0115-5 0.692471          3080000.         LVLR.De Swiniarski+     (77)D0295  4 
+ 1001 40090   4 601  C 3.0000+7 100000.0 1.1762-4 1.3173-5 0.628628          3080000.         LVLR.De Swiniarski+     (77)D0295  4 
+ 1001 40090   4 601  C 3.0000+7 100000.0 7.9264-5 8.8875-6 0.478554          3080000.         LVLR.De Swiniarski+     (77)D0295  4 
+ 1001 40090   4 601  C 3.0000+7 100000.0 4.9633-5 5.9395-6 0.404168          3080000.         LVLR.De Swiniarski+     (77)D0295  4 
+ 1001 40090   4 601  C 3.0000+7 100000.0 3.5681-5 3.9959-6 0.326558          3080000.         LVLR.De Swiniarski+     (77)D0295  4 
+ 1001 40090   4 601  C 3.0000+7 100000.0 3.2033-5 4.7429-6 0.156745          3080000.         LVLR.De Swiniarski+     (77)D0295  4 
+ 1001 40090   4 601  C 3.0000+7 100000.0 4.2636-5 6.3128-6 0.065264          3080000.         LVLR.De Swiniarski+     (77)D0295  4 
+ 1001 40090   4 601  C 3.0000+7 100000.0 2.2287-5 3.2984-6-0.016999          3080000.         LVLR.De Swiniarski+     (77)D0295  4 
+#/DATA      10
+#/DATASET

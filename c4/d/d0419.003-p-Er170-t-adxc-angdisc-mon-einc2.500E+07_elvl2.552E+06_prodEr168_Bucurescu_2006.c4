@@ -1,0 +1,35 @@
+#ENTRY      D0419
+#AUTHOR1    D.Bucurescu+
+#YEAR       2006
+#INSTITUTE  (2GERMUU)
+#TITLE      High-resolution study of 0+ and 2+ excitations in
+#+          168Er with the (p,t) reaction
+#AUTHOR(S)  D.Bucurescu, G.Graw, R.Hertenberger, H.-F.Wirth, N.Lo Iudice, 
+#+          A.V.Sushkov, N.Yu.Shirikova, Y.Sun, T.Faestermann, R.Kruecken, 
+#+          M.Mahgoub, J.Jolie, P.von Brentano, N.Braun, S.Heinze, O.Moeller, 
+#+          D.Muecher, C.Scholl, R.F.Casten, D.A.Meyer
+#REF-CODE   (J,PR/C,73,064309,2006)
+#REFERENCE  Phys.Rev.C 73 (2006) 064309
+#DATASETS   0
+#
+#DATASET    D0419003 
+#DATE       20110815
+#REACTION   68-ER-170(P,T)68-ER-168,PAR,DA
+#PROJ       1001
+#TARG       68170
+#MF         4
+#MT         700
+#PRODUCT    68-ER-168
+#C4BEGIN    [ 1001 68170   4 700 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 68170   4 700 AC 2.5000+7 2500.000 1.7982-6 2.2245-7 0.996195          2552000.         LVLD.Bucurescu+         (06)D0419  3 
+ 1001 68170   4 700 AC 2.5000+7 2500.000 3.0200-6 1.6548-7 0.984503          2552000.         LVLD.Bucurescu+         (06)D0419  3 
+ 1001 68170   4 700 AC 2.5000+7 2500.000 2.6076-6 1.4635-7 0.969445          2552000.         LVLD.Bucurescu+         (06)D0419  3 
+ 1001 68170   4 700 AC 2.5000+7 2500.000 2.3009-6 2.2419-7 0.952661          2552000.         LVLD.Bucurescu+         (06)D0419  3 
+ 1001 68170   4 700 AC 2.5000+7 2500.000 1.7139-6 1.3897-7 0.918446          2552000.         LVLD.Bucurescu+         (06)D0419  3 
+ 1001 68170   4 700 AC 2.5000+7 2500.000 1.3846-6 1.5797-7 0.862514          2552000.         LVLD.Bucurescu+         (06)D0419  3 
+ 1001 68170   4 700 AC 2.5000+7 2500.000 1.9541-6 1.3598-7 0.789084          2552000.         LVLD.Bucurescu+         (06)D0419  3 
+#/DATA      7
+#/DATASET

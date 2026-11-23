@@ -1,0 +1,43 @@
+#ENTRY      D6386
+#AUTHOR1    H.Kumawat+
+#YEAR       2020
+#INSTITUTE  (3INDTRM)
+#TITLE      Elastic scattering for 6Li + 51V and systematic study
+#+          of breakup threshold anomaly
+#AUTHOR(S)  H.Kumawat, C.Joshi, V.V.Parkar, V.Jha, B.J.Roy, Y.S.Sawant, 
+#+          P.C.Rout, E.T.Mirgule, R.K.Singh, N.L.Singh, B.K.Nayak, 
+#+          S.Kailas
+#REF-CODE   (J,NP/A,1002,121973,2020)
+#REFERENCE  Nucl.Phys.A 1002 (2020) 121973
+#DATASETS   0
+#
+#DATASET    D6386002 
+#DATE       20210318
+#REACTION   23-V-51(3-LI-6,EL)23-V-51,,DA,,RTH
+#PROJ       3006
+#TARG       23051
+#MF         4
+#MT         2
+#PRODUCT    23-V-51
+#C4BEGIN    [ 3006 23051   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 23051   4   2  C 1.3600+7          6.099286 3.3302-3 0.963022                              H.Kumawat+           (20)D6386  2 
+ 3006 23051   4   2  C 1.3600+7          2.059925 5.1498-3 0.925143                              H.Kumawat+           (20)D6386  2 
+ 3006 23051   4   2  C 1.3600+7          0.786127 1.1901-3 0.893057                              H.Kumawat+           (20)D6386  2 
+ 3006 23051   4   2  C 1.3600+7          0.272481 1.8534-3 0.835136                              H.Kumawat+           (20)D6386  2 
+ 3006 23051   4   2  C 1.3600+7          0.121587 4.8255-4 0.790476                              H.Kumawat+           (20)D6386  2 
+ 3006 23051   4   2  C 1.3600+7          0.049563 9.1722-4 0.715205                              H.Kumawat+           (20)D6386  2 
+ 3006 23051   4   2  C 1.3600+7          0.022816 1.8340-4 0.660133                              H.Kumawat+           (20)D6386  2 
+ 3006 23051   4   2  C 1.3600+7          0.010158 3.1834-4 0.571143                              H.Kumawat+           (20)D6386  2 
+ 3006 23051   4   2  C 1.3600+7          2.4605-3 3.2106-5 0.409127                              H.Kumawat+           (20)D6386  2 
+ 3006 23051   4   2  C 1.3600+7          7.1441-4 1.7174-5 0.235990                              H.Kumawat+           (20)D6386  2 
+ 3006 23051   4   2  C 1.3600+7          2.6717-4 1.2305-5 0.058435                              H.Kumawat+           (20)D6386  2 
+ 3006 23051   4   2  C 1.3600+7          1.1870-4 6.6359-6-0.117711                              H.Kumawat+           (20)D6386  2 
+ 3006 23051   4   2  C 1.3600+7          6.1878-5 6.6413-6-0.286525                              H.Kumawat+           (20)D6386  2 
+ 3006 23051   4   2  C 1.3600+7          2.5444-5 4.2967-6-0.443853                              H.Kumawat+           (20)D6386  2 
+ 3006 23051   4   2  C 1.3600+7          1.5723-5 3.5094-6-0.585665                              H.Kumawat+           (20)D6386  2 
+ 3006 23051   4   2  C 1.3600+7          8.6217-6 2.2953-6-0.709202                              H.Kumawat+           (20)D6386  2 
+#/DATA      16
+#/DATASET

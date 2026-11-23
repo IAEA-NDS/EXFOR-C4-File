@@ -1,0 +1,28 @@
+#ENTRY      D0511
+#AUTHOR1    W.W.Daehnick+
+#YEAR       1964
+#INSTITUTE  (1USAPTN)
+#TITLE      Energy dependence of elastic and inelastic
+#+          scattering from C12 for protons between 14 and 19 MeV
+#AUTHOR(S)  W.W.Daehnick, R.Sherr
+#REF-CODE   (J,PR,133,(4B),B934,1964)
+#REFERENCE  Phys.Rev. 133 No.4B (1964) B934
+#DATASETS   0
+#
+#DATASET    D0511002 
+#DATE       20080825
+#REACTION   6-C-12(P,EL)6-C-12,,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4   2  C 1.7000+7          0.036400 2.9120-3 0.592013 2.8132-3                     W.W.Daehnick+        (64)D0511  2 
+ 1001  6012   4   2  C 1.7600+7          0.033500 2.6800-3 0.592013 2.8132-3                     W.W.Daehnick+        (64)D0511  2 
+ 1001  6012   4   2  C 1.8000+7          0.037300 2.9840-3 0.592013 2.8132-3                     W.W.Daehnick+        (64)D0511  2 
+#/DATA      3
+#/DATASET
