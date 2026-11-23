@@ -1,0 +1,28 @@
+#ENTRY      O1299
+#AUTHOR1    X.Zhang+
+#YEAR       2005
+#INSTITUTE  (3CPRLNZ)
+#TITLE      Elastic scattering cross sections for 160-degree and
+#+          170-degree backscattering of 1.40-2.64-MeV protons
+#+          from natural vanadium.
+#AUTHOR(S)  X.Zhang, D.Lin, Z.Liu
+#REF-CODE   (J,JRN,266,149,2005)
+#REFERENCE  J.Rad.Nucl.Chem. 266 (2005) 149
+#DATASETS   0
+#
+#DATASET    O1299002 
+#DATE       20070515
+#REACTION   23-V-0(P,EL)23-V-0,,DA
+#PROJ       1001
+#TARG       23000
+#MF         4
+#MT         2
+#PRODUCT    23-V-0
+#C4BEGIN    [ 1001 23000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 23000   4   2    2488000.          0.117900 3.5370-3-0.939693                              X.Zhang+             (05)O1299  2 
+ 1001 23000   4   2    2488000.          0.114300 3.4290-3-0.984808                              X.Zhang+             (05)O1299  2 
+#/DATA      2
+#/DATASET

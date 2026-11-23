@@ -1,0 +1,33 @@
+#ENTRY      O2308
+#AUTHOR1    P.Morfouace+
+#YEAR       2016
+#INSTITUTE  (2FR PAR)
+#TITLE      Single-particle strength in neutron-rich 69Cu from the
+#+          Zn-70(d,3He)Cu-69 proton pick-up reaction
+#AUTHOR(S)  P.Morfouace, S.Franchoo, K.Sieja, I.Stefan, N.De Sereville, 
+#+          F.Hammache, M.Assie, F.Azaiez, C.Borcea, R.Borcea, L.Grassi, 
+#+          J.Guillot, B.Le Crom, L.Lefebvre, I.Matea, D.Mengoni, D.Napoli, 
+#+          C.Petrone, M.Stanoiu, D.Suzuki, D.Testov
+#REF-CODE   (J,PR/C,93,064308,2016)
+#REFERENCE  Phys.Rev.C 93 (2016) 064308
+#DATASETS   0
+#
+#DATASET    O2308003 
+#DATE       20161009
+#REACTION   30-ZN-70(D,HE3)29-CU-69,PAR,DA
+#PROJ       1002
+#TARG       30070
+#MF         4
+#MT         750
+#PRODUCT    29-CU-69
+#C4BEGIN    [ 1002 30070   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 30070   4 750  C 2.7000+7          5.7390-5 4.7754-9 0.976635          1870000.         LVLP.Morfouace+         (16)O2308  3 
+ 1002 30070   4 750  C 2.7000+7          6.2350-5 6.5779-9 0.964234          1870000.         LVLP.Morfouace+         (16)O2308  3 
+ 1002 30070   4 750  C 2.7000+7          7.0010-5 1.3799-8 0.949261          1870000.         LVLP.Morfouace+         (16)O2308  3 
+ 1002 30070   4 750  C 2.7000+7          7.1820-5 7.2897-9 0.930545          1870000.         LVLP.Morfouace+         (16)O2308  3 
+ 1002 30070   4 750  C 2.7000+7          2.8990-5 2.0096-9 0.909744          1870000.         LVLP.Morfouace+         (16)O2308  3 
+#/DATA      5
+#/DATASET

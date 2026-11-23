@@ -1,0 +1,29 @@
+#ENTRY      O2260
+#AUTHOR1    L.Netterdon+
+#YEAR       2015
+#INSTITUTE  (2GERKLN)
+#TITLE      Total and partial cross sections of the 112Sn(a,g)116Te
+#+          reaction measured via in-beam gamma-ray spectroscopy.
+#AUTHOR(S)  L.Netterdon, J.Mayer, P.Scholz, A.Zilges
+#REF-CODE   (J,PR/C,91,035801,2015)
+#REFERENCE  Phys.Rev.C 91 (2015) 035801
+#DATASETS   0
+#
+#DATASET    O2260003 
+#DATE       20150325
+#REACTION   50-SN-112(A,G)52-TE-116,PAR,SIG
+#PROJ       2004
+#TARG       50112
+#MF         3
+#MT         900
+#PRODUCT    52-TE-116
+#C4BEGIN    [ 2004 50112   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 50112   3 900    1.0442+7 14001.35 2.6000-6 5.3000-7                   0.000000         LVLL.Netterdon+         (15)O2260  3 
+ 2004 50112   3 900    1.0944+7 14001.41 4.3900-6 6.3000-7                   0.000000         LVLL.Netterdon+         (15)O2260  3 
+ 2004 50112   3 900    1.1446+7 14001.48 5.5200-6 6.0000-7                   0.000000         LVLL.Netterdon+         (15)O2260  3 
+ 2004 50112   3 900    1.1943+7 14001.54 6.2400-6 8.2000-7                   0.000000         LVLL.Netterdon+         (15)O2260  3 
+#/DATA      4
+#/DATASET

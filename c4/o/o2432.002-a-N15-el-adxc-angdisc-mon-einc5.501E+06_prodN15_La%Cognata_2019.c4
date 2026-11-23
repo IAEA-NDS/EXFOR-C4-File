@@ -1,0 +1,30 @@
+#ENTRY      O2432
+#AUTHOR1    M.La Cognata+
+#YEAR       2019
+#INSTITUTE  (2ITYLNS)
+#TITLE      Observation of 15N + alpha resonant structures in 19F
+#+          using the thick target in inverse kinematics scattering
+#+          method
+#AUTHOR(S)  M.La Cognata, M.Fisichella, A.Di Pietro, P.Figuera, V.Z.Goldberg, 
+#+          S.Cherubini, J.P.Fernandez Garcia, M.Gulino, L.Lamia, D.Lattuada, 
+#+          M.Lattuada, R.G.Pizzone, G.G.Rapisarda, S.Romano, R.Sparta, 
+#+          C.Spitaleri, D.Torresi, A.Tumino, M.Zadro
+#REF-CODE   (J,PR/C,99,034301,2019)
+#REFERENCE  Phys.Rev.C 99 (2019) 034301
+#DATASETS   0
+#
+#DATASET    O2432002 
+#DATE       20190602
+#REACTION   (2-HE-4(7-N-15,EL)2-HE-4,,DA)=(7-N-15(A,EL)7-N-15,,DA)
+#PROJ       2004
+#TARG       7015
+#MF         4
+#MT         2
+#PRODUCT    7-N-15
+#C4BEGIN    [ 2004  7015   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  7015   4   2  C 5501286.          0.074600 4.1000-3-0.953717                              M.La Cognata+        (19)O2432  2 
+#/DATA      1
+#/DATASET

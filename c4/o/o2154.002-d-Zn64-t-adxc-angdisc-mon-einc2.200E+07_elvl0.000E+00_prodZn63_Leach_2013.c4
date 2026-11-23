@@ -1,0 +1,37 @@
+#ENTRY      O2154
+#AUTHOR1    K.G.Leach+
+#YEAR       2013
+#INSTITUTE  (1CANGUE)
+#TITLE      Experimental 64Zn(d,t)63Zn spectroscopic factors-
+#+          Guidance for isospin-symmetry-breaking calculations.
+#AUTHOR(S)  K.G.Leach, P.E.Garrett, I.S.Towner, G.C.Ball, V.Bildstein, 
+#+          B.A.Brown, G.A.Demand, T.Faestermann, P.Finlay, K.L.Green, 
+#+          R.Hertenberger, R.Kruecken, A.A.Phillips, E.T.Rand, C.S.Sumithrarachchi, 
+#+          C.E.Svensson, S.Triambak, H.-F.Wirth, J.Wong
+#REF-CODE   (J,PR/C,87,064306,2013)
+#REFERENCE  Phys.Rev.C 87 (2013) 064306
+#DATASETS   0
+#
+#DATASET    O2154002 
+#DATE       20130722
+#REACTION   30-ZN-64(D,T)30-ZN-63,PAR,DA
+#PROJ       1002
+#TARG       30064
+#MF         4
+#MT         700
+#PRODUCT    30-ZN-63
+#C4BEGIN    [ 1002 30064   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 30064   4 700  C 2.2000+7          0.011544 8.1937-4 0.983812          0.000000         LVLK.G.Leach+           (13)O2154  2 
+ 1002 30064   4 700  C 2.2000+7          4.1044-3 2.0626-4 0.963716          0.000000         LVLK.G.Leach+           (13)O2154  2 
+ 1002 30064   4 700  C 2.2000+7          1.2491-3 6.2846-5 0.935838          0.000000         LVLK.G.Leach+           (13)O2154  2 
+ 1002 30064   4 700  C 2.2000+7          3.3584-3 2.4142-4 0.900433          0.000000         LVLK.G.Leach+           (13)O2154  2 
+ 1002 30064   4 700  C 2.2000+7          2.2739-3 1.6474-4 0.857818          0.000000         LVLK.G.Leach+           (13)O2154  2 
+ 1002 30064   4 700  C 2.2000+7          6.7500-4 4.9003-5 0.808377          0.000000         LVLK.G.Leach+           (13)O2154  2 
+ 1002 30064   4 700  C 2.2000+7          7.0139-4 5.1074-5 0.752547          0.000000         LVLK.G.Leach+           (13)O2154  2 
+ 1002 30064   4 700  C 2.2000+7          3.5312-4 2.6071-5 0.623734          0.000000         LVLK.G.Leach+           (13)O2154  2 
+ 1002 30064   4 700  C 2.2000+7          2.2545-4 1.6465-5 0.475817          0.000000         LVLK.G.Leach+           (13)O2154  2 
+#/DATA      9
+#/DATASET

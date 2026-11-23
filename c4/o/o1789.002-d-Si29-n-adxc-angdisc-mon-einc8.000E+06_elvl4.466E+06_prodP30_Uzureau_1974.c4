@@ -1,0 +1,33 @@
+#ENTRY      O1789
+#AUTHOR1    J.Uzureau+
+#YEAR       1974
+#INSTITUTE  (2FR NTE)
+#TITLE      Spectroscopic study of P-30 by the Si-29(d,n)P-30
+#+          reaction.
+#AUTHOR(S)  J.Uzureau, D.Ardouin, P.Avignon, A.Adam, B.Duchemin
+#REF-CODE   (J,NP/A,230,253,1974)
+#REFERENCE  Nucl.Phys.A 230 (1974) 253
+#DATASETS   0
+#
+#DATASET    O1789002 
+#DATE       20091007
+#REACTION   14-SI-29(D,N)15-P-30,PAR,DA
+#PROJ       1002
+#TARG       14029
+#MF         4
+#MT         50
+#PRODUCT    15-P-30
+#C4BEGIN    [ 1002 14029   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 14029   4  50  C 8000000.          4.4000-3 3.0800-4 0.995789          4466000. 10000.00LVLJ.Uzureau+           (74)O1789  2 
+ 1002 14029   4  50  C 8000000.          2.6900-3 1.6140-4 0.982645          4466000. 10000.00LVLJ.Uzureau+           (74)O1789  2 
+ 1002 14029   4  50  C 8000000.          1.7290-3          0.959560          4466000. 10000.00LVLJ.Uzureau+           (74)O1789  2 
+ 1002 14029   4  50  C 8000000.          7.0000-4 4.2000-5 0.927118          4466000. 10000.00LVLJ.Uzureau+           (74)O1789  2 
+ 1002 14029   4  50  C 8000000.          1.6000-4 4.0000-5 0.779775          4466000. 10000.00LVLJ.Uzureau+           (74)O1789  2 
+ 1002 14029   4  50  C 8000000.          1.8000-4 3.0600-5 0.719825          4466000. 10000.00LVLJ.Uzureau+           (74)O1789  2 
+ 1002 14029   4  50  C 8000000.          1.7700-4 2.4780-5 0.624152          4466000. 10000.00LVLJ.Uzureau+           (74)O1789  2 
+ 1002 14029   4  50  C 8000000.          8.0000-5 4.0000-5 0.469317          4466000. 10000.00LVLJ.Uzureau+           (74)O1789  2 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,37 @@
+#ENTRY      O0567
+#AUTHOR1    Z.Lewandowski+
+#YEAR       1982
+#INSTITUTE  (2SWTBAS)
+#TITLE      Analyzing power in the continuum of (p,alpha+x) and
+#+          (p,He3+x) reactions on C-12, Al-27, Ni-58, Zr-90,
+#+          Bi-209 at E(p)=72 MeV.
+#AUTHOR(S)  Z.Lewandowski, E.Loeffler, R.Wagner, H.H.Mueller, W.Reichart, 
+#+          P.Schober
+#REF-CODE   (J,NP/A,389,247,1982)
+#REFERENCE  Nucl.Phys.A 389 (1982) 247
+#DATASETS   0
+#
+#DATASET    O0567015 
+#DATE       20190209
+#REACTION   40-ZR-90(P,X)2-HE-3,,DA/DE
+#PROJ       1001
+#TARG       40090
+#MF         6
+#MT         206
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001 40090   6 206 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40090   6 206 CC 7.2000+7          3.199-12          0.983571          6.5000+7          E2Z.Lewandowski+       (82)O0567 15 
+ 1001 40090   6 206 CC 7.2000+7          3.682-12          0.960294          6.5000+7          E2Z.Lewandowski+       (82)O0567 15 
+ 1001 40090   6 206 CC 7.2000+7          2.477-12          0.937889          6.5000+7          E2Z.Lewandowski+       (82)O0567 15 
+ 1001 40090   6 206 CC 7.2000+7          1.814-12          0.901833          6.5000+7          E2Z.Lewandowski+       (82)O0567 15 
+ 1001 40090   6 206 CC 7.2000+7          1.232-12          0.856267          6.5000+7          E2Z.Lewandowski+       (82)O0567 15 
+ 1001 40090   6 206 CC 7.2000+7          7.610-13          0.812084          6.5000+7          E2Z.Lewandowski+       (82)O0567 15 
+ 1001 40090   6 206 CC 7.2000+7          5.320-13          0.758134          6.5000+7          E2Z.Lewandowski+       (82)O0567 15 
+ 1001 40090   6 206 CC 7.2000+7          3.020-13          0.713250          6.5000+7          E2Z.Lewandowski+       (82)O0567 15 
+ 1001 40090   6 206 CC 7.2000+7          3.610-13          0.632029          6.5000+7          E2Z.Lewandowski+       (82)O0567 15 
+ 1001 40090   6 206 CC 7.2000+7          1.050-13          0.493942          6.5000+7          E2Z.Lewandowski+       (82)O0567 15 
+#/DATA      10
+#/DATASET

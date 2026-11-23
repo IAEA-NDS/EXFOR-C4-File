@@ -1,0 +1,34 @@
+#ENTRY      O1565
+#AUTHOR1    C.Alderliesten+
+#YEAR       1978
+#INSTITUTE  (2GERJUL)
+#TITLE      Two-body final states in the d+d interaction in the
+#+          50-85 MeV incident energy range.
+#AUTHOR(S)  C.Alderliesten, A.Djaloeis, J.Bojowald, C.Mayer-Boericke, 
+#+          J.Paic, T.Sawada
+#REF-CODE   (J,PR/C,18,2001,1978)
+#REFERENCE  Phys.Rev.C 18 (1978) 2001
+#DATASETS   0
+#
+#DATASET    O1565005 
+#DATE       20070914
+#REACTION   1-H-2(D,N)2-HE-3,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1002  1002   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4   4  C 7.7500+7          4.8500-4 2.4250-5 0.748956                              C.Alderliesten+      (78)O1565  5 
+ 1002  1002   4   4  C 7.7500+7          6.5700-4 3.2850-5 0.658689                              C.Alderliesten+      (78)O1565  5 
+ 1002  1002   4   4  C 7.7500+7          6.0800-4 3.0400-5 0.562083                              C.Alderliesten+      (78)O1565  5 
+ 1002  1002   4   4  C 7.7500+7          5.0800-4 2.5400-5 0.467930                              C.Alderliesten+      (78)O1565  5 
+ 1002  1002   4   4  C 7.7500+7          3.4600-4 1.7300-5 0.337095                              C.Alderliesten+      (78)O1565  5 
+ 1002  1002   4   4  C 7.7500+7          1.9100-4 9.5500-6 0.197657                              C.Alderliesten+      (78)O1565  5 
+ 1002  1002   4   4  C 7.7500+7          1.1900-4 5.9500-6 0.064532                              C.Alderliesten+      (78)O1565  5 
+ 1002  1002   4   4  C 7.7500+7          9.6400-5 4.8200-6-0.078459                              C.Alderliesten+      (78)O1565  5 
+#/DATA      8
+#/DATASET

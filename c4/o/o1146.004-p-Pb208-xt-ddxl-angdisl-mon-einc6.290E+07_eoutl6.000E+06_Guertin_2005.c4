@@ -1,0 +1,37 @@
+#ENTRY      O1146
+#AUTHOR1    A.Guertin+
+#YEAR       2005
+#INSTITUTE  (2FR NTE)
+#TITLE      Neutron and light charged particle productions in
+#+          proton induced reactions on Pb-208 at 62.9-MeV.
+#AUTHOR(S)  A.Guertin, N.Marie, S.Auduc, V.Blideanu, Th.Delbar, P.Eudes, 
+#+          Y.Foucher, F.Haddad, T.Kirchner, Ch.Le Brun, C.Lebrun, F.R.Lecolley, 
+#+          J.F.Lecolley, X.Ledoux, F.Lefebvres, T.Lefort, M.Louvel, 
+#+          A.Ninane, Y.Patin, Ph.Pras, G.Riviere, C.Varignon
+#REF-CODE   (J,EPJ/A,23,49,2005)
+#REFERENCE  Eur.Phys.J.A 23 (2005) 49
+#DATASETS   0
+#
+#DATASET    O1146004 
+#DATE       20040411
+#REACTION   82-PB-208(P,X)1-H-3,,DA/DE
+#PROJ       1001
+#TARG       82208
+#MF         6
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1001 82208   6 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   6 205    6.2900+7          5.440-12 3.320-13 0.906308          6000000.          E2A.Guertin+           (05)O1146  4 
+ 1001 82208   6 205    6.2900+7          3.750-12 2.480-13 0.819152          6000000.          E2A.Guertin+           (05)O1146  4 
+ 1001 82208   6 205    6.2900+7          1.170-12 1.510-13 0.707107          6000000.          E2A.Guertin+           (05)O1146  4 
+ 1001 82208   6 205    6.2900+7          1.020-12 1.280-13 0.573576          6000000.          E2A.Guertin+           (05)O1146  4 
+ 1001 82208   6 205    6.2900+7          4.380-12 2.950-13 0.422618          6000000.          E2A.Guertin+           (05)O1146  4 
+ 1001 82208   6 205    6.2900+7          3.090-12 2.250-13 0.258819          6000000.          E2A.Guertin+           (05)O1146  4 
+ 1001 82208   6 205    6.2900+7          3.830-12 2.740-13 0.087156          6000000.          E2A.Guertin+           (05)O1146  4 
+ 1001 82208   6 205    6.2900+7          3.190-12 1.960-13-0.087156          6000000.          E2A.Guertin+           (05)O1146  4 
+ 1001 82208   6 205    6.2900+7          1.780-12 1.160-13-0.906308          6000000.          E2A.Guertin+           (05)O1146  4 
+#/DATA      9
+#/DATASET

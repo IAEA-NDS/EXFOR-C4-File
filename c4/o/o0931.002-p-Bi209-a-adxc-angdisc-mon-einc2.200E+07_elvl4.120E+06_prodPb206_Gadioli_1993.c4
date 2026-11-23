@@ -1,0 +1,35 @@
+#ENTRY      O0931
+#AUTHOR1    E.Gadioli+
+#YEAR       1993
+#INSTITUTE  (2ITYMIL)
+#TITLE      Study of Pb-206 by means of the Bi-209(P,A)Pb-206
+#+          reaction.
+#AUTHOR(S)  E.Gadioli, P.Guazzoni, M.Jaskola, L.Zetta, G.Colombo, G.Graw, 
+#+          R.Hertenberger, D.Hofer, H.Kader, P.Schiemenz, R.Neu, G.Staudt
+#REF-CODE   (J,PR/C,47,1129,1993)
+#REFERENCE  Phys.Rev.C 47 (1993) 1129
+#DATASETS   0
+#
+#DATASET    O0931002 
+#DATE       20030503
+#REACTION   83-BI-209(P,A)82-PB-206,PAR,DA
+#PROJ       1001
+#TARG       83209
+#MF         4
+#MT         800
+#PRODUCT    82-PB-206
+#C4BEGIN    [ 1001 83209   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 83209   4 800  C 2.2000+7 12000.00 1.3928-5 1.3610-6 0.984564          4120000.         LVLE.Gadioli+           (93)O0931  2 
+ 1001 83209   4 800  C 2.2000+7 12000.00 1.6794-5 1.4510-6 0.965336          4120000.         LVLE.Gadioli+           (93)O0931  2 
+ 1001 83209   4 800  C 2.2000+7 12000.00 1.5637-5 1.3960-6 0.938674          4120000.         LVLE.Gadioli+           (93)O0931  2 
+ 1001 83209   4 800  C 2.2000+7 12000.00 1.2183-5 1.1900-6 0.904753          4120000.         LVLE.Gadioli+           (93)O0931  2 
+ 1001 83209   4 800  C 2.2000+7 12000.00 7.9380-6 5.6100-7 0.863923          4120000.         LVLE.Gadioli+           (93)O0931  2 
+ 1001 83209   4 800  C 2.2000+7 12000.00 6.7840-6 5.0600-7 0.816339          4120000.         LVLE.Gadioli+           (93)O0931  2 
+ 1001 83209   4 800  C 2.2000+7 12000.00 6.1830-6 4.1500-7 0.762555          4120000.         LVLE.Gadioli+           (93)O0931  2 
+ 1001 83209   4 800  C 2.2000+7 12000.00 4.0780-6 4.2900-7 0.702774          4120000.         LVLE.Gadioli+           (93)O0931  2 
+ 1001 83209   4 800  C 2.2000+7 12000.00 3.0340-6 3.7200-7 0.637827          4120000.         LVLE.Gadioli+           (93)O0931  2 
+#/DATA      9
+#/DATASET

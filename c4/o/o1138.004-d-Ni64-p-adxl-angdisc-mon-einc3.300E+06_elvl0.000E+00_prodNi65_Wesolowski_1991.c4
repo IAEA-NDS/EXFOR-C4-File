@@ -1,0 +1,34 @@
+#ENTRY      O1138
+#AUTHOR1    E.Wesolowski+
+#YEAR       1991
+#INSTITUTE  (3POLWWA)
+#TITLE      Neutron distribution differences of nickel isotopes.
+#AUTHOR(S)  E.Wesolowski, A.Saganek, E.Gierlik, V.Meyer, M.Sieminski, 
+#+          A.Turoweicki, Z.Wilhelmi
+#REF-CODE   (J,JP/G,17,955,1991)
+#REFERENCE  J.Phys.G 17 (1991) 955
+#DATASETS   0
+#
+#DATASET    O1138004 
+#DATE       20040414
+#REACTION   28-NI-64(D,P)28-NI-65,PAR,DA
+#PROJ       1002
+#TARG       28064
+#MF         4
+#MT         600
+#PRODUCT    28-NI-65
+#C4BEGIN    [ 1002 28064   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28064   4 600  C 3300000. 11000.00 1.8000-5 5.4000-7 0.736097          0.000000         LVLE.Wesolowski+        (91)O1138  4 
+ 1002 28064   4 600  C 3300000. 11000.00 2.1000-5 1.0500-6 0.526956          0.000000         LVLE.Wesolowski+        (91)O1138  4 
+ 1002 28064   4 600  C 3300000. 11000.00 2.5000-5 1.0000-6 0.285688          0.000000         LVLE.Wesolowski+        (91)O1138  4 
+ 1002 28064   4 600  C 3300000. 11000.00 3.6000-5 1.8000-6 0.038388          0.000000         LVLE.Wesolowski+        (91)O1138  4 
+ 1002 28064   4 600  C 3300000. 11000.00 3.9000-5 1.1700-6-0.211325          0.000000         LVLE.Wesolowski+        (91)O1138  4 
+ 1002 28064   4 600  C 3300000. 11000.00 2.8600-5 5.1480-7-0.475624          0.000000         LVLE.Wesolowski+        (91)O1138  4 
+ 1002 28064   4 600  C 3300000. 11000.00 3.4300-5 6.8600-7-0.684547          0.000000         LVLE.Wesolowski+        (91)O1138  4 
+ 1002 28064   4 600  C 3300000. 11000.00 3.7000-5 1.1100-6-0.841511          0.000000         LVLE.Wesolowski+        (91)O1138  4 
+ 1002 28064   4 600  C 3300000. 11000.00 3.8000-5 1.1400-6-0.951594          0.000000         LVLE.Wesolowski+        (91)O1138  4 
+#/DATA      9
+#/DATASET

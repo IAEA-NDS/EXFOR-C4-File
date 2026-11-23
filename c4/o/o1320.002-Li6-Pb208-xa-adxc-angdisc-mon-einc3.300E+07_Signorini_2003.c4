@@ -1,0 +1,36 @@
+#ENTRY      O1320
+#AUTHOR1    C.Signorini+
+#YEAR       2003
+#INSTITUTE  (2ITYPAD)
+#TITLE      Exclusive breakup of Li-6 by Pb-208 at coulomb barrier
+#+          energies.
+#AUTHOR(S)  C.Signorini, A.Edifizi, M.Mazzocco, M.Lunardon, D.Fabris, 
+#+          A.Vitturi, P.Scopel, F.Soramel, L.Stroe, G.Prete, E.Fioretto, 
+#+          M.Cinausero, M.Trotta, A.Brondi, R.Moro, G.La Rana, E.Vardaci, 
+#+          A.Ordine, G.Inglima, M.La Commara, D.Pierroutsakou, M.Romoli, 
+#+          M.Sandoli, A.Diaz-Torres, I.J.Thompson, Z.H.Liu
+#REF-CODE   (J,PR/C,67,044607,2003)
+#REFERENCE  Phys.Rev.C 67 (2003) 044607
+#DATASETS   0
+#
+#DATASET    O1320002 
+#DATE       20070524
+#REACTION   82-PB-208(3-LI-6,X)2-HE-4,,DA
+#PROJ       3006
+#TARG       82208
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 3006 82208   4 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 82208   4 207  C 3.3000+7          7.2000-3          0.714473                              C.Signorini+         (03)O1320  2 
+ 3006 82208   4 207  C 3.3000+7          0.019200          0.463296                              C.Signorini+         (03)O1320  2 
+ 3006 82208   4 207  C 3.3000+7          0.046000          0.192522                              C.Signorini+         (03)O1320  2 
+ 3006 82208   4 207  C 3.3000+7          0.053000         -0.295708                              C.Signorini+         (03)O1320  2 
+ 3006 82208   4 207  C 3.3000+7          0.034000         -0.541708                              C.Signorini+         (03)O1320  2 
+ 3006 82208   4 207  C 3.3000+7          0.022500         -0.796530                              C.Signorini+         (03)O1320  2 
+ 3006 82208   4 207  C 3.3000+7          0.018400         -0.909961                              C.Signorini+         (03)O1320  2 
+#/DATA      7
+#/DATASET

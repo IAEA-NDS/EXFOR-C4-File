@@ -1,0 +1,36 @@
+#ENTRY      O0291
+#AUTHOR1    F.E.Bertrand+
+#YEAR       1970
+#INSTITUTE  (1USAORL)
+#TITLE      Tabulated cross sections for hydrogen and helium
+#+          particles produced by 62, 39 and 29 MeV protons on
+#+          54-Fe.
+#AUTHOR(S)  F.E.Bertrand, R.W.Peelle
+#REF-CODE   (R,ORNL-4469,197002)
+#REFERENCE  Report ORNL-4469, 1970
+#DATASETS   0
+#
+#DATASET    O0291003 
+#DATE       20151028
+#REACTION   26-FE-54(P,INL)26-FE-54,PAR,DA
+#PROJ       1001
+#TARG       26054
+#MF         4
+#MT         601
+#PRODUCT    26-FE-54
+#C4BEGIN    [ 1001 26054   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26054   4 601  C 6.1500+7 100000.0 4.6000-4 8.7400-5 0.964095          4600000.         LVLF.E.Bertrand+        (70)O0291  3 
+ 1001 26054   4 601  C 6.1500+7 100000.0 4.3000-4 3.4400-5 0.902585          4600000.         LVLF.E.Bertrand+        (70)O0291  3 
+ 1001 26054   4 601  C 6.1500+7 100000.0 1.3000-4 1.6900-5 0.887011          4600000.         LVLF.E.Bertrand+        (70)O0291  3 
+ 1001 26054   4 601  C 6.1500+7 100000.0 5.8000-5 1.6240-5 0.861629          4600000.         LVLF.E.Bertrand+        (70)O0291  3 
+ 1001 26054   4 601  C 6.1500+7 100000.0 6.0000-5 3.4800-5 0.812084          4600000.         LVLF.E.Bertrand+        (70)O0291  3 
+ 1001 26054   4 601  C 6.1500+7 100000.0 1.1000-4 2.0900-5 0.758134          4600000.         LVLF.E.Bertrand+        (70)O0291  3 
+ 1001 26054   4 601  C 6.1500+7 100000.0 3.9000-5 1.2090-5 0.673013          4600000.         LVLF.E.Bertrand+        (70)O0291  3 
+ 1001 26054   4 601  C 6.1500+7 100000.0 1.9000-5 8.3600-6 0.632029          4600000.         LVLF.E.Bertrand+        (70)O0291  3 
+ 1001 26054   4 601  C 6.1500+7 100000.0 1.8000-5 3.9600-6 0.406737          4600000.         LVLF.E.Bertrand+        (70)O0291  3 
+ 1001 26054   4 601  C 6.1500+7 100000.0 1.1000-5 5.9400-6 0.325568          4600000.         LVLF.E.Bertrand+        (70)O0291  3 
+#/DATA      10
+#/DATASET

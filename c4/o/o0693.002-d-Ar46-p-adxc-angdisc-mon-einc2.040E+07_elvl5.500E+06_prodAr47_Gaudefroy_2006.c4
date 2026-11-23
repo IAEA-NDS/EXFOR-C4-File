@@ -1,0 +1,37 @@
+#ENTRY      O0693
+#AUTHOR1    L.Gaudefroy+
+#YEAR       2006
+#INSTITUTE  (2FR CSN)
+#TITLE      Reduction of the spin-orbit splitting at the N=28
+#+          shell closure
+#AUTHOR(S)  L.Gaudefroy, O.Sorlin, D.Beaumel, Y.Blumenfeld, Z.Dombradi, 
+#+          S.Fortier, S.Franchoo, M.Gelin, J.Gibelin, S.Grevy, F.Hammache, 
+#+          F.Ibrahim, K.W.Kemper, K.-L.Kratz, S.M.Lukyanov, C.Monrozeau, 
+#+          L.Nalpas, F.Nowacki, A.N.Ostrowski, T.Otsuka, Yu.-E.Penionzhkevich, 
+#+          J.Piekarewicz, E.C.Pollacco, P.Roussel-Chomaz, E.Rich, J.A.Scarpaci, 
+#+          M.G.St.Laurent, D.Sohler, M.Stanoiu, T.Suzuki, E.Tryggestad, 
+#+          D.Verney
+#REF-CODE   (J,PRL,97,092501,2006)
+#REFERENCE  Phys.Rev.Lett. 97 (2006) 092501
+#DATASETS   0
+#
+#DATASET    O0693002 
+#DATE       20230111
+#REACTION   (1-H-2(18-AR-46,P)18-AR-47,PAR,DA,RSD)=(18-AR-46(D,P)18-AR-47,PAR,DA)
+#PROJ       1002
+#TARG       18046
+#MF         4
+#MT         600
+#PRODUCT    18-AR-47
+#C4BEGIN    [ 1002 18046   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 18046   4 600  C 2.0400+7 200000.0 0.011690 1.4650-3 0.991123 2.7149-3 5500000.         LVLL.Gaudefroy+         (06)O0693  2 
+ 1002 18046   4 600  C 2.0400+7 200000.0 0.012920 1.4290-3 0.984411 4.4818-3 5500000.         LVLL.Gaudefroy+         (06)O0693  2 
+ 1002 18046   4 600  C 2.0400+7 200000.0 0.012280 3.1960-3 0.974173 7.4879-3 5500000.         LVLL.Gaudefroy+         (06)O0693  2 
+ 1002 18046   4 600  C 2.0400+7 200000.0 0.012070 2.5230-3 0.957016 0.011845 5500000.         LVLL.Gaudefroy+         (06)O0693  2 
+ 1002 18046   4 600  C 2.0400+7 200000.0 8.4890-3 1.0560-3 0.930161 0.018775 5500000.         LVLL.Gaudefroy+         (06)O0693  2 
+ 1002 18046   4 600  C 2.0400+7 200000.0 6.9390-3 1.4030-3 0.886688 0.024774 5500000.         LVLL.Gaudefroy+         (06)O0693  2 
+#/DATA      6
+#/DATASET

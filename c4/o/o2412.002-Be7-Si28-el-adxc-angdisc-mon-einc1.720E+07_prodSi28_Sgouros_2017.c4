@@ -1,0 +1,46 @@
+#ENTRY      O2412
+#AUTHOR1    O.Sgouros+
+#YEAR       2017
+#INSTITUTE  (2GRCIOA)
+#TITLE      Elastic scattering of 7Be+28Si at near-barrier energies
+#AUTHOR(S)  O.Sgouros, A.Pakou, D.Pierroutsakou, M.Mazzocco, L.Acosta, 
+#+          X.Aslanoglou, Ch.Betsou, A.Boiano, C.Boiano, D.Carbone, 
+#+          M.Cavallaro, J.Grebosz, N.Keeley, M.La Commara, C.Manea, 
+#+          G.Marquinez-Duran, I.Martel, N.G.Nicolis, C.Parascandolo, 
+#+          K.Rusek, A.M.Sanchez-Benitez, C.Signorini, F.Soramel, V.Soukeras, 
+#+          C.Stefanini, E.Stiliaris, E.Strano, I.Strojek, D.Torresi
+#REF-CODE   (J,PR/C,95,054609,2017)
+#REFERENCE  Phys.Rev.C 95 (2017) 054609
+#DATASETS   0
+#
+#DATASET    O2412002 
+#DATE       20230617
+#REACTION   14-SI-28(4-BE-7,EL)14-SI-28,,DA,,RTH
+#PROJ       4007
+#TARG       14028
+#MF         4
+#MT         2
+#PRODUCT    14-SI-28
+#C4BEGIN    [ 4007 14028   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4007 14028   4   2 AC 1.7200+7          91.61203 3.777816 0.969829                              O.Sgouros+           (17)O2412  2 
+ 4007 14028   4   2 AC 1.7200+7          52.82455 2.641228 0.959658                              O.Sgouros+           (17)O2412  2 
+ 4007 14028   4   2 AC 1.7200+7          32.98319 1.585731 0.947935                              O.Sgouros+           (17)O2412  2 
+ 4007 14028   4   2 AC 1.7200+7          21.33218 1.015818 0.934950                              O.Sgouros+           (17)O2412  2 
+ 4007 14028   4   2 AC 1.7200+7          12.22018 0.452599 0.912834                              O.Sgouros+           (17)O2412  2 
+ 4007 14028   4   2 AC 1.7200+7          7.356313 0.340570 0.887655                              O.Sgouros+           (17)O2412  2 
+ 4007 14028   4   2 AC 1.7200+7          5.545115 0.252051 0.869409                              O.Sgouros+           (17)O2412  2 
+ 4007 14028   4   2 AC 1.7200+7          4.273274 0.190771 0.849893                              O.Sgouros+           (17)O2412  2 
+ 4007 14028   4   2 AC 1.7200+7          3.154429 0.147403 0.829233                              O.Sgouros+           (17)O2412  2 
+ 4007 14028   4   2 AC 1.7200+7          2.432757 0.115846 0.807372                              O.Sgouros+           (17)O2412  2 
+ 4007 14028   4   2 AC 1.7200+7          2.001919 0.093548 0.785641                              O.Sgouros+           (17)O2412  2 
+ 4007 14028   4   2 AC 1.7200+7          1.178686 0.098224 0.735388                              O.Sgouros+           (17)O2412  2 
+ 4007 14028   4   2 AC 1.7200+7          0.112175 0.013044 0.425937                              O.Sgouros+           (17)O2412  2 
+ 4007 14028   4   2 AC 1.7200+7          0.089470 0.011471 0.387837                              O.Sgouros+           (17)O2412  2 
+ 4007 14028   4   2 AC 1.7200+7          0.066854 0.010129 0.348572                              O.Sgouros+           (17)O2412  2 
+ 4007 14028   4   2 AC 1.7200+7          0.048733 9.0245-3 0.309847                              O.Sgouros+           (17)O2412  2 
+ 4007 14028   4   2 AC 1.7200+7          0.034758 5.7930-3 0.229540                              O.Sgouros+           (17)O2412  2 
+#/DATA      17
+#/DATASET

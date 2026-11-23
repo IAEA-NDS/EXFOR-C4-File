@@ -1,0 +1,48 @@
+#ENTRY      O0267
+#AUTHOR1    N.V.Alekseev+
+#YEAR       1974
+#INSTITUTE  (4RUSMOS)
+#TITLE      Proton elastic scattering by C-12 nuclei and analyzing
+#+          power C-12(p,p')C-12 in energy region 4.5-6.0 MeV
+#AUTHOR(S)  N.V.Alekseev, I.R.Gulamov, S.B.Ignat'ev, E.A.Romanovsky, 
+#+          E.I.Sirotinin, T.I.Spasskaya, K.S.Shishkin, V.B.Gubin
+#REF-CODE   (J,BAS,38,(12),153,1974)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 38 No.12 (1974) 153
+#DATASETS   0
+#
+#DATASET    O0267002 
+#DATE       20221208
+#REACTION   6-C-12(P,EL)6-C-12,,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4   2    5350000.          0.075500         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+ 1001  6012   4   2    5383000.          0.081100         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+ 1001  6012   4   2    5420000.          0.078100         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+ 1001  6012   4   2    5464000.          0.093300         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+ 1001  6012   4   2    5484000.          0.090000         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+ 1001  6012   4   2    5555000.          0.092000         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+ 1001  6012   4   2    5585000.          0.105900         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+ 1001  6012   4   2    5623000.          0.102800         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+ 1001  6012   4   2    5653000.          0.103900         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+ 1001  6012   4   2    5666000.          0.105000         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+ 1001  6012   4   2    5700000.          0.106000         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+ 1001  6012   4   2    5734000.          0.111700         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+ 1001  6012   4   2    5767000.          0.118600         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+ 1001  6012   4   2    5825000.          0.119600         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+ 1001  6012   4   2    5889000.          0.118600         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+ 1001  6012   4   2    5936000.          0.122700         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+ 1001  6012   4   2    5970000.          0.124400         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+ 1001  6012   4   2    6024000.          0.125400         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+ 1001  6012   4   2    6072000.          0.126400         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+ 1001  6012   4   2    6106000.          0.125400         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+ 1001  6012   4   2    6140000.          0.123600         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+ 1001  6012   4   2    6174000.          0.122600         -0.569280                              N.V.Alekseev+        (74)O0267  2 
+#/DATA      22
+#/DATASET

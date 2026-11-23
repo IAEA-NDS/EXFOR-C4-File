@@ -1,0 +1,49 @@
+#ENTRY      O2181
+#AUTHOR1    J.G.Johansen+
+#YEAR       2013
+#INSTITUTE  (2DENAAU)
+#TITLE      Experimental study of bound states in 12Be through low-
+#+          energy 11Be(d,p)-transfer reactions.
+#AUTHOR(S)  J.G.Johansen, V.Bildstein, M.J.G.Borge, M.Cubero, J.Diriken, 
+#+          J.Elseviers, L.M.Fraile, H.O.U.Fynbo, L.P.Gaffney, R.Gernhaeuser, 
+#+          B.Jonson, G.T.Koldste, J.Konki, T.Kroell, R.Kruecken, D.Muecher, 
+#+          T.Nilsson, K.Nowak, J.Pakarinen, V.Pesudo, R.Raabe, K.Riisager, 
+#+          M.Seidlitz, O.Tengblad, H.Toernqvist, D.Voulot, N.Warr, 
+#+          F.Wenander, K.Wimmer, H.De Witte
+#REF-CODE   (J,PR/C,88,044619,2013)
+#REFERENCE  Phys.Rev.C 88 (2013) 044619
+#DATASETS   0
+#
+#DATASET    O2181002 
+#DATE       20140611
+#REACTION   (1-H-2(4-BE-11,P)4-BE-12,PAR,DA,RSD)=(4-BE-11(D,P)4-BE-12,PAR,DA)
+#PROJ       1002
+#TARG       4011
+#MF         4
+#MT         600
+#PRODUCT    4-BE-12
+#C4BEGIN    [ 1002  4011   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4011   4 600  C 5600000.          1.2350-3 2.4210-4 0.506034          2240000.         LVLJ.G.Johansen+        (13)O2181  2 
+ 1002  4011   4 600  C 5600000.          2.3760-3 2.9170-4 0.458913          2240000.         LVLJ.G.Johansen+        (13)O2181  2 
+ 1002  4011   4 600  C 5600000.          1.9950-3 2.4480-4 0.412961          2240000.         LVLJ.G.Johansen+        (13)O2181  2 
+ 1002  4011   4 600  C 5600000.          2.0600-3 3.3010-4 0.359036          2240000.         LVLJ.G.Johansen+        (13)O2181  2 
+ 1002  4011   4 600  C 5600000.          2.9850-3 3.6630-4 0.315367          2240000.         LVLJ.G.Johansen+        (13)O2181  2 
+ 1002  4011   4 600  C 5600000.          3.1850-3 2.9790-4 0.259375          2240000.         LVLJ.G.Johansen+        (13)O2181  2 
+ 1002  4011   4 600  C 5600000.          2.6450-3 3.4980-4 0.209721          2240000.         LVLJ.G.Johansen+        (13)O2181  2 
+ 1002  4011   4 600  C 5600000.          1.6720-3 2.3400-4 0.159623          2240000.         LVLJ.G.Johansen+        (13)O2181  2 
+ 1002  4011   4 600  C 5600000.          1.1910-3 2.1240-4-3.1416-4          2240000.         LVLJ.G.Johansen+        (13)O2181  2 
+ 1002  4011   4 600  C 5600000.          1.2300-3 2.1870-4-0.049007          2240000.         LVLJ.G.Johansen+        (13)O2181  2 
+ 1002  4011   4 600  C 5600000.          9.3590-4 1.7520-4-0.104754          2240000.         LVLJ.G.Johansen+        (13)O2181  2 
+ 1002  4011   4 600  C 5600000.          8.1180-4 1.8710-4-0.155400          2240000.         LVLJ.G.Johansen+        (13)O2181  2 
+ 1002  4011   4 600  C 5600000.          1.0210-3 2.0810-4-0.205777          2240000.         LVLJ.G.Johansen+        (13)O2181  2 
+ 1002  4011   4 600  C 5600000.          7.5980-4 1.0770-4-0.257791          2240000.         LVLJ.G.Johansen+        (13)O2181  2 
+ 1002  4011   4 600  C 5600000.          1.1620-3 1.8620-4-0.313926          2240000.         LVLJ.G.Johansen+        (13)O2181  2 
+ 1002  4011   4 600  C 5600000.          7.9320-4 1.1970-4-0.357390          2240000.         LVLJ.G.Johansen+        (13)O2181  2 
+ 1002  4011   4 600  C 5600000.          8.0160-4 1.2840-4-0.409111          2240000.         LVLJ.G.Johansen+        (13)O2181  2 
+ 1002  4011   4 600  C 5600000.          8.6490-4 1.2250-4-0.453088          2240000.         LVLJ.G.Johansen+        (13)O2181  2 
+ 1002  4011   4 600  C 5600000.          9.1300-4 1.6280-4-0.502296          2240000.         LVLJ.G.Johansen+        (13)O2181  2 
+#/DATA      19
+#/DATASET

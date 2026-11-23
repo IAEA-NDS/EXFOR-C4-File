@@ -1,0 +1,33 @@
+#ENTRY      O1637
+#AUTHOR1    P.De Gelder+
+#YEAR       1982
+#INSTITUTE  (2BLGGHT)
+#TITLE      Excited states of Tc-102. A study of the proton-neutron
+#+          interaction.
+#AUTHOR(S)  P.De Gelder, D.De Frenne, E.Jacobs, K.Heyde, S.Fortier, 
+#+          J.M.Maison, M.N.Rao, C.P.Massolo
+#REF-CODE   (J,PR/C,25,146,1982)
+#REFERENCE  Phys.Rev.C 25 (1982) 146
+#DATASETS   0
+#
+#DATASET    O1637004 
+#DATE       20080311
+#REACTION   42-MO-100(HE3,P)43-TC-102,PAR,DA
+#PROJ       2003
+#TARG       42100
+#MF         4
+#MT         600
+#PRODUCT    43-TC-102
+#C4BEGIN    [ 2003 42100   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 42100   4 600  C 2.5000+7          1.9700-5 1.5760-6 0.990073          0.000000         LVLP.De Gelder+         (82)O1637  4 
+ 2003 42100   4 600  C 2.5000+7          1.0200-5 5.1000-7 0.974800          0.000000         LVLP.De Gelder+         (82)O1637  4 
+ 2003 42100   4 600  C 2.5000+7          8.2000-6 4.9200-7 0.952768          0.000000         LVLP.De Gelder+         (82)O1637  4 
+ 2003 42100   4 600  C 2.5000+7          8.0000-6 4.8000-7 0.921389          0.000000         LVLP.De Gelder+         (82)O1637  4 
+ 2003 42100   4 600  C 2.5000+7          5.3000-6 3.1800-7 0.884011          0.000000         LVLP.De Gelder+         (82)O1637  4 
+ 2003 42100   4 600  C 2.5000+7          4.0000-6 8.0000-7 0.839904          0.000000         LVLP.De Gelder+         (82)O1637  4 
+ 2003 42100   4 600  C 2.5000+7          5.3000-6 4.2400-7 0.730997          0.000000         LVLP.De Gelder+         (82)O1637  4 
+#/DATA      7
+#/DATASET

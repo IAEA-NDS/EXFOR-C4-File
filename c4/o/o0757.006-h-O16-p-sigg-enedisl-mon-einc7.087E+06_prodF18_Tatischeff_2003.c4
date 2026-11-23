@@ -1,0 +1,30 @@
+#ENTRY      O0757
+#AUTHOR1    V.Tatischeff+
+#YEAR       2003
+#INSTITUTE  (2FR CSN)
+#TITLE      Cross sections relevant to gamma-ray line emission in
+#+          solar flares:  3-He-induced reactions on 16-O nuclei
+#AUTHOR(S)  V.Tatischeff, J.Duprat, J.Kiener, M.Assuncao, A.Coc, C.Engrand, 
+#+          M.Gounelle, A.Lefebvre, M.-G.Porquet, N.De Sereville, J.P.Thibaud C.Bourgeois, 
+#+          M.Chabot, F.Hammache, J.-A.Scarpaci
+#REF-CODE   (J,PR/C,68,025804,2003)
+#REFERENCE  Phys.Rev.C 68 (2003) 025804
+#DATASETS   0
+#
+#DATASET    O0757006 
+#DATE       20040625
+#REACTION   8-O-16(HE3,P)9-F-18,PAR,SIG,G
+#PROJ       2003
+#TARG       8016
+#MF         13
+#MT         600
+#PRODUCT    9-F-18
+#C4BEGIN    [ 2003  8016  13 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  8016  13 600    7087000. 163000.0 0.214730 0.012018                   937000.0            V.Tatischeff+        (03)O0757  6 
+ 2003  8016  13 600    7087000. 163000.0 0.071321 7.0240-3                   1042000.            V.Tatischeff+        (03)O0757  6 
+ 2003  8016  13 600    7087000. 163000.0 0.020868 1.7540-3                   1081000.            V.Tatischeff+        (03)O0757  6 
+#/DATA      3
+#/DATASET

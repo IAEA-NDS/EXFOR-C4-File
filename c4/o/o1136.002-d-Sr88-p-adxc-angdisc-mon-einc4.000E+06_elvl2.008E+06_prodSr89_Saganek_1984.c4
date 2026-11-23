@@ -1,0 +1,35 @@
+#ENTRY      O1136
+#AUTHOR1    A.Saganek+
+#YEAR       1984
+#INSTITUTE  (3POLWWA)
+#TITLE      Neutron orbit radii in Sr-89 from the (d,p) sub-coulomb
+#+          reaction.
+#AUTHOR(S)  A.Saganek, V.Meyer, S.Mirowski, M.Oteski, M.Sieminski, E.Wesolowski, 
+#+          Z.Wilhelmi
+#REF-CODE   (J,JP/G,10,549,1984)
+#REFERENCE  J.Phys.G 10 (1984) 549
+#DATASETS   0
+#
+#DATASET    O1136002 
+#DATE       20040423
+#REACTION   38-SR-88(D,P)38-SR-89,PAR,DA
+#PROJ       1002
+#TARG       38088
+#MF         4
+#MT         600
+#PRODUCT    38-SR-89
+#C4BEGIN    [ 1002 38088   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 38088   4 600  C 4000000. 22500.00 1.4600-4 1.6060-5 0.161604          2008000.         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 4000000. 22500.00 1.5200-4 1.3680-5-3.4907-3          2008000.         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 4000000. 22500.00 1.9100-4 2.2920-5-0.187381          2008000.         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 4000000. 22500.00 1.7800-4 1.2460-5-0.355107          2008000.         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 4000000. 22500.00 2.1400-4 1.4980-5-0.522499          2008000.         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 4000000. 22500.00 2.0200-4 1.6160-5-0.656059          2008000.         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 4000000. 22500.00 2.0000-4 1.6000-5-0.780430          2008000.         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 4000000. 22500.00 2.2400-4 1.5680-5-0.874620          2008000.         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 4000000. 22500.00 2.3100-4 1.8480-5-0.952129          2008000.         LVLA.Saganek+           (84)O1136  2 
+#/DATA      9
+#/DATASET

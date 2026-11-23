@@ -1,0 +1,37 @@
+#ENTRY      O2420
+#AUTHOR1    D.S.Jamieson+
+#YEAR       2018
+#INSTITUTE  (1CANGUE)
+#TITLE      Nuclear structure of 112Cd studied through the
+#+          111Cd(d,p) reaction
+#AUTHOR(S)  D.S.Jamieson, P.E.Garrett, G.C.Ball, G.A.Demand, T.Faestermann, 
+#+          P.Finlay, K.L.Green, R.Hertenberger, K.G.Leach, A.A.Phillips, 
+#+          C.S.Sumithrarachchi, S.Triambak, H.-F.Wirth
+#REF-CODE   (J,PR/C,98,044309,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 044309
+#DATASETS   0
+#
+#DATASET    O24200041
+#DATE       20190203
+#REACTION   48-CD-111(D,P)48-CD-112,PAR,DA
+#PROJ       1002
+#TARG       48111
+#MF         4
+#MT         600
+#PRODUCT    48-CD-112
+#C4BEGIN    [ 1002 48111   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 48111   4 600  C 2.2000+7          1.8070-4 7.4000-6 0.984442          3300000.         LVLD.S.Jamieson+        (18)O2420  41
+ 1002 48111   4 600  C 2.2000+7          1.9450-4 7.2000-6 0.965154          3300000.         LVLD.S.Jamieson+        (18)O2420  41
+ 1002 48111   4 600  C 2.2000+7          1.4330-4 5.3000-6 0.938312          3300000.         LVLD.S.Jamieson+        (18)O2420  41
+ 1002 48111   4 600  C 2.2000+7          8.0300-5 3.2000-6 0.904232          3300000.         LVLD.S.Jamieson+        (18)O2420  41
+ 1002 48111   4 600  C 2.2000+7          4.5200-5 2.1000-6 0.863043          3300000.         LVLD.S.Jamieson+        (18)O2420  41
+ 1002 48111   4 600  C 2.2000+7          4.0700-5 1.7000-6 0.815229          3300000.         LVLD.S.Jamieson+        (18)O2420  41
+ 1002 48111   4 600  C 2.2000+7          3.2000-5 1.3000-6 0.761199          3300000.         LVLD.S.Jamieson+        (18)O2420  41
+ 1002 48111   4 600  C 2.2000+7          2.1020-5 9.1000-7 0.701158          3300000.         LVLD.S.Jamieson+        (18)O2420  41
+ 1002 48111   4 600  C 2.2000+7          1.6760-5 7.1000-7 0.635809          3300000.         LVLD.S.Jamieson+        (18)O2420  41
+ 1002 48111   4 600  C 2.2000+7          9.8500-6 7.3000-7 0.491208          3300000.         LVLD.S.Jamieson+        (18)O2420  41
+#/DATA      10
+#/DATASET

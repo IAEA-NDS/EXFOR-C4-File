@@ -1,0 +1,37 @@
+#ENTRY      O1293
+#AUTHOR1    L.Gaudefroy+
+#YEAR       2005
+#INSTITUTE  (2FR PAR)
+#TITLE      Study of Ar-45 through (d,p) reaction at SPIRAL.
+#AUTHOR(S)  L.Gaudefroy, O.Sorlin, D.Beaumel, Y.Blumenfeld, Z.Dombradi, 
+#+          S.Fortier, S.Franchoo, M.Gelin, J.Gibelin, S.Grevy, F.Hammache, 
+#+          F.Ibrahim, K.Kemper, K.L.Kratz, S.M.Lukyanov, C.Monrozeau, 
+#+          L.Nalpas, F.Nowacki, A.N.Ostrowski, Yu.E.Penionzhkevich, 
+#+          E.Pollaco, P.Roussel-Chomaz, E.Rich, J.A.Scarpaci, M.G.St.Laurent, 
+#+          D.Sohler, M.Stanoiu, E.Tryggestadt, D.Verney
+#REF-CODE   (J,JP/G,31,S1623,2005)
+#REFERENCE  J.Phys.G 31 (2005) S1623
+#DATASETS   0
+#
+#DATASET    O1293002 
+#DATE       20080526
+#REACTION   1-H-2(18-AR-44,P)18-AR-45,PAR,DA
+#PROJ       18044
+#TARG       1002
+#MF         4
+#MT         600
+#PRODUCT    18-AR-45
+#C4BEGIN    [18044  1002   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18044  1002   4 600  C 4.4000+8          1.8000-3 7.2000-4 0.995396 1.5055-3 0.000000         LVLL.Gaudefroy+         (05)O1293  2 
+18044  1002   4 600  C 4.4000+8          2.2000-3 5.9400-4 0.991671 2.4727-3 0.000000         LVLL.Gaudefroy+         (05)O1293  2 
+18044  1002   4 600  C 4.4000+8          2.4000-3 6.0000-4 0.985996 3.4928-3 0.000000         LVLL.Gaudefroy+         (05)O1293  2 
+18044  1002   4 600  C 4.4000+8          2.2000-3 5.0600-4 0.977783 3.2927-3 0.000000         LVLL.Gaudefroy+         (05)O1293  2 
+18044  1002   4 600  C 4.4000+8          2.0000-3 4.0000-4 0.968148 5.2439-3 0.000000         LVLL.Gaudefroy+         (05)O1293  2 
+18044  1002   4 600  C 4.4000+8          1.8000-3 5.0400-4 0.954761 7.2662-3 0.000000         LVLL.Gaudefroy+         (05)O1293  2 
+18044  1002   4 600  C 4.4000+8          3.2000-3 8.9600-4 0.938493 9.6425-3 0.000000         LVLL.Gaudefroy+         (05)O1293  2 
+18044  1002   4 600  C 4.4000+8          2.1100-3 2.9540-4 0.916363 8.3849-3 0.000000         LVLL.Gaudefroy+         (05)O1293  2 
+#/DATA      8
+#/DATASET

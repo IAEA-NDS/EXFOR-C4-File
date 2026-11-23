@@ -1,0 +1,31 @@
+#ENTRY      O1159
+#AUTHOR1    G.Rotbard+
+#YEAR       1977
+#INSTITUTE  (2FR PAR)
+#TITLE      Spectroscopy of Zn-68, Zn-70 and Ge-74 via the (d,He3)
+#+          reaction.
+#AUTHOR(S)  G.Rotbard, M.Vergnes, G.La Rana, J.Vernotte, J.Kalifa, G.Berrier, 
+#+          F.Guilbault, R.Tamisier, J.F.A.van Hienen
+#REF-CODE   (J,PR/C,16,1825,1977)
+#REFERENCE  Phys.Rev.C 16 (1977) 1825
+#DATASETS   0
+#
+#DATASET    O1159004 
+#DATE       20040512
+#REACTION   31-GA-71(D,HE3)30-ZN-70,PAR,DA
+#PROJ       1002
+#TARG       31071
+#MF         4
+#MT         750
+#PRODUCT    30-ZN-70
+#C4BEGIN    [ 1002 31071   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 31071   4 750  C 2.6000+7          1.4700-5 2.4990-6 0.968627          3503000.         LVLG.Rotbard+           (77)O1159  4 
+ 1002 31071   4 750  C 2.6000+7          5.9000-6 2.3600-6 0.949041          3503000.         LVLG.Rotbard+           (77)O1159  4 
+ 1002 31071   4 750  C 2.6000+7          8.4000-6 2.0160-6 0.921321          3503000.         LVLG.Rotbard+           (77)O1159  4 
+ 1002 31071   4 750  C 2.6000+7          5.4000-6 2.1600-6 0.890769          3503000.         LVLG.Rotbard+           (77)O1159  4 
+ 1002 31071   4 750  C 2.6000+7          2.9000-6 8.7000-7 0.815936          3503000.         LVLG.Rotbard+           (77)O1159  4 
+#/DATA      5
+#/DATASET

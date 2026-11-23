@@ -1,0 +1,26 @@
+#ENTRY      O0473
+#AUTHOR1    P.D.Greaves+
+#YEAR       1972
+#INSTITUTE  (2UK BIR)
+#TITLE      Elastic and Inelastic Scattering of 30.4 MeV Polarised
+#+          Protons by C-12, C-13, O-16 and Fe-54.
+#AUTHOR(S)  P.D.Greaves, V.Hnizdo, J.Lowe, O.Karban
+#REF-CODE   (J,NP/A,179,1,1972)
+#REFERENCE  Nucl.Phys.A 179 (1972) 1
+#DATASETS   0
+#
+#DATASET    O0473010 
+#DATE       20000426
+#REACTION   6-C-12(P,INL)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         601
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 601  C 3.0400+7          1.0400-3 5.2000-5 0.661312 9.1643-3 4440000.         LVLP.D.Greaves+         (72)O0473 10 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      O2170
+#AUTHOR1    J.Dudouet+
+#YEAR       2013
+#INSTITUTE  (2FR CAE)
+#TITLE      Double-differential fragmentation cross-section
+#+          measurements of 95 MeV/nucleon 12C beams on thin
+#+          targets for hadron therapy
+#AUTHOR(S)  J.Dudouet, D.Juliani, M.Labalme, D.Cussol, J.C.Angelique, 
+#+          B.Braunn, J.Colin, Ch.Finck, J.M.Fontbonne, H.Guerin, P.Henriquet, 
+#+          J.Krimmer, M.Rousseau, M.G.Saint-Laurent, S.Salvador
+#REF-CODE   (J,PR/C,88,024606,2013)
+#REFERENCE  Phys.Rev.C 88 (2013) 024606
+#DATASETS   0
+#
+#DATASET    O2170196 
+#DATE       20161017
+#REACTION   1-H-1(6-C-12,X)1-H-3,,DA/DE
+#PROJ       6012
+#TARG       1001
+#MF         6
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [ 6012  1001   6 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012  1001   6 205    1.1400+9          1.266-11-4.853-11 0.777146          3.3000+8 2.7529+7 E2J.Dudouet+           (13)O2170196 
+ 6012  1001   6 205    1.1400+9          3.949-13-1.514-12 0.777146          6.9000+8 8.9992+7 E2J.Dudouet+           (13)O2170196 
+ 6012  1001   6 205    1.1400+9          3.479-12-1.334-11 0.777146          8.1000+8 1.1683+8 E2J.Dudouet+           (13)O2170196 
+ 6012  1001   6 205    1.1400+9          3.294-12-1.263-11 0.777146          8.7000+8 1.3126+8 E2J.Dudouet+           (13)O2170196 
+ 6012  1001   6 205    1.1400+9          7.607-14-2.916-13 0.777146          9.9000+8 1.6203+8 E2J.Dudouet+           (13)O2170196 
+ 6012  1001   6 205    1.1400+9          7.208-13-2.763-12 0.777146          1.0500+9 1.7836+8 E2J.Dudouet+           (13)O2170196 
+ 6012  1001   6 205    1.1400+9          1.155-13-4.425-13 0.777146          1.1100+9 1.9521+8 E2J.Dudouet+           (13)O2170196 
+ 6012  1001   6 205    1.1400+9          2.126-13-8.148-13 0.777146          1.2900+9 2.4924+8 E2J.Dudouet+           (13)O2170196 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      O1871
+#AUTHOR1    N.Blasi+
+#YEAR       1997
+#INSTITUTE  (2ITYMIL)
+#TITLE      Study of Sm-153 via the Sm-154(p,d) reaction.
+#AUTHOR(S)  N.Blasi, S.Micheletti, M.Pignanelli, R.De Leo, A.Gollwitzer, 
+#+          S.Deylitz, B.D.Valnion, G.Graw, L.A.Maslov
+#REF-CODE   (J,NP/A,624,433,1997)
+#REFERENCE  Nucl.Phys.A 624 (1997) 433
+#DATASETS   0
+#
+#DATASET    O1871002 
+#DATE       20101228
+#REACTION   62-SM-154(P,D)62-SM-153,PAR,DA
+#PROJ       1001
+#TARG       62154
+#MF         4
+#MT         650
+#PRODUCT    62-SM-153
+#C4BEGIN    [ 1001 62154   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 62154   4 650  C 2.3000+7          4.1000-5          0.991694          91000.00         LVLN.Blasi+             (97)O1871  2 
+ 1001 62154   4 650  C 2.3000+7          4.3000-5          0.980133          91000.00         LVLN.Blasi+             (97)O1871  2 
+ 1001 62154   4 650  C 2.3000+7          5.0000-5          0.963630          91000.00         LVLN.Blasi+             (97)O1871  2 
+ 1001 62154   4 650  C 2.3000+7          5.9000-5 5.9000-6 0.941412          91000.00         LVLN.Blasi+             (97)O1871  2 
+ 1001 62154   4 650  C 2.3000+7          8.2000-5 9.0200-6 0.915030          91000.00         LVLN.Blasi+             (97)O1871  2 
+ 1001 62154   4 650  C 2.3000+7          7.2000-5 7.9200-6 0.884337          91000.00         LVLN.Blasi+             (97)O1871  2 
+ 1001 62154   4 650  C 2.3000+7          5.3000-5 7.9500-6 0.849433          91000.00         LVLN.Blasi+             (97)O1871  2 
+ 1001 62154   4 650  C 2.3000+7          4.2000-5 5.0400-6 0.811676          91000.00         LVLN.Blasi+             (97)O1871  2 
+#/DATA      8
+#/DATASET

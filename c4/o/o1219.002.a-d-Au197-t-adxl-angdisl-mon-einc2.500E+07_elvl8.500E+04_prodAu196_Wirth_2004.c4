@@ -1,0 +1,38 @@
+#ENTRY      O1219
+#AUTHOR1    H.F.Wirth+
+#YEAR       2004
+#INSTITUTE  (2GERLMU)
+#TITLE      One- and two-nucleon transfer reactions to Au-196.
+#AUTHOR(S)  H.F.Wirth, G.Graw, S.Christen, Y.Eisermann, A.Gollwitzer, 
+#+          R.Hertenberger, J.Jolie, A.Metz, O.Moeller, D.Tonev, B.D.Valnion
+#REF-CODE   (J,PR/C,70,014610,2004)
+#REFERENCE  Phys.Rev.C 70 (2004) 014610
+#DATASETS   0
+#
+#DATASET    O1219002A
+#DATE       20050130
+#REACTION   79-AU-197(D,T)79-AU-196,PAR,DA
+#PROJ       1002
+#TARG       79197
+#MF         4
+#MT         700
+#PRODUCT    79-AU-196
+#C4BEGIN    [ 1002 79197   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 79197   4 700    2.5000+7 3500.000 1.1200-5          0.990268          85000.00         LVLH.F.Wirth+           (04)O1219  2A
+ 1002 79197   4 700    2.5000+7 3500.000 1.1300-5          0.981627          85000.00         LVLH.F.Wirth+           (04)O1219  2A
+ 1002 79197   4 700    2.5000+7 3500.000 1.4800-5          0.970296          85000.00         LVLH.F.Wirth+           (04)O1219  2A
+ 1002 79197   4 700    2.5000+7 3500.000 2.5800-5          0.956305          85000.00         LVLH.F.Wirth+           (04)O1219  2A
+ 1002 79197   4 700    2.5000+7 3500.000 3.8700-5          0.939693          85000.00         LVLH.F.Wirth+           (04)O1219  2A
+ 1002 79197   4 700    2.5000+7 3500.000 6.0000-5          0.920505          85000.00         LVLH.F.Wirth+           (04)O1219  2A
+ 1002 79197   4 700    2.5000+7 3500.000 8.0000-5          0.898794          85000.00         LVLH.F.Wirth+           (04)O1219  2A
+ 1002 79197   4 700    2.5000+7 3500.000 7.6000-5          0.874620          85000.00         LVLH.F.Wirth+           (04)O1219  2A
+ 1002 79197   4 700    2.5000+7 3500.000 6.5000-5          0.848048          85000.00         LVLH.F.Wirth+           (04)O1219  2A
+ 1002 79197   4 700    2.5000+7 3500.000 4.8800-5          0.819152          85000.00         LVLH.F.Wirth+           (04)O1219  2A
+ 1002 79197   4 700    2.5000+7 3500.000 3.6900-5          0.788011          85000.00         LVLH.F.Wirth+           (04)O1219  2A
+ 1002 79197   4 700    2.5000+7 3500.000 3.6100-5          0.743145          85000.00         LVLH.F.Wirth+           (04)O1219  2A
+ 1002 79197   4 700    2.5000+7 3500.000 2.9000-5          0.669131          85000.00         LVLH.F.Wirth+           (04)O1219  2A
+#/DATA      13
+#/DATASET

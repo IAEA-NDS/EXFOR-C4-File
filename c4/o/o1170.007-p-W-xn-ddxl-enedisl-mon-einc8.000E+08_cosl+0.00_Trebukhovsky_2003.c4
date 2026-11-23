@@ -1,0 +1,51 @@
+#ENTRY      O1170
+#AUTHOR1    Yu.V.Trebukhovsky+
+#YEAR       2003
+#INSTITUTE  (4RUSITE)
+#TITLE      Double-differential cross sections of neutrons from
+#+          0.8, 1.0 and 1.6-GeV proton- irradiated Pb, W, Zr, Cu,
+#+          Al and Na-targets.
+#AUTHOR(S)  Yu.V.Trebukhovsky, Yu.E.Titarenko, V.F.Batyaev, E.I.Karpikhin, 
+#+          R.D.Mulambetov, S.V.Mulambetova, G.N.Smirnov, K.A.Lipatov, 
+#+          A.B.Koldobsky, V.M.Zhivun, Yu.V.Nekrasov, V.S.Barashenkov, 
+#+          H.Kumawat, S.G.Mashnik, R.E.Prael
+#REF-CODE   (P,ITEF-3-03,2003)
+#REFERENCE  Progress report ITEF-3-03, 2003
+#DATASETS   0
+#
+#DATASET    O1170007 
+#DATE       20041026
+#REACTION   74-W-0(P,X)0-NN-1,,DA/DE
+#PROJ       1001
+#TARG       74000
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1001 74000   6 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 74000   6 201    8.0000+8          1.6600-7 1.7000-8 6.123-17          3100000.          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+ 1001 74000   6 201    8.0000+8          1.4400-7 1.5000-8 6.123-17          3680000.          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+ 1001 74000   6 201    8.0000+8          1.1800-7 1.2000-8 6.123-17          4380000.          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+ 1001 74000   6 201    8.0000+8          9.4000-8 1.1000-8 6.123-17          5220000.          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+ 1001 74000   6 201    8.0000+8          6.6900-8 6.8000-9 6.123-17          6220000.          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+ 1001 74000   6 201    8.0000+8          5.0900-8 5.1000-9 6.123-17          7430000.          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+ 1001 74000   6 201    8.0000+8          4.2800-8 4.3000-9 6.123-17          8900000.          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+ 1001 74000   6 201    8.0000+8          2.4300-8 2.5000-9 6.123-17          1.0700+7          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+ 1001 74000   6 201    8.0000+8          1.6600-8 1.7000-9 6.123-17          1.2900+7          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+ 1001 74000   6 201    8.0000+8          1.0200-8 1.1000-9 6.123-17          1.5600+7          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+ 1001 74000   6 201    8.0000+8          7.8500-9 8.000-10 6.123-17          1.9000+7          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+ 1001 74000   6 201    8.0000+8          5.1400-9 5.300-10 6.123-17          2.3300+7          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+ 1001 74000   6 201    8.0000+8          3.2900-9 3.500-10 6.123-17          2.8900+7          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+ 1001 74000   6 201    8.0000+8          2.6700-9 2.800-10 6.123-17          3.6100+7          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+ 1001 74000   6 201    8.0000+8          2.0500-9 2.100-10 6.123-17          4.5600+7          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+ 1001 74000   6 201    8.0000+8          1.4000-9 1.500-10 6.123-17          5.8400+7          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+ 1001 74000   6 201    8.0000+8          8.820-10 1.010-10 6.123-17          7.6000+7          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+ 1001 74000   6 201    8.0000+8          5.280-10 8.300-11 6.123-17          1.0100+8          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+ 1001 74000   6 201    8.0000+8          2.640-10 4.500-11 6.123-17          1.3400+8          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+ 1001 74000   6 201    8.0000+8          1.050-10 1.800-11 6.123-17          1.7900+8          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+ 1001 74000   6 201    8.0000+8          3.600-11 7.000-12 6.123-17          2.4100+8          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+ 1001 74000   6 201    8.0000+8          1.000-11 2.000-12 6.123-17          3.3300+8          E2Yu.V.Trebukhovsky+   (03)O1170  7 
+#/DATA      22
+#/DATASET

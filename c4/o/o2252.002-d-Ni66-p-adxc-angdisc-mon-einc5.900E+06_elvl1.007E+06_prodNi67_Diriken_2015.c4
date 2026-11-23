@@ -1,0 +1,48 @@
+#ENTRY      O2252
+#AUTHOR1    J.Diriken+
+#YEAR       2015
+#INSTITUTE  (2BLGLEU)
+#TITLE      Experimental study of the Ni-66(d,p)Ni-67 one-neutron
+#+          transfer reaction.
+#AUTHOR(S)  J.Diriken, N.Patronis, A.N.Andreyev, S.Antalic, V.Bildstein, 
+#+          A.Blazhev, I.G.Darby, H.de Witte, J.Eberth, J.Elseviers, 
+#+          V.N.Fedosseev, F.Flavigny, Ch.Fransen, G.Georgiev, R.Gernhauser, 
+#+          H.Hess, M.Huyse, J.Jolie, Th.Kroell, R.Kruecken, R.Lutter, 
+#+          B.A.Marsh, T.Mertzimekis, D.Muecher, R.Orlandi, A.Pakou, 
+#+          R.Raabe, G.Randisi, P.Reiter, T.Roger, M.Seidlitz, M.Seliverstov, 
+#+          C.Sotty, H.Tornqvist, J.Van de Walle, P.Van Duppen, D.Voulot, 
+#+          N.Warr, F.Wenander, K.Wimmer
+#REF-CODE   (J,PR/C,91,054321,2015)
+#REFERENCE  Phys.Rev.C 91 (2015) 054321
+#DATASETS   0
+#
+#DATASET    O2252002 
+#DATE       20151102
+#REACTION   (1-H-2(28-NI-66,P)28-NI-67,PAR,DA,RSD)=(28-NI-66(D,P)28-NI-67,PAR,DA)
+#PROJ       1002
+#TARG       28066
+#MF         4
+#MT         600
+#PRODUCT    28-NI-67
+#C4BEGIN    [ 1002 28066   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28066   4 600  C 5900000.          9.0000-5 4.0000-5 0.968148          1007000.         LVLJ.Diriken+           (15)O2252  2 
+ 1002 28066   4 600  C 5900000.          1.5000-4 4.0000-5 0.956814          1007000.         LVLJ.Diriken+           (15)O2252  2 
+ 1002 28066   4 600  C 5900000.          8.0000-5 4.0000-5 0.942057          1007000.         LVLJ.Diriken+           (15)O2252  2 
+ 1002 28066   4 600  C 5900000.          1.2000-4 4.0000-5 0.925210          1007000.         LVLJ.Diriken+           (15)O2252  2 
+ 1002 28066   4 600  C 5900000.          1.0000-4 4.0000-5 0.904827          1007000.         LVLJ.Diriken+           (15)O2252  2 
+ 1002 28066   4 600  C 5900000.          1.3000-4 4.0000-5 0.880477          1007000.         LVLJ.Diriken+           (15)O2252  2 
+ 1002 28066   4 600  C 5900000.          1.1000-4 4.0000-5 0.850811          1007000.         LVLJ.Diriken+           (15)O2252  2 
+ 1002 28066   4 600  C 5900000.          1.2000-4 3.0000-5 0.817145          1007000.         LVLJ.Diriken+           (15)O2252  2 
+ 1002 28066   4 600  C 5900000.          2.7000-4 3.0000-5 0.272280          1007000.         LVLJ.Diriken+           (15)O2252  2 
+ 1002 28066   4 600  C 5900000.          3.7000-4 3.0000-5 0.166769          1007000.         LVLJ.Diriken+           (15)O2252  2 
+ 1002 28066   4 600  C 5900000.          3.5000-4 3.0000-5 0.055822          1007000.         LVLJ.Diriken+           (15)O2252  2 
+ 1002 28066   4 600  C 5900000.          2.5000-4 3.0000-5-0.061049          1007000.         LVLJ.Diriken+           (15)O2252  2 
+ 1002 28066   4 600  C 5900000.          2.7000-4 3.0000-5-0.182236          1007000.         LVLJ.Diriken+           (15)O2252  2 
+ 1002 28066   4 600  C 5900000.          2.4000-4 3.0000-5-0.302370          1007000.         LVLJ.Diriken+           (15)O2252  2 
+ 1002 28066   4 600  C 5900000.          2.8000-4 5.0000-5-0.421036          1007000.         LVLJ.Diriken+           (15)O2252  2 
+ 1002 28066   4 600  C 5900000.          2.3000-4 5.0000-5-0.534352          1007000.         LVLJ.Diriken+           (15)O2252  2 
+#/DATA      16
+#/DATASET

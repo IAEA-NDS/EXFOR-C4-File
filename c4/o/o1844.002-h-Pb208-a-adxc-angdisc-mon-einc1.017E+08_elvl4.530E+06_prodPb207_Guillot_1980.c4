@@ -1,0 +1,37 @@
+#ENTRY      O1844
+#AUTHOR1    J.Guillot+
+#YEAR       1980
+#INSTITUTE  (2FR PAR)
+#TITLE      Neutron hole states in Pb-207,206,205 isotopes via the
+#+          (He3,a) reaction at 100 MeV.
+#AUTHOR(S)  J.Guillot, J.Van de Wiele, H.Langevin-Joliot, E.Gerlic, 
+#+          J.P.Didelez, G.Duhamel, G.Perrin, M.Buenerd, J.Chauvin
+#REF-CODE   (J,PR/C,21,879,1980)
+#REFERENCE  Phys.Rev.C 21 (1980) 879
+#DATASETS   0
+#
+#DATASET    O1844002 
+#DATE       20100307
+#REACTION   82-PB-208(HE3,A)82-PB-207,PAR,DA
+#PROJ       2003
+#TARG       82208
+#MF         4
+#MT         800
+#PRODUCT    82-PB-207
+#C4BEGIN    [ 2003 82208   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 82208   4 800  C 1.0170+8 100000.0 4.8400-4 8.2280-6 0.999565          4530000.         LVLJ.Guillot+           (80)O1844  2 
+ 2003 82208   4 800  C 1.0170+8 100000.0 4.8000-4 7.2000-5 0.998898          4530000.         LVLJ.Guillot+           (80)O1844  2 
+ 2003 82208   4 800  C 1.0170+8 100000.0 2.7200-4 4.0800-6 0.996652          4530000.         LVLJ.Guillot+           (80)O1844  2 
+ 2003 82208   4 800  C 1.0170+8 100000.0 3.2800-4 4.9200-6 0.994810          4530000.         LVLJ.Guillot+           (80)O1844  2 
+ 2003 82208   4 800  C 1.0170+8 100000.0 1.9500-4 2.9250-6 0.988335          4530000.         LVLJ.Guillot+           (80)O1844  2 
+ 2003 82208   4 800  C 1.0170+8 100000.0 1.5000-4 2.4000-6 0.984381          4530000.         LVLJ.Guillot+           (80)O1844  2 
+ 2003 82208   4 800  C 1.0170+8 100000.0 1.2900-4 1.1610-5 0.979294          4530000.         LVLJ.Guillot+           (80)O1844  2 
+ 2003 82208   4 800  C 1.0170+8 100000.0 8.9000-5 1.1570-5 0.968060          4530000.         LVLJ.Guillot+           (80)O1844  2 
+ 2003 82208   4 800  C 1.0170+8 100000.0 5.9000-5 4.1300-6 0.951164          4530000.         LVLJ.Guillot+           (80)O1844  2 
+ 2003 82208   4 800  C 1.0170+8 100000.0 4.1700-5 7.0890-7 0.943396          4530000.         LVLJ.Guillot+           (80)O1844  2 
+ 2003 82208   4 800  C 1.0170+8 100000.0 5.3000-5 4.7700-6 0.934267          4530000.         LVLJ.Guillot+           (80)O1844  2 
+#/DATA      11
+#/DATASET

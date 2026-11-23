@@ -1,0 +1,37 @@
+#ENTRY      O0028
+#AUTHOR1    A.Fazely+
+#YEAR       1982
+#INSTITUTE  (1USAMIT)
+#TITLE      Spectroscopy of F-16 from the O-16(p,n)F-16 reaction
+#+          at 99 and 135 MeV.
+#AUTHOR(S)  A.Fazely, B.D.Anderson, M.Ahmad, A.R.Baldwin, A.M.Kalenda, 
+#+          R.J.McCarthy, J.W.Watson, R.Madey, W.Bertozzi, T.N.Buti, 
+#+          J.M.Finn, M.A.Kovash, B.Pugh, C.C.Foster
+#REF-CODE   (J,PR/C,25,1760,1982)
+#REFERENCE  Phys.Rev.C 25 (1982) 1760
+#DATASETS   0
+#
+#DATASET    O0028002 
+#DATE       20190208
+#REACTION   8-O-16(P,N)9-F-16,PAR,DA
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         50
+#PRODUCT    9-F-16
+#C4BEGIN    [ 1001  8016   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4  50  C 9.9100+7          6.6600-4 6.2000-5 0.999998          7600000.         LVLA.Fazely+            (82)O0028  2 
+ 1001  8016   4  50  C 9.9100+7          1.1230-3 9.7000-5 0.993768          7600000.         LVLA.Fazely+            (82)O0028  2 
+ 1001  8016   4  50  C 9.9100+7          1.3430-3 1.0600-4 0.976296          7600000.         LVLA.Fazely+            (82)O0028  2 
+ 1001  8016   4  50  C 9.9100+7          7.7000-4 6.6000-5 0.944949          7600000.         LVLA.Fazely+            (82)O0028  2 
+ 1001  8016   4  50  C 9.9100+7          4.6500-4 3.0000-5 0.899558          7600000.         LVLA.Fazely+            (82)O0028  2 
+ 1001  8016   4  50  C 9.9100+7          4.0900-4 3.0000-5 0.894934          7600000.         LVLA.Fazely+            (82)O0028  2 
+ 1001  8016   4  50  C 9.9100+7          2.8100-4 5.2000-5 0.843391          7600000.         LVLA.Fazely+            (82)O0028  2 
+ 1001  8016   4  50  C 9.9100+7          1.2900-4 3.3000-5 0.781520          7600000.         LVLA.Fazely+            (82)O0028  2 
+ 1001  8016   4  50  C 9.9100+7          1.1000-4 1.0000-5 0.719340          7600000.         LVLA.Fazely+            (82)O0028  2 
+ 1001  8016   4  50  C 9.9100+7          6.3000-5 9.0000-6 0.617036          7600000.         LVLA.Fazely+            (82)O0028  2 
+#/DATA      10
+#/DATASET

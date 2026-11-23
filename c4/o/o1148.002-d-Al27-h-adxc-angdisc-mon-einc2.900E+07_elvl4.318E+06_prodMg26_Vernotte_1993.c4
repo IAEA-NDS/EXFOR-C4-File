@@ -1,0 +1,33 @@
+#ENTRY      O1148
+#AUTHOR1    J.Vernotte+
+#YEAR       1993
+#INSTITUTE  (2FR PAR)
+#TITLE      Al-27(d,He3)Mg-26 reaction at 29-MeV.
+#AUTHOR(S)  J.Vernotte, G.Berrier-Ronsin, S.Fortier, E.Hourani, J.Kalifa, 
+#+          J.M.Maison, L.H.Rosier, G.Rotbard, B.H.Wildenthal
+#REF-CODE   (J,PR/C,48,205,1993)
+#REFERENCE  Phys.Rev.C 48 (1993) 205
+#DATASETS   0
+#
+#DATASET    O1148002 
+#DATE       20040411
+#REACTION   13-AL-27(D,HE3)12-MG-26,PAR,DA
+#PROJ       1002
+#TARG       13027
+#MF         4
+#MT         750
+#PRODUCT    12-MG-26
+#C4BEGIN    [ 1002 13027   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 13027   4 750  C 2.9000+7          2.3000-3          0.996779          4318000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          1.8500-3          0.984196          4318000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          2.8600-3          0.970296          4318000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          2.7400-3          0.949425          4318000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          1.2000-3          0.922538          4318000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          3.4700-4          0.890213          4318000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          4.6000-4          0.764921          4318000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          1.4300-4          0.709571          4318000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+#/DATA      8
+#/DATASET

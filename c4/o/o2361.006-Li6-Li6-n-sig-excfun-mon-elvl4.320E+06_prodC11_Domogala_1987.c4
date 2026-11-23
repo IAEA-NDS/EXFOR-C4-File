@@ -1,0 +1,29 @@
+#ENTRY      O2361
+#AUTHOR1    G.Domogala+
+#YEAR       1987
+#INSTITUTE  (2GERBOC)
+#TITLE      The 6Li(6Li,p)11B and 6Li(6Li,n)11C reactions and
+#+          their implications for fusion of light ions
+#AUTHOR(S)  G.Domogala, H.Freiesleben
+#REF-CODE   (J,NP/A,467,149,1987)
+#REFERENCE  Nucl.Phys.A 467 (1987) 149
+#DATASETS   0
+#
+#DATASET    O2361006 
+#DATE       20180315
+#REACTION   3-LI-6(3-LI-6,N)6-C-11,PAR,SIG
+#PROJ       3006
+#TARG       3006
+#MF         3
+#MT         50
+#PRODUCT    6-C-11
+#C4BEGIN    [ 3006  3006   3  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006  3006   3  50    7000000.          2.0100-3 1.6080-4                   4320000.         LVLG.Domogala+          (87)O2361  6 
+ 3006  3006   3  50    7990000.          3.0800-3 2.4640-4                   4320000.         LVLG.Domogala+          (87)O2361  6 
+ 3006  3006   3  50    9000000.          3.1200-3 2.4960-4                   4320000.         LVLG.Domogala+          (87)O2361  6 
+ 3006  3006   3  50    1.0000+7          2.3400-3 1.8720-4                   4320000.         LVLG.Domogala+          (87)O2361  6 
+#/DATA      4
+#/DATASET

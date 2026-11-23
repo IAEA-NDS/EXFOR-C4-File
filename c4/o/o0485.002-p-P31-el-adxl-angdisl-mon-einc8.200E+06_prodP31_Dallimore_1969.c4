@@ -1,0 +1,26 @@
+#ENTRY      O0485
+#AUTHOR1    P.J.Dallimore+
+#YEAR       1969
+#INSTITUTE  (3AULCBR)
+#TITLE      Compound and Direct Processes in Proton Elastic
+#+          Scattering from P-31 and Ni-62.
+#AUTHOR(S)  P.J.Dallimore, W.F.Davidson, J.Hellstrom
+#REF-CODE   (J,NP/A,132,287,1969)
+#REFERENCE  Nucl.Phys.A 132 (1969) 287
+#DATASETS   0
+#
+#DATASET    O0485002 
+#DATE       20001124
+#REACTION   15-P-31(P,EL)15-P-31,,DA
+#PROJ       1001
+#TARG       15031
+#MF         4
+#MT         2
+#PRODUCT    15-P-31
+#C4BEGIN    [ 1001 15031   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 15031   4   2    8200000. 900.0000 0.748000 7.0000-3 0.866025                              P.J.Dallimore+       (69)O0485  2 
+#/DATA      1
+#/DATASET

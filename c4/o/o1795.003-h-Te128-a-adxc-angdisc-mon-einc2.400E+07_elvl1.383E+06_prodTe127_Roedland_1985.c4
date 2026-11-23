@@ -1,0 +1,42 @@
+#ENTRY      O1795
+#AUTHOR1    T.Roedland+
+#YEAR       1985
+#INSTITUTE  (2NORBGN)
+#TITLE      Nuclear structure studies with pick-up reactions on
+#+          even tellurium nuclei-The Te-128(d,t) and Te-128(He3,a)
+#+          reactions.
+#AUTHOR(S)  T.Roedland, J.R.Lien, G.Loevhoeiden, J.S.Vaagen, V.Oeygaard, 
+#+          C.Ellegaard
+#REF-CODE   (J,PS,32,201,1985)
+#REFERENCE  Phys.Scr. 32 (1985) 201
+#DATASETS   0
+#
+#DATASET    O1795003 
+#DATE       20091201
+#REACTION   52-TE-128(HE3,A)52-TE-127,PAR,DA
+#PROJ       2003
+#TARG       52128
+#MF         4
+#MT         800
+#PRODUCT    52-TE-127
+#C4BEGIN    [ 2003 52128   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 52128   4 800  C 2.4000+7          1.8300-5 2.0130-6 0.993768          1383000.         LVLT.Roedland+          (85)O1795  3 
+ 2003 52128   4 800  C 2.4000+7          1.0900-5 1.8530-6 0.978867          1383000.         LVLT.Roedland+          (85)O1795  3 
+ 2003 52128   4 800  C 2.4000+7          2.7000-5 2.9700-6 0.957319          1383000.         LVLT.Roedland+          (85)O1795  3 
+ 2003 52128   4 800  C 2.4000+7          3.4800-5 1.7400-6 0.927836          1383000.         LVLT.Roedland+          (85)O1795  3 
+ 2003 52128   4 800  C 2.4000+7          2.9000-5 2.6100-6 0.894934          1383000.         LVLT.Roedland+          (85)O1795  3 
+ 2003 52128   4 800  C 2.4000+7          3.2000-5 2.8800-6 0.847122          1383000.         LVLT.Roedland+          (85)O1795  3 
+ 2003 52128   4 800  C 2.4000+7          3.4700-5 3.1230-6 0.802817          1383000.         LVLT.Roedland+          (85)O1795  3 
+ 2003 52128   4 800  C 2.4000+7          2.8400-5 1.7040-6 0.744312          1383000.         LVLT.Roedland+          (85)O1795  3 
+ 2003 52128   4 800  C 2.4000+7          2.0300-5 1.6240-6 0.688355          1383000.         LVLT.Roedland+          (85)O1795  3 
+ 2003 52128   4 800  C 2.4000+7          2.6900-5 2.4210-6 0.625243          1383000.         LVLT.Roedland+          (85)O1795  3 
+ 2003 52128   4 800  C 2.4000+7          2.2100-5 1.9890-6 0.550481          1383000.         LVLT.Roedland+          (85)O1795  3 
+ 2003 52128   4 800  C 2.4000+7          1.3600-5 1.9040-6 0.471012          1383000.         LVLT.Roedland+          (85)O1795  3 
+ 2003 52128   4 800  C 2.4000+7          1.4500-5 1.5950-6 0.393942          1383000.         LVLT.Roedland+          (85)O1795  3 
+ 2003 52128   4 800  C 2.4000+7          9.0000-6 1.9800-6 0.317305          1383000.         LVLT.Roedland+          (85)O1795  3 
+ 2003 52128   4 800  C 2.4000+7          7.8000-6 7.8000-7 0.230050          1383000.         LVLT.Roedland+          (85)O1795  3 
+#/DATA      15
+#/DATASET

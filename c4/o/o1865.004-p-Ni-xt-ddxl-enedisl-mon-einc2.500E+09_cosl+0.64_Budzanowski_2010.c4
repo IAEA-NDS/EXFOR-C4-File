@@ -1,0 +1,37 @@
+#ENTRY      O1865
+#AUTHOR1    A.Budzanowski+
+#YEAR       2010
+#INSTITUTE  (3POLIFJ)
+#TITLE      Comparison of nonequilibrium processes in p + Ni and
+#+          p + Au collisions at GeV energies.
+#AUTHOR(S)  A.Budzanowski, M.Fidelus, D.Filges, F.Goldenbaum, H.Hodde, 
+#+          L.Jarczyk, B.Kamys, M.Kistryn, St.Kistryn, St.Kliczewski, 
+#+          A.Kowalczyk, E.Kozik, P.Kulessa, H.Machner, A.Magiera, B.Piskor-Ignatowicz, 
+#+          K.Pysz, Z.Rudy, R.Siudak, M.Wojciechowski
+#REF-CODE   (J,PR/C,82,034605,2010)
+#REFERENCE  Phys.Rev.C 82 (2010) 034605
+#DATASETS   0
+#
+#DATASET    O1865004 
+#DATE       20101111
+#REACTION   28-NI-0(P,X)1-H-3,,DA/DE
+#PROJ       1001
+#TARG       28000
+#MF         6
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1001 28000   6 205 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28000   6 205 A  2.5000+9          3.780-10 2.500-11 0.642788          4500000.          E2A.Budzanowski+       (10)O1865  4 
+ 1001 28000   6 205 A  2.5000+9          5.130-10 3.000-11 0.642788          7500000.          E2A.Budzanowski+       (10)O1865  4 
+ 1001 28000   6 205 A  2.5000+9          5.560-10 3.000-11 0.642788          1.0500+7          E2A.Budzanowski+       (10)O1865  4 
+ 1001 28000   6 205 A  2.5000+9          4.311-10 9.800-12 0.642788          1.3500+7          E2A.Budzanowski+       (10)O1865  4 
+ 1001 28000   6 205 A  2.5000+9          4.470-10 1.300-11 0.642788          1.6500+7          E2A.Budzanowski+       (10)O1865  4 
+ 1001 28000   6 205 A  2.5000+9          3.730-10 2.300-11 0.642788          1.9500+7          E2A.Budzanowski+       (10)O1865  4 
+ 1001 28000   6 205 A  2.5000+9          3.170-10 2.300-11 0.642788          2.2500+7          E2A.Budzanowski+       (10)O1865  4 
+ 1001 28000   6 205 A  2.5000+9          3.340-10 2.400-11 0.642788          2.5500+7          E2A.Budzanowski+       (10)O1865  4 
+ 1001 28000   6 205 A  2.5000+9          2.740-10 2.600-11 0.642788          2.8500+7          E2A.Budzanowski+       (10)O1865  4 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      O0440
+#AUTHOR1    J.C.Bane+
+#YEAR       1968
+#INSTITUTE  (1USACLU)
+#TITLE      Inelastic Proton Scattering from Ca-42 and Ca-44 and
+#+          Analysis in Terms of Shell-Model Form Factors.
+#AUTHOR(S)  J.C.Bane, J.J.Kraushaar, B.W.Ridley, M.M.Stautberg
+#REF-CODE   (J,NP/A,116,580,1968)
+#REFERENCE  Nucl.Phys.A 116 (1968) 580
+#DATASETS   0
+#
+#DATASET    O0440003 
+#DATE       20000426
+#REACTION   20-CA-42(P,INL)20-CA-42,PAR,DA
+#PROJ       1001
+#TARG       20042
+#MF         4
+#MT         601
+#PRODUCT    20-CA-42
+#C4BEGIN    [ 1001 20042   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20042   4 601  C 2.2850+7          5.5000-5 1.1000-5-0.182236 0.013729 4470000. 10000.00LVLJ.C.Bane+            (68)O0440  3 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      O1136
+#AUTHOR1    A.Saganek+
+#YEAR       1984
+#INSTITUTE  (3POLWWA)
+#TITLE      Neutron orbit radii in Sr-89 from the (d,p) sub-coulomb
+#+          reaction.
+#AUTHOR(S)  A.Saganek, V.Meyer, S.Mirowski, M.Oteski, M.Sieminski, E.Wesolowski, 
+#+          Z.Wilhelmi
+#REF-CODE   (J,JP/G,10,549,1984)
+#REFERENCE  J.Phys.G 10 (1984) 549
+#DATASETS   0
+#
+#DATASET    O1136002 
+#DATE       20040423
+#REACTION   38-SR-88(D,P)38-SR-89,PAR,DA
+#PROJ       1002
+#TARG       38088
+#MF         4
+#MT         600
+#PRODUCT    38-SR-89
+#C4BEGIN    [ 1002 38088   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 38088   4 600  C 3400000. 22500.00 1.7000-5 5.1000-7-0.166769          1940000.         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 3400000. 22500.00 1.4400-5 3.7440-7-0.340380          1940000.         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 3400000. 22500.00 2.0200-5 5.2520-7-0.498488          1940000.         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 3400000. 22500.00 2.1900-5 5.0370-7-0.645458          1940000.         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 3400000. 22500.00 1.7500-5 4.0250-7-0.764921          1940000.         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 3400000. 22500.00 1.6200-5 4.8600-7-0.865151          1940000.         LVLA.Saganek+           (84)O1136  2 
+#/DATA      6
+#/DATASET

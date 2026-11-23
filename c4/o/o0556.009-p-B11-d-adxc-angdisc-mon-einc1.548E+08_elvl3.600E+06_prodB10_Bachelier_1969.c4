@@ -1,0 +1,30 @@
+#ENTRY      O0556
+#AUTHOR1    D.Bachelier+
+#YEAR       1969
+#INSTITUTE  (2FR PAR)
+#TITLE      Reaction (p,d) at 156 MeV and structure of light nuclei
+#AUTHOR(S)  D.Bachelier, M.Bernas, I.Brissaud, C.Detraz, P.Radvanyi
+#REF-CODE   (J,NP/A,126,60,1969)
+#REFERENCE  Nucl.Phys.A 126 (1969) 60
+#DATASETS   0
+#
+#DATASET    O0556009 
+#DATE       20201106
+#REACTION   5-B-11(P,D)5-B-10,PAR,DA
+#PROJ       1001
+#TARG       5011
+#MF         4
+#MT         650
+#PRODUCT    5-B-10
+#C4BEGIN    [ 1001  5011   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5011   4 650  C 1.5480+8          2.4900-4 3.7100-5 0.998657          3600000.         LVLD.Bachelier+         (69)O0556  9 
+ 1001  5011   4 650  C 1.5480+8          1.8400-4 6.5400-5 0.991490          3600000.         LVLD.Bachelier+         (69)O0556  9 
+ 1001  5011   4 650  C 1.5480+8          9.8400-5 1.5400-5 0.977490          3600000.         LVLD.Bachelier+         (69)O0556  9 
+ 1001  5011   4 650  C 1.5480+8          4.4800-5 8.3500-6 0.954916          3600000.         LVLD.Bachelier+         (69)O0556  9 
+ 1001  5011   4 650  C 1.5480+8          2.7900-5 4.7900-6 0.921253          3600000.         LVLD.Bachelier+         (69)O0556  9 
+ 1001  5011   4 650  C 1.5480+8          8.3500-6 3.5000-6 0.862072          3600000.         LVLD.Bachelier+         (69)O0556  9 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,42 @@
+#ENTRY      O1813
+#AUTHOR1    L.Jarczyk+
+#YEAR       1981
+#INSTITUTE  (3POLUJK)
+#TITLE      Energy dependence of fusion and reaction cross sections
+#+          in the Be-9+C-12 system.
+#AUTHOR(S)  L.Jarczyk, B.Kamys, A.Magiera, J.Sromicki, A.Strzalkowski, 
+#+          G.Willim, Z.Wrobel, D.Balzer, K.Bodek, M.Hugi, J.Lang, R.Mueller, 
+#+          E.Ungricht
+#REF-CODE   (J,NP/A,369,191,1981)
+#REFERENCE  Nucl.Phys.A 369 (1981) 191
+#DATASETS   0
+#
+#DATASET    O1813008 
+#DATE       20100114
+#REACTION   6-C-12(4-BE-9,X)1-H-1,,DE
+#PROJ       4009
+#TARG       6012
+#MF         5
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 4009  6012   5 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4009  6012   5 203  C 2.3000+7          2.6000-8 7.8000-9                   2760000.          E2L.Jarczyk+           (81)O1813  8 
+ 4009  6012   5 203  C 2.3000+7          2.1000-8 3.9900-9                   3780000.          E2L.Jarczyk+           (81)O1813  8 
+ 4009  6012   5 203  C 2.3000+7          1.6700-8 1.8370-9                   4720000.          E2L.Jarczyk+           (81)O1813  8 
+ 4009  6012   5 203  C 2.3000+7          1.3500-8 1.7550-9                   5660000.          E2L.Jarczyk+           (81)O1813  8 
+ 4009  6012   5 203  C 2.3000+7          1.0000-8                            6750000.          E2L.Jarczyk+           (81)O1813  8 
+ 4009  6012   5 203  C 2.3000+7          7.0900-9                            7700000.          E2L.Jarczyk+           (81)O1813  8 
+ 4009  6012   5 203  C 2.3000+7          5.7200-9                            8950000.          E2L.Jarczyk+           (81)O1813  8 
+ 4009  6012   5 203  C 2.3000+7          3.4400-9                            9820000.          E2L.Jarczyk+           (81)O1813  8 
+ 4009  6012   5 203  C 2.3000+7          2.1800-9                            1.0760+7          E2L.Jarczyk+           (81)O1813  8 
+ 4009  6012   5 203  C 2.3000+7          1.7600-9                            1.1780+7          E2L.Jarczyk+           (81)O1813  8 
+ 4009  6012   5 203  C 2.3000+7          1.5400-9                            1.2720+7          E2L.Jarczyk+           (81)O1813  8 
+ 4009  6012   5 203  C 2.3000+7          4.730-10                            1.3760+7          E2L.Jarczyk+           (81)O1813  8 
+ 4009  6012   5 203  C 2.3000+7          4.480-10                            1.4850+7          E2L.Jarczyk+           (81)O1813  8 
+ 4009  6012   5 203  C 2.3000+7          2.550-10                            1.5950+7          E2L.Jarczyk+           (81)O1813  8 
+ 4009  6012   5 203  C 2.3000+7          8.300-11                            1.7070+7          E2L.Jarczyk+           (81)O1813  8 
+#/DATA      15
+#/DATASET

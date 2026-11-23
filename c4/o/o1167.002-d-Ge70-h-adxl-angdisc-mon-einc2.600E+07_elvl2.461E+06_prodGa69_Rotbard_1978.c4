@@ -1,0 +1,33 @@
+#ENTRY      O1167
+#AUTHOR1    G.Rotbard+
+#YEAR       1978
+#INSTITUTE  (2FR PAR)
+#TITLE      70,72,74,76-Ge(d,He3)69,71,73,75-Ga reactions at 26-
+#+          MeV.
+#AUTHOR(S)  G.Rotbard, G.La Rana, M.Vergnes, G.Berrier, J.Kalifa, F.Guilbault, 
+#+          R.Tamisier
+#REF-CODE   (J,PR/C,18,86,1978)
+#REFERENCE  Phys.Rev.C 18 (1978) 86
+#DATASETS   0
+#
+#DATASET    O1167002 
+#DATE       20041101
+#REACTION   32-GE-70(D,HE3)31-GA-69,PAR,DA
+#PROJ       1002
+#TARG       32070
+#MF         4
+#MT         750
+#PRODUCT    31-GA-69
+#C4BEGIN    [ 1002 32070   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 32070   4 750  C 2.6000+7 7500.000 1.6000-5 3.2000-6 0.981360          2461000.         LVLG.Rotbard+           (78)O1167  2 
+ 1002 32070   4 750  C 2.6000+7 7500.000 1.2000-5 2.4000-6 0.971342          2461000.         LVLG.Rotbard+           (78)O1167  2 
+ 1002 32070   4 750  C 2.6000+7 7500.000 1.3100-5 2.6200-6 0.960294          2461000.         LVLG.Rotbard+           (78)O1167  2 
+ 1002 32070   4 750  C 2.6000+7 7500.000 1.9500-5 3.9000-6 0.937343          2461000.         LVLG.Rotbard+           (78)O1167  2 
+ 1002 32070   4 750  C 2.6000+7 7500.000 1.3800-5 2.7600-6 0.909816          2461000.         LVLG.Rotbard+           (78)O1167  2 
+ 1002 32070   4 750  C 2.6000+7 7500.000 1.0000-5 2.0000-6 0.877481          2461000.         LVLG.Rotbard+           (78)O1167  2 
+ 1002 32070   4 750  C 2.6000+7 7500.000 3.7000-6 7.4000-7 0.841039          2461000.         LVLG.Rotbard+           (78)O1167  2 
+#/DATA      7
+#/DATASET

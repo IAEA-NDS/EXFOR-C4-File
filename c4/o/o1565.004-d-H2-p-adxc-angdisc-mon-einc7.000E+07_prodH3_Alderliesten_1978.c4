@@ -1,0 +1,35 @@
+#ENTRY      O1565
+#AUTHOR1    C.Alderliesten+
+#YEAR       1978
+#INSTITUTE  (2GERJUL)
+#TITLE      Two-body final states in the d+d interaction in the
+#+          50-85 MeV incident energy range.
+#AUTHOR(S)  C.Alderliesten, A.Djaloeis, J.Bojowald, C.Mayer-Boericke, 
+#+          J.Paic, T.Sawada
+#REF-CODE   (J,PR/C,18,2001,1978)
+#REFERENCE  Phys.Rev.C 18 (1978) 2001
+#DATASETS   0
+#
+#DATASET    O1565004 
+#DATE       20070914
+#REACTION   1-H-2(D,P)1-H-3,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1002  1002   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4 103  C 7.0000+7          8.1400-4 4.0700-5 0.771625                              C.Alderliesten+      (78)O1565  4 
+ 1002  1002   4 103  C 7.0000+7          1.0800-3 5.4000-5 0.680721                              C.Alderliesten+      (78)O1565  4 
+ 1002  1002   4 103  C 7.0000+7          1.0660-3 5.3300-5 0.592013                              C.Alderliesten+      (78)O1565  4 
+ 1002  1002   4 103  C 7.0000+7          7.9700-4 3.9850-5 0.478692                              C.Alderliesten+      (78)O1565  4 
+ 1002  1002   4 103  C 7.0000+7          5.7500-4 2.8750-5 0.364877                              C.Alderliesten+      (78)O1565  4 
+ 1002  1002   4 103  C 7.0000+7          3.1400-4 1.5700-5 0.226651                              C.Alderliesten+      (78)O1565  4 
+ 1002  1002   4 103  C 7.0000+7          1.5800-4 7.9000-6 0.088894                              C.Alderliesten+      (78)O1565  4 
+ 1002  1002   4 103  C 7.0000+7          1.5000-4 7.5000-6-0.073238                              C.Alderliesten+      (78)O1565  4 
+ 1002  1002   4 103  C 7.0000+7          3.9400-4 1.9700-5-0.248690                              C.Alderliesten+      (78)O1565  4 
+#/DATA      9
+#/DATASET

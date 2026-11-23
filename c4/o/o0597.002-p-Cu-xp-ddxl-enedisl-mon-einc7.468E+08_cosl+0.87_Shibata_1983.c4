@@ -1,0 +1,35 @@
+#ENTRY      O0597
+#AUTHOR1    T.-A.Shibata+
+#YEAR       1983
+#INSTITUTE  (2JPNTOK)
+#TITLE      Particle production in the target-rapidity region from
+#+          hadron-nucleus reactions at several GeV.
+#AUTHOR(S)  T.-A.Shibata, K.Nakai, H.En'yo, S.Sasaki, M.Sekimoto, I.Arai, 
+#+          K.Nakayama, K.Ichimaru, H.Nakamura-Yokota, R.Chiba
+#REF-CODE   (J,NP/A,408,525,1983)
+#REFERENCE  Nucl.Phys.A 408 (1983) 525
+#DATASETS   0
+#
+#DATASET    O0597002 
+#DATE       20180629
+#REACTION   29-CU-0(P,X)1-H-1,,DA/DE
+#PROJ       1001
+#TARG       29000
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001 29000   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29000   6 203    7.4684+8          9.070-10 1.200-10 0.866025          6.0000+7          E2T.-A.Shibata+        (83)O0597  2 
+ 1001 29000   6 203    7.4684+8          9.190-10 1.300-10 0.866025          7.0000+7          E2T.-A.Shibata+        (83)O0597  2 
+ 1001 29000   6 203    7.4684+8          8.980-10 1.200-10 0.866025          8.0000+7          E2T.-A.Shibata+        (83)O0597  2 
+ 1001 29000   6 203    7.4684+8          7.780-10 1.300-10 0.866025          9.0000+7          E2T.-A.Shibata+        (83)O0597  2 
+ 1001 29000   6 203    7.4684+8          8.850-10 1.100-10 0.866025          1.0000+8          E2T.-A.Shibata+        (83)O0597  2 
+ 1001 29000   6 203    7.4684+8          6.820-10 1.200-10 0.866025          1.1000+8          E2T.-A.Shibata+        (83)O0597  2 
+ 1001 29000   6 203    7.4684+8          3.230-10 1.200-10 0.866025          1.2000+8          E2T.-A.Shibata+        (83)O0597  2 
+ 1001 29000   6 203    7.4684+8          5.010-10 1.100-10 0.866025          1.3000+8          E2T.-A.Shibata+        (83)O0597  2 
+ 1001 29000   6 203    7.4684+8          5.840-10 1.100-10 0.866025          1.4000+8          E2T.-A.Shibata+        (83)O0597  2 
+#/DATA      9
+#/DATASET

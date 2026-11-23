@@ -1,0 +1,28 @@
+#ENTRY      O0857
+#AUTHOR1    A.Nurmela+
+#YEAR       1999
+#INSTITUTE  (2SF HLS)
+#TITLE      Elastic scattering cross sections for 6-Li and 7-ll
+#+          scattering by aluminum, silicon and titanium below 12
+#+          MeV at angles of 140 and 170 degrees.
+#AUTHOR(S)  A.Nurmela, E.Rauhala, J.Raisanen
+#REF-CODE   (J,NIM/B,155,211,1999)
+#REFERENCE  Nucl.Instrum.Meth.B 155 (1999) 211
+#DATASETS   0
+#
+#DATASET    O0857002 
+#DATE       20030501
+#REACTION   13-AL-27(3-LI-6,EL)13-AL-27,,DA,,RTH
+#PROJ       3006
+#TARG       13027
+#MF         4
+#MT         2
+#PRODUCT    13-AL-27
+#C4BEGIN    [ 3006 13027   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 13027   4   2    6000000.          0.062866         -0.766044                              A.Nurmela+           (99)O0857  2 
+ 3006 13027   4   2    6000000.          0.050266         -0.984808                              A.Nurmela+           (99)O0857  2 
+#/DATA      2
+#/DATASET

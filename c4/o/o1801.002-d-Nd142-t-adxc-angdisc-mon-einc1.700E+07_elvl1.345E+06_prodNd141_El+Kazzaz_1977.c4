@@ -1,0 +1,35 @@
+#ENTRY      O1801
+#AUTHOR1    S.El-Kazzaz+
+#YEAR       1977
+#INSTITUTE  (2NORBGN)
+#TITLE      A study of levels in 141Nd with the (d,t) and (He3,a)
+#+          reactions.
+#AUTHOR(S)  S.El-Kazzaz, J.R.Lien, G.Loevhoeiden, P.Kleinheinz, C.Ellegaard, 
+#+          J.H.Bjerregaard, P.Knudsen, J.Rekstad
+#REF-CODE   (J,NP/A,280,1,1977)
+#REFERENCE  Nucl.Phys.A 280 (1977) 1
+#DATASETS   0
+#
+#DATASET    O1801002 
+#DATE       20091202
+#REACTION   60-ND-142(D,T)60-ND-141,PAR,DA
+#PROJ       1002
+#TARG       60142
+#MF         4
+#MT         700
+#PRODUCT    60-ND-141
+#C4BEGIN    [ 1002 60142   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 60142   4 700  C 1.7000+7          1.6100-5 1.9320-6 0.948876          1345000. 5000.000LVLS.El-Kazzaz+         (77)O1801  2 
+ 1002 60142   4 700  C 1.7000+7          3.5900-5 2.8720-6 0.917755          1345000. 5000.000LVLS.El-Kazzaz+         (77)O1801  2 
+ 1002 60142   4 700  C 1.7000+7          5.9000-5 4.1300-6 0.872069          1345000. 5000.000LVLS.El-Kazzaz+         (77)O1801  2 
+ 1002 60142   4 700  C 1.7000+7          8.0300-5          0.828060          1345000. 5000.000LVLS.El-Kazzaz+         (77)O1801  2 
+ 1002 60142   4 700  C 1.7000+7          6.3000-5 3.1500-6 0.773840          1345000. 5000.000LVLS.El-Kazzaz+         (77)O1801  2 
+ 1002 60142   4 700  C 1.7000+7          7.4000-5 3.7000-6 0.714473          1345000. 5000.000LVLS.El-Kazzaz+         (77)O1801  2 
+ 1002 60142   4 700  C 1.7000+7          4.5000-5 3.1500-6 0.654741          1345000. 5000.000LVLS.El-Kazzaz+         (77)O1801  2 
+ 1002 60142   4 700  C 1.7000+7          6.2000-5 3.1000-6 0.593419          1345000. 5000.000LVLS.El-Kazzaz+         (77)O1801  2 
+ 1002 60142   4 700  C 1.7000+7          5.0800-5 2.5400-6 0.435231          1345000. 5000.000LVLS.El-Kazzaz+         (77)O1801  2 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      O2589
+#AUTHOR1    D.Bucurescu+
+#YEAR       2023
+#INSTITUTE  (3RUMBUC)
+#TITLE      Updated analysis of the 170Er(p,t)168Er reaction data
+#AUTHOR(S)  D.Bucurescu, S.Pascu, G.Graw, R.Hertenberger, H.-F.Wirth, 
+#+          T.Faestermann, R.Kruecken, M.Mahgoub, J.Jolie, P.Von Brentano, 
+#+          S.Heinze, O.Moeller, R.F.Casten, D.A.Meyer Brittingham
+#REF-CODE   (J,PR/C,108,014310,2023)
+#REFERENCE  Phys.Rev.C 108 (2023) 014310
+#DATASETS   0
+#
+#DATASET    O2589002 
+#DATE       20240120
+#REACTION   68-ER-170(P,T)68-ER-168,PAR,DA
+#PROJ       1001
+#TARG       68170
+#MF         4
+#MT         700
+#PRODUCT    68-ER-168
+#C4BEGIN    [ 1001 68170   4 700 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 68170   4 700 A  2.5000+7          5.6400-7 1.5200-7 0.996195          1983000.         LVLD.Bucurescu+         (23)O2589  2 
+ 1001 68170   4 700 A  2.5000+7          4.2400-7 6.5000-8 0.984808          1983000.         LVLD.Bucurescu+         (23)O2589  2 
+ 1001 68170   4 700 A  2.5000+7          5.4100-7 7.1000-8 0.970296          1983000.         LVLD.Bucurescu+         (23)O2589  2 
+ 1001 68170   4 700 A  2.5000+7          4.9600-7 1.0600-7 0.953717          1983000.         LVLD.Bucurescu+         (23)O2589  2 
+ 1001 68170   4 700 A  2.5000+7          5.6400-7 6.7000-8 0.920505          1983000.         LVLD.Bucurescu+         (23)O2589  2 
+ 1001 68170   4 700 A  2.5000+7          5.8500-7 9.3000-8 0.866025          1983000.         LVLD.Bucurescu+         (23)O2589  2 
+ 1001 68170   4 700 A  2.5000+7          4.3300-7 6.0000-8 0.793353          1983000.         LVLD.Bucurescu+         (23)O2589  2 
+#/DATA      7
+#/DATASET

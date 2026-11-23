@@ -1,0 +1,27 @@
+#ENTRY      O0856
+#AUTHOR1    H.Van Bebber+
+#YEAR       1998
+#INSTITUTE  (2GERBOC)
+#TITLE      Total cross section of the 14-N(d,p+gamma)15-N nuclear
+#+          reaction for analytical application
+#AUTHOR(S)  H.Van Bebber, L.Borucki, K.Farzin, A.Z.Kiss, W.H.Schulte
+#REF-CODE   (J,NIM/B,136-138,72,1998)
+#REFERENCE  Nucl.Instrum.Meth.B 136-138 (1998) 72
+#DATASETS   0
+#
+#DATASET    O0856002 
+#DATE       20030501
+#REACTION   7-N-14(D,P)7-N-15,PAR,SIG,G
+#PROJ       1002
+#TARG       7014
+#MF         13
+#MT         600
+#PRODUCT    7-N-15
+#C4BEGIN    [ 1002  7014  13 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  7014  13 600    1400000.          0.088920 9.1000-3                   7300000.            H.Van Bebber+        (98)O0856  2 
+ 1002  7014  13 600    1400000.          0.054690 3.4000-3                   8300000.            H.Van Bebber+        (98)O0856  2 
+#/DATA      2
+#/DATASET

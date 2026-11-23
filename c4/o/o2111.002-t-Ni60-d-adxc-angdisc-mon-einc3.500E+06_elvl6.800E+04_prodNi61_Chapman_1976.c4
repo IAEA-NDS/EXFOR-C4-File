@@ -1,0 +1,37 @@
+#ENTRY      O2111
+#AUTHOR1    R.Chapman+
+#YEAR       1976
+#INSTITUTE  (2UK MAN)
+#TITLE      Neutron orbit sizes from measurements of the Ni-60(t,d)
+#+          reaction in the sub-coulomb regime.
+#AUTHOR(S)  R.Chapman, J.N.Mo, J.L.Durell, N.H.Merrill
+#REF-CODE   (J,JP/G,2,951,1976)
+#REFERENCE  J.Phys.G 2 (1976) 951
+#DATASETS   0
+#
+#DATASET    O2111002 
+#DATE       20130104
+#REACTION   28-NI-60(T,D)28-NI-61,PAR,DA
+#PROJ       1003
+#TARG       28060
+#MF         4
+#MT         650
+#PRODUCT    28-NI-61
+#C4BEGIN    [ 1003 28060   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 28060   4 650  C 3500000.          5.8050-5 1.1390-5 0.304864          68000.00         LVLR.Chapman+           (76)O2111  2 
+ 1003 28060   4 650  C 3500000.          5.6970-5 7.2340-6 0.222399          68000.00         LVLR.Chapman+           (76)O2111  2 
+ 1003 28060   4 650  C 3500000.          8.4560-5 7.7570-6 0.034551          68000.00         LVLR.Chapman+           (76)O2111  2 
+ 1003 28060   4 650  C 3500000.          7.8990-5 6.6160-6-0.143838          68000.00         LVLR.Chapman+           (76)O2111  2 
+ 1003 28060   4 650  C 3500000.          1.2150-4 9.1840-6-0.299873          68000.00         LVLR.Chapman+           (76)O2111  2 
+ 1003 28060   4 650  C 3500000.          1.1500-4 7.2910-6-0.449787          68000.00         LVLR.Chapman+           (76)O2111  2 
+ 1003 28060   4 650  C 3500000.          1.1940-4 6.5970-6-0.539506          68000.00         LVLR.Chapman+           (76)O2111  2 
+ 1003 28060   4 650  C 3500000.          1.3370-4 1.1190-5-0.593840          68000.00         LVLR.Chapman+           (76)O2111  2 
+ 1003 28060   4 650  C 3500000.          1.3450-4 7.9770-6-0.719340          68000.00         LVLR.Chapman+           (76)O2111  2 
+ 1003 28060   4 650  C 3500000.          1.3550-4 1.5100-5-0.781629          68000.00         LVLR.Chapman+           (76)O2111  2 
+ 1003 28060   4 650  C 3500000.          1.3050-4 1.1460-5-0.876223          68000.00         LVLR.Chapman+           (76)O2111  2 
+ 1003 28060   4 650  C 3500000.          1.2800-4 1.1730-5-0.944089          68000.00         LVLR.Chapman+           (76)O2111  2 
+#/DATA      12
+#/DATASET

@@ -1,0 +1,38 @@
+#ENTRY      O1294
+#AUTHOR1    W.N.Catford+
+#YEAR       2010
+#INSTITUTE  (2UK SUR)
+#TITLE      Migration of nuclear shell gaps studied in the
+#+          d(24Ne,pgamma)25Ne reaction
+#AUTHOR(S)  W.N.Catford, C.N.Timis, R.C.Lemmon, M.Labiche, N.A.Orr, 
+#+          B.Fernandez-Dominguez, R.Chapman, M.Freer, M.Chartier, H.Savajols, 
+#+          M.Rejmund, N.L.Achouri, N.Amzal, N.I.Ashwood, T.D.Baldwin, 
+#+          M.Burns, L.Caballero, J.M.Casadjian, N.Curtis, G.de France, 
+#+          W.Gelletly, X.Liang, S.D.Pain, V.P.E.Pucknell, B.Rubio, 
+#+          O.Sorlin, K.Spohr, Ch.Theisen, D.D.Warner
+#REF-CODE   (J,PRL,104,192501,2010)
+#REFERENCE  Phys.Rev.Lett. 104 (2010) 192501
+#DATASETS   0
+#
+#DATASET    O1294004 
+#DATE       20230110
+#REACTION   1-H-2(10-NE-24,P)10-NE-25,PAR,DA
+#PROJ       10024
+#TARG       1002
+#MF         4
+#MT         600
+#PRODUCT    10-NE-25
+#C4BEGIN    [10024  1002   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+10024  1002   4 600    2.5440+8 1.2000+7 4.5300-4 1.3570-4-0.189095          2030000.         LVLW.N.Catford+         (10)O1294  4 
+10024  1002   4 600    2.5440+8 1.2000+7 8.1700-4 1.4540-4-0.322266          2030000.         LVLW.N.Catford+         (10)O1294  4 
+10024  1002   4 600    2.5440+8 1.2000+7 1.2930-3 2.8080-4-0.449319          2030000.         LVLW.N.Catford+         (10)O1294  4 
+10024  1002   4 600    2.5440+8 1.2000+7 1.2510-3 3.2250-4-0.573576          2030000.         LVLW.N.Catford+         (10)O1294  4 
+10024  1002   4 600    2.5440+8 1.2000+7 1.6800-3         -0.681998          2030000.         LVLW.N.Catford+         (10)O1294  4 
+10024  1002   4 600    2.5440+8 1.2000+7 1.1720-3         -0.855364          2030000.         LVLW.N.Catford+         (10)O1294  4 
+10024  1002   4 600    2.5440+8 1.2000+7 1.3810-3         -0.926529          2030000.         LVLW.N.Catford+         (10)O1294  4 
+10024  1002   4 600    2.5440+8 1.2000+7 1.1720-3 2.5460-4-0.960779          2030000.         LVLW.N.Catford+         (10)O1294  4 
+#/DATA      8
+#/DATASET

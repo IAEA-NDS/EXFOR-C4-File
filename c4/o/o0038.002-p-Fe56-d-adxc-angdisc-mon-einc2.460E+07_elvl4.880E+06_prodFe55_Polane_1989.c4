@@ -1,0 +1,38 @@
+#ENTRY      O0038
+#AUTHOR1    J.H.Polane+
+#YEAR       1989
+#INSTITUTE  (2NEDENT)
+#TITLE      The (p,d) reaction on Fe-56 at 24.6 MeV.
+#AUTHOR(S)  J.H.Polane, W.F.Feix, P.J.Van Hall, S.S.Klein, G.J.Nijgh, 
+#+          O.J.Poppema, S.D.Wassenaar
+#REF-CODE   (J,JP/G,15,1735,1989)
+#REFERENCE  J.Phys.G 15 (1989) 1735
+#DATASETS   0
+#
+#DATASET    O0038002 
+#DATE       20221025
+#REACTION   26-FE-56(P,D)26-FE-55,PAR,DA
+#PROJ       1001
+#TARG       26056
+#MF         4
+#MT         650
+#PRODUCT    26-FE-55
+#C4BEGIN    [ 1001 26056   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26056   4 650  C 2.4600+7          1.4860-4 1.3600-5 0.980615          4880000.         LVLJ.H.Polane+          (89)O0038  2 
+ 1001 26056   4 650  C 2.4600+7          2.5380-4          0.963630          4880000.         LVLJ.H.Polane+          (89)O0038  2 
+ 1001 26056   4 650  C 2.4600+7          2.7990-4          0.929133          4880000.         LVLJ.H.Polane+          (89)O0038  2 
+ 1001 26056   4 650  C 2.4600+7          2.8820-4          0.907777          4880000.         LVLJ.H.Polane+          (89)O0038  2 
+ 1001 26056   4 650  C 2.4600+7          2.9680-4          0.882948          4880000.         LVLJ.H.Polane+          (89)O0038  2 
+ 1001 26056   4 650  C 2.4600+7          2.5900-4          0.858960          4880000.         LVLJ.H.Polane+          (89)O0038  2 
+ 1001 26056   4 650  C 2.4600+7          1.1220-4          0.762668          4880000.         LVLJ.H.Polane+          (89)O0038  2 
+ 1001 26056   4 650  C 2.4600+7          5.2550-5          0.685818          4880000.         LVLJ.H.Polane+          (89)O0038  2 
+ 1001 26056   4 650  C 2.4600+7          5.5190-5          0.604599          4880000.         LVLJ.H.Polane+          (89)O0038  2 
+ 1001 26056   4 650  C 2.4600+7          6.8400-5 2.7150-6 0.516533          4880000.         LVLJ.H.Polane+          (89)O0038  2 
+ 1001 26056   4 650  C 2.4600+7          6.9770-5          0.421036          4880000.         LVLJ.H.Polane+          (89)O0038  2 
+ 1001 26056   4 650  C 2.4600+7          6.3940-5          0.325568          4880000.         LVLJ.H.Polane+          (89)O0038  2 
+ 1001 26056   4 650  C 2.4600+7          5.6910-5 2.8370-6 0.221548          4880000.         LVLJ.H.Polane+          (89)O0038  2 
+#/DATA      13
+#/DATASET

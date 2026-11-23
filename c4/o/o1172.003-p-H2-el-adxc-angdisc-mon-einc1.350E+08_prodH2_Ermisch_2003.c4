@@ -1,0 +1,53 @@
+#ENTRY      O1172
+#AUTHOR1    K.Ermisch+
+#YEAR       2003
+#INSTITUTE  (2NEDKVI)
+#TITLE      Systematic investigation of the elastic proton-deuteron
+#+          differential cross section at intermediate energies.
+#AUTHOR(S)  K.Ermisch, H.R.Armir-Ahmadi, A.M.van den Berg, R.Castelijns, 
+#+          B.Davids, E.Rpelbaum, E.van Garderen, W.Glockle, J.Golak, 
+#+          M.N.Harakeh, M.Hunyadi, M.A.De Huu, N.Kalantar-Nayestanaki, 
+#+          H.Kamada, M.Kis, M.Mahjour-Shafiei, A.Nogga, R.Skibinski, 
+#+          H.Witala, H.J.Wortche
+#REF-CODE   (J,PR/C,68,051001,2003)
+#REFERENCE  Phys.Rev.C 68 (2003) 051001
+#DATASETS   0
+#
+#DATASET    O1172003 
+#DATE       20080814
+#REACTION   1-H-2(P,EL)1-H-2,,DA
+#PROJ       1001
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   4   2  C 1.3500+8          9.9220-3 3.9000-5 0.897412                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          7.2040-3 2.0000-5 0.859406                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          5.2920-3 2.7000-5 0.816339                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          3.4010-3 1.3000-5 0.716180                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          2.1860-3 1.6000-5 0.660133                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          1.8320-3 1.1000-5 0.600699                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          1.2260-3 8.0000-6 0.473935                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          8.9300-4 4.0000-6 0.340051                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          7.5100-4 5.0000-6 0.271776                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          5.6400-4 4.0000-6 0.188924                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          4.0400-4 4.0000-6-0.019023                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          3.5000-4 2.0000-6-0.123601                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          3.0400-4 2.0000-6-0.226991                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          2.8800-4 1.0000-6-0.327878                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          2.9600-4 2.0000-6-0.425463                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          3.0800-4 1.0000-6-0.518475                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          3.0900-4 1.0000-6-0.605711                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          3.1800-4 1.0000-6-0.686326                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          3.5900-4 2.0000-6-0.759385                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          4.0600-4 1.0000-6-0.824027                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          4.7600-4 2.0000-6-0.879399                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          6.2600-4 1.0000-6-0.924945                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          8.3200-4 2.0000-6-0.954916                              K.Ermisch+           (03)O1172  3 
+ 1001  1002   4   2  C 1.3500+8          1.1750-3 4.0000-6-0.984319                              K.Ermisch+           (03)O1172  3 
+#/DATA      24
+#/DATASET

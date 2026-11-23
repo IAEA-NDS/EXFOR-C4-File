@@ -1,0 +1,27 @@
+#ENTRY      O0545
+#AUTHOR1    M.M.Stautberg+
+#YEAR       1966
+#INSTITUTE  (1USACLU)
+#TITLE      Analysis of Proton Scattering from Zr-92 and Zr-94
+#+          At 19.4 MeV.
+#AUTHOR(S)  M.M.Stautberg, J.J.Kraushaar
+#REF-CODE   (J,PR,151,969,1966)
+#REFERENCE  Phys.Rev. 151 (1966) 969
+#DATASETS   0
+#
+#DATASET    O0545008 
+#DATE       19991117
+#REACTION   40-ZR-94(P,INL)40-ZR-94,PAR,DA
+#PROJ       1001
+#TARG       40094
+#MF         4
+#MT         601
+#PRODUCT    40-ZR-94
+#C4BEGIN    [ 1001 40094   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40094   4 601  C 1.9400+7          5.2500-4 3.1500-5 0.707107          2880000. 40000.00LVLM.M.Stautberg+       (66)O0545  8 
+ 1001 40094   4 601  C 1.9400+7          5.1000-4 5.1000-5 0.707107          3180000. 40000.00LVLM.M.Stautberg+       (66)O0545  8 
+#/DATA      2
+#/DATASET

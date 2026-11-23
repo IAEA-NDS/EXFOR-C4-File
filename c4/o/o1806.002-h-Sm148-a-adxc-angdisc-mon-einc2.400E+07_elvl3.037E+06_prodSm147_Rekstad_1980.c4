@@ -1,0 +1,35 @@
+#ENTRY      O1806
+#AUTHOR1    J.Rekstad+
+#YEAR       1980
+#INSTITUTE  (2NOROSL)
+#TITLE      Studies of single-neutron holes in the transitional
+#+          nuclei N=83-89.
+#+          The 148,150,152Sm(He3,a) pick-up reactions.
+#AUTHOR(S)  J.Rekstad, G.Loevhoeiden, J.R.Lien, S.El-Kazzaz, C.Ellegaard, 
+#+          J.H.Bjerregaard, P.Knudsen, P.Kleinheinz
+#REF-CODE   (J,NP/A,348,93,1980)
+#REFERENCE  Nucl.Phys.A 348 (1980) 93
+#DATASETS   0
+#
+#DATASET    O1806002 
+#DATE       20091221
+#REACTION   62-SM-148(HE3,A)62-SM-147,PAR,DA
+#PROJ       2003
+#TARG       62148
+#MF         4
+#MT         800
+#PRODUCT    62-SM-147
+#C4BEGIN    [ 2003 62148   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 62148   4 800  C 2.4000+7 30000.00 1.2000-5 1.3200-6 0.992546          3037000. 10000.00LVLJ.Rekstad+           (80)O1806  2 
+ 2003 62148   4 800  C 2.4000+7 30000.00 1.7100-5 1.8810-6 0.955793          3037000. 10000.00LVLJ.Rekstad+           (80)O1806  2 
+ 2003 62148   4 800  C 2.4000+7 30000.00 1.0100-5 1.6160-6 0.890213          3037000. 10000.00LVLJ.Rekstad+           (80)O1806  2 
+ 2003 62148   4 800  C 2.4000+7 30000.00 3.3200-5          0.800731          3037000. 10000.00LVLJ.Rekstad+           (80)O1806  2 
+ 2003 62148   4 800  C 2.4000+7 30000.00 4.1000-5 4.9200-6 0.740805          3037000. 10000.00LVLJ.Rekstad+           (80)O1806  2 
+ 2003 62148   4 800  C 2.4000+7 30000.00 3.7700-5 2.6390-6 0.684547          3037000. 10000.00LVLJ.Rekstad+           (80)O1806  2 
+ 2003 62148   4 800  C 2.4000+7 30000.00 2.9300-5 1.1720-6 0.541708          3037000. 10000.00LVLJ.Rekstad+           (80)O1806  2 
+ 2003 62148   4 800  C 2.4000+7 30000.00 1.9500-5 1.7550-6 0.387516          3037000. 10000.00LVLJ.Rekstad+           (80)O1806  2 
+#/DATA      8
+#/DATASET

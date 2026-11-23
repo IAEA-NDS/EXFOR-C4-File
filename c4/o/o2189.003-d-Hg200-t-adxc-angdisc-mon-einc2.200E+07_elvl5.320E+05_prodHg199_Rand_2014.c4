@@ -1,0 +1,36 @@
+#ENTRY      O2189
+#AUTHOR1    E.T.Rand+
+#YEAR       2014
+#INSTITUTE  (1CANGUE)
+#TITLE      Investigation of the E2 and E3 matrix elements in
+#+          200Hg using inelastic scattering.
+#AUTHOR(S)  E.T.Rand, P.E.Garrett, G.C.Ball, V.Bildstein, T.Faestermann, 
+#+          B.Hadinia, R.Hertenberger, D.S.Jamieson, B.Jigmeddorj, K.G.Leach, 
+#+          C.E.Svensson, H.-F.Wirth
+#REF-CODE   (J,EPJ/CS,66,02088,2014)
+#REFERENCE  EPJ Web Conf. 66 (2014) 02088
+#DATASETS   0
+#
+#DATASET    O2189003 
+#DATE       20140511
+#REACTION   80-HG-200(D,T)80-HG-199,PAR,DA
+#PROJ       1002
+#TARG       80200
+#MF         4
+#MT         700
+#PRODUCT    80-HG-199
+#C4BEGIN    [ 1002 80200   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 80200   4 700  C 2.2000+7          9.5150-6 1.3910-6 0.985049          532000.0         LVLE.T.Rand+            (14)O2189  3 
+ 1002 80200   4 700  C 2.2000+7          1.0050-5 1.2140-6 0.966327          532000.0         LVLE.T.Rand+            (14)O2189  3 
+ 1002 80200   4 700  C 2.2000+7          1.8350-5          0.940899          532000.0         LVLE.T.Rand+            (14)O2189  3 
+ 1002 80200   4 700  C 2.2000+7          3.1310-5          0.906662          532000.0         LVLE.T.Rand+            (14)O2189  3 
+ 1002 80200   4 700  C 2.2000+7          4.8740-5          0.866618          532000.0         LVLE.T.Rand+            (14)O2189  3 
+ 1002 80200   4 700  C 2.2000+7          5.9040-5          0.819962          532000.0         LVLE.T.Rand+            (14)O2189  3 
+ 1002 80200   4 700  C 2.2000+7          5.5670-5          0.767020          532000.0         LVLE.T.Rand+            (14)O2189  3 
+ 1002 80200   4 700  C 2.2000+7          3.9400-5          0.642828          532000.0         LVLE.T.Rand+            (14)O2189  3 
+ 1002 80200   4 700  C 2.2000+7          3.4690-5          0.574948          532000.0         LVLE.T.Rand+            (14)O2189  3 
+#/DATA      9
+#/DATASET

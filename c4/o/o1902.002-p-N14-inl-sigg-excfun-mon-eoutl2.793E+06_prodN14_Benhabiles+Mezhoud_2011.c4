@@ -1,0 +1,44 @@
+#ENTRY      O1902
+#AUTHOR1    H.Benhabiles-Mezhoud+
+#YEAR       2011
+#INSTITUTE  (2FR CSN)
+#TITLE      Measurements of nuclear gamma-ray line emission in
+#+          interactions of protons and alpha particles with N, O,
+#+          Ne and Si.
+#AUTHOR(S)  H.Benhabiles-Mezhoud, J.Kiener, J.-P.Thibaud, V.Tatischeff, 
+#+          I.Deloncle, A.Coc, J.Duprat, C.Hamadache, A.Lefebvre-Schuhl, 
+#+          J.-C.Dalouzy, F.de Grancey, F.de Oliveira, F.Dayras, N.de Sereville, 
+#+          M.-G.Pellegriti, L.Lamia, S.Ouichaoui
+#REF-CODE   (J,PR/C,83,024603,2011)
+#REFERENCE  Phys.Rev.C 83 (2011) 024603
+#DATASETS   0
+#
+#DATASET    O1902002 
+#DATE       20110809
+#REACTION   7-N-14(P,INL)7-N-14,PAR,SIG,G
+#PROJ       1001
+#TARG       7014
+#MF         13
+#MT         601
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1001  7014  13 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7014  13 601 A  7160000.          4.8000-3 5.0000-4                   2793000.            H.Benhabiles-Mezhoud+(11)O1902  2 
+ 1001  7014  13 601 A  7600000.          0.011000 1.2000-3                   2793000.            H.Benhabiles-Mezhoud+(11)O1902  2 
+ 1001  7014  13 601 A  7980000.          0.011200 1.2000-3                   2793000.            H.Benhabiles-Mezhoud+(11)O1902  2 
+ 1001  7014  13 601 A  8290000.          7.5000-3 9.0000-4                   2793000.            H.Benhabiles-Mezhoud+(11)O1902  2 
+ 1001  7014  13 601 A  8600000.          4.8000-3 5.0000-4                   2793000.            H.Benhabiles-Mezhoud+(11)O1902  2 
+ 1001  7014  13 601 A  8900000.          5.8000-3 6.0000-4                   2793000.            H.Benhabiles-Mezhoud+(11)O1902  2 
+ 1001  7014  13 601 A  9250000.          6.6000-3 7.0000-4                   2793000.            H.Benhabiles-Mezhoud+(11)O1902  2 
+ 1001  7014  13 601 A  9600000.          0.013900 1.5000-3                   2793000.            H.Benhabiles-Mezhoud+(11)O1902  2 
+ 1001  7014  13 601 A  1.0540+7          0.012400 1.4000-3                   2793000.            H.Benhabiles-Mezhoud+(11)O1902  2 
+ 1001  7014  13 601 A  1.1080+7          0.015800 1.7000-3                   2793000.            H.Benhabiles-Mezhoud+(11)O1902  2 
+ 1001  7014  13 601 A  1.1590+7          0.013200 1.4000-3                   2793000.            H.Benhabiles-Mezhoud+(11)O1902  2 
+ 1001  7014  13 601 A  1.2100+7          9.6000-3 1.1000-3                   2793000.            H.Benhabiles-Mezhoud+(11)O1902  2 
+ 1001  7014  13 601 A  1.2580+7          7.6000-3 9.0000-4                   2793000.            H.Benhabiles-Mezhoud+(11)O1902  2 
+ 1001  7014  13 601 A  1.3310+7          5.7000-3 6.0000-4                   2793000.            H.Benhabiles-Mezhoud+(11)O1902  2 
+ 1001  7014  13 601 A  1.4840+7          6.8000-3 8.0000-4                   2793000.            H.Benhabiles-Mezhoud+(11)O1902  2 
+#/DATA      15
+#/DATASET

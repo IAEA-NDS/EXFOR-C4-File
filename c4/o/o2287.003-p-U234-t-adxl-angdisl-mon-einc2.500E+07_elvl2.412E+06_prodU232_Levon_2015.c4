@@ -1,0 +1,37 @@
+#ENTRY      O2287
+#AUTHOR1    A.I.Levon+
+#YEAR       2015
+#INSTITUTE  (4UKRIJD)
+#TITLE      Spectroscopy of 232U in the (p,t) reaction- More
+#+          information on 0+ excitations.
+#AUTHOR(S)  A.I.Levon, P.Alexa, G.Graw, R.Hertenberger, S.Pascu, P.G.Thirolf, 
+#+          H.-F.Wirth
+#REF-CODE   (J,PR/C,92,064319,2015)
+#REFERENCE  Phys.Rev.C 92 (2015) 064319
+#DATASETS   0
+#
+#DATASET    O2287003 
+#DATE       20220223
+#REACTION   92-U-234(P,T)92-U-232,PAR,DA
+#PROJ       1001
+#TARG       92234
+#MF         4
+#MT         700
+#PRODUCT    92-U-232
+#C4BEGIN    [ 1001 92234   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92234   4 700    2.5000+7          9.2410-7 5.5580-7 0.996118          2412400.         LVLA.I.Levon+           (15)O2287  3 
+ 1001 92234   4 700    2.5000+7          1.9910-6 6.1900-7 0.985019          2412400.         LVLA.I.Levon+           (15)O2287  3 
+ 1001 92234   4 700    2.5000+7          2.7400-6 3.9650-7 0.975611          2412400.         LVLA.I.Levon+           (15)O2287  3 
+ 1001 92234   4 700    2.5000+7          3.4570-6 7.4590-7 0.961406          2412400.         LVLA.I.Levon+           (15)O2287  3 
+ 1001 92234   4 700    2.5000+7          3.0150-6 7.7780-7 0.939991          2412400.         LVLA.I.Levon+           (15)O2287  3 
+ 1001 92234   4 700    2.5000+7          1.9880-6 8.5680-7 0.899023          2412400.         LVLA.I.Levon+           (15)O2287  3 
+ 1001 92234   4 700    2.5000+7          1.4830-6 4.1250-7 0.868372          2412400.         LVLA.I.Levon+           (15)O2287  3 
+ 1001 92234   4 700    2.5000+7          1.3920-6 2.5400-7 0.821547          2412400.         LVLA.I.Levon+           (15)O2287  3 
+ 1001 92234   4 700    2.5000+7          1.3640-6 3.6500-7 0.769622          2412400.         LVLA.I.Levon+           (15)O2287  3 
+ 1001 92234   4 700    2.5000+7          8.9210-7 6.0320-7 0.710431          2412400.         LVLA.I.Levon+           (15)O2287  3 
+ 1001 92234   4 700    2.5000+7          1.4840-6 4.1240-7 0.643456          2412400.         LVLA.I.Levon+           (15)O2287  3 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      O2163
+#AUTHOR1    C.Bernards+
+#YEAR       2013
+#INSTITUTE  (1USAYAL)
+#TITLE      High-resolution study of excited 0+ states in 200Hg and
+#+          202Hg.
+#AUTHOR(S)  C.Bernards, R.F.Casten, V.Werner, P.Von Brentano, D.Bucurescu, 
+#+          G.Graw, S.Heinze, R.Hertenberger, J.Jolie, S.Lalkovski, 
+#+          D.A.Meyer, D.Muecher, P.Pejovic, C.Scholl, H.-F.Wirth
+#REF-CODE   (J,PR/C,87,064321,2013)
+#REFERENCE  Phys.Rev.C 87 (2013) 064321
+#DATASETS   0
+#
+#DATASET    O2163002 
+#DATE       20130919
+#REACTION   80-HG-202(P,T)80-HG-200,PAR,DA
+#PROJ       1001
+#TARG       80202
+#MF         4
+#MT         700
+#PRODUCT    80-HG-200
+#C4BEGIN    [ 1001 80202   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 80202   4 700    2.5000+7          2.0000-6 4.0000-7 0.996195          2414100. 900.0000LVLC.Bernards+          (13)O2163  2 
+ 1001 80202   4 700    2.5000+7          4.7000-6 6.0000-7 0.953717          2414100. 900.0000LVLC.Bernards+          (13)O2163  2 
+ 1001 80202   4 700    2.5000+7          9.6000-6 1.1000-6 0.866025          2414100. 900.0000LVLC.Bernards+          (13)O2163  2 
+#/DATA      3
+#/DATASET

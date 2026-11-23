@@ -1,0 +1,37 @@
+#ENTRY      O1158
+#AUTHOR1    F.Guilbaut+
+#YEAR       1977
+#INSTITUTE  (2FR FR)
+#TITLE      Levels of Ge-68 excited by the (p,t) reaction.
+#AUTHOR(S)  F.Guilbaut, D.Ardouin, R.Tamisier, P.Avignon, M.Vergnes, 
+#+          G.Rotbard, G.Berrier, R.Seltz
+#REF-CODE   (J,PR/C,15,894,1977)
+#REFERENCE  Phys.Rev.C 15 (1977) 894
+#DATASETS   0
+#
+#DATASET    O1158002 
+#DATE       20040425
+#REACTION   32-GE-70(P,T)32-GE-68,PAR,DA
+#PROJ       1001
+#TARG       32070
+#MF         4
+#MT         700
+#PRODUCT    32-GE-68
+#C4BEGIN    [ 1001 32070   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 32070   4 700  C 2.6000+7 5000.000 4.5000-6 4.9500-7 0.994986          2942000.         LVLF.Guilbaut+          (77)O1158  2 
+ 1001 32070   4 700  C 2.6000+7 5000.000 1.1620-5          0.980717          2942000.         LVLF.Guilbaut+          (77)O1158  2 
+ 1001 32070   4 700  C 2.6000+7 5000.000 1.6400-5          0.962266          2942000.         LVLF.Guilbaut+          (77)O1158  2 
+ 1001 32070   4 700  C 2.6000+7 5000.000 2.1400-5          0.936489          2942000.         LVLF.Guilbaut+          (77)O1158  2 
+ 1001 32070   4 700  C 2.6000+7 5000.000 1.8700-5          0.897643          2942000.         LVLF.Guilbaut+          (77)O1158  2 
+ 1001 32070   4 700  C 2.6000+7 5000.000 1.3130-5          0.854731          2942000.         LVLF.Guilbaut+          (77)O1158  2 
+ 1001 32070   4 700  C 2.6000+7 5000.000 4.4600-6          0.801045          2942000.         LVLF.Guilbaut+          (77)O1158  2 
+ 1001 32070   4 700  C 2.6000+7 5000.000 3.8400-6 2.3040-7 0.744078          2942000.         LVLF.Guilbaut+          (77)O1158  2 
+ 1001 32070   4 700  C 2.6000+7 5000.000 3.0400-6          0.675204          2942000.         LVLF.Guilbaut+          (77)O1158  2 
+ 1001 32070   4 700  C 2.6000+7 5000.000 3.8700-6          0.618408          2942000.         LVLF.Guilbaut+          (77)O1158  2 
+ 1001 32070   4 700  C 2.6000+7 5000.000 3.4100-6          0.534942          2942000.         LVLF.Guilbaut+          (77)O1158  2 
+ 1001 32070   4 700  C 2.6000+7 5000.000 2.5600-6 1.0240-7 0.449943          2942000.         LVLF.Guilbaut+          (77)O1158  2 
+#/DATA      12
+#/DATASET

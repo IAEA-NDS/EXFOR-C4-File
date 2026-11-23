@@ -1,0 +1,28 @@
+#ENTRY      O1775
+#AUTHOR1    J.Bommer+
+#YEAR       1971
+#INSTITUTE  (2GERBER)
+#TITLE      Spectroscopy of Tc-93,95 by means of Mo-92,94(d,n).
+#AUTHOR(S)  J.Bommer, H.Fuchs, K.Grabisch, H.Kluge, G.Roeschert
+#REF-CODE   (J,NP/A,173,383,1971)
+#REFERENCE  Nucl.Phys.A 173 (1971) 383
+#DATASETS   0
+#
+#DATASET    O1775002 
+#DATE       20090810
+#REACTION   42-MO-92(D,N)43-TC-93,PAR,DA
+#PROJ       1002
+#TARG       42092
+#MF         4
+#MT         50
+#PRODUCT    43-TC-93
+#C4BEGIN    [ 1002 42092   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 42092   4  50  C 6250000. 50000.00 6.5400-4          1.000000          5350000.         LVLJ.Bommer+            (71)O1775  2 
+ 1002 42092   4  50  C 6250000. 50000.00 5.9000-4 4.1300-5 0.986572          5350000.         LVLJ.Bommer+            (71)O1775  2 
+ 1002 42092   4  50  C 6250000. 50000.00 2.5000-4 4.0000-5 0.960779          5350000.         LVLJ.Bommer+            (71)O1775  2 
+ 1002 42092   4  50  C 6250000. 50000.00 2.7000-4 6.4800-5 0.917755          5350000.         LVLJ.Bommer+            (71)O1775  2 
+#/DATA      4
+#/DATASET

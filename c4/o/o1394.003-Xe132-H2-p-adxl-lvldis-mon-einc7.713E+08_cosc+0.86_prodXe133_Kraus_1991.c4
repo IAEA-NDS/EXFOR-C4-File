@@ -1,0 +1,28 @@
+#ENTRY      O1394
+#AUTHOR1    G.Kraus+
+#YEAR       1991
+#INSTITUTE  (2GERGSI)
+#TITLE      Investigation of the (d,p) reaction on Xe-132,136 in
+#+          inverse kinematics.
+#AUTHOR(S)  G.Kraus, P.Egelhof, H.Emling, E.Grosse, W.Henning, R.Holzmann, 
+#+          H.J.Koerner, J.V.Kratz, R.Kulessa, Ch.Schiessl, J.P.Schiffer, 
+#+          W.Wagner, W.Walus, H.J.Wollersheim
+#REF-CODE   (J,ZP/A,340,339,1991)
+#REFERENCE  Z.Phys.A 340 (1991) 339
+#DATASETS   0
+#
+#DATASET    O1394003 
+#DATE       20060505
+#REACTION   1-H-2(54-XE-132,P)54-XE-133,PAR,DA
+#PROJ       54132
+#TARG       1002
+#MF         4
+#MT         600
+#PRODUCT    54-XE-133
+#C4BEGIN    [54132  1002   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+54132  1002   4 600  C 7.7132+8          1.8600-3 1.0000-4 0.861629          1600000.         LVLG.Kraus+             (91)O1394  3 
+#/DATA      1
+#/DATASET

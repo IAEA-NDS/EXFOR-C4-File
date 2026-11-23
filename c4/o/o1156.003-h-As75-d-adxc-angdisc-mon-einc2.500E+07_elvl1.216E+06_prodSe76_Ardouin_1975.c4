@@ -1,0 +1,34 @@
+#ENTRY      O1156
+#AUTHOR1    D.Ardouin+
+#YEAR       1975
+#INSTITUTE  (2FR FR)
+#TITLE      Systematics of the proton stripping reaction on Ga-69,
+#+          Ga-71, As-75, Br-79,81 isotopes and nuclear structure
+#+          of the Ge-Se isotopes.
+#AUTHOR(S)  D.Ardouin, R.Tamisier, M.Vergnes, G.Rotbard, J.Kalifa, G.Berrier, 
+#+          B.Grammaticos
+#REF-CODE   (J,PR/C,12,1745,1975)
+#REFERENCE  Phys.Rev.C 12 (1975) 1745
+#DATASETS   0
+#
+#DATASET    O1156003 
+#DATE       20040425
+#REACTION   33-AS-75(HE3,D)34-SE-76,PAR,DA
+#PROJ       2003
+#TARG       33075
+#MF         4
+#MT         650
+#PRODUCT    34-SE-76
+#C4BEGIN    [ 2003 33075   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 33075   4 650  C 2.5000+7 10500.00 1.2400-4          0.977416          1216000.         LVLD.Ardouin+           (75)O1156  3 
+ 2003 33075   4 650  C 2.5000+7 10500.00 4.9400-5          0.960294          1216000.         LVLD.Ardouin+           (75)O1156  3 
+ 2003 33075   4 650  C 2.5000+7 10500.00 2.5200-5          0.944376          1216000.         LVLD.Ardouin+           (75)O1156  3 
+ 2003 33075   4 650  C 2.5000+7 10500.00 6.2000-5          0.914960          1216000.         LVLD.Ardouin+           (75)O1156  3 
+ 2003 33075   4 650  C 2.5000+7 10500.00 2.8500-5          0.878734          1216000.         LVLD.Ardouin+           (75)O1156  3 
+ 2003 33075   4 650  C 2.5000+7 10500.00 1.4800-5          0.843391          1216000.         LVLD.Ardouin+           (75)O1156  3 
+ 2003 33075   4 650  C 2.5000+7 10500.00 1.1400-5 5.7000-7 0.814116          1216000.         LVLD.Ardouin+           (75)O1156  3 
+#/DATA      7
+#/DATASET

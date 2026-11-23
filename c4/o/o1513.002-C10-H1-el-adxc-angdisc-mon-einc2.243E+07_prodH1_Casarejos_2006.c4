@@ -1,0 +1,37 @@
+#ENTRY      O1513
+#AUTHOR1    E.Casarejos+
+#YEAR       2006
+#INSTITUTE  (2BLGLVN)
+#TITLE      Low-lying states in the unbound N-11 nucleus.
+#AUTHOR(S)  E.Casarejos, C.Angulo, P.J.Woods, F.C.Barker, P.Descouvemont, 
+#+          M.Aliotta, T.Davinson, P.Demaret, M.Gaelens, P.Ledeux, Z.Liu, 
+#+          M.Loiselet, A.S.Murphy, A.Ninane, I.A.Roberts, G.Ryckewaert, 
+#+          J.S.Schweitzer, F.Vanderbist
+#REF-CODE   (J,PR/C,73,014319,2006)
+#REFERENCE  Phys.Rev.C 73 (2006) 014319
+#DATASETS   0
+#
+#DATASET    O1513002 
+#DATE       20070510
+#REACTION   1-H-1(6-C-10,EL)1-H-1,,DA
+#PROJ       6010
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [ 6010  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6010  1001   4   2  C 2.2427+7          0.096000 0.010000-0.790155 5.3486-3                     E.Casarejos+         (06)O1513  2 
+ 6010  1001   4   2  C 2.2427+7          0.100000 7.0000-3-0.810042 5.1171-3                     E.Casarejos+         (06)O1513  2 
+ 6010  1001   4   2  C 2.2427+7          0.110000 0.010000-0.829038 4.8799-3                     E.Casarejos+         (06)O1513  2 
+ 6010  1001   4   2  C 2.2427+7          0.101000 0.010000-0.847122 4.6373-3                     E.Casarejos+         (06)O1513  2 
+ 6010  1001   4   2  C 2.2427+7          0.100000 7.0000-3-0.872922 8.5148-3                     E.Casarejos+         (06)O1513  2 
+ 6010  1001   4   2  C 2.2427+7          0.090000 6.0000-3-0.904083 7.4588-3                     E.Casarejos+         (06)O1513  2 
+ 6010  1001   4   2  C 2.2427+7          0.080000 8.0000-3-0.931691 6.3399-3                     E.Casarejos+         (06)O1513  2 
+ 6010  1001   4   2  C 2.2427+7          0.083000 7.0000-3-0.954761 5.1902-3                     E.Casarejos+         (06)O1513  2 
+ 6010  1001   4   2  C 2.2427+7          0.086000 8.0000-3-0.973179 4.0151-3                     E.Casarejos+         (06)O1513  2 
+ 6010  1001   4   2  C 2.2427+7          0.067000 7.0000-3-0.987414 2.7604-3                     E.Casarejos+         (06)O1513  2 
+#/DATA      10
+#/DATASET

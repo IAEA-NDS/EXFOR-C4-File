@@ -1,0 +1,30 @@
+#ENTRY      O2436
+#AUTHOR1    S.A.Gillespie+
+#YEAR       2017
+#INSTITUTE  (2UK YRK)
+#TITLE      First measurement of the 34S(p,gamma)35Cl reaction rate
+#+          through indirect methods for presolar nova grains
+#AUTHOR(S)  S.A.Gillespie, A.Parikh, C.J.Barton, T.Faestermann, J.Jose, 
+#+          R.Hertenberger, H.-F.Wirth, N.de Sereville, J.E.Riley, M.Williams
+#REF-CODE   (J,PR/C,96,025801,2017)
+#REFERENCE  Phys.Rev.C 96 (2017) 025801
+#DATASETS   0
+#
+#DATASET    O2436002 
+#DATE       20191109
+#REACTION   16-S-34(HE3,D)17-CL-35,PAR,DA
+#PROJ       2003
+#TARG       16034
+#MF         4
+#MT         650
+#PRODUCT    17-CL-35
+#C4BEGIN    [ 2003 16034   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 16034   4 650  C 2.0000+7          6.4400-4 8.7000-5 0.996917 3.0126-3 7178000.         LVLS.A.Gillespie+       (17)O2436  2 
+ 2003 16034   4 650  C 2.0000+7          3.7100-4 1.7000-5 0.963163 9.8564-3 7178000.         LVLS.A.Gillespie+       (17)O2436  2 
+ 2003 16034   4 650  C 2.0000+7          2.3700-4 1.1000-5 0.893371 0.017253 7178000.         LVLS.A.Gillespie+       (17)O2436  2 
+ 2003 16034   4 650  C 2.0000+7          6.4000-5 8.0000-6 0.727773 0.026334 7178000.         LVLS.A.Gillespie+       (17)O2436  2 
+#/DATA      4
+#/DATASET

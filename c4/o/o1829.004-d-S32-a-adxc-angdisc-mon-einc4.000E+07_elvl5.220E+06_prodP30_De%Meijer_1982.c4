@@ -1,0 +1,41 @@
+#ENTRY      O1829
+#AUTHOR1    R.J.De Meijer+
+#YEAR       1982
+#INSTITUTE  (2NEDKVI)
+#TITLE      Microscopic and macroscopic DWBA analysis of the
+#+          reactions  Si-28(a,d)P-30, S-32(d,a)P-30 and
+#+          S-32(a,d)Cl-34 studied at E(a)=50 MeV and
+#+          E(d)=40 MeV.
+#AUTHOR(S)  R.J.De Meijer, L.W.Put, J.J.Akkerman, J.C.Vermeulen, C.R.Bingham
+#REF-CODE   (J,NP/A,386,200,1982)
+#REFERENCE  Nucl.Phys.A 386 (1982) 200
+#DATASETS   0
+#
+#DATASET    O1829004 
+#DATE       20100217
+#REACTION   16-S-32(D,A)15-P-30,PAR,DA
+#PROJ       1002
+#TARG       16032
+#MF         4
+#MT         800
+#PRODUCT    15-P-30
+#C4BEGIN    [ 1002 16032   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 16032   4 800  C 4.0000+7          0.096000 0.016320 0.995073          5220000.         LVLR.J.De Meijer+       (82)O1829  4 
+ 1002 16032   4 800  C 4.0000+7          0.082000 0.010660 0.990097          5220000.         LVLR.J.De Meijer+       (82)O1829  4 
+ 1002 16032   4 800  C 4.0000+7          0.120000 0.012000 0.984899          5220000.         LVLR.J.De Meijer+       (82)O1829  4 
+ 1002 16032   4 800  C 4.0000+7          0.107200          0.975993          5220000.         LVLR.J.De Meijer+       (82)O1829  4 
+ 1002 16032   4 800  C 4.0000+7          0.097200          0.965016          5220000.         LVLR.J.De Meijer+       (82)O1829  4 
+ 1002 16032   4 800  C 4.0000+7          0.104000 0.013520 0.949480          5220000.         LVLR.J.De Meijer+       (82)O1829  4 
+ 1002 16032   4 800  C 4.0000+7          0.088000          0.932702          5220000.         LVLR.J.De Meijer+       (82)O1829  4 
+ 1002 16032   4 800  C 4.0000+7          0.056000 7.2800-3 0.894076          5220000.         LVLR.J.De Meijer+       (82)O1829  4 
+ 1002 16032   4 800  C 4.0000+7          0.048000 6.2400-3 0.847400          5220000.         LVLR.J.De Meijer+       (82)O1829  4 
+ 1002 16032   4 800  C 4.0000+7          0.025000 4.0000-3 0.792928          5220000.         LVLR.J.De Meijer+       (82)O1829  4 
+ 1002 16032   4 800  C 4.0000+7          0.027000 4.0500-3 0.734086          5220000.         LVLR.J.De Meijer+       (82)O1829  4 
+ 1002 16032   4 800  C 4.0000+7          9.0000-3 1.8000-3 0.662881          5220000.         LVLR.J.De Meijer+       (82)O1829  4 
+ 1002 16032   4 800  C 4.0000+7          0.012400 1.9840-3 0.592013          5220000.         LVLR.J.De Meijer+       (82)O1829  4 
+ 1002 16032   4 800  C 4.0000+7          7.0000-3 2.1000-3 0.432086          5220000.         LVLR.J.De Meijer+       (82)O1829  4 
+#/DATA      14
+#/DATASET

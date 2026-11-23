@@ -1,0 +1,36 @@
+#ENTRY      O2440
+#AUTHOR1    M.Spieker+
+#YEAR       2018
+#INSTITUTE  (2GERKLN)
+#TITLE      High-resolution (p,t) study of low-spin states in
+#+          240Pu: Octupole excitations, alpha clustering, and
+#+          other structure features
+#AUTHOR(S)  M.Spieker, S.Pascu, D.Bucurescu, T.M.Shneidman, T.Faestermann, 
+#+          R.Hertenberger, H.-F.Wirth, N.-V.Zamfir, A.Zilges
+#REF-CODE   (J,PR/C,97,064319,2018)
+#REFERENCE  Phys.Rev.C 97 (2018) 064319
+#DATASETS   0
+#
+#DATASET    O2440002 
+#DATE       20200108
+#REACTION   94-PU-242(P,T)94-PU-240,PAR,DA
+#PROJ       1001
+#TARG       94242
+#MF         4
+#MT         700
+#PRODUCT    94-PU-240
+#C4BEGIN    [ 1001 94242   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 94242   4 700    2.4000+7          1.2790-6 2.7600-7 0.996195          2769000.         LVLM.Spieker+           (18)O2440  2 
+ 1001 94242   4 700    2.4000+7          2.6030-6 3.4200-7 0.991216          2769000.         LVLM.Spieker+           (18)O2440  2 
+ 1001 94242   4 700    2.4000+7          2.9670-6 2.7600-7 0.984808          2769000.         LVLM.Spieker+           (18)O2440  2 
+ 1001 94242   4 700    2.4000+7          4.2570-6 4.8500-7 0.965473          2769000.         LVLM.Spieker+           (18)O2440  2 
+ 1001 94242   4 700    2.4000+7          2.8010-6 2.7600-7 0.938493          2769000.         LVLM.Spieker+           (18)O2440  2 
+ 1001 94242   4 700    2.4000+7          2.1950-6 2.8700-7 0.904827          2769000.         LVLM.Spieker+           (18)O2440  2 
+ 1001 94242   4 700    2.4000+7          1.1470-6 2.9800-7 0.864275          2769000.         LVLM.Spieker+           (18)O2440  2 
+ 1001 94242   4 700    2.4000+7          1.8750-6 2.4300-7 0.817145          2769000.         LVLM.Spieker+           (18)O2440  2 
+ 1001 94242   4 700    2.4000+7          2.6910-6 1.6500-7 0.762668          2769000.         LVLM.Spieker+           (18)O2440  2 
+#/DATA      9
+#/DATASET

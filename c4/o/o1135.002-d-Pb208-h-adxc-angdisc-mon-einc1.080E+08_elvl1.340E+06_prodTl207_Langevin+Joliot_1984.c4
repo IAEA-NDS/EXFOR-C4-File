@@ -1,0 +1,39 @@
+#ENTRY      O1135
+#AUTHOR1    H.Langevin-Joliot+
+#YEAR       1984
+#INSTITUTE  (2FR PAR)
+#TITLE      High-lying valence and inner-proton-hole states in
+#+          Tl-207 via the (d,He3) reaction at 108-MeV.
+#AUTHOR(S)  H.Langevin-Joliot, E.Gerlic, J.Guillot, J.Van De Wiele
+#REF-CODE   (J,JP/G,10,1435,1984)
+#REFERENCE  J.Phys.G 10 (1984) 1435
+#DATASETS   0
+#
+#DATASET    O1135002 
+#DATE       20040414
+#REACTION   82-PB-208(D,HE3)81-TL-207,PAR,DA
+#PROJ       1002
+#TARG       82208
+#MF         4
+#MT         750
+#PRODUCT    81-TL-207
+#C4BEGIN    [ 1002 82208   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 82208   4 750  C 1.0800+8 250000.0 1.2250-3          0.998546          1340000.         LVLH.Langevin-Joliot+   (84)O1135  2 
+ 1002 82208   4 750  C 1.0800+8 250000.0 1.4000-3          0.996072          1340000.         LVLH.Langevin-Joliot+   (84)O1135  2 
+ 1002 82208   4 750  C 1.0800+8 250000.0 1.5800-3          0.994282          1340000.         LVLH.Langevin-Joliot+   (84)O1135  2 
+ 1002 82208   4 750  C 1.0800+8 250000.0 1.6300-3          0.992610          1340000.         LVLH.Langevin-Joliot+   (84)O1135  2 
+ 1002 82208   4 750  C 1.0800+8 250000.0 1.6800-3          0.990219          1340000.         LVLH.Langevin-Joliot+   (84)O1135  2 
+ 1002 82208   4 750  C 1.0800+8 250000.0 1.6000-3          0.987524          1340000.         LVLH.Langevin-Joliot+   (84)O1135  2 
+ 1002 82208   4 750  C 1.0800+8 250000.0 1.5300-3          0.983854          1340000.         LVLH.Langevin-Joliot+   (84)O1135  2 
+ 1002 82208   4 750  C 1.0800+8 250000.0 1.4020-3          0.981826          1340000.         LVLH.Langevin-Joliot+   (84)O1135  2 
+ 1002 82208   4 750  C 1.0800+8 250000.0 1.0870-3          0.977083          1340000.         LVLH.Langevin-Joliot+   (84)O1135  2 
+ 1002 82208   4 750  C 1.0800+8 250000.0 8.4300-4          0.973499          1340000.         LVLH.Langevin-Joliot+   (84)O1135  2 
+ 1002 82208   4 750  C 1.0800+8 250000.0 6.1600-4          0.970084          1340000.         LVLH.Langevin-Joliot+   (84)O1135  2 
+ 1002 82208   4 750  C 1.0800+8 250000.0 4.7800-4          0.966511          1340000.         LVLH.Langevin-Joliot+   (84)O1135  2 
+ 1002 82208   4 750  C 1.0800+8 250000.0 4.2400-4          0.955947          1340000.         LVLH.Langevin-Joliot+   (84)O1135  2 
+ 1002 82208   4 750  C 1.0800+8 250000.0 4.4400-4 2.6640-5 0.951003          1340000.         LVLH.Langevin-Joliot+   (84)O1135  2 
+#/DATA      14
+#/DATASET

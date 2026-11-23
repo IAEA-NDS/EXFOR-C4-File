@@ -1,0 +1,31 @@
+#ENTRY      O2550
+#AUTHOR1    S.V.Szwec+
+#YEAR       2021
+#INSTITUTE  (2UK MAN)
+#TITLE      Neutron occupancies and single-particle energies
+#+          across the stable tin isotopes
+#AUTHOR(S)  S.V.Szwec, D.K.Sharp, B.P.Kay, S.J.Freeman, J.P.Schiffer, 
+#+          P.Adsley, C.Binnersley, N.de Sereville, T.Faestermann, R.F.Garcia Ruiz, 
+#+          F.Hammache, R.Hertenberger, A.Meyer, C.Portail, I.Stefan, 
+#+          A.Vernon, S.Wilkins, H.-F.Wirth
+#REF-CODE   (J,PR/C,104,054308,2021)
+#REFERENCE  Phys.Rev.C 104 (2021) 054308
+#DATASETS   0
+#
+#DATASET    O2550022 
+#DATE       20220309
+#REACTION   50-SN-122(P,D)50-SN-121,PAR,DA
+#PROJ       1001
+#TARG       50122
+#MF         4
+#MT         650
+#PRODUCT    50-SN-121
+#C4BEGIN    [ 1001 50122   4 650 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50122   4 650 A  2.1000+7          3.5000-5 2.0000-6 0.951057          3459000.         LVLS.V.Szwec+           (21)O2550 22 
+ 1001 50122   4 650 A  2.1000+7          2.1000-5 1.0000-6 0.866025          3459000.         LVLS.V.Szwec+           (21)O2550 22 
+ 1001 50122   4 650 A  2.1000+7          1.3000-5 1.0000-6 0.766044          3459000.         LVLS.V.Szwec+           (21)O2550 22 
+#/DATA      3
+#/DATASET

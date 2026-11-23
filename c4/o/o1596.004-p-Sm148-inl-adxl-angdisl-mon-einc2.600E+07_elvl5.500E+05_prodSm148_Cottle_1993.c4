@@ -1,0 +1,29 @@
+#ENTRY      O1596
+#AUTHOR1    P.D.Cottle+
+#YEAR       1993
+#INSTITUTE  (1USAFSU)
+#TITLE      5- "octupole" states in Nd-146,148 and Sm-148 via
+#+          proton scattering.
+#AUTHOR(S)  P.D.Cottle, K.W.Kemper, M.A.Kennedy, L.K.Fifield, T.R.Ophel
+#REF-CODE   (J,PR/C,47,1048,1993)
+#REFERENCE  Phys.Rev.C 47 (1993) 1048
+#DATASETS   0
+#
+#DATASET    O1596004 
+#DATE       20080129
+#REACTION   62-SM-148(P,INL)62-SM-148,PAR,DA
+#PROJ       1001
+#TARG       62148
+#MF         4
+#MT         601
+#PRODUCT    62-SM-148
+#C4BEGIN    [ 1001 62148   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 62148   4 601    2.6000+7 25000.00 5.7000-3 1.1970-3 0.907191          550000.0         LVLP.D.Cottle+          (93)O1596  4 
+ 1001 62148   4 601    2.6000+7 25000.00 1.9600-3          0.707230          550000.0         LVLP.D.Cottle+          (93)O1596  4 
+ 1001 62148   4 601    2.6000+7 25000.00 2.0000-3          0.639036          550000.0         LVLP.D.Cottle+          (93)O1596  4 
+ 1001 62148   4 601    2.6000+7 25000.00 1.4900-3          0.571287          550000.0         LVLP.D.Cottle+          (93)O1596  4 
+#/DATA      4
+#/DATASET

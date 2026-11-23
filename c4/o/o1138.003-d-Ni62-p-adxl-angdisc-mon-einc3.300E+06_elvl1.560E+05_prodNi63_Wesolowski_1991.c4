@@ -1,0 +1,36 @@
+#ENTRY      O1138
+#AUTHOR1    E.Wesolowski+
+#YEAR       1991
+#INSTITUTE  (3POLWWA)
+#TITLE      Neutron distribution differences of nickel isotopes.
+#AUTHOR(S)  E.Wesolowski, A.Saganek, E.Gierlik, V.Meyer, M.Sieminski, 
+#+          A.Turoweicki, Z.Wilhelmi
+#REF-CODE   (J,JP/G,17,955,1991)
+#REFERENCE  J.Phys.G 17 (1991) 955
+#DATASETS   0
+#
+#DATASET    O1138003 
+#DATE       20040414
+#REACTION   28-NI-62(D,P)28-NI-63,PAR,DA
+#PROJ       1002
+#TARG       28062
+#MF         4
+#MT         600
+#PRODUCT    28-NI-63
+#C4BEGIN    [ 1002 28062   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28062   4 600  C 3300000. 11000.00 7.2000-5 4.3200-6 0.693402          156000.0         LVLE.Wesolowski+        (91)O1138  3 
+ 1002 28062   4 600  C 3300000. 11000.00 8.3000-5 4.9800-6 0.528438          156000.0         LVLE.Wesolowski+        (91)O1138  3 
+ 1002 28062   4 600  C 3300000. 11000.00 8.0000-5 3.2000-6 0.312335          156000.0         LVLE.Wesolowski+        (91)O1138  3 
+ 1002 28062   4 600  C 3300000. 11000.00 6.9000-5 2.0700-6 0.092371          156000.0         LVLE.Wesolowski+        (91)O1138  3 
+ 1002 28062   4 600  C 3300000. 11000.00 7.7000-5 2.3100-6 5.2360-3          156000.0         LVLE.Wesolowski+        (91)O1138  3 
+ 1002 28062   4 600  C 3300000. 11000.00 8.1000-5 3.2400-6-0.123601          156000.0         LVLE.Wesolowski+        (91)O1138  3 
+ 1002 28062   4 600  C 3300000. 11000.00 8.5000-5 2.5500-6-0.328867          156000.0         LVLE.Wesolowski+        (91)O1138  3 
+ 1002 28062   4 600  C 3300000. 11000.00 8.6000-5 8.6000-6-0.518027          156000.0         LVLE.Wesolowski+        (91)O1138  3 
+ 1002 28062   4 600  C 3300000. 11000.00 7.6000-5 4.5600-6-0.692143          156000.0         LVLE.Wesolowski+        (91)O1138  3 
+ 1002 28062   4 600  C 3300000. 11000.00 8.3000-5 4.9800-6-0.782608          156000.0         LVLE.Wesolowski+        (91)O1138  3 
+ 1002 28062   4 600  C 3300000. 11000.00 6.4000-5 3.2000-6-0.936672          156000.0         LVLE.Wesolowski+        (91)O1138  3 
+#/DATA      11
+#/DATASET

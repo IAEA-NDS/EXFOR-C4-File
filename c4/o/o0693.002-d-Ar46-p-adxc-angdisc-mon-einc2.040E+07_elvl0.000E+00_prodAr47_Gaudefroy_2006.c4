@@ -1,0 +1,40 @@
+#ENTRY      O0693
+#AUTHOR1    L.Gaudefroy+
+#YEAR       2006
+#INSTITUTE  (2FR CSN)
+#TITLE      Reduction of the spin-orbit splitting at the N=28
+#+          shell closure
+#AUTHOR(S)  L.Gaudefroy, O.Sorlin, D.Beaumel, Y.Blumenfeld, Z.Dombradi, 
+#+          S.Fortier, S.Franchoo, M.Gelin, J.Gibelin, S.Grevy, F.Hammache, 
+#+          F.Ibrahim, K.W.Kemper, K.-L.Kratz, S.M.Lukyanov, C.Monrozeau, 
+#+          L.Nalpas, F.Nowacki, A.N.Ostrowski, T.Otsuka, Yu.-E.Penionzhkevich, 
+#+          J.Piekarewicz, E.C.Pollacco, P.Roussel-Chomaz, E.Rich, J.A.Scarpaci, 
+#+          M.G.St.Laurent, D.Sohler, M.Stanoiu, T.Suzuki, E.Tryggestad, 
+#+          D.Verney
+#REF-CODE   (J,PRL,97,092501,2006)
+#REFERENCE  Phys.Rev.Lett. 97 (2006) 092501
+#DATASETS   0
+#
+#DATASET    O0693002 
+#DATE       20230111
+#REACTION   (1-H-2(18-AR-46,P)18-AR-47,PAR,DA,RSD)=(18-AR-46(D,P)18-AR-47,PAR,DA)
+#PROJ       1002
+#TARG       18046
+#MF         4
+#MT         600
+#PRODUCT    18-AR-47
+#C4BEGIN    [ 1002 18046   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 18046   4 600  C 2.0400+7 200000.0 0.035270 0.015150 0.997515 1.2542-3 0.000000         LVLL.Gaudefroy+         (06)O0693  2 
+ 1002 18046   4 600  C 2.0400+7 200000.0 0.033470 5.3850-3 0.994356 1.8887-3 0.000000         LVLL.Gaudefroy+         (06)O0693  2 
+ 1002 18046   4 600  C 2.0400+7 200000.0 0.031200 4.0770-3 0.989925 2.5207-3 0.000000         LVLL.Gaudefroy+         (06)O0693  2 
+ 1002 18046   4 600  C 2.0400+7 200000.0 0.030660 4.0070-3 0.983287 3.7178-3 0.000000         LVLL.Gaudefroy+         (06)O0693  2 
+ 1002 18046   4 600  C 2.0400+7 200000.0 0.021970 2.8710-3 0.975033 5.1159-3 0.000000         LVLL.Gaudefroy+         (06)O0693  2 
+ 1002 18046   4 600  C 2.0400+7 200000.0 0.015470 2.3310-3 0.963770 6.1451-3 0.000000         LVLL.Gaudefroy+         (06)O0693  2 
+ 1002 18046   4 600  C 2.0400+7 200000.0 7.5370-3 2.4130-3 0.949699 7.9800-3 0.000000         LVLL.Gaudefroy+         (06)O0693  2 
+ 1002 18046   4 600  C 2.0400+7 200000.0 7.2780-3 1.8770-3 0.931501 0.010221 0.000000         LVLL.Gaudefroy+         (06)O0693  2 
+ 1002 18046   4 600  C 2.0400+7 200000.0 4.4540-3 1.0440-3 0.908508 0.011742 0.000000         LVLL.Gaudefroy+         (06)O0693  2 
+#/DATA      9
+#/DATASET

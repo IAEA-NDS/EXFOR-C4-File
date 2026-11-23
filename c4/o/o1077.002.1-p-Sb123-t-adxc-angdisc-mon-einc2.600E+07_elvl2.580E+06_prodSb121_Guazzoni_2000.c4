@@ -1,0 +1,39 @@
+#ENTRY      O1077
+#AUTHOR1    P.Guazzoni+
+#YEAR       2000
+#INSTITUTE  (2ITYMIL)
+#TITLE      Low-lying states of Sb-121 studied in the Sb-123(p,t)
+#+          reaction.
+#AUTHOR(S)  P.Guazzoni, M.Jaskola, V.Yu.Ponomarev, L.Zetta, G.Graw, 
+#+          R.Hertenberger, G.Staudt
+#REF-CODE   (J,PR/C,62,054312,2000)
+#REFERENCE  Phys.Rev.C 62 (2000) 054312
+#DATASETS   0
+#
+#DATASET    O10770021
+#DATE       20040407
+#REACTION   51-SB-123(P,T)51-SB-121,PAR,DA
+#PROJ       1001
+#TARG       51123
+#MF         4
+#MT         700
+#PRODUCT    51-SB-121
+#C4BEGIN    [ 1001 51123   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 51123   4 700  C 2.6000+7          5.5000-6          0.995658          2580000. 3000.000LVLP.Guazzoni+          (00)O1077  21
+ 1001 51123   4 700  C 2.6000+7          7.7000-6          0.983729          2580000. 3000.000LVLP.Guazzoni+          (00)O1077  21
+ 1001 51123   4 700  C 2.6000+7          6.8000-6          0.964188          2580000. 3000.000LVLP.Guazzoni+          (00)O1077  21
+ 1001 51123   4 700  C 2.6000+7          7.7000-6          0.935073          2580000. 3000.000LVLP.Guazzoni+          (00)O1077  21
+ 1001 51123   4 700  C 2.6000+7          8.7000-6          0.900547          2580000. 3000.000LVLP.Guazzoni+          (00)O1077  21
+ 1001 51123   4 700  C 2.6000+7          7.1000-6          0.860386          2580000. 3000.000LVLP.Guazzoni+          (00)O1077  21
+ 1001 51123   4 700  C 2.6000+7          5.0600-6          0.811982          2580000. 3000.000LVLP.Guazzoni+          (00)O1077  21
+ 1001 51123   4 700  C 2.6000+7          2.8300-6          0.757212          2580000. 3000.000LVLP.Guazzoni+          (00)O1077  21
+ 1001 51123   4 700  C 2.6000+7          3.0700-6          0.699414          2580000. 3000.000LVLP.Guazzoni+          (00)O1077  21
+ 1001 51123   4 700  C 2.6000+7          2.4000-6          0.628846          2580000. 3000.000LVLP.Guazzoni+          (00)O1077  21
+ 1001 51123   4 700  C 2.6000+7          1.7200-6          0.560494          2580000. 3000.000LVLP.Guazzoni+          (00)O1077  21
+ 1001 51123   4 700  C 2.6000+7          1.7200-6          0.483130          2580000. 3000.000LVLP.Guazzoni+          (00)O1077  21
+ 1001 51123   4 700  C 2.6000+7          1.6500-6          0.407135          2580000. 3000.000LVLP.Guazzoni+          (00)O1077  21
+#/DATA      13
+#/DATASET

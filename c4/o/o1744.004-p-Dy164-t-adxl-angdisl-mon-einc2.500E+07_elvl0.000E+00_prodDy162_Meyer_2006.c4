@@ -1,0 +1,31 @@
+#ENTRY      O1744
+#AUTHOR1    D.A.Meyer+
+#YEAR       2006
+#INSTITUTE  (1USAYAL)
+#TITLE      Extensive investigation of 0+ states in rare earth
+#+          region nuclei.
+#AUTHOR(S)  D.A.Meyer, V.Wood, R.F.Casten, C.R.Fitzpatrick, G.Graw, 
+#+          D.Bucurescu, J.Jolie, P.von Brentano, R.Hertenberger, H.-F.Wirth, 
+#+          N.Braun, T.Faestermann, S.Heinze, J.L.Jerke, R.Kruecken, 
+#+          M.Mahgoub, O.Moeller, D.Muecher, C.Scholl
+#REF-CODE   (J,PR/C,74,044309,2006)
+#REFERENCE  Phys.Rev.C 74 (2006) 044309
+#DATASETS   0
+#
+#DATASET    O1744004 
+#DATE       20090505
+#REACTION   66-DY-164(P,T)66-DY-162,PAR,DA
+#PROJ       1001
+#TARG       66164
+#MF         4
+#MT         700
+#PRODUCT    66-DY-162
+#C4BEGIN    [ 1001 66164   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 66164   4 700    2.5000+7 3000.000 8.7800-4 5.0000-6 0.996195          0.000000         LVLD.A.Meyer+           (06)O1744  4 
+ 1001 66164   4 700    2.5000+7 3000.000 2.6200-5 6.0000-6 0.953717          0.000000         LVLD.A.Meyer+           (06)O1744  4 
+ 1001 66164   4 700    2.5000+7 3000.000 2.9000-4 5.0000-6 0.866025          0.000000         LVLD.A.Meyer+           (06)O1744  4 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      O0365
+#AUTHOR1    A.Johansson+
+#YEAR       1961
+#INSTITUTE  (2SWDUPP)
+#TITLE      The elastic-scattering of 180 MeV protons from nuclei
+#AUTHOR(S)  A.Johansson, U.Svanberg, P.E.Hodgson
+#REF-CODE   (J,AF,19,541,1961)
+#REFERENCE  Arkiv foer Fysik 19 (1961) 541
+#DATASETS   0
+#
+#DATASET    O0365012 
+#DATE       20200113
+#REACTION   26-FE-0(P,EL)26-FE-0,,DA
+#PROJ       1001
+#TARG       26000
+#MF         4
+#MT         2
+#PRODUCT    26-FE-0
+#C4BEGIN    [ 1001 26000   4   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26000   4   2 D  1.7550+8          5.3700-5 4.0000-6 0.638499 0.018537                     A.Johansson+         (61)O0365 12 
+ 1001 26000   4   2 D  1.7550+8          2.7900-5 1.9000-6 0.568849 0.019809                     A.Johansson+         (61)O0365 12 
+ 1001 26000   4   2 D  1.7550+8          1.0280-5 9.7000-7 0.495459 0.020921                     A.Johansson+         (61)O0365 12 
+ 1001 26000   4   2 D  1.7550+8          2.5100-6 4.3000-7 0.417867 0.021882                     A.Johansson+         (61)O0365 12 
+#/DATA      4
+#/DATASET

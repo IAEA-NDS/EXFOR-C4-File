@@ -1,0 +1,36 @@
+#ENTRY      O1717
+#AUTHOR1    P.Guazzoni+
+#YEAR       2006
+#INSTITUTE  (2ITYMIL)
+#TITLE      Spectroscopy of Sn-110 via the high-resolution
+#+          Sn-112(p,t)Sn-110 reaction.
+#AUTHOR(S)  P.Guazzoni, L.Zetta, A.Covello, A.Gargano, B.F.Bayman, G.Graw, 
+#+          R.Hertenberger, H.-F.Wirth, M.Jaskola
+#REF-CODE   (J,PR/C,74,054605,2006)
+#REFERENCE  Phys.Rev.C 74 (2006) 054605
+#DATASETS   0
+#
+#DATASET    O1717002 
+#DATE       20090816
+#REACTION   50-SN-112(P,T)50-SN-110,PAR,DA
+#PROJ       1001
+#TARG       50112
+#MF         4
+#MT         700
+#PRODUCT    50-SN-110
+#C4BEGIN    [ 1001 50112   4 700 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50112   4 700 AC 2.6000+7          2.3340-6 2.1600-7 0.994264          3751000.         LVLP.Guazzoni+          (06)O1717  2 
+ 1001 50112   4 700 AC 2.6000+7          3.4090-6 2.2300-7 0.984103          3751000.         LVLP.Guazzoni+          (06)O1717  2 
+ 1001 50112   4 700 AC 2.6000+7          4.9020-6 2.8700-7 0.964327          3751000.         LVLP.Guazzoni+          (06)O1717  2 
+ 1001 50112   4 700 AC 2.6000+7          4.7110-6 2.6500-7 0.936916          3751000.         LVLP.Guazzoni+          (06)O1717  2 
+ 1001 50112   4 700 AC 2.6000+7          3.0540-6 2.5600-7 0.902059          3751000.         LVLP.Guazzoni+          (06)O1717  2 
+ 1001 50112   4 700 AC 2.6000+7          1.1440-6 1.5100-7 0.860119          3751000.         LVLP.Guazzoni+          (06)O1717  2 
+ 1001 50112   4 700 AC 2.6000+7          8.2700-7 1.2500-7 0.811370          3751000.         LVLP.Guazzoni+          (06)O1717  2 
+ 1001 50112   4 700 AC 2.6000+7          1.5960-6 1.6200-7 0.726455          3751000.         LVLP.Guazzoni+          (06)O1717  2 
+ 1001 50112   4 700 AC 2.6000+7          1.0870-6 7.1000-8 0.628913          3751000.         LVLP.Guazzoni+          (06)O1717  2 
+ 1001 50112   4 700 AC 2.6000+7          2.4300-7 2.9000-8 0.520414          3751000.         LVLP.Guazzoni+          (06)O1717  2 
+#/DATA      10
+#/DATASET

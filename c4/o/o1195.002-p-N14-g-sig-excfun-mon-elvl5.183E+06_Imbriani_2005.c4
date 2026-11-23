@@ -1,0 +1,53 @@
+#ENTRY      O1195
+#AUTHOR1    G.Imbriani+
+#YEAR       2005
+#INSTITUTE  (2ITYNAP)
+#TITLE      S-factor of 14-N(p,gamma)15-O at astrophysical
+#+          energies
+#AUTHOR(S)  G.Imbriani, H.Costantini, A.Formicola, A.Vomiero, C.Angulo, 
+#+          D.Bemmerer, R.Bonetti, C.Broggini, F.Confortola, P.Corvisiero, 
+#+          J.Cruz, P.Descouvemont, Z.Fulop, G.Gervino, A.Guglielmetti, 
+#+          C.Gustavino, Gy.Gyurky, A.P.Jesus, M.Junker, J.N.Klug, A.Lemut, 
+#+          R.Menegazzo, P.Prati, V.Roca, C.Rolfs, M.Romano, C.Rossi-Alvarez, 
+#+          F.Schumann, D.Schurmann, E.Somorjai, O.Straniero, F.Strieder, 
+#+          F.Terrasi, H.P.Trautvetter
+#REF-CODE   (J,EPJ/A,25,(3),455,2005)
+#REFERENCE  Eur.Phys.J.A 25 No.3 (2005) 455
+#DATASETS   0
+#
+#DATASET    O1195002 
+#DATE       20170402
+#REACTION   7-N-14(P,G)8-O-15,PAR,SIG,,SFC
+#PROJ       1001
+#TARG       7014
+#MF         3
+#MT         900
+#PRODUCT    8-O-15
+#C4BEGIN    [ 1001  7014   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7014   3 900    168300.5          3.881-11 2.772-12                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    185559.4          8.457-11 5.638-12                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    195314.5          1.184-10 5.640-12                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    212359.0          3.191-10 1.271-11                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    224579.7          7.086-10 2.024-11                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    234978.0          1.4778-9 5.374-11                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    245590.7          3.3410-9 3.517-11                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    256310.6          8.9756-9 1.360-10                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    266494.5          4.5292-8 3.410-10                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    274641.6          6.2717-7 1.3488-8                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    275713.6          1.2546-6 3.4466-8                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    276571.2          3.4512-6 1.0522-7                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    277000.0          7.5074-6 2.1227-7                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    277321.6          1.2243-5 3.9171-7                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    277643.2          1.8458-5 6.8099-7                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    277964.8          2.6630-5 1.1327-6                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    323202.9          7.6000-9 9.702-10                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    333815.7          6.0947-9 5.714-10                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    343999.6          6.4136-9 4.423-10                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    352790.0          5.5045-9 5.004-10                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    375516.3          4.3791-9 3.369-10                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    393204.3          4.1646-9 1.6658-9                   5183000.         LVLG.Imbriani+          (05)O1195  2 
+#/DATA      22
+#/DATASET

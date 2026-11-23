@@ -1,0 +1,38 @@
+#ENTRY      O0180
+#AUTHOR1    A.A.Cowley+
+#YEAR       1991
+#INSTITUTE  (3SAFNAC)
+#TITLE      Preequilibrium proton emission induced by 80 and
+#+          120 MeV protons incident on Zr-90
+#AUTHOR(S)  A.A.Cowley, A.Van Kent, J.J.Lawrie, S.V.Fortsch, D.M.Whittal, 
+#+          J.V.Pilcher, F.D.Smit, W.A.Richter, R.Lindsay, I.J.Van Heerden, 
+#+          R.Bonetti, P.E.Hodgson
+#REF-CODE   (J,PR/C,43,678,1991)
+#REFERENCE  Phys.Rev.C 43 (1991) 678
+#DATASETS   0
+#
+#DATASET    O0180002 
+#DATE       20200317
+#REACTION   40-ZR-90(P,X)1-H-1,,DA/DE
+#PROJ       1001
+#TARG       40090
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001 40090   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40090   6 203    1.2000+8 500000.0 2.0727-9 5.110-11 0.913545          1.0000+8          E2A.A.Cowley+          (91)O0180  2 
+ 1001 40090   6 203    1.2000+8 500000.0 1.1888-9 2.737-11 0.819152          1.0000+8          E2A.A.Cowley+          (91)O0180  2 
+ 1001 40090   6 203    1.2000+8 500000.0 6.290-10 1.310-11 0.707107          1.0000+8          E2A.A.Cowley+          (91)O0180  2 
+ 1001 40090   6 203    1.2000+8 500000.0 2.616-10 6.957-12 0.559193          1.0000+8          E2A.A.Cowley+          (91)O0180  2 
+ 1001 40090   6 203    1.2000+8 500000.0 4.554-11 1.773-12 0.358368          1.0000+8          E2A.A.Cowley+          (91)O0180  2 
+ 1001 40090   6 203    1.2000+8 500000.0 7.667-12 4.792-13 0.139173          1.0000+8          E2A.A.Cowley+          (91)O0180  2 
+ 1001 40090   6 203    1.2000+8 500000.0 2.617-12 2.774-13-0.087156          1.0000+8          E2A.A.Cowley+          (91)O0180  2 
+ 1001 40090   6 203    1.2000+8 500000.0 1.047-12 1.438-13-0.275637          1.0000+8          E2A.A.Cowley+          (91)O0180  2 
+ 1001 40090   6 203    1.2000+8 500000.0 3.162-13 7.669-14-0.515038          1.0000+8          E2A.A.Cowley+          (91)O0180  2 
+ 1001 40090   6 203    1.2000+8 500000.0 1.895-13 5.993-14-0.694658          1.0000+8          E2A.A.Cowley+          (91)O0180  2 
+ 1001 40090   6 203    1.2000+8 500000.0 4.410-14 2.546-14-0.819152          1.0000+8          E2A.A.Cowley+          (91)O0180  2 
+#/DATA      11
+#/DATASET

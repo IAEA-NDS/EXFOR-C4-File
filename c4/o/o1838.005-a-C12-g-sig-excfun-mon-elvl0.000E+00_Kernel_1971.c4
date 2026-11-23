@@ -1,0 +1,34 @@
+#ENTRY      O1838
+#AUTHOR1    G.Kernel+
+#YEAR       1971
+#INSTITUTE  (2UK OXF)
+#TITLE      Angular distributions from the reaction C-12(a,g)O-16
+#+          in the 13 MeV excitation region of O-16.
+#AUTHOR(S)  G.Kernel, W.M.Mason, U.von Wimmersperg
+#REF-CODE   (J,NP/A,167,352,1971)
+#REFERENCE  Nucl.Phys.A 167 (1971) 352
+#DATASETS   0
+#
+#DATASET    O1838005 
+#DATE       20100210
+#REACTION   6-C-12(A,G)8-O-16,PAR,SIG
+#PROJ       2004
+#TARG       6012
+#MF         3
+#MT         900
+#PRODUCT    8-O-16
+#C4BEGIN    [ 2004  6012   3 900 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  6012   3 900 D  7600000.          1.3100-5                            0.000000         LVLG.Kernel+            (71)O1838  5 
+ 2004  6012   3 900 D  7700000.          2.1100-5                            0.000000         LVLG.Kernel+            (71)O1838  5 
+ 2004  6012   3 900 D  7800000.          4.5500-5 1.2000-6                   0.000000         LVLG.Kernel+            (71)O1838  5 
+ 2004  6012   3 900 D  7900000.          6.3000-5                            0.000000         LVLG.Kernel+            (71)O1838  5 
+ 2004  6012   3 900 D  8000000.          2.3900-5 8.0000-7                   0.000000         LVLG.Kernel+            (71)O1838  5 
+ 2004  6012   3 900 D  8100000.          8.3000-6                            0.000000         LVLG.Kernel+            (71)O1838  5 
+ 2004  6012   3 900 D  8200000.          3.7000-6                            0.000000         LVLG.Kernel+            (71)O1838  5 
+ 2004  6012   3 900 D  8300000.          2.8000-6                            0.000000         LVLG.Kernel+            (71)O1838  5 
+ 2004  6012   3 900 D  8400000.          1.9000-6                            0.000000         LVLG.Kernel+            (71)O1838  5 
+#/DATA      9
+#/DATASET

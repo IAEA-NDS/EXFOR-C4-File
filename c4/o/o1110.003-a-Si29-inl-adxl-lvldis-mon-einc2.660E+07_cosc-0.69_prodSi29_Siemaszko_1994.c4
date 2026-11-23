@@ -1,0 +1,27 @@
+#ENTRY      O1110
+#AUTHOR1    M.Siemaszko+
+#YEAR       1994
+#INSTITUTE  (3POLSLS)
+#TITLE      A study of the Si-29,30(alpha;alpha(0),alpha') and
+#+          Si-30(alpha,t) reactions at E(alpha) =26.6-MeV.
+#AUTHOR(S)  M.Siemaszko, J.Czakanski, A.Grzeszczuk, K.Jankowski, J.Kisiel, 
+#+          B.Kozlowska, A.Surowiec, W.Zipper, A.Budzanowski
+#REF-CODE   (J,JP/G,20,1789,1994)
+#REFERENCE  J.Phys.G 20 (1994) 1789
+#DATASETS   0
+#
+#DATASET    O1110003 
+#DATE       20040401
+#REACTION   14-SI-29(A,INL)14-SI-29,PAR,DA
+#PROJ       2004
+#TARG       14029
+#MF         4
+#MT         801
+#PRODUCT    14-SI-29
+#C4BEGIN    [ 2004 14029   4 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 14029   4 801  C 2.6600+7 20000.00 3.2000-4 8.9600-5-0.690882          2030000.         LVLM.Siemaszko+         (94)O1110  3 
+#/DATA      1
+#/DATASET

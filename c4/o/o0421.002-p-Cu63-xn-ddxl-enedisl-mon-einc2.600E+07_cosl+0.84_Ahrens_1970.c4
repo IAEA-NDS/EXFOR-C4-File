@@ -1,0 +1,33 @@
+#ENTRY      O0421
+#AUTHOR1    S.T.Ahrens+
+#YEAR       1970
+#INSTITUTE  (1USAUWY)
+#TITLE      Neutron Emission from the Zn-64 Compound Nucleus
+#+          Formed in Two Ways-P+Cu-63 and Alpha+Ni-60.
+#AUTHOR(S)  S.T.Ahrens, W.G.Simon, H.B.Eldridge
+#REF-CODE   (J,PR/C,2,1433,1970)
+#REFERENCE  Phys.Rev.C 2 (1970) 1433
+#DATASETS   0
+#
+#DATASET    O0421002 
+#DATE       20000426
+#REACTION   29-CU-63(P,X)0-NN-1,,DA/DE
+#PROJ       1001
+#TARG       29063
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1001 29063   6 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29063   6 201    2.6000+7          1.7080-8 3.800-10 0.838671          1470000.          E2S.T.Ahrens+          (70)O0421  2 
+ 1001 29063   6 201    2.6000+7          1.3720-8 4.000-10 0.838671          2460000.          E2S.T.Ahrens+          (70)O0421  2 
+ 1001 29063   6 201    2.6000+7          9.9200-9 3.800-10 0.838671          3460000.          E2S.T.Ahrens+          (70)O0421  2 
+ 1001 29063   6 201    2.6000+7          5.5600-9 2.200-10 0.838671          4830000.          E2S.T.Ahrens+          (70)O0421  2 
+ 1001 29063   6 201    2.6000+7          2.3100-9 1.600-10 0.838671          6910000.          E2S.T.Ahrens+          (70)O0421  2 
+ 1001 29063   6 201    2.6000+7          1.2200-9 1.400-10 0.838671          8910000.          E2S.T.Ahrens+          (70)O0421  2 
+ 1001 29063   6 201    2.6000+7          8.000-10 1.300-10 0.838671          1.0850+7          E2S.T.Ahrens+          (70)O0421  2 
+ 1001 29063   6 201    2.6000+7          5.700-10 9.000-11 0.838671          1.3940+7          E2S.T.Ahrens+          (70)O0421  2 
+#/DATA      8
+#/DATASET

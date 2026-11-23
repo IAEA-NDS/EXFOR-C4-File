@@ -1,0 +1,44 @@
+#ENTRY      O1825
+#AUTHOR1    P.Martin+
+#YEAR       1979
+#INSTITUTE  (2FR GRE)
+#TITLE      Excitation of low-lying levels and giant resonances in
+#+          Zr-90 via 57.5 MeV polarized proton inelastic
+#+          scattering.
+#AUTHOR(S)  P.Martin, Y.Gaillard, P.de Saintignon, J.Perrin, J.Chauvin, 
+#+          G.Duhamel, J.M.Loiseaux
+#REF-CODE   (J,NP/A,315,291,1979)
+#REFERENCE  Nucl.Phys.A 315 (1979) 291
+#DATASETS   0
+#
+#DATASET    O1825005 
+#DATE       20100208
+#REACTION   40-ZR-90(P,INL)40-ZR-90,PAR,DA
+#PROJ       1001
+#TARG       40090
+#MF         4
+#MT         601
+#PRODUCT    40-ZR-90
+#C4BEGIN    [ 1001 40090   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40090   4 601  C 5.7500+7          4.9000-3 8.8200-4 0.993690          2180000.         LVLP.Martin+            (79)O1825  5 
+ 1001 40090   4 601  C 5.7500+7          5.0000-3 9.0000-4 0.986629          2180000.         LVLP.Martin+            (79)O1825  5 
+ 1001 40090   4 601  C 5.7500+7          4.0600-3          0.981494          2180000.         LVLP.Martin+            (79)O1825  5 
+ 1001 40090   4 601  C 5.7500+7          3.7000-3 7.0300-4 0.977637          2180000.         LVLP.Martin+            (79)O1825  5 
+ 1001 40090   4 601  C 5.7500+7          3.4600-3          0.969574          2180000.         LVLP.Martin+            (79)O1825  5 
+ 1001 40090   4 601  C 5.7500+7          3.5700-3          0.955742          2180000.         LVLP.Martin+            (79)O1825  5 
+ 1001 40090   4 601  C 5.7500+7          2.9200-3          0.939394          2180000.         LVLP.Martin+            (79)O1825  5 
+ 1001 40090   4 601  C 5.7500+7          1.8720-3          0.920573          2180000.         LVLP.Martin+            (79)O1825  5 
+ 1001 40090   4 601  C 5.7500+7          1.0580-3          0.897874          2180000.         LVLP.Martin+            (79)O1825  5 
+ 1001 40090   4 601  C 5.7500+7          6.1800-4          0.874112          2180000.         LVLP.Martin+            (79)O1825  5 
+ 1001 40090   4 601  C 5.7500+7          5.5500-4          0.847956          2180000.         LVLP.Martin+            (79)O1825  5 
+ 1001 40090   4 601  C 5.7500+7          6.6400-4          0.819652          2180000.         LVLP.Martin+            (79)O1825  5 
+ 1001 40090   4 601  C 5.7500+7          1.0000-3          0.787150          2180000.         LVLP.Martin+            (79)O1825  5 
+ 1001 40090   4 601  C 5.7500+7          6.6200-4          0.754481          2180000.         LVLP.Martin+            (79)O1825  5 
+ 1001 40090   4 601  C 5.7500+7          4.6700-4          0.719825          2180000.         LVLP.Martin+            (79)O1825  5 
+ 1001 40090   4 601  C 5.7500+7          2.5900-4          0.680849          2180000.         LVLP.Martin+            (79)O1825  5 
+ 1001 40090   4 601  C 5.7500+7          2.4300-4          0.644791          2180000.         LVLP.Martin+            (79)O1825  5 
+#/DATA      17
+#/DATASET

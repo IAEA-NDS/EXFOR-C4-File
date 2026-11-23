@@ -1,0 +1,34 @@
+#ENTRY      O2170
+#AUTHOR1    J.Dudouet+
+#YEAR       2013
+#INSTITUTE  (2FR CAE)
+#TITLE      Double-differential fragmentation cross-section
+#+          measurements of 95 MeV/nucleon 12C beams on thin
+#+          targets for hadron therapy
+#AUTHOR(S)  J.Dudouet, D.Juliani, M.Labalme, D.Cussol, J.C.Angelique, 
+#+          B.Braunn, J.Colin, Ch.Finck, J.M.Fontbonne, H.Guerin, P.Henriquet, 
+#+          J.Krimmer, M.Rousseau, M.G.Saint-Laurent, S.Salvador
+#REF-CODE   (J,PR/C,88,024606,2013)
+#REFERENCE  Phys.Rev.C 88 (2013) 024606
+#DATASETS   0
+#
+#DATASET    O2170198 
+#DATE       20161017
+#REACTION   1-H-1(6-C-12,X)2-HE-4,,DA/DE
+#PROJ       6012
+#TARG       1001
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 6012  1001   6 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012  1001   6 207    1.1400+9          4.909-12-8.382-12 0.838671          2.7000+8 9833904. E2J.Dudouet+           (13)O2170198 
+ 6012  1001   6 207    1.1400+9          4.040-12-6.899-12 0.838671          6.3000+8 3.2805+7 E2J.Dudouet+           (13)O2170198 
+ 6012  1001   6 207    1.1400+9          2.174-12-3.712-12 0.838671          7.5000+8 4.2428+7 E2J.Dudouet+           (13)O2170198 
+ 6012  1001   6 207    1.1400+9          1.792-12-3.061-12 0.838671          8.1000+8 4.7573+7 E2J.Dudouet+           (13)O2170198 
+ 6012  1001   6 207    1.1400+9          1.086-13-1.853-13 0.838671          1.2900+9 9.5931+7 E2J.Dudouet+           (13)O2170198 
+ 6012  1001   6 207    1.1400+9          1.086-13-1.853-13 0.838671          1.3500+9 1.0280+8 E2J.Dudouet+           (13)O2170198 
+#/DATA      6
+#/DATASET

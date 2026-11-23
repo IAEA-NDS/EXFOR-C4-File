@@ -1,0 +1,33 @@
+#ENTRY      O1265
+#AUTHOR1    C.Ellegaard+
+#YEAR       1969
+#INSTITUTE  (2DENNBI)
+#TITLE      Particle-vibration coupling in Pb-209.
+#AUTHOR(S)  C.Ellegaard, J.Kantele, P.Vedelsby
+#REF-CODE   (J,NP/A,129,113,1969)
+#REFERENCE  Nucl.Phys.A 129 (1969) 113
+#DATASETS   0
+#
+#DATASET    O1265002 
+#DATE       20050325
+#REACTION   82-PB-208(D,P)82-PB-209,PAR,DA
+#PROJ       1002
+#TARG       82208
+#MF         4
+#MT         600
+#PRODUCT    82-PB-209
+#C4BEGIN    [ 1002 82208   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 82208   4 600    1.2000+7 50000.00 6.4500-4 6.4500-5 0.766044          0.000000         LVLC.Ellegaard+         (69)O1265  2 
+ 1002 82208   4 600    1.2000+7 50000.00 1.1110-3 1.1110-4 0.573576          0.000000         LVLC.Ellegaard+         (69)O1265  2 
+ 1002 82208   4 600    1.2000+7 50000.00 1.5110-3 1.5110-4 0.342020          0.000000         LVLC.Ellegaard+         (69)O1265  2 
+ 1002 82208   4 600    1.2000+7 50000.00 1.7150-3 1.7150-4 0.173648          0.000000         LVLC.Ellegaard+         (69)O1265  2 
+ 1002 82208   4 600    1.2000+7 50000.00 1.7080-3 1.7080-4-0.233445          0.000000         LVLC.Ellegaard+         (69)O1265  2 
+ 1002 82208   4 600    1.2000+7 50000.00 1.4980-3 1.4980-4-0.422618          0.000000         LVLC.Ellegaard+         (69)O1265  2 
+ 1002 82208   4 600    1.2000+7 50000.00 1.3750-3 1.3750-4-0.642788          0.000000         LVLC.Ellegaard+         (69)O1265  2 
+ 1002 82208   4 600    1.2000+7 50000.00 1.2370-3 1.2370-4-0.866025          0.000000         LVLC.Ellegaard+         (69)O1265  2 
+ 1002 82208   4 600    1.2000+7 50000.00 1.2100-3 1.2100-4-0.906308          0.000000         LVLC.Ellegaard+         (69)O1265  2 
+#/DATA      9
+#/DATASET

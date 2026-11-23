@@ -1,0 +1,37 @@
+#ENTRY      O2598
+#AUTHOR1    E.Masha+
+#YEAR       2023
+#INSTITUTE  (2GERZFK)
+#TITLE      First measurement of the low-energy direct capture in
+#+          20Ne(p,gamma)21Na and improved energy and strength of
+#+          the Ec.m.=368 keV resonance
+#AUTHOR(S)  E.Masha, L.Barbieri, J.Skowronski, M.Aliotta, C.Ananna, 
+#+          F.Barile, D.Bemmerer, A.Best, A.Boeltzig, C.Broggini, C.G.Bruno, 
+#+          A.Caciolli, M.Campostrini, F.Casaburo, F.Cavanna, G.F.Ciani, 
+#+          A.Ciapponi, P.Colombetti, A.Compagnucci, P.Corvisiero, L.Csedreki, 
+#+          T.Davinson, R.Depalo, A.Di Leva, Z.Elekes, F.Ferraro, E.M.Fiore, 
+#+          A.Formicola, Zs.Fueloep, G.Gervino, A.Guglielmetti, C.Gustavino, 
+#+          Gy.Gyuerky, G.Imbriani, J.Jose, M.Junker, M.Lugaro, P.Manoj, 
+#+          P.Marigo, R.Menegazzo, V.Paticchio, D.Piatti, P.Prati, D.Rapagnani, 
+#+          V.Rigato, D.Robb, L.Schiavulli, R.S.Sidhu, O.Straniero, 
+#+          T.Szuecs, S.Zavatarelli
+#REF-CODE   (J,PR/C,108,L052801,2023)
+#REFERENCE  Phys.Rev.C 108 (2023) L052801
+#DATASETS   0
+#
+#DATASET    O2598003 
+#DATE       20240213
+#REACTION   10-NE-20(P,G)11-NA-21,PAR,SIG,,SFC
+#PROJ       1001
+#TARG       10020
+#MF         3
+#MT         900
+#PRODUCT    11-NA-21
+#C4BEGIN    [ 1001 10020   3 900 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 10020   3 900 A  260083.2          2.945-11 1.963-11                   0.000000         LVLE.Masha+             (23)O2598  3 
+ 1001 10020   3 900 A  309663.2          1.079-10 2.997-11                   0.000000         LVLE.Masha+             (23)O2598  3 
+#/DATA      2
+#/DATASET

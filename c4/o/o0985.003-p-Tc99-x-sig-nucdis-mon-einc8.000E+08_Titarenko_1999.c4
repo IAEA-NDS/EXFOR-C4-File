@@ -1,0 +1,59 @@
+#ENTRY      O0985
+#AUTHOR1    Yu.E.Titarenko+
+#YEAR       1999
+#INSTITUTE  (4RUSITE)
+#TITLE      Experimental and theoretical study of the yields
+#+          of radioactive product nuclei in Tc-99 thin targets
+#+          irradiated with 100-2600 MeV protons.
+#AUTHOR(S)  Yu.E.Titarenko, O.V.Shvedov, V.F.Batyaev, E.I.Karpikhin, 
+#+          V.M.Zhivun, A.B.Koldobsky, R.D.Mulambetov, A.N.Sosin, Yu.N.Shubin, 
+#+          A.V.Ignatyuk, V.P.Lunev, S.G.Mashnik, R.E.Prael, T.A.Gabriel, 
+#+          M.Blann, S.V.Mulambetova, K.A.Lipatov, Yu.A.Nekrasov, A.V.Belkin, 
+#+          N.N.Alexeev, V.A.Shchegolev, Yu.M.Goryachev, V.E.Luk'yashin, 
+#+          E.N.Firsov
+#REF-CODE   (C,99PRAHA,,26,1999)
+#REFERENCE  Proceedings of Conf.on Accelerator Driven Transmutation, Prague 1999 page 26
+#DATASETS   0
+#
+#DATASET    O0985003 
+#DATE       20230324
+#REACTION   43-TC-99(P,X)ELEM/MASS,,SIG
+#PROJ       1001
+#TARG       43099
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 43099   3 454 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 43099   3 454 D  8.0000+8          4.1600-3 9.1000-4            4007.9                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          1.3300-3 1.4000-4           27058.9                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          7.9700-3 5.5000-4           33072.9                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          3.5300-3 3.3000-4           33074.9                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          6.3300-3 8.7000-4           34073.0                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          4.9900-3 3.4000-4           34084.9                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          2.4500-3 2.8000-4           35074.1                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          0.011400 8.0000-4           35076.9                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          0.014900 9.0000-4           37082.1                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          3.5200-3 3.1000-4           37084.1                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          0.016700 1.1000-3           39086.1                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          0.025000 1.5000-3           39086.9                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          0.017800 1.5000-3           39087.1                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          0.011800 8.0000-4           39088.9                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          1.2800-3 9.0000-5           39090.1                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          0.027900 1.7000-3           41090.9                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          4.3800-3 2.7000-4           41092.1                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          1.5500-3 7.3000-4           41095.0                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          4.3000-3 7.7000-4           41095.1                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          5.8500-3 3.6000-4           41095.9                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          3.2100-3 2.1000-4           41096.9                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          6.5100-3 4.1000-4           42093.1                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          0.010700 6.0000-4           43094.0                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          4.1000-3 3.3000-4           43095.1                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          0.026700 1.6000-3           43096.9                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          7.2200-3 4.8000-4           43099.1                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          6.9200-4 1.7600-4           44094.9                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          1.6600-3 1.7000-4           44095.9                     Yu.E.Titarenko+      (99)O0985  3 
+ 1001 43099   3 454 D  8.0000+8          3.5800-3 2.3000-4           44097.9                     Yu.E.Titarenko+      (99)O0985  3 
+#/DATA      29
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      O0290
+#AUTHOR1    F.E.Bertrand+
+#YEAR       1971
+#INSTITUTE  (1USAORL)
+#TITLE      Tabulated cross sections for hydrogen and helium
+#+          particles produced by 62 and 39 MeV protons on 209-Bi
+#AUTHOR(S)  F.E.Bertrand, R.W.Peelle
+#REF-CODE   (R,ORNL-4638,197101)
+#REFERENCE  Report ORNL-4638, 1971
+#DATASETS   0
+#
+#DATASET    O0290003 
+#DATE       20151028
+#REACTION   83-BI-209(P,INL)83-BI-209,PAR,DA
+#PROJ       1001
+#TARG       83209
+#MF         4
+#MT         601
+#PRODUCT    83-BI-209
+#C4BEGIN    [ 1001 83209   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 83209   4 601  C 6.1700+7 100000.0 2.9000-4 2.9000-5 0.965473          1620000.         LVLF.E.Bertrand+        (71)O0290  3 
+ 1001 83209   4 601  C 6.1700+7 100000.0 2.7000-4 1.9440-5 0.939094          1620000.         LVLF.E.Bertrand+        (71)O0290  3 
+ 1001 83209   4 601  C 6.1700+7 100000.0 2.0000-4 1.8600-5 0.905569          1620000.         LVLF.E.Bertrand+        (71)O0290  3 
+ 1001 83209   4 601  C 6.1700+7 100000.0 1.4000-4 1.0500-5 0.865151          1620000.         LVLF.E.Bertrand+        (71)O0290  3 
+ 1001 83209   4 601  C 6.1700+7 100000.0 1.7000-4 1.0880-5 0.818150          1620000.         LVLF.E.Bertrand+        (71)O0290  3 
+ 1001 83209   4 601  C 6.1700+7 100000.0 9.6000-5 1.5360-5 0.797584          1620000.         LVLF.E.Bertrand+        (71)O0290  3 
+ 1001 83209   4 601  C 6.1700+7 100000.0 9.8000-5 7.0560-6 0.764921          1620000.         LVLF.E.Bertrand+        (71)O0290  3 
+ 1001 83209   4 601  C 6.1700+7 100000.0 6.4000-5 5.3760-6 0.705872          1620000.         LVLF.E.Bertrand+        (71)O0290  3 
+ 1001 83209   4 601  C 6.1700+7 100000.0 6.5000-5 4.5500-6 0.641450          1620000.         LVLF.E.Bertrand+        (71)O0290  3 
+ 1001 83209   4 601  C 6.1700+7 100000.0 3.2000-5 2.8800-6 0.570714          1620000.         LVLF.E.Bertrand+        (71)O0290  3 
+ 1001 83209   4 601  C 6.1700+7 100000.0 2.6000-5 3.9000-6 0.496974          1620000.         LVLF.E.Bertrand+        (71)O0290  3 
+#/DATA      11
+#/DATASET

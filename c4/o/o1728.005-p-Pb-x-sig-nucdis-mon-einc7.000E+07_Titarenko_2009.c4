@@ -1,0 +1,39 @@
+#ENTRY      O1728
+#AUTHOR1    Yu.E.Titarenko+
+#YEAR       2009
+#INSTITUTE  (4RUSITE)
+#TITLE      Experimental and theoretical studies of the yields
+#+          of residual product nuclei produced in thin Pb and Bi
+#+          targets irradiated by 40-2600 MeV protons
+#AUTHOR(S)  Yu.E.Titarenko, V.F.Batyaev, E.I.Karpikhin, V.M.Zhivun, 
+#+          A.V.Ignatyuk, V.P.Lunev, N.N.Titarenko, Yu.N.Shubin, V.S.Barashenkov
+#REF-CODE   (R,INDC(CCP)-0447,2009)
+#REFERENCE  Report INDC(CCP)-0447, 2009
+#DATASETS   0
+#
+#DATASET    O1728005 
+#DATE       20221217
+#REACTION   82-PB-0(P,X)ELEM/MASS,,SIG
+#PROJ       1001
+#TARG       82000
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 82000   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82000   3 454    7.0000+7          0.030500 5.0000-3           83207.9                     Yu.E.Titarenko+      (09)O1728  5 
+ 1001 82000   3 454    7.0000+7          0.046300 3.6000-3           83206.9                     Yu.E.Titarenko+      (09)O1728  5 
+ 1001 82000   3 454    7.0000+7          0.093900 7.4000-3           83205.9                     Yu.E.Titarenko+      (09)O1728  5 
+ 1001 82000   3 454    7.0000+7          0.121000 9.0000-3           83204.9                     Yu.E.Titarenko+      (09)O1728  5 
+ 1001 82000   3 454    7.0000+7          0.269000 0.021000           83203.9                     Yu.E.Titarenko+      (09)O1728  5 
+ 1001 82000   3 454    7.0000+7          0.305000 0.024000           83202.9                     Yu.E.Titarenko+      (09)O1728  5 
+ 1001 82000   3 454    7.0000+7          0.187000 0.014000           83201.9                     Yu.E.Titarenko+      (09)O1728  5 
+ 1001 82000   3 454    7.0000+7          0.054800 4.3000-3           82204.1                     Yu.E.Titarenko+      (09)O1728  5 
+ 1001 82000   3 454    7.0000+7          0.110000 0.013000           82203.9                     Yu.E.Titarenko+      (09)O1728  5 
+ 1001 82000   3 454    7.0000+7          0.028700 2.5000-3           82202.1                     Yu.E.Titarenko+      (09)O1728  5 
+ 1001 82000   3 454    7.0000+7          0.032300 4.3000-3           82201.9                     Yu.E.Titarenko+      (09)O1728  5 
+ 1001 82000   3 454    7.0000+7          4.9700-3 4.7000-4           81202.9                     Yu.E.Titarenko+      (09)O1728  5 
+ 1001 82000   3 454    7.0000+7          0.012400 1.4000-3           81200.9                     Yu.E.Titarenko+      (09)O1728  5 
+#/DATA      13
+#/DATASET

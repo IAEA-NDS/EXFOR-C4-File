@@ -1,0 +1,38 @@
+#ENTRY      O2159
+#AUTHOR1    D.L.Watson+
+#YEAR       1980
+#INSTITUTE  (2UK BRD)
+#TITLE      Compound-nucleus contributions to the 46Ti(d,p)47Ti
+#+          reaction.
+#AUTHOR(S)  D.L.Watson, D.N.Slater, G.Brown
+#REF-CODE   (J,JP/G,6,369,1980)
+#REFERENCE  J.Phys.G 6 (1980) 369
+#DATASETS   0
+#
+#DATASET    O2159004 
+#DATE       20130923
+#REACTION   22-TI-46(D,P)22-TI-47,PAR,DA
+#PROJ       1002
+#TARG       22046
+#MF         4
+#MT         600
+#PRODUCT    22-TI-47
+#C4BEGIN    [ 1002 22046   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 22046   4 600  C 7000000.          4.2150-5          0.900091          2753000.         LVLD.L.Watson+          (80)O2159  4 
+ 1002 22046   4 600  C 7000000.          3.4590-5          0.851910          2753000.         LVLD.L.Watson+          (80)O2159  4 
+ 1002 22046   4 600  C 7000000.          2.5160-5          0.780540          2753000.         LVLD.L.Watson+          (80)O2159  4 
+ 1002 22046   4 600  C 7000000.          2.1260-5          0.695286          2753000.         LVLD.L.Watson+          (80)O2159  4 
+ 1002 22046   4 600  C 7000000.          2.6550-5          0.593138          2753000.         LVLD.L.Watson+          (80)O2159  4 
+ 1002 22046   4 600  C 7000000.          2.8500-5          0.448383          2753000.         LVLD.L.Watson+          (80)O2159  4 
+ 1002 22046   4 600  C 7000000.          3.0160-5          0.303202          2753000.         LVLD.L.Watson+          (80)O2159  4 
+ 1002 22046   4 600  C 7000000.          2.2960-5          0.220357          2753000.         LVLD.L.Watson+          (80)O2159  4 
+ 1002 22046   4 600  C 7000000.          2.6620-5          0.115457          2753000.         LVLD.L.Watson+          (80)O2159  4 
+ 1002 22046   4 600  C 7000000.          3.8600-5         -0.046758          2753000.         LVLD.L.Watson+          (80)O2159  4 
+ 1002 22046   4 600  C 7000000.          3.2190-5         -0.108173          2753000.         LVLD.L.Watson+          (80)O2159  4 
+ 1002 22046   4 600  C 7000000.          2.5980-5         -0.269928          2753000.         LVLD.L.Watson+          (80)O2159  4 
+ 1002 22046   4 600  C 7000000.          2.1010-5         -0.352658          2753000.         LVLD.L.Watson+          (80)O2159  4 
+#/DATA      13
+#/DATASET

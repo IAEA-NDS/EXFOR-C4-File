@@ -1,0 +1,35 @@
+#ENTRY      O0853
+#AUTHOR1    M.J.F.Healy+
+#YEAR       2000
+#INSTITUTE  (2UK CRN)
+#TITLE      New data on the proton elastic scattering cross-section
+#+          for silicon
+#AUTHOR(S)  M.J.F.Healy, A.F.Gurbich
+#REF-CODE   (J,NIM/B,161-163,136,2000)
+#REFERENCE  Nucl.Instrum.Meth.B 161-163 (2000) 136
+#DATASETS   0
+#
+#DATASET    O0853002 
+#DATE       20120520
+#REACTION   14-SI-0(P,EL)14-SI-0,,DA
+#PROJ       1001
+#TARG       14000
+#MF         4
+#MT         2
+#PRODUCT    14-SI-0
+#C4BEGIN    [ 1001 14000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 14000   4   2    900000.0          0.656000         -0.342020 0.016401                     M.J.F.Healy+         (00)O0853  2 
+ 1001 14000   4   2    1000000.          0.574000         -0.342020 0.016401                     M.J.F.Healy+         (00)O0853  2 
+ 1001 14000   4   2    1050000.          0.557000         -0.342020 0.016401                     M.J.F.Healy+         (00)O0853  2 
+ 1001 14000   4   2    1100000.          0.466000         -0.342020 0.016401                     M.J.F.Healy+         (00)O0853  2 
+ 1001 14000   4   2    1150000.          0.432000         -0.342020 0.016401                     M.J.F.Healy+         (00)O0853  2 
+ 1001 14000   4   2    1200000.          0.384000         -0.342020 0.016401                     M.J.F.Healy+         (00)O0853  2 
+ 1001 14000   4   2    1300000.          0.328000         -0.342020 0.016401                     M.J.F.Healy+         (00)O0853  2 
+ 1001 14000   4   2    1400000.          0.289000         -0.342020 0.016401                     M.J.F.Healy+         (00)O0853  2 
+ 1001 14000   4   2    1500000.          0.252000         -0.342020 0.016401                     M.J.F.Healy+         (00)O0853  2 
+ 1001 14000   4   2    1820000.          0.163000         -0.342020 0.016401                     M.J.F.Healy+         (00)O0853  2 
+#/DATA      10
+#/DATASET

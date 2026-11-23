@@ -1,0 +1,36 @@
+#ENTRY      O1136
+#AUTHOR1    A.Saganek+
+#YEAR       1984
+#INSTITUTE  (3POLWWA)
+#TITLE      Neutron orbit radii in Sr-89 from the (d,p) sub-coulomb
+#+          reaction.
+#AUTHOR(S)  A.Saganek, V.Meyer, S.Mirowski, M.Oteski, M.Sieminski, E.Wesolowski, 
+#+          Z.Wilhelmi
+#REF-CODE   (J,JP/G,10,549,1984)
+#REFERENCE  J.Phys.G 10 (1984) 549
+#DATASETS   0
+#
+#DATASET    O1136002 
+#DATE       20040423
+#REACTION   38-SR-88(D,P)38-SR-89,PAR,DA
+#PROJ       1002
+#TARG       38088
+#MF         4
+#MT         600
+#PRODUCT    38-SR-89
+#C4BEGIN    [ 1002 38088   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 38088   4 600  C 4000000. 22500.00 1.3000-4 1.3000-5 0.371368          0.000000         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 4000000. 22500.00 1.6200-4 1.7820-5 0.183951          0.000000         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 4000000. 22500.00 1.5500-4 1.3950-5 0.015707          0.000000         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 4000000. 22500.00 1.6900-4 1.8590-5-0.161604          0.000000         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 4000000. 22500.00 1.5700-4 1.2560-5-0.325568          0.000000         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 4000000. 22500.00 1.7900-4 1.4320-5-0.492424          0.000000         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 4000000. 22500.00 1.8500-4 1.6650-5-0.642788          0.000000         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 4000000. 22500.00 1.7000-4 1.3600-5-0.767165          0.000000         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 4000000. 22500.00 1.7600-4 1.4080-5-0.865151          0.000000         LVLA.Saganek+           (84)O1136  2 
+ 1002 38088   4 600  C 4000000. 22500.00 1.6300-4 1.3040-5-0.935444          0.000000         LVLA.Saganek+           (84)O1136  2 
+#/DATA      10
+#/DATASET

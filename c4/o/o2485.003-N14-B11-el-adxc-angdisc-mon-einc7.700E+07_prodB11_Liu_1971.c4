@@ -1,0 +1,41 @@
+#ENTRY      O2485
+#AUTHOR1    M.Liu+
+#YEAR       1971
+#INSTITUTE  (2FR PAR)
+#TITLE      Investigation of one-nucleon transfer reactions
+#+          between complex nuclei at incident energies between
+#+          3 MeV/nucleon and 8 MeV/nucleon
+#AUTHOR(S)  M.Liu, W.von Oertzen, J.C.Jacmart, F.Pougheon, M.Riou, J.C.Roynette, 
+#+          C.Stephan
+#REF-CODE   (J,NP/A,165,118,1971)
+#REFERENCE  Nucl.Phys.A 165 (1971) 118
+#DATASETS   0
+#
+#DATASET    O2485003 
+#DATE       20210207
+#REACTION   5-B-11(7-N-14,EL)5-B-11,,DA
+#PROJ       7014
+#TARG       5011
+#MF         4
+#MT         2
+#PRODUCT    5-B-11
+#C4BEGIN    [ 7014  5011   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 7014  5011   4   2  C 7.7000+7          0.063050          0.892586                              M.Liu+               (71)O2485  3 
+ 7014  5011   4   2  C 7.7000+7          7.5810-3          0.868632                              M.Liu+               (71)O2485  3 
+ 7014  5011   4   2  C 7.7000+7          0.010490          0.849893                              M.Liu+               (71)O2485  3 
+ 7014  5011   4   2  C 7.7000+7          0.015010          0.825113                              M.Liu+               (71)O2485  3 
+ 7014  5011   4   2  C 7.7000+7          6.5010-3          0.803857                              M.Liu+               (71)O2485  3 
+ 7014  5011   4   2  C 7.7000+7          2.4970-3          0.780430                              M.Liu+               (71)O2485  3 
+ 7014  5011   4   2  C 7.7000+7          1.6020-3          0.761538                              M.Liu+               (71)O2485  3 
+ 7014  5011   4   2  C 7.7000+7          3.0140-3          0.738455                              M.Liu+               (71)O2485  3 
+ 7014  5011   4   2  C 7.7000+7          3.2270-3          0.712026                              M.Liu+               (71)O2485  3 
+ 7014  5011   4   2  C 7.7000+7          6.4770-4          0.665230                              M.Liu+               (71)O2485  3 
+ 7014  5011   4   2  C 7.7000+7          5.0990-4          0.637424                              M.Liu+               (71)O2485  3 
+ 7014  5011   4   2  C 7.7000+7          7.3000-4          0.608761                              M.Liu+               (71)O2485  3 
+ 7014  5011   4   2  C 7.7000+7          5.8460-4          0.569280                              M.Liu+               (71)O2485  3 
+ 7014  5011   4   2  C 7.7000+7          2.9020-4 2.5880-5 0.538771                              M.Liu+               (71)O2485  3 
+#/DATA      14
+#/DATASET

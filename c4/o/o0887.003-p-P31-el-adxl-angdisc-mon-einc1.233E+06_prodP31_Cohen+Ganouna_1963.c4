@@ -1,0 +1,29 @@
+#ENTRY      O0887
+#AUTHOR1    J.Cohen-Ganouna+
+#YEAR       1963
+#INSTITUTE  (2FR FR)
+#TITLE      Spin and parity of the single levels of S-32 from
+#+          the differential cross section analysis of P-31(P,P)
+#+          reaction.
+#AUTHOR(S)  J.Cohen-Ganouna, M.Lambert, J.Schmouker
+#REF-CODE   (J,NP,40,67,1963)
+#REFERENCE  Nucl.Phys. 40 (1963) 67
+#DATASETS   0
+#
+#DATASET    O0887003 
+#DATE       20030423
+#REACTION   15-P-31(P,EL)15-P-31,,DA
+#PROJ       1001
+#TARG       15031
+#MF         4
+#MT         2
+#PRODUCT    15-P-31
+#C4BEGIN    [ 1001 15031   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 15031   4   2  C 1233000. 300000.0 0.827700         -0.025305                              J.Cohen-Ganouna+     (63)O0887  3 
+ 1001 15031   4   2  C 1233000. 300000.0 0.239900         -0.802817                              J.Cohen-Ganouna+     (63)O0887  3 
+ 1001 15031   4   2  C 1233000. 300000.0 0.201500         -0.967223                              J.Cohen-Ganouna+     (63)O0887  3 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,42 @@
+#ENTRY      O0179
+#AUTHOR1    W.A.Richter+
+#YEAR       1994
+#INSTITUTE  (3SAFSTL)
+#TITLE      Preequilibrium (p,p) measurements and calculations for
+#+          Zr-90 and neighboring nuclei for incident energies up
+#+          to 200 MeV.
+#AUTHOR(S)  W.A.Richter, A.A.Cowley, G.C.Hillhouse, J.A.Stander, J.W.Koen, 
+#+          S.W.Steyn, R.Lindsay, R.E.Julies, J.J.Lawrie, J.V.Pilcher, 
+#+          P.E.Hodgson
+#REF-CODE   (J,PR/C,49,1001,1994)
+#REFERENCE  Phys.Rev.C 49 (1994) 1001
+#DATASETS   0
+#
+#DATASET    O0179102 
+#DATE       20200317
+#REACTION   42-MO-98(P,X)1-H-1,,DA/DE
+#PROJ       1001
+#TARG       42098
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001 42098   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42098   6 203    2.0000+8          2.2754-9 1.032-10 0.965926          1.6000+8          E2W.A.Richter+         (94)O0179102 
+ 1001 42098   6 203    2.0000+8          2.1695-9 7.257-11 0.939693          1.6000+8          E2W.A.Richter+         (94)O0179102 
+ 1001 42098   6 203    2.0000+8          2.2619-9 6.526-11 0.906308          1.6000+8          E2W.A.Richter+         (94)O0179102 
+ 1001 42098   6 203    2.0000+8          1.6910-9 5.905-11 0.866025          1.6000+8          E2W.A.Richter+         (94)O0179102 
+ 1001 42098   6 203    2.0000+8          1.2365-9 3.727-11 0.819152          1.6000+8          E2W.A.Richter+         (94)O0179102 
+ 1001 42098   6 203    2.0000+8          7.572-10 2.854-11 0.766044          1.6000+8          E2W.A.Richter+         (94)O0179102 
+ 1001 42098   6 203    2.0000+8          4.484-10 1.922-11 0.707107          1.6000+8          E2W.A.Richter+         (94)O0179102 
+ 1001 42098   6 203    2.0000+8          2.465-10 1.479-11 0.642788          1.6000+8          E2W.A.Richter+         (94)O0179102 
+ 1001 42098   6 203    2.0000+8          1.078-10 1.044-11 0.573576          1.6000+8          E2W.A.Richter+         (94)O0179102 
+ 1001 42098   6 203    2.0000+8          6.075-11 6.883-12 0.500000          1.6000+8          E2W.A.Richter+         (94)O0179102 
+ 1001 42098   6 203    2.0000+8          1.010-11 2.314-12 0.342020          1.6000+8          E2W.A.Richter+         (94)O0179102 
+ 1001 42098   6 203    2.0000+8          7.360-12 1.192-12 0.173648          1.6000+8          E2W.A.Richter+         (94)O0179102 
+ 1001 42098   6 203    2.0000+8          1.453-12 5.398-13 6.123-17          1.6000+8          E2W.A.Richter+         (94)O0179102 
+ 1001 42098   6 203    2.0000+8          6.804-13 3.928-13-0.173648          1.6000+8          E2W.A.Richter+         (94)O0179102 
+#/DATA      14
+#/DATASET

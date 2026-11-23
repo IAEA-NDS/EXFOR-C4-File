@@ -1,0 +1,35 @@
+#ENTRY      O0567
+#AUTHOR1    Z.Lewandowski+
+#YEAR       1982
+#INSTITUTE  (2SWTBAS)
+#TITLE      Analyzing power in the continuum of (p,alpha+x) and
+#+          (p,He3+x) reactions on C-12, Al-27, Ni-58, Zr-90,
+#+          Bi-209 at E(p)=72 MeV.
+#AUTHOR(S)  Z.Lewandowski, E.Loeffler, R.Wagner, H.H.Mueller, W.Reichart, 
+#+          P.Schober
+#REF-CODE   (J,NP/A,389,247,1982)
+#REFERENCE  Nucl.Phys.A 389 (1982) 247
+#DATASETS   0
+#
+#DATASET    O0567014 
+#DATE       20190209
+#REACTION   28-NI-58(P,X)2-HE-3,,DA/DE
+#PROJ       1001
+#TARG       28058
+#MF         6
+#MT         206
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001 28058   6 206 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28058   6 206 CC 7.2000+7          7.203-11          0.899558          3.0000+7          E2Z.Lewandowski+       (82)O0567 14 
+ 1001 28058   6 206 CC 7.2000+7          3.741-11          0.656059          3.0000+7          E2Z.Lewandowski+       (82)O0567 14 
+ 1001 28058   6 206 CC 7.2000+7          2.342-11          0.436802          3.0000+7          E2Z.Lewandowski+       (82)O0567 14 
+ 1001 28058   6 206 CC 7.2000+7          1.452-11          0.195946          3.0000+7          E2Z.Lewandowski+       (82)O0567 14 
+ 1001 28058   6 206 CC 7.2000+7          9.356-12         -0.071497          3.0000+7          E2Z.Lewandowski+       (82)O0567 14 
+ 1001 28058   6 206 CC 7.2000+7          4.465-12         -0.472551          3.0000+7          E2Z.Lewandowski+       (82)O0567 14 
+ 1001 28058   6 206 CC 7.2000+7          3.780-12         -0.679441          3.0000+7          E2Z.Lewandowski+       (82)O0567 14 
+ 1001 28058   6 206 CC 7.2000+7          3.140-12         -0.839620          3.0000+7          E2Z.Lewandowski+       (82)O0567 14 
+#/DATA      8
+#/DATASET

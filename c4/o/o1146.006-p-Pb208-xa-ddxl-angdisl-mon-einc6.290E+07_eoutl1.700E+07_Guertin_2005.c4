@@ -1,0 +1,39 @@
+#ENTRY      O1146
+#AUTHOR1    A.Guertin+
+#YEAR       2005
+#INSTITUTE  (2FR NTE)
+#TITLE      Neutron and light charged particle productions in
+#+          proton induced reactions on Pb-208 at 62.9-MeV.
+#AUTHOR(S)  A.Guertin, N.Marie, S.Auduc, V.Blideanu, Th.Delbar, P.Eudes, 
+#+          Y.Foucher, F.Haddad, T.Kirchner, Ch.Le Brun, C.Lebrun, F.R.Lecolley, 
+#+          J.F.Lecolley, X.Ledoux, F.Lefebvres, T.Lefort, M.Louvel, 
+#+          A.Ninane, Y.Patin, Ph.Pras, G.Riviere, C.Varignon
+#REF-CODE   (J,EPJ/A,23,49,2005)
+#REFERENCE  Eur.Phys.J.A 23 (2005) 49
+#DATASETS   0
+#
+#DATASET    O1146006 
+#DATE       20040411
+#REACTION   82-PB-208(P,X)2-HE-4,,DA/DE
+#PROJ       1001
+#TARG       82208
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001 82208   6 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   6 207    6.2900+7          3.940-11 8.860-13 0.906308          1.7000+7          E2A.Guertin+           (05)O1146  6 
+ 1001 82208   6 207    6.2900+7          3.630-11 7.670-13 0.819152          1.7000+7          E2A.Guertin+           (05)O1146  6 
+ 1001 82208   6 207    6.2900+7          4.860-11 9.760-13 0.707107          1.7000+7          E2A.Guertin+           (05)O1146  6 
+ 1001 82208   6 207    6.2900+7          4.310-11 8.340-13 0.573576          1.7000+7          E2A.Guertin+           (05)O1146  6 
+ 1001 82208   6 207    6.2900+7          5.030-11 9.940-13 0.422618          1.7000+7          E2A.Guertin+           (05)O1146  6 
+ 1001 82208   6 207    6.2900+7          4.880-11 8.860-13 0.258819          1.7000+7          E2A.Guertin+           (05)O1146  6 
+ 1001 82208   6 207    6.2900+7          7.510-11 1.220-12 0.087156          1.7000+7          E2A.Guertin+           (05)O1146  6 
+ 1001 82208   6 207    6.2900+7          6.690-11 9.040-13-0.087156          1.7000+7          E2A.Guertin+           (05)O1146  6 
+ 1001 82208   6 207    6.2900+7          5.780-11 2.080-12-0.422618          1.7000+7          E2A.Guertin+           (05)O1146  6 
+ 1001 82208   6 207    6.2900+7          5.750-11 6.750-13-0.707107          1.7000+7          E2A.Guertin+           (05)O1146  6 
+ 1001 82208   6 207    6.2900+7          5.750-11 6.750-13-0.906308          1.7000+7          E2A.Guertin+           (05)O1146  6 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,38 @@
+#ENTRY      O1801
+#AUTHOR1    S.El-Kazzaz+
+#YEAR       1977
+#INSTITUTE  (2NORBGN)
+#TITLE      A study of levels in 141Nd with the (d,t) and (He3,a)
+#+          reactions.
+#AUTHOR(S)  S.El-Kazzaz, J.R.Lien, G.Loevhoeiden, P.Kleinheinz, C.Ellegaard, 
+#+          J.H.Bjerregaard, P.Knudsen, J.Rekstad
+#REF-CODE   (J,NP/A,280,1,1977)
+#REFERENCE  Nucl.Phys.A 280 (1977) 1
+#DATASETS   0
+#
+#DATASET    O1801003 
+#DATE       20091202
+#REACTION   60-ND-142(HE3,A)60-ND-141,PAR,DA
+#PROJ       2003
+#TARG       60142
+#MF         4
+#MT         800
+#PRODUCT    60-ND-141
+#C4BEGIN    [ 2003 60142   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 60142   4 800  C 2.4000+7          4.0500-4          0.989526          757000.0 10000.00LVLS.El-Kazzaz+         (77)O1801  3 
+ 2003 60142   4 800  C 2.4000+7          3.2000-4          0.973179          757000.0 10000.00LVLS.El-Kazzaz+         (77)O1801  3 
+ 2003 60142   4 800  C 2.4000+7          3.3200-4 1.6600-5 0.949972          757000.0 10000.00LVLS.El-Kazzaz+         (77)O1801  3 
+ 2003 60142   4 800  C 2.4000+7          3.5600-4 1.4240-5 0.919135          757000.0 10000.00LVLS.El-Kazzaz+         (77)O1801  3 
+ 2003 60142   4 800  C 2.4000+7          3.9400-4          0.882127          757000.0 10000.00LVLS.El-Kazzaz+         (77)O1801  3 
+ 2003 60142   4 800  C 2.4000+7          3.7600-4          0.835807          757000.0 10000.00LVLS.El-Kazzaz+         (77)O1801  3 
+ 2003 60142   4 800  C 2.4000+7          5.4100-4          0.788011          757000.0 10000.00LVLS.El-Kazzaz+         (77)O1801  3 
+ 2003 60142   4 800  C 2.4000+7          3.6600-4          0.728969          757000.0 10000.00LVLS.El-Kazzaz+         (77)O1801  3 
+ 2003 60142   4 800  C 2.4000+7          2.0330-4          0.596225          757000.0 10000.00LVLS.El-Kazzaz+         (77)O1801  3 
+ 2003 60142   4 800  C 2.4000+7          1.6360-4          0.529919          757000.0 10000.00LVLS.El-Kazzaz+         (77)O1801  3 
+ 2003 60142   4 800  C 2.4000+7          8.5200-5          0.376224          757000.0 10000.00LVLS.El-Kazzaz+         (77)O1801  3 
+ 2003 60142   4 800  C 2.4000+7          6.2600-5          0.211325          757000.0 10000.00LVLS.El-Kazzaz+         (77)O1801  3 
+#/DATA      12
+#/DATASET

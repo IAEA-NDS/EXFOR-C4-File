@@ -1,0 +1,33 @@
+#ENTRY      O1824
+#AUTHOR1    G.Perrin+
+#YEAR       1981
+#INSTITUTE  (2FR GRE)
+#TITLE      Analyzing powers of valence and inner neutron-hole
+#+          states in Sn-115 via the Sn-116(d,t) reaction.
+#AUTHOR(S)  G.Perrin, G.Duhamel, C.Perrin, E.Gerlic, S.Gales, V.Comparat
+#REF-CODE   (J,NP/A,356,61,1981)
+#REFERENCE  Nucl.Phys.A 356 (1981) 61
+#DATASETS   0
+#
+#DATASET    O1824002 
+#DATE       20100129
+#REACTION   50-SN-116(D,T)50-SN-115,PAR,DA
+#PROJ       1002
+#TARG       50116
+#MF         4
+#MT         700
+#PRODUCT    50-SN-115
+#C4BEGIN    [ 1002 50116   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50116   4 700  C 4.0000+7 35000.00 1.4600-4 7.3000-6 0.983979          5400000. 10000.00LVLG.Perrin+            (81)O1824  2 
+ 1002 50116   4 700  C 4.0000+7 35000.00 1.4300-4 1.1440-5 0.973379          5400000. 10000.00LVLG.Perrin+            (81)O1824  2 
+ 1002 50116   4 700  C 4.0000+7 35000.00 1.7800-4 1.4240-5 0.958869          5400000. 10000.00LVLG.Perrin+            (81)O1824  2 
+ 1002 50116   4 700  C 4.0000+7 35000.00 1.8800-4 2.0680-5 0.944777          5400000. 10000.00LVLG.Perrin+            (81)O1824  2 
+ 1002 50116   4 700  C 4.0000+7 35000.00 1.2300-4 1.3530-5 0.937282          5400000. 10000.00LVLG.Perrin+            (81)O1824  2 
+ 1002 50116   4 700  C 4.0000+7 35000.00 9.0000-5 8.1000-6 0.922942          5400000. 10000.00LVLG.Perrin+            (81)O1824  2 
+ 1002 50116   4 700  C 4.0000+7 35000.00 3.1000-5 2.4800-6 0.906750          5400000. 10000.00LVLG.Perrin+            (81)O1824  2 
+ 1002 50116   4 700  C 4.0000+7 35000.00 2.9000-5 4.0600-6 0.883602          5400000. 10000.00LVLG.Perrin+            (81)O1824  2 
+#/DATA      8
+#/DATASET

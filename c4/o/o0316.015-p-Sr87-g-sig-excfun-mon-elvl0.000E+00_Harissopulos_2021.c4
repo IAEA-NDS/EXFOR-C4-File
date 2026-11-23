@@ -1,0 +1,45 @@
+#ENTRY      O0316
+#AUTHOR1    S.Harissopulos+
+#YEAR       2021
+#INSTITUTE  (2GRCATH)
+#TITLE      Cross section measurements of proton capture
+#+          reactions on Sr isotopes for astrophysics applications
+#AUTHOR(S)  S.Harissopulos, E.Vagena, P.Dimitriou, M.Axiotis, S.Galanopoulos, 
+#+          V.Foteinou, A.Lagoyannis
+#REF-CODE   (J,PR/C,104,025804,2021)
+#REFERENCE  Phys.Rev.C 104 (2021) 025804
+#DATASETS   0
+#
+#DATASET    O0316015 
+#DATE       20230313
+#REACTION   38-SR-87(P,G)39-Y-88,PAR,SIG
+#PROJ       1001
+#TARG       38087
+#MF         3
+#MT         900
+#PRODUCT    39-Y-88
+#C4BEGIN    [ 1001 38087   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 38087   3 900    2004.983 4100.000 1.6000-6 4.0000-6                   0.000000         LVLS.Harissopulos+      (21)O0316 15 
+ 1001 38087   3 900    2105.132 4100.000 2.5000-6 5.0000-7                   0.000000         LVLS.Harissopulos+      (21)O0316 15 
+ 1001 38087   3 900    2204.268 4100.000 3.9000-6 7.0000-7                   0.000000         LVLS.Harissopulos+      (21)O0316 15 
+ 1001 38087   3 900    2306.439 4100.000 4.6000-6 7.0000-7                   0.000000         LVLS.Harissopulos+      (21)O0316 15 
+ 1001 38087   3 900    2406.587 4100.000 6.6000-6 8.0000-7                   0.000000         LVLS.Harissopulos+      (21)O0316 15 
+ 1001 38087   3 900    2507.747 4100.000 9.1000-6 1.1000-6                   0.000000         LVLS.Harissopulos+      (21)O0316 15 
+ 1001 38087   3 900    2607.895 4100.000 1.3000-5 1.0000-6                   0.000000         LVLS.Harissopulos+      (21)O0316 15 
+ 1001 38087   3 900    2707.031 4100.000 1.6000-5 2.0000-6                   0.000000         LVLS.Harissopulos+      (21)O0316 15 
+ 1001 38087   3 900    2842.585 4100.000 2.0000-5 2.0000-6                   0.000000         LVLS.Harissopulos+      (21)O0316 15 
+ 1001 38087   3 900    2910.362 4100.000 2.1000-5 2.0000-6                   0.000000         LVLS.Harissopulos+      (21)O0316 15 
+ 1001 38087   3 900    3012.533 4100.000 2.7000-5 2.0000-6                   0.000000         LVLS.Harissopulos+      (21)O0316 15 
+ 1001 38087   3 900    3050.974 4100.000 2.7000-5 2.0000-6                   0.000000         LVLS.Harissopulos+      (21)O0316 15 
+ 1001 38087   3 900    3091.438 4100.000 1.8000-5 2.0000-6                   0.000000         LVLS.Harissopulos+      (21)O0316 15 
+ 1001 38087   3 900    3178.435 4100.000 1.8000-5 2.0000-6                   0.000000         LVLS.Harissopulos+      (21)O0316 15 
+ 1001 38087   3 900    3212.830 4100.000 1.5000-5 2.0000-6                   0.000000         LVLS.Harissopulos+      (21)O0316 15 
+ 1001 38087   3 900    3355.465 4100.000 1.6000-5 2.0000-6                   0.000000         LVLS.Harissopulos+      (21)O0316 15 
+ 1001 38087   3 900    3412.114 4100.000 1.1000-5 1.0000-6                   0.000000         LVLS.Harissopulos+      (21)O0316 15 
+ 1001 38087   3 900    3514.285 4100.000 1.3000-5 1.0000-6                   0.000000         LVLS.Harissopulos+      (21)O0316 15 
+ 1001 38087   3 900    3611.399 4100.000 1.4000-5 1.0000-6                   0.000000         LVLS.Harissopulos+      (21)O0316 15 
+#/DATA      19
+#/DATASET

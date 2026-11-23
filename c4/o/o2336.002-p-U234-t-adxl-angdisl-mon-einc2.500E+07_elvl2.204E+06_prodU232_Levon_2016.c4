@@ -1,0 +1,36 @@
+#ENTRY      O2336
+#AUTHOR1    A.I.Levon+
+#YEAR       2016
+#INSTITUTE  (4UKRIJD)
+#TITLE      Spectroscopy of 232U in the (p,t) reaction:
+#+          experimental data
+#AUTHOR(S)  A.I.Levon, G.Graw, R.Hertenberger, A.A.Shevchuk, P.G.Thirolf, 
+#+          H.-F.Wirth
+#REF-CODE   (J,YFE,17,215,2016)
+#REFERENCE  Yad.Fiz.Energetika 17 (2016) 215
+#DATASETS   0
+#
+#DATASET    O2336002 
+#DATE       20170828
+#REACTION   92-U-234(P,T)92-U-232,PAR,DA
+#PROJ       1001
+#TARG       92234
+#MF         4
+#MT         700
+#PRODUCT    92-U-232
+#C4BEGIN    [ 1001 92234   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 92234   4 700    2.5000+7          1.1940-5 5.6000-7 0.996195          2204400.         LVLA.I.Levon+           (16)O2336  2 
+ 1001 92234   4 700    2.5000+7          1.8860-5 7.5000-7 0.991445          2204400.         LVLA.I.Levon+           (16)O2336  2 
+ 1001 92234   4 700    2.5000+7          2.4010-5 7.3000-7 0.984808          2204400.         LVLA.I.Levon+           (16)O2336  2 
+ 1001 92234   4 700    2.5000+7          2.7120-5 8.8000-7 0.976296          2204400.         LVLA.I.Levon+           (16)O2336  2 
+ 1001 92234   4 700    2.5000+7          2.6720-5 8.7000-7 0.961262          2204400.         LVLA.I.Levon+           (16)O2336  2 
+ 1001 92234   4 700    2.5000+7          2.0830-5 4.6000-7 0.939693          2204400.         LVLA.I.Levon+           (16)O2336  2 
+ 1001 92234   4 700    2.5000+7          1.3670-5 5.2000-7 0.898794          2204400.         LVLA.I.Levon+           (16)O2336  2 
+ 1001 92234   4 700    2.5000+7          1.2280-5 4.3000-7 0.866025          2204400.         LVLA.I.Levon+           (16)O2336  2 
+ 1001 92234   4 700    2.5000+7          1.9430-5 4.7000-7 0.819152          2204400.         LVLA.I.Levon+           (16)O2336  2 
+ 1001 92234   4 700    2.5000+7          1.7060-5 5.1000-7 0.766044          2204400.         LVLA.I.Levon+           (16)O2336  2 
+#/DATA      10
+#/DATASET

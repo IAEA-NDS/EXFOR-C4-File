@@ -1,0 +1,28 @@
+#ENTRY      O1243
+#AUTHOR1    D.J.Baugh+
+#YEAR       1967
+#INSTITUTE  (2UK BIR)
+#TITLE      The elastic and inelastic scattering of 30.4-MeV
+#+          protons by Fe-54.
+#AUTHOR(S)  D.J.Baugh, M.J.Kenny, J.Lowe, D.L.Watson, H.Wojciechowski
+#REF-CODE   (J,NP/A,99,203,1967)
+#REFERENCE  Nucl.Phys.A 99 (1967) 203
+#DATASETS   0
+#
+#DATASET    O1243004 
+#DATE       20050228
+#REACTION   26-FE-54(P,INL)26-FE-54,PAR,DA
+#PROJ       1001
+#TARG       26054
+#MF         4
+#MT         601
+#PRODUCT    26-FE-54
+#C4BEGIN    [ 1001 26054   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26054   4 601  C 3.0400+7          1.7000-3 2.0000-4 0.632029          1410000.         LVLD.J.Baugh+           (67)O1243  4 
+ 1001 26054   4 601  C 3.0400+7          5.5000-4 6.0000-5 0.632029          4800000.         LVLD.J.Baugh+           (67)O1243  4 
+ 1001 26054   4 601  C 3.0400+7          7.3000-4 8.0000-5 0.632029          6400000.         LVLD.J.Baugh+           (67)O1243  4 
+#/DATA      3
+#/DATASET

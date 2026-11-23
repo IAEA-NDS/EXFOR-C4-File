@@ -1,0 +1,35 @@
+#ENTRY      O0267
+#AUTHOR1    N.V.Alekseev+
+#YEAR       1974
+#INSTITUTE  (4RUSMOS)
+#TITLE      Proton elastic scattering by C-12 nuclei and analyzing
+#+          power C-12(p,p')C-12 in energy region 4.5-6.0 MeV
+#AUTHOR(S)  N.V.Alekseev, I.R.Gulamov, S.B.Ignat'ev, E.A.Romanovsky, 
+#+          E.I.Sirotinin, T.I.Spasskaya, K.S.Shishkin, V.B.Gubin
+#REF-CODE   (J,BAS,38,(12),153,1974)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 38 No.12 (1974) 153
+#DATASETS   0
+#
+#DATASET    O0267004 
+#DATE       20221208
+#REACTION   6-C-12(P,EL)6-C-12,,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4   2  C 6150000.          0.091000 4.0000-3 0.619231                              N.V.Alekseev+        (74)O0267  4 
+ 1001  6012   4   2  C 6150000.          0.032000 9.0000-3 0.391534                              N.V.Alekseev+        (74)O0267  4 
+ 1001  6012   4   2  C 6150000.          0.026900 6.0000-3 0.244461                              N.V.Alekseev+        (74)O0267  4 
+ 1001  6012   4   2  C 6150000.          0.045000 4.0000-3-0.098104                              N.V.Alekseev+        (74)O0267  4 
+ 1001  6012   4   2  C 6150000.          0.068000 6.0000-3-0.295041                              N.V.Alekseev+        (74)O0267  4 
+ 1001  6012   4   2  C 6150000.          0.094000 7.0000-3-0.426727                              N.V.Alekseev+        (74)O0267  4 
+ 1001  6012   4   2  C 6150000.          0.115000 7.0000-3-0.556006                              N.V.Alekseev+        (74)O0267  4 
+ 1001  6012   4   2  C 6150000.          0.168000 5.0000-3-0.709571                              N.V.Alekseev+        (74)O0267  4 
+ 1001  6012   4   2  C 6150000.          0.169000 4.0000-3-0.891798                              N.V.Alekseev+        (74)O0267  4 
+#/DATA      9
+#/DATASET

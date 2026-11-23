@@ -1,0 +1,33 @@
+#ENTRY      O2603
+#AUTHOR1    L.Hess+
+#YEAR       2024
+#INSTITUTE  (2GERGAR)
+#TITLE      Cross-section data for the reactions 12C(3He,p0)14N
+#+          to 12C(3He,p6)14N at energies up to 6 MeV
+#AUTHOR(S)  L.Hess, M.Mayer, T.Schwarz-Selinger
+#REF-CODE   (J,NIM/B,547,165141,2024)
+#REFERENCE  Nucl.Instrum.Meth.B 547 (2024) 165141
+#DATASETS   0
+#
+#DATASET    O2603002 
+#DATE       20240305
+#REACTION   6-C-12(HE3,P)7-N-14,PAR,DA
+#PROJ       2003
+#TARG       6012
+#MF         4
+#MT         600
+#PRODUCT    7-N-14
+#C4BEGIN    [ 2003  6012   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  6012   4 600 A  5598750. 5550.000 2.7240-3 2.5300-4-0.996195          5110000.         LVLL.Hess+              (24)O2603  2 
+ 2003  6012   4 600 A  5647990. 5580.000 3.4580-3 3.1800-4-0.996195          5110000.         LVLL.Hess+              (24)O2603  2 
+ 2003  6012   4 600 A  5697240. 5600.000 2.9580-3 2.7000-4-0.996195          5110000.         LVLL.Hess+              (24)O2603  2 
+ 2003  6012   4 600 A  5746480. 5630.000 3.1360-3 3.2200-4-0.996195          5110000.         LVLL.Hess+              (24)O2603  2 
+ 2003  6012   4 600 A  5795730. 5660.000 3.0110-3 2.4700-4-0.996195          5110000.         LVLL.Hess+              (24)O2603  2 
+ 2003  6012   4 600 A  5844970. 5680.000 2.2370-3 1.8700-4-0.996195          5110000.         LVLL.Hess+              (24)O2603  2 
+ 2003  6012   4 600 A  5894210. 5710.000 1.8930-3 1.7800-4-0.996195          5110000.         LVLL.Hess+              (24)O2603  2 
+ 2003  6012   4 600 A  5943460. 5730.000 1.4870-3 1.2900-4-0.996195          5110000.         LVLL.Hess+              (24)O2603  2 
+#/DATA      8
+#/DATASET

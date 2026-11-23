@@ -1,0 +1,39 @@
+#ENTRY      O2165
+#AUTHOR1    K.G.Leach+
+#YEAR       2019
+#INSTITUTE  (1USACSM)
+#TITLE      High-resolution (p,t) reaction measurements as
+#+          spectroscopic tests of ab-initio theory in the mid-pf
+#+          shell
+#AUTHOR(S)  K.G.Leach, J.D.Holt, P.E.Garrett, S.R.Stroberg, G.C.Ball, 
+#+          P.C.Bender, V.Bildstein, A.Diaz Varela, R.Dunlop, T.Faestermann, 
+#+          B.Hadinia, R.Hertenberger, D.S.Jamieson, B.Jigmeddorj, R.Krucken, 
+#+          A.T.Laffoley, A.J.Radich, E.T.Rand, C.E.Svensson, S.Triambak, 
+#+          H.-F.Wirth
+#REF-CODE   (J,PR/C,100,014320,2019)
+#REFERENCE  Phys.Rev.C 100 (2019) 014320
+#DATASETS   0
+#
+#DATASET    O2165002 
+#DATE       20210906
+#REACTION   30-ZN-64(P,T)30-ZN-62,PAR,DA
+#PROJ       1001
+#TARG       30064
+#MF         4
+#MT         700
+#PRODUCT    30-ZN-62
+#C4BEGIN    [ 1001 30064   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30064   4 700  C 2.4000+7          9.2689-6 6.6518-7 0.984321          1805200.         LVLK.G.Leach+           (19)O2165  2 
+ 1001 30064   4 700  C 2.4000+7          1.6222-5 1.0723-6 0.964846          1805200.         LVLK.G.Leach+           (19)O2165  2 
+ 1001 30064   4 700  C 2.4000+7          2.2577-5 2.1284-6 0.937808          1805200.         LVLK.G.Leach+           (19)O2165  2 
+ 1001 30064   4 700  C 2.4000+7          3.0406-5 1.6026-6 0.903432          1805200.         LVLK.G.Leach+           (19)O2165  2 
+ 1001 30064   4 700  C 2.4000+7          2.6890-5 1.4492-6 0.862004          1805200.         LVLK.G.Leach+           (19)O2165  2 
+ 1001 30064   4 700  C 2.4000+7          1.5055-5 8.5927-7 0.792820          1805200.         LVLK.G.Leach+           (19)O2165  2 
+ 1001 30064   4 700  C 2.4000+7          4.1437-6 3.4991-7 0.711606          1805200.         LVLK.G.Leach+           (19)O2165  2 
+ 1001 30064   4 700  C 2.4000+7          2.1312-6 1.6841-7 0.619662          1805200.         LVLK.G.Leach+           (19)O2165  2 
+ 1001 30064   4 700  C 2.4000+7          3.5373-6 2.9141-7 0.518445          1805200.         LVLK.G.Leach+           (19)O2165  2 
+#/DATA      9
+#/DATASET

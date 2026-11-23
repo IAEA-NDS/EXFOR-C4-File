@@ -1,0 +1,33 @@
+#ENTRY      O1190
+#AUTHOR1    S.Sen+
+#YEAR       1983
+#INSTITUTE  (2UK MAN)
+#TITLE      Neutron orbit sizes in the ground states of the
+#+          molybdenum isotopes.
+#AUTHOR(S)  S.Sen, R.Chapman, J.L.Durell, J.N.Mo, A.Simcock, P.Woods
+#REF-CODE   (J,JP/G,9,99,1983)
+#REFERENCE  J.Phys.G 9 (1983) 99
+#DATASETS   0
+#
+#DATASET    O1190002 
+#DATE       20080128
+#REACTION   42-MO-92(T,D)42-MO-93,PAR,DA
+#PROJ       1003
+#TARG       42092
+#MF         4
+#MT         650
+#PRODUCT    42-MO-93
+#C4BEGIN    [ 1003 42092   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 42092   4 650  C 3750000.          2.8000-5 5.0400-6-0.265556          0.000000         LVLS.Sen+               (83)O1190  2 
+ 1003 42092   4 650  C 3750000.          3.2000-5 5.1200-6-0.428935          0.000000         LVLS.Sen+               (83)O1190  2 
+ 1003 42092   4 650  C 3750000.          4.7000-5 5.1700-6-0.582123          0.000000         LVLS.Sen+               (83)O1190  2 
+ 1003 42092   4 650  C 3750000.          4.4000-5 3.9600-6-0.653421          0.000000         LVLS.Sen+               (83)O1190  2 
+ 1003 42092   4 650  C 3750000.          6.1000-5 4.8800-6-0.716911          0.000000         LVLS.Sen+               (83)O1190  2 
+ 1003 42092   4 650  C 3750000.          4.6000-5 5.0600-6-0.772734          0.000000         LVLS.Sen+               (83)O1190  2 
+ 1003 42092   4 650  C 3750000.          5.8000-5 5.2200-6-0.874620          0.000000         LVLS.Sen+               (83)O1190  2 
+ 1003 42092   4 650  C 3750000.          6.3000-5 3.7800-6-0.944376          0.000000         LVLS.Sen+               (83)O1190  2 
+#/DATA      8
+#/DATASET

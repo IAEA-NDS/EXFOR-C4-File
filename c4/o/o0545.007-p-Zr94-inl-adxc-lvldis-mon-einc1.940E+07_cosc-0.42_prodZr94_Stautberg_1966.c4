@@ -1,0 +1,33 @@
+#ENTRY      O0545
+#AUTHOR1    M.M.Stautberg+
+#YEAR       1966
+#INSTITUTE  (1USACLU)
+#TITLE      Analysis of Proton Scattering from Zr-92 and Zr-94
+#+          At 19.4 MeV.
+#AUTHOR(S)  M.M.Stautberg, J.J.Kraushaar
+#REF-CODE   (J,PR,151,969,1966)
+#REFERENCE  Phys.Rev. 151 (1966) 969
+#DATASETS   0
+#
+#DATASET    O0545007 
+#DATE       19991117
+#REACTION   40-ZR-94(P,INL)40-ZR-94,PAR,DA
+#PROJ       1001
+#TARG       40094
+#MF         4
+#MT         601
+#PRODUCT    40-ZR-94
+#C4BEGIN    [ 1001 40094   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40094   4 601  C 1.9400+7          1.4600-4 7.3000-6-0.422618          920000.0         LVLM.M.Stautberg+       (66)O0545  7 
+ 1001 40094   4 601  C 1.9400+7          5.8000-5 5.2200-6-0.422618          1660000.         LVLM.M.Stautberg+       (66)O0545  7 
+ 1001 40094   4 601  C 1.9400+7          2.9900-4 6.2790-6-0.422618          2050000.         LVLM.M.Stautberg+       (66)O0545  7 
+ 1001 40094   4 601  C 1.9400+7          1.7000-5 4.9300-6-0.422618          2340000.         LVLM.M.Stautberg+       (66)O0545  7 
+ 1001 40094   4 601  C 1.9400+7          5.2000-5 6.7600-6-0.422618          3330000.         LVLM.M.Stautberg+       (66)O0545  7 
+ 1001 40094   4 601  C 1.9400+7          3.7000-5 5.9200-6-0.422618          3460000.         LVLM.M.Stautberg+       (66)O0545  7 
+ 1001 40094   4 601  C 1.9400+7          5.7000-5 9.1200-6-0.422618          3870000.         LVLM.M.Stautberg+       (66)O0545  7 
+ 1001 40094   4 601  C 1.9400+7          4.3000-5 9.8900-6-0.422618          4210000.         LVLM.M.Stautberg+       (66)O0545  7 
+#/DATA      8
+#/DATASET

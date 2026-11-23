@@ -1,0 +1,30 @@
+#ENTRY      O1626
+#AUTHOR1    K.W.Potthast+
+#YEAR       1997
+#INSTITUTE  (2GERBOC)
+#TITLE      Global optical model potentials for symmetrical lithium
+#+          systems-Li6+Li6, Li7+Li7 at E(lab)=5-40 MeV
+#AUTHOR(S)  K.W.Potthast, H.Brand, H.Freiesleben, P.Rosenthal, B.Kamys, 
+#+          H.Paetz gen.Schieck, L.Sydow
+#REF-CODE   (J,NP/A,614,95,1997)
+#REFERENCE  Nucl.Phys.A 614 (1997) 95
+#DATASETS   0
+#
+#DATASET    O1626002 
+#DATE       20160719
+#REACTION   3-LI-6(3-LI-6,EL)3-LI-6,,DA
+#PROJ       3006
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 3006  3006   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006  3006   4   2  C 5000000.          0.127000          0.510543                              K.W.Potthast+        (97)O1626  2 
+ 3006  3006   4   2  C 5000000.          0.086000          0.351842                              K.W.Potthast+        (97)O1626  2 
+ 3006  3006   4   2  C 5000000.          0.075000          0.177085                              K.W.Potthast+        (97)O1626  2 
+ 3006  3006   4   2  C 5000000.          0.069000          8.7265-3                              K.W.Potthast+        (97)O1626  2 
+#/DATA      4
+#/DATASET

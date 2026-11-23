@@ -1,0 +1,39 @@
+#ENTRY      O1915
+#AUTHOR1    B.Fernandez-Dominguez+
+#YEAR       2011
+#INSTITUTE  (2UK LVP)
+#TITLE      Emergence of the N = 16 shell gap in 21O.
+#AUTHOR(S)  B.Fernandez-Dominguez, J.S.Thomas, W.N.Catford, F.Delaunay, 
+#+          S.M.Brown, N.A.Orr, M.Rejmund, M.Labiche, M.Chartier, N.L.Achouri, 
+#+          H.Al Falou, N.I.Ashwood, D.Beaumel, Y.Blumenfeld, B.A.Brown, 
+#+          R.Chapman, N.Curtis, C.Force, G.De France, S.Franchoo, J.Guillot, 
+#+          P.Haigh, F.Hammache, V.Lapoux, R.C.Lemmon, F.Marechal, A.M.Moro, 
+#+          X.Mougeot, B.Mouginot, L.Nalpas, A.Navin, N.Patterson, B.Pietras, 
+#+          E.C.Pollacco, A.Leprince, A.Ramus, J.A.Scarpaci, N.De Sereville, 
+#+          I.Stephan, O.Sorlin, G.L.Wilson
+#REF-CODE   (J,PR/C,84,011301,2011)
+#REFERENCE  Phys.Rev.C 84 (2011) 011301
+#DATASETS   0
+#
+#DATASET    O1915002 
+#DATE       20110928
+#REACTION   (1-H-2(8-O-20,P)8-O-21,PAR,DA,RSD)=(8-O-20(D,P)8-O-21,PAR,DA)
+#PROJ       1002
+#TARG       8020
+#MF         4
+#MT         600
+#PRODUCT    8-O-21
+#C4BEGIN    [ 1002  8020   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  8020   4 600  C 2.1000+7 400000.0 3.1891-3 6.7991-4 0.852435 0.016471 1210000.         LVLB.Fernandez-Dominguez+(11)O1915  2 
+ 1002  8020   4 600  C 2.1000+7 400000.0 2.6597-3 6.8675-4 0.882285 0.013473 1210000.         LVLB.Fernandez-Dominguez+(11)O1915  2 
+ 1002  8020   4 600  C 2.1000+7 400000.0 2.9254-3 6.2369-4 0.917121 0.019897 1210000.         LVLB.Fernandez-Dominguez+(11)O1915  2 
+ 1002  8020   4 600  C 2.1000+7 400000.0 2.2120-3 6.6694-4 0.949630 0.013127 1210000.         LVLB.Fernandez-Dominguez+(11)O1915  2 
+ 1002  8020   4 600  C 2.1000+7 400000.0 2.0508-3 9.1716-4 0.968401 6.4640-3 1210000.         LVLB.Fernandez-Dominguez+(11)O1915  2 
+ 1002  8020   4 600  C 2.1000+7 400000.0 3.7201-3 1.6637-3 0.978115 7.0450-3 1210000.         LVLB.Fernandez-Dominguez+(11)O1915  2 
+ 1002  8020   4 600  C 2.1000+7 400000.0 0.023534 2.9417-3 0.988579 6.0759-3 1210000.         LVLB.Fernandez-Dominguez+(11)O1915  2 
+ 1002  8020   4 600  C 2.1000+7 400000.0 0.030585 5.4933-3 0.996247 2.1753-3 1210000.         LVLB.Fernandez-Dominguez+(11)O1915  2 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      O1138
+#AUTHOR1    E.Wesolowski+
+#YEAR       1991
+#INSTITUTE  (3POLWWA)
+#TITLE      Neutron distribution differences of nickel isotopes.
+#AUTHOR(S)  E.Wesolowski, A.Saganek, E.Gierlik, V.Meyer, M.Sieminski, 
+#+          A.Turoweicki, Z.Wilhelmi
+#REF-CODE   (J,JP/G,17,955,1991)
+#REFERENCE  J.Phys.G 17 (1991) 955
+#DATASETS   0
+#
+#DATASET    O1138004 
+#DATE       20040414
+#REACTION   28-NI-64(D,P)28-NI-65,PAR,DA
+#PROJ       1002
+#TARG       28064
+#MF         4
+#MT         600
+#PRODUCT    28-NI-65
+#C4BEGIN    [ 1002 28064   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28064   4 600  C 2700000. 11000.00 1.0000-6 1.6000-8 0.521010          0.000000         LVLE.Wesolowski+        (91)O1138  4 
+ 1002 28064   4 600  C 2700000. 11000.00 5.4000-6          0.260505          0.000000         LVLE.Wesolowski+        (91)O1138  4 
+ 1002 28064   4 600  C 2700000. 11000.00 7.4000-6          0.017452          0.000000         LVLE.Wesolowski+        (91)O1138  4 
+ 1002 28064   4 600  C 2700000. 11000.00 6.8800-6         -0.240228          0.000000         LVLE.Wesolowski+        (91)O1138  4 
+ 1002 28064   4 600  C 2700000. 11000.00 1.0160-5         -0.498488          0.000000         LVLE.Wesolowski+        (91)O1138  4 
+ 1002 28064   4 600  C 2700000. 11000.00 7.5000-6 9.7500-8-0.689620          0.000000         LVLE.Wesolowski+        (91)O1138  4 
+ 1002 28064   4 600  C 2700000. 11000.00 7.0000-6 1.1900-7-0.856267          0.000000         LVLE.Wesolowski+        (91)O1138  4 
+ 1002 28064   4 600  C 2700000. 11000.00 8.0000-6 1.0400-7-0.958323          0.000000         LVLE.Wesolowski+        (91)O1138  4 
+#/DATA      8
+#/DATASET

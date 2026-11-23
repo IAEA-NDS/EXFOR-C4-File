@@ -1,0 +1,36 @@
+#ENTRY      O0567
+#AUTHOR1    Z.Lewandowski+
+#YEAR       1982
+#INSTITUTE  (2SWTBAS)
+#TITLE      Analyzing power in the continuum of (p,alpha+x) and
+#+          (p,He3+x) reactions on C-12, Al-27, Ni-58, Zr-90,
+#+          Bi-209 at E(p)=72 MeV.
+#AUTHOR(S)  Z.Lewandowski, E.Loeffler, R.Wagner, H.H.Mueller, W.Reichart, 
+#+          P.Schober
+#REF-CODE   (J,NP/A,389,247,1982)
+#REFERENCE  Nucl.Phys.A 389 (1982) 247
+#DATASETS   0
+#
+#DATASET    O0567002 
+#DATE       20190209
+#REACTION   13-AL-27(P,X)2-HE-4,,DA/DE
+#PROJ       1001
+#TARG       13027
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001 13027   6 207 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   6 207 CC 7.2000+7          2.739-10          0.962218          2.0000+7          E2Z.Lewandowski+       (82)O0567  2 
+ 1001 13027   6 207 CC 7.2000+7          3.179-10          0.918446          2.0000+7          E2Z.Lewandowski+       (82)O0567  2 
+ 1001 13027   6 207 CC 7.2000+7          2.545-10          0.834848          2.0000+7          E2Z.Lewandowski+       (82)O0567  2 
+ 1001 13027   6 207 CC 7.2000+7          2.655-10          0.695913          2.0000+7          E2Z.Lewandowski+       (82)O0567  2 
+ 1001 13027   6 207 CC 7.2000+7          1.844-10          0.566406          2.0000+7          E2Z.Lewandowski+       (82)O0567  2 
+ 1001 13027   6 207 CC 7.2000+7          1.592-10          0.381070          2.0000+7          E2Z.Lewandowski+       (82)O0567  2 
+ 1001 13027   6 207 CC 7.2000+7          1.128-10         -0.120137          2.0000+7          E2Z.Lewandowski+       (82)O0567  2 
+ 1001 13027   6 207 CC 7.2000+7          1.278-10         -0.466387          2.0000+7          E2Z.Lewandowski+       (82)O0567  2 
+ 1001 13027   6 207 CC 7.2000+7          1.115-10         -0.862514          2.0000+7          E2Z.Lewandowski+       (82)O0567  2 
+#/DATA      9
+#/DATASET

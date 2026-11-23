@@ -1,0 +1,30 @@
+#ENTRY      O1408
+#AUTHOR1    A.Caciolli+
+#YEAR       2006
+#INSTITUTE  (2ITYFIR)
+#TITLE      Measurements of gamma-ray emission induced by protons
+#+          on fluorine and lithium
+#AUTHOR(S)  A.Caciolli, M.Chiari, A.Climent-Font, M.T.Fernandez-Dominguez, 
+#+          G.Garcia-Lopez, F.Lucarelli, S.Nava, A.Zucchiatti
+#REF-CODE   (J,NIM/B,249,98,2006)
+#REFERENCE  Nucl.Instrum.Meth.B 249 (2006) 98
+#DATASETS   0
+#
+#DATASET    O1408004 
+#DATE       20070515
+#REACTION   9-F-19(P,INL)9-F-19,PAR,DA,G
+#PROJ       1001
+#TARG       9019
+#MF         14
+#MT         601
+#PRODUCT    9-F-19
+#C4BEGIN    [ 1001  9019  14 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  9019  14 601    4075000. 4075.000 6.0400-3         -0.707107          110000.0            A.Caciolli+          (06)O1408  4 
+ 1001  9019  14 601    4075000. 4075.000 0.019640         -0.707107          197000.0            A.Caciolli+          (06)O1408  4 
+ 1001  9019  14 601    4075000. 4075.000 1.7100-3         -0.707107          1240000.            A.Caciolli+          (06)O1408  4 
+ 1001  9019  14 601    4075000. 4075.000 8.5000-3         -0.707107          1360000.            A.Caciolli+          (06)O1408  4 
+#/DATA      4
+#/DATASET

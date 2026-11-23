@@ -1,0 +1,33 @@
+#ENTRY      O0289
+#AUTHOR1    F.E.Bertrand+
+#YEAR       1970
+#INSTITUTE  (1USAORL)
+#TITLE      Tabulated cross sections for hydrogen and helium
+#+          particles produced by 62 and 29 MeV protons on 120-Sn
+#AUTHOR(S)  F.E.Bertrand, R.W.Peelle
+#REF-CODE   (R,ORNL-4471,1970)
+#REFERENCE  Report ORNL-4471, 1970
+#DATASETS   0
+#
+#DATASET    O0289023 
+#DATE       20220105
+#REACTION   50-SN-120(P,X)2-HE-3,,DA/DE
+#PROJ       1001
+#TARG       50120
+#MF         6
+#MT         206
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001 50120   6 206  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50120   6 206    2.8800+7 100000.0 1.000-12         -0.573576          1.3930+7          E2F.E.Bertrand+        (70)O0289 23 
+ 1001 50120   6 206    2.8800+7 100000.0 2.000-12 1.000-12-0.573576          1.4930+7          E2F.E.Bertrand+        (70)O0289 23 
+ 1001 50120   6 206    2.8800+7 100000.0 2.000-12 1.000-12-0.573576          1.5940+7          E2F.E.Bertrand+        (70)O0289 23 
+ 1001 50120   6 206    2.8800+7 100000.0 0.000000         -0.573576          1.6940+7          E2F.E.Bertrand+        (70)O0289 23 
+ 1001 50120   6 206    2.8800+7 100000.0 0.000000         -0.573576          1.7940+7          E2F.E.Bertrand+        (70)O0289 23 
+ 1001 50120   6 206    2.8800+7 100000.0 0.000000         -0.573576          1.8950+7          E2F.E.Bertrand+        (70)O0289 23 
+ 1001 50120   6 206    2.8800+7 100000.0 0.000000         -0.573576          1.9950+7          E2F.E.Bertrand+        (70)O0289 23 
+ 1001 50120   6 206    2.8800+7 100000.0 0.000000         -0.573576          2.0950+7          E2F.E.Bertrand+        (70)O0289 23 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      O1147
+#AUTHOR1    J.Vernotte+
+#YEAR       1994
+#INSTITUTE  (2FR PAR)
+#TITLE      Si-29(d,He3)Al-28 reaction at 29-MeV.
+#AUTHOR(S)  J.Vernotte, G.Berrier-Ronsin, S.Fortier, E.Hourani, J.Kalifa, 
+#+          A.Khendriche, J.M.Maison, L.H.Rosier, G.Rotbard
+#REF-CODE   (J,PR/C,49,1559,1994)
+#REFERENCE  Phys.Rev.C 49 (1994) 1559
+#DATASETS   0
+#
+#DATASET    O1147004 
+#DATE       20040416
+#REACTION   14-SI-29(D,HE3)13-AL-28,PAR,DA
+#PROJ       1002
+#TARG       14029
+#MF         4
+#MT         750
+#PRODUCT    13-AL-28
+#C4BEGIN    [ 1002 14029   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 14029   4 750  C 2.9000+7          9.0300-5          0.994430          1620000. 5000.000LVLJ.Vernotte+          (94)O1147  4 
+ 1002 14029   4 750  C 2.9000+7          9.6000-5          0.986996          1620000. 5000.000LVLJ.Vernotte+          (94)O1147  4 
+ 1002 14029   4 750  C 2.9000+7          1.4300-4          0.969360          1620000. 5000.000LVLJ.Vernotte+          (94)O1147  4 
+ 1002 14029   4 750  C 2.9000+7          1.3300-4          0.948324          1620000. 5000.000LVLJ.Vernotte+          (94)O1147  4 
+ 1002 14029   4 750  C 2.9000+7          6.7700-5          0.922066          1620000. 5000.000LVLJ.Vernotte+          (94)O1147  4 
+ 1002 14029   4 750  C 2.9000+7          2.0600-5          0.887815          1620000. 5000.000LVLJ.Vernotte+          (94)O1147  4 
+ 1002 14029   4 750  C 2.9000+7          2.0500-5          0.851086          1620000. 5000.000LVLJ.Vernotte+          (94)O1147  4 
+ 1002 14029   4 750  C 2.9000+7          3.8100-5          0.804168          1620000. 5000.000LVLJ.Vernotte+          (94)O1147  4 
+ 1002 14029   4 750  C 2.9000+7          3.1000-5          0.757679          1620000. 5000.000LVLJ.Vernotte+          (94)O1147  4 
+ 1002 14029   4 750  C 2.9000+7          1.8900-5          0.706983          1620000. 5000.000LVLJ.Vernotte+          (94)O1147  4 
+#/DATA      10
+#/DATASET

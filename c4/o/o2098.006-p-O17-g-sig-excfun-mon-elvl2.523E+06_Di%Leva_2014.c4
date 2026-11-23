@@ -1,0 +1,40 @@
+#ENTRY      O2098
+#AUTHOR1    A.Di Leva+
+#YEAR       2014
+#INSTITUTE  (2ITYNAP)
+#TITLE      Underground study of the 17O(p,gamma)18F reaction
+#+          relevant for explosive hydrogen burning.
+#AUTHOR(S)  A.Di Leva, D.A.Scott, A.Caciolli, A.Formicola, F.Strieder, 
+#+          M.Aliotta, M.Anders, D.Bemmerer, C.Broggini, P.Corvisiero, 
+#+          Z.Elekes, Zs.Fueloep, G.Gervino, A.Guglielmetti, C.Gustavino, 
+#+          Gy.Gyuerky, G.Imbriani, J.Jose, M.Junker, M.Laubenstein, 
+#+          R.Menegazzo, E.Napolitani, P.Prati, V.Rigato, V.Roca, E.Somorjai, 
+#+          C.Salvo, O.Straniero, T.Szuecs, F.Terrasi, D.Trezzi, Luna Collaboration
+#REF-CODE   (J,PR/C,89,015803,2014)
+#REFERENCE  Phys.Rev.C 89 (2014) 015803
+#DATASETS   0
+#
+#DATASET    O2098006 
+#DATE       20141022
+#REACTION   8-O-17(P,G)9-F-18,PAR,SIG,,SFC
+#PROJ       1001
+#TARG       8017
+#MF         3
+#MT         900
+#PRODUCT    9-F-18
+#C4BEGIN    [ 1001  8017   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8017   3 900    213977.2          4.965-11 1.712-11                   2523000.         LVLA.Di Leva+           (14)O2098  6 
+ 1001  8017   3 900    222451.6          6.646-11 4.354-11                   2523000.         LVLA.Di Leva+           (14)O2098  6 
+ 1001  8017   3 900    241519.0          6.658-11 3.329-11                   2523000.         LVLA.Di Leva+           (14)O2098  6 
+ 1001  8017   3 900    252112.0          1.517-10 3.934-11                   2523000.         LVLA.Di Leva+           (14)O2098  6 
+ 1001  8017   3 900    264823.6          1.493-10 3.929-11                   2523000.         LVLA.Di Leva+           (14)O2098  6 
+ 1001  8017   3 900    273298.1          1.842-10 6.785-11                   2523000.         LVLA.Di Leva+           (14)O2098  6 
+ 1001  8017   3 900    290246.9          1.289-10 7.161-11                   2523000.         LVLA.Di Leva+           (14)O2098  6 
+ 1001  8017   3 900    318848.2          9.238-10 2.566-10                   2523000.         LVLA.Di Leva+           (14)O2098  6 
+ 1001  8017   3 900    380288.0          3.1727-9 6.345-10                   2523000.         LVLA.Di Leva+           (14)O2098  6 
+ 1001  8017   3 900    391940.4          4.2316-9 7.467-10                   2523000.         LVLA.Di Leva+           (14)O2098  6 
+#/DATA      10
+#/DATASET

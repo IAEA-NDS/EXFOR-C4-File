@@ -1,0 +1,29 @@
+#ENTRY      O0877
+#AUTHOR1    Huan-Sheng Cheng+
+#YEAR       1993
+#INSTITUTE  (3CPRFUD)
+#TITLE      Cross section for 170 degrees backscattering of He-4
+#+          from oxygen in the energy range of 2.0-9.0 MeV.
+#AUTHOR(S)  Huan-Sheng Cheng, Hao Shen, Jiayong Tang, Fujia Yang
+#REF-CODE   (J,NIM/B,83,449,1993)
+#REFERENCE  Nucl.Instrum.Meth.B 83 (1993) 449
+#DATASETS   0
+#
+#DATASET    O0877003 
+#DATE       20090504
+#REACTION   8-O-16(A,EL)8-O-16,,DA,,RTH
+#PROJ       2004
+#TARG       8016
+#MF         4
+#MT         2
+#PRODUCT    8-O-16
+#C4BEGIN    [ 2004  8016   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  8016   4   2    8700000.          0.094810 2.8855-3-0.939693                              Huan-Sheng Cheng+    (93)O0877  3 
+ 2004  8016   4   2    8700000.          0.111999 3.2000-3-0.965926                              Huan-Sheng Cheng+    (93)O0877  3 
+ 2004  8016   4   2    8700000.          0.128022 3.9151-3-0.984808                              Huan-Sheng Cheng+    (93)O0877  3 
+ 2004  8016   4   2    8700000.          0.147257 3.8650-3-0.996195                              Huan-Sheng Cheng+    (93)O0877  3 
+#/DATA      4
+#/DATASET

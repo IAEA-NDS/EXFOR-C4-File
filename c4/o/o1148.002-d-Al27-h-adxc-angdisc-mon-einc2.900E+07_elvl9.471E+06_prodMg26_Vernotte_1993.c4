@@ -1,0 +1,35 @@
+#ENTRY      O1148
+#AUTHOR1    J.Vernotte+
+#YEAR       1993
+#INSTITUTE  (2FR PAR)
+#TITLE      Al-27(d,He3)Mg-26 reaction at 29-MeV.
+#AUTHOR(S)  J.Vernotte, G.Berrier-Ronsin, S.Fortier, E.Hourani, J.Kalifa, 
+#+          J.M.Maison, L.H.Rosier, G.Rotbard, B.H.Wildenthal
+#REF-CODE   (J,PR/C,48,205,1993)
+#REFERENCE  Phys.Rev.C 48 (1993) 205
+#DATASETS   0
+#
+#DATASET    O1148002 
+#DATE       20040411
+#REACTION   13-AL-27(D,HE3)12-MG-26,PAR,DA
+#PROJ       1002
+#TARG       13027
+#MF         4
+#MT         750
+#PRODUCT    12-MG-26
+#C4BEGIN    [ 1002 13027   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 13027   4 750  C 2.9000+7          1.2900-5          0.996345          9471000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          1.7700-5          0.985850          9471000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          2.5100-5          0.971549          9471000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          2.4000-5          0.949151          9471000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          1.4300-5          0.921863          9471000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          1.0900-5          0.888136          9471000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          1.2700-5          0.850811          9471000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          8.9000-6          0.812084          9471000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          5.5900-6          0.761538          9471000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          5.0500-6          0.704634          9471000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+#/DATA      10
+#/DATASET

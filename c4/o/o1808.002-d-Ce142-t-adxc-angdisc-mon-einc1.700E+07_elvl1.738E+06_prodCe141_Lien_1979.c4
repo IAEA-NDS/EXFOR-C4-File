@@ -1,0 +1,38 @@
+#ENTRY      O1808
+#AUTHOR1    J.R.Lien+
+#YEAR       1979
+#INSTITUTE  (2NORBGN)
+#TITLE      Studies of single-neutron holes in the transitional
+#+          nuclei N=83-89-The Ce-142(d,t)Ce-141 and
+#+          Ce-142(He3,a)Ce-141 pick-up reactions.
+#AUTHOR(S)  J.R.Lien, G.Loevhoeiden, K.Aareskjold, S.El-Kazzaz, C.Ellegaard, 
+#+          K.Heyde, M.Waroquier, P.Van Isacker, H.Vincx, J.Rekstad, 
+#+          P.Kleinheinz
+#REF-CODE   (J,NP/A,324,141,1979)
+#REFERENCE  Nucl.Phys.A 324 (1979) 141
+#DATASETS   0
+#
+#DATASET    O1808002 
+#DATE       20091225
+#REACTION   58-CE-142(D,T)58-CE-141,PAR,DA
+#PROJ       1002
+#TARG       58142
+#MF         4
+#MT         700
+#PRODUCT    58-CE-141
+#C4BEGIN    [ 1002 58142   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 58142   4 700  C 1.7000+7 7500.000 8.6000-6 1.8060-6 0.972370          1738000. 9000.000LVLJ.R.Lien+            (79)O1808  2 
+ 1002 58142   4 700  C 1.7000+7 7500.000 1.7200-5 2.2360-6 0.945519          1738000. 9000.000LVLJ.R.Lien+            (79)O1808  2 
+ 1002 58142   4 700  C 1.7000+7 7500.000 2.7000-5 2.9700-6 0.912834          1738000. 9000.000LVLJ.R.Lien+            (79)O1808  2 
+ 1002 58142   4 700  C 1.7000+7 7500.000 1.8900-5 2.6460-6 0.877983          1738000. 9000.000LVLJ.R.Lien+            (79)O1808  2 
+ 1002 58142   4 700  C 1.7000+7 7500.000 9.6000-6 1.7280-6 0.830012          1738000. 9000.000LVLJ.R.Lien+            (79)O1808  2 
+ 1002 58142   4 700  C 1.7000+7 7500.000 1.1300-5 1.4690-6 0.779338          1738000. 9000.000LVLJ.R.Lien+            (79)O1808  2 
+ 1002 58142   4 700  C 1.7000+7 7500.000 1.5500-5 2.0150-6 0.719340          1738000. 9000.000LVLJ.R.Lien+            (79)O1808  2 
+ 1002 58142   4 700  C 1.7000+7 7500.000 3.4000-6 8.1600-7 0.665230          1738000. 9000.000LVLJ.R.Lien+            (79)O1808  2 
+ 1002 58142   4 700  C 1.7000+7 7500.000 7.9000-6 1.5800-6 0.593419          1738000. 9000.000LVLJ.R.Lien+            (79)O1808  2 
+ 1002 58142   4 700  C 1.7000+7 7500.000 1.7200-6 1.7200-7 0.312335          1738000. 9000.000LVLJ.R.Lien+            (79)O1808  2 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      O1158
+#AUTHOR1    F.Guilbaut+
+#YEAR       1977
+#INSTITUTE  (2FR FR)
+#TITLE      Levels of Ge-68 excited by the (p,t) reaction.
+#AUTHOR(S)  F.Guilbaut, D.Ardouin, R.Tamisier, P.Avignon, M.Vergnes, 
+#+          G.Rotbard, G.Berrier, R.Seltz
+#REF-CODE   (J,PR/C,15,894,1977)
+#REFERENCE  Phys.Rev.C 15 (1977) 894
+#DATASETS   0
+#
+#DATASET    O1158002 
+#DATE       20040425
+#REACTION   32-GE-70(P,T)32-GE-68,PAR,DA
+#PROJ       1001
+#TARG       32070
+#MF         4
+#MT         700
+#PRODUCT    32-GE-68
+#C4BEGIN    [ 1001 32070   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 32070   4 700  C 2.6000+7 5000.000 6.3400-6          0.997755          4878000.         LVLF.Guilbaut+          (77)O1158  2 
+ 1001 32070   4 700  C 2.6000+7 5000.000 4.9500-6          0.987024          4878000.         LVLF.Guilbaut+          (77)O1158  2 
+ 1001 32070   4 700  C 2.6000+7 5000.000 4.9100-6 1.9640-7 0.964557          4878000.         LVLF.Guilbaut+          (77)O1158  2 
+ 1001 32070   4 700  C 2.6000+7 5000.000 2.2300-6 2.0070-7 0.937282          4878000.         LVLF.Guilbaut+          (77)O1158  2 
+ 1001 32070   4 700  C 2.6000+7 5000.000 3.8600-6 2.7020-7 0.902510          4878000.         LVLF.Guilbaut+          (77)O1158  2 
+ 1001 32070   4 700  C 2.6000+7 5000.000 3.6000-6 3.9600-7 0.865064          4878000.         LVLF.Guilbaut+          (77)O1158  2 
+ 1001 32070   4 700  C 2.6000+7 5000.000 2.2100-6 2.4310-7 0.814521          4878000.         LVLF.Guilbaut+          (77)O1158  2 
+ 1001 32070   4 700  C 2.6000+7 5000.000 2.4600-6 2.4600-7 0.753219          4878000.         LVLF.Guilbaut+          (77)O1158  2 
+#/DATA      8
+#/DATASET

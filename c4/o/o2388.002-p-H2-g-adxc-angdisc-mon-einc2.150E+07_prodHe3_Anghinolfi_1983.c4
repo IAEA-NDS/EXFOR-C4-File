@@ -1,0 +1,32 @@
+#ENTRY      O2388
+#AUTHOR1    M.Anghinolfi+
+#YEAR       1983
+#INSTITUTE  (2ITYGVA)
+#TITLE      Two-body photodisintegration of 3He*
+#AUTHOR(S)  M.Anghinolfi, P.Corvisiero, M.Guarnone, G.Ricco, A.Zucchiatti
+#REF-CODE   (J,NP/A,410,173,1983)
+#REFERENCE  Nucl.Phys.A 410 (1983) 173
+#DATASETS   0
+#
+#DATASET    O2388002 
+#DATE       20210724
+#REACTION   1-H-2(P,G)2-HE-3,,DA
+#PROJ       1001
+#TARG       1002
+#MF         4
+#MT         102
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  1002   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   4 102  C 2.1500+7          4.1190-7 2.1100-8 0.813101                              M.Anghinolfi+        (83)O2388  2 
+ 1001  1002   4 102  C 2.1500+7          5.5350-7 2.1100-8 0.679441                              M.Anghinolfi+        (83)O2388  2 
+ 1001  1002   4 102  C 2.1500+7          7.2380-7 1.9200-8 0.467930                              M.Anghinolfi+        (83)O2388  2 
+ 1001  1002   4 102  C 2.1500+7          7.7350-7 1.9200-8 0.199368                              M.Anghinolfi+        (83)O2388  2 
+ 1001  1002   4 102  C 2.1500+7          6.7760-7 2.1100-8-0.076719                              M.Anghinolfi+        (83)O2388  2 
+ 1001  1002   4 102  C 2.1500+7          4.4190-7 2.3000-8-0.483282                              M.Anghinolfi+        (83)O2388  2 
+ 1001  1002   4 102  C 2.1500+7          3.0590-7 1.7200-8-0.615661                              M.Anghinolfi+        (83)O2388  2 
+ 1001  1002   4 102  C 2.1500+7          2.1390-7 1.5300-8-0.750111                              M.Anghinolfi+        (83)O2388  2 
+#/DATA      8
+#/DATASET

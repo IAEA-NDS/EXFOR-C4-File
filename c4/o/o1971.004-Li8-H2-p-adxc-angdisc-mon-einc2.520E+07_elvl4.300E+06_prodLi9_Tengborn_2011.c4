@@ -1,0 +1,39 @@
+#ENTRY      O1971
+#AUTHOR1    E.Tengborn+
+#YEAR       2011
+#INSTITUTE  (2SWDCTH)
+#TITLE      The 8Li + 2H reaction studied in inverse kinematics at
+#+          3.15 MeV/nucleon using the REX-ISOLDE post-accelerator.
+#AUTHOR(S)  E.Tengborn, A.M.Moro, T.Nilsson, M.Alcorta, M.J.G.Borge, 
+#+          J.Cederkaell, C.Diget, L.M.Fraile, H.O.U.Fynbo, J.Gomez-Camacho, 
+#+          H.B.Jeppesen, H.T.Johansson, B.Jonson, O.S.Kirsebom, H.H.Knudsen, 
+#+          M.Madurga, G.Nyman, A.Richter, K.Riisager, G.Schrieder, 
+#+          O.Tengblad, N.Timofeyuk, M.Turrion, D.Voulot, F.Wenander
+#REF-CODE   (J,PR/C,84,064616,2011)
+#REFERENCE  Phys.Rev.C 84 (2011) 064616
+#DATASETS   0
+#
+#DATASET    O1971004 
+#DATE       20120306
+#REACTION   1-H-2(3-LI-8,P)3-LI-9,PAR,DA
+#PROJ       3008
+#TARG       1002
+#MF         4
+#MT         600
+#PRODUCT    3-LI-9
+#C4BEGIN    [ 3008  1002   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3008  1002   4 600  C 2.5200+7          3.2592-3 3.7725-4 0.221365 0.063045 4300000.         LVLE.Tengborn+          (11)O1971  4 
+ 3008  1002   4 600  C 2.5200+7          4.3123-3 3.9930-4 0.100159 0.064572 4300000.         LVLE.Tengborn+          (11)O1971  4 
+ 3008  1002   4 600  C 2.5200+7          4.7472-3 4.0094-4-0.024462 0.065089 4300000.         LVLE.Tengborn+          (11)O1971  4 
+ 3008  1002   4 600  C 2.5200+7          5.3001-3 4.3234-4-0.150227 0.064546 4300000.         LVLE.Tengborn+          (11)O1971  4 
+ 3008  1002   4 600  C 2.5200+7          4.7664-3 4.3617-4-0.274798 0.062919 4300000.         LVLE.Tengborn+          (11)O1971  4 
+ 3008  1002   4 600  C 2.5200+7          5.8845-3 4.6869-4-0.395834 0.060212 4300000.         LVLE.Tengborn+          (11)O1971  4 
+ 3008  1002   4 600  C 2.5200+7          5.2659-3 4.8420-4-0.511053 0.056451 4300000.         LVLE.Tengborn+          (11)O1971  4 
+ 3008  1002   4 600  C 2.5200+7          4.6524-3 5.4199-4-0.618258 0.051690 4300000.         LVLE.Tengborn+          (11)O1971  4 
+ 3008  1002   4 600  C 2.5200+7          4.6018-3 6.7466-4-0.715388 0.046005 4300000.         LVLE.Tengborn+          (11)O1971  4 
+ 3008  1002   4 600  C 2.5200+7          4.0685-3 7.4436-4-0.800575 0.039490 4300000.         LVLE.Tengborn+          (11)O1971  4 
+#/DATA      10
+#/DATASET

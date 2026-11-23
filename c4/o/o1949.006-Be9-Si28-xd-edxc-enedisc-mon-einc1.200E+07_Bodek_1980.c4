@@ -1,0 +1,30 @@
+#ENTRY      O1949
+#AUTHOR1    K.Bodek+
+#YEAR       1980
+#INSTITUTE  (2SWTETH)
+#TITLE      The energy dependence of fusion in the Be-9+Si-28
+#+          system.
+#AUTHOR(S)  K.Bodek, M.Hugi, J.Lang, R.Mueller, E.Ungricht, K.Jankowski, 
+#+          W.Zipper, L.Jarczyk, A.Strzalkowski, G.Willim, H.Witala
+#REF-CODE   (J,NP/A,339,353,1980)
+#REFERENCE  Nucl.Phys.A 339 (1980) 353
+#DATASETS   0
+#
+#DATASET    O1949006 
+#DATE       20120124
+#REACTION   14-SI-28(4-BE-9,X)1-H-2,,DE
+#PROJ       4009
+#TARG       14028
+#MF         5
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [ 4009 14028   5 204 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4009 14028   5 204 DC 1.2000+7          6.117-10 9.200-11                   5015000.          E2K.Bodek+             (80)O1949  6 
+ 4009 14028   5 204 DC 1.2000+7          4.885-10 9.630-11                   6021000.          E2K.Bodek+             (80)O1949  6 
+ 4009 14028   5 204 DC 1.2000+7          2.517-10 6.190-11                   6962000.          E2K.Bodek+             (80)O1949  6 
+ 4009 14028   5 204 DC 1.2000+7          2.222-10 7.150-11                   7879000.          E2K.Bodek+             (80)O1949  6 
+#/DATA      4
+#/DATASET

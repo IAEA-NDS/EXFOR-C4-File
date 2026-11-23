@@ -1,0 +1,35 @@
+#ENTRY      O0933
+#AUTHOR1    P.Guazzoni+
+#YEAR       1994
+#INSTITUTE  (2ITYMIL)
+#TITLE      Pb-206 states homologous to the 1.484 MeV, 11/2- state
+#+          of Tl-205.
+#AUTHOR(S)  P.Guazzoni, M.Jaskola, L.Zetta, G.Graw, R.Hertenberger, 
+#+          D.Hofer, P.Schiemenz, U.Atzrott, R.Neu, G.Staudt
+#REF-CODE   (J,PR/C,49,2784,1994)
+#REFERENCE  Phys.Rev.C 49 (1994) 2784
+#DATASETS   0
+#
+#DATASET    O0933002 
+#DATE       20120606
+#REACTION   83-BI-209(P,A)82-PB-206,PAR,DA
+#PROJ       1001
+#TARG       83209
+#MF         4
+#MT         800
+#PRODUCT    82-PB-206
+#C4BEGIN    [ 1001 83209   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 83209   4 800  C 2.2000+7 12000.00 6.3000-6 8.8200-7 0.986429          5078000.         LVLP.Guazzoni+          (94)O0933  2 
+ 1001 83209   4 800  C 2.2000+7 12000.00 3.8000-6 6.8400-7 0.967312          5078000.         LVLP.Guazzoni+          (94)O0933  2 
+ 1001 83209   4 800  C 2.2000+7 12000.00 3.1000-6 5.8900-7 0.942874          5078000.         LVLP.Guazzoni+          (94)O0933  2 
+ 1001 83209   4 800  C 2.2000+7 12000.00 2.6000-6 4.9400-7 0.908727          5078000.         LVLP.Guazzoni+          (94)O0933  2 
+ 1001 83209   4 800  C 2.2000+7 12000.00 2.5400-6 2.7940-7 0.865851          5078000.         LVLP.Guazzoni+          (94)O0933  2 
+ 1001 83209   4 800  C 2.2000+7 12000.00 2.9200-6 2.9200-7 0.817145          5078000.         LVLP.Guazzoni+          (94)O0933  2 
+ 1001 83209   4 800  C 2.2000+7 12000.00 2.2000-6 2.2000-7 0.761199          5078000.         LVLP.Guazzoni+          (94)O0933  2 
+ 1001 83209   4 800  C 2.2000+7 12000.00 1.7300-6 2.7680-7 0.711903          5078000.         LVLP.Guazzoni+          (94)O0933  2 
+ 1001 83209   4 800  C 2.2000+7 12000.00 1.4300-6 2.2880-7 0.645191          5078000.         LVLP.Guazzoni+          (94)O0933  2 
+#/DATA      9
+#/DATASET

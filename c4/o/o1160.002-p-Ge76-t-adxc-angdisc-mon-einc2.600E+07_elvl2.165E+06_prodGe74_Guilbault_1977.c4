@@ -1,0 +1,37 @@
+#ENTRY      O1160
+#AUTHOR1    F.Guilbault+
+#YEAR       1977
+#INSTITUTE  (2FR NTE)
+#TITLE      Levels of Ge-70,72,74 excited by the (p,t) reaction.
+#AUTHOR(S)  F.Guilbault, D.Ardouin, J.Uzureau, P.Avignon, R.Tamisier, 
+#+          G.Rotbard, M.Vergnes, Y.Deschamps, G.Berrier, R.Seltz
+#REF-CODE   (J,PR/C,16,1840,1977)
+#REFERENCE  Phys.Rev.C 16 (1977) 1840
+#DATASETS   0
+#
+#DATASET    O1160002 
+#DATE       20220223
+#REACTION   32-GE-76(P,T)32-GE-74,PAR,DA
+#PROJ       1001
+#TARG       32076
+#MF         4
+#MT         700
+#PRODUCT    32-GE-74
+#C4BEGIN    [ 1001 32076   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 32076   4 700  C 2.6000+7 5000.000 8.6200-6 1.8102-7 0.992966          2165000.         LVLF.Guilbault+         (77)O1160  2 
+ 1001 32076   4 700  C 2.6000+7 5000.000 6.7200-6 1.4112-7 0.979575          2165000.         LVLF.Guilbault+         (77)O1160  2 
+ 1001 32076   4 700  C 2.6000+7 5000.000 5.9300-6 1.1860-7 0.958820          2165000.         LVLF.Guilbault+         (77)O1160  2 
+ 1001 32076   4 700  C 2.6000+7 5000.000 5.9200-6 1.1840-7 0.927836          2165000.         LVLF.Guilbault+         (77)O1160  2 
+ 1001 32076   4 700  C 2.6000+7 5000.000 5.4800-6 1.0960-7 0.896486          2165000.         LVLF.Guilbault+         (77)O1160  2 
+ 1001 32076   4 700  C 2.6000+7 5000.000 7.1200-6 1.5664-7 0.842452          2165000.         LVLF.Guilbault+         (77)O1160  2 
+ 1001 32076   4 700  C 2.6000+7 5000.000 7.6800-6 1.6128-7 0.796530          2165000.         LVLF.Guilbault+         (77)O1160  2 
+ 1001 32076   4 700  C 2.6000+7 5000.000 5.2900-6 1.2167-7 0.730162          2165000.         LVLF.Guilbault+         (77)O1160  2 
+ 1001 32076   4 700  C 2.6000+7 5000.000 2.6700-6 2.4030-7 0.673013          2165000.         LVLF.Guilbault+         (77)O1160  2 
+ 1001 32076   4 700  C 2.6000+7 5000.000 1.3900-6 1.9460-7 0.600420          2165000.         LVLF.Guilbault+         (77)O1160  2 
+ 1001 32076   4 700  C 2.6000+7 5000.000 1.2300-6 1.5990-7 0.529919          2165000.         LVLF.Guilbault+         (77)O1160  2 
+ 1001 32076   4 700  C 2.6000+7 5000.000 1.3500-6 2.1600-7 0.452435          2165000.         LVLF.Guilbault+         (77)O1160  2 
+#/DATA      12
+#/DATASET

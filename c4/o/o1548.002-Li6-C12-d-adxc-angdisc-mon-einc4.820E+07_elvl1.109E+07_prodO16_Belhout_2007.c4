@@ -1,0 +1,38 @@
+#ENTRY      O1548
+#AUTHOR1    A.Belhout+
+#YEAR       2007
+#INSTITUTE  (3ALGUHB)
+#TITLE      Measurement and DWBA analysis of the C-12(Li-6,d)O-16
+#+          alpha-transfer reaction cross sections at 48.2 MeV.
+#+          R-matrix analysis of C-12(alpha,gamma)O-16 direct
+#+          capture reaction data.
+#AUTHOR(S)  A.Belhout, S.Ouichaoui, H.Beaumevieille, A.Boughrara, S.Fortier, 
+#+          J.Kiener, J.M.Maison, S.K.Mehdi, L.Rosier, J.P.Thibaud, 
+#+          A.Trabelsi, J.Vernotte
+#REF-CODE   (J,NP/A,793,178,2007)
+#REFERENCE  Nucl.Phys.A 793 (2007) 178
+#DATASETS   0
+#
+#DATASET    O1548002 
+#DATE       20200207
+#REACTION   6-C-12(3-LI-6,D)8-O-16,PAR,DA
+#PROJ       3006
+#TARG       6012
+#MF         4
+#MT         650
+#PRODUCT    8-O-16
+#C4BEGIN    [ 3006  6012   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006  6012   4 650  C 4.8200+7 55000.00 6.6000-5 7.9200-6 0.994151 2.4504-3 1.1090+7         LVLA.Belhout+           (07)O1548  2 
+ 3006  6012   4 650  C 4.8200+7 55000.00 4.2000-5 1.6800-5 0.975535 4.9882-3 1.1090+7         LVLA.Belhout+           (07)O1548  2 
+ 3006  6012   4 650  C 4.8200+7 55000.00 4.5000-5 5.4000-6 0.945519 7.3869-3 1.1090+7         LVLA.Belhout+           (07)O1548  2 
+ 3006  6012   4 650  C 4.8200+7 55000.00 5.6000-5 7.8400-6 0.904083 9.6964-3 1.1090+7         LVLA.Belhout+           (07)O1548  2 
+ 3006  6012   4 650  C 4.8200+7 55000.00 5.3000-5 7.9500-6 0.850811 0.011923 1.1090+7         LVLA.Belhout+           (07)O1548  2 
+ 3006  6012   4 650  C 4.8200+7 55000.00 4.6000-5 6.9000-6 0.790155 0.013906 1.1090+7         LVLA.Belhout+           (07)O1548  2 
+ 3006  6012   4 650  C 4.8200+7 55000.00 4.0000-5 6.0000-6 0.718126 0.015790 1.1090+7         LVLA.Belhout+           (07)O1548  2 
+ 3006  6012   4 650  C 4.8200+7 55000.00 6.7000-5          0.641450 0.017406 1.1090+7         LVLA.Belhout+           (07)O1548  2 
+ 3006  6012   4 650  C 4.8200+7 55000.00 6.4000-5          0.278991 0.021788 1.1090+7         LVLA.Belhout+           (07)O1548  2 
+#/DATA      9
+#/DATASET

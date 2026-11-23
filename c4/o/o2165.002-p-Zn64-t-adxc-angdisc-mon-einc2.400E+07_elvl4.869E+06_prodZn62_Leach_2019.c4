@@ -1,0 +1,36 @@
+#ENTRY      O2165
+#AUTHOR1    K.G.Leach+
+#YEAR       2019
+#INSTITUTE  (1USACSM)
+#TITLE      High-resolution (p,t) reaction measurements as
+#+          spectroscopic tests of ab-initio theory in the mid-pf
+#+          shell
+#AUTHOR(S)  K.G.Leach, J.D.Holt, P.E.Garrett, S.R.Stroberg, G.C.Ball, 
+#+          P.C.Bender, V.Bildstein, A.Diaz Varela, R.Dunlop, T.Faestermann, 
+#+          B.Hadinia, R.Hertenberger, D.S.Jamieson, B.Jigmeddorj, R.Krucken, 
+#+          A.T.Laffoley, A.J.Radich, E.T.Rand, C.E.Svensson, S.Triambak, 
+#+          H.-F.Wirth
+#REF-CODE   (J,PR/C,100,014320,2019)
+#REFERENCE  Phys.Rev.C 100 (2019) 014320
+#DATASETS   0
+#
+#DATASET    O2165002 
+#DATE       20210906
+#REACTION   30-ZN-64(P,T)30-ZN-62,PAR,DA
+#PROJ       1001
+#TARG       30064
+#MF         4
+#MT         700
+#PRODUCT    30-ZN-62
+#C4BEGIN    [ 1001 30064   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30064   4 700  C 2.4000+7          9.2914-7 1.9026-7 0.984321          4869000.         LVLK.G.Leach+           (19)O2165  2 
+ 1001 30064   4 700  C 2.4000+7          7.1172-7 1.7878-7 0.903432          4869000.         LVLK.G.Leach+           (19)O2165  2 
+ 1001 30064   4 700  C 2.4000+7          7.1055-7 2.2341-7 0.862004          4869000.         LVLK.G.Leach+           (19)O2165  2 
+ 1001 30064   4 700  C 2.4000+7          1.6282-6 1.8405-7 0.711606          4869000.         LVLK.G.Leach+           (19)O2165  2 
+ 1001 30064   4 700  C 2.4000+7          1.4381-6 1.9236-7 0.619662          4869000.         LVLK.G.Leach+           (19)O2165  2 
+ 1001 30064   4 700  C 2.4000+7          2.1722-6 1.5580-7 0.518445          4869000.         LVLK.G.Leach+           (19)O2165  2 
+#/DATA      6
+#/DATASET

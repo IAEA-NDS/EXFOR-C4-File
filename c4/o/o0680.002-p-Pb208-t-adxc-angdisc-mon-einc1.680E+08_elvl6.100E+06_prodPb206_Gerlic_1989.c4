@@ -1,0 +1,34 @@
+#ENTRY      O0680
+#AUTHOR1    E.Gerlic+
+#YEAR       1989
+#INSTITUTE  (2FR PAR)
+#TITLE      Stretched high-spin two-neutron-hole states in Pb-206
+#+          and Sn-114 via the (p,t) reaction at 168 MeV
+#AUTHOR(S)  E.Gerlic, J.Guillot, H.Langevin-Joliot, J.Van de Weile, 
+#+          S.Gales, G.Duhamel, G.Perrin, C.P.Massolo, M.Sakai
+#REF-CODE   (J,PR/C,39,2190,1989)
+#REFERENCE  Phys.Rev.C 39 (1989) 2190
+#DATASETS   0
+#
+#DATASET    O0680002 
+#DATE       20160715
+#REACTION   82-PB-208(P,T)82-PB-206,PAR,DA
+#PROJ       1001
+#TARG       82208
+#MF         4
+#MT         700
+#PRODUCT    82-PB-206
+#C4BEGIN    [ 1001 82208   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   4 700  C 1.6800+8 130000.0 9.7000-6 1.0670-6 0.999316          6100000.         LVLE.Gerlic+            (89)O0680  2 
+ 1001 82208   4 700  C 1.6800+8 130000.0 8.6000-6 8.6000-7 0.995979          6100000.         LVLE.Gerlic+            (89)O0680  2 
+ 1001 82208   4 700  C 1.6800+8 130000.0 7.3000-6 8.0300-7 0.992049          6100000.         LVLE.Gerlic+            (89)O0680  2 
+ 1001 82208   4 700  C 1.6800+8 130000.0 5.2000-6 6.2400-7 0.989016          6100000.         LVLE.Gerlic+            (89)O0680  2 
+ 1001 82208   4 700  C 1.6800+8 130000.0 4.5000-6 4.9500-7 0.984010          6100000.         LVLE.Gerlic+            (89)O0680  2 
+ 1001 82208   4 700  C 1.6800+8 130000.0 2.9400-6 2.9400-7 0.977490          6100000.         LVLE.Gerlic+            (89)O0680  2 
+ 1001 82208   4 700  C 1.6800+8 130000.0 1.2400-6 2.3560-7 0.964003          6100000.         LVLE.Gerlic+            (89)O0680  2 
+ 1001 82208   4 700  C 1.6800+8 130000.0 7.0000-7 1.8200-7 0.949041          6100000.         LVLE.Gerlic+            (89)O0680  2 
+#/DATA      8
+#/DATASET

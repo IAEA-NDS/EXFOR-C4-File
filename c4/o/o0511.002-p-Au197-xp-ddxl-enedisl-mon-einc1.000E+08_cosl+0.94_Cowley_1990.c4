@@ -1,0 +1,32 @@
+#ENTRY      O0511
+#AUTHOR1    A.A.Cowley+
+#YEAR       1990
+#INSTITUTE  (3SAFNAC)
+#TITLE      Continuum protons from the inclusive reaction
+#+          Au-197(p,p') at incident energies between 100 and
+#+          200 MeV.
+#AUTHOR(S)  A.A.Cowley, S.V.Fortsch, J.J.Lawrie, D.M.Whittal, F.D.Smit, 
+#+          J.V.Pilcher
+#REF-CODE   (J,ZP/A,336,189,1990)
+#REFERENCE  Z.Phys.A 336 (1990) 189
+#DATASETS   0
+#
+#DATASET    O0511002 
+#DATE       20200902
+#REACTION   79-AU-197(P,X)1-H-1,,DA/DE
+#PROJ       1001
+#TARG       79197
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001 79197   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 79197   6 203    1.0000+8 500000.0 3.5777-9 7.880-11 0.939693          4.0000+7          E2A.A.Cowley+          (90)O0511  2 
+ 1001 79197   6 203    1.0000+8 500000.0 3.7878-9 8.125-11 0.939693          5.0000+7          E2A.A.Cowley+          (90)O0511  2 
+ 1001 79197   6 203    1.0000+8 500000.0 4.1554-9 8.510-11 0.939693          6.0000+7          E2A.A.Cowley+          (90)O0511  2 
+ 1001 79197   6 203    1.0000+8 500000.0 3.9369-9 8.366-11 0.939693          7.0000+7          E2A.A.Cowley+          (90)O0511  2 
+ 1001 79197   6 203    1.0000+8 500000.0 3.6963-9 8.017-11 0.939693          8.0000+7          E2A.A.Cowley+          (90)O0511  2 
+#/DATA      5
+#/DATASET

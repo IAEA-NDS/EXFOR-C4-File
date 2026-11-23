@@ -1,0 +1,42 @@
+#ENTRY      O2170
+#AUTHOR1    J.Dudouet+
+#YEAR       2013
+#INSTITUTE  (2FR CAE)
+#TITLE      Double-differential fragmentation cross-section
+#+          measurements of 95 MeV/nucleon 12C beams on thin
+#+          targets for hadron therapy
+#AUTHOR(S)  J.Dudouet, D.Juliani, M.Labalme, D.Cussol, J.C.Angelique, 
+#+          B.Braunn, J.Colin, Ch.Finck, J.M.Fontbonne, H.Guerin, P.Henriquet, 
+#+          J.Krimmer, M.Rousseau, M.G.Saint-Laurent, S.Salvador
+#REF-CODE   (J,PR/C,88,024606,2013)
+#REFERENCE  Phys.Rev.C 88 (2013) 024606
+#DATASETS   0
+#
+#DATASET    O2170197 
+#DATE       20161017
+#REACTION   1-H-1(6-C-12,X)2-HE-3,,DA/DE
+#PROJ       6012
+#TARG       1001
+#MF         6
+#MT         206
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 6012  1001   6 206  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012  1001   6 206    1.1400+9          4.296-11 1.4003-9 0.920505          3.9000+8 1.6261+7 E2J.Dudouet+           (13)O2170197 
+ 6012  1001   6 206    1.1400+9          8.570-11 2.7935-9 0.920505          4.5000+8 1.9977+7 E2J.Dudouet+           (13)O2170197 
+ 6012  1001   6 206    1.1400+9          4.162-11 1.3566-9 0.920505          5.1000+8 2.3950+7 E2J.Dudouet+           (13)O2170197 
+ 6012  1001   6 206    1.1400+9          1.360-11 4.433-10 0.920505          5.7000+8 2.8174+7 E2J.Dudouet+           (13)O2170197 
+ 6012  1001   6 206    1.1400+9          3.865-11 1.2597-9 0.920505          6.3000+8 3.2640+7 E2J.Dudouet+           (13)O2170197 
+ 6012  1001   6 206    1.1400+9          4.214-11 1.3735-9 0.920505          6.9000+8 3.7340+7 E2J.Dudouet+           (13)O2170197 
+ 6012  1001   6 206    1.1400+9          1.982-12 6.461-11 0.920505          7.5000+8 4.2266+7 E2J.Dudouet+           (13)O2170197 
+ 6012  1001   6 206    1.1400+9          4.282-11 1.3957-9 0.920505          8.1000+8 4.7412+7 E2J.Dudouet+           (13)O2170197 
+ 6012  1001   6 206    1.1400+9          2.641-11 8.607-10 0.920505          8.7000+8 5.2770+7 E2J.Dudouet+           (13)O2170197 
+ 6012  1001   6 206    1.1400+9          2.586-11 8.428-10 0.920505          9.3000+8 5.8336+7 E2J.Dudouet+           (13)O2170197 
+ 6012  1001   6 206    1.1400+9          1.072-11 3.494-10 0.920505          1.2300+9 8.9077+7 E2J.Dudouet+           (13)O2170197 
+ 6012  1001   6 206    1.1400+9          2.627-13 8.562-12 0.920505          1.5300+9 1.2424+8 E2J.Dudouet+           (13)O2170197 
+ 6012  1001   6 206    1.1400+9          7.564-13 2.466-11 0.920505          1.7100+9 1.4726+8 E2J.Dudouet+           (13)O2170197 
+ 6012  1001   6 206    1.1400+9          9.761-13 3.182-11 0.920505          1.9500+9 1.8000+8 E2J.Dudouet+           (13)O2170197 
+#/DATA      14
+#/DATASET

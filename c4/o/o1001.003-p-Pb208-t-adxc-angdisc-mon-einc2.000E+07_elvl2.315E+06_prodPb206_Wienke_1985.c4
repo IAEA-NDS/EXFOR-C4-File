@@ -1,0 +1,39 @@
+#ENTRY      O1001
+#AUTHOR1    H.Wienke+
+#YEAR       1985
+#INSTITUTE  (2NEDFUL)
+#TITLE      The role of sequential transfer process in natural
+#+          parity transitions in the Pb-208(P,T)Pb-206 reaction.
+#AUTHOR(S)  H.Wienke, H.P.Blok, J.F.A.Van Hienen, J.Blok
+#REF-CODE   (J,NP/A,442,397,1985)
+#REFERENCE  Nucl.Phys.A 442 (1985) 397
+#DATASETS   0
+#
+#DATASET    O1001003 
+#DATE       20021127
+#REACTION   82-PB-208(P,T)82-PB-206,PAR,DA
+#PROJ       1001
+#TARG       82208
+#MF         4
+#MT         700
+#PRODUCT    82-PB-206
+#C4BEGIN    [ 1001 82208   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   4 700  C 2.0000+7          6.7100-5          0.996345          2315000.         LVLH.Wienke+            (85)O1001  3 
+ 1001 82208   4 700  C 2.0000+7          6.2500-5          0.990983          2315000.         LVLH.Wienke+            (85)O1001  3 
+ 1001 82208   4 700  C 2.0000+7          4.8900-5          0.978867          2315000.         LVLH.Wienke+            (85)O1001  3 
+ 1001 82208   4 700  C 2.0000+7          4.9400-5          0.963630          2315000.         LVLH.Wienke+            (85)O1001  3 
+ 1001 82208   4 700  C 2.0000+7          4.3400-5          0.943801          2315000.         LVLH.Wienke+            (85)O1001  3 
+ 1001 82208   4 700  C 2.0000+7          2.7500-5          0.908508          2315000.         LVLH.Wienke+            (85)O1001  3 
+ 1001 82208   4 700  C 2.0000+7          1.0900-5 5.4500-7 0.863396          2315000.         LVLH.Wienke+            (85)O1001  3 
+ 1001 82208   4 700  C 2.0000+7          2.1000-6 2.9400-7 0.821149          2315000.         LVLH.Wienke+            (85)O1001  3 
+ 1001 82208   4 700  C 2.0000+7          5.7000-6 5.1300-7 0.763796          2315000.         LVLH.Wienke+            (85)O1001  3 
+ 1001 82208   4 700  C 2.0000+7          2.5200-5          0.694658          2315000.         LVLH.Wienke+            (85)O1001  3 
+ 1001 82208   4 700  C 2.0000+7          9.0100-6          0.428935          2315000.         LVLH.Wienke+            (85)O1001  3 
+ 1001 82208   4 700  C 2.0000+7          7.6500-6          0.343660          2315000.         LVLH.Wienke+            (85)O1001  3 
+ 1001 82208   4 700  C 2.0000+7          1.6000-5          0.231748          2315000.         LVLH.Wienke+            (85)O1001  3 
+ 1001 82208   4 700  C 2.0000+7          1.5400-5          0.092371          2315000.         LVLH.Wienke+            (85)O1001  3 
+#/DATA      14
+#/DATASET

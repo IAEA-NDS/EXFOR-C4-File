@@ -1,0 +1,27 @@
+#ENTRY      O0870
+#AUTHOR1    M.Soltani-Farshi+
+#YEAR       1996
+#INSTITUTE  (2GERFRK)
+#TITLE      Cross section of the 32-S(A,P)35-Cl nuclear reaction
+#+          for sulphur determination
+#AUTHOR(S)  M.Soltani-Farshi, J.D.Meyer, P.Misaelides, K.Bethge
+#REF-CODE   (J,NIM/B,113,399,1996)
+#REFERENCE  Nucl.Instrum.Meth.B 113 (1996) 399
+#DATASETS   0
+#
+#DATASET    O0870002 
+#DATE       20030501
+#REACTION   16-S-32(A,P)17-CL-35,PAR,DA
+#PROJ       2004
+#TARG       16032
+#MF         4
+#MT         600
+#PRODUCT    17-CL-35
+#C4BEGIN    [ 2004 16032   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 16032   4 600    7149000.          1.1000-3          0.500000 0.054414 0.000000         LVLM.Soltani-Farshi+    (96)O0870  2 
+ 2004 16032   4 600    7149000.          4.5000-3         -0.974370 0.039340 0.000000         LVLM.Soltani-Farshi+    (96)O0870  2 
+#/DATA      2
+#/DATASET

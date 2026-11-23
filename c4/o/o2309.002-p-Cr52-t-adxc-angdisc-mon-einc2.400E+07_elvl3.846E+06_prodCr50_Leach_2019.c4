@@ -1,0 +1,38 @@
+#ENTRY      O2309
+#AUTHOR1    K.G.Leach+
+#YEAR       2019
+#INSTITUTE  (1USACSM)
+#TITLE      High-resolution (p,t) reaction measurements as
+#+          spectroscopic tests of ab-initio theory in the mid-pf
+#+          shell
+#AUTHOR(S)  K.G.Leach, J.D.Holt, P.E.Garrett, S.R.Stroberg, G.C.Ball, 
+#+          P.C.Bender, V.Bildstein, A.Diaz Varela, R.Dunlop, T.Faestermann, 
+#+          B.Hadinia, R.Hertenberger, D.S.Jamieson, B.Jigmeddorj, R.Krucken, 
+#+          A.T.Laffoley, A.J.Radich, E.T.Rand, C.E.Svensson, S.Triambak, 
+#+          H.-F.Wirth
+#REF-CODE   (J,PR/C,100,014320,2019)
+#REFERENCE  Phys.Rev.C 100 (2019) 014320
+#DATASETS   0
+#
+#DATASET    O2309002 
+#DATE       20210906
+#REACTION   24-CR-52(P,T)24-CR-50,PAR,DA
+#PROJ       1001
+#TARG       24052
+#MF         4
+#MT         700
+#PRODUCT    24-CR-50
+#C4BEGIN    [ 1001 24052   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24052   4 700  C 2.4000+7          1.2059-6 1.3309-7 0.984206          3845500.         LVLK.G.Leach+           (19)O2309  2 
+ 1001 24052   4 700  C 2.4000+7          1.5054-6 1.5641-7 0.964589          3845500.         LVLK.G.Leach+           (19)O2309  2 
+ 1001 24052   4 700  C 2.4000+7          1.5216-6 1.9496-7 0.937361          3845500.         LVLK.G.Leach+           (19)O2309  2 
+ 1001 24052   4 700  C 2.4000+7          1.2945-6 1.9094-7 0.902751          3845500.         LVLK.G.Leach+           (19)O2309  2 
+ 1001 24052   4 700  C 2.4000+7          1.5988-6 2.1634-7 0.861052          3845500.         LVLK.G.Leach+           (19)O2309  2 
+ 1001 24052   4 700  C 2.4000+7          1.4276-6 2.0017-7 0.812617          3845500.         LVLK.G.Leach+           (19)O2309  2 
+ 1001 24052   4 700  C 2.4000+7          1.1615-6 1.3687-7 0.757850          3845500.         LVLK.G.Leach+           (19)O2309  2 
+ 1001 24052   4 700  C 2.4000+7          9.0724-7 1.1411-7 0.631192          3845500.         LVLK.G.Leach+           (19)O2309  2 
+#/DATA      8
+#/DATASET

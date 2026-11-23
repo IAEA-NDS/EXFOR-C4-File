@@ -1,0 +1,32 @@
+#ENTRY      O2463
+#AUTHOR1    D.Bucurescu+
+#YEAR       2019
+#INSTITUTE  (3RUMBUC)
+#TITLE      High-resolution study of 166Er with the (p,t) reaction
+#AUTHOR(S)  D.Bucurescu, S.Pascu, G.Suliman, H.-F.Wirth, R.Hertenberger, 
+#+          T.Faestermann, R.Krucken, G.Graw
+#REF-CODE   (J,PR/C,100,044316,2019)
+#REFERENCE  Phys.Rev.C 100 (2019) 044316
+#DATASETS   0
+#
+#DATASET    O2463002 
+#DATE       20200814
+#REACTION   68-ER-168(P,T)68-ER-166,PAR,DA
+#PROJ       1001
+#TARG       68168
+#MF         4
+#MT         700
+#PRODUCT    68-ER-166
+#C4BEGIN    [ 1001 68168   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 68168   4 700  C 2.5000+7          9.1000-3 4.1500-4 0.996041          2021000.         LVLD.Bucurescu+         (19)O2463  2 
+ 1001 68168   4 700  C 2.5000+7          0.012929 3.3631-4 0.984503          2021000.         LVLD.Bucurescu+         (19)O2463  2 
+ 1001 68168   4 700  C 2.5000+7          0.011339 7.4789-4 0.969445          2021000.         LVLD.Bucurescu+         (19)O2463  2 
+ 1001 68168   4 700  C 2.5000+7          0.011674 3.1149-4 0.952661          2021000.         LVLD.Bucurescu+         (19)O2463  2 
+ 1001 68168   4 700  C 2.5000+7          7.5980-3 2.2227-4 0.918446          2021000.         LVLD.Bucurescu+         (19)O2463  2 
+ 1001 68168   4 700  C 2.5000+7          5.3125-3 1.6666-4 0.862514          2021000.         LVLD.Bucurescu+         (19)O2463  2 
+ 1001 68168   4 700  C 2.5000+7          5.5330-3 1.9474-4 0.789084          2021000.         LVLD.Bucurescu+         (19)O2463  2 
+#/DATA      7
+#/DATASET

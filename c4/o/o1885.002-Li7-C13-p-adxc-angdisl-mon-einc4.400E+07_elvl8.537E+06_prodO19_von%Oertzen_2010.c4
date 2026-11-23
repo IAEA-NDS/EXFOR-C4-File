@@ -1,0 +1,29 @@
+#ENTRY      O1885
+#AUTHOR1    W.von Oertzen+
+#YEAR       2010
+#INSTITUTE  (2GERBER)
+#TITLE      Shell model and band structures in O-19.
+#AUTHOR(S)  W.von Oertzen, M.Milin, T.Dorsch, H.G.Bohlen, R.Kruecken, 
+#+          T.Faestermann, R.Hertenberger, Tz.Kokalova, M.Mahgoub, C.Wheldon, 
+#+          H.-F.Wirth
+#REF-CODE   (J,EPJ/A,46,345,2010)
+#REFERENCE  Eur.Phys.J.A 46 (2010) 345
+#DATASETS   0
+#
+#DATASET    O1885002 
+#DATE       20110127
+#REACTION   6-C-13(3-LI-7,P)8-O-19,PAR,DA
+#PROJ       3007
+#TARG       6013
+#MF         4
+#MT         600
+#PRODUCT    8-O-19
+#C4BEGIN    [ 3007  6013   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007  6013   4 600  C 4.4000+7          2.1800-6 1.0000-7 0.984808          8537000. 7000.000LVLW.von Oertzen+       (10)O1885  2 
+ 3007  6013   4 600  C 4.4000+7          2.1300-6 1.0000-7 0.939693          8537000. 7000.000LVLW.von Oertzen+       (10)O1885  2 
+ 3007  6013   4 600  C 4.4000+7          1.8000-6 7.0000-8 0.777146          8537000. 7000.000LVLW.von Oertzen+       (10)O1885  2 
+#/DATA      3
+#/DATASET

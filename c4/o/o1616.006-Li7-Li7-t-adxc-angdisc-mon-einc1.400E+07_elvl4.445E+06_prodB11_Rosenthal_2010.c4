@@ -1,0 +1,33 @@
+#ENTRY      O1616
+#AUTHOR1    P.Rosenthal+
+#YEAR       2010
+#INSTITUTE  (2GERBOC)
+#TITLE      Direct nuclear reactions in lithium-lithium systems-
+#+          Li7+Li7 at E(lab)=2-16 MeV.
+#AUTHOR(S)  P.Rosenthal, H.Freiesleben, B.Gehrmann, I.Gotzhein, K.W.Potthast, 
+#+          B.Kamys, Z.Rudy
+#REF-CODE   (J,APP/B,41,845,2010)
+#REFERENCE  Acta Phys.Pol.B 41 (2010) 845
+#DATASETS   0
+#
+#DATASET    O1616006 
+#DATE       20160718
+#REACTION   3-LI-7(3-LI-7,T)5-B-11,PAR,DA
+#PROJ       3007
+#TARG       3007
+#MF         4
+#MT         700
+#PRODUCT    5-B-11
+#C4BEGIN    [ 3007  3007   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007  3007   4 700  C 1.4000+7          2.1800-3          0.991445          4445000.         LVLP.Rosenthal+         (10)O1616  6 
+ 3007  3007   4 700  C 1.4000+7          2.3400-3          0.963163          4445000.         LVLP.Rosenthal+         (10)O1616  6 
+ 3007  3007   4 700  C 1.4000+7          1.9500-3          0.872069          4445000.         LVLP.Rosenthal+         (10)O1616  6 
+ 3007  3007   4 700  C 1.4000+7          1.4600-3          0.705872          4445000.         LVLP.Rosenthal+         (10)O1616  6 
+ 3007  3007   4 700  C 1.4000+7          9.4000-4          0.560639          4445000.         LVLP.Rosenthal+         (10)O1616  6 
+ 3007  3007   4 700  C 1.4000+7          5.9100-4          0.338738          4445000.         LVLP.Rosenthal+         (10)O1616  6 
+ 3007  3007   4 700  C 1.4000+7          6.4000-4          0.114937          4445000.         LVLP.Rosenthal+         (10)O1616  6 
+#/DATA      7
+#/DATASET

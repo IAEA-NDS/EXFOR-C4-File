@@ -1,0 +1,30 @@
+#ENTRY      O1872
+#AUTHOR1    T.B.Bright+
+#YEAR       1997
+#INSTITUTE  (2SWDUPP)
+#TITLE      Radiative proton capture to discrete states in N-13 at
+#+          98 and 176 MeV.
+#AUTHOR(S)  T.B.Bright, B.Hoeistad, R.Johansson, E.Traneus, S.R.Cotanch
+#REF-CODE   (J,NP/A,621,754,1997)
+#REFERENCE  Nucl.Phys.A 621 (1997) 754
+#DATASETS   0
+#
+#DATASET    O1872002 
+#DATE       20101207
+#REACTION   6-C-12(P,G)7-N-13,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         900
+#PRODUCT    7-N-13
+#C4BEGIN    [ 1001  6012   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 900    1.7600+8          1.1400-8 2.3000-9 0.766044          2360000.         LVLT.B.Bright+          (97)O1872  2 
+ 1001  6012   4 900    1.7600+8          2.8000-9 6.000-10 0.500000          2360000.         LVLT.B.Bright+          (97)O1872  2 
+ 1001  6012   4 900    1.7600+8          1.000-09 2.000-10 0.173648          2360000.         LVLT.B.Bright+          (97)O1872  2 
+ 1001  6012   4 900    1.7600+8          5.000-10 1.000-10-0.173648          2360000.         LVLT.B.Bright+          (97)O1872  2 
+ 1001  6012   4 900    1.7600+8          3.000-10 3.000-10-0.500000          2360000.         LVLT.B.Bright+          (97)O1872  2 
+#/DATA      5
+#/DATASET

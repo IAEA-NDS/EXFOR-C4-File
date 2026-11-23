@@ -1,0 +1,37 @@
+#ENTRY      O1150
+#AUTHOR1    J.Vernotte+
+#YEAR       1990
+#INSTITUTE  (2FR PAR)
+#TITLE      Si-30(He3,d)P-31 reaction at 25-MeV.
+#AUTHOR(S)  J.Vernotte, A.Khendriche, G.Berrier-Ronsin, S.Grafeuille, 
+#+          J.Kalifa, G.Rotbard, R.Tamisier, B.H.Wildenthal
+#REF-CODE   (J,PR/C,41,1956,1990)
+#REFERENCE  Phys.Rev.C 41 (1990) 1956
+#DATASETS   0
+#
+#DATASET    O1150002 
+#DATE       20040416
+#REACTION   14-SI-30(HE3,D)15-P-31,PAR,DA
+#PROJ       2003
+#TARG       14030
+#MF         4
+#MT         650
+#PRODUCT    15-P-31
+#C4BEGIN    [ 2003 14030   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 14030   4 650  C 2.5000+7          9.9000-5          0.993768          6337000. 4000.000LVLJ.Vernotte+          (90)O1150  2 
+ 2003 14030   4 650  C 2.5000+7          6.9200-5          0.986286          6337000. 4000.000LVLJ.Vernotte+          (90)O1150  2 
+ 2003 14030   4 650  C 2.5000+7          3.5900-5          0.980202          6337000. 4000.000LVLJ.Vernotte+          (90)O1150  2 
+ 2003 14030   4 650  C 2.5000+7          2.3000-5          0.971961          6337000. 4000.000LVLJ.Vernotte+          (90)O1150  2 
+ 2003 14030   4 650  C 2.5000+7          1.9000-5          0.963069          6337000. 4000.000LVLJ.Vernotte+          (90)O1150  2 
+ 2003 14030   4 650  C 2.5000+7          2.6500-5          0.944319          6337000. 4000.000LVLJ.Vernotte+          (90)O1150  2 
+ 2003 14030   4 650  C 2.5000+7          4.8700-5          0.921863          6337000. 4000.000LVLJ.Vernotte+          (90)O1150  2 
+ 2003 14030   4 650  C 2.5000+7          1.8300-5 1.0980-6 0.880395          6337000. 4000.000LVLJ.Vernotte+          (90)O1150  2 
+ 2003 14030   4 650  C 2.5000+7          6.2000-6 9.9200-7 0.835712          6337000. 4000.000LVLJ.Vernotte+          (90)O1150  2 
+ 2003 14030   4 650  C 2.5000+7          3.4000-6 6.1200-7 0.773840          6337000. 4000.000LVLJ.Vernotte+          (90)O1150  2 
+ 2003 14030   4 650  C 2.5000+7          9.7800-6 5.8680-7 0.718126          6337000. 4000.000LVLJ.Vernotte+          (90)O1150  2 
+ 2003 14030   4 650  C 2.5000+7          3.7000-6 5.1800-7 0.642654          6337000. 4000.000LVLJ.Vernotte+          (90)O1150  2 
+#/DATA      12
+#/DATASET

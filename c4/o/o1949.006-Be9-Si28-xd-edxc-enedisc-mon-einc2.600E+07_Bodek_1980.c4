@@ -1,0 +1,39 @@
+#ENTRY      O1949
+#AUTHOR1    K.Bodek+
+#YEAR       1980
+#INSTITUTE  (2SWTETH)
+#TITLE      The energy dependence of fusion in the Be-9+Si-28
+#+          system.
+#AUTHOR(S)  K.Bodek, M.Hugi, J.Lang, R.Mueller, E.Ungricht, K.Jankowski, 
+#+          W.Zipper, L.Jarczyk, A.Strzalkowski, G.Willim, H.Witala
+#REF-CODE   (J,NP/A,339,353,1980)
+#REFERENCE  Nucl.Phys.A 339 (1980) 353
+#DATASETS   0
+#
+#DATASET    O1949006 
+#DATE       20120124
+#REACTION   14-SI-28(4-BE-9,X)1-H-2,,DE
+#PROJ       4009
+#TARG       14028
+#MF         5
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [ 4009 14028   5 204 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4009 14028   5 204 DC 2.6000+7          6.2514-9                            4051000.          E2K.Bodek+             (80)O1949  6 
+ 4009 14028   5 204 DC 2.6000+7          5.5487-9                            5356000.          E2K.Bodek+             (80)O1949  6 
+ 4009 14028   5 204 DC 2.6000+7          4.5013-9                            5936000.          E2K.Bodek+             (80)O1949  6 
+ 4009 14028   5 204 DC 2.6000+7          4.4865-9                            7011000.          E2K.Bodek+             (80)O1949  6 
+ 4009 14028   5 204 DC 2.6000+7          3.0225-9                            8054000.          E2K.Bodek+             (80)O1949  6 
+ 4009 14028   5 204 DC 2.6000+7          2.2328-9                            9105000.          E2K.Bodek+             (80)O1949  6 
+ 4009 14028   5 204 DC 2.6000+7          1.9840-9                            1.0052+7          E2K.Bodek+             (80)O1949  6 
+ 4009 14028   5 204 DC 2.6000+7          1.0374-9                            1.1074+7          E2K.Bodek+             (80)O1949  6 
+ 4009 14028   5 204 DC 2.6000+7          8.602-10                            1.2014+7          E2K.Bodek+             (80)O1949  6 
+ 4009 14028   5 204 DC 2.6000+7          6.657-10                            1.2949+7          E2K.Bodek+             (80)O1949  6 
+ 4009 14028   5 204 DC 2.6000+7          3.906-10 7.920-11                   1.3981+7          E2K.Bodek+             (80)O1949  6 
+ 4009 14028   5 204 DC 2.6000+7          2.693-10 8.580-11                   1.5026+7          E2K.Bodek+             (80)O1949  6 
+ 4009 14028   5 204 DC 2.6000+7          2.505-10 1.118-10                   1.5976+7          E2K.Bodek+             (80)O1949  6 
+#/DATA      13
+#/DATASET

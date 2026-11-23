@@ -1,0 +1,35 @@
+#ENTRY      O2285
+#AUTHOR1    A.Parikh+
+#YEAR       2015
+#INSTITUTE  (2SPNUPC)
+#TITLE      Spectroscopy of Ne-19 for the thermonuclear
+#+          O-15(a,g)Ne-19 and F-18(p,a)O-15 reaction rates.
+#AUTHOR(S)  A.Parikh, A.M.Laird, N.De Sereville, K.Wimmer, T.Faestermann, 
+#+          R.Hertenberger, D.Seiler, H.-F.Wirth, P.Adsley, B.R.Fulton, 
+#+          F.Hammache, J.Kiener, I.Stefan
+#REF-CODE   (J,PR/C,92,055806,2015)
+#REFERENCE  Phys.Rev.C 92 (2015) 055806
+#DATASETS   0
+#
+#DATASET    O2285002 
+#DATE       20220223
+#REACTION   9-F-19(HE3,T)10-NE-19,PAR,DA
+#PROJ       2003
+#TARG       9019
+#MF         4
+#MT         700
+#PRODUCT    10-NE-19
+#C4BEGIN    [ 2003  9019   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  9019   4 700  C 2.5000+7          3.8800-5 1.3750-6 0.977966          4548000.         LVLA.Parikh+            (15)O2285  2 
+ 2003  9019   4 700  C 2.5000+7          2.1250-5          0.949808          4548000.         LVLA.Parikh+            (15)O2285  2 
+ 2003  9019   4 700  C 2.5000+7          1.5320-5 1.9970-6 0.914112          4548000.         LVLA.Parikh+            (15)O2285  2 
+ 2003  9019   4 700  C 2.5000+7          1.0270-5          0.868372          4548000.         LVLA.Parikh+            (15)O2285  2 
+ 2003  9019   4 700  C 2.5000+7          1.0970-5          0.809735          4548000.         LVLA.Parikh+            (15)O2285  2 
+ 2003  9019   4 700  C 2.5000+7          6.7880-6          0.749071          4548000.         LVLA.Parikh+            (15)O2285  2 
+ 2003  9019   4 700  C 2.5000+7          4.6100-6          0.678544          4548000.         LVLA.Parikh+            (15)O2285  2 
+ 2003  9019   4 700  C 2.5000+7          2.5040-6          0.518326          4548000.         LVLA.Parikh+            (15)O2285  2 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      O1848
+#AUTHOR1    H.Langevin-Joliot+
+#YEAR       1993
+#INSTITUTE  (2FR PAR)
+#TITLE      Spin determination of valence and inner hole states
+#+          via the Pb-208(d,t)Pb-207 reaction at E(d)= 200 MeV.
+#AUTHOR(S)  H.Langevin-Joliot, J.Van de Wiele, J.Guillot, E.Gerlic, 
+#+          L.H.Rosier, A.Willis, M.Morlet, G.Duhamel-Chretien, E.Tomasi-Gustafsson, 
+#+          N.Blasi, S.Micheletti, S.Y.Van der Werf
+#REF-CODE   (J,PR/C,47,1571,1993)
+#REFERENCE  Phys.Rev.C 47 (1993) 1571
+#DATASETS   0
+#
+#DATASET    O1848002 
+#DATE       20100307
+#REACTION   82-PB-208(D,T)82-PB-207,PAR,DA
+#PROJ       1002
+#TARG       82208
+#MF         4
+#MT         700
+#PRODUCT    82-PB-207
+#C4BEGIN    [ 1002 82208   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 82208   4 700  C 2.0000+8 140000.0 2.3300-4 2.3300-5 0.997684          4260000.         LVLH.Langevin-Joliot+   (93)O1848  2 
+ 1002 82208   4 700  C 2.0000+8 140000.0 1.6500-4 1.6500-5 0.992903          4260000.         LVLH.Langevin-Joliot+   (93)O1848  2 
+ 1002 82208   4 700  C 2.0000+8 140000.0 1.0260-4 1.0260-5 0.985378          4260000.         LVLH.Langevin-Joliot+   (93)O1848  2 
+ 1002 82208   4 700  C 2.0000+8 140000.0 6.8500-5 6.8500-6 0.974956          4260000.         LVLH.Langevin-Joliot+   (93)O1848  2 
+ 1002 82208   4 700  C 2.0000+8 140000.0 4.5100-5 4.5100-6 0.962075          4260000.         LVLH.Langevin-Joliot+   (93)O1848  2 
+ 1002 82208   4 700  C 2.0000+8 140000.0 2.6500-5 2.6500-6 0.945632          4260000.         LVLH.Langevin-Joliot+   (93)O1848  2 
+#/DATA      6
+#/DATASET

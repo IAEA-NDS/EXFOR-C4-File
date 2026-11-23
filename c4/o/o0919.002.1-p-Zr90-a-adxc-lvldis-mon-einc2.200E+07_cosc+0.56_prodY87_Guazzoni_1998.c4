@@ -1,0 +1,26 @@
+#ENTRY      O0919
+#AUTHOR1    P.Guazzoni+
+#YEAR       1998
+#INSTITUTE  (2ITYMIL)
+#TITLE      Study of the Zr-90(P,A)Y-87 reaction at 22-MeV.
+#AUTHOR(S)  P.Guazzoni, M.Jaskola, L.Zetta, J.N.Gu, A.Vitturi, G.Graw, 
+#+          R.Hertenberger, P.Schiemenz, B.Valnion, U.Atzroot, G.Staudt
+#REF-CODE   (J,EPJ/A,1,365,1998)
+#REFERENCE  Eur.Phys.J.A 1 (1998) 365
+#DATASETS   0
+#
+#DATASET    O09190021
+#DATE       20030503
+#REACTION   40-ZR-90(P,A)39-Y-87,PAR,DA
+#PROJ       1001
+#TARG       40090
+#MF         4
+#MT         800
+#PRODUCT    39-Y-87
+#C4BEGIN    [ 1001 40090   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40090   4 800  C 2.2000+7          5.3370-6 3.1700-7 0.556586          2998000.         LVLP.Guazzoni+          (98)O0919  21
+#/DATA      1
+#/DATASET

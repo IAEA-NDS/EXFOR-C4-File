@@ -1,0 +1,26 @@
+#ENTRY      O0472
+#AUTHOR1    M.Calderbank+
+#YEAR       1967
+#INSTITUTE  (2UK KCL)
+#TITLE      The Elastic and Inelastic Scattering of 50 MeV Protons
+#+          By Zn-64, Zn-66, Zn-68 and Zn-70.
+#AUTHOR(S)  M.Calderbank, E.J.Burge, V.E.Lewis, D.A.Smith, N.K.Ganguly
+#REF-CODE   (J,NP/A,105,601,1967)
+#REFERENCE  Nucl.Phys.A 105 (1967) 601
+#DATASETS   0
+#
+#DATASET    O0472003 
+#DATE       20000426
+#REACTION   30-ZN-64(P,INL)30-ZN-64,PAR,DA
+#PROJ       1001
+#TARG       30064
+#MF         4
+#MT         601
+#PRODUCT    30-ZN-64
+#C4BEGIN    [ 1001 30064   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30064   4 601  C 4.9080+7 56000.00 5.2300-5 1.8305-6-0.559193 8.2476-3 992000.0         LVLM.Calderbank+        (67)O0472  3 
+#/DATA      1
+#/DATASET

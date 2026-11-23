@@ -1,0 +1,37 @@
+#ENTRY      O1580
+#AUTHOR1    P.Guazzoni+
+#YEAR       2007
+#INSTITUTE  (2ITYMIL)
+#TITLE      High-resolution investigation of the Sb-121(p,t)Sb-119
+#+          reaction and quasiparticle-phonon model description.
+#AUTHOR(S)  P.Guazzoni, L.Zetta, V.Yu.Ponomarev, G.Graw, R.Hertenberger, 
+#+          T.Faestermann, H.F.Wirth, M.Jaskola
+#REF-CODE   (J,JP/G,34,2665,2007)
+#REFERENCE  J.Phys.G 34 (2007) 2665
+#DATASETS   0
+#
+#DATASET    O1580003 
+#DATE       20090814
+#REACTION   51-SB-121(P,T)51-SB-119,PAR,DA
+#PROJ       1001
+#TARG       51121
+#MF         4
+#MT         700
+#PRODUCT    51-SB-119
+#C4BEGIN    [ 1001 51121   4 700 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 51121   4 700 AC 2.1000+7 4000.000 4.6610-6 5.7800-7 0.984227          700000.0         LVLP.Guazzoni+          (07)O1580  3 
+ 1001 51121   4 700 AC 2.1000+7 4000.000 5.1800-6 6.3900-7 0.964649          700000.0         LVLP.Guazzoni+          (07)O1580  3 
+ 1001 51121   4 700 AC 2.1000+7 4000.000 5.2430-6 5.4500-7 0.937464          700000.0         LVLP.Guazzoni+          (07)O1580  3 
+ 1001 51121   4 700 AC 2.1000+7 4000.000 5.0070-6 6.6400-7 0.902886          700000.0         LVLP.Guazzoni+          (07)O1580  3 
+ 1001 51121   4 700 AC 2.1000+7 4000.000 2.2140-6 3.8900-7 0.861275          700000.0         LVLP.Guazzoni+          (07)O1580  3 
+ 1001 51121   4 700 AC 2.1000+7 4000.000 1.4470-6 2.3900-7 0.812898          700000.0         LVLP.Guazzoni+          (07)O1580  3 
+ 1001 51121   4 700 AC 2.1000+7 4000.000 1.9160-6 2.3000-7 0.758134          700000.0         LVLP.Guazzoni+          (07)O1580  3 
+ 1001 51121   4 700 AC 2.1000+7 4000.000 2.2730-6 2.7000-7 0.697540          700000.0         LVLP.Guazzoni+          (07)O1580  3 
+ 1001 51121   4 700 AC 2.1000+7 4000.000 1.7810-6 2.9700-7 0.631623          700000.0         LVLP.Guazzoni+          (07)O1580  3 
+ 1001 51121   4 700 AC 2.1000+7 4000.000 1.5080-6 1.5900-7 0.523837          700000.0         LVLP.Guazzoni+          (07)O1580  3 
+ 1001 51121   4 700 AC 2.1000+7 4000.000 8.5500-7 1.2600-7 0.407056          700000.0         LVLP.Guazzoni+          (07)O1580  3 
+#/DATA      11
+#/DATASET

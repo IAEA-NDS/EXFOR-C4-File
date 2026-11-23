@@ -1,0 +1,40 @@
+#ENTRY      O2558
+#AUTHOR1    E.Vardaci+
+#YEAR       2021
+#INSTITUTE  (2ITYNAP)
+#TITLE      Study of the threshold anomaly effect in the reaction
+#+          7Li+208Pb at energies around the Coulomb barrier
+#AUTHOR(S)  E.Vardaci, P.K.Rath, M.Mazzocco, A.DiNitto, G.LaRana, C.Parascandolo, 
+#+          D.Pierroutsakou, M.Romoli, A.Boiano, A.Vanzanella, M.Cinausero, 
+#+          G.Prete, N.Gelli, F.Lucarelli, C.Mazzocchi, M.LaCommara, 
+#+          L.Fortunato, A.Guglielmetti, F.Soramel, L.Stroe, C.Signorini
+#REF-CODE   (J,EPJ/A,57,95,2021)
+#REFERENCE  Eur.Phys.J.A 57 (2021) 95
+#DATASETS   0
+#
+#DATASET    O2558002 
+#DATE       20230217
+#REACTION   82-PB-208(3-LI-7,EL)82-PB-208,,DA,,RTH
+#PROJ       3007
+#TARG       82208
+#MF         4
+#MT         2
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 3007 82208   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007 82208   4   2  C 3.5000+7          66.29464 0.152478 0.935752                              E.Vardaci+           (21)O2558  2 
+ 3007 82208   4   2  C 3.5000+7          43.15439 0.107886 0.920368                              E.Vardaci+           (21)O2558  2 
+ 3007 82208   4   2  C 3.5000+7          27.28992 0.076412 0.899863                              E.Vardaci+           (21)O2558  2 
+ 3007 82208   4   2  C 3.5000+7          17.64451 0.063520 0.875465                              E.Vardaci+           (21)O2558  2 
+ 3007 82208   4   2  C 3.5000+7          11.19762 0.031577 0.843673                              E.Vardaci+           (21)O2558  2 
+ 3007 82208   4   2  C 3.5000+7          2.053423 0.041694 0.637693                              E.Vardaci+           (21)O2558  2 
+ 3007 82208   4   2  C 3.5000+7          1.013041 0.019277 0.467158                              E.Vardaci+           (21)O2558  2 
+ 3007 82208   4   2  C 3.5000+7          0.322524 7.2326-3 0.198000                              E.Vardaci+           (21)O2558  2 
+ 3007 82208   4   2  C 3.5000+7          0.040370 2.0623-3-0.261852                              E.Vardaci+           (21)O2558  2 
+ 3007 82208   4   2  C 3.5000+7          0.013060 1.1873-3-0.518176                              E.Vardaci+           (21)O2558  2 
+ 3007 82208   4   2  C 3.5000+7          4.4438-3 4.4438-4-0.754710                              E.Vardaci+           (21)O2558  2 
+ 3007 82208   4   2  C 3.5000+7          1.9252-3 1.9252-4-0.922403                              E.Vardaci+           (21)O2558  2 
+#/DATA      12
+#/DATASET

@@ -1,0 +1,43 @@
+#ENTRY      O1079
+#AUTHOR1    P.Guazzoni+
+#YEAR       1999
+#INSTITUTE  (2ITYMIL)
+#TITLE      Level structure of Sn-120-high resolution (P,t)
+#+          reaction and shell model description.
+#AUTHOR(S)  P.Guazzoni, M.Jaskola, L.Zetta, A.Covello, A.Gargano, Y.Eisermann, 
+#+          G.Graw, R.Hertenberger, A.Metz, F.Nuoffer, G.Staudt
+#REF-CODE   (J,PR/C,60,054603,1999)
+#REFERENCE  Phys.Rev.C 60 (1999) 054603
+#DATASETS   0
+#
+#DATASET    O1079002A
+#DATE       20040421
+#REACTION   50-SN-122(P,T)50-SN-120,PAR,DA
+#PROJ       1001
+#TARG       50122
+#MF         4
+#MT         700
+#PRODUCT    50-SN-120
+#C4BEGIN    [ 1001 50122   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50122   4 700    2.6000+7          6.9200-6          0.994595          2480000. 3000.000LVLP.Guazzoni+          (99)O1079  2A
+ 1001 50122   4 700    2.6000+7          1.2500-5          0.979994          2480000. 3000.000LVLP.Guazzoni+          (99)O1079  2A
+ 1001 50122   4 700    2.6000+7          1.6300-5          0.961454          2480000. 3000.000LVLP.Guazzoni+          (99)O1079  2A
+ 1001 50122   4 700    2.6000+7          1.5900-5          0.948102          2480000. 3000.000LVLP.Guazzoni+          (99)O1079  2A
+ 1001 50122   4 700    2.6000+7          1.9000-5          0.931628          2480000. 3000.000LVLP.Guazzoni+          (99)O1079  2A
+ 1001 50122   4 700    2.6000+7          2.2100-5          0.917477          2480000. 3000.000LVLP.Guazzoni+          (99)O1079  2A
+ 1001 50122   4 700    2.6000+7          2.2000-5          0.898641          2480000. 3000.000LVLP.Guazzoni+          (99)O1079  2A
+ 1001 50122   4 700    2.6000+7          2.8000-5          0.855906          2480000. 3000.000LVLP.Guazzoni+          (99)O1079  2A
+ 1001 50122   4 700    2.6000+7          3.6000-5          0.806238          2480000. 3000.000LVLP.Guazzoni+          (99)O1079  2A
+ 1001 50122   4 700    2.6000+7          4.5600-5          0.750226          2480000. 3000.000LVLP.Guazzoni+          (99)O1079  2A
+ 1001 50122   4 700    2.6000+7          4.5900-5          0.696038          2480000. 3000.000LVLP.Guazzoni+          (99)O1079  2A
+ 1001 50122   4 700    2.6000+7          4.3000-5          0.619916          2480000. 3000.000LVLP.Guazzoni+          (99)O1079  2A
+ 1001 50122   4 700    2.6000+7          3.2000-5          0.552955          2480000. 3000.000LVLP.Guazzoni+          (99)O1079  2A
+ 1001 50122   4 700    2.6000+7          1.6000-5          0.475164          2480000. 3000.000LVLP.Guazzoni+          (99)O1079  2A
+ 1001 50122   4 700    2.6000+7          7.2000-6          0.400349          2480000. 3000.000LVLP.Guazzoni+          (99)O1079  2A
+ 1001 50122   4 700    2.6000+7          6.7000-6          0.327053          2480000. 3000.000LVLP.Guazzoni+          (99)O1079  2A
+ 1001 50122   4 700    2.6000+7          5.3600-6          0.233445          2480000. 3000.000LVLP.Guazzoni+          (99)O1079  2A
+#/DATA      17
+#/DATASET

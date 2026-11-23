@@ -1,0 +1,70 @@
+#ENTRY      O2416
+#AUTHOR1    G.Marquinez-Duran+
+#YEAR       2018
+#INSTITUTE  (2SPNHLV)
+#TITLE      Interaction of He-8 with Pb-208 at near-barrier
+#+          energies: He-4 and He-6 production
+#AUTHOR(S)  G.Marquinez-Duran, I.Martel, A.M.Sanchez-Benitez, L.Acosta, 
+#+          J.L.Aguado, R.Berjillos, A.R.Pinto, T.Garcia, J.A.Duenas, 
+#+          K.Rusek, N.Keeley, K.W.Kemper, M.A.G.Alvarez, M.J.G.Borge, 
+#+          A.Chbihi, C.Cruz, M.Cubero, J.P.Fernandez- Garcia, B.Fernandez-Martinez, 
+#+          J.L.Flores, J.Gomez- Camacho, J.A.Labrador, F.M.Marques, 
+#+          A.M.Moro, M.Mazzocco, A.Pakou, V.V.Parkar, N.Patronis, V.Pesudo, 
+#+          D.Pierroutsakou, R.Raabe, R.Silvestr I, N.Soic, L.Standylo, 
+#+          I.Strojek, O.Tengblad, R.Wolski, Z.Abou-Haidar
+#REF-CODE   (J,PR/C,98,034615,2018)
+#REFERENCE  Phys.Rev.C 98 (2018) 034615
+#DATASETS   0
+#
+#DATASET    O2416002 
+#DATE       20181020
+#REACTION   82-PB-208(2-HE-8,EL)82-PB-208,,DA,,RTH
+#PROJ       2008
+#TARG       82208
+#MF         4
+#MT         2
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 2008 82208   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2008 82208   4   2  C 2.2000+7          67.48813 0.136713 0.932576 9.8283-3                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          38.11684 0.086758 0.909236 0.012206                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          23.70918 0.065315 0.884581 0.013838                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          15.18441 0.054354 0.856537 0.015222                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          10.33958 0.042320 0.826492 0.016507                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          7.463680 0.032890 0.796108 0.017638                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          5.514623 0.028907 0.763571 0.018370                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          4.103416 0.022308 0.725735 0.019092                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          3.054461 0.019359 0.681998 0.019913                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          2.326471 0.017885 0.636617 0.020324                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          1.846384 0.017035 0.592576 0.020385                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          1.500991 0.016742 0.548147 0.020583                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          1.211032 0.019160 0.505130 0.021841                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          0.957834 0.015490 0.458805 0.022797                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          0.728783 0.012148 0.403705 0.023952                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          0.526986 0.010858 0.344807 0.024574                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          0.378961 9.1610-3 0.286692 0.025081                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          0.298815 8.9992-3 0.231578 0.025298                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          0.246411 8.2539-3 0.181377 0.025231                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          0.182028 6.9772-3 0.132429 0.024911                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          0.127977 5.0958-3 0.076023 0.023842                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          0.102676 3.3896-3 0.028271 0.023204                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          0.072395 2.6974-3-0.035074 0.023199                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          0.052762 3.7442-3-0.085591 0.023649                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          0.043028 3.4210-3-0.135716 0.024209                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          0.029577 2.4283-3-0.191837 0.024323                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          0.021582 1.8690-3-0.256795 0.024290                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          0.015721 2.0475-3-0.321109 0.023967                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          0.011594 1.7772-3-0.367800 0.023371                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          9.4141-3 1.6677-3-0.411992 0.022901                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          8.6461-3 1.4289-3-0.459890 0.022162                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          6.2897-3 1.3126-3-0.507538 0.020903                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          5.2754-3 7.7170-4-0.567269 0.038089                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          2.7789-3 4.1038-4-0.627963 0.040613                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          1.8386-3 3.2068-4-0.705006 0.039114                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          2.6197-3 4.0903-4-0.786288 0.035802                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          2.3730-3 3.8040-4-0.852275 0.030311                     G.Marquinez-Duran+   (18)O2416  2 
+ 2008 82208   4   2  C 2.2000+7          1.4732-3 3.5973-4-0.904753 0.024012                     G.Marquinez-Duran+   (18)O2416  2 
+#/DATA      38
+#/DATASET

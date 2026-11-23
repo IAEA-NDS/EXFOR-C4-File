@@ -1,0 +1,39 @@
+#ENTRY      O2352
+#AUTHOR1    A.Pakou+
+#YEAR       2015
+#INSTITUTE  (2GRCIOA)
+#TITLE      Total reaction cross sections for 8Li + 90Zr at
+#+          near-barrier energies
+#AUTHOR(S)  A.Pakou, D.Pierroutsakou, M.Mazzocco, L.Acosta, X.Aslanoglou, 
+#+          A.Boiano, C.Boiano, D.Carbone, M.Cavallaro, J.Grebosz, N.Keeley, 
+#+          M.La Commara, C.Manea, G.Marquinez-Duran, I.Martel, C.Parascandolo, 
+#+          K.Rusek, A.M.Sanchez-Benitez, O.Sgouros, C.Signorini, F.Soramel, 
+#+          V.Soukeras, E.Stiliaris, E.Strano, D.Torresi, A.Trzcinska, 
+#+          Y.X.Watanabe, H.Yamaguchi
+#REF-CODE   (J,EPJ/A,51,55,2015)
+#REFERENCE  Eur.Phys.J.A 51 (2015) 55
+#DATASETS   0
+#
+#DATASET    O2352002 
+#DATE       20180113
+#REACTION   40-ZR-90(3-LI-8,EL)40-ZR-90,,DA,,RTH
+#PROJ       3008
+#TARG       40090
+#MF         4
+#MT         2
+#PRODUCT    40-ZR-90
+#C4BEGIN    [ 3008 40090   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3008 40090   4   2  C 1.8500+7          104.9409 0.310170 0.949972                              A.Pakou+             (15)O2352  2 
+ 3008 40090   4   2  C 1.8500+7          25.91198 0.130211 0.900319                              A.Pakou+             (15)O2352  2 
+ 3008 40090   4   2  C 1.8500+7          9.480738 0.075021 0.833886                              A.Pakou+             (15)O2352  2 
+ 3008 40090   4   2  C 1.8500+7          3.855149 0.059371 0.744312                              A.Pakou+             (15)O2352  2 
+ 3008 40090   4   2  C 1.8500+7          1.014882 0.029461 0.495307                              A.Pakou+             (15)O2352  2 
+ 3008 40090   4   2  C 1.8500+7          0.746181 0.018512 0.397148                              A.Pakou+             (15)O2352  2 
+ 3008 40090   4   2  C 1.8500+7          0.536403 0.021187 0.292372                              A.Pakou+             (15)O2352  2 
+ 3008 40090   4   2  C 1.8500+7          0.364716 0.012818 0.183780                              A.Pakou+             (15)O2352  2 
+ 3008 40090   4   2  C 1.8500+7          0.249734 0.013874 0.094108                              A.Pakou+             (15)O2352  2 
+#/DATA      9
+#/DATASET

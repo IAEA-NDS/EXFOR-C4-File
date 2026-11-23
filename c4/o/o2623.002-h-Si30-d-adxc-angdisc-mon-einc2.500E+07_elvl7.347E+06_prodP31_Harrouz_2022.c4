@@ -1,0 +1,32 @@
+#ENTRY      O2623
+#AUTHOR1    D.S.Harrouz+
+#YEAR       2022
+#INSTITUTE  (2FR PAR)
+#TITLE      Experimental study of the 30Si(3He,d)31P reaction and
+#+          thermonuclear reaction rate of 30Si(p,gamma)31P
+#AUTHOR(S)  D.S.Harrouz, N.De Sereville, P.Adsley, F.Hammache, R.Longland, 
+#+          B.Bastin, T.Faestermann, R.Hertenberger, M.La Cognata, L.Lamia, 
+#+          A.Meyer, S.Palmerini, R.G.Pizzone, S.Romano, A.Tumino, H.-F.Wirth
+#REF-CODE   (J,PR/C,105,015805,2022)
+#REFERENCE  Phys.Rev.C 105 (2022) 015805
+#DATASETS   0
+#
+#DATASET    O2623002 
+#DATE       20240801
+#REACTION   14-SI-30(HE3,D)15-P-31,PAR,DA
+#PROJ       2003
+#TARG       14030
+#MF         4
+#MT         650
+#PRODUCT    15-P-31
+#C4BEGIN    [ 2003 14030   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 14030   4 650  C 2.5000+7          2.7900-5 6.0810-6 0.993768 7.7820-4 7347000.         LVLD.S.Harrouz+         (22)O2623  2 
+ 2003 14030   4 650  C 2.5000+7          1.7340-5 4.9730-6 0.982613 9.7215-4 7347000.         LVLD.S.Harrouz+         (22)O2623  2 
+ 2003 14030   4 650  C 2.5000+7          1.6890-5 4.8760-6 0.974761 3.1172-3 7347000.         LVLD.S.Harrouz+         (22)O2623  2 
+ 2003 14030   4 650  C 2.5000+7          1.6950-5 4.2840-6 0.955793 4.1056-3 7347000.         LVLD.S.Harrouz+         (22)O2623  2 
+ 2003 14030   4 650  C 2.5000+7          7.5150-6 1.3830-6 0.930418 3.1983-3 7347000.         LVLD.S.Harrouz+         (22)O2623  2 
+#/DATA      5
+#/DATASET

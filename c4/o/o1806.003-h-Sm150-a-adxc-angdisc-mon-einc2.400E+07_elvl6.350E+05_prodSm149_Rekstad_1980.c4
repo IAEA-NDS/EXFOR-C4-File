@@ -1,0 +1,36 @@
+#ENTRY      O1806
+#AUTHOR1    J.Rekstad+
+#YEAR       1980
+#INSTITUTE  (2NOROSL)
+#TITLE      Studies of single-neutron holes in the transitional
+#+          nuclei N=83-89.
+#+          The 148,150,152Sm(He3,a) pick-up reactions.
+#AUTHOR(S)  J.Rekstad, G.Loevhoeiden, J.R.Lien, S.El-Kazzaz, C.Ellegaard, 
+#+          J.H.Bjerregaard, P.Knudsen, P.Kleinheinz
+#REF-CODE   (J,NP/A,348,93,1980)
+#REFERENCE  Nucl.Phys.A 348 (1980) 93
+#DATASETS   0
+#
+#DATASET    O1806003 
+#DATE       20091221
+#REACTION   62-SM-150(HE3,A)62-SM-149,PAR,DA
+#PROJ       2003
+#TARG       62150
+#MF         4
+#MT         800
+#PRODUCT    62-SM-149
+#C4BEGIN    [ 2003 62150   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 62150   4 800  C 2.4000+7 30000.00 2.0000-6 4.0000-7 0.977046          635000.0 10000.00LVLJ.Rekstad+           (80)O1806  3 
+ 2003 62150   4 800  C 2.4000+7 30000.00 4.7000-6 7.0500-7 0.955278          635000.0 10000.00LVLJ.Rekstad+           (80)O1806  3 
+ 2003 62150   4 800  C 2.4000+7 30000.00 8.3000-6 5.8100-7 0.922538          635000.0 10000.00LVLJ.Rekstad+           (80)O1806  3 
+ 2003 62150   4 800  C 2.4000+7 30000.00 1.5900-5 1.1130-6 0.845262          635000.0 10000.00LVLJ.Rekstad+           (80)O1806  3 
+ 2003 62150   4 800  C 2.4000+7 30000.00 1.4900-5 1.3410-6 0.792290          635000.0 10000.00LVLJ.Rekstad+           (80)O1806  3 
+ 2003 62150   4 800  C 2.4000+7 30000.00 2.1400-5 1.2840-6 0.738455          635000.0 10000.00LVLJ.Rekstad+           (80)O1806  3 
+ 2003 62150   4 800  C 2.4000+7 30000.00 1.8100-5 1.2670-6 0.601815          635000.0 10000.00LVLJ.Rekstad+           (80)O1806  3 
+ 2003 62150   4 800  C 2.4000+7 30000.00 1.2000-5 1.5600-6 0.537300          635000.0 10000.00LVLJ.Rekstad+           (80)O1806  3 
+ 2003 62150   4 800  C 2.4000+7 30000.00 8.3000-6 9.1300-7 0.384295          635000.0 10000.00LVLJ.Rekstad+           (80)O1806  3 
+#/DATA      9
+#/DATASET

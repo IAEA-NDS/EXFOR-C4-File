@@ -1,0 +1,32 @@
+#ENTRY      O2389
+#AUTHOR1    M.Anghinolfi+
+#YEAR       1983
+#INSTITUTE  (2ITYGVA)
+#TITLE      Proton capture by 15N above the giant dipole resonance
+#AUTHOR(S)  M.Anghinolfi, P.Corvisiero, G.Ricco, M.Sanzone, M.Taiuti, 
+#+          A.Zucchiatti
+#REF-CODE   (J,PR/C,28,1005,1983)
+#REFERENCE  Phys.Rev.C 28 (1983) 1005
+#DATASETS   0
+#
+#DATASET    O2389002 
+#DATE       20191202
+#REACTION   7-N-15(P,G)8-O-16,PAR,DA
+#PROJ       1001
+#TARG       7015
+#MF         4
+#MT         900
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  7015   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7015   4 900  C 2.5800+7          5.7000-7 3.0000-8 0.824126 1.9771-3 0.000000         LVLM.Anghinolfi+        (83)O2389  2 
+ 1001  7015   4 900  C 2.5800+7          7.1000-7 4.0000-8 0.699663 2.4940-3 0.000000         LVLM.Anghinolfi+        (83)O2389  2 
+ 1001  7015   4 900  C 2.5800+7          7.3000-7 5.0000-8 0.489382 3.0441-3 0.000000         LVLM.Anghinolfi+        (83)O2389  2 
+ 1001  7015   4 900  C 2.5800+7          7.1000-7 5.0000-8 0.245307 3.3840-3 0.000000         LVLM.Anghinolfi+        (83)O2389  2 
+ 1001  7015   4 900  C 2.5800+7          5.8000-7 4.0000-8-0.013962 3.4903-3 0.000000         LVLM.Anghinolfi+        (83)O2389  2 
+ 1001  7015   4 900  C 2.5800+7          3.8000-7 3.0000-8-0.435231 3.1427-3 0.000000         LVLM.Anghinolfi+        (83)O2389  2 
+ 1001  7015   4 900  C 2.5800+7          2.1000-7 1.0000-8-0.714473 2.4423-3 0.000000         LVLM.Anghinolfi+        (83)O2389  2 
+#/DATA      7
+#/DATASET

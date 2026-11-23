@@ -1,0 +1,28 @@
+#ENTRY      O0889
+#AUTHOR1    J.Cohen-Ganouna+
+#YEAR       1963
+#INSTITUTE  (2FR FR)
+#TITLE      The study Ar-40(P,EL)Ar-40 and Ar-40(P,G)K-41 reactions
+#+          and observation the certain excited levels in K-41.
+#AUTHOR(S)  J.Cohen-Ganouna, M.Lambert, J.Schmouker
+#REF-CODE   (J,NP,40,82,1963)
+#REFERENCE  Nucl.Phys. 40 (1963) 82
+#DATASETS   0
+#
+#DATASET    O0889003 
+#DATE       20030501
+#REACTION   18-AR-40(P,EL)18-AR-40,,DA
+#PROJ       1001
+#TARG       18040
+#MF         4
+#MT         2
+#PRODUCT    18-AR-40
+#C4BEGIN    [ 1001 18040   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 18040   4   2  C 1857000. 400.0000 0.211500         -0.577430                              J.Cohen-Ganouna+     (63)O0889  3 
+ 1001 18040   4   2  C 1857000. 400.0000 0.164700         -0.786181                              J.Cohen-Ganouna+     (63)O0889  3 
+ 1001 18040   4   2  C 1857000. 400.0000 0.132000         -0.970296                              J.Cohen-Ganouna+     (63)O0889  3 
+#/DATA      3
+#/DATASET

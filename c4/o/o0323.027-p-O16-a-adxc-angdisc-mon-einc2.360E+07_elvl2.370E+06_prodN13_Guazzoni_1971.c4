@@ -1,0 +1,39 @@
+#ENTRY      O0323
+#AUTHOR1    P.Guazzoni+
+#YEAR       1971
+#INSTITUTE  (2ITYMIL)
+#TITLE      Energy dependence of the three-nucleon transfer
+#+          reactions on light nuclei.
+#AUTHOR(S)  P.Guazzoni, I.Iori, S.Micheletti, N.Molho, M.Pignanelli, 
+#+          G.Semenescu
+#REF-CODE   (J,PR/C,4,1092,1971)
+#REFERENCE  Phys.Rev.C 4 (1971) 1092
+#DATASETS   0
+#
+#DATASET    O0323027 
+#DATE       20230407
+#REACTION   8-O-16(P,A)7-N-13,PAR,DA
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         800
+#PRODUCT    7-N-13
+#C4BEGIN    [ 1001  8016   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4 800  C 2.3600+7 150000.0 7.5500-5          0.914960          2370000.         LVLP.Guazzoni+          (71)O0323 27 
+ 1001  8016   4 800  C 2.3600+7 150000.0 1.2100-4          0.809017          2370000.         LVLP.Guazzoni+          (71)O0323 27 
+ 1001  8016   4 800  C 2.3600+7 150000.0 2.0900-4          0.687088          2370000.         LVLP.Guazzoni+          (71)O0323 27 
+ 1001  8016   4 800  C 2.3600+7 150000.0 4.6500-5          0.518027          2370000.         LVLP.Guazzoni+          (71)O0323 27 
+ 1001  8016   4 800  C 2.3600+7 150000.0 2.4500-5          0.348572          2370000.         LVLP.Guazzoni+          (71)O0323 27 
+ 1001  8016   4 800  C 2.3600+7 150000.0 7.0300-5          0.190809          2370000.         LVLP.Guazzoni+          (71)O0323 27 
+ 1001  8016   4 800  C 2.3600+7 150000.0 1.4300-4          3.4907-3          2370000.         LVLP.Guazzoni+          (71)O0323 27 
+ 1001  8016   4 800  C 2.3600+7 150000.0 1.3000-4         -0.197657          2370000.         LVLP.Guazzoni+          (71)O0323 27 
+ 1001  8016   4 800  C 2.3600+7 150000.0 3.9000-5         -0.337095          2370000.         LVLP.Guazzoni+          (71)O0323 27 
+ 1001  8016   4 800  C 2.3600+7 150000.0 3.5500-5         -0.489382          2370000.         LVLP.Guazzoni+          (71)O0323 27 
+ 1001  8016   4 800  C 2.3600+7 150000.0 7.2600-5         -0.754710          2370000.         LVLP.Guazzoni+          (71)O0323 27 
+ 1001  8016   4 800  C 2.3600+7 150000.0 6.4300-5         -0.907044          2370000.         LVLP.Guazzoni+          (71)O0323 27 
+ 1001  8016   4 800  C 2.3600+7 150000.0 6.2600-5         -0.964557          2370000.         LVLP.Guazzoni+          (71)O0323 27 
+#/DATA      13
+#/DATASET

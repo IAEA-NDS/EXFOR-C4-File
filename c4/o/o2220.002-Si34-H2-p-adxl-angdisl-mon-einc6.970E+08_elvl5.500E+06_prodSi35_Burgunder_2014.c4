@@ -1,0 +1,36 @@
+#ENTRY      O2220
+#AUTHOR1    G.Burgunder+
+#YEAR       2014
+#INSTITUTE  (2FR GAN)
+#TITLE      Experimental study of the two-body spin-orbit force in
+#+          nuclei.
+#AUTHOR(S)  G.Burgunder, O.Sorlin, F.Nowacki, S.Giron, F.Hammache, M.Moukaddam, 
+#+          N.De Sereville, D.Beaumel, L.Caceres, E.Clement, G.Duchene, 
+#+          J.P.Ebran, B.Fernandez-Dominguez, F.Flavigny, S.Franchoo, 
+#+          J.Gibelin, A.Gillibert, S.Grevy, J.Guillot, A.Lepailleur, 
+#+          I.Matea, A.Matta, L.Nalpas, A.Obertelli, T.Otsuka, J.Pancin, 
+#+          A.Poves, R.Raabe, J.A.Scarpaci, I.Stefan, C.Stodel, T.Suzuki, 
+#+          J.C.Thomas
+#REF-CODE   (J,PRL,112,042502,2014)
+#REFERENCE  Phys.Rev.Lett. 112 (2014) 042502
+#DATASETS   0
+#
+#DATASET    O2220002 
+#DATE       20140709
+#REACTION   1-H-2(14-SI-34,P)14-SI-35,PAR,DA
+#PROJ       14034
+#TARG       1002
+#MF         4
+#MT         600
+#PRODUCT    14-SI-35
+#C4BEGIN    [14034  1002   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+14034  1002   4 600    6.9700+8          6.0000-4 1.6200-4-0.349717 0.045456 5500000.         LVLG.Burgunder+         (14)O2220  2 
+14034  1002   4 600    6.9700+8          7.4900-4 7.0000-5-0.507538 0.041806 5500000.         LVLG.Burgunder+         (14)O2220  2 
+14034  1002   4 600    6.9700+8          1.2800-3 2.1300-4-0.686453 0.025256 5500000.         LVLG.Burgunder+         (14)O2220  2 
+14034  1002   4 600    6.9700+8          1.2700-3 1.6200-4-0.805722 0.028738 5500000.         LVLG.Burgunder+         (14)O2220  2 
+14034  1002   4 600    6.9700+8          1.2100-3 3.5000-4-0.954449 0.021403 5500000.         LVLG.Burgunder+         (14)O2220  2 
+#/DATA      5
+#/DATASET

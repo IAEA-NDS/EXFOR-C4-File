@@ -1,0 +1,36 @@
+#ENTRY      O0545
+#AUTHOR1    M.M.Stautberg+
+#YEAR       1966
+#INSTITUTE  (1USACLU)
+#TITLE      Analysis of Proton Scattering from Zr-92 and Zr-94
+#+          At 19.4 MeV.
+#AUTHOR(S)  M.M.Stautberg, J.J.Kraushaar
+#REF-CODE   (J,PR,151,969,1966)
+#REFERENCE  Phys.Rev. 151 (1966) 969
+#DATASETS   0
+#
+#DATASET    O0545007 
+#DATE       19991117
+#REACTION   40-ZR-94(P,INL)40-ZR-94,PAR,DA
+#PROJ       1001
+#TARG       40094
+#MF         4
+#MT         601
+#PRODUCT    40-ZR-94
+#C4BEGIN    [ 1001 40094   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40094   4 601  C 1.9400+7          6.0900-5 2.4360-6-0.707107          920000.0         LVLM.M.Stautberg+       (66)O0545  7 
+ 1001 40094   4 601  C 1.9400+7          1.5900-5 1.7490-6-0.707107          1470000.         LVLM.M.Stautberg+       (66)O0545  7 
+ 1001 40094   4 601  C 1.9400+7          7.1000-5 4.9700-6-0.707107          1660000.         LVLM.M.Stautberg+       (66)O0545  7 
+ 1001 40094   4 601  C 1.9400+7          3.4400-4 7.5680-6-0.707107          2050000.         LVLM.M.Stautberg+       (66)O0545  7 
+ 1001 40094   4 601  C 1.9400+7          2.2200-5 2.6640-6-0.707107          2340000.         LVLM.M.Stautberg+       (66)O0545  7 
+ 1001 40094   4 601  C 1.9400+7          2.5000-5 3.0000-6-0.707107          2600000.         LVLM.M.Stautberg+       (66)O0545  7 
+ 1001 40094   4 601  C 1.9400+7          5.1000-5 4.0800-6-0.707107          3330000.         LVLM.M.Stautberg+       (66)O0545  7 
+ 1001 40094   4 601  C 1.9400+7          2.6000-5 3.1200-6-0.707107          3460000.         LVLM.M.Stautberg+       (66)O0545  7 
+ 1001 40094   4 601  C 1.9400+7          3.7200-5 2.2320-6-0.707107          3570000.         LVLM.M.Stautberg+       (66)O0545  7 
+ 1001 40094   4 601  C 1.9400+7          1.8000-5 3.0600-6-0.707107          3710000.         LVLM.M.Stautberg+       (66)O0545  7 
+ 1001 40094   4 601  C 1.9400+7          4.0000-5 6.0000-6-0.707107          3870000.         LVLM.M.Stautberg+       (66)O0545  7 
+#/DATA      11
+#/DATASET

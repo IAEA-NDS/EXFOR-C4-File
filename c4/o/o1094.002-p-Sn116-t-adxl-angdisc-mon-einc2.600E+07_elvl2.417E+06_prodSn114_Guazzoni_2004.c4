@@ -1,0 +1,37 @@
+#ENTRY      O1094
+#AUTHOR1    P.Guazzoni+
+#YEAR       2004
+#INSTITUTE  (2ITYMIL)
+#TITLE      High-resolution study of the Sn-116(p,t) reaction and
+#+          shell model structure of Sn-114.
+#AUTHOR(S)  P.Guazzoni, L.Zetta, A.Covello, A.Gargano, G.Graw, R.Hertenberger, 
+#+          H.F.Wirth, M.Jaskola
+#REF-CODE   (J,PR/C,69,024619,2004)
+#REFERENCE  Phys.Rev.C 69 (2004) 024619
+#DATASETS   0
+#
+#DATASET    O1094002 
+#DATE       20041025
+#REACTION   50-SN-116(P,T)50-SN-114,PAR,DA
+#PROJ       1001
+#TARG       50116
+#MF         4
+#MT         700
+#PRODUCT    50-SN-114
+#C4BEGIN    [ 1001 50116   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50116   4 700  C 2.6000+7 4000.000 3.3800-5          0.993191          2417000.         LVLP.Guazzoni+          (04)O1094  2 
+ 1001 50116   4 700  C 2.6000+7 4000.000 1.6100-5          0.983064          2417000.         LVLP.Guazzoni+          (04)O1094  2 
+ 1001 50116   4 700  C 2.6000+7 4000.000 4.2400-6          0.962266          2417000.         LVLP.Guazzoni+          (04)O1094  2 
+ 1001 50116   4 700  C 2.6000+7 4000.000 6.8000-7 1.7680-7 0.934764          2417000.         LVLP.Guazzoni+          (04)O1094  2 
+ 1001 50116   4 700  C 2.6000+7 4000.000 1.7000-6          0.899786          2417000.         LVLP.Guazzoni+          (04)O1094  2 
+ 1001 50116   4 700  C 2.6000+7 4000.000 2.2000-6 3.9600-7 0.856087          2417000.         LVLP.Guazzoni+          (04)O1094  2 
+ 1001 50116   4 700  C 2.6000+7 4000.000 2.4000-6 4.0800-7 0.809222          2417000.         LVLP.Guazzoni+          (04)O1094  2 
+ 1001 50116   4 700  C 2.6000+7 4000.000 1.8200-6          0.722364          2417000.         LVLP.Guazzoni+          (04)O1094  2 
+ 1001 50116   4 700  C 2.6000+7 4000.000 4.3000-7 9.0300-8 0.622515          2417000.         LVLP.Guazzoni+          (04)O1094  2 
+ 1001 50116   4 700  C 2.6000+7 4000.000 1.1900-6          0.516533          2417000.         LVLP.Guazzoni+          (04)O1094  2 
+ 1001 50116   4 700  C 2.6000+7 4000.000 9.7000-7 2.1340-7 0.399229          2417000.         LVLP.Guazzoni+          (04)O1094  2 
+#/DATA      11
+#/DATASET

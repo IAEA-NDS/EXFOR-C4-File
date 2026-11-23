@@ -1,0 +1,39 @@
+#ENTRY      O1177
+#AUTHOR1    V.M.Hannen+
+#YEAR       2003
+#INSTITUTE  (2NEDGRN)
+#TITLE      Measurement and microscopic analysis of the B-11(p,p)
+#+          reaction at E(p)=150 MeV. Inelastic scattering.
+#AUTHOR(S)  V.M.Hannen, K.Amos, A.M.Van Den Berg, R.Bieber, P.K.Deb, 
+#+          F.Ellinghaus, D.Frekers, M.Hagemann, M.N.Harakeh, J.Heyse, 
+#+          M.A.De Huu, B.A.M.Krusemann, S.Rakers, R.Schmidt, S.Y.Van Der Werf, 
+#+          H.J.Wortche
+#REF-CODE   (J,PR/C,67,054320,2003)
+#REFERENCE  Phys.Rev.C 67 (2003) 054320
+#DATASETS   0
+#
+#DATASET    O1177008 
+#DATE       20041231
+#REACTION   5-B-11(P,INL)5-B-11,PAR,DA
+#PROJ       1001
+#TARG       5011
+#MF         4
+#MT         601
+#PRODUCT    5-B-11
+#C4BEGIN    [ 1001  5011   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5011   4 601  C 1.5000+8          1.9800-5 3.9600-7 0.991917          7286000.         LVLV.M.Hannen+          (03)O1177  8 
+ 1001  5011   4 601  C 1.5000+8          2.5500-5 5.1000-7 0.988255          7286000.         LVLV.M.Hannen+          (03)O1177  8 
+ 1001  5011   4 601  C 1.5000+8          2.9200-5          0.982353          7286000.         LVLV.M.Hannen+          (03)O1177  8 
+ 1001  5011   4 601  C 1.5000+8          4.5000-5          0.976597          7286000.         LVLV.M.Hannen+          (03)O1177  8 
+ 1001  5011   4 601  C 1.5000+8          6.5700-5          0.966286          7286000.         LVLV.M.Hannen+          (03)O1177  8 
+ 1001  5011   4 601  C 1.5000+8          9.3200-5          0.950190          7286000.         LVLV.M.Hannen+          (03)O1177  8 
+ 1001  5011   4 601  C 1.5000+8          1.0800-4          0.937343          7286000.         LVLV.M.Hannen+          (03)O1177  8 
+ 1001  5011   4 601  C 1.5000+8          1.2200-4          0.923076          7286000.         LVLV.M.Hannen+          (03)O1177  8 
+ 1001  5011   4 601  C 1.5000+8          1.2600-4          0.908362          7286000.         LVLV.M.Hannen+          (03)O1177  8 
+ 1001  5011   4 601  C 1.5000+8          1.2530-4          0.892428          7286000.         LVLV.M.Hannen+          (03)O1177  8 
+ 1001  5011   4 601  C 1.5000+8          1.1200-4          0.863748          7286000.         LVLV.M.Hannen+          (03)O1177  8 
+#/DATA      11
+#/DATASET

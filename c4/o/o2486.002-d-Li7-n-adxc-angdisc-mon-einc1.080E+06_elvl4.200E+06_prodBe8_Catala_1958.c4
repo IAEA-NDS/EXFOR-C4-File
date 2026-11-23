@@ -1,0 +1,37 @@
+#ENTRY      O2486
+#AUTHOR1    J.Catala+
+#YEAR       1958
+#INSTITUTE  (2SPNSPN)
+#TITLE      Angular distributions of the neutrons produced in the
+#+          reaction 7Li(d,n)8Be
+#AUTHOR(S)  J.Catala, R.Font, P.Senent, J.Aguilar, M.de la Cuadra
+#REF-CODE   (J,NCS,9,377,1958)
+#REFERENCE  Nuovo Cim.Suppl. 9 (1958) 377
+#DATASETS   0
+#
+#DATASET    O2486002 
+#DATE       20210215
+#REACTION   3-LI-7(D,N)4-BE-8,PAR,DA
+#PROJ       1002
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 1002  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3007   4  50  C 1080000.          5.3800-8 3.3000-9 0.999994          4200000.         LVLJ.Catala+            (58)O2486  2 
+ 1002  3007   4  50  C 1080000.          3.6300-8 2.6000-9 0.951594          4200000.         LVLJ.Catala+            (58)O2486  2 
+ 1002  3007   4  50  C 1080000.          2.2000-8 2.8000-9 0.836764          4200000.         LVLJ.Catala+            (58)O2486  2 
+ 1002  3007   4  50  C 1080000.          2.1300-8 2.6000-9 0.665230          4200000.         LVLJ.Catala+            (58)O2486  2 
+ 1002  3007   4  50  C 1080000.          2.2300-8 2.1000-9 0.438371          4200000.         LVLJ.Catala+            (58)O2486  2 
+ 1002  3007   4  50  C 1080000.          1.2400-8 2.1000-9 0.202787          4200000.         LVLJ.Catala+            (58)O2486  2 
+ 1002  3007   4  50  C 1080000.          2.0400-8 2.4000-9-0.076719          4200000.         LVLJ.Catala+            (58)O2486  2 
+ 1002  3007   4  50  C 1080000.          1.3800-8 2.6000-9-0.335452          4200000.         LVLJ.Catala+            (58)O2486  2 
+ 1002  3007   4  50  C 1080000.          1.2900-8 1.7000-9-0.526956          4200000.         LVLJ.Catala+            (58)O2486  2 
+ 1002  3007   4  50  C 1080000.          2.2600-8 2.6000-9-0.741976          4200000.         LVLJ.Catala+            (58)O2486  2 
+ 1002  3007   4  50  C 1080000.          1.8100-8 2.1000-9-0.880477          4200000.         LVLJ.Catala+            (58)O2486  2 
+ 1002  3007   4  50  C 1080000.          2.8100-8 3.3000-9-0.971549          4200000.         LVLJ.Catala+            (58)O2486  2 
+#/DATA      12
+#/DATASET

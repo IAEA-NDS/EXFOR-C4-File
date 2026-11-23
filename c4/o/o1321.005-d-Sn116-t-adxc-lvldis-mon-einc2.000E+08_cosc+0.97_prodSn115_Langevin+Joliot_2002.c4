@@ -1,0 +1,29 @@
+#ENTRY      O1321
+#AUTHOR1    H.Langevin-Joliot+
+#YEAR       2002
+#INSTITUTE  (2FR PAR)
+#TITLE      1G(9/2), 1F(5/2)and 1F(7/2) neutron inner hole
+#+          responses in Sn-115 and Sn-119 via the (d,t) reaction
+#+          at E(p)=200-MeV.
+#AUTHOR(S)  H.Langevin-Joliot, J.Van De Wiele, J.Guillot, E.Gerlic, 
+#+          L.H.Rosier, A.Willis, C.Djalali, M.Morlet, E.Tomasi-Gustafsson, 
+#+          N.Blasi, S.Micheletti, S.Y.Van Der Werf
+#REF-CODE   (J,PR/C,66,054303,2002)
+#REFERENCE  Phys.Rev.C 66 (2002) 054303
+#DATASETS   0
+#
+#DATASET    O1321005 
+#DATE       20070606
+#REACTION   50-SN-116(D,T)50-SN-115,PAR,DA
+#PROJ       1002
+#TARG       50116
+#MF         4
+#MT         700
+#PRODUCT    50-SN-115
+#C4BEGIN    [ 1002 50116   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50116   4 700  C 2.0000+8          4.9300-5          0.966331          5850000.         LVLH.Langevin-Joliot+   (02)O1321  5 
+#/DATA      1
+#/DATASET

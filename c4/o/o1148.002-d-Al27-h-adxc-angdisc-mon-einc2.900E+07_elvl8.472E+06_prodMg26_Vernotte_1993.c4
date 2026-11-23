@@ -1,0 +1,34 @@
+#ENTRY      O1148
+#AUTHOR1    J.Vernotte+
+#YEAR       1993
+#INSTITUTE  (2FR PAR)
+#TITLE      Al-27(d,He3)Mg-26 reaction at 29-MeV.
+#AUTHOR(S)  J.Vernotte, G.Berrier-Ronsin, S.Fortier, E.Hourani, J.Kalifa, 
+#+          J.M.Maison, L.H.Rosier, G.Rotbard, B.H.Wildenthal
+#REF-CODE   (J,PR/C,48,205,1993)
+#REFERENCE  Phys.Rev.C 48 (1993) 205
+#DATASETS   0
+#
+#DATASET    O1148002 
+#DATE       20040411
+#REACTION   13-AL-27(D,HE3)12-MG-26,PAR,DA
+#PROJ       1002
+#TARG       13027
+#MF         4
+#MT         750
+#PRODUCT    12-MG-26
+#C4BEGIN    [ 1002 13027   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 13027   4 750  C 2.9000+7          1.1830-5 8.2810-7 0.995193          8472000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          1.6700-5 1.1690-6 0.984473          8472000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          1.6600-5 1.1620-6 0.967885          8472000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          1.6700-5 1.1690-6 0.944892          8472000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          1.6500-5 1.1550-6 0.918170          8472000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          1.5500-5 7.7500-7 0.884744          8472000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          1.2090-5 6.0450-7 0.801254          8472000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          1.0840-5 5.4200-7 0.751264          8472000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+ 1002 13027   4 750  C 2.9000+7          1.0010-5 5.0050-7 0.698040          8472000. 5000.000LVLJ.Vernotte+          (93)O1148  2 
+#/DATA      9
+#/DATASET

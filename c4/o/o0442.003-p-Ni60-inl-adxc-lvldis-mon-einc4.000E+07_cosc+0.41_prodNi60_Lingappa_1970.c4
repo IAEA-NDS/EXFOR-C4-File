@@ -1,0 +1,31 @@
+#ENTRY      O0442
+#AUTHOR1    N.Lingappa+
+#YEAR       1970
+#INSTITUTE  (1USAMIN)
+#TITLE      Inelastic Scattering of 40-MeV Protons by Ni-58 and
+#+          Ni-60 and Analysis in Coupled Channels.
+#AUTHOR(S)  N.Lingappa, G.W.Greenleess
+#REF-CODE   (J,PR/C,2,1329,1970)
+#REFERENCE  Phys.Rev.C 2 (1970) 1329
+#DATASETS   0
+#
+#DATASET    O0442003 
+#DATE       20000426
+#REACTION   28-NI-60(P,INL)28-NI-60,PAR,DA
+#PROJ       1001
+#TARG       28060
+#MF         4
+#MT         601
+#PRODUCT    28-NI-60
+#C4BEGIN    [ 1001 28060   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28060   4 601  C 4.0000+7 230000.0 8.8700-4 4.0000-5 0.406737          1330000.         LVLN.Lingappa+          (70)O0442  3 
+ 1001 28060   4 601  C 4.0000+7 230000.0 1.8800-4 1.5000-5 0.406737          2560000.         LVLN.Lingappa+          (70)O0442  3 
+ 1001 28060   4 601  C 4.0000+7 230000.0 8.4000-5 1.3000-5 0.406737          3200000.         LVLN.Lingappa+          (70)O0442  3 
+ 1001 28060   4 601  C 4.0000+7 230000.0 9.8500-4 5.0000-5 0.406737          4050000.         LVLN.Lingappa+          (70)O0442  3 
+ 1001 28060   4 601  C 4.0000+7 230000.0 7.1500-4 4.0000-5 0.406737          5100000.         LVLN.Lingappa+          (70)O0442  3 
+ 1001 28060   4 601  C 4.0000+7 230000.0 1.1900-4 2.0000-5 0.406737          6100000.         LVLN.Lingappa+          (70)O0442  3 
+#/DATA      6
+#/DATASET

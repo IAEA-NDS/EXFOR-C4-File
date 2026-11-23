@@ -1,0 +1,39 @@
+#ENTRY      O2190
+#AUTHOR1    D.S.Jamieson+
+#YEAR       2014
+#INSTITUTE  (1CANGUE)
+#TITLE      Investigations of spectroscopic factors and sum rules
+#+          from the single neutron transfer reaction
+#+          111Cd(d,p)112Cd.
+#AUTHOR(S)  D.S.Jamieson, P.E.Garrett, G.C.Ball, G.A.Demand, T.Faestermann, 
+#+          P.Finlay, K.L.Green, R.Hertenberger, R.Kruecken, K.G.Leach, 
+#+          A.A.Phillips, C.S.Sumithrarachchi, S.Triambak, H.-F.Wirth
+#REF-CODE   (J,EPJ/CS,66,02056,2014)
+#REFERENCE  EPJ Web Conf. 66 (2014) 02056
+#DATASETS   0
+#
+#DATASET    O2190004 
+#DATE       20140512
+#REACTION   48-CD-111(D,P)48-CD-112,PAR,DA
+#PROJ       1002
+#TARG       48111
+#MF         4
+#MT         600
+#PRODUCT    48-CD-112
+#C4BEGIN    [ 1002 48111   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 48111   4 600  C 2.2000+7          7.2820-8          0.984938          2373000.         LVLD.S.Jamieson+        (14)O2190  4 
+ 1002 48111   4 600  C 2.2000+7          7.2610-8          0.965939          2373000.         LVLD.S.Jamieson+        (14)O2190  4 
+ 1002 48111   4 600  C 2.2000+7          1.0130-7          0.936403          2373000.         LVLD.S.Jamieson+        (14)O2190  4 
+ 1002 48111   4 600  C 2.2000+7          1.5180-7          0.903253          2373000.         LVLD.S.Jamieson+        (14)O2190  4 
+ 1002 48111   4 600  C 2.2000+7          1.9980-7          0.865964          2373000.         LVLD.S.Jamieson+        (14)O2190  4 
+ 1002 48111   4 600  C 2.2000+7          2.0210-7          0.818731          2373000.         LVLD.S.Jamieson+        (14)O2190  4 
+ 1002 48111   4 600  C 2.2000+7          1.5360-7          0.765640          2373000.         LVLD.S.Jamieson+        (14)O2190  4 
+ 1002 48111   4 600  C 2.2000+7          9.4270-8          0.699551          2373000.         LVLD.S.Jamieson+        (14)O2190  4 
+ 1002 48111   4 600  C 2.2000+7          7.0500-8          0.662659          2373000.         LVLD.S.Jamieson+        (14)O2190  4 
+ 1002 48111   4 600  C 2.2000+7          4.5400-8 1.6570-9 0.491649          2373000.         LVLD.S.Jamieson+        (14)O2190  4 
+ 1002 48111   4 600  C 2.2000+7          4.5400-8          0.491649          2373000.         LVLD.S.Jamieson+        (14)O2190  4 
+#/DATA      11
+#/DATASET

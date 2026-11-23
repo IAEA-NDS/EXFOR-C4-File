@@ -1,0 +1,42 @@
+#ENTRY      O1435
+#AUTHOR1    P.R.S.Gomes+
+#YEAR       2006
+#INSTITUTE  (3BZLUFF)
+#TITLE      Comprehensive study of reaction mechanisms for the 9-Be
+#+          + 144-Sm system at near- and sub-barrier energies
+#AUTHOR(S)  P.R.S.Gomes, I.Padron, E.Crema, O.A.Capurro, J.O.Fernandez Niello, 
+#+          A.Arazi, G.V.Marti, J.Lubian, M.Trotta, A.J.Pacheco, J.E.Testoni, 
+#+          M.D.Rodriguez, M.E.Ortega, L.C.Chamon, R.M.Anjos, R.Veiga, 
+#+          M.Dasgupta, D.J.Hinde, K.Hagino
+#REF-CODE   (J,PR/C,73,064606,2006)
+#REFERENCE  Phys.Rev.C 73 (2006) 064606
+#DATASETS   0
+#
+#DATASET    O1435002 
+#DATE       20091021
+#REACTION   62-SM-144(4-BE-9,EL)62-SM-144,,DA,,RTH
+#PROJ       4009
+#TARG       62144
+#MF         4
+#MT         2
+#PRODUCT    62-SM-144
+#C4BEGIN    [ 4009 62144   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 4009 62144   4   2  C 3.4000+7          0.327566 0.011792 0.024956                              P.R.S.Gomes+         (06)O1435  2 
+ 4009 62144   4   2  C 3.4000+7          0.273149 0.010116-0.062505                              P.R.S.Gomes+         (06)O1435  2 
+ 4009 62144   4   2  C 3.4000+7          0.204019 9.1522-3-0.149016                              P.R.S.Gomes+         (06)O1435  2 
+ 4009 62144   4   2  C 3.4000+7          0.144240 7.5807-3-0.316665                              P.R.S.Gomes+         (06)O1435  2 
+ 4009 62144   4   2  C 3.4000+7          0.111205 7.0617-3-0.396623                              P.R.S.Gomes+         (06)O1435  2 
+ 4009 62144   4   2  C 3.4000+7          0.100348 7.3574-3-0.473280                              P.R.S.Gomes+         (06)O1435  2 
+ 4009 62144   4   2  C 3.4000+7          0.084090 6.3559-3-0.546145                              P.R.S.Gomes+         (06)O1435  2 
+ 4009 62144   4   2  C 3.4000+7          0.066377 3.5329-3-0.614765                              P.R.S.Gomes+         (06)O1435  2 
+ 4009 62144   4   2  C 3.4000+7          0.049801 2.8511-3-0.678729                              P.R.S.Gomes+         (06)O1435  2 
+ 4009 62144   4   2  C 3.4000+7          0.047390 2.9116-3-0.737668                              P.R.S.Gomes+         (06)O1435  2 
+ 4009 62144   4   2  C 3.4000+7          0.034526 2.4232-3-0.839189                              P.R.S.Gomes+         (06)O1435  2 
+ 4009 62144   4   2  C 3.4000+7          0.028498 2.3345-3-0.881228                              P.R.S.Gomes+         (06)O1435  2 
+ 4009 62144   4   2  C 3.4000+7          0.029626 2.5986-3-0.917155                              P.R.S.Gomes+         (06)O1435  2 
+ 4009 62144   4   2  C 3.4000+7          0.026576 2.3221-3-0.946790                              P.R.S.Gomes+         (06)O1435  2 
+#/DATA      14
+#/DATASET

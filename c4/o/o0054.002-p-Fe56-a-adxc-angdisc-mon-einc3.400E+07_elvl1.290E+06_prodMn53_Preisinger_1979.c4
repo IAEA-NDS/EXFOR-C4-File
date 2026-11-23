@@ -1,0 +1,39 @@
+#ENTRY      O0054
+#AUTHOR1    K.Preisinger+
+#YEAR       1979
+#INSTITUTE  (2SWTZUR)
+#TITLE      An investigation of shell model wave functions of Fe-56
+#+          and Mn-53 by the (p,alpha) reaction using a full
+#+          microscopic description
+#AUTHOR(S)  K.Preisinger, H.Jasicek, H.Oberhummer, P.Riehs, H.H.Muller, 
+#+          P.Schober
+#REF-CODE   (J,NP/A,332,278,1979)
+#REFERENCE  Nucl.Phys.A 332 (1979) 278
+#DATASETS   0
+#
+#DATASET    O0054002 
+#DATE       20230404
+#REACTION   26-FE-56(P,A)25-MN-53,PAR,DA
+#PROJ       1001
+#TARG       26056
+#MF         4
+#MT         800
+#PRODUCT    25-MN-53
+#C4BEGIN    [ 1001 26056   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26056   4 800  C 3.4000+7          9.1000-6          0.939693          1290000.         LVLK.Preisinger+        (79)O0054  2 
+ 1001 26056   4 800  C 3.4000+7          7.9000-6          0.932954          1290000.         LVLK.Preisinger+        (79)O0054  2 
+ 1001 26056   4 800  C 3.4000+7          7.4000-6          0.907777          1290000.         LVLK.Preisinger+        (79)O0054  2 
+ 1001 26056   4 800  C 3.4000+7          4.9000-6          0.888617          1290000.         LVLK.Preisinger+        (79)O0054  2 
+ 1001 26056   4 800  C 3.4000+7          2.5000-6          0.792290          1290000.         LVLK.Preisinger+        (79)O0054  2 
+ 1001 26056   4 800  C 3.4000+7          1.4300-6          0.730162          1290000.         LVLK.Preisinger+        (79)O0054  2 
+ 1001 26056   4 800  C 3.4000+7          1.2400-6          0.675590          1290000.         LVLK.Preisinger+        (79)O0054  2 
+ 1001 26056   4 800  C 3.4000+7          5.3000-7          0.478692          1290000.         LVLK.Preisinger+        (79)O0054  2 
+ 1001 26056   4 800  C 3.4000+7          9.0000-7          0.450878          1290000.         LVLK.Preisinger+        (79)O0054  2 
+ 1001 26056   4 800  C 3.4000+7          1.0800-6          0.350207          1290000.         LVLK.Preisinger+        (79)O0054  2 
+ 1001 26056   4 800  C 3.4000+7          7.0000-7          0.320613          1290000.         LVLK.Preisinger+        (79)O0054  2 
+ 1001 26056   4 800  C 3.4000+7          2.8000-7          0.272280          1290000.         LVLK.Preisinger+        (79)O0054  2 
+#/DATA      12
+#/DATASET

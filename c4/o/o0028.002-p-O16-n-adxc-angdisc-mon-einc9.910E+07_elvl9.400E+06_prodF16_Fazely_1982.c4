@@ -1,0 +1,33 @@
+#ENTRY      O0028
+#AUTHOR1    A.Fazely+
+#YEAR       1982
+#INSTITUTE  (1USAMIT)
+#TITLE      Spectroscopy of F-16 from the O-16(p,n)F-16 reaction
+#+          at 99 and 135 MeV.
+#AUTHOR(S)  A.Fazely, B.D.Anderson, M.Ahmad, A.R.Baldwin, A.M.Kalenda, 
+#+          R.J.McCarthy, J.W.Watson, R.Madey, W.Bertozzi, T.N.Buti, 
+#+          J.M.Finn, M.A.Kovash, B.Pugh, C.C.Foster
+#REF-CODE   (J,PR/C,25,1760,1982)
+#REFERENCE  Phys.Rev.C 25 (1982) 1760
+#DATASETS   0
+#
+#DATASET    O0028002 
+#DATE       20190208
+#REACTION   8-O-16(P,N)9-F-16,PAR,DA
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         50
+#PRODUCT    9-F-16
+#C4BEGIN    [ 1001  8016   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4  50  C 9.9100+7          4.3200-4 5.6000-5 1.000000          9400000.         LVLA.Fazely+            (82)O0028  2 
+ 1001  8016   4  50  C 9.9100+7          5.6100-4 1.1600-4 0.993768          9400000.         LVLA.Fazely+            (82)O0028  2 
+ 1001  8016   4  50  C 9.9100+7          6.3400-4 1.1400-4 0.975535          9400000.         LVLA.Fazely+            (82)O0028  2 
+ 1001  8016   4  50  C 9.9100+7          4.8900-4 4.3000-5 0.942641          9400000.         LVLA.Fazely+            (82)O0028  2 
+ 1001  8016   4  50  C 9.9100+7          2.8200-4 8.1000-5 0.899558          9400000.         LVLA.Fazely+            (82)O0028  2 
+ 1001  8016   4  50  C 9.9100+7          1.5700-4 3.3000-5 0.894934          9400000.         LVLA.Fazely+            (82)O0028  2 
+#/DATA      6
+#/DATASET

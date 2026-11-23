@@ -1,0 +1,42 @@
+#ENTRY      O1654
+#AUTHOR1    D.Escrig+
+#YEAR       2007
+#INSTITUTE  (2SPNSPN)
+#TITLE      Alpha-particle production in the scattering of He-6
+#+          by Pb-208 at energies around the Coulomb barrier.
+#AUTHOR(S)  D.Escrig, A.M.Sanchez-Benitez, A.M.Moro, M.A.G.Alvarez, 
+#+          M.V.Andres, C.Angulo, M.J.G.Borge, J.Cabrera, S.Cherubini, 
+#+          P.Demaret, J.M.Espino, P.Figuera, M.Freer, J.E.Garcia-Ramos, 
+#+          J.Gomez-Camacho, M.Gulino, O.R.Kakuee, I.Martel, C.Metelko, 
+#+          F.Perez-Bernal, J.Rahighi, K.Rusek, D.Smirnov, O.Tengbland, 
+#+          V.Ziman
+#REF-CODE   (J,NP/A,792,2,2007)
+#REFERENCE  Nucl.Phys.A 792 (2007) 2
+#DATASETS   0
+#
+#DATASET    O1654003 
+#DATE       20080429
+#REACTION   82-PB-208(2-HE-6,X)2-HE-4,,DE
+#PROJ       2006
+#TARG       82208
+#MF         5
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 2006 82208   5 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2006 82208   5 207    1.6000+7          4.600-10                            6440000.          E2D.Escrig+            (07)O1654  3 
+ 2006 82208   5 207    1.6000+7          7.100-10                            7330000.          E2D.Escrig+            (07)O1654  3 
+ 2006 82208   5 207    1.6000+7          7.500-10                            8300000.          E2D.Escrig+            (07)O1654  3 
+ 2006 82208   5 207    1.6000+7          8.000-10                            9460000.          E2D.Escrig+            (07)O1654  3 
+ 2006 82208   5 207    1.6000+7          3.9000-9 9.000-10                   1.0330+7          E2D.Escrig+            (07)O1654  3 
+ 2006 82208   5 207    1.6000+7          1.1500-8 1.000-09                   1.1430+7          E2D.Escrig+            (07)O1654  3 
+ 2006 82208   5 207    1.6000+7          1.8500-8 1.3000-9                   1.2530+7          E2D.Escrig+            (07)O1654  3 
+ 2006 82208   5 207    1.6000+7          1.4200-8 1.3000-9                   1.3540+7          E2D.Escrig+            (07)O1654  3 
+ 2006 82208   5 207    1.6000+7          1.0300-8 8.000-10                   1.4550+7          E2D.Escrig+            (07)O1654  3 
+ 2006 82208   5 207    1.6000+7          2.1000-9                            1.5580+7          E2D.Escrig+            (07)O1654  3 
+ 2006 82208   5 207    1.6000+7          6.200-10                            1.6570+7          E2D.Escrig+            (07)O1654  3 
+ 2006 82208   5 207    1.6000+7          4.400-10                            1.7550+7          E2D.Escrig+            (07)O1654  3 
+#/DATA      12
+#/DATASET

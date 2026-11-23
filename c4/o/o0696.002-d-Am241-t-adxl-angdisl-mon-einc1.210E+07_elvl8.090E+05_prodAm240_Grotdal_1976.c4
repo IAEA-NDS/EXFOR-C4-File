@@ -1,0 +1,28 @@
+#ENTRY      O0696
+#AUTHOR1    T.Grotdal+
+#YEAR       1976
+#INSTITUTE  (2NORBGN)
+#TITLE      Energy levels in 240, 242, 244Am studied by
+#+          deuteron-induced neutron transfer
+#AUTHOR(S)  T.Grotdal, L.Guldberg, K.Nybel, T.F.Thorsteinsen
+#REF-CODE   (J,PS,14,263,1976)
+#REFERENCE  Phys.Scr. 14 (1976) 263
+#DATASETS   0
+#
+#DATASET    O0696002 
+#DATE       20040214
+#REACTION   95-AM-241(D,T)95-AM-240,PAR,DA
+#PROJ       1002
+#TARG       95241
+#MF         4
+#MT         700
+#PRODUCT    95-AM-240
+#C4BEGIN    [ 1002 95241   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 95241   4 700    1.2100+7          4.0000-6          0.500000          809000.0         LVLT.Grotdal+           (76)O0696  2 
+ 1002 95241   4 700    1.2100+7          2.8000-5          6.123-17          809000.0         LVLT.Grotdal+           (76)O0696  2 
+ 1002 95241   4 700    1.2100+7          2.4000-5         -0.500000          809000.0         LVLT.Grotdal+           (76)O0696  2 
+#/DATA      3
+#/DATASET

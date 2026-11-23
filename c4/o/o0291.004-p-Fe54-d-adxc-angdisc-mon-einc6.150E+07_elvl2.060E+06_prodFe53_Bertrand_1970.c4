@@ -1,0 +1,33 @@
+#ENTRY      O0291
+#AUTHOR1    F.E.Bertrand+
+#YEAR       1970
+#INSTITUTE  (1USAORL)
+#TITLE      Tabulated cross sections for hydrogen and helium
+#+          particles produced by 62, 39 and 29 MeV protons on
+#+          54-Fe.
+#AUTHOR(S)  F.E.Bertrand, R.W.Peelle
+#REF-CODE   (R,ORNL-4469,197002)
+#REFERENCE  Report ORNL-4469, 1970
+#DATASETS   0
+#
+#DATASET    O0291004 
+#DATE       20151028
+#REACTION   26-FE-54(P,D)26-FE-53,PAR,DA
+#PROJ       1001
+#TARG       26054
+#MF         4
+#MT         650
+#PRODUCT    26-FE-53
+#C4BEGIN    [ 1001 26054   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26054   4 650  C 6.1500+7 100000.0 1.1000-4 3.7400-5 0.976296          2060000.         LVLF.E.Bertrand+        (70)O0291  4 
+ 1001 26054   4 650  C 6.1500+7 100000.0 2.3000-5 3.4500-6 0.885394          2060000.         LVLF.E.Bertrand+        (70)O0291  4 
+ 1001 26054   4 650  C 6.1500+7 100000.0 1.0000-5 7.0000-7 0.858960          2060000.         LVLF.E.Bertrand+        (70)O0291  4 
+ 1001 26054   4 650  C 6.1500+7 100000.0 2.2000-5 4.6200-6 0.753563          2060000.         LVLF.E.Bertrand+        (70)O0291  4 
+ 1001 26054   4 650  C 6.1500+7 100000.0 4.6000-6 1.9320-6 0.666532          2060000.         LVLF.E.Bertrand+        (70)O0291  4 
+ 1001 26054   4 650  C 6.1500+7 100000.0 7.5000-6 2.1750-6 0.625243          2060000.         LVLF.E.Bertrand+        (70)O0291  4 
+ 1001 26054   4 650  C 6.1500+7 100000.0 5.0000-3 5.0000-8 0.406737          2060000.         LVLF.E.Bertrand+        (70)O0291  4 
+#/DATA      7
+#/DATASET

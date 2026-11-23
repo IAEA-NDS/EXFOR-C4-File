@@ -1,0 +1,38 @@
+#ENTRY      O1807
+#AUTHOR1    G.Loevhoeiden+
+#YEAR       1980
+#INSTITUTE  (2NORBGN)
+#TITLE      Studies of single neutron holes in the transitional
+#+          nuclei N=83-89.
+#+          The 150,148Nd(d,t) and 150,148,146Nd(He3,a) pick-up
+#+          reactions.
+#AUTHOR(S)  G.Loevhoeiden, J.R.Lien, S.El-Kazzaz, J.Rekstad, C.Ellegaard, 
+#+          J.H.Bjerregaard, P.Knudsen, P.Kleinheinz
+#REF-CODE   (J,NP/A,339,477,1980)
+#REFERENCE  Nucl.Phys.A 339 (1980) 477
+#DATASETS   0
+#
+#DATASET    O1807004 
+#DATE       20091208
+#REACTION   60-ND-148(D,T)60-ND-147,PAR,DA
+#PROJ       1002
+#TARG       60148
+#MF         4
+#MT         700
+#PRODUCT    60-ND-147
+#C4BEGIN    [ 1002 60148   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 60148   4 700  C 1.7000+7 6000.000 3.6000-5 6.8400-6 0.989272          1624000. 5000.000LVLG.Loevhoeiden+       (80)O1807  4 
+ 1002 60148   4 700  C 1.7000+7 6000.000 5.7600-5 2.3040-6 0.973976          1624000. 5000.000LVLG.Loevhoeiden+       (80)O1807  4 
+ 1002 60148   4 700  C 1.7000+7 6000.000 1.1000-4 4.4000-6 0.946649          1624000. 5000.000LVLG.Loevhoeiden+       (80)O1807  4 
+ 1002 60148   4 700  C 1.7000+7 6000.000 1.2200-4 4.8800-6 0.917060          1624000. 5000.000LVLG.Loevhoeiden+       (80)O1807  4 
+ 1002 60148   4 700  C 1.7000+7 6000.000 7.7000-5 3.0800-6 0.882127          1624000. 5000.000LVLG.Loevhoeiden+       (80)O1807  4 
+ 1002 60148   4 700  C 1.7000+7 6000.000 5.1300-5 2.0520-6 0.840567          1624000. 5000.000LVLG.Loevhoeiden+       (80)O1807  4 
+ 1002 60148   4 700  C 1.7000+7 6000.000 7.4700-5 2.9880-6 0.777146          1624000. 5000.000LVLG.Loevhoeiden+       (80)O1807  4 
+ 1002 60148   4 700  C 1.7000+7 6000.000 6.0100-5 2.4040-6 0.722967          1624000. 5000.000LVLG.Loevhoeiden+       (80)O1807  4 
+ 1002 60148   4 700  C 1.7000+7 6000.000 3.5000-5 4.9000-6 0.671721          1624000. 5000.000LVLG.Loevhoeiden+       (80)O1807  4 
+ 1002 60148   4 700  C 1.7000+7 6000.000 3.5800-5 2.8640-6 0.601815          1624000. 5000.000LVLG.Loevhoeiden+       (80)O1807  4 
+#/DATA      10
+#/DATASET

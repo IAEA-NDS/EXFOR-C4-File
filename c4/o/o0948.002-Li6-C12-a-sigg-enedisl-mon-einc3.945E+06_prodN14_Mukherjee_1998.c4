@@ -1,0 +1,28 @@
+#ENTRY      O0948
+#AUTHOR1    A.Mukherjee+
+#YEAR       1998
+#INSTITUTE  (3INDSAH)
+#TITLE      Fusion cross sections for 6Li+12C and 6Li+13C reactions
+#+          at low energies
+#AUTHOR(S)  A.Mukherjee, U.Datta Pramanik, S.Chattopadhyay, M.Saha Sarkar, 
+#+          A.Goswami, P.Basu, S.Bhattacharya, M.L.Chatterjee, B.Dasmahapatra
+#REF-CODE   (J,NP/A,635,305,1998)
+#REFERENCE  Nucl.Phys.A 635 (1998) 305
+#DATASETS   0
+#
+#DATASET    O0948002 
+#DATE       20030503
+#REACTION   6-C-12(3-LI-6,A)7-N-14,PAR,SIG,G
+#PROJ       3006
+#TARG       6012
+#MF         13
+#MT         800
+#PRODUCT    7-N-14
+#C4BEGIN    [ 3006  6012  13 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006  6012  13 800    3945000.          4.7400-3 7.0470-4                   1635000.            A.Mukherjee+         (98)O0948  2 
+ 3006  6012  13 800    3945000.          9.4000-3 1.3974-3                   2313000.            A.Mukherjee+         (98)O0948  2 
+#/DATA      2
+#/DATASET

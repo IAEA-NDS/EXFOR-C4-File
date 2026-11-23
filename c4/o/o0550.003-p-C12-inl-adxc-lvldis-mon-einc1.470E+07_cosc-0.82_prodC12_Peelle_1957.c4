@@ -1,0 +1,26 @@
+#ENTRY      O0550
+#AUTHOR1    R.W.Peelle+
+#YEAR       1957
+#INSTITUTE  (1USAPTN)
+#TITLE      Differential Cross Sections For Scattering of Medium
+#+          Energy Protons on Carbon.
+#AUTHOR(S)  R.W.Peelle
+#REF-CODE   (J,PR,105,1311,1957)
+#REFERENCE  Phys.Rev. 105 (1957) 1311
+#DATASETS   0
+#
+#DATASET    O0550003 
+#DATE       20010212
+#REACTION   6-C-12(P,INL)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         601
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 601  C 1.4700+7          0.016100 5.0000-4-0.815128 5.0552-3 4400000.         LVLR.W.Peelle           (57)O0550  3 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,38 @@
+#ENTRY      O2469
+#AUTHOR1    P.Darriulat+
+#YEAR       1968
+#INSTITUTE  (2FR SAC)
+#TITLE      Differential cross section and polarization in
+#+          p-alpha scattering from 22 to 25 MeV
+#AUTHOR(S)  P.Darriulat, D.Garreta, A.Tarrats, J.Testoni
+#REF-CODE   (J,NP/A,108,316,1968)
+#REFERENCE  Nucl.Phys.A 108 (1968) 316
+#DATASETS   0
+#
+#DATASET    O2469002 
+#DATE       20200525
+#REACTION   2-HE-4(P,EL)2-HE-4,,DA
+#PROJ       1001
+#TARG       2004
+#MF         4
+#MT         2
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  2004   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  2004   4   2  C 2.2150+7 50000.00 0.168800 5.5704-3 0.906308                              P.Darriulat+         (68)O2469  2 
+ 1001  2004   4   2  C 2.2410+7 50000.00 0.163800 5.4054-3 0.906308                              P.Darriulat+         (68)O2469  2 
+ 1001  2004   4   2  C 2.2740+7 50000.00 0.165300 5.9508-3 0.906308                              P.Darriulat+         (68)O2469  2 
+ 1001  2004   4   2  C 2.2930+7 50000.00 0.165800 5.4714-3 0.906308                              P.Darriulat+         (68)O2469  2 
+ 1001  2004   4   2  C 2.3060+7 50000.00 0.170800 5.6364-3 0.906308                              P.Darriulat+         (68)O2469  2 
+ 1001  2004   4   2  C 2.3150+7 50000.00 0.182200 6.0126-3 0.906308                              P.Darriulat+         (68)O2469  2 
+ 1001  2004   4   2  C 2.3250+7 50000.00 0.201600 6.4512-3 0.906308                              P.Darriulat+         (68)O2469  2 
+ 1001  2004   4   2  C 2.3380+7 50000.00 0.189800 5.8838-3 0.906308                              P.Darriulat+         (68)O2469  2 
+ 1001  2004   4   2  C 2.3590+7 50000.00 0.172000 5.5040-3 0.906308                              P.Darriulat+         (68)O2469  2 
+ 1001  2004   4   2  C 2.3850+7 50000.00 0.170400 5.2824-3 0.906308                              P.Darriulat+         (68)O2469  2 
+ 1001  2004   4   2  C 2.4040+7 50000.00 0.168400 6.0624-3 0.906308                              P.Darriulat+         (68)O2469  2 
+ 1001  2004   4   2  C 2.4250+7 50000.00 0.162400 5.3592-3 0.906308                              P.Darriulat+         (68)O2469  2 
+ 1001  2004   4   2  C 2.4780+7 50000.00 0.159300 5.4162-3 0.906308                              P.Darriulat+         (68)O2469  2 
+#/DATA      13
+#/DATASET

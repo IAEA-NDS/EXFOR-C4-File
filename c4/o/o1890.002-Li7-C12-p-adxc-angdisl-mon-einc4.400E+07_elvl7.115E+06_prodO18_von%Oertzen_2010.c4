@@ -1,0 +1,29 @@
+#ENTRY      O1890
+#AUTHOR1    W.von Oertzen+
+#YEAR       2010
+#INSTITUTE  (2GERBER)
+#TITLE      Molecular and cluster structures in O-18.
+#AUTHOR(S)  W.von Oertzen, M.Milin, T.Dorsch, H.G.Bohlen, R.Kruecken, 
+#+          T.Faestermann, R.Hertenberger, Tz.Kokalova, M.Mahgoub, C.Wheldon, 
+#+          H.-F.Wirth
+#REF-CODE   (J,EPJ/A,43,17,2010)
+#REFERENCE  Eur.Phys.J.A 43 (2010) 17
+#DATASETS   0
+#
+#DATASET    O1890002 
+#DATE       20110127
+#REACTION   6-C-12(3-LI-7,P)8-O-18,PAR,DA
+#PROJ       3007
+#TARG       6012
+#MF         4
+#MT         600
+#PRODUCT    8-O-18
+#C4BEGIN    [ 3007  6012   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007  6012   4 600  C 4.4000+7          1.2060-5 3.0000-7 0.984808          7115000. 5000.000LVLW.von Oertzen+       (10)O1890  2 
+ 3007  6012   4 600  C 4.4000+7          1.2590-5 2.9000-7 0.939693          7115000. 5000.000LVLW.von Oertzen+       (10)O1890  2 
+ 3007  6012   4 600  C 4.4000+7          7.3900-6 2.3000-7 0.777146          7115000. 5000.000LVLW.von Oertzen+       (10)O1890  2 
+#/DATA      3
+#/DATASET

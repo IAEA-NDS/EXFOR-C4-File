@@ -1,0 +1,29 @@
+#ENTRY      O0697
+#AUTHOR1    H.Ogawa+
+#YEAR       1986
+#INSTITUTE  (2JPNKTO)
+#TITLE      Inelastic Scattering of 65-MeV Polarized Protons from
+#+          Hf-172, Hf-180, W-182 and W-184 and Multipole Moments
+#+          Of the Optical Potential.
+#AUTHOR(S)  H.Ogawa, H.Sakaguchi, M.Nakamura, T.Noro, H.Sakamoto, T.Ichihara, 
+#+          M.Yosoi, M.Ieiri, N.Isshiki, Y.Takeuchi, S.Kobayashi
+#REF-CODE   (J,PR/C,33,834,1986)
+#REFERENCE  Phys.Rev.C 33 (1986) 834
+#DATASETS   0
+#
+#DATASET    O06970091
+#DATE       20010323
+#REACTION   74-W-184(P,INL)74-W-184,PAR,DA
+#PROJ       1001
+#TARG       74184
+#MF         4
+#MT         601
+#PRODUCT    74-W-184
+#C4BEGIN    [ 1001 74184   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 74184   4 601    6.5000+7          0.022760 3.4000-4 0.897643          111000.0         LVLH.Ogawa+             (86)O0697  91
+ 1001 74184   4 601    6.5000+7          3.5880-3 8.9000-5 0.897643          364000.0         LVLH.Ogawa+             (86)O0697  91
+#/DATA      2
+#/DATASET

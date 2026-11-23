@@ -1,0 +1,38 @@
+#ENTRY      O2629
+#AUTHOR1    J.C.Nzobadila Ondze+
+#YEAR       2021
+#INSTITUTE  (3SAFUWC)
+#TITLE      Investigation of pair-correlated 0+ states in 134Ba via
+#+          the 136Ba(p,t) reaction
+#AUTHOR(S)  J.C.Nzobadila Ondze, B.M.Rebeiro, S.Triambak, L.Atar, G.C.Ball, 
+#+          V.Bildstein, C.Burbadge, A.Diaz Varela, T.Faestermann, P.E.Garrett, 
+#+          R.Hertenberger, M.Kamil, R.Lindsay, J.N.Orce, A.Radich, 
+#+          H.-F.Wirth
+#REF-CODE   (J,PR/C,103,034329,2021)
+#REFERENCE  Phys.Rev.C 103 (2021) 034329
+#DATASETS   0
+#
+#DATASET    O2629002 
+#DATE       20240808
+#REACTION   56-BA-136(P,T)56-BA-134,PAR,DA
+#PROJ       1001
+#TARG       56136
+#MF         4
+#MT         700
+#PRODUCT    56-BA-134
+#C4BEGIN    [ 1001 56136   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 56136   4 700  C 2.2000+7          3.3660-3 1.5930-4 0.985703          0.000000         LVLJ.C.Nzobadila Ondz+  (21)O2629  2 
+ 1001 56136   4 700  C 2.2000+7          1.9210-3 1.4530-4 0.969445          0.000000         LVLJ.C.Nzobadila Ondz+  (21)O2629  2 
+ 1001 56136   4 700  C 2.2000+7          3.0280-4 1.4330-5 0.947210          0.000000         LVLJ.C.Nzobadila Ondz+  (21)O2629  2 
+ 1001 56136   4 700  C 2.2000+7          5.1530-4 2.5530-5 0.919135          0.000000         LVLJ.C.Nzobadila Ondz+  (21)O2629  2 
+ 1001 56136   4 700  C 2.2000+7          1.1740-3 5.8300-5 0.884581          0.000000         LVLJ.C.Nzobadila Ondz+  (21)O2629  2 
+ 1001 56136   4 700  C 2.2000+7          1.0370-3 7.2830-5 0.843391          0.000000         LVLJ.C.Nzobadila Ondz+  (21)O2629  2 
+ 1001 56136   4 700  C 2.2000+7          8.7260-4 6.5990-5 0.798636          0.000000         LVLJ.C.Nzobadila Ondz+  (21)O2629  2 
+ 1001 56136   4 700  C 2.2000+7          3.7210-4 3.7950-5 0.746638          0.000000         LVLJ.C.Nzobadila Ondz+  (21)O2629  2 
+ 1001 56136   4 700  C 2.2000+7          1.1030-4 5.4940-6 0.693402          0.000000         LVLJ.C.Nzobadila Ondz+  (21)O2629  2 
+ 1001 56136   4 700  C 2.2000+7          1.3690-4 1.3970-5 0.633381          0.000000         LVLJ.C.Nzobadila Ondz+  (21)O2629  2 
+#/DATA      10
+#/DATASET

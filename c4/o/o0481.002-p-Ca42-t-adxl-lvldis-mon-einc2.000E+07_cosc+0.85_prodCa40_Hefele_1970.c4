@@ -1,0 +1,26 @@
+#ENTRY      O0481
+#AUTHOR1    H.Hefele+
+#YEAR       1970
+#INSTITUTE  (2GERMPH)
+#TITLE      The (P,T) Reaction on Ca-42, Ca-44 and Ca-46.
+#AUTHOR(S)  H.Hefele, U.Lynen, R.Santo
+#REF-CODE   (J,NP/A,157,93,1970)
+#REFERENCE  Nucl.Phys.A 157 (1970) 93
+#DATASETS   0
+#
+#DATASET    O0481002 
+#DATE       20000426
+#REACTION   20-CA-42(P,T)20-CA-40,PAR,DA
+#PROJ       1001
+#TARG       20042
+#MF         4
+#MT         700
+#PRODUCT    20-CA-40
+#C4BEGIN    [ 1001 20042   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20042   4 700  C 2.0000+7          5.2000-6 9.8800-7 0.849893 5.5183-3 3350000.         LVLH.Hefele+            (70)O0481  2 
+ 1001 20042   4 700  C 2.0000+7          1.0700-4 3.2100-6 0.849893 5.5183-3 3730000.         LVLH.Hefele+            (70)O0481  2 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      O1843
+#AUTHOR1    N.Frascaria+
+#YEAR       1974
+#INSTITUTE  (2FR PAR)
+#TITLE      Selective population of maximum-J states in the (d,a)
+#+          reaction at 80 MeV.
+#AUTHOR(S)  N.Frascaria, J.P.Didelez, J.P.Garron, E.Gerlic, J.C.Roynette
+#REF-CODE   (J,PR/C,10,1422,1974)
+#REFERENCE  Phys.Rev.C 10 (1974) 1422
+#DATASETS   0
+#
+#DATASET    O1843004 
+#DATE       20100303
+#REACTION   20-CA-48(D,A)19-K-46,PAR,DA
+#PROJ       1002
+#TARG       20048
+#MF         4
+#MT         800
+#PRODUCT    19-K-46
+#C4BEGIN    [ 1002 20048   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 20048   4 800  C 8.0200+7 200000.0 1.1900-4 1.4280-5 0.989626          4340000.         LVLN.Frascaria+         (74)O1843  4 
+ 1002 20048   4 800  C 8.0200+7 200000.0 1.0000-4 9.0000-6 0.981023          4340000.         LVLN.Frascaria+         (74)O1843  4 
+ 1002 20048   4 800  C 8.0200+7 200000.0 7.9000-5 6.3200-6 0.968540          4340000.         LVLN.Frascaria+         (74)O1843  4 
+ 1002 20048   4 800  C 8.0200+7 200000.0 5.2000-5 4.1600-6 0.954865          4340000.         LVLN.Frascaria+         (74)O1843  4 
+ 1002 20048   4 800  C 8.0200+7 200000.0 2.7000-5 2.9700-6 0.935752          4340000.         LVLN.Frascaria+         (74)O1843  4 
+ 1002 20048   4 800  C 8.0200+7 200000.0 2.3600-5 2.8320-6 0.913403          4340000.         LVLN.Frascaria+         (74)O1843  4 
+ 1002 20048   4 800  C 8.0200+7 200000.0 1.3800-5 2.3460-6 0.886850          4340000.         LVLN.Frascaria+         (74)O1843  4 
+ 1002 20048   4 800  C 8.0200+7 200000.0 1.6900-5 2.5350-6 0.847585          4340000.         LVLN.Frascaria+         (74)O1843  4 
+#/DATA      8
+#/DATASET

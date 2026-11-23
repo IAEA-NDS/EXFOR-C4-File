@@ -1,0 +1,27 @@
+#ENTRY      O0463
+#AUTHOR1    I.Kumabe+
+#YEAR       1963
+#INSTITUTE  (2JPNKTO)
+#TITLE      (P,A) Reactions on the Odd-Mass Nuclei Cu-63, Cu-65,
+#+          As-75 and Rh-103.
+#AUTHOR(S)  I.Kumabe, H.Ogata, T.Komatuzaki, N.Inoue, S.Tomita, Y.Yamada, 
+#+          T.Yamaki, S.Matsumoto
+#REF-CODE   (J,NP,46,454,1963)
+#REFERENCE  Nucl.Phys. 46 (1963) 454
+#DATASETS   0
+#
+#DATASET    O0463002 
+#DATE       20000426
+#REACTION   29-CU-63(P,A)28-NI-60,PAR,DA
+#PROJ       1001
+#TARG       29063
+#MF         4
+#MT         800
+#PRODUCT    28-NI-60
+#C4BEGIN    [ 1001 29063   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29063   4 800  C 1.1200+7          6.5400-5 2.0000-6-0.864275 7.0235-3 2625000.         LVLI.Kumabe+            (63)O0463  2 
+#/DATA      1
+#/DATASET

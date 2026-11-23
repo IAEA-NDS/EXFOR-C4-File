@@ -1,0 +1,39 @@
+#ENTRY      O1913
+#AUTHOR1    A.Parikh+
+#YEAR       2011
+#INSTITUTE  (2SPNUPC)
+#TITLE      Improving the P-30(p,g)S-31 rate in oxygen-neon novae:
+#+          Constraints on Jpi values for proton-threshold states
+#+          in S-31.
+#AUTHOR(S)  A.Parikh, K.Wimmer, T.Faestermann, R.Hertenberger, J.Jose, 
+#+          R.Longland, H.-F.Wirth, V.Bildstein, S.Bishop, A.A.Chen, 
+#+          J.A.Clark, C.M.Deibel, C.Herlitzius, R.Kruecken, D.Seiler, 
+#+          K.Straub, C.Wrede
+#REF-CODE   (J,PR/C,83,045806,2011)
+#REFERENCE  Phys.Rev.C 83 (2011) 045806
+#DATASETS   0
+#
+#DATASET    O1913002 
+#DATE       20111123
+#REACTION   15-P-31(HE3,T)16-S-31,PAR,DA
+#PROJ       2003
+#TARG       15031
+#MF         4
+#MT         700
+#PRODUCT    16-S-31
+#C4BEGIN    [ 2003 15031   4 700 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 15031   4 700 AC 2.5000+7          1.8300-6 2.0000-7 0.980271          6586000.         LVLA.Parikh+            (11)O1913  2 
+ 2003 15031   4 700 AC 2.5000+7          2.0000-6 7.0000-7 0.969872          6586000.         LVLA.Parikh+            (11)O1913  2 
+ 2003 15031   4 700 AC 2.5000+7          1.8000-6 3.0000-7 0.956305          6586000.         LVLA.Parikh+            (11)O1913  2 
+ 2003 15031   4 700 AC 2.5000+7          1.8900-6 4.1000-7 0.940288          6586000.         LVLA.Parikh+            (11)O1913  2 
+ 2003 15031   4 700 AC 2.5000+7          1.8000-6 3.0000-7 0.898794          6586000.         LVLA.Parikh+            (11)O1913  2 
+ 2003 15031   4 700 AC 2.5000+7          1.4200-6 4.0000-7 0.879649          6586000.         LVLA.Parikh+            (11)O1913  2 
+ 2003 15031   4 700 AC 2.5000+7          1.6000-6 3.5000-7 0.838671          6586000.         LVLA.Parikh+            (11)O1913  2 
+ 2003 15031   4 700 AC 2.5000+7          8.3000-7 1.7000-7 0.807990          6586000.         LVLA.Parikh+            (11)O1913  2 
+ 2003 15031   4 700 AC 2.5000+7          6.2000-7 1.4000-7 0.704634          6586000.         LVLA.Parikh+            (11)O1913  2 
+ 2003 15031   4 700 AC 2.5000+7          5.9000-7 2.2000-7 0.472551          6586000.         LVLA.Parikh+            (11)O1913  2 
+#/DATA      10
+#/DATASET

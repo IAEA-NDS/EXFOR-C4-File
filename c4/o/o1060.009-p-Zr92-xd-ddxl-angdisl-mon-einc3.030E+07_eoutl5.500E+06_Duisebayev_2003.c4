@@ -1,0 +1,33 @@
+#ENTRY      O1060
+#AUTHOR1    A.Duisebayev+
+#YEAR       2003
+#INSTITUTE  (4KASKAZ)
+#TITLE      Inclusive spectra of (p,xp) and (p,xd) reactions on
+#+          90,92-Zr and 92-Mo nuclei at Ep=30.3 MeV
+#AUTHOR(S)  A.Duisebayev, K.M.Ismailov, I.Boztosun
+#REF-CODE   (J,PR/C,67,044608,2003)
+#REFERENCE  Phys.Rev.C 67 (2003) 044608
+#DATASETS   0
+#
+#DATASET    O1060009 
+#DATE       20140205
+#REACTION   40-ZR-92(P,X)1-H-2,,DA/DE
+#PROJ       1001
+#TARG       40092
+#MF         6
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001 40092   6 204  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40092   6 204    3.0300+7 90900.00 2.842-10 5.046-11 0.866025          5500000.          E2A.Duisebayev+        (03)O1060  9 
+ 1001 40092   6 204    3.0300+7 90900.00 1.136-10 2.237-11 0.500000          5500000.          E2A.Duisebayev+        (03)O1060  9 
+ 1001 40092   6 204    3.0300+7 90900.00 1.024-10 2.174-11 0.258819          5500000.          E2A.Duisebayev+        (03)O1060  9 
+ 1001 40092   6 204    3.0300+7 90900.00 8.519-11 1.730-11 6.123-17          5500000.          E2A.Duisebayev+        (03)O1060  9 
+ 1001 40092   6 204    3.0300+7 90900.00 8.793-11 1.684-11-0.258819          5500000.          E2A.Duisebayev+        (03)O1060  9 
+ 1001 40092   6 204    3.0300+7 90900.00 9.122-11 1.722-11-0.500000          5500000.          E2A.Duisebayev+        (03)O1060  9 
+ 1001 40092   6 204    3.0300+7 90900.00 9.017-11 1.698-11-0.707107          5500000.          E2A.Duisebayev+        (03)O1060  9 
+ 1001 40092   6 204    3.0300+7 90900.00 8.414-11 1.672-11-0.866025          5500000.          E2A.Duisebayev+        (03)O1060  9 
+#/DATA      8
+#/DATASET

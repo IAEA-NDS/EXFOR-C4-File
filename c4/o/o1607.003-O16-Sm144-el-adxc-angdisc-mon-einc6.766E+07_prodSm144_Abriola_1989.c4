@@ -1,0 +1,28 @@
+#ENTRY      O1607
+#AUTHOR1    D.Abriola+
+#YEAR       1989
+#INSTITUTE  (3ARGCNE)
+#TITLE      Energy dependence of the optical potential for the
+#+          O-16+Sm-144 system near the coulomb barrier.
+#AUTHOR(S)  D.Abriola, D.Digregorio, J.E.Testoni, A.Etchegoyen, M.C.Etchegoyen, 
+#+          J.O.Fernandez Niello, A.M.J.Ferrero, S.Gil, A.O.Macchiavelli, 
+#+          A.J.Pacheco, J.Kittl
+#REF-CODE   (J,PR/C,39,546,1989)
+#REFERENCE  Phys.Rev.C 39 (1989) 546
+#DATASETS   0
+#
+#DATASET    O1607003 
+#DATE       20070516
+#REACTION   62-SM-144(8-O-16,EL)62-SM-144,,DA,,RTH
+#PROJ       8016
+#TARG       62144
+#MF         4
+#MT         2
+#PRODUCT    62-SM-144
+#C4BEGIN    [ 8016 62144   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 62144   4   2  C 6.7660+7          0.041112         -0.901077                              D.Abriola+           (89)O1607  3 
+#/DATA      1
+#/DATASET

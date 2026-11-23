@@ -1,0 +1,34 @@
+#ENTRY      O0292
+#AUTHOR1    F.E.Bertrand+
+#YEAR       1969
+#INSTITUTE  (1USAORL)
+#TITLE      Tabulated cross sections for hydrogen and helium
+#+          particles produced by 62 MeV and 29 MeV protons on
+#+          27-Al.
+#AUTHOR(S)  F.E.Bertrand, R.W.Peelle
+#REF-CODE   (R,ORNL-4455,1969)
+#REFERENCE  Report ORNL-4455, 1969
+#DATASETS   0
+#
+#DATASET    O0292017 
+#DATE       20191228
+#REACTION   13-AL-27(P,X)1-H-3,,DA/DE
+#PROJ       1001
+#TARG       13027
+#MF         6
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1001 13027   6 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   6 205    2.8800+7 100000.0 5.200-11 1.700-11 0.866025          6410000.          E2F.E.Bertrand+        (69)O0292 17 
+ 1001 13027   6 205    2.8800+7 100000.0 4.900-11 1.000-11 0.866025          7110000.          E2F.E.Bertrand+        (69)O0292 17 
+ 1001 13027   6 205    2.8800+7 100000.0 5.400-11 1.100-11 0.866025          8120000.          E2F.E.Bertrand+        (69)O0292 17 
+ 1001 13027   6 205    2.8800+7 100000.0 4.600-11 1.000-11 0.866025          9130000.          E2F.E.Bertrand+        (69)O0292 17 
+ 1001 13027   6 205    2.8800+7 100000.0 3.900-11 9.000-12 0.866025          1.0130+7          E2F.E.Bertrand+        (69)O0292 17 
+ 1001 13027   6 205    2.8800+7 100000.0 9.300-11 1.400-11 0.866025          1.1140+7          E2F.E.Bertrand+        (69)O0292 17 
+ 1001 13027   6 205    2.8800+7 100000.0 5.010-10 3.300-11 0.866025          1.2140+7          E2F.E.Bertrand+        (69)O0292 17 
+ 1001 13027   6 205    2.8800+7 100000.0 0.000000          0.866025          1.3070+7          E2F.E.Bertrand+        (69)O0292 17 
+#/DATA      8
+#/DATASET

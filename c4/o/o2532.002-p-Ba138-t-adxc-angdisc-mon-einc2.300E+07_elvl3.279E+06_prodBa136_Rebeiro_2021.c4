@@ -1,0 +1,38 @@
+#ENTRY      O2532
+#AUTHOR1    B.M.Rebeiro+
+#YEAR       2021
+#INSTITUTE  (3SAFUWC)
+#TITLE      Spectroscopy of states in 136Ba using the 138Ba(p,t)
+#+          reaction
+#AUTHOR(S)  B.M.Rebeiro, S.Triambak, P.E.Garrett, B.A.Brown, G.C.Ball, 
+#+          R.Lindsay, P.Adsley, V.Bildstein, C.Burbadge, A.Diaz-Varela, 
+#+          T.Faestermann, R.Hertenberger, B.Jigmeddorj, M.Kamil, K.G.Leach, 
+#+          P.Z.Mabika, J.C.Nzobadila Ondze, J.N.Orce, A.Radich, H.-F.Wirth
+#REF-CODE   (J,PR/C,104,034309,2021)
+#REFERENCE  Phys.Rev.C 104 (2021) 034309
+#DATASETS   0
+#
+#DATASET    O2532002 
+#DATE       20220218
+#REACTION   56-BA-138(P,T)56-BA-136,PAR,DA
+#PROJ       1001
+#TARG       56138
+#MF         4
+#MT         700
+#PRODUCT    56-BA-136
+#C4BEGIN    [ 1001 56138   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 56138   4 700  C 2.3000+7          4.0000-5 2.0000-6 0.996057          3279000.         LVLB.M.Rebeiro+         (21)O2532  2 
+ 1001 56138   4 700  C 2.3000+7          1.8000-5 1.0000-6 0.984288          3279000.         LVLB.M.Rebeiro+         (21)O2532  2 
+ 1001 56138   4 700  C 2.3000+7          2.4000-6 3.0000-7 0.964741          3279000.         LVLB.M.Rebeiro+         (21)O2532  2 
+ 1001 56138   4 700  C 2.3000+7          5.0000-6 4.0000-7 0.937646          3279000.         LVLB.M.Rebeiro+         (21)O2532  2 
+ 1001 56138   4 700  C 2.3000+7          1.0800-5 9.0000-7 0.903186          3279000.         LVLB.M.Rebeiro+         (21)O2532  2 
+ 1001 56138   4 700  C 2.3000+7          1.1000-5 1.0000-6 0.861718          3279000.         LVLB.M.Rebeiro+         (21)O2532  2 
+ 1001 56138   4 700  C 2.3000+7          4.3000-6 6.0000-7 0.813405          3279000.         LVLB.M.Rebeiro+         (21)O2532  2 
+ 1001 56138   4 700  C 2.3000+7          1.8000-6 2.0000-7 0.758930          3279000.         LVLB.M.Rebeiro+         (21)O2532  2 
+ 1001 56138   4 700  C 2.3000+7          2.0000-6 3.0000-7 0.698415          3279000.         LVLB.M.Rebeiro+         (21)O2532  2 
+ 1001 56138   4 700  C 2.3000+7          2.4000-6 3.0000-7 0.632705          3279000.         LVLB.M.Rebeiro+         (21)O2532  2 
+#/DATA      10
+#/DATASET

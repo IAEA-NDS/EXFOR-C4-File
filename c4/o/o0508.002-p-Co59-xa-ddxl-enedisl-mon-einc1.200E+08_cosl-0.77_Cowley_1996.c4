@@ -1,0 +1,37 @@
+#ENTRY      O0508
+#AUTHOR1    A.A.Cowley+
+#YEAR       1996
+#INSTITUTE  (3SAFSTL)
+#TITLE      Inclusive (P,A) Reactions on Al-27,Co-59 and Au-197 at
+#+          Incident Energies of 120,160 and 200 MeV.
+#AUTHOR(S)  A.A.Cowley, G.J.Arendse, J.W.Koen, W.A.Richter, J.A.Stander, 
+#+          G.F.Steyn, P.Demetriou, P.E.Hodgson, Y.Watanabe
+#REF-CODE   (J,PR/C,54,778,1996)
+#REFERENCE  Phys.Rev.C 54 (1996) 778
+#DATASETS   0
+#
+#DATASET    O0508002 
+#DATE       20010115
+#REACTION   27-CO-59(P,X)2-HE-4,,DA/DE
+#PROJ       1001
+#TARG       27059
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001 27059   6 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 27059   6 207    1.2000+8          3.339-11 1.727-13-0.766044          2.6000+7          E2A.A.Cowley+          (96)O0508  2 
+ 1001 27059   6 207    1.2000+8          1.573-11 1.204-13-0.766044          3.0000+7          E2A.A.Cowley+          (96)O0508  2 
+ 1001 27059   6 207    1.2000+8          4.951-12 6.653-14-0.766044          3.5000+7          E2A.A.Cowley+          (96)O0508  2 
+ 1001 27059   6 207    1.2000+8          1.769-12 4.002-14-0.766044          4.0000+7          E2A.A.Cowley+          (96)O0508  2 
+ 1001 27059   6 207    1.2000+8          6.298-13 2.359-14-0.766044          4.5000+7          E2A.A.Cowley+          (96)O0508  2 
+ 1001 27059   6 207    1.2000+8          2.523-13 1.572-14-0.766044          5.0000+7          E2A.A.Cowley+          (96)O0508  2 
+ 1001 27059   6 207    1.2000+8          8.756-14 8.684-15-0.766044          5.5000+7          E2A.A.Cowley+          (96)O0508  2 
+ 1001 27059   6 207    1.2000+8          4.162-14 6.326-15-0.766044          6.0000+7          E2A.A.Cowley+          (96)O0508  2 
+ 1001 27059   6 207    1.2000+8          1.198-14 3.191-15-0.766044          6.5000+7          E2A.A.Cowley+          (96)O0508  2 
+ 1001 27059   6 207    1.2000+8          9.586-16 9.554-16-0.766044          7.0000+7          E2A.A.Cowley+          (96)O0508  2 
+ 1001 27059   6 207    1.2000+8          1.798-15 1.267-15-0.766044          7.5000+7          E2A.A.Cowley+          (96)O0508  2 
+#/DATA      11
+#/DATASET

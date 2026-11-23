@@ -1,0 +1,35 @@
+#ENTRY      O1845
+#AUTHOR1    C.P.Massolo+
+#YEAR       1986
+#INSTITUTE  (2FR PAR)
+#TITLE      Damping of high-spin single-particle strengths in
+#+          Pb-209.
+#AUTHOR(S)  C.P.Massolo, F.Azaiez, S.Gales, S.Fortier, E.Gerlic, J.Guillot, 
+#+          E.Hourani, J.M.Maison
+#REF-CODE   (J,PR/C,34,1256,1986)
+#REFERENCE  Phys.Rev.C 34 (1986) 1256
+#DATASETS   0
+#
+#DATASET    O1845002 
+#DATE       20100304
+#REACTION   82-PB-208(A,HE3)82-PB-209,PAR,DA
+#PROJ       2004
+#TARG       82208
+#MF         4
+#MT         750
+#PRODUCT    82-PB-209
+#C4BEGIN    [ 2004 82208   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 82208   4 750  C 1.8300+8 200000.0 2.1100-3 1.4770-4 0.998857          3590000.         LVLC.P.Massolo+         (86)O1845  2 
+ 2004 82208   4 750  C 1.8300+8 200000.0 2.0800-3 1.8720-4 0.998402          3590000.         LVLC.P.Massolo+         (86)O1845  2 
+ 2004 82208   4 750  C 1.8300+8 200000.0 1.5200-3 9.1200-5 0.997276          3590000.         LVLC.P.Massolo+         (86)O1845  2 
+ 2004 82208   4 750  C 1.8300+8 200000.0 1.1400-3 5.7000-5 0.995853          3590000.         LVLC.P.Massolo+         (86)O1845  2 
+ 2004 82208   4 750  C 1.8300+8 200000.0 1.0400-3 7.2800-5 0.993961          3590000.         LVLC.P.Massolo+         (86)O1845  2 
+ 2004 82208   4 750  C 1.8300+8 200000.0 6.1000-4 4.2700-5 0.989576          3590000.         LVLC.P.Massolo+         (86)O1845  2 
+ 2004 82208   4 750  C 1.8300+8 200000.0 3.1000-4 3.1000-5 0.984010          3590000.         LVLC.P.Massolo+         (86)O1845  2 
+ 2004 82208   4 750  C 1.8300+8 200000.0 1.9500-4 2.5350-5 0.976635          3590000.         LVLC.P.Massolo+         (86)O1845  2 
+ 2004 82208   4 750  C 1.8300+8 200000.0 1.0400-4 1.2480-5 0.963770          3590000.         LVLC.P.Massolo+         (86)O1845  2 
+#/DATA      9
+#/DATASET

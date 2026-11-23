@@ -1,0 +1,40 @@
+#ENTRY      O1195
+#AUTHOR1    G.Imbriani+
+#YEAR       2005
+#INSTITUTE  (2ITYNAP)
+#TITLE      S-factor of 14-N(p,gamma)15-O at astrophysical
+#+          energies
+#AUTHOR(S)  G.Imbriani, H.Costantini, A.Formicola, A.Vomiero, C.Angulo, 
+#+          D.Bemmerer, R.Bonetti, C.Broggini, F.Confortola, P.Corvisiero, 
+#+          J.Cruz, P.Descouvemont, Z.Fulop, G.Gervino, A.Guglielmetti, 
+#+          C.Gustavino, Gy.Gyurky, A.P.Jesus, M.Junker, J.N.Klug, A.Lemut, 
+#+          R.Menegazzo, P.Prati, V.Roca, C.Rolfs, M.Romano, C.Rossi-Alvarez, 
+#+          F.Schumann, D.Schurmann, E.Somorjai, O.Straniero, F.Strieder, 
+#+          F.Terrasi, H.P.Trautvetter
+#REF-CODE   (J,EPJ/A,25,(3),455,2005)
+#REFERENCE  Eur.Phys.J.A 25 No.3 (2005) 455
+#DATASETS   0
+#
+#DATASET    O1195002 
+#DATE       20170402
+#REACTION   7-N-14(P,G)8-O-15,PAR,SIG,,SFC
+#PROJ       1001
+#TARG       7014
+#MF         3
+#MT         900
+#PRODUCT    8-O-15
+#C4BEGIN    [ 1001  7014   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7014   3 900    168300.5          2.218-11 2.772-12                   5241000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    185559.4          5.638-11 5.638-12                   5241000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    195314.5          6.446-11 8.057-12                   5241000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    212359.0          1.130-10 1.412-11                   5241000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    224579.7          1.417-10 2.024-11                   5241000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    234978.0          3.224-10 2.687-11                   5241000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    245590.7          4.572-10 3.517-11                   5241000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    256310.6          6.346-10 4.533-11                   5241000.         LVLG.Imbriani+          (05)O1195  2 
+ 1001  7014   3 900    266494.5          1.7048-9 1.705-10                   5241000.         LVLG.Imbriani+          (05)O1195  2 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,37 @@
+#ENTRY      O2165
+#AUTHOR1    K.G.Leach+
+#YEAR       2019
+#INSTITUTE  (1USACSM)
+#TITLE      High-resolution (p,t) reaction measurements as
+#+          spectroscopic tests of ab-initio theory in the mid-pf
+#+          shell
+#AUTHOR(S)  K.G.Leach, J.D.Holt, P.E.Garrett, S.R.Stroberg, G.C.Ball, 
+#+          P.C.Bender, V.Bildstein, A.Diaz Varela, R.Dunlop, T.Faestermann, 
+#+          B.Hadinia, R.Hertenberger, D.S.Jamieson, B.Jigmeddorj, R.Krucken, 
+#+          A.T.Laffoley, A.J.Radich, E.T.Rand, C.E.Svensson, S.Triambak, 
+#+          H.-F.Wirth
+#REF-CODE   (J,PR/C,100,014320,2019)
+#REFERENCE  Phys.Rev.C 100 (2019) 014320
+#DATASETS   0
+#
+#DATASET    O2165002 
+#DATE       20210906
+#REACTION   30-ZN-64(P,T)30-ZN-62,PAR,DA
+#PROJ       1001
+#TARG       30064
+#MF         4
+#MT         700
+#PRODUCT    30-ZN-62
+#C4BEGIN    [ 1001 30064   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30064   4 700  C 2.4000+7          6.3927-6 3.8825-7 0.984321          4552400.         LVLK.G.Leach+           (19)O2165  2 
+ 1001 30064   4 700  C 2.4000+7          3.2172-6 2.8145-7 0.964846          4552400.         LVLK.G.Leach+           (19)O2165  2 
+ 1001 30064   4 700  C 2.4000+7          1.7575-6 1.8486-7 0.937808          4552400.         LVLK.G.Leach+           (19)O2165  2 
+ 1001 30064   4 700  C 2.4000+7          1.0904-6 2.0035-7 0.903432          4552400.         LVLK.G.Leach+           (19)O2165  2 
+ 1001 30064   4 700  C 2.4000+7          1.9019-6 2.2350-7 0.862004          4552400.         LVLK.G.Leach+           (19)O2165  2 
+ 1001 30064   4 700  C 2.4000+7          1.7391-6 1.9353-7 0.711606          4552400.         LVLK.G.Leach+           (19)O2165  2 
+ 1001 30064   4 700  C 2.4000+7          3.7740-7 3.1902-7 0.619662          4552400.         LVLK.G.Leach+           (19)O2165  2 
+#/DATA      7
+#/DATASET

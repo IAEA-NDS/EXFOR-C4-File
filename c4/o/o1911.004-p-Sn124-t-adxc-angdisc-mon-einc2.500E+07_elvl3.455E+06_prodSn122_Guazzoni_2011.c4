@@ -1,0 +1,35 @@
+#ENTRY      O1911
+#AUTHOR1    P.Guazzoni+
+#YEAR       2011
+#INSTITUTE  (2ITYMIL)
+#TITLE      High-resolution measurement of the 118,124Sn(p,t)
+#+          116,122Sn reactions: Shell-model and microscopic
+#+          distorted-wave Born approximation calculations.
+#AUTHOR(S)  P.Guazzoni, L.Zetta, A.Covello, A.Gargano, B.F.Bayman, T.Faestermann, 
+#+          G.Graw, R.Hertenberger, H.-F.Wirth, M.Jaskola
+#REF-CODE   (J,PR/C,83,044614,2011)
+#REFERENCE  Phys.Rev.C 83 (2011) 044614
+#DATASETS   0
+#
+#DATASET    O1911004 
+#DATE       20111103
+#REACTION   50-SN-124(P,T)50-SN-122,PAR,DA
+#PROJ       1001
+#TARG       50124
+#MF         4
+#MT         700
+#PRODUCT    50-SN-122
+#C4BEGIN    [ 1001 50124   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50124   4 700  C 2.5000+7          3.7250-6 4.8900-7 0.994319          3455000.         LVLP.Guazzoni+          (11)O1911  4 
+ 1001 50124   4 700  C 2.5000+7          5.9970-6 3.8400-7 0.980955          3455000.         LVLP.Guazzoni+          (11)O1911  4 
+ 1001 50124   4 700  C 2.5000+7          7.1410-6 4.7900-7 0.964695          3455000.         LVLP.Guazzoni+          (11)O1911  4 
+ 1001 50124   4 700  C 2.5000+7          8.0820-6 5.4500-7 0.921253          3455000.         LVLP.Guazzoni+          (11)O1911  4 
+ 1001 50124   4 700  C 2.5000+7          4.5470-6 3.5800-7 0.870356          3455000.         LVLP.Guazzoni+          (11)O1911  4 
+ 1001 50124   4 700  C 2.5000+7          1.8890-6 2.0900-7 0.802713          3455000.         LVLP.Guazzoni+          (11)O1911  4 
+ 1001 50124   4 700  C 2.5000+7          3.1310-6 2.1500-7 0.698040          3455000.         LVLP.Guazzoni+          (11)O1911  4 
+ 1001 50124   4 700  C 2.5000+7          2.6620-6 1.9100-7 0.597345          3455000.         LVLP.Guazzoni+          (11)O1911  4 
+#/DATA      8
+#/DATASET

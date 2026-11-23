@@ -1,0 +1,32 @@
+#ENTRY      O1144
+#AUTHOR1    M.D.L.Barbosa+
+#YEAR       1998
+#INSTITUTE  (3BZLUSP)
+#TITLE      Single particle strengths in 103-Ru with the
+#+          102-Ru(d,p) reaction
+#AUTHOR(S)  M.D.L.Barbosa, T.Borello-Lewin, L.B.Horodynski-Matsushigue, 
+#+          J.L.M.Duarte, G.M.Ukita, L.C.Gomes
+#REF-CODE   (J,PR/C,58,2689,1998)
+#REFERENCE  Phys.Rev.C 58 (1998) 2689
+#DATASETS   0
+#
+#DATASET    O1144002 
+#DATE       20040317
+#REACTION   44-RU-102(D,P)44-RU-103,PAR,DA
+#PROJ       1002
+#TARG       44102
+#MF         4
+#MT         600
+#PRODUCT    44-RU-103
+#C4BEGIN    [ 1002 44102   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 44102   4 600    1.5000+7          8.6000-5 1.6000-5 0.913545          1461000.         LVLM.D.L.Barbosa+       (98)O1144  2 
+ 1002 44102   4 600    1.5000+7          6.6000-5 1.3000-5 0.882948          1461000.         LVLM.D.L.Barbosa+       (98)O1144  2 
+ 1002 44102   4 600    1.5000+7          7.0000-5 8.0000-6 0.829038          1461000.         LVLM.D.L.Barbosa+       (98)O1144  2 
+ 1002 44102   4 600    1.5000+7          5.3000-5 9.0000-6 0.788011          1461000.         LVLM.D.L.Barbosa+       (98)O1144  2 
+ 1002 44102   4 600    1.5000+7          3.9000-5 9.0000-6 0.707107          1461000.         LVLM.D.L.Barbosa+       (98)O1144  2 
+ 1002 44102   4 600    1.5000+7          3.9000-5 4.0000-6 0.573576          1461000.         LVLM.D.L.Barbosa+       (98)O1144  2 
+#/DATA      6
+#/DATASET

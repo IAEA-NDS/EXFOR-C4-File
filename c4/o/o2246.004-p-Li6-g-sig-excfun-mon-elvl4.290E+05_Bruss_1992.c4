@@ -1,0 +1,39 @@
+#ENTRY      O2246
+#AUTHOR1    R.Bruss+
+#YEAR       1992
+#INSTITUTE  (2GERTUB)
+#TITLE      Astrophysical S-factors for the radiative capture
+#+          reaction Li-6(p,g)Be-7 at low energies.
+#AUTHOR(S)  R.Bruss, O.Arkis, H.Bucka, P.Heide
+#REF-CODE   (C,92KARLSR,,169,1992)
+#REFERENCE  Proceedings of Conf.on Nuclei in the Cosmos, Karlsruhe, July 1992 page 169
+#DATASETS   0
+#
+#DATASET    O2246004 
+#DATE       20150124
+#REACTION   3-LI-6(P,G)4-BE-7,PAR,SIG,,SFC
+#PROJ       1001
+#TARG       3006
+#MF         3
+#MT         900
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3006   3 900 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3006   3 900 D  36080.00          1.990-10 7.255-11                   429000.0         LVLR.Bruss+             (92)O2246  4 
+ 1001  3006   3 900 D  49550.00          1.2200-9 3.823-10                   429000.0         LVLR.Bruss+             (92)O2246  4 
+ 1001  3006   3 900 D  59320.00          5.3494-9 5.180-10                   429000.0         LVLR.Bruss+             (92)O2246  4 
+ 1001  3006   3 900 D  69950.00          9.3050-9 1.2127-9                   429000.0         LVLR.Bruss+             (92)O2246  4 
+ 1001  3006   3 900 D  82730.00          9.6903-9 1.6741-9                   429000.0         LVLR.Bruss+             (92)O2246  4 
+ 1001  3006   3 900 D  91580.00          2.0302-8 1.7437-9                   429000.0         LVLR.Bruss+             (92)O2246  4 
+ 1001  3006   3 900 D  101620.0          2.9388-8 1.9452-9                   429000.0         LVLR.Bruss+             (92)O2246  4 
+ 1001  3006   3 900 D  112790.0          3.8879-8 4.1213-9                   429000.0         LVLR.Bruss+             (92)O2246  4 
+ 1001  3006   3 900 D  122010.0          3.4802-8 3.9008-9                   429000.0         LVLR.Bruss+             (92)O2246  4 
+ 1001  3006   3 900 D  132600.0          6.7311-8 5.6817-9                   429000.0         LVLR.Bruss+             (92)O2246  4 
+ 1001  3006   3 900 D  143700.0          3.5687-8 6.8714-9                   429000.0         LVLR.Bruss+             (92)O2246  4 
+ 1001  3006   3 900 D  152790.0          1.4537-7 8.7023-9                   429000.0         LVLR.Bruss+             (92)O2246  4 
+ 1001  3006   3 900 D  161790.0          8.0001-8 1.9747-8                   429000.0         LVLR.Bruss+             (92)O2246  4 
+ 1001  3006   3 900 D  174180.0          1.0765-7 1.0998-8                   429000.0         LVLR.Bruss+             (92)O2246  4 
+#/DATA      14
+#/DATASET

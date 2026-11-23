@@ -1,0 +1,32 @@
+#ENTRY      O1826
+#AUTHOR1    O.Hansen+
+#YEAR       1979
+#INSTITUTE  (2NEDKVI)
+#TITLE      Proton hole states in Co-63 and Cu-63.
+#AUTHOR(S)  O.Hansen, M.N.Harakeh, J.V.Maher, L.W.Put, J.C.Vermeulen
+#REF-CODE   (J,NP/A,313,95,1979)
+#REFERENCE  Nucl.Phys.A 313 (1979) 95
+#DATASETS   0
+#
+#DATASET    O1826002 
+#DATE       20100202
+#REACTION   30-ZN-64(D,HE3)29-CU-63,PAR,DA
+#PROJ       1002
+#TARG       30064
+#MF         4
+#MT         750
+#PRODUCT    29-CU-63
+#C4BEGIN    [ 1002 30064   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 30064   4 750  C 5.5000+7 100000.0 3.3900-4          0.987414          3730000.         LVLO.Hansen+            (79)O1826  2 
+ 1002 30064   4 750  C 5.5000+7 100000.0 5.8100-5          0.931056          3730000.         LVLO.Hansen+            (79)O1826  2 
+ 1002 30064   4 750  C 5.5000+7 100000.0 4.3900-5          0.922538          3730000.         LVLO.Hansen+            (79)O1826  2 
+ 1002 30064   4 750  C 5.5000+7 100000.0 9.0000-5 6.3000-6 0.915663          3730000.         LVLO.Hansen+            (79)O1826  2 
+ 1002 30064   4 750  C 5.5000+7 100000.0 6.0100-5          0.891007          3730000.         LVLO.Hansen+            (79)O1826  2 
+ 1002 30064   4 750  C 5.5000+7 100000.0 2.6900-5          0.861629          3730000.         LVLO.Hansen+            (79)O1826  2 
+ 1002 30064   4 750  C 5.5000+7 100000.0 2.0300-5          0.852640          3730000.         LVLO.Hansen+            (79)O1826  2 
+ 1002 30064   4 750  C 5.5000+7 100000.0 2.1400-5 8.5600-7 0.830984          3730000.         LVLO.Hansen+            (79)O1826  2 
+#/DATA      8
+#/DATASET

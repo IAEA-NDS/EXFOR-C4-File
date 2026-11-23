@@ -1,0 +1,27 @@
+#ENTRY      O0932
+#AUTHOR1    P.Guazzoni+
+#YEAR       2002
+#INSTITUTE  (2ITYMIL)
+#TITLE      Structure of the Zr-89 via the high resolution
+#+          Zr-91(P,T)Zr-89 reaction and shell model calculations.
+#AUTHOR(S)  P.Guazzoni, L.Zetta, J.N.Gu, A.Vitturi, Y.Eisermann, G.Graw, 
+#+          R.Hertenberger, M.Jaskola
+#REF-CODE   (J,NP/A,697,611,2002)
+#REFERENCE  Nucl.Phys.A 697 (2002) 611
+#DATASETS   0
+#
+#DATASET    O0932002 
+#DATE       20030503
+#REACTION   40-ZR-91(P,T)40-ZR-89,PAR,DA
+#PROJ       1001
+#TARG       40091
+#MF         4
+#MT         700
+#PRODUCT    40-ZR-89
+#C4BEGIN    [ 1001 40091   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40091   4 700  C 2.5000+7          1.2266-5 6.2100-7 0.755053          588000.0         LVLP.Guazzoni+          (02)O0932  2 
+#/DATA      1
+#/DATASET

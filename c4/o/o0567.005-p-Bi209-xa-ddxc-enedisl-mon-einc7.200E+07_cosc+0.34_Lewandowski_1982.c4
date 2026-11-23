@@ -1,0 +1,36 @@
+#ENTRY      O0567
+#AUTHOR1    Z.Lewandowski+
+#YEAR       1982
+#INSTITUTE  (2SWTBAS)
+#TITLE      Analyzing power in the continuum of (p,alpha+x) and
+#+          (p,He3+x) reactions on C-12, Al-27, Ni-58, Zr-90,
+#+          Bi-209 at E(p)=72 MeV.
+#AUTHOR(S)  Z.Lewandowski, E.Loeffler, R.Wagner, H.H.Mueller, W.Reichart, 
+#+          P.Schober
+#REF-CODE   (J,NP/A,389,247,1982)
+#REFERENCE  Nucl.Phys.A 389 (1982) 247
+#DATASETS   0
+#
+#DATASET    O0567005 
+#DATE       20190209
+#REACTION   83-BI-209(P,X)2-HE-4,,DA/DE
+#PROJ       1001
+#TARG       83209
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001 83209   6 207 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 83209   6 207 CC 7.2000+7          3.756-11          0.342020          1.8900+7          E2Z.Lewandowski+       (82)O0567  5 
+ 1001 83209   6 207 CC 7.2000+7          2.978-11          0.342020          2.9900+7          E2Z.Lewandowski+       (82)O0567  5 
+ 1001 83209   6 207 CC 7.2000+7          9.424-12          0.342020          3.9300+7          E2Z.Lewandowski+       (82)O0567  5 
+ 1001 83209   6 207 CC 7.2000+7          4.654-12          0.342020          4.9700+7          E2Z.Lewandowski+       (82)O0567  5 
+ 1001 83209   6 207 CC 7.2000+7          2.256-12          0.342020          5.9300+7          E2Z.Lewandowski+       (82)O0567  5 
+ 1001 83209   6 207 CC 7.2000+7          1.179-12          0.342020          7.0400+7          E2Z.Lewandowski+       (82)O0567  5 
+ 1001 83209   6 207 CC 7.2000+7          7.378-13          0.342020          8.0300+7          E2Z.Lewandowski+       (82)O0567  5 
+ 1001 83209   6 207 CC 7.2000+7          3.347-13          0.342020          8.9900+7          E2Z.Lewandowski+       (82)O0567  5 
+ 1001 83209   6 207 CC 7.2000+7          1.393-13          0.342020          1.0020+8          E2Z.Lewandowski+       (82)O0567  5 
+#/DATA      9
+#/DATASET

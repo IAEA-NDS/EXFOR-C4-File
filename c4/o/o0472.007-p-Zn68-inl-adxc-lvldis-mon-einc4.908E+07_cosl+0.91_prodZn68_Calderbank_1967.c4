@@ -1,0 +1,31 @@
+#ENTRY      O0472
+#AUTHOR1    M.Calderbank+
+#YEAR       1967
+#INSTITUTE  (2UK KCL)
+#TITLE      The Elastic and Inelastic Scattering of 50 MeV Protons
+#+          By Zn-64, Zn-66, Zn-68 and Zn-70.
+#AUTHOR(S)  M.Calderbank, E.J.Burge, V.E.Lewis, D.A.Smith, N.K.Ganguly
+#REF-CODE   (J,NP/A,105,601,1967)
+#REFERENCE  Nucl.Phys.A 105 (1967) 601
+#DATASETS   0
+#
+#DATASET    O0472007 
+#DATE       20000426
+#REACTION   30-ZN-68(P,INL)30-ZN-68,PAR,DA
+#PROJ       1001
+#TARG       30068
+#MF         4
+#MT         601
+#PRODUCT    30-ZN-68
+#C4BEGIN    [ 1001 30068   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30068   4 601  C 4.9080+7 90000.00 9.0200-3 2.9766-4 0.913545 4.0464-3 1077000.         LVLM.Calderbank+        (67)O0472  7 
+ 1001 30068   4 601  C 4.9080+7 90000.00 5.2000-5 1.5600-5 0.913545 4.0464-3 1630000.         LVLM.Calderbank+        (67)O0472  7 
+ 1001 30068   4 601  C 4.9080+7 90000.00 2.2000-4 4.4000-5 0.913545 4.0464-3 1870000.         LVLM.Calderbank+        (67)O0472  7 
+ 1001 30068   4 601  C 4.9080+7 90000.00 7.2000-4 1.0800-4 0.913545 4.0464-3 2370000.         LVLM.Calderbank+        (67)O0472  7 
+ 1001 30068   4 601  C 4.9080+7 90000.00 0.011200 3.1360-4 0.913545 4.0464-3 2740000.         LVLM.Calderbank+        (67)O0472  7 
+ 1001 30068   4 601  C 4.9080+7 90000.00 6.6000-4 9.9000-5 0.913545 4.0464-3 2930000.         LVLM.Calderbank+        (67)O0472  7 
+#/DATA      6
+#/DATASET

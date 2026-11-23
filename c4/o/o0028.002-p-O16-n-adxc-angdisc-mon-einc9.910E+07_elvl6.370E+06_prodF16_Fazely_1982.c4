@@ -1,0 +1,35 @@
+#ENTRY      O0028
+#AUTHOR1    A.Fazely+
+#YEAR       1982
+#INSTITUTE  (1USAMIT)
+#TITLE      Spectroscopy of F-16 from the O-16(p,n)F-16 reaction
+#+          at 99 and 135 MeV.
+#AUTHOR(S)  A.Fazely, B.D.Anderson, M.Ahmad, A.R.Baldwin, A.M.Kalenda, 
+#+          R.J.McCarthy, J.W.Watson, R.Madey, W.Bertozzi, T.N.Buti, 
+#+          J.M.Finn, M.A.Kovash, B.Pugh, C.C.Foster
+#REF-CODE   (J,PR/C,25,1760,1982)
+#REFERENCE  Phys.Rev.C 25 (1982) 1760
+#DATASETS   0
+#
+#DATASET    O0028002 
+#DATE       20190208
+#REACTION   8-O-16(P,N)9-F-16,PAR,DA
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         50
+#PRODUCT    9-F-16
+#C4BEGIN    [ 1001  8016   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4  50  C 9.9100+7          8.4000-5 2.1000-5 0.976672          6370000.         LVLA.Fazely+            (82)O0028  2 
+ 1001  8016   4  50  C 9.9100+7          2.8800-4 1.8000-5 0.943801          6370000.         LVLA.Fazely+            (82)O0028  2 
+ 1001  8016   4  50  C 9.9100+7          5.4200-4 3.4000-5 0.900319          6370000.         LVLA.Fazely+            (82)O0028  2 
+ 1001  8016   4  50  C 9.9100+7          4.6100-4 2.0000-5 0.895712          6370000.         LVLA.Fazely+            (82)O0028  2 
+ 1001  8016   4  50  C 9.9100+7          6.6500-4 4.2000-5 0.847122          6370000.         LVLA.Fazely+            (82)O0028  2 
+ 1001  8016   4  50  C 9.9100+7          6.2200-4 3.3000-5 0.780430          6370000.         LVLA.Fazely+            (82)O0028  2 
+ 1001  8016   4  50  C 9.9100+7          5.3700-4 2.9000-5 0.707107          6370000.         LVLA.Fazely+            (82)O0028  2 
+ 1001  8016   4  50  C 9.9100+7          2.9700-4 1.6000-5 0.621148          6370000.         LVLA.Fazely+            (82)O0028  2 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      O0787
+#AUTHOR1    J.Kiener+
+#YEAR       1998
+#INSTITUTE  (2FR CSN)
+#TITLE      Gamma-ray production by inelastic proton scattering on
+#+          16-O and 12-C
+#AUTHOR(S)  J.Kiener, M.Berheide, N.L.Achouri, A.Boughrara, A.Coc, A.Lefebvre, 
+#+          F.De Oliveira Santos, Ch.Vieu
+#REF-CODE   (J,PR/C,58,2174,1998)
+#REFERENCE  Phys.Rev.C 58 (1998) 2174
+#DATASETS   0
+#
+#DATASET    O0787002 
+#DATE       20050202
+#REACTION   8-O-16(P,INL)8-O-16,PAR,SIG,G
+#PROJ       1001
+#TARG       8016
+#MF         13
+#MT         601
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  8016  13 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016  13 601    1.1800+7 5000.000 0.138900 6.8800-3                   6130000.            J.Kiener+            (98)O0787  2 
+ 1001  8016  13 601    1.1800+7 5000.000 0.028800 4.4800-3                   6920000.            J.Kiener+            (98)O0787  2 
+ 1001  8016  13 601    1.1800+7 5000.000 0.034560 1.6000-3                   7120000.            J.Kiener+            (98)O0787  2 
+#/DATA      3
+#/DATASET

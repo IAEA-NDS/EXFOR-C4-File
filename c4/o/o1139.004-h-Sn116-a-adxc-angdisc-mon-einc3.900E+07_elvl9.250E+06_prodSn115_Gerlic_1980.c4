@@ -1,0 +1,33 @@
+#ENTRY      O1139
+#AUTHOR1    E.Gerlic+
+#YEAR       1980
+#INSTITUTE  (2FR PAR)
+#TITLE      Neutron-hole distributions in Sn-111,115,119 as
+#+          observed in the (He3,a) reaction.
+#AUTHOR(S)  E.Gerlic, G.Berrier-Ronsin, G.Duhamel, S.Gales, E.Hourani, 
+#+          H.Langevin-Joliot, M.Vergnes, J.Van De Wiele
+#REF-CODE   (J,PR/C,21,124,1980)
+#REFERENCE  Phys.Rev.C 21 (1980) 124
+#DATASETS   0
+#
+#DATASET    O1139004 
+#DATE       20040415
+#REACTION   50-SN-116(HE3,A)50-SN-115,PAR,DA
+#PROJ       2003
+#TARG       50116
+#MF         4
+#MT         800
+#PRODUCT    50-SN-115
+#C4BEGIN    [ 2003 50116   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 50116   4 800  C 3.9000+7 38000.00 5.1000-5 3.0600-6 0.997994          9250000. 4250000.LVLE.Gerlic+            (80)O1139  4 
+ 2003 50116   4 800  C 3.9000+7 38000.00 4.8000-5 2.8800-6 0.992589          9250000. 4250000.LVLE.Gerlic+            (80)O1139  4 
+ 2003 50116   4 800  C 3.9000+7 38000.00 4.1000-5          0.984010          9250000. 4250000.LVLE.Gerlic+            (80)O1139  4 
+ 2003 50116   4 800  C 3.9000+7 38000.00 3.5000-5          0.976710          9250000. 4250000.LVLE.Gerlic+            (80)O1139  4 
+ 2003 50116   4 800  C 3.9000+7 38000.00 3.6900-5          0.968929          9250000. 4250000.LVLE.Gerlic+            (80)O1139  4 
+ 2003 50116   4 800  C 3.9000+7 38000.00 2.5600-5 1.2800-6 0.949425          9250000. 4250000.LVLE.Gerlic+            (80)O1139  4 
+ 2003 50116   4 800  C 3.9000+7 38000.00 1.6900-5 1.6900-6 0.922875          9250000. 4250000.LVLE.Gerlic+            (80)O1139  4 
+#/DATA      7
+#/DATASET

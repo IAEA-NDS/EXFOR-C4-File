@@ -1,0 +1,37 @@
+#ENTRY      O2615
+#AUTHOR1    F.Hammache+
+#YEAR       2024
+#INSTITUTE  (2FR PAR)
+#TITLE      Experimental determination of alpha widths of 21Ne
+#+          levels in the region of astrophysical interest: new
+#+          17O+alpha reaction rates and impact on the weak
+#+          s process
+#AUTHOR(S)  F.Hammache, P.Adsley, L.Lamia, D.S.Harrouz, N.De Sereville, 
+#+          B.Bastin, A.Choplin, T.Faestermann, C.Fougeres, R.Hertenberger, 
+#+          R.Hirschi, M.La Cognata, A.Meyer, S.Palmerini, R.G.Pizzone, 
+#+          F.de Oliveira Santos, S.Romano, A.Tumino, H.-F.Wirth
+#REF-CODE   (J,PRL,132,182701,2024)
+#REFERENCE  Phys.Rev.Lett. 132 (2024) 182701
+#DATASETS   0
+#
+#DATASET    O2615002 
+#DATE       20240624
+#REACTION   8-O-17(3-LI-7,T)10-NE-21,PAR,DA
+#PROJ       3007
+#TARG       8017
+#MF         4
+#MT         700
+#PRODUCT    10-NE-21
+#C4BEGIN    [ 3007  8017   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007  8017   4 700  C 2.8000+7          5.6033-4 3.3520-5 0.991308          7420000.         LVLF.Hammache+          (24)O2615  2 
+ 3007  8017   4 700  C 2.8000+7          5.5109-4 3.1700-5 0.980478          7420000.         LVLF.Hammache+          (24)O2615  2 
+ 3007  8017   4 700  C 2.8000+7          3.8515-4 2.2250-5 0.959511          7420000.         LVLF.Hammache+          (24)O2615  2 
+ 3007  8017   4 700  C 2.8000+7          3.0819-4 2.1830-5 0.938974          7420000.         LVLF.Hammache+          (24)O2615  2 
+ 3007  8017   4 700  C 2.8000+7          2.3223-4 1.2660-5 0.914466          7420000.         LVLF.Hammache+          (24)O2615  2 
+ 3007  8017   4 700  C 2.8000+7          1.5527-4 9.8300-6 0.865239          7420000.         LVLF.Hammache+          (24)O2615  2 
+ 3007  8017   4 700  C 2.8000+7          1.0160-4 1.4910-5 0.818852          7420000.         LVLF.Hammache+          (24)O2615  2 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      O0042
+#AUTHOR1    C.Djalali+
+#YEAR       1987
+#INSTITUTE  (1USAMSU)
+#TITLE      Spin-flip transitions in O-16 and O-18 excited by
+#+          inelastic proton scattering.
+#AUTHOR(S)  C.Djalali, G.M.Crawley, B.A.Brown, V.Rotberg, G.Caskey, 
+#+          A.Galonsky, N.Marty, M.Morlet, A.Willis
+#REF-CODE   (J,PR/C,35,1201,1987)
+#REFERENCE  Phys.Rev.C 35 (1987) 1201
+#DATASETS   0
+#
+#DATASET    O0042002 
+#DATE       20200815
+#REACTION   8-O-16(P,INL)8-O-16,PAR,DA
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         601
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  8016   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4 601  C 2.0100+8          2.0600-4 1.1400-5 0.999328          1.2050+7         LVLC.Djalali+           (87)O0042  2 
+ 1001  8016   4 601  C 2.0100+8          1.7000-4 1.4800-5 0.998441          1.2050+7         LVLC.Djalali+           (87)O0042  2 
+ 1001  8016   4 601  C 2.0100+8          1.3000-4 9.9500-6 0.997185          1.2050+7         LVLC.Djalali+           (87)O0042  2 
+ 1001  8016   4 601  C 2.0100+8          8.6600-5 1.0400-5 0.995562          1.2050+7         LVLC.Djalali+           (87)O0042  2 
+ 1001  8016   4 601  C 2.0100+8          5.1200-5 1.0200-5 0.993768          1.2050+7         LVLC.Djalali+           (87)O0042  2 
+ 1001  8016   4 601  C 2.0100+8          4.6300-5 1.4700-5 0.988756          1.2050+7         LVLC.Djalali+           (87)O0042  2 
+ 1001  8016   4 601  C 2.0100+8          9.5100-5 1.4600-5 0.982287          1.2050+7         LVLC.Djalali+           (87)O0042  2 
+#/DATA      7
+#/DATASET

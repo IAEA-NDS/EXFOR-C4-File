@@ -1,0 +1,39 @@
+#ENTRY      O1847
+#AUTHOR1    J.Van de Wiele+
+#YEAR       1992
+#INSTITUTE  (2FR PAR)
+#TITLE      Vector and tensor analyzing powers in the
+#+          Pb-208(d,t)Pb-207 reaction at 200  and 360 MeV.
+#AUTHOR(S)  J.Van de Wiele, H.Langevin-Joliot, J.Guillot, L.H.Rosier, 
+#+          A.Willis, M.Morlet, G.Duhamel-Chretien, E.Gerlic, E.Tomasi-Gustafsson, 
+#+          N.Blasi, S.Micheletti, S.Y.Van der Werf
+#REF-CODE   (J,PR/C,46,1863,1992)
+#REFERENCE  Phys.Rev.C 46 (1992) 1863
+#DATASETS   0
+#
+#DATASET    O1847002 
+#DATE       20100307
+#REACTION   82-PB-208(D,T)82-PB-207,PAR,DA
+#PROJ       1002
+#TARG       82208
+#MF         4
+#MT         700
+#PRODUCT    82-PB-207
+#C4BEGIN    [ 1002 82208   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 82208   4 700  C 3.6000+8 140000.0 2.2000-4 2.2000-5 0.998657          3420000.         LVLJ.Van de Wiele+      (92)O1847  2 
+ 1002 82208   4 700  C 3.6000+8 140000.0 1.6000-4 1.6000-5 0.997649          3420000.         LVLJ.Van de Wiele+      (92)O1847  2 
+ 1002 82208   4 700  C 3.6000+8 140000.0 1.1590-4 1.1590-5 0.996522          3420000.         LVLJ.Van de Wiele+      (92)O1847  2 
+ 1002 82208   4 700  C 3.6000+8 140000.0 6.8700-5 6.8700-6 0.994792          3420000.         LVLJ.Van de Wiele+      (92)O1847  2 
+ 1002 82208   4 700  C 3.6000+8 140000.0 4.7800-5 4.7800-6 0.992841          3420000.         LVLJ.Van de Wiele+      (92)O1847  2 
+ 1002 82208   4 700  C 3.6000+8 140000.0 3.0500-5 3.0500-6 0.990557          3420000.         LVLJ.Van de Wiele+      (92)O1847  2 
+ 1002 82208   4 700  C 3.6000+8 140000.0 2.3800-5 2.3800-6 0.988282          3420000.         LVLJ.Van de Wiele+      (92)O1847  2 
+ 1002 82208   4 700  C 3.6000+8 140000.0 1.3910-5 1.3910-6 0.985079          3420000.         LVLJ.Van de Wiele+      (92)O1847  2 
+ 1002 82208   4 700  C 3.6000+8 140000.0 6.4000-6 6.4000-7 0.977747          3420000.         LVLJ.Van de Wiele+      (92)O1847  2 
+ 1002 82208   4 700  C 3.6000+8 140000.0 4.2300-6 4.2300-7 0.973419          3420000.         LVLJ.Van de Wiele+      (92)O1847  2 
+ 1002 82208   4 700  C 3.6000+8 140000.0 1.2700-6 1.2700-7 0.966241          3420000.         LVLJ.Van de Wiele+      (92)O1847  2 
+ 1002 82208   4 700  C 3.6000+8 140000.0 6.2000-7 6.2000-8 0.960731          3420000.         LVLJ.Van de Wiele+      (92)O1847  2 
+#/DATA      12
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      O0446
+#AUTHOR1    S.Kobayashi+
+#YEAR       1960
+#INSTITUTE  (2JPNTOK)
+#TITLE      Elastic and Inelastic Scattering of Protons from Nickel
+#+          Isotopes, Ni-58 and Ni-60,in the Energy Range from
+#+          7.0 MeV to 15.3 MeV.
+#AUTHOR(S)  S.Kobayashi, K.Matsuda, Y.Nagahara, Y.Oda, N.Yamamuro
+#REF-CODE   (J,JPJ,15,1151,1960)
+#REFERENCE  J.Phys.Soc.Jpn. 15 (1960) 1151
+#DATASETS   0
+#
+#DATASET    O0446009 
+#DATE       20000426
+#REACTION   28-NI-60(P,EL)28-NI-60,,DA,,RTH
+#PROJ       1001
+#TARG       28060
+#MF         4
+#MT         2
+#PRODUCT    28-NI-60
+#C4BEGIN    [ 1001 28060   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28060   4   2    7962000. 9000.000 0.049663 5.7674-4 6.123-17                              S.Kobayashi+         (60)O0446  9 
+ 1001 28060   4   2    7962000. 9000.000 0.027970 2.3287-4-0.573576                              S.Kobayashi+         (60)O0446  9 
+#/DATA      2
+#/DATASET

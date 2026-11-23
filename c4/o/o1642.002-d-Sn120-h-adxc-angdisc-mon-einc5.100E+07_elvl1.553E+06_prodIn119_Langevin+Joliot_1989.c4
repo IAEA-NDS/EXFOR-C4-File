@@ -1,0 +1,33 @@
+#ENTRY      O1642
+#AUTHOR1    H.Langevin-Joliot+
+#YEAR       1989
+#INSTITUTE  (2FR PAR)
+#TITLE      Valence and inner proton hole states in In-119 via the
+#+          (d,He3) reaction.
+#AUTHOR(S)  H.Langevin-Joliot, E.Gerlic, J.Guillot, J.Van de Wiele, 
+#+          S.Y.Van Der Werf, T.H.Martens, J.M.Schippers
+#REF-CODE   (J,ZP/A,334,133,1989)
+#REFERENCE  Z.Phys.A 334 (1989) 133
+#DATASETS   0
+#
+#DATASET    O1642002 
+#DATE       20080321
+#REACTION   50-SN-120(D,HE3)49-IN-119,PAR,DA
+#PROJ       1002
+#TARG       50120
+#MF         4
+#MT         750
+#PRODUCT    49-IN-119
+#C4BEGIN    [ 1002 50120   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50120   4 750  C 5.1000+7          3.0000-4          0.994916          1553000.         LVLH.Langevin-Joliot+   (89)O1642  2 
+ 1002 50120   4 750  C 5.1000+7          1.2400-4          0.987661          1553000.         LVLH.Langevin-Joliot+   (89)O1642  2 
+ 1002 50120   4 750  C 5.1000+7          4.1700-5          0.979258          1553000.         LVLH.Langevin-Joliot+   (89)O1642  2 
+ 1002 50120   4 750  C 5.1000+7          5.5000-5          0.973698          1553000.         LVLH.Langevin-Joliot+   (89)O1642  2 
+ 1002 50120   4 750  C 5.1000+7          8.4300-5          0.965700          1553000.         LVLH.Langevin-Joliot+   (89)O1642  2 
+ 1002 50120   4 750  C 5.1000+7          5.3400-5          0.951003          1553000.         LVLH.Langevin-Joliot+   (89)O1642  2 
+ 1002 50120   4 750  C 5.1000+7          2.0400-5          0.934640          1553000.         LVLH.Langevin-Joliot+   (89)O1642  2 
+#/DATA      7
+#/DATASET

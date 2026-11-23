@@ -1,0 +1,29 @@
+#ENTRY      O0290
+#AUTHOR1    F.E.Bertrand+
+#YEAR       1971
+#INSTITUTE  (1USAORL)
+#TITLE      Tabulated cross sections for hydrogen and helium
+#+          particles produced by 62 and 39 MeV protons on 209-Bi
+#AUTHOR(S)  F.E.Bertrand, R.W.Peelle
+#REF-CODE   (R,ORNL-4638,197101)
+#REFERENCE  Report ORNL-4638, 1971
+#DATASETS   0
+#
+#DATASET    O0290002 
+#DATE       20151028
+#REACTION   83-BI-209(P,EL)83-BI-209,,DA
+#PROJ       1001
+#TARG       83209
+#MF         4
+#MT         2
+#PRODUCT    83-BI-209
+#C4BEGIN    [ 1001 83209   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 83209   4   2  C 3.8700+7 100000.0 4.078000 4.0780-3 0.939094                              F.E.Bertrand+        (71)O0290  2 
+ 1001 83209   4   2  C 3.8700+7 100000.0 0.514000 5.1400-4 0.865151                              F.E.Bertrand+        (71)O0290  2 
+ 1001 83209   4   2  C 3.8700+7 100000.0 0.123500 2.4700-4 0.705872                              F.E.Bertrand+        (71)O0290  2 
+ 1001 83209   4   2  C 3.8700+7 100000.0 3.1000-3 3.4100-5-5.2360-3                              F.E.Bertrand+        (71)O0290  2 
+#/DATA      4
+#/DATASET

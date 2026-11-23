@@ -1,0 +1,37 @@
+#ENTRY      O1903
+#AUTHOR1    A.A.Mehmandoost-Khajeh-Dad+
+#YEAR       2011
+#INSTITUTE  (3IRNTEH)
+#TITLE      Proton-deuteron radiative capture cross-sections at
+#+          intermediate energies.
+#AUTHOR(S)  A.A.Mehmandoost-Khajeh-Dad, M.Mahjour-Shafiei, H.R.Amir-Ahmadi, 
+#+          J.C.S.Bacelar, A.M.van den Berg, R.Castelijns, E.D.van Garderen, 
+#+          N.Kalantar-Nayestanaki, M.Kis, H.Loehner, J.G.Messchendorp, 
+#+          H.J.Woertche
+#REF-CODE   (J,EPJ/A,47,59,2011)
+#REFERENCE  Eur.Phys.J.A 47 (2011) 59
+#DATASETS   0
+#
+#DATASET    O1903002 
+#DATE       20110920
+#REACTION   1-H-1(D,G)2-HE-3,,DA
+#PROJ       1002
+#TARG       1001
+#MF         4
+#MT         102
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1002  1001   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1001   4 102  C 1.8000+8          2.9500-7 1.5592-8 0.908114                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.8000+8          3.5826-7 1.7671-8 0.834713                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.8000+8          3.6019-7 1.8721-8 0.743285                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.8000+8          3.6108-7 1.9750-8 0.631258                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.8000+8          3.5356-7 1.9750-8 0.426758                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.8000+8          3.3254-7 1.7676-8 0.202719                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.8000+8          2.4712-7 1.2479-8 0.020506                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.8000+8          1.9911-7 1.5929-8-0.163292                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+ 1002  1001   4 102  C 1.8000+8          1.4483-7 1.1586-8-0.384666                              A.A.Mehmandoost-Khajeh-Dad+(11)O1903  2 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      O1417
+#AUTHOR1    Ch.Dufauquez+
+#YEAR       2006
+#INSTITUTE  (2BLGLVN)
+#TITLE      Light charged particle and neutron production in
+#+          proton- and alpha-particle-induced reactions on nat-Si
+#+          at energies between 20 and 65 MeV
+#AUTHOR(S)  Ch.Dufauquez, Y.El Masri, V.Roberfroid, J.Cabreraa, Th.Keutgen, 
+#+          J.Vanmol, P.Demetriou, R.Charity
+#REF-CODE   (J,NP/A,773,24,2006)
+#REFERENCE  Nucl.Phys.A 773 (2006) 24
+#DATASETS   0
+#
+#DATASET    O1417004 
+#DATE       20070605
+#REACTION   14-SI-0(P,X)1-H-3,,DA/DE
+#PROJ       1001
+#TARG       14000
+#MF         6
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1001 14000   6 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 14000   6 205    2.6500+7          7.850-12 2.490-12 0.766044          3450000.          E2Ch.Dufauquez+        (06)O1417  4 
+ 1001 14000   6 205    2.6500+7          8.949-11 8.400-12 0.766044          3750000.          E2Ch.Dufauquez+        (06)O1417  4 
+ 1001 14000   6 205    2.6500+7          4.396-11 5.890-12 0.766044          4050000.          E2Ch.Dufauquez+        (06)O1417  4 
+ 1001 14000   6 205    2.6500+7          4.710-12 1.930-12 0.766044          4350000.          E2Ch.Dufauquez+        (06)O1417  4 
+#/DATA      4
+#/DATASET

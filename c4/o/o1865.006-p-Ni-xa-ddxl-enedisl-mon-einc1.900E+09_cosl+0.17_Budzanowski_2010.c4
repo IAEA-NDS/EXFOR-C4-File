@@ -1,0 +1,33 @@
+#ENTRY      O1865
+#AUTHOR1    A.Budzanowski+
+#YEAR       2010
+#INSTITUTE  (3POLIFJ)
+#TITLE      Comparison of nonequilibrium processes in p + Ni and
+#+          p + Au collisions at GeV energies.
+#AUTHOR(S)  A.Budzanowski, M.Fidelus, D.Filges, F.Goldenbaum, H.Hodde, 
+#+          L.Jarczyk, B.Kamys, M.Kistryn, St.Kistryn, St.Kliczewski, 
+#+          A.Kowalczyk, E.Kozik, P.Kulessa, H.Machner, A.Magiera, B.Piskor-Ignatowicz, 
+#+          K.Pysz, Z.Rudy, R.Siudak, M.Wojciechowski
+#REF-CODE   (J,PR/C,82,034605,2010)
+#REFERENCE  Phys.Rev.C 82 (2010) 034605
+#DATASETS   0
+#
+#DATASET    O1865006 
+#DATE       20101111
+#REACTION   28-NI-0(P,X)2-HE-4,,DA/DE
+#PROJ       1001
+#TARG       28000
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001 28000   6 207 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28000   6 207 A  1.9000+9          2.6700-9 3.000-11 0.173648          1.3500+7          E2A.Budzanowski+       (10)O1865  6 
+ 1001 28000   6 207 A  1.9000+9          1.7280-9 4.100-11 0.173648          1.6500+7          E2A.Budzanowski+       (10)O1865  6 
+ 1001 28000   6 207 A  1.9000+9          1.1690-9 2.500-11 0.173648          1.9500+7          E2A.Budzanowski+       (10)O1865  6 
+ 1001 28000   6 207 A  1.9000+9          8.330-10 1.400-11 0.173648          2.2500+7          E2A.Budzanowski+       (10)O1865  6 
+ 1001 28000   6 207 A  1.9000+9          6.530-10 1.400-11 0.173648          2.5500+7          E2A.Budzanowski+       (10)O1865  6 
+#/DATA      5
+#/DATASET

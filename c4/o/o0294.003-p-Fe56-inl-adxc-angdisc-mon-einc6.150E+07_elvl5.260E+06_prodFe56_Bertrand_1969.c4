@@ -1,0 +1,36 @@
+#ENTRY      O0294
+#AUTHOR1    F.E.Bertrand+
+#YEAR       1969
+#INSTITUTE  (1USAORL)
+#TITLE      Tabulated cross sections for hydrogen and helium
+#+          particles produced by 61 MeV protons on 56-Fe
+#AUTHOR(S)  F.E.Bertrand, R.W.Peelle
+#REF-CODE   (R,ORNL-4456,1969)
+#REFERENCE  Report ORNL-4456, 1969
+#DATASETS   0
+#
+#DATASET    O0294003 
+#DATE       20200112
+#REACTION   26-FE-56(P,INL)26-FE-56,PAR,DA
+#PROJ       1001
+#TARG       26056
+#MF         4
+#MT         601
+#PRODUCT    26-FE-56
+#C4BEGIN    [ 1001 26056   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26056   4 601  C 6.1500+7          3.9600-4 1.0296-5 0.964557          5260000.         LVLF.E.Bertrand+        (69)O0294  3 
+ 1001 26056   4 601  C 6.1500+7          6.1900-4 4.5806-5 0.937889          5260000.         LVLF.E.Bertrand+        (69)O0294  3 
+ 1001 26056   4 601  C 6.1500+7          9.1600-4 3.8472-5 0.925210          5260000.         LVLF.E.Bertrand+        (69)O0294  3 
+ 1001 26056   4 601  C 6.1500+7          6.5000-4 2.6650-5 0.861629          5260000.         LVLF.E.Bertrand+        (69)O0294  3 
+ 1001 26056   4 601  C 6.1500+7          4.3300-4 2.2516-5 0.792290          5260000.         LVLF.E.Bertrand+        (69)O0294  3 
+ 1001 26056   4 601  C 6.1500+7          4.0300-4 1.4508-5 0.698415          5260000.         LVLF.E.Bertrand+        (69)O0294  3 
+ 1001 26056   4 601  C 6.1500+7          1.7400-4 1.0092-5 0.604599          5260000.         LVLF.E.Bertrand+        (69)O0294  3 
+ 1001 26056   4 601  C 6.1500+7          1.3700-4 8.3570-6 0.486335          5260000.         LVLF.E.Bertrand+        (69)O0294  3 
+ 1001 26056   4 601  C 6.1500+7          3.7000-5 4.0700-6 0.241922          5260000.         LVLF.E.Bertrand+        (69)O0294  3 
+ 1001 26056   4 601  C 6.1500+7          2.1000-5 2.5830-6-0.019197          5260000.         LVLF.E.Bertrand+        (69)O0294  3 
+ 1001 26056   4 601  C 6.1500+7          4.1000-6 7.8720-7-0.515038          5260000.         LVLF.E.Bertrand+        (69)O0294  3 
+#/DATA      11
+#/DATASET

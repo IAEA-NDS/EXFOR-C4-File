@@ -1,0 +1,35 @@
+#ENTRY      O1789
+#AUTHOR1    J.Uzureau+
+#YEAR       1974
+#INSTITUTE  (2FR NTE)
+#TITLE      Spectroscopic study of P-30 by the Si-29(d,n)P-30
+#+          reaction.
+#AUTHOR(S)  J.Uzureau, D.Ardouin, P.Avignon, A.Adam, B.Duchemin
+#REF-CODE   (J,NP/A,230,253,1974)
+#REFERENCE  Nucl.Phys.A 230 (1974) 253
+#DATASETS   0
+#
+#DATASET    O1789002 
+#DATE       20091007
+#REACTION   14-SI-29(D,N)15-P-30,PAR,DA
+#PROJ       1002
+#TARG       14029
+#MF         4
+#MT         50
+#PRODUCT    15-P-30
+#C4BEGIN    [ 1002 14029   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 14029   4  50  C 8000000.          4.2000-3 4.2000-4 0.995379          6920000. 7000.000LVLJ.Uzureau+           (74)O1789  2 
+ 1002 14029   4  50  C 8000000.          4.0600-3 2.0300-4 0.981660          6920000. 7000.000LVLJ.Uzureau+           (74)O1789  2 
+ 1002 14029   4  50  C 8000000.          3.7700-3          0.958968          6920000. 7000.000LVLJ.Uzureau+           (74)O1789  2 
+ 1002 14029   4  50  C 8000000.          2.8900-3          0.929003          6920000. 7000.000LVLJ.Uzureau+           (74)O1789  2 
+ 1002 14029   4  50  C 8000000.          2.0180-3          0.883929          6920000. 7000.000LVLJ.Uzureau+           (74)O1789  2 
+ 1002 14029   4  50  C 8000000.          1.3400-3 5.3600-5 0.839525          6920000. 7000.000LVLJ.Uzureau+           (74)O1789  2 
+ 1002 14029   4  50  C 8000000.          9.1800-4          0.778900          6920000. 7000.000LVLJ.Uzureau+           (74)O1789  2 
+ 1002 14029   4  50  C 8000000.          6.4000-4 5.1200-5 0.723690          6920000. 7000.000LVLJ.Uzureau+           (74)O1789  2 
+ 1002 14029   4  50  C 8000000.          4.1000-4 4.1000-5 0.572861          6920000. 7000.000LVLJ.Uzureau+           (74)O1789  2 
+ 1002 14029   4  50  C 8000000.          4.2000-4 5.0400-5 0.421036          6920000. 7000.000LVLJ.Uzureau+           (74)O1789  2 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      O0969
+#AUTHOR1    C.Muri+
+#YEAR       1998
+#INSTITUTE  (3BZLUFF)
+#TITLE      Elastic, inelastic scattering and fusion of the N-14+
+#+          Co-59 system at energies close to the Coulomb barrier.
+#AUTHOR(S)  C.Muri, R.M.Anjos, R.Cabezas, P.R.S.Gomes, S.B.Moraes, A.M.M.Maciel, 
+#+          G.M.Santos, J.Lubian, M.M.Sant'Anna, C.Tenreiro, R.Liguori Neto, 
+#+          J.C.Acquadro, P.A.B.Freitas
+#REF-CODE   (J,EPJ/A,1,143,1998)
+#REFERENCE  Eur.Phys.J.A 1 (1998) 143
+#DATASETS   0
+#
+#DATASET    O0969002 
+#DATE       20051216
+#REACTION   27-CO-59(7-N-14,EL)27-CO-59,,DA,,RTH
+#PROJ       7014
+#TARG       27059
+#MF         4
+#MT         2
+#PRODUCT    27-CO-59
+#C4BEGIN    [ 7014 27059   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 7014 27059   4   2  C 5.5000+7 150000.0 288.0540          0.981959                              C.Muri+              (98)O0969  2 
+ 7014 27059   4   2  C 5.5000+7 150000.0 61.24869          0.957319                              C.Muri+              (98)O0969  2 
+ 7014 27059   4   2  C 5.5000+7 150000.0 16.33469          0.919821                              C.Muri+              (98)O0969  2 
+ 7014 27059   4   2  C 5.5000+7 150000.0 5.992061          0.871214                              C.Muri+              (98)O0969  2 
+ 7014 27059   4   2  C 5.5000+7 150000.0 3.898332          0.821149                              C.Muri+              (98)O0969  2 
+ 7014 27059   4   2  C 5.5000+7 150000.0 1.385607 0.166273 0.747798                              C.Muri+              (98)O0969  2 
+ 7014 27059   4   2  C 5.5000+7 150000.0 0.435761 0.052291 0.681998                              C.Muri+              (98)O0969  2 
+ 7014 27059   4   2  C 5.5000+7 150000.0 0.155197 0.031039 0.597625                              C.Muri+              (98)O0969  2 
+#/DATA      8
+#/DATASET

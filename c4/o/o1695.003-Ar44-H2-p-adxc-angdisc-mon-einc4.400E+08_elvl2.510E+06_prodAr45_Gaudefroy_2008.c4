@@ -1,0 +1,35 @@
+#ENTRY      O1695
+#AUTHOR1    L.Gaudefroy+
+#YEAR       2008
+#INSTITUTE  (2FR PAR)
+#TITLE      Structure of the N=27 isotones derived from the
+#+          Ar-44(d,p)Ar-45 reaction.
+#AUTHOR(S)  L.Gaudefroy, O.Sorlin, F.Nowacki, D.Beaumel, Y.Blumenfeld, 
+#+          Z.Dombradi, S.Fortier, S.Franchoo, S.Grevy, F.Hammache, 
+#+          K.W.Kemper, K.L.Kratz, M.G.St.Laurent, S.M.Lukyanov, L.Nalpas, 
+#+          A.N.Ostrowski, Yu.E.Penionzhkevich, E.C.Pollacco, P.Roussel, 
+#+          P.Roussel-Chomaz, D.Sohler, M.Stanoiu, E.Tryggestad
+#REF-CODE   (J,PR/C,78,034307,2008)
+#REFERENCE  Phys.Rev.C 78 (2008) 034307
+#DATASETS   0
+#
+#DATASET    O1695003 
+#DATE       20081114
+#REACTION   1-H-2(18-AR-44,P)18-AR-45,PAR,DA
+#PROJ       18044
+#TARG       1002
+#MF         4
+#MT         600
+#PRODUCT    18-AR-45
+#C4BEGIN    [18044  1002   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+18044  1002   4 600  C 4.4000+8          8.0000-3 1.1200-3 0.993171 1.8327-3 2510000.         LVLL.Gaudefroy+         (08)O1695  3 
+18044  1002   4 600  C 4.4000+8          7.7000-3 1.2320-3 0.987960 3.2402-3 2510000.         LVLL.Gaudefroy+         (08)O1695  3 
+18044  1002   4 600  C 4.4000+8          5.7000-3 1.0830-3 0.978867 4.2830-3 2510000.         LVLL.Gaudefroy+         (08)O1695  3 
+18044  1002   4 600  C 4.4000+8          5.0000-3 1.2000-3 0.967268 6.6434-3 2510000.         LVLL.Gaudefroy+         (08)O1695  3 
+18044  1002   4 600  C 4.4000+8          3.2000-3 8.0000-4 0.953191 7.3883-3 2510000.         LVLL.Gaudefroy+         (08)O1695  3 
+18044  1002   4 600  C 4.4000+8          2.6600-3 2.9260-4 0.934204 9.3394-3 2510000.         LVLL.Gaudefroy+         (08)O1695  3 
+#/DATA      6
+#/DATASET

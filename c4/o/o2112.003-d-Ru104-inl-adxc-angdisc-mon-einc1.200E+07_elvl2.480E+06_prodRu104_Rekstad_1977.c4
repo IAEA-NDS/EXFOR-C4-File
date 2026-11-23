@@ -1,0 +1,30 @@
+#ENTRY      O2112
+#AUTHOR1    J.Rekstad+
+#YEAR       1977
+#INSTITUTE  (2DENCOP)
+#TITLE      Collective states in Ru-102 and Ru-104 populated in
+#+          inelastic deuteron scattering.
+#AUTHOR(S)  J.Rekstad, P.O.Tjom
+#REF-CODE   (J,JP/G,3,411,1977)
+#REFERENCE  J.Phys.G 3 (1977) 411
+#DATASETS   0
+#
+#DATASET    O2112003 
+#DATE       20130114
+#REACTION   44-RU-104(D,INL)44-RU-104,PAR,DA
+#PROJ       1002
+#TARG       44104
+#MF         4
+#MT         651
+#PRODUCT    44-RU-104
+#C4BEGIN    [ 1002 44104   4 651  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 44104   4 651  C 1.2000+7          0.110100 0.017030 0.469780          2480000.         LVLJ.Rekstad+           (77)O2112  3 
+ 1002 44104   4 651  C 1.2000+7          0.087650 0.019710 0.235312          2480000.         LVLJ.Rekstad+           (77)O2112  3 
+ 1002 44104   4 651  C 1.2000+7          0.062050 0.011440-0.044840          2480000.         LVLJ.Rekstad+           (77)O2112  3 
+ 1002 44104   4 651  C 1.2000+7          0.052790 8.6180-3-0.598185          2480000.         LVLJ.Rekstad+           (77)O2112  3 
+ 1002 44104   4 651  C 1.2000+7          0.037680 5.9910-3-0.872069          2480000.         LVLJ.Rekstad+           (77)O2112  3 
+#/DATA      5
+#/DATASET

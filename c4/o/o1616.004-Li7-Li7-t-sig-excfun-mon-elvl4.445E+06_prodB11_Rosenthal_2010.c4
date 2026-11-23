@@ -1,0 +1,39 @@
+#ENTRY      O1616
+#AUTHOR1    P.Rosenthal+
+#YEAR       2010
+#INSTITUTE  (2GERBOC)
+#TITLE      Direct nuclear reactions in lithium-lithium systems-
+#+          Li7+Li7 at E(lab)=2-16 MeV.
+#AUTHOR(S)  P.Rosenthal, H.Freiesleben, B.Gehrmann, I.Gotzhein, K.W.Potthast, 
+#+          B.Kamys, Z.Rudy
+#REF-CODE   (J,APP/B,41,845,2010)
+#REFERENCE  Acta Phys.Pol.B 41 (2010) 845
+#DATASETS   0
+#
+#DATASET    O1616004 
+#DATE       20160718
+#REACTION   3-LI-7(3-LI-7,T)5-B-11,PAR,SIG
+#PROJ       3007
+#TARG       3007
+#MF         3
+#MT         700
+#PRODUCT    5-B-11
+#C4BEGIN    [ 3007  3007   3 700 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007  3007   3 700 D  8040000.          0.022058                            4445000.         LVLP.Rosenthal+         (10)O1616  4 
+ 3007  3007   3 700 D  8560000.          0.020989                            4445000.         LVLP.Rosenthal+         (10)O1616  4 
+ 3007  3007   3 700 D  9570000.          0.021397                            4445000.         LVLP.Rosenthal+         (10)O1616  4 
+ 3007  3007   3 700 D  1.0060+7          0.018586                            4445000.         LVLP.Rosenthal+         (10)O1616  4 
+ 3007  3007   3 700 D  1.0580+7          0.018723                            4445000.         LVLP.Rosenthal+         (10)O1616  4 
+ 3007  3007   3 700 D  1.1070+7          0.018993                            4445000.         LVLP.Rosenthal+         (10)O1616  4 
+ 3007  3007   3 700 D  1.1590+7          0.016852                            4445000.         LVLP.Rosenthal+         (10)O1616  4 
+ 3007  3007   3 700 D  1.2110+7          0.015649                            4445000.         LVLP.Rosenthal+         (10)O1616  4 
+ 3007  3007   3 700 D  1.2600+7          0.014714                            4445000.         LVLP.Rosenthal+         (10)O1616  4 
+ 3007  3007   3 700 D  1.3080+7          0.015387                            4445000.         LVLP.Rosenthal+         (10)O1616  4 
+ 3007  3007   3 700 D  1.3570+7          0.013648                            4445000.         LVLP.Rosenthal+         (10)O1616  4 
+ 3007  3007   3 700 D  1.4060+7          0.013382                            4445000.         LVLP.Rosenthal+         (10)O1616  4 
+ 3007  3007   3 700 D  1.4520+7          0.013184                            4445000.         LVLP.Rosenthal+         (10)O1616  4 
+#/DATA      13
+#/DATASET

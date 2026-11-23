@@ -1,0 +1,30 @@
+#ENTRY      O0329
+#AUTHOR1    J.C.Legg+
+#YEAR       1963
+#INSTITUTE  (1USAPTN)
+#TITLE      (p,d) and (p,t) reactions on B-11, C-14, O-16 and O-18
+#AUTHOR(S)  J.C.Legg
+#REF-CODE   (J,PR,129,272,1963)
+#REFERENCE  Phys.Rev. 129 (1963) 272
+#DATASETS   0
+#
+#DATASET    O0329002 
+#DATE       20230425
+#REACTION   5-B-11(P,D)5-B-10,PAR,DA
+#PROJ       1001
+#TARG       5011
+#MF         4
+#MT         650
+#PRODUCT    5-B-10
+#C4BEGIN    [ 1001  5011   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5011   4 650  C 1.9000+7          1.3800-3 1.8000-4 0.975535          2150000.         LVLJ.C.Legg             (63)O0329  2 
+ 1001  5011   4 650  C 1.9000+7          1.6800-3 1.8000-4 0.948324          2150000.         LVLJ.C.Legg             (63)O0329  2 
+ 1001  5011   4 650  C 1.9000+7          1.3800-3 1.7000-4 0.912834          2150000.         LVLJ.C.Legg             (63)O0329  2 
+ 1001  5011   4 650  C 1.9000+7          8.0000-4 1.3000-4 0.859852          2150000.         LVLJ.C.Legg             (63)O0329  2 
+ 1001  5011   4 650  C 1.9000+7          6.2000-4 1.2000-4 0.801776          2150000.         LVLJ.C.Legg             (63)O0329  2 
+ 1001  5011   4 650  C 1.9000+7          1.7000-4 7.0000-5 0.665230          2150000.         LVLJ.C.Legg             (63)O0329  2 
+#/DATA      6
+#/DATASET

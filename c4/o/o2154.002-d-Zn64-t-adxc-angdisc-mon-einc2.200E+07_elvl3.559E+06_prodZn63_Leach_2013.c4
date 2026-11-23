@@ -1,0 +1,35 @@
+#ENTRY      O2154
+#AUTHOR1    K.G.Leach+
+#YEAR       2013
+#INSTITUTE  (1CANGUE)
+#TITLE      Experimental 64Zn(d,t)63Zn spectroscopic factors-
+#+          Guidance for isospin-symmetry-breaking calculations.
+#AUTHOR(S)  K.G.Leach, P.E.Garrett, I.S.Towner, G.C.Ball, V.Bildstein, 
+#+          B.A.Brown, G.A.Demand, T.Faestermann, P.Finlay, K.L.Green, 
+#+          R.Hertenberger, R.Kruecken, A.A.Phillips, E.T.Rand, C.S.Sumithrarachchi, 
+#+          C.E.Svensson, S.Triambak, H.-F.Wirth, J.Wong
+#REF-CODE   (J,PR/C,87,064306,2013)
+#REFERENCE  Phys.Rev.C 87 (2013) 064306
+#DATASETS   0
+#
+#DATASET    O2154002 
+#DATE       20130722
+#REACTION   30-ZN-64(D,T)30-ZN-63,PAR,DA
+#PROJ       1002
+#TARG       30064
+#MF         4
+#MT         700
+#PRODUCT    30-ZN-63
+#C4BEGIN    [ 1002 30064   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 30064   4 700  C 2.2000+7          9.3283-7 1.2533-6 0.983812          3559000.         LVLK.G.Leach+           (13)O2154  2 
+ 1002 30064   4 700  C 2.2000+7          8.9598-7 5.0332-7 0.900433          3559000.         LVLK.G.Leach+           (13)O2154  2 
+ 1002 30064   4 700  C 2.2000+7          4.7583-7 3.0293-7 0.857818          3559000.         LVLK.G.Leach+           (13)O2154  2 
+ 1002 30064   4 700  C 2.2000+7          4.2300-7 2.6168-7 0.808377          3559000.         LVLK.G.Leach+           (13)O2154  2 
+ 1002 30064   4 700  C 2.2000+7          6.2552-7 4.0594-7 0.752547          3559000.         LVLK.G.Leach+           (13)O2154  2 
+ 1002 30064   4 700  C 2.2000+7          2.8428-7 2.6565-7 0.623734          3559000.         LVLK.G.Leach+           (13)O2154  2 
+ 1002 30064   4 700  C 2.2000+7          2.4371-7 2.4024-7 0.475817          3559000.         LVLK.G.Leach+           (13)O2154  2 
+#/DATA      7
+#/DATASET

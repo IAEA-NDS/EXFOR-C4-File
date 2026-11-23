@@ -1,0 +1,33 @@
+#ENTRY      O1895
+#AUTHOR1    A.M.Oros+
+#YEAR       1997
+#INSTITUTE  (2GERKLN)
+#TITLE      New 0+ states in Sm-146 from a (p,t) experiment and the
+#+          particle-core coupling model.
+#AUTHOR(S)  A.M.Oros, P.von Brentano, R.V.Jolos, L.Trache, G.Graw, G.Cata-Danil, 
+#+          B.D.Valnion, A.Gollwitzer, K.Heyde
+#REF-CODE   (J,NP/A,613,209,1997)
+#REFERENCE  Nucl.Phys.A 613 (1997) 209
+#DATASETS   0
+#
+#DATASET    O1895002 
+#DATE       20110224
+#REACTION   62-SM-148(P,T)62-SM-146,PAR,DA
+#PROJ       1001
+#TARG       62148
+#MF         4
+#MT         700
+#PRODUCT    62-SM-146
+#C4BEGIN    [ 1001 62148   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 62148   4 700    2.6000+7          3.0000-7 6.9000-8 0.985909          4031000.         LVLA.M.Oros+            (97)O1895  2 
+ 1001 62148   4 700    2.6000+7          2.4600-6          0.969102          4031000.         LVLA.M.Oros+            (97)O1895  2 
+ 1001 62148   4 700    2.6000+7          2.0000-6 3.0000-7 0.920641          4031000.         LVLA.M.Oros+            (97)O1895  2 
+ 1001 62148   4 700    2.6000+7          9.5000-7 1.5200-7 0.884500          4031000.         LVLA.M.Oros+            (97)O1895  2 
+ 1001 62148   4 700    2.6000+7          6.2000-7 9.9200-8 0.846379          4031000.         LVLA.M.Oros+            (97)O1895  2 
+ 1001 62148   4 700    2.6000+7          6.4000-7 1.0880-7 0.775716          4031000.         LVLA.M.Oros+            (97)O1895  2 
+ 1001 62148   4 700    2.6000+7          3.7000-7 1.1100-7 0.695787          4031000.         LVLA.M.Oros+            (97)O1895  2 
+#/DATA      7
+#/DATASET

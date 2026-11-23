@@ -1,0 +1,27 @@
+#ENTRY      O2387
+#AUTHOR1    F.Terrasi+
+#YEAR       1983
+#INSTITUTE  (2ITYNAP)
+#TITLE      Proton direct capture on 40Ca
+#AUTHOR(S)  F.Terrasi, A.Brondi, P.Cuzzocrea, R.Moro, G.La Rana, M.Romano, 
+#+          B.Gonsior, N.Notthoff, E.Kabuss
+#REF-CODE   (J,NP/A,394,405,1983)
+#REFERENCE  Nucl.Phys.A 394 (1983) 405
+#DATASETS   0
+#
+#DATASET    O2387002 
+#DATE       20191126
+#REACTION   20-CA-40(P,G)21-SC-41,PAR,DA
+#PROJ       1001
+#TARG       20040
+#MF         4
+#MT         900
+#PRODUCT    21-SC-41
+#C4BEGIN    [ 1001 20040   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20040   4 900    2598700.          1.7320-5 6.9440-6 6.123-17          0.000000         LVLF.Terrasi+           (83)O2387  2 
+ 1001 20040   4 900    2739100.          1.8510-5 9.5160-6 6.123-17          0.000000         LVLF.Terrasi+           (83)O2387  2 
+#/DATA      2
+#/DATASET

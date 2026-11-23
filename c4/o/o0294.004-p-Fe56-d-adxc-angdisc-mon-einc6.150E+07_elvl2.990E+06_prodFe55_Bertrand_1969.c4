@@ -1,0 +1,34 @@
+#ENTRY      O0294
+#AUTHOR1    F.E.Bertrand+
+#YEAR       1969
+#INSTITUTE  (1USAORL)
+#TITLE      Tabulated cross sections for hydrogen and helium
+#+          particles produced by 61 MeV protons on 56-Fe
+#AUTHOR(S)  F.E.Bertrand, R.W.Peelle
+#REF-CODE   (R,ORNL-4456,1969)
+#REFERENCE  Report ORNL-4456, 1969
+#DATASETS   0
+#
+#DATASET    O0294004 
+#DATE       20200112
+#REACTION   26-FE-56(P,D)26-FE-55,PAR,DA
+#PROJ       1001
+#TARG       26056
+#MF         4
+#MT         650
+#PRODUCT    26-FE-55
+#C4BEGIN    [ 1001 26056   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 26056   4 650  C 6.1500+7          7.6800-4 4.8384-5 0.964095          2990000.         LVLF.E.Bertrand+        (69)O0294  4 
+ 1001 26056   4 650  C 6.1500+7          6.9400-4 2.4290-5 0.936672          2990000.         LVLF.E.Bertrand+        (69)O0294  4 
+ 1001 26056   4 650  C 6.1500+7          5.4300-4 1.3032-5 0.901077          2990000.         LVLF.E.Bertrand+        (69)O0294  4 
+ 1001 26056   4 650  C 6.1500+7          3.1200-4 1.2480-5 0.858960          2990000.         LVLF.E.Bertrand+        (69)O0294  4 
+ 1001 26056   4 650  C 6.1500+7          2.2300-4 9.5890-6 0.788011          2990000.         LVLF.E.Bertrand+        (69)O0294  4 
+ 1001 26056   4 650  C 6.1500+7          1.3000-4 5.7200-6 0.693402          2990000.         LVLF.E.Bertrand+        (69)O0294  4 
+ 1001 26056   4 650  C 6.1500+7          1.0400-4 4.9920-6 0.597625          2990000.         LVLF.E.Bertrand+        (69)O0294  4 
+ 1001 26056   4 650  C 6.1500+7          6.3000-5 3.6540-6 0.478692          2990000.         LVLF.E.Bertrand+        (69)O0294  4 
+ 1001 26056   4 650  C 6.1500+7          2.4000-5 2.3040-6 0.233445          2990000.         LVLF.E.Bertrand+        (69)O0294  4 
+#/DATA      9
+#/DATASET

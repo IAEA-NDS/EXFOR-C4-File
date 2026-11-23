@@ -1,0 +1,32 @@
+#ENTRY      O2271
+#AUTHOR1    L.Netterdon+
+#YEAR       2015
+#INSTITUTE  (2GERKLN)
+#TITLE      Experimental constraints on the gamma-ray strength
+#+          function in Zr-90 using partial cross sections of the
+#+          Y-89(p,g)Zr-90 reaction.
+#AUTHOR(S)  L.Netterdon, A.Endres, S.Goriely, J.Mayer, P.Scholz, M.Spieker, 
+#+          A.Zilges
+#REF-CODE   (J,PL/B,744,358,2015)
+#REFERENCE  Phys.Lett.B 744 (2015) 358
+#DATASETS   0
+#
+#DATASET    O2271008 
+#DATE       20151102
+#REACTION   39-Y-89(P,G)40-ZR-90,PAR,SIG
+#PROJ       1001
+#TARG       39089
+#MF         3
+#MT         900
+#PRODUCT    40-ZR-90
+#C4BEGIN    [ 1001 39089   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 39089   3 900    3623693. 8000.346 6.5000-5 1.0000-5                   4223000.         LVLL.Netterdon+         (15)O2271  8 
+ 1001 39089   3 900    3935199. 8000.375 7.8000-5 9.0000-6                   4223000.         LVLL.Netterdon+         (15)O2271  8 
+ 1001 39089   3 900    4175908. 8000.398 9.4000-5 1.0000-5                   4223000.         LVLL.Netterdon+         (15)O2271  8 
+ 1001 39089   3 900    4476290. 8000.427 5.5000-5 7.0000-6                   4223000.         LVLL.Netterdon+         (15)O2271  8 
+ 1001 39089   3 900    4676546. 8000.446 4.0000-5 5.0000-6                   4223000.         LVLL.Netterdon+         (15)O2271  8 
+#/DATA      5
+#/DATASET

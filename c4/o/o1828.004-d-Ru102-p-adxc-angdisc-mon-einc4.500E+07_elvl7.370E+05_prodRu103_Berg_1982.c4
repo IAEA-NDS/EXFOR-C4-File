@@ -1,0 +1,38 @@
+#ENTRY      O1828
+#AUTHOR1    G.P.A.Berg+
+#YEAR       1982
+#INSTITUTE  (2GERJUL)
+#TITLE      High resolution spectroscopy of Ru-102(d,p)Ru-103
+#+          and Ru-104(p,d)Ru-103 reactions.
+#AUTHOR(S)  G.P.A.Berg, M.Demarteau, A.Hardt, W.Huerlimann, S.A.Martin, 
+#+          J.Meissburger, W.Oelert, H.Seyfarth, B.Styczen
+#REF-CODE   (J,NP/A,379,93,1982)
+#REFERENCE  Nucl.Phys.A 379 (1982) 93
+#DATASETS   0
+#
+#DATASET    O1828004 
+#DATE       20100126
+#REACTION   44-RU-102(D,P)44-RU-103,PAR,DA
+#PROJ       1002
+#TARG       44102
+#MF         4
+#MT         600
+#PRODUCT    44-RU-103
+#C4BEGIN    [ 1002 44102   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 44102   4 600  C 4.5000+7 4000.000 1.8600-4          0.996793          737000.0         LVLG.P.A.Berg+          (82)O1828  4 
+ 1002 44102   4 600  C 4.5000+7 4000.000 1.3900-4 2.6410-5 0.991694          737000.0         LVLG.P.A.Berg+          (82)O1828  4 
+ 1002 44102   4 600  C 4.5000+7 4000.000 1.0100-4          0.984288          737000.0         LVLG.P.A.Berg+          (82)O1828  4 
+ 1002 44102   4 600  C 4.5000+7 4000.000 1.4700-4          0.974291          737000.0         LVLG.P.A.Berg+          (82)O1828  4 
+ 1002 44102   4 600  C 4.5000+7 4000.000 1.4300-4          0.962928          737000.0         LVLG.P.A.Berg+          (82)O1828  4 
+ 1002 44102   4 600  C 4.5000+7 4000.000 1.3900-4          0.952343          737000.0         LVLG.P.A.Berg+          (82)O1828  4 
+ 1002 44102   4 600  C 4.5000+7 4000.000 1.1300-4          0.937404          737000.0         LVLG.P.A.Berg+          (82)O1828  4 
+ 1002 44102   4 600  C 4.5000+7 4000.000 7.3000-5          0.915733          737000.0         LVLG.P.A.Berg+          (82)O1828  4 
+ 1002 44102   4 600  C 4.5000+7 4000.000 3.8700-5          0.893920          737000.0         LVLG.P.A.Berg+          (82)O1828  4 
+ 1002 44102   4 600  C 4.5000+7 4000.000 3.3000-5 4.9500-6 0.867939          737000.0         LVLG.P.A.Berg+          (82)O1828  4 
+ 1002 44102   4 600  C 4.5000+7 4000.000 2.8100-5          0.832535          737000.0         LVLG.P.A.Berg+          (82)O1828  4 
+ 1002 44102   4 600  C 4.5000+7 4000.000 3.6400-5          0.777805          737000.0         LVLG.P.A.Berg+          (82)O1828  4 
+#/DATA      12
+#/DATASET

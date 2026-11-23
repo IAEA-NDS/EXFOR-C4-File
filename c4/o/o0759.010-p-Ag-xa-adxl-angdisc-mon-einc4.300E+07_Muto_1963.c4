@@ -1,0 +1,29 @@
+#ENTRY      O0759
+#AUTHOR1    J.Muto+
+#YEAR       1963
+#INSTITUTE  (2JPNKTO)
+#TITLE      Alpha-Particles from Several Elements Bombarded with
+#+          30,43 and 56 MeV Protons.
+#AUTHOR(S)  J.Muto, H.Iton, K.Okano, N.Shiomi, K.Fukuda, Y.Omori, M.Kinara
+#REF-CODE   (J,NP,47,19,1963)
+#REFERENCE  Nucl.Phys. 47 (1963) 19
+#DATASETS   0
+#
+#DATASET    O0759010 
+#DATE       20010323
+#REACTION   47-AG-0(P,X)2-HE-4,,DA
+#PROJ       1001
+#TARG       47000
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001 47000   4 207 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 47000   4 207 DC 4.3000+7          7.7100-3          0.463296                              J.Muto+              (63)O0759 10 
+ 1001 47000   4 207 DC 4.3000+7          8.8900-3         -0.010472                              J.Muto+              (63)O0759 10 
+ 1001 47000   4 207 DC 4.3000+7          7.2800-3         -0.496974                              J.Muto+              (63)O0759 10 
+ 1001 47000   4 207 DC 4.3000+7          7.4900-3         -0.867765                              J.Muto+              (63)O0759 10 
+#/DATA      4
+#/DATASET

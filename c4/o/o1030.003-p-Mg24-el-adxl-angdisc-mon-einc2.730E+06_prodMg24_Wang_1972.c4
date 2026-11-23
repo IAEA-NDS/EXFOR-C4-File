@@ -1,0 +1,26 @@
+#ENTRY      O1030
+#AUTHOR1    W.N.Wang+
+#YEAR       1972
+#INSTITUTE  (3CHFTHU)
+#TITLE      Differential cross sections for elastic scattering of
+#+          low-energy protons from Mg-26 and Mg-24.
+#AUTHOR(S)  W.N.Wang, K.Lin, C.L.Tung
+#REF-CODE   (J,CHP,10,1,1972)
+#REFERENCE  Chin.J.Phys. 10 (1972) 1
+#DATASETS   0
+#
+#DATASET    O1030003 
+#DATE       20030227
+#REACTION   12-MG-24(P,EL)12-MG-24,,DA
+#PROJ       1001
+#TARG       12024
+#MF         4
+#MT         2
+#PRODUCT    12-MG-24
+#C4BEGIN    [ 1001 12024   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 12024   4   2  C 2730000.          0.057200         -0.665230                              W.N.Wang+            (72)O1030  3 
+#/DATA      1
+#/DATASET

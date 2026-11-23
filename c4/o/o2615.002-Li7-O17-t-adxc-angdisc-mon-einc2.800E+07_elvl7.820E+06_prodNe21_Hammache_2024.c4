@@ -1,0 +1,34 @@
+#ENTRY      O2615
+#AUTHOR1    F.Hammache+
+#YEAR       2024
+#INSTITUTE  (2FR PAR)
+#TITLE      Experimental determination of alpha widths of 21Ne
+#+          levels in the region of astrophysical interest: new
+#+          17O+alpha reaction rates and impact on the weak
+#+          s process
+#AUTHOR(S)  F.Hammache, P.Adsley, L.Lamia, D.S.Harrouz, N.De Sereville, 
+#+          B.Bastin, A.Choplin, T.Faestermann, C.Fougeres, R.Hertenberger, 
+#+          R.Hirschi, M.La Cognata, A.Meyer, S.Palmerini, R.G.Pizzone, 
+#+          F.de Oliveira Santos, S.Romano, A.Tumino, H.-F.Wirth
+#REF-CODE   (J,PRL,132,182701,2024)
+#REFERENCE  Phys.Rev.Lett. 132 (2024) 182701
+#DATASETS   0
+#
+#DATASET    O2615002 
+#DATE       20240624
+#REACTION   8-O-17(3-LI-7,T)10-NE-21,PAR,DA
+#PROJ       3007
+#TARG       8017
+#MF         4
+#MT         700
+#PRODUCT    10-NE-21
+#C4BEGIN    [ 3007  8017   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007  8017   4 700  C 2.8000+7          1.3368-4 2.3760-5 0.959314          7820000.         LVLF.Hammache+          (24)O2615  2 
+ 3007  8017   4 700  C 2.8000+7          4.7280-5 4.4400-6 0.818049          7820000.         LVLF.Hammache+          (24)O2615  2 
+ 3007  8017   4 700  C 2.8000+7          3.8390-5 3.3500-6 0.765708          7820000.         LVLF.Hammache+          (24)O2615  2 
+ 3007  8017   4 700  C 2.8000+7          2.7320-5          0.708093          7820000.         LVLF.Hammache+          (24)O2615  2 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      O0915
+#AUTHOR1    A.Nurmela+
+#YEAR       1997
+#INSTITUTE  (2SF HLS)
+#TITLE      Elastic scattering cross sections for the p+He system
+#+          in the energy region of 1.4-24 MeV
+#AUTHOR(S)  A.Nurmela, E.Rauhala, J.Raisanen
+#REF-CODE   (J,JAP,82,1983,1997)
+#REFERENCE  J.Appl.Phys. 82 (1997) 1983
+#DATASETS   0
+#
+#DATASET    O0915002 
+#DATE       20040312
+#REACTION   2-HE-4(P,EL)2-HE-4,,DA
+#PROJ       1001
+#TARG       2004
+#MF         4
+#MT         2
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  2004   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  2004   4   2    4900000.          0.077000         -0.766044                              A.Nurmela+           (97)O0915  2 
+ 1001  2004   4   2    4900000.          0.074000         -0.984808                              A.Nurmela+           (97)O0915  2 
+#/DATA      2
+#/DATASET

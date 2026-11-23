@@ -1,0 +1,35 @@
+#ENTRY      O1642
+#AUTHOR1    H.Langevin-Joliot+
+#YEAR       1989
+#INSTITUTE  (2FR PAR)
+#TITLE      Valence and inner proton hole states in In-119 via the
+#+          (d,He3) reaction.
+#AUTHOR(S)  H.Langevin-Joliot, E.Gerlic, J.Guillot, J.Van de Wiele, 
+#+          S.Y.Van Der Werf, T.H.Martens, J.M.Schippers
+#REF-CODE   (J,ZP/A,334,133,1989)
+#REFERENCE  Z.Phys.A 334 (1989) 133
+#DATASETS   0
+#
+#DATASET    O1642002 
+#DATE       20080321
+#REACTION   50-SN-120(D,HE3)49-IN-119,PAR,DA
+#PROJ       1002
+#TARG       50120
+#MF         4
+#MT         750
+#PRODUCT    49-IN-119
+#C4BEGIN    [ 1002 50120   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 50120   4 750  C 5.1000+7          7.2500-5          0.997927          2502000.         LVLH.Langevin-Joliot+   (89)O1642  2 
+ 1002 50120   4 750  C 5.1000+7          5.1300-5          0.997893          2502000.         LVLH.Langevin-Joliot+   (89)O1642  2 
+ 1002 50120   4 750  C 5.1000+7          3.1800-5          0.992027          2502000.         LVLH.Langevin-Joliot+   (89)O1642  2 
+ 1002 50120   4 750  C 5.1000+7          1.4300-5          0.985792          2502000.         LVLH.Langevin-Joliot+   (89)O1642  2 
+ 1002 50120   4 750  C 5.1000+7          1.0100-5          0.985703          2502000.         LVLH.Langevin-Joliot+   (89)O1642  2 
+ 1002 50120   4 750  C 5.1000+7          1.8000-5 3.0600-6 0.980989          2502000.         LVLH.Langevin-Joliot+   (89)O1642  2 
+ 1002 50120   4 750  C 5.1000+7          2.2000-5          0.973857          2502000.         LVLH.Langevin-Joliot+   (89)O1642  2 
+ 1002 50120   4 750  C 5.1000+7          1.9300-5          0.959560          2502000.         LVLH.Langevin-Joliot+   (89)O1642  2 
+ 1002 50120   4 750  C 5.1000+7          3.8000-6 4.1800-7 0.941529          2502000.         LVLH.Langevin-Joliot+   (89)O1642  2 
+#/DATA      9
+#/DATASET

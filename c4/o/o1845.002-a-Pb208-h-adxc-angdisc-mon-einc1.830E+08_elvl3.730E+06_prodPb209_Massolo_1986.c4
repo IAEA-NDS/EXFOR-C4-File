@@ -1,0 +1,34 @@
+#ENTRY      O1845
+#AUTHOR1    C.P.Massolo+
+#YEAR       1986
+#INSTITUTE  (2FR PAR)
+#TITLE      Damping of high-spin single-particle strengths in
+#+          Pb-209.
+#AUTHOR(S)  C.P.Massolo, F.Azaiez, S.Gales, S.Fortier, E.Gerlic, J.Guillot, 
+#+          E.Hourani, J.M.Maison
+#REF-CODE   (J,PR/C,34,1256,1986)
+#REFERENCE  Phys.Rev.C 34 (1986) 1256
+#DATASETS   0
+#
+#DATASET    O1845002 
+#DATE       20100304
+#REACTION   82-PB-208(A,HE3)82-PB-209,PAR,DA
+#PROJ       2004
+#TARG       82208
+#MF         4
+#MT         750
+#PRODUCT    82-PB-209
+#C4BEGIN    [ 2004 82208   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 82208   4 750  C 1.8300+8 200000.0 1.8800-3 1.1280-4 0.999243          3730000.         LVLC.P.Massolo+         (86)O1845  2 
+ 2004 82208   4 750  C 1.8300+8 200000.0 1.0600-3 1.3780-4 0.997790          3730000.         LVLC.P.Massolo+         (86)O1845  2 
+ 2004 82208   4 750  C 1.8300+8 200000.0 1.2200-3 1.5860-4 0.996478          3730000.         LVLC.P.Massolo+         (86)O1845  2 
+ 2004 82208   4 750  C 1.8300+8 200000.0 8.4000-4 1.1760-4 0.994721          3730000.         LVLC.P.Massolo+         (86)O1845  2 
+ 2004 82208   4 750  C 1.8300+8 200000.0 5.9000-4 4.7200-5 0.990724          3730000.         LVLC.P.Massolo+         (86)O1845  2 
+ 2004 82208   4 750  C 1.8300+8 200000.0 3.2000-4 4.1600-5 0.985139          3730000.         LVLC.P.Massolo+         (86)O1845  2 
+ 2004 82208   4 750  C 1.8300+8 200000.0 1.9900-4 2.1890-5 0.977379          3730000.         LVLC.P.Massolo+         (86)O1845  2 
+ 2004 82208   4 750  C 1.8300+8 200000.0 1.2900-4 1.5480-5 0.964971          3730000.         LVLC.P.Massolo+         (86)O1845  2 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      O2153
+#AUTHOR1    A.M.Laird+
+#YEAR       2013
+#INSTITUTE  (2UK UK)
+#TITLE      Is gamma-ray emission from Novae affected by
+#+          interference effects in the 18F(p,a)15O reaction?
+#AUTHOR(S)  A.M.Laird, A.Parikh, A.St.J.Murphy, K.Wimmer, A.A.Chen, 
+#+          C.M.Deibel, T.Faestermann, S.P.Fox, B.R.Fulton, R.Hertenberger, 
+#+          D.Irvine, J.Jose, R.Longland, D.J.Mountford, B.Sambrook, 
+#+          D.Seiler, H.-F.Wirth
+#REF-CODE   (J,PRL,110,032502,2013)
+#REFERENCE  Phys.Rev.Lett. 110 (2013) 032502
+#DATASETS   0
+#
+#DATASET    O2153002 
+#DATE       20130721
+#REACTION   9-F-19(HE3,T)10-NE-19,PAR,DA
+#PROJ       2003
+#TARG       9019
+#MF         4
+#MT         700
+#PRODUCT    10-NE-19
+#C4BEGIN    [ 2003  9019   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  9019   4 700  C 2.5000+7          1.7350-5 2.2890-6 0.984768          6440000.         LVLA.M.Laird+           (13)O2153  2 
+ 2003  9019   4 700  C 2.5000+7          1.8690-5 1.2720-6 0.960065          6440000.         LVLA.M.Laird+           (13)O2153  2 
+ 2003  9019   4 700  C 2.5000+7          2.0550-5 2.0350-6 0.923873          6440000.         LVLA.M.Laird+           (13)O2153  2 
+ 2003  9019   4 700  C 2.5000+7          2.1210-5 1.2720-6 0.880096          6440000.         LVLA.M.Laird+           (13)O2153  2 
+ 2003  9019   4 700  C 2.5000+7          2.1370-5 2.4580-6 0.816531          6440000.         LVLA.M.Laird+           (13)O2153  2 
+ 2003  9019   4 700  C 2.5000+7          1.5410-5 9.3370-7 0.681641          6440000.         LVLA.M.Laird+           (13)O2153  2 
+ 2003  9019   4 700  C 2.5000+7          9.9590-6 9.3210-7 0.512358          6440000.         LVLA.M.Laird+           (13)O2153  2 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,38 @@
+#ENTRY      O2307
+#AUTHOR1    M.Toppi+
+#YEAR       2016
+#INSTITUTE  (2ITYFRA)
+#TITLE      Measurement of fragmentation cross sections of 12C ions
+#+          on a thin gold target with the FIRST apparatus.
+#AUTHOR(S)  M.Toppi, Z.Abou-Haidar, C.Agodi, M.A.G.Alvarez, T.Aumann, 
+#+          F.Balestra, G.Battistoni, A.Bocci, T.T.Boehlen, A.Boudard, 
+#+          A.Brunetti, M.Carpinelli, R.Cirio, G.A.P.Cirrone, M.A.Cortes-Giraldo, 
+#+          G.Cuttone, M.De Napoli, M.Durante, J.P.Fernandez-Garcea, 
+#+          Ch.Finck, B.Golosio, E.Iarocci, F.Iazzi, G.Ickert, R.Introzzi, 
+#+          D.Juliani, J.Krimmer, A.H.Kummali, N.Kurz, M.Labalme, Y.Leifels, 
+#+          A.Le Fevre, S.Leray, F.Marchetto, V.Monaco, M.C.Morone, 
+#+          D.Nicolosi, P.Oliva, A.Paoloni, L.Piersanti, R.Pleskac, 
+#+          N.Randazzo, R.Rescigno, F.Romano, D.Rossi, V.Rosso, M.Rousseau, 
+#+          R.Sacchi, P.Sala, S.Salvador, A.Sarti, C.Scheidenberger, 
+#+          C.Schuy, A.Sciubba, C.Sfienti, H.Simon, V.Sipala, E.Spiriti, 
+#+          S.Tropea, M.Vanstalle, H.Younis, V.Patera
+#REF-CODE   (J,PR/C,93,064601,2016)
+#REFERENCE  Phys.Rev.C 93 (2016) 064601
+#DATASETS   0
+#
+#DATASET    O2307013 
+#DATE       20160928
+#REACTION   79-AU-197(6-C-12,X)1-H-1,,DE
+#PROJ       6012
+#TARG       79197
+#MF         5
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 6012 79197   5 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 6012 79197   5 203    4.8000+9 6.0000+8 8.730-11 3.810-11                   7.8000+9          E2M.Toppi+             (16)O2307 13 
+ 6012 79197   5 203    4.8000+9 6.0000+8 2.640-10 7.460-11                   9.0000+9          E2M.Toppi+             (16)O2307 13 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      O0158
+#AUTHOR1    H.Sakai+
+#YEAR       1980
+#INSTITUTE  (2JPNOSA)
+#TITLE      Analyzing powers of the continuum spectra-65 MeV
+#+          polarized protons on C-12, Si-28, Sc-45, Ni-58, Nb-93,
+#+          Ho-165, Er-166 and Bi-209
+#AUTHOR(S)  H.Sakai, K.Hosono, N.Matsuoka, S.Nagamachi, K.Okada, K.Maeda, 
+#+          H.Shimizu
+#REF-CODE   (J,NP/A,344,41,1980)
+#REFERENCE  Nucl.Phys.A 344 (1980) 41
+#DATASETS   0
+#
+#DATASET    O0158018 
+#DATE       20221113
+#REACTION   41-NB-93(P,X)2-HE-4,,DA/DE
+#PROJ       1001
+#TARG       41093
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001 41093   6 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 41093   6 207    6.5000+7 130000.0 4.060-12         -0.342020          3.3950+7          E2H.Sakai+             (80)O0158 18 
+ 1001 41093   6 207    6.5000+7 130000.0 2.010-12         -0.342020          3.8440+7          E2H.Sakai+             (80)O0158 18 
+ 1001 41093   6 207    6.5000+7 130000.0 1.080-12         -0.342020          4.1880+7          E2H.Sakai+             (80)O0158 18 
+ 1001 41093   6 207    6.5000+7 130000.0 6.520-13         -0.342020          4.5920+7          E2H.Sakai+             (80)O0158 18 
+ 1001 41093   6 207    6.5000+7 130000.0 3.220-13         -0.342020          4.9510+7          E2H.Sakai+             (80)O0158 18 
+ 1001 41093   6 207    6.5000+7 130000.0 1.260-13         -0.342020          5.2800+7          E2H.Sakai+             (80)O0158 18 
+ 1001 41093   6 207    6.5000+7 130000.0 9.830-15         -0.342020          5.7440+7          E2H.Sakai+             (80)O0158 18 
+#/DATA      7
+#/DATASET

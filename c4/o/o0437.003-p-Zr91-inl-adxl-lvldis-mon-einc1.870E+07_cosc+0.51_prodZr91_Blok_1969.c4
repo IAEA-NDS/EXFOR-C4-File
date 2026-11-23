@@ -1,0 +1,25 @@
+#ENTRY      O0437
+#AUTHOR1    H.P.Blok+
+#YEAR       1969
+#INSTITUTE  (2NEDFUL)
+#TITLE      Inelastic Proton Scattering from Zr-91 at 18.7 MeV.
+#AUTHOR(S)  H.P.Blok, G.D.Thijs, J.J.Kraushaar, M.M.Stautberg
+#REF-CODE   (J,NP/A,127,188,1969)
+#REFERENCE  Nucl.Phys.A 127 (1969) 188
+#DATASETS   0
+#
+#DATASET    O0437003 
+#DATE       20000426
+#REACTION   40-ZR-91(P,INL)40-ZR-91,PAR,DA
+#PROJ       1001
+#TARG       40091
+#MF         4
+#MT         601
+#PRODUCT    40-ZR-91
+#C4BEGIN    [ 1001 40091   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40091   4 601  C 1.8700+7 100000.0 1.9200-4 7.6800-6 0.512043 0.010494 1880000.         LVLH.P.Blok+            (69)O0437  3 
+#/DATA      1
+#/DATASET

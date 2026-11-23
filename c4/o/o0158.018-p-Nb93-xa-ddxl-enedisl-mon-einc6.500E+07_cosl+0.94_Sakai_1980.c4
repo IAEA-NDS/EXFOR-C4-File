@@ -1,0 +1,36 @@
+#ENTRY      O0158
+#AUTHOR1    H.Sakai+
+#YEAR       1980
+#INSTITUTE  (2JPNOSA)
+#TITLE      Analyzing powers of the continuum spectra-65 MeV
+#+          polarized protons on C-12, Si-28, Sc-45, Ni-58, Nb-93,
+#+          Ho-165, Er-166 and Bi-209
+#AUTHOR(S)  H.Sakai, K.Hosono, N.Matsuoka, S.Nagamachi, K.Okada, K.Maeda, 
+#+          H.Shimizu
+#REF-CODE   (J,NP/A,344,41,1980)
+#REFERENCE  Nucl.Phys.A 344 (1980) 41
+#DATASETS   0
+#
+#DATASET    O0158018 
+#DATE       20221113
+#REACTION   41-NB-93(P,X)2-HE-4,,DA/DE
+#PROJ       1001
+#TARG       41093
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001 41093   6 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 41093   6 207    6.5000+7 130000.0 9.200-11          0.939693          3.6120+7          E2H.Sakai+             (80)O0158 18 
+ 1001 41093   6 207    6.5000+7 130000.0 8.460-11          0.939693          3.9570+7          E2H.Sakai+             (80)O0158 18 
+ 1001 41093   6 207    6.5000+7 130000.0 7.270-11          0.939693          4.3470+7          E2H.Sakai+             (80)O0158 18 
+ 1001 41093   6 207    6.5000+7 130000.0 6.250-11          0.939693          4.7520+7          E2H.Sakai+             (80)O0158 18 
+ 1001 41093   6 207    6.5000+7 130000.0 5.470-11          0.939693          5.1410+7          E2H.Sakai+             (80)O0158 18 
+ 1001 41093   6 207    6.5000+7 130000.0 5.030-11          0.939693          5.5610+7          E2H.Sakai+             (80)O0158 18 
+ 1001 41093   6 207    6.5000+7 130000.0 1.960-11          0.939693          5.9660+7          E2H.Sakai+             (80)O0158 18 
+ 1001 41093   6 207    6.5000+7 130000.0 3.430-12          0.939693          6.3550+7          E2H.Sakai+             (80)O0158 18 
+ 1001 41093   6 207    6.5000+7 130000.0 7.840-13          0.939693          6.8350+7          E2H.Sakai+             (80)O0158 18 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      O1144
+#AUTHOR1    M.D.L.Barbosa+
+#YEAR       1998
+#INSTITUTE  (3BZLUSP)
+#TITLE      Single particle strengths in 103-Ru with the
+#+          102-Ru(d,p) reaction
+#AUTHOR(S)  M.D.L.Barbosa, T.Borello-Lewin, L.B.Horodynski-Matsushigue, 
+#+          J.L.M.Duarte, G.M.Ukita, L.C.Gomes
+#REF-CODE   (J,PR/C,58,2689,1998)
+#REFERENCE  Phys.Rev.C 58 (1998) 2689
+#DATASETS   0
+#
+#DATASET    O1144002 
+#DATE       20040317
+#REACTION   44-RU-102(D,P)44-RU-103,PAR,DA
+#PROJ       1002
+#TARG       44102
+#MF         4
+#MT         600
+#PRODUCT    44-RU-103
+#C4BEGIN    [ 1002 44102   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 44102   4 600    1.5000+7          2.5300-4 6.5000-5 0.990268          591000.0         LVLM.D.L.Barbosa+       (98)O1144  2 
+ 1002 44102   4 600    1.5000+7          4.1100-4 3.8000-5 0.984808          591000.0         LVLM.D.L.Barbosa+       (98)O1144  2 
+ 1002 44102   4 600    1.5000+7          8.3400-4 5.3000-5 0.970296          591000.0         LVLM.D.L.Barbosa+       (98)O1144  2 
+ 1002 44102   4 600    1.5000+7          1.0280-3 6.5000-5 0.951057          591000.0         LVLM.D.L.Barbosa+       (98)O1144  2 
+ 1002 44102   4 600    1.5000+7          6.7500-4 5.8000-5 0.913545          591000.0         LVLM.D.L.Barbosa+       (98)O1144  2 
+ 1002 44102   4 600    1.5000+7          5.8700-4 3.6000-5 0.882948          591000.0         LVLM.D.L.Barbosa+       (98)O1144  2 
+ 1002 44102   4 600    1.5000+7          2.3600-4 2.1000-5 0.829038          591000.0         LVLM.D.L.Barbosa+       (98)O1144  2 
+ 1002 44102   4 600    1.5000+7          1.8700-4 1.4000-5 0.788011          591000.0         LVLM.D.L.Barbosa+       (98)O1144  2 
+ 1002 44102   4 600    1.5000+7          2.2400-4 4.2000-5 0.707107          591000.0         LVLM.D.L.Barbosa+       (98)O1144  2 
+ 1002 44102   4 600    1.5000+7          1.5000-4 1.8000-5 0.573576          591000.0         LVLM.D.L.Barbosa+       (98)O1144  2 
+#/DATA      10
+#/DATASET

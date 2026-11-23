@@ -1,0 +1,37 @@
+#ENTRY      O0039
+#AUTHOR1    G.R.Smith+
+#YEAR       1984
+#INSTITUTE  (1USACLU)
+#TITLE      (p,d) reaction at 800 MeV.
+#AUTHOR(S)  G.R.Smith, J.R.Shepard, R.L.Boudrie, R.J.Peterson, G.S.Adams, 
+#+          T.S.Bauer, G.J.Igo, G.Pauletta, C.A.Whitten Jr, A.Wriekat, 
+#+          B.Hoistad, G.W.Hoffmann
+#REF-CODE   (J,PR/C,30,593,1984)
+#REFERENCE  Phys.Rev.C 30 (1984) 593
+#DATASETS   0
+#
+#DATASET    O0039004 
+#DATE       20221024
+#REACTION   6-C-12(P,D)6-C-11,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         650
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1001  6012   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 650  C 8.0000+8          2.0500-6          0.994151          4320000.         LVLG.R.Smith+           (84)O0039  4 
+ 1001  6012   4 650  C 8.0000+8          9.2500-7          0.977416          4320000.         LVLG.R.Smith+           (84)O0039  4 
+ 1001  6012   4 650  C 8.0000+8          8.0300-7          0.971549          4320000.         LVLG.R.Smith+           (84)O0039  4 
+ 1001  6012   4 650  C 8.0000+8          3.8300-7          0.965016          4320000.         LVLG.R.Smith+           (84)O0039  4 
+ 1001  6012   4 650  C 8.0000+8          2.2600-7          0.956305          4320000.         LVLG.R.Smith+           (84)O0039  4 
+ 1001  6012   4 650  C 8.0000+8          1.2800-7          0.948324          4320000.         LVLG.R.Smith+           (84)O0039  4 
+ 1001  6012   4 650  C 8.0000+8          4.1500-8          0.937282          4320000.         LVLG.R.Smith+           (84)O0039  4 
+ 1001  6012   4 650  C 8.0000+8          2.4900-8          0.919821          4320000.         LVLG.R.Smith+           (84)O0039  4 
+ 1001  6012   4 650  C 8.0000+8          1.3200-8          0.901077          4320000.         LVLG.R.Smith+           (84)O0039  4 
+ 1001  6012   4 650  C 8.0000+8          3.2000-9          0.862514          4320000.         LVLG.R.Smith+           (84)O0039  4 
+ 1001  6012   4 650  C 8.0000+8          1.4200-9          0.824126          4320000.         LVLG.R.Smith+           (84)O0039  4 
+#/DATA      11
+#/DATASET

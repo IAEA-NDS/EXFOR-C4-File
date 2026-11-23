@@ -1,0 +1,26 @@
+#ENTRY      O0752
+#AUTHOR1    J.L.Friedes+
+#YEAR       1967
+#INSTITUTE  (1USABNL)
+#TITLE      Inelastic 1 GeV Scattering from Carbon and Oxygen.
+#AUTHOR(S)  J.L.Friedes, H.Palevsky, R.J.Sutter, G.W.Bennett, G.J.Igo, 
+#+          W.D.Simpson, D.M.Corley
+#REF-CODE   (J,NP/A,104,294,1967)
+#REFERENCE  Nucl.Phys.A 104 (1967) 294
+#DATASETS   0
+#
+#DATASET    O0752002 
+#DATE       20010323
+#REACTION   6-C-12(P,INL)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         601
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 601  C 1.0000+9          1.4000-3 2.5200-4 0.955175          7600000.         LVLJ.L.Friedes+         (67)O0752  2 
+#/DATA      1
+#/DATASET

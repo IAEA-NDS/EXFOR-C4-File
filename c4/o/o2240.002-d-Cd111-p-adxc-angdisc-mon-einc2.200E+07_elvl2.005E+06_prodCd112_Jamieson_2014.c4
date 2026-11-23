@@ -1,0 +1,36 @@
+#ENTRY      O2240
+#AUTHOR1    D.S.Jamieson+
+#YEAR       2014
+#INSTITUTE  (1CANGUE)
+#TITLE      Quadrupole-octupole coupled states in 112Cd populated
+#+          in the 111Cd(d,p)112Cd.
+#AUTHOR(S)  D.S.Jamieson, P.E.Garrett, G.A.Demand, P.Finlay, K.L.Green, 
+#+          K.G.Leach, A.A.Phillips, C.S.Sumithrarachchi, C.E.Svensson, 
+#+          S.Triambak, G.C.Ball, T.Faestermann, R.Hertenberger, H.-F.Wirth
+#REF-CODE   (J,PR/C,90,054312,2014)
+#REFERENCE  Phys.Rev.C 90 (2014) 054312
+#DATASETS   0
+#
+#DATASET    O2240002 
+#DATE       20150111
+#REACTION   48-CD-111(D,P)48-CD-112,PAR,DA
+#PROJ       1002
+#TARG       48111
+#MF         4
+#MT         600
+#PRODUCT    48-CD-112
+#C4BEGIN    [ 1002 48111   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 48111   4 600  C 2.2000+7          4.3500-6 4.8900-7 0.987248          2005000.         LVLD.S.Jamieson+        (14)O2240  2 
+ 1002 48111   4 600  C 2.2000+7          7.1000-6          0.968583          2005000.         LVLD.S.Jamieson+        (14)O2240  2 
+ 1002 48111   4 600  C 2.2000+7          7.5800-6          0.942700          2005000.         LVLD.S.Jamieson+        (14)O2240  2 
+ 1002 48111   4 600  C 2.2000+7          6.7800-6          0.909381          2005000.         LVLD.S.Jamieson+        (14)O2240  2 
+ 1002 48111   4 600  C 2.2000+7          4.7700-6          0.867679          2005000.         LVLD.S.Jamieson+        (14)O2240  2 
+ 1002 48111   4 600  C 2.2000+7          3.5900-6          0.820052          2005000.         LVLD.S.Jamieson+        (14)O2240  2 
+ 1002 48111   4 600  C 2.2000+7          3.0000-6          0.766044          2005000.         LVLD.S.Jamieson+        (14)O2240  2 
+ 1002 48111   4 600  C 2.2000+7          2.9400-6          0.704263          2005000.         LVLD.S.Jamieson+        (14)O2240  2 
+ 1002 48111   4 600  C 2.2000+7          1.9300-6          0.640378          2005000.         LVLD.S.Jamieson+        (14)O2240  2 
+#/DATA      9
+#/DATASET

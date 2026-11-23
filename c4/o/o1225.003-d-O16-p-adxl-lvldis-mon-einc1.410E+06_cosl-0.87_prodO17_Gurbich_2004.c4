@@ -1,0 +1,27 @@
+#ENTRY      O1225
+#AUTHOR1    A.F.Gurbich+
+#YEAR       2004
+#INSTITUTE  (4RUSFEI)
+#TITLE      Application of IBA-techniques to silicon profiling in
+#+          protective oxide films on a steel surface.
+#AUTHOR(S)  A.F.Gurbich, S.L.Molodtsov
+#REF-CODE   (J,NIM/B,226,637,2004)
+#REFERENCE  Nucl.Instrum.Meth.B 226 (2004) 637
+#DATASETS   0
+#
+#DATASET    O1225003 
+#DATE       20060529
+#REACTION   8-O-16(D,P)8-O-17,PAR,DA
+#PROJ       1002
+#TARG       8016
+#MF         4
+#MT         600
+#PRODUCT    8-O-17
+#C4BEGIN    [ 1002  8016   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  8016   4 600    1410000.          4.7840-3         -0.866025          0.000000         LVLA.F.Gurbich+         (04)O1225  3 
+ 1002  8016   4 600    1410000.          0.011546         -0.866025          871000.0         LVLA.F.Gurbich+         (04)O1225  3 
+#/DATA      2
+#/DATASET

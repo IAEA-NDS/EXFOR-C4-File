@@ -1,0 +1,26 @@
+#ENTRY      O0928
+#AUTHOR1    R.Bonetti+
+#YEAR       1978
+#INSTITUTE  (2ITYMIL)
+#TITLE      Triton pick-up in the (P,A) reaction on Pb-208 at 20-
+#+          MeV.
+#AUTHOR(S)  R.Bonetti, L.Milazzo Colli, M.Milazzo, G.M.Braga Marcazzan
+#REF-CODE   (J,JP/G,4,1903,1978)
+#REFERENCE  J.Phys.G 4 (1978) 1903
+#DATASETS   0
+#
+#DATASET    O0928002 
+#DATE       20030503
+#REACTION   82-PB-208(P,A)81-TL-205,PAR,DA
+#PROJ       1001
+#TARG       82208
+#MF         4
+#MT         800
+#PRODUCT    81-TL-205
+#C4BEGIN    [ 1001 82208   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   4 800  C 2.0000+7 100000.0 8.4000-6 8.4000-7 0.466387          920000.0         LVLR.Bonetti+           (78)O0928  2 
+#/DATA      1
+#/DATASET

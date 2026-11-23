@@ -1,0 +1,29 @@
+#ENTRY      O2140
+#AUTHOR1    C.Bernards+
+#YEAR       2013
+#INSTITUTE  (1USAYAL)
+#TITLE      Investigation of 0+ states in Hg-198 after two-neutron
+#+          pickup.
+#AUTHOR(S)  C.Bernards, R.F.Casten, V.Werner, P.von Brentano, D.Bucurescu, 
+#+          G.Graw, S.Heinze, R.Hertenberger, J.Jolie, S.Lalkovski, 
+#+          D.A.Meyer, D.Muecher, P.Pejovic, C.Scholl, H.-F.Wirth
+#REF-CODE   (J,PR/C,87,024318,2013)
+#REFERENCE  Phys.Rev.C 87 (2013) 024318
+#DATASETS   0
+#
+#DATASET    O2140002 
+#DATE       20131007
+#REACTION   80-HG-200(P,T)80-HG-198,PAR,DA
+#PROJ       1001
+#TARG       80200
+#MF         4
+#MT         700
+#PRODUCT    80-HG-198
+#C4BEGIN    [ 1001 80200   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 80200   4 700    2.5000+7          1.8000-6 4.0000-7 0.996195          575600.0 400.0000LVLC.Bernards+          (13)O2140  2 
+ 1001 80200   4 700    2.5000+7          7.0000-7 4.0000-7 0.866025          575600.0 400.0000LVLC.Bernards+          (13)O2140  2 
+#/DATA      2
+#/DATASET

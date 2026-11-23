@@ -1,0 +1,27 @@
+#ENTRY      O1036
+#AUTHOR1    Sc.Wu+
+#YEAR       1986
+#INSTITUTE  (3CHFTHU)
+#TITLE      Competition effects in proton-induced reactions on
+#+          Cu-65.
+#AUTHOR(S)  Sc.Wu, G.Y.Hsiung, S.L.Huang, Y.C.Liu
+#REF-CODE   (J,CHP,24,204,1986)
+#REFERENCE  Chin.J.Phys. 24 (1986) 204
+#DATASETS   0
+#
+#DATASET    O1036002 
+#DATE       20030404
+#REACTION   29-CU-65(P,G)30-ZN-66,PAR,SIG
+#PROJ       1001
+#TARG       29065
+#MF         3
+#MT         900
+#PRODUCT    30-ZN-66
+#C4BEGIN    [ 1001 29065   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29065   3 900    2167000.          1.0330-4                            834000.0          E2Sc.Wu+               (86)O1036  2 
+ 1001 29065   3 900    2167000.          2.5020-4                            1039000.          E2Sc.Wu+               (86)O1036  2 
+#/DATA      2
+#/DATASET

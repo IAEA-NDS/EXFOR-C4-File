@@ -1,0 +1,30 @@
+#ENTRY      O1562
+#AUTHOR1    A.Boudard+
+#YEAR       1976
+#INSTITUTE  (2FR SAC)
+#TITLE      (He-3,d) stripping to unbound analog states in Cu
+#+          isotopes.
+#AUTHOR(S)  A.Boudard, G.Bruge, A.Chaumeaux, G.Finkel, D.Ashery, A.I.Yavin
+#REF-CODE   (J,PR/C,13,1123,1976)
+#REFERENCE  Phys.Rev.C 13 (1976) 1123
+#DATASETS   0
+#
+#DATASET    O1562004 
+#DATE       20070924
+#REACTION   28-NI-62(HE3,D)29-CU-63,PAR,DA
+#PROJ       2003
+#TARG       28062
+#MF         4
+#MT         650
+#PRODUCT    29-CU-63
+#C4BEGIN    [ 2003 28062   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 28062   4 650  C 3.0200+7 50000.00 1.3500-4 1.0800-5 0.896409          8660000. 40000.00LVLA.Boudard+           (76)O1562  4 
+ 2003 28062   4 650  C 3.0200+7 50000.00 1.0800-4 9.7200-6 0.866025          8660000. 40000.00LVLA.Boudard+           (76)O1562  4 
+ 2003 28062   4 650  C 3.0200+7 50000.00 6.8000-5 6.8000-6 0.841511          8660000. 40000.00LVLA.Boudard+           (76)O1562  4 
+ 2003 28062   4 650  C 3.0200+7 50000.00 3.0000-5 6.9000-6 0.739043          8660000. 40000.00LVLA.Boudard+           (76)O1562  4 
+ 2003 28062   4 650  C 3.0200+7 50000.00 3.0000-5 5.1000-6 0.675462          8660000. 40000.00LVLA.Boudard+           (76)O1562  4 
+#/DATA      5
+#/DATASET

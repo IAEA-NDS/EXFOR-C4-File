@@ -1,0 +1,35 @@
+#ENTRY      O0868
+#AUTHOR1    J.Raisanen+
+#YEAR       1995
+#INSTITUTE  (2SF HLS)
+#TITLE      Angular distributions of 12-C, 14-N, and 16-O ion
+#+          elastic scattering by sulfur near the coulomb barrier
+#+          and the high-energy limits of heavy-ion Rutherford
+#+          scattering
+#AUTHOR(S)  J.Raisanen, E.Rauhala
+#REF-CODE   (J,JAP,77,1762,1995)
+#REFERENCE  J.Appl.Phys. 77 (1995) 1762
+#DATASETS   0
+#
+#DATASET    O0868004 
+#DATE       20030430
+#REACTION   16-S-32(8-O-16,EL)16-S-32,,DA,,RTH
+#PROJ       8016
+#TARG       16032
+#MF         4
+#MT         2
+#PRODUCT    16-S-32
+#C4BEGIN    [ 8016 16032   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 8016 16032   4   2 C  2.8768+7          0.147977          0.294040                              J.Raisanen+          (95)O0868  4 
+ 8016 16032   4   2 C  2.8768+7          0.044824         -0.029666                              J.Raisanen+          (95)O0868  4 
+ 8016 16032   4   2 C  2.8768+7          0.025632         -0.233445                              J.Raisanen+          (95)O0868  4 
+ 8016 16032   4   2 C  2.8768+7          0.015812         -0.408330                              J.Raisanen+          (95)O0868  4 
+ 8016 16032   4   2 C  2.8768+7          0.011531         -0.626604                              J.Raisanen+          (95)O0868  4 
+ 8016 16032   4   2 C  2.8768+7          6.4182-3         -0.844328                              J.Raisanen+          (95)O0868  4 
+ 8016 16032   4   2 C  2.8768+7          6.5562-3         -0.936060                              J.Raisanen+          (95)O0868  4 
+ 8016 16032   4   2 C  2.8768+7          4.6730-3         -0.984808                              J.Raisanen+          (95)O0868  4 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      O1873
+#AUTHOR1    T.B.Bright+
+#YEAR       1996
+#INSTITUTE  (2SWDUPP)
+#TITLE      Radiative proton capture to discrete states in C-12 at
+#+          98 and 176 MeV.
+#AUTHOR(S)  T.B.Bright, B.Hoeistad, R.Johansson, E.Traneus, S.R.Cotanch
+#REF-CODE   (J,NP/A,603,1,1996)
+#REFERENCE  Nucl.Phys.A 603 (1996) 1
+#DATASETS   0
+#
+#DATASET    O1873002 
+#DATE       20101207
+#REACTION   5-B-11(P,G)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       5011
+#MF         4
+#MT         900
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  5011   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5011   4 900    9.8000+7          7.5800-8 4.5000-9 0.793353          0.000000         LVLT.B.Bright+          (96)O1873  2 
+ 1001  5011   4 900    9.8000+7          6.9100-8 2.7000-9 0.707107          0.000000         LVLT.B.Bright+          (96)O1873  2 
+ 1001  5011   4 900    9.8000+7          3.6200-8 2.1000-9 0.500000          0.000000         LVLT.B.Bright+          (96)O1873  2 
+ 1001  5011   4 900    9.8000+7          1.1400-8 1.1000-9 0.173648          0.000000         LVLT.B.Bright+          (96)O1873  2 
+ 1001  5011   4 900    9.8000+7          1.7500-9 3.700-10-0.173648          0.000000         LVLT.B.Bright+          (96)O1873  2 
+ 1001  5011   4 900    9.8000+7          6.700-10 1.700-10-0.500000          0.000000         LVLT.B.Bright+          (96)O1873  2 
+ 1001  5011   4 900    9.8000+7          9.200-10 1.900-10-0.766044          0.000000         LVLT.B.Bright+          (96)O1873  2 
+#/DATA      7
+#/DATASET

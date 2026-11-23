@@ -1,0 +1,35 @@
+#ENTRY      O1807
+#AUTHOR1    G.Loevhoeiden+
+#YEAR       1980
+#INSTITUTE  (2NORBGN)
+#TITLE      Studies of single neutron holes in the transitional
+#+          nuclei N=83-89.
+#+          The 150,148Nd(d,t) and 150,148,146Nd(He3,a) pick-up
+#+          reactions.
+#AUTHOR(S)  G.Loevhoeiden, J.R.Lien, S.El-Kazzaz, J.Rekstad, C.Ellegaard, 
+#+          J.H.Bjerregaard, P.Knudsen, P.Kleinheinz
+#REF-CODE   (J,NP/A,339,477,1980)
+#REFERENCE  Nucl.Phys.A 339 (1980) 477
+#DATASETS   0
+#
+#DATASET    O1807002 
+#DATE       20091208
+#REACTION   60-ND-150(D,T)60-ND-149,PAR,DA
+#PROJ       1002
+#TARG       60150
+#MF         4
+#MT         700
+#PRODUCT    60-ND-149
+#C4BEGIN    [ 1002 60150   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 60150   4 700  C 1.7000+7 6000.000 5.2200-5 3.1320-6 0.953717          648000.0 5000.000LVLG.Loevhoeiden+       (80)O1807  2 
+ 1002 60150   4 700  C 1.7000+7 6000.000 1.2880-4          0.927836          648000.0 5000.000LVLG.Loevhoeiden+       (80)O1807  2 
+ 1002 60150   4 700  C 1.7000+7 6000.000 2.6600-4          0.891007          648000.0 5000.000LVLG.Loevhoeiden+       (80)O1807  2 
+ 1002 60150   4 700  C 1.7000+7 6000.000 3.7000-4          0.854459          648000.0 5000.000LVLG.Loevhoeiden+       (80)O1807  2 
+ 1002 60150   4 700  C 1.7000+7 6000.000 2.8800-4          0.803857          648000.0 5000.000LVLG.Loevhoeiden+       (80)O1807  2 
+ 1002 60150   4 700  C 1.7000+7 6000.000 1.6120-4          0.622515          648000.0 5000.000LVLG.Loevhoeiden+       (80)O1807  2 
+ 1002 60150   4 700  C 1.7000+7 6000.000 1.2340-4          0.469472          648000.0 5000.000LVLG.Loevhoeiden+       (80)O1807  2 
+#/DATA      7
+#/DATASET

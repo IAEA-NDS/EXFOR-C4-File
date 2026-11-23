@@ -1,0 +1,31 @@
+#ENTRY      O2437
+#AUTHOR1    D.Torresi+
+#YEAR       2017
+#INSTITUTE  (2UK BIR)
+#TITLE      Evidence for 15O + alpha resonance structures in 19Ne
+#+          via direct measurement
+#AUTHOR(S)  D.Torresi, C.Wheldon, Tz.Kokalova, S.Bailey, A.Boiano, C.Boiano, 
+#+          M.Fisichella, M.Mazzocco, C.Parascandolo, D.Pierroutsakou, 
+#+          E.Strano, M.Zadro, M.Cavallaro, S.Cherubini, N.Curtis, A.Di Pietro, 
+#+          J.P.Fernandez Garcia, P.Figuera, T.Glodariu, J.Grebosz, 
+#+          M.La Cognata, M.La Commara, M.Lattuada, D.Mengoni, R.G.Pizzone, 
+#+          C.Signorini, C.Stefanini, L.Stroe, C.Spitaleri
+#REF-CODE   (J,PR/C,96,044317,2017)
+#REFERENCE  Phys.Rev.C 96 (2017) 044317
+#DATASETS   0
+#
+#DATASET    O2437002 
+#DATE       20200124
+#REACTION   (2-HE-4(8-O-15,EL)2-HE-4,,DA)=(8-O-15(A,EL)8-O-15,,DA)
+#PROJ       2004
+#TARG       8015
+#MF         4
+#MT         2
+#PRODUCT    8-O-15
+#C4BEGIN    [ 2004  8015   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  8015   4   2  C 4699139. 25006.63 0.298842 0.018945-0.993056                              D.Torresi+           (17)O2437  2 
+#/DATA      1
+#/DATASET

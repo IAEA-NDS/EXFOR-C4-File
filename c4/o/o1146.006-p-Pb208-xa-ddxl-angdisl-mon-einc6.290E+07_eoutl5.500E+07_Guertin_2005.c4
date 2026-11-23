@@ -1,0 +1,35 @@
+#ENTRY      O1146
+#AUTHOR1    A.Guertin+
+#YEAR       2005
+#INSTITUTE  (2FR NTE)
+#TITLE      Neutron and light charged particle productions in
+#+          proton induced reactions on Pb-208 at 62.9-MeV.
+#AUTHOR(S)  A.Guertin, N.Marie, S.Auduc, V.Blideanu, Th.Delbar, P.Eudes, 
+#+          Y.Foucher, F.Haddad, T.Kirchner, Ch.Le Brun, C.Lebrun, F.R.Lecolley, 
+#+          J.F.Lecolley, X.Ledoux, F.Lefebvres, T.Lefort, M.Louvel, 
+#+          A.Ninane, Y.Patin, Ph.Pras, G.Riviere, C.Varignon
+#REF-CODE   (J,EPJ/A,23,49,2005)
+#REFERENCE  Eur.Phys.J.A 23 (2005) 49
+#DATASETS   0
+#
+#DATASET    O1146006 
+#DATE       20040411
+#REACTION   82-PB-208(P,X)2-HE-4,,DA/DE
+#PROJ       1001
+#TARG       82208
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001 82208   6 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82208   6 207    6.2900+7          4.330-11 9.300-13 0.906308          5.5000+7          E2A.Guertin+           (05)O1146  6 
+ 1001 82208   6 207    6.2900+7          2.800-11 6.710-13 0.819152          5.5000+7          E2A.Guertin+           (05)O1146  6 
+ 1001 82208   6 207    6.2900+7          1.680-11 5.780-13 0.707107          5.5000+7          E2A.Guertin+           (05)O1146  6 
+ 1001 82208   6 207    6.2900+7          9.240-12 3.860-13 0.573576          5.5000+7          E2A.Guertin+           (05)O1146  6 
+ 1001 82208   6 207    6.2900+7          5.340-12 3.290-13 0.422618          5.5000+7          E2A.Guertin+           (05)O1146  6 
+ 1001 82208   6 207    6.2900+7          2.790-12 2.080-13 0.258819          5.5000+7          E2A.Guertin+           (05)O1146  6 
+ 1001 82208   6 207    6.2900+7          1.850-12 1.930-13 0.087156          5.5000+7          E2A.Guertin+           (05)O1146  6 
+#/DATA      7
+#/DATASET

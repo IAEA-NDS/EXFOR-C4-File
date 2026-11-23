@@ -1,0 +1,36 @@
+#ENTRY      O1137
+#AUTHOR1    A.Saganek+
+#YEAR       1985
+#INSTITUTE  (3POLWWA)
+#TITLE      Neutron orbit radii in Mo-99 from the (d,p) sub-coulomb
+#+          reaction.
+#AUTHOR(S)  A.Saganek, V.Meyer, S.A.Said, M.Sieminski, A.Turoweicki, 
+#+          E.Wesolowski, Z.Wilhelmi
+#REF-CODE   (J,JP/G,11,1221,1985)
+#REFERENCE  J.Phys.G 11 (1985) 1221
+#DATASETS   0
+#
+#DATASET    O1137002 
+#DATE       20040423
+#REACTION   42-MO-98(D,P)42-MO-99,PAR,DA
+#PROJ       1002
+#TARG       42098
+#MF         4
+#MT         600
+#PRODUCT    42-MO-99
+#C4BEGIN    [ 1002 42098   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 42098   4 600  C 4500000.          1.5000-5 3.0000-6 0.493942          99000.00         LVLA.Saganek+           (85)O1137  2 
+ 1002 42098   4 600  C 4500000.          2.7000-5 1.3500-5 0.333807          99000.00         LVLA.Saganek+           (85)O1137  2 
+ 1002 42098   4 600  C 4500000.          6.2000-5 3.7200-6-3.4907-3          99000.00         LVLA.Saganek+           (85)O1137  2 
+ 1002 42098   4 600  C 4500000.          5.2000-5 3.1200-6-0.182236          99000.00         LVLA.Saganek+           (85)O1137  2 
+ 1002 42098   4 600  C 4500000.          5.4000-5 4.8600-6-0.355107          99000.00         LVLA.Saganek+           (85)O1137  2 
+ 1002 42098   4 600  C 4500000.          4.9000-5 3.9200-6-0.506034          99000.00         LVLA.Saganek+           (85)O1137  2 
+ 1002 42098   4 600  C 4500000.          6.5000-5 3.9000-6-0.640110          99000.00         LVLA.Saganek+           (85)O1137  2 
+ 1002 42098   4 600  C 4500000.          5.9000-5 4.7200-6-0.766044          99000.00         LVLA.Saganek+           (85)O1137  2 
+ 1002 42098   4 600  C 4500000.          6.0000-5 1.3800-5-0.869495          99000.00         LVLA.Saganek+           (85)O1137  2 
+ 1002 42098   4 600  C 4500000.          5.5000-5 8.2500-6-0.940288          99000.00         LVLA.Saganek+           (85)O1137  2 
+#/DATA      10
+#/DATASET

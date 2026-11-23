@@ -1,0 +1,35 @@
+#ENTRY      O1743
+#AUTHOR1    M.Mahgoub+
+#YEAR       2009
+#INSTITUTE  (2GERMUN)
+#TITLE      Role of cross-shell excitations in the reaction
+#+          Fe-54(d,p)Fe-55.
+#AUTHOR(S)  M.Mahgoub, R.Kruecken, T.Faestermann, A.Bergmaier, D.Bucurescu, 
+#+          R.Hertenberger, Th.Kroell, H.-F.Wirth, A.F.Lisetskiy
+#REF-CODE   (J,EPJ/A,40,35,2009)
+#REFERENCE  Eur.Phys.J.A 40 (2009) 35
+#DATASETS   0
+#
+#DATASET    O1743002 
+#DATE       20090504
+#REACTION   26-FE-54(D,P)26-FE-55,PAR,DA
+#PROJ       1002
+#TARG       26054
+#MF         4
+#MT         600
+#PRODUCT    26-FE-55
+#C4BEGIN    [ 1002 26054   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 26054   4 600 AC 1.4000+7 3500.000 1.0600-5 1.0400-6 0.996041          1408000.         LVLM.Mahgoub+           (09)O1743  2 
+ 1002 26054   4 600 AC 1.4000+7 3500.000 2.0300-5 1.3800-6 0.984196          1408000.         LVLM.Mahgoub+           (09)O1743  2 
+ 1002 26054   4 600 AC 1.4000+7 3500.000 3.4000-5 3.1600-6 0.964557          1408000.         LVLM.Mahgoub+           (09)O1743  2 
+ 1002 26054   4 600 AC 1.4000+7 3500.000 5.2800-5 3.0900-6 0.937282          1408000.         LVLM.Mahgoub+           (09)O1743  2 
+ 1002 26054   4 600 AC 1.4000+7 3500.000 6.5000-5 2.5600-6 0.902585          1408000.         LVLM.Mahgoub+           (09)O1743  2 
+ 1002 26054   4 600 AC 1.4000+7 3500.000 6.6200-5 1.9300-6 0.860742          1408000.         LVLM.Mahgoub+           (09)O1743  2 
+ 1002 26054   4 600 AC 1.4000+7 3500.000 5.9400-5 1.5600-6 0.812084          1408000.         LVLM.Mahgoub+           (09)O1743  2 
+ 1002 26054   4 600 AC 1.4000+7 3500.000 4.0700-5 1.3600-6 0.756995          1408000.         LVLM.Mahgoub+           (09)O1743  2 
+ 1002 26054   4 600 AC 1.4000+7 3500.000 1.4700-5 1.1500-6 0.629320          1408000.         LVLM.Mahgoub+           (09)O1743  2 
+#/DATA      9
+#/DATASET

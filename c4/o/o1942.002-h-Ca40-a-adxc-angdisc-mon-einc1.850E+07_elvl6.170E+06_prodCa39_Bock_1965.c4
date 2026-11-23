@@ -1,0 +1,36 @@
+#ENTRY      O1942
+#AUTHOR1    R.Bock+
+#YEAR       1965
+#INSTITUTE  (2GERMPH)
+#TITLE      The ground state of Ca-40 and the reactions
+#+          Ca-40(He-3,a)Ca-39, Ca-42(He-3,a)Ca-41 and
+#+          Ca-40(He-3,d)Sc-41.
+#AUTHOR(S)  R.Bock, H.H.Duhm, R.Stock
+#REF-CODE   (J,PL,18,61,1965)
+#REFERENCE  Phys.Lett. 18 (1965) 61
+#DATASETS   0
+#
+#DATASET    O1942002 
+#DATE       20120202
+#REACTION   20-CA-40(HE3,A)20-CA-39,PAR,DA
+#PROJ       2003
+#TARG       20040
+#MF         4
+#MT         800
+#PRODUCT    20-CA-39
+#C4BEGIN    [ 2003 20040   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 20040   4 800  C 1.8500+7          1.6970-3 2.4150-4 0.995176          6170000.         LVLR.Bock+              (65)O1942  2 
+ 2003 20040   4 800  C 1.8500+7          1.6960-3          0.989751          6170000.         LVLR.Bock+              (65)O1942  2 
+ 2003 20040   4 800  C 1.8500+7          1.7190-3          0.980989          6170000.         LVLR.Bock+              (65)O1942  2 
+ 2003 20040   4 800  C 1.8500+7          1.8160-3          0.971797          6170000.         LVLR.Bock+              (65)O1942  2 
+ 2003 20040   4 800  C 1.8500+7          1.6690-3          0.958869          6170000.         LVLR.Bock+              (65)O1942  2 
+ 2003 20040   4 800  C 1.8500+7          2.1450-3          0.945859          6170000.         LVLR.Bock+              (65)O1942  2 
+ 2003 20040   4 800  C 1.8500+7          1.6210-3          0.927706          6170000.         LVLR.Bock+              (65)O1942  2 
+ 2003 20040   4 800  C 1.8500+7          6.3580-4          0.888377          6170000.         LVLR.Bock+              (65)O1942  2 
+ 2003 20040   4 800  C 1.8500+7          2.9400-4          0.719219          6170000.         LVLR.Bock+              (65)O1942  2 
+ 2003 20040   4 800  C 1.8500+7          1.2520-4          0.569997          6170000.         LVLR.Bock+              (65)O1942  2 
+#/DATA      10
+#/DATASET

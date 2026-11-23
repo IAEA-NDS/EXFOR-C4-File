@@ -1,0 +1,34 @@
+#ENTRY      O2617
+#AUTHOR1    S.Harissopulos+
+#YEAR       2024
+#INSTITUTE  (2GRCATH)
+#TITLE      (p,gamma) cross section measurements on Sn isotopes
+#+          relevant to the p process
+#AUTHOR(S)  S.Harissopulos, E.Vagena, A.Spyrou, M.Axiotis, Z.Kotsina, 
+#+          K.Tsampa, A.Lagoyannis, P.Dimitriou, H.-W.Becker, V.Foteinou
+#REF-CODE   (J,PR/C,110,015803,2024)
+#REFERENCE  Phys.Rev.C 110 (2024) 015803
+#DATASETS   0
+#
+#DATASET    O2617004 
+#DATE       20240813
+#REACTION   50-SN-118(P,G)51-SB-119,PAR,SIG
+#PROJ       1001
+#TARG       50118
+#MF         3
+#MT         900
+#PRODUCT    51-SB-119
+#C4BEGIN    [ 1001 50118   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50118   3 900    2194622.          6.4000-7 1.9000-7                   270500.0         LVLS.Harissopulos+      (24)O2617  4 
+ 1001 50118   3 900    2394318.          1.4000-6 4.0000-7                   270500.0         LVLS.Harissopulos+      (24)O2617  4 
+ 1001 50118   3 900    2595024.          2.6000-6 6.0000-7                   270500.0         LVLS.Harissopulos+      (24)O2617  4 
+ 1001 50118   3 900    2795730.          6.7000-6 1.5000-6                   270500.0         LVLS.Harissopulos+      (24)O2617  4 
+ 1001 50118   3 900    2995427.          1.4200-5 2.6000-6                   270500.0         LVLS.Harissopulos+      (24)O2617  4 
+ 1001 50118   3 900    3196134.          3.4700-5 5.8000-6                   270500.0         LVLS.Harissopulos+      (24)O2617  4 
+ 1001 50118   3 900    3395832.          7.7000-5 1.3000-5                   270500.0         LVLS.Harissopulos+      (24)O2617  4 
+ 1001 50118   3 900    3495682.          1.0600-4 1.7000-5                   270500.0         LVLS.Harissopulos+      (24)O2617  4 
+#/DATA      8
+#/DATASET

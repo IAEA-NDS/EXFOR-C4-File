@@ -1,0 +1,29 @@
+#ENTRY      O1177
+#AUTHOR1    V.M.Hannen+
+#YEAR       2003
+#INSTITUTE  (2NEDGRN)
+#TITLE      Measurement and microscopic analysis of the B-11(p,p)
+#+          reaction at E(p)=150 MeV. Inelastic scattering.
+#AUTHOR(S)  V.M.Hannen, K.Amos, A.M.Van Den Berg, R.Bieber, P.K.Deb, 
+#+          F.Ellinghaus, D.Frekers, M.Hagemann, M.N.Harakeh, J.Heyse, 
+#+          M.A.De Huu, B.A.M.Krusemann, S.Rakers, R.Schmidt, S.Y.Van Der Werf, 
+#+          H.J.Wortche
+#REF-CODE   (J,PR/C,67,054320,2003)
+#REFERENCE  Phys.Rev.C 67 (2003) 054320
+#DATASETS   0
+#
+#DATASET    O1177004 
+#DATE       20041231
+#REACTION   6-C-12(P,INL)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         601
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 601  C 1.5000+8          8.8200-5          0.938312          1.5110+7         LVLV.M.Hannen+          (03)O1177  4 
+#/DATA      1
+#/DATASET

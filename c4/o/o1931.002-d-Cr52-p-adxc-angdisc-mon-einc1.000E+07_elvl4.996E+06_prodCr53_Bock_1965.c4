@@ -1,0 +1,32 @@
+#ENTRY      O1931
+#AUTHOR1    R.Bock+
+#YEAR       1965
+#INSTITUTE  (2GERMPH)
+#TITLE      The level structure of Cr-53 and Cr-55.
+#AUTHOR(S)  R.Bock, H.H.Duhm, S.Martin, R.Ruedel, R.Stock
+#REF-CODE   (J,NP,72,273,1965)
+#REFERENCE  Nucl.Phys. 72 (1965) 273
+#DATASETS   0
+#
+#DATASET    O1931002 
+#DATE       20120202
+#REACTION   24-CR-52(D,P)24-CR-53,PAR,DA
+#PROJ       1002
+#TARG       24052
+#MF         4
+#MT         600
+#PRODUCT    24-CR-53
+#C4BEGIN    [ 1002 24052   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 24052   4 600  C 1.0000+7          1.5050-4 2.4490-5 0.995781          4996000.         LVLR.Bock+              (65)O1931  2 
+ 1002 24052   4 600  C 1.0000+7          1.8330-4          0.983312          4996000.         LVLR.Bock+              (65)O1931  2 
+ 1002 24052   4 600  C 1.0000+7          1.8460-4 2.4240-5 0.965577          4996000.         LVLR.Bock+              (65)O1931  2 
+ 1002 24052   4 600  C 1.0000+7          1.5710-4          0.864643          4996000.         LVLR.Bock+              (65)O1931  2 
+ 1002 24052   4 600  C 1.0000+7          1.6460-4          0.644337          4996000.         LVLR.Bock+              (65)O1931  2 
+ 1002 24052   4 600  C 1.0000+7          1.6340-4 2.0980-5 0.493805          4996000.         LVLR.Bock+              (65)O1931  2 
+ 1002 24052   4 600  C 1.0000+7          1.2630-4          0.343414          4996000.         LVLR.Bock+              (65)O1931  2 
+ 1002 24052   4 600  C 1.0000+7          1.1930-4          0.179455          4996000.         LVLR.Bock+              (65)O1931  2 
+#/DATA      8
+#/DATASET

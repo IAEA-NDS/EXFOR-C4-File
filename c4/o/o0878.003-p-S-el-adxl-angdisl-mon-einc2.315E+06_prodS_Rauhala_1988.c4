@@ -1,0 +1,27 @@
+#ENTRY      O0878
+#AUTHOR1    E.Rauhala+
+#YEAR       1988
+#INSTITUTE  (2SF HLS)
+#TITLE      Cross section for 170 degrees backscattering of 0.8-
+#+          2.7-MeV proton from magnesium and sulfur.
+#AUTHOR(S)  E.Rauhala, M.Luomajarvi
+#REF-CODE   (J,NIM/B,33,628,1988)
+#REFERENCE  Nucl.Instrum.Meth.B 33 (1988) 628
+#DATASETS   0
+#
+#DATASET    O0878003 
+#DATE       20051125
+#REACTION   16-S-0(P,EL)16-S-0,,DA
+#PROJ       1001
+#TARG       16000
+#MF         4
+#MT         2
+#PRODUCT    16-S-0
+#C4BEGIN    [ 1001 16000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 16000   4   2    2315000. 3000.000 0.018000         -0.906308                              E.Rauhala+           (88)O0878  3 
+ 1001 16000   4   2    2315000. 3000.000 7.0000-3         -0.984808                              E.Rauhala+           (88)O0878  3 
+#/DATA      2
+#/DATASET

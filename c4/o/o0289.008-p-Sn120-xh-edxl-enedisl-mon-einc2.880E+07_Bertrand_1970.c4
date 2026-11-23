@@ -1,0 +1,35 @@
+#ENTRY      O0289
+#AUTHOR1    F.E.Bertrand+
+#YEAR       1970
+#INSTITUTE  (1USAORL)
+#TITLE      Tabulated cross sections for hydrogen and helium
+#+          particles produced by 62 and 29 MeV protons on 120-Sn
+#AUTHOR(S)  F.E.Bertrand, R.W.Peelle
+#REF-CODE   (R,ORNL-4471,1970)
+#REFERENCE  Report ORNL-4471, 1970
+#DATASETS   0
+#
+#DATASET    O0289008 
+#DATE       20220105
+#REACTION   50-SN-120(P,X)2-HE-3,,DE
+#PROJ       1001
+#TARG       50120
+#MF         5
+#MT         206
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001 50120   5 206 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50120   5 206 D  2.8800+7 100000.0 4.200-11 1.600-11                   1.3845+7 505000.0 E2F.E.Bertrand+        (70)O0289  8 
+ 1001 50120   5 206 D  2.8800+7 100000.0 4.400-11 1.400-11                   1.4850+7 500000.0 E2F.E.Bertrand+        (70)O0289  8 
+ 1001 50120   5 206 D  2.8800+7 100000.0 6.400-11 1.800-11                   1.5855+7 505000.0 E2F.E.Bertrand+        (70)O0289  8 
+ 1001 50120   5 206 D  2.8800+7 100000.0 3.000-11 1.100-11                   1.6860+7 500000.0 E2F.E.Bertrand+        (70)O0289  8 
+ 1001 50120   5 206 D  2.8800+7 100000.0 2.000-12 2.000-12                   1.7865+7 505000.0 E2F.E.Bertrand+        (70)O0289  8 
+ 1001 50120   5 206 D  2.8800+7 100000.0 1.000-12 1.000-12                   1.9185+7 815000.0 E2F.E.Bertrand+        (70)O0289  8 
+ 1001 50120   5 206 D  2.8800+7 100000.0 4.000-12 4.000-12                   2.1000+7 1000000. E2F.E.Bertrand+        (70)O0289  8 
+ 1001 50120   5 206 D  2.8800+7 100000.0 0.000000                            2.3000+7 1000000. E2F.E.Bertrand+        (70)O0289  8 
+ 1001 50120   5 206 D  2.8800+7 100000.0 1.000-12 1.000-12                   2.5000+7 1000000. E2F.E.Bertrand+        (70)O0289  8 
+ 1001 50120   5 206 D  2.8800+7 100000.0 1.000-12 1.000-12                   2.7000+7 1000000. E2F.E.Bertrand+        (70)O0289  8 
+#/DATA      10
+#/DATASET
