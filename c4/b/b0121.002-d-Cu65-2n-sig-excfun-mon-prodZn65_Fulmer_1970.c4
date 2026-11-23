@@ -1,0 +1,35 @@
+#ENTRY      B0121
+#AUTHOR1    C.B.Fulmer+
+#YEAR       1970
+#INSTITUTE  (1USAORL)
+#TITLE      Excitation Functions For Radioactive Nucleides Produced
+#+          By Deuteron-Induced Reactions in Copper
+#AUTHOR(S)  C.B.Fulmer, I.R.Williams
+#REF-CODE   (J,NP/A,155,40,1970)
+#REFERENCE  Nucl.Phys.A 155 (1970) 40
+#DATASETS   0
+#
+#DATASET    B0121002 
+#DATE       20011220
+#REACTION   29-CU-65(D,2N)30-ZN-65,,SIG,,A,EXP
+#PROJ       1002
+#TARG       29065
+#MF         3
+#MT         16
+#PRODUCT    30-ZN-65
+#C4BEGIN    [ 1002 29065   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 29065   3  16    5600000.          0.132901 0.031767                                       C.B.Fulmer+          (70)B0121  2 
+ 1002 29065   3  16    1.2500+7          0.781199 0.094003                                       C.B.Fulmer+          (70)B0121  2 
+ 1002 29065   3  16    1.7200+7          0.768233 0.103728                                       C.B.Fulmer+          (70)B0121  2 
+ 1002 29065   3  16    2.1200+7          0.580227 0.084279                                       C.B.Fulmer+          (70)B0121  2 
+ 1002 29065   3  16    2.4200+7          0.299838 0.051864                                       C.B.Fulmer+          (70)B0121  2 
+ 1002 29065   3  16    2.7700+7          0.177634 0.042139                                       C.B.Fulmer+          (70)B0121  2 
+ 1002 29065   3  16    3.0800+7          0.155592 0.038898                                       C.B.Fulmer+          (70)B0121  2 
+ 1002 29065   3  16    3.3300+7          0.106321 0.038898                                       C.B.Fulmer+          (70)B0121  2 
+ 1002 29065   3  16    3.6000+7          0.101459 0.038898                                       C.B.Fulmer+          (70)B0121  2 
+ 1002 29065   3  16    3.8900+7          0.087520 0.051864                                       C.B.Fulmer+          (70)B0121  2 
+#/DATA      10
+#/DATASET
