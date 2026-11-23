@@ -1,0 +1,30 @@
+#ENTRY      E2169
+#AUTHOR1    H.Makii+
+#YEAR       2009
+#INSTITUTE  (2JPNOSA)
+#TITLE      E1 and E2 cross sections of the 12C(a,g0)16O reaction
+#+          using pulsed alpha beam
+#AUTHOR(S)  H.Makii, Y.Nagai, T.Shima, M.Segawa, K.Mishima, H.Ueda, 
+#+          M.Igashira, T.Ohsaki
+#REF-CODE   (J,PR/C,80,(6),065802,200912)
+#REFERENCE  Phys.Rev.C 80 No.6 (2009) 065802
+#DATASETS   0
+#
+#DATASET    E2169004 
+#DATE       20100514
+#REACTION   6-C-12(A,G)8-O-16,PAR,DA
+#PROJ       2004
+#TARG       6012
+#MF         4
+#MT         900
+#PRODUCT    8-O-16
+#C4BEGIN    [ 2004  6012   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  6012   4 900    1633666.          2.070-11 2.000-12 0.766044          0.000000         LVLH.Makii+             (09)E2169  4 
+ 2004  6012   4 900    1633666.          1.400-11 2.300-12 6.123-17          0.000000         LVLH.Makii+             (09)E2169  4 
+ 2004  6012   4 900    1633666.          6.490-12 1.820-12-0.642788          0.000000         LVLH.Makii+             (09)E2169  4 
+ 2004  6012   4 900    1633666.          5.890-12 1.460-12-0.642788          0.000000         LVLH.Makii+             (09)E2169  4 
+#/DATA      4
+#/DATASET

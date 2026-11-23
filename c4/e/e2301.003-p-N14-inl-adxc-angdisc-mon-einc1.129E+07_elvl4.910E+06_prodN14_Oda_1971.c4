@@ -1,0 +1,34 @@
+#ENTRY      E2301
+#AUTHOR1    Y.Oda+
+#YEAR       1971
+#INSTITUTE  (2JPNTIT)
+#TITLE      Elastic and inelastic scattering of protons on 14N in
+#+          the energy region of 10 to 15 MeV. I. Experimental
+#AUTHOR(S)  Y.Oda, H.Nakamura, A.Yoshida, M.Kusuhara, M.Murakami
+#REF-CODE   (J,JPJ,30,1217,1971)
+#REFERENCE  J.Phys.Soc.Jpn. 30 (1971) 1217
+#DATASETS   0
+#
+#DATASET    E2301003 
+#DATE       20181220
+#REACTION   7-N-14(P,INL)7-N-14,PAR,DA
+#PROJ       1001
+#TARG       7014
+#MF         4
+#MT         601
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1001  7014   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7014   4 601  C 1.1290+7          2.7500-4          0.850224          4910000.         LVLY.Oda+               (71)E2301  3 
+ 1001  7014   4 601  C 1.1290+7          3.7600-4          0.418454          4910000.         LVLY.Oda+               (71)E2301  3 
+ 1001  7014   4 601  C 1.1290+7          3.0000-4          0.181961          4910000.         LVLY.Oda+               (71)E2301  3 
+ 1001  7014   4 601  C 1.1290+7          4.1500-4         -0.044369          4910000.         LVLY.Oda+               (71)E2301  3 
+ 1001  7014   4 601  C 1.1290+7          3.0600-4         -0.314208          4910000.         LVLY.Oda+               (71)E2301  3 
+ 1001  7014   4 601  C 1.1290+7          3.3900-4         -0.577501          4910000.         LVLY.Oda+               (71)E2301  3 
+ 1001  7014   4 601  C 1.1290+7          4.5400-4         -0.735979          4910000.         LVLY.Oda+               (71)E2301  3 
+ 1001  7014   4 601  C 1.1290+7          7.4600-4         -0.857167          4910000.         LVLY.Oda+               (71)E2301  3 
+ 1001  7014   4 601  C 1.1290+7          7.6300-4         -0.956478          4910000.         LVLY.Oda+               (71)E2301  3 
+#/DATA      9
+#/DATASET

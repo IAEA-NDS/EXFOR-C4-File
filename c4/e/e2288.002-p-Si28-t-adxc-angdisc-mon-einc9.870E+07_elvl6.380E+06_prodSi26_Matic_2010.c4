@@ -1,0 +1,32 @@
+#ENTRY      E2288
+#AUTHOR1    A.Matic+
+#YEAR       2010
+#INSTITUTE  (2NEDKVI)
+#TITLE      High-precision (p,t) reaction to determine
+#+          25Al(p,gamma)26Si reaction rates
+#AUTHOR(S)  A.Matic, A.M.van den Berg, M.N.Harakeh, H.J.Woertche, G.P.A.Berg, 
+#+          M.Couder, J.Goerres, P.LeBlanc, S.O'Brien, M.Wiescher, K.Fujita, 
+#+          K.Hatanaka, Y.Sakemi, Y.Shimizu, Y.Tameshige, A.Tamii, M.Yosoi, 
+#+          T.Adachi, Y.Fujita, Y.Shimbara, H.Fujita, T.Wakasa, B.A.Brown, 
+#+          H.Schatz
+#REF-CODE   (J,PR/C,82,(2),025807,201008)
+#REFERENCE  Phys.Rev.C 82 No.2 (2010) 025807
+#DATASETS   0
+#
+#DATASET    E2288002 
+#DATE       20110518
+#REACTION   14-SI-28(P,T)14-SI-26,PAR,DA
+#PROJ       1001
+#TARG       14028
+#MF         4
+#MT         700
+#PRODUCT    14-SI-26
+#C4BEGIN    [ 1001 14028   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 14028   4 700  C 9.8700+7 100000.0 6.7630-6 1.2990-6 0.999996          6380000.         LVLA.Matic+             (10)E2288  2 
+ 1001 14028   4 700  C 9.8700+7 100000.0 5.0940-6 4.6250-7 0.988025          6380000.         LVLA.Matic+             (10)E2288  2 
+ 1001 14028   4 700  C 9.8700+7 100000.0 6.8440-6 5.2950-7 0.948655          6380000.         LVLA.Matic+             (10)E2288  2 
+#/DATA      3
+#/DATASET

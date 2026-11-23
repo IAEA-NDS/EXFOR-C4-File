@@ -1,0 +1,32 @@
+#ENTRY      E2162
+#AUTHOR1    A.Matic+
+#YEAR       2009
+#INSTITUTE  (2NEDKVI)
+#TITLE      High-precision (p,t) reaction measurement to determine
+#+          18Ne(a,p)21Na reaction rates
+#AUTHOR(S)  A.Matic, A.M.van, M.N.Harakeh, H.J.Woertche, G.P.A.Berg, 
+#+          M.Couder, J.L.Fisker, J.Goerres, P.LeBlanc, S.O'Brien, M.Wiescher, 
+#+          K.Fujita, K.Hatanaka, Y.Sakemi, Y.Shimizu, Y.Tameshige, 
+#+          A.Tamii, M.Yosoi, T.Adachi, Y.Fujita, Y.Shimbara, H.Fujita, 
+#+          T.Wakasa, P.O.Hess, B.A.Brown, H.Schatz
+#REF-CODE   (J,PR/C,80,(5),055804,200911)
+#REFERENCE  Phys.Rev.C 80 No.5 (2009) 055804
+#DATASETS   0
+#
+#DATASET    E2162002 
+#DATE       20100514
+#REACTION   12-MG-24(P,T)12-MG-22,PAR,DA
+#PROJ       1001
+#TARG       12024
+#MF         4
+#MT         700
+#PRODUCT    12-MG-22
+#C4BEGIN    [ 1001 12024   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 12024   4 700  C 9.8700+7 100000.0 4.1300-4 6.9000-6 0.999995          0.000000         LVLA.Matic+             (09)E2162  2 
+ 1001 12024   4 700  C 9.8700+7 100000.0 1.6100-4 2.6000-6 0.987933          0.000000         LVLA.Matic+             (09)E2162  2 
+ 1001 12024   4 700  C 9.8700+7 100000.0 9.6300-6 4.3000-7 0.948268          0.000000         LVLA.Matic+             (09)E2162  2 
+#/DATA      3
+#/DATASET

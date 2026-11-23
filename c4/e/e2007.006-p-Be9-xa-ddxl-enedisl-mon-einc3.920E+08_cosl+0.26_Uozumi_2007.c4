@@ -1,0 +1,42 @@
+#ENTRY      E2007
+#AUTHOR1    Y.Uozumi+
+#YEAR       2007
+#INSTITUTE  (2JPNKYU)
+#TITLE      Magnitude factor systematics of Kalbach phenomenology
+#+          for reactions emitting helium and lithium ions
+#AUTHOR(S)  Y.Uozumi, P.Evtoukhovitch, H.Fukuda, M.Imamura, H.Iwamoto, 
+#+          V.Kalinikov, W.Kallies, N.Khumutov, T.Kin, N.Koba, Y.Koba, 
+#+          N.Kuchinski, A.Moisenko, D.Mzavia, M.Nakano, V.Samoilov, 
+#+          Z.Tsamalaidze, G.Wakabayashi, Y.Yamashita
+#REF-CODE   (J,NIM/A,571,743,2007)
+#REFERENCE  Nucl.Instrum.Meth.A 571 (2007) 743
+#DATASETS   0
+#
+#DATASET    E2007006 
+#DATE       20190125
+#REACTION   4-BE-9(P,X)2-HE-4,,DA/DE
+#PROJ       1001
+#TARG       4009
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  4009   6 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   6 207    3.9200+8          1.059-10 2.973-12 0.258819          1.2500+7          E2Y.Uozumi+            (07)E2007  6 
+ 1001  4009   6 207    3.9200+8          9.857-11 2.868-12 0.258819          1.3500+7          E2Y.Uozumi+            (07)E2007  6 
+ 1001  4009   6 207    3.9200+8          9.109-11 2.757-12 0.258819          1.4500+7          E2Y.Uozumi+            (07)E2007  6 
+ 1001  4009   6 207    3.9200+8          7.685-11 2.532-12 0.258819          1.5500+7          E2Y.Uozumi+            (07)E2007  6 
+ 1001  4009   6 207    3.9200+8          6.539-11 2.336-12 0.258819          1.6500+7          E2Y.Uozumi+            (07)E2007  6 
+ 1001  4009   6 207    3.9200+8          5.806-11 2.201-12 0.258819          1.7500+7          E2Y.Uozumi+            (07)E2007  6 
+ 1001  4009   6 207    3.9200+8          5.564-11 2.155-12 0.258819          1.8500+7          E2Y.Uozumi+            (07)E2007  6 
+ 1001  4009   6 207    3.9200+8          4.504-11 1.938-12 0.258819          1.9500+7          E2Y.Uozumi+            (07)E2007  6 
+ 1001  4009   6 207    3.9200+8          4.285-11 1.891-12 0.258819          2.0500+7          E2Y.Uozumi+            (07)E2007  6 
+ 1001  4009   6 207    3.9200+8          4.032-11 1.834-12 0.258819          2.1500+7          E2Y.Uozumi+            (07)E2007  6 
+ 1001  4009   6 207    3.9200+8          3.564-11 1.724-12 0.258819          2.2500+7          E2Y.Uozumi+            (07)E2007  6 
+ 1001  4009   6 207    3.9200+8          2.929-11 1.563-12 0.258819          2.3500+7          E2Y.Uozumi+            (07)E2007  6 
+ 1001  4009   6 207    3.9200+8          2.642-11 1.485-12 0.258819          2.4500+7          E2Y.Uozumi+            (07)E2007  6 
+ 1001  4009   6 207    3.9200+8          2.359-11 1.403-12 0.258819          2.5500+7          E2Y.Uozumi+            (07)E2007  6 
+#/DATA      14
+#/DATASET

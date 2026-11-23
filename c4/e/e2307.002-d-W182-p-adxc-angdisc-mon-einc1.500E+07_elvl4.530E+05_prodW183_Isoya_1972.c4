@@ -1,0 +1,38 @@
+#ENTRY      E2307
+#AUTHOR1    A.Isoya+
+#YEAR       1972
+#INSTITUTE  (2JPNKYU)
+#TITLE      A detailed study of low-lying levels of 184W by means
+#+          of the (d,p) reacton
+#AUTHOR(S)  A.Isoya, T.Maki, T.Nakashima, N.Kato, Y.Kumamoto, T.Sugimitsu, 
+#+          K.Kimura
+#REF-CODE   (J,JPJ,32,886,1972)
+#REFERENCE  J.Phys.Soc.Jpn. 32 (1972) 886
+#DATASETS   0
+#
+#DATASET    E2307002 
+#DATE       20160520
+#REACTION   74-W-182(D,P)74-W-183,PAR,DA
+#PROJ       1002
+#TARG       74182
+#MF         4
+#MT         600
+#PRODUCT    74-W-183
+#C4BEGIN    [ 1002 74182   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 74182   4 600  C 1.5000+7          1.4140-4          0.986314          453000.0         LVLA.Isoya+             (72)E2307  2 
+ 1002 74182   4 600  C 1.5000+7          1.5890-4          0.967621          453000.0         LVLA.Isoya+             (72)E2307  2 
+ 1002 74182   4 600  C 1.5000+7          7.6620-5          0.940999          453000.0         LVLA.Isoya+             (72)E2307  2 
+ 1002 74182   4 600  C 1.5000+7          1.5860-4          0.909744          453000.0         LVLA.Isoya+             (72)E2307  2 
+ 1002 74182   4 600  C 1.5000+7          3.0690-4          0.869495          453000.0         LVLA.Isoya+             (72)E2307  2 
+ 1002 74182   4 600  C 1.5000+7          4.0550-4 1.1330-5 0.823830          453000.0         LVLA.Isoya+             (72)E2307  2 
+ 1002 74182   4 600  C 1.5000+7          2.9870-4          0.707724          453000.0         LVLA.Isoya+             (72)E2307  2 
+ 1002 74182   4 600  C 1.5000+7          2.2660-4          0.649183          453000.0         LVLA.Isoya+             (72)E2307  2 
+ 1002 74182   4 600  C 1.5000+7          2.3790-4          0.500453          453000.0         LVLA.Isoya+             (72)E2307  2 
+ 1002 74182   4 600  C 1.5000+7          1.6400-4          0.342512          453000.0         LVLA.Isoya+             (72)E2307  2 
+ 1002 74182   4 600  C 1.5000+7          1.0320-4          0.170725          453000.0         LVLA.Isoya+             (72)E2307  2 
+ 1002 74182   4 600  C 1.5000+7          1.2640-4          3.8397-3          453000.0         LVLA.Isoya+             (72)E2307  2 
+#/DATA      12
+#/DATASET

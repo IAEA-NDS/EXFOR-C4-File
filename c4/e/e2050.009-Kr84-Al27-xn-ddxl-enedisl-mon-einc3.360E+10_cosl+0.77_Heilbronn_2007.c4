@@ -1,0 +1,36 @@
+#ENTRY      E2050
+#AUTHOR1    L.Heilbronn+
+#YEAR       2007
+#INSTITUTE  (1USABRK)
+#TITLE      Secondary neutron-production cross sections from
+#+          heavy-ion interactions between 230 and 600 MeV/nucleon
+#AUTHOR(S)  L.Heilbronn, C.J.Zeitlin, Y.Iwata, T.Murakami, H.Iwase, 
+#+          T.Nakamura, T.Nunomiya, H.Sato, H.Yashima, R.M.Ronningen, 
+#+          K.Ieki
+#REF-CODE   (J,NSE,157,(2),142,200710)
+#REFERENCE  Nucl.Sci.Eng. 157 No.2 (2007) 142
+#DATASETS   0
+#
+#DATASET    E2050009 
+#DATE       20080131
+#REACTION   13-AL-27(36-KR-84,X)0-NN-1,,DA/DE
+#PROJ       36084
+#TARG       13027
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [36084 13027   6 201 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+36084 13027   6 201 A  3.360+10          1.394-10 8.333-11 0.766044          9.3170+8 1.7130+8 E2L.Heilbronn+         (07)E2050  9 
+36084 13027   6 201 A  3.360+10          1.1070-9 4.194-10 0.766044          6.6890+8 9.1500+7 E2L.Heilbronn+         (07)E2050  9 
+36084 13027   6 201 A  3.360+10          1.9360-9 6.830-10 0.766044          5.1980+8 5.7600+7 E2L.Heilbronn+         (07)E2050  9 
+36084 13027   6 201 A  3.360+10          4.9160-9 1.0580-9 0.766044          4.2245+8 3.9750+7 E2L.Heilbronn+         (07)E2050  9 
+36084 13027   6 201 A  3.360+10          3.7880-9 9.971-10 0.766044          3.3125+8 5.1450+7 E2L.Heilbronn+         (07)E2050  9 
+36084 13027   6 201 A  3.360+10          1.0880-8 2.6860-9 0.766044          2.4815+8 3.1650+7 E2L.Heilbronn+         (07)E2050  9 
+36084 13027   6 201 A  3.360+10          2.0140-8 5.5140-9 0.766044          1.9515+8 2.1350+7 E2L.Heilbronn+         (07)E2050  9 
+36084 13027   6 201 A  3.360+10          1.6840-8 4.9750-9 0.766044          1.3154+8 4.2255+7 E2L.Heilbronn+         (07)E2050  9 
+36084 13027   6 201 A  3.360+10          1.1790-8 4.7170-9 0.766044          4.9685+7 3.9605+7 E2L.Heilbronn+         (07)E2050  9 
+#/DATA      9
+#/DATASET

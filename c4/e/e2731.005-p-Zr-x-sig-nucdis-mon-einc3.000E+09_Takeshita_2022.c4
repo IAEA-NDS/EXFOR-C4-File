@@ -1,0 +1,40 @@
+#ENTRY      E2731
+#AUTHOR1    H.Takeshita+
+#YEAR       2022
+#INSTITUTE  (2JPNKYU)
+#TITLE      Measurement of nuclide production cross sections for
+#+          proton-induced reactions on nat Ni and nat Zr at 0.4,
+#+          1.3, 2.2, and 3.0 GeV
+#AUTHOR(S)  H.Takeshita, S.Meigo, H.Matsuda, H.Iwamoto, K.Nakano, Y.Watanabe, 
+#+          F.Maekawa
+#REF-CODE   (J,NIM/B,527,17,2022)
+#REFERENCE  Nucl.Instrum.Meth.B 527 (2022) 17
+#DATASETS   0
+#
+#DATASET    E2731005 
+#DATE       20230307
+#REACTION   40-ZR-0(P,X)ELEM/MASS,,SIG
+#PROJ       1001
+#TARG       40000
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 40000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40000   3 454 A  3.0000+9          9.1571-3 2.7450-4            4007.9                     H.Takeshita+         (22)E2731  5 
+ 1001 40000   3 454 A  3.0000+9          2.5273-3 1.4328-4           19042.9                     H.Takeshita+         (22)E2731  5 
+ 1001 40000   3 454 A  3.0000+9          1.6593-3 9.6143-5           21044.0                     H.Takeshita+         (22)E2731  5 
+ 1001 40000   3 454 A  3.0000+9          2.6210-3 7.0958-5           21044.1                     H.Takeshita+         (22)E2731  5 
+ 1001 40000   3 454 A  3.0000+9          4.0115-3 9.4589-5           21046.9                     H.Takeshita+         (22)E2731  5 
+ 1001 40000   3 454 A  3.0000+9          7.8576-4 2.7661-5           21048.9                     H.Takeshita+         (22)E2731  5 
+ 1001 40000   3 454 A  3.0000+9          8.1700-3 2.0807-4           25054.9                     H.Takeshita+         (22)E2731  5 
+ 1001 40000   3 454 A  3.0000+9          0.010129 2.4409-4           27058.9                     H.Takeshita+         (22)E2731  5 
+ 1001 40000   3 454 A  3.0000+9          1.0247-3 5.2702-5           30069.1                     H.Takeshita+         (22)E2731  5 
+ 1001 40000   3 454 A  3.0000+9          0.013405 5.5707-4           33072.9                     H.Takeshita+         (22)E2731  5 
+ 1001 40000   3 454 A  3.0000+9          4.7782-3 2.7492-4           33074.9                     H.Takeshita+         (22)E2731  5 
+ 1001 40000   3 454 A  3.0000+9          0.011746 5.1916-4           37082.1                     H.Takeshita+         (22)E2731  5 
+ 1001 40000   3 454 A  3.0000+9          6.8160-3 2.6386-4           37084.9                     H.Takeshita+         (22)E2731  5 
+ 1001 40000   3 454 A  3.0000+9          2.0416-4 6.8928-6           41092.1                     H.Takeshita+         (22)E2731  5 
+#/DATA      14
+#/DATASET

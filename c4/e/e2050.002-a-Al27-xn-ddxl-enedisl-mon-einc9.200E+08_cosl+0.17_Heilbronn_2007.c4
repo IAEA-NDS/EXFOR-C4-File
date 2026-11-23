@@ -1,0 +1,35 @@
+#ENTRY      E2050
+#AUTHOR1    L.Heilbronn+
+#YEAR       2007
+#INSTITUTE  (1USABRK)
+#TITLE      Secondary neutron-production cross sections from
+#+          heavy-ion interactions between 230 and 600 MeV/nucleon
+#AUTHOR(S)  L.Heilbronn, C.J.Zeitlin, Y.Iwata, T.Murakami, H.Iwase, 
+#+          T.Nakamura, T.Nunomiya, H.Sato, H.Yashima, R.M.Ronningen, 
+#+          K.Ieki
+#REF-CODE   (J,NSE,157,(2),142,200710)
+#REFERENCE  Nucl.Sci.Eng. 157 No.2 (2007) 142
+#DATASETS   0
+#
+#DATASET    E2050002 
+#DATE       20080131
+#REACTION   13-AL-27(A,X)0-NN-1,,DA/DE
+#PROJ       2004
+#TARG       13027
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 2004 13027   6 201 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 13027   6 201 A  9.2000+8          3.236-11 8.355-12 0.173648          1.9655+8 7.9650+7 E2L.Heilbronn+         (07)E2050  2 
+ 2004 13027   6 201 A  9.2000+8          1.630-10 4.706-11 0.173648          1.0404+8 1.2865+7 E2L.Heilbronn+         (07)E2050  2 
+ 2004 13027   6 201 A  9.2000+8          3.732-10 9.735-11 0.173648          6.7180+7 2.3990+7 E2L.Heilbronn+         (07)E2050  2 
+ 2004 13027   6 201 A  9.2000+8          1.2730-9 1.943-10 0.173648          3.6825+7 6365000. E2L.Heilbronn+         (07)E2050  2 
+ 2004 13027   6 201 A  9.2000+8          1.7460-9 5.099-10 0.173648          2.5420+7 5040000. E2L.Heilbronn+         (07)E2050  2 
+ 2004 13027   6 201 A  9.2000+8          1.6990-9 4.652-10 0.173648          1.7190+7 3190000. E2L.Heilbronn+         (07)E2050  2 
+ 2004 13027   6 201 A  9.2000+8          2.9490-9 1.0570-9 0.173648          1.3130+7 6240500. E2L.Heilbronn+         (07)E2050  2 
+ 2004 13027   6 201 A  9.2000+8          1.1360-8 4.3480-9 0.173648          6054000. 835000.0 E2L.Heilbronn+         (07)E2050  2 
+#/DATA      8
+#/DATASET

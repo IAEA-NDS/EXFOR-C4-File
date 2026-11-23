@@ -1,0 +1,41 @@
+#ENTRY      E2050
+#AUTHOR1    L.Heilbronn+
+#YEAR       2007
+#INSTITUTE  (1USABRK)
+#TITLE      Secondary neutron-production cross sections from
+#+          heavy-ion interactions between 230 and 600 MeV/nucleon
+#AUTHOR(S)  L.Heilbronn, C.J.Zeitlin, Y.Iwata, T.Murakami, H.Iwase, 
+#+          T.Nakamura, T.Nunomiya, H.Sato, H.Yashima, R.M.Ronningen, 
+#+          K.Ieki
+#REF-CODE   (J,NSE,157,(2),142,200710)
+#REFERENCE  Nucl.Sci.Eng. 157 No.2 (2007) 142
+#DATASETS   0
+#
+#DATASET    E2050003 
+#DATE       20080131
+#REACTION   29-CU-0(A,X)0-NN-1,,DA/DE
+#PROJ       2004
+#TARG       29000
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 2004 29000   6 201 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 29000   6 201 A  9.2000+8          1.925-10 9.627-11 0.996195          4.5420+8 3.6400+7 E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          3.046-10 1.362-10 0.996195          3.9000+8 2.7800+7 E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          1.1320-9 3.627-10 0.996195          3.4025+8 2.1950+7 E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          3.5130-9 5.669-10 0.996195          3.0055+8 1.7750+7 E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          7.4070-9 1.0620-9 0.996195          2.6820+8 1.4600+7 E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          1.5460-8 1.5470-9 0.996195          2.4135+8 1.2250+7 E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          1.8830-8 2.6420-9 0.996195          2.1870+8 1.0400+7 E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          2.9740-8 5.5950-9 0.996195          1.9935+8 8950000. E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          2.7870-8 7.7910-9 0.996195          1.8265+8 7750000. E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          4.3400-9 1.5130-9 0.996195          1.1758+8 5.7325+7 E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          3.0890-9 1.0220-9 0.996195          5.3605+7 6645000. E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          1.6490-9 1.4590-9 0.996195          3.3670+7 1.3290+7 E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          9.7310-9 4.4700-9 0.996195          2.1950+7 5490000. E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          8.8690-9 5.1610-9 0.996195          1.0760+7 5700000. E2L.Heilbronn+         (07)E2050  3 
+#/DATA      14
+#/DATASET

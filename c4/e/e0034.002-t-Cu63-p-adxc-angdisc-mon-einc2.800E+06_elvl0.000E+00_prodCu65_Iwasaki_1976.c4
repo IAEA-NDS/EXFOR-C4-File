@@ -1,0 +1,31 @@
+#ENTRY      E0034
+#AUTHOR1    Y.Iwasaki+
+#YEAR       1976
+#INSTITUTE  (2JPNSHZ)
+#TITLE      Features of the (t,p) reaction below the Coulomb
+#+          barrier of the entrance channel
+#AUTHOR(S)  Y.Iwasaki, T.Murata, T.Tamura, Y.Nogami
+#REF-CODE   (J,PR/C,13,(2),556,197602)
+#REFERENCE  Phys.Rev.C 13 No.2 (1976) 556
+#DATASETS   0
+#
+#DATASET    E0034002 
+#DATE       20091023
+#REACTION   29-CU-63(T,P)29-CU-65,PAR,DA
+#PROJ       1003
+#TARG       29063
+#MF         4
+#MT         600
+#PRODUCT    29-CU-65
+#C4BEGIN    [ 1003 29063   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 29063   4 600  C 2800000.          3.3520-6 2.1400-7 0.942525          0.000000         LVLY.Iwasaki+           (76)E0034  2 
+ 1003 29063   4 600  C 2800000.          4.0600-6          0.871385          0.000000         LVLY.Iwasaki+           (76)E0034  2 
+ 1003 29063   4 600  C 2800000.          3.3670-6          0.771514          0.000000         LVLY.Iwasaki+           (76)E0034  2 
+ 1003 29063   4 600  C 2800000.          2.4270-6 1.9210-7 0.650244          0.000000         LVLY.Iwasaki+           (76)E0034  2 
+ 1003 29063   4 600  C 2800000.          5.7960-7 7.1560-8-0.685818          0.000000         LVLY.Iwasaki+           (76)E0034  2 
+ 1003 29063   4 600  C 2800000.          8.9240-7 9.0680-8-0.848048          0.000000         LVLY.Iwasaki+           (76)E0034  2 
+#/DATA      6
+#/DATASET

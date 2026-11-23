@@ -1,0 +1,34 @@
+#ENTRY      E2236
+#AUTHOR1    I.Kumabe+
+#YEAR       1962
+#INSTITUTE  (2JPNKTO)
+#TITLE      Protons from several elements bombarded with 30 MeV
+#+          alpha particles
+#AUTHOR(S)  I.Kumabe, T.Komatuzaki, S.Tomita, T.Yamaki, Y.Yamada
+#REF-CODE   (J,JPJ,17,1526,1962)
+#REFERENCE  J.Phys.Soc.Jpn. 17 (1962) 1526
+#DATASETS   0
+#
+#DATASET    E2236005 
+#DATE       20190118
+#REACTION   79-AU-197(A,P)80-HG-200,,DA/DE
+#PROJ       2004
+#TARG       79197
+#MF         6
+#MT         103
+#PRODUCT    80-HG-200
+#C4BEGIN    [ 2004 79197   6 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 79197   6 103  C 2.9500+7          6.074-12          0.937889          1499440. 1000000.LVLI.Kumabe+            (62)E2236  5 
+ 2004 79197   6 103  C 2.9500+7          2.429-12          0.862514          1499440. 1000000.LVLI.Kumabe+            (62)E2236  5 
+ 2004 79197   6 103  C 2.9500+7          1.242-12          0.699663          1499440. 1000000.LVLI.Kumabe+            (62)E2236  5 
+ 2004 79197   6 103  C 2.9500+7          9.136-13          0.489382          1499440. 1000000.LVLI.Kumabe+            (62)E2236  5 
+ 2004 79197   6 103  C 2.9500+7          6.147-13          0.245307          1499440. 1000000.LVLI.Kumabe+            (62)E2236  5 
+ 2004 79197   6 103  C 2.9500+7          4.519-13         -0.013962          1499440. 1000000.LVLI.Kumabe+            (62)E2236  5 
+ 2004 79197   6 103  C 2.9500+7          4.344-13         -0.272280          1499440. 1000000.LVLI.Kumabe+            (62)E2236  5 
+ 2004 79197   6 103  C 2.9500+7          1.613-13         -0.714473          1499440. 1000000.LVLI.Kumabe+            (62)E2236  5 
+ 2004 79197   6 103  C 2.9500+7          1.623-13         -0.941471          1499440. 1000000.LVLI.Kumabe+            (62)E2236  5 
+#/DATA      9
+#/DATASET

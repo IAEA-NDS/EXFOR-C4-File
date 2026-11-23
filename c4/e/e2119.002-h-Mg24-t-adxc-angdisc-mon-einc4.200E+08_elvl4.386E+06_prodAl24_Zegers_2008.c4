@@ -1,0 +1,34 @@
+#ENTRY      E2119
+#AUTHOR1    R.G.T.Zegers+
+#YEAR       2008
+#INSTITUTE  (1USAMSU)
+#TITLE      Spectroscopy of 24Al and extraction of Gamow-Teller
+#+          strengths with the 24Mg(3He,t) reaction at 420 MeV
+#AUTHOR(S)  R.G.T.Zegers, R.Meharchand, T.Adachi, Sam M.Austin, B.A.Brown, 
+#+          Y.Fujita, M.Fujiwara, C.J.Guess, H.Hashimoto, K.Hatanaka, 
+#+          M.E.Howard, H.Matsubara, K.Nakanishi, T.Ohta, H.Okamura, 
+#+          Y.Sakemi, Y.Shimbara, Y.Shimizu, C.Scholl, A.Signoracci, 
+#+          Y.Tameshige, A.Tamii, M.Yosoi
+#REF-CODE   (J,PR/C,78,(1),014314,200807)
+#REFERENCE  Phys.Rev.C 78 No.1 (2008) 014314
+#DATASETS   0
+#
+#DATASET    E2119002 
+#DATE       20090706
+#REACTION   12-MG-24(HE3,T)13-AL-24,PAR,DA
+#PROJ       2003
+#TARG       12024
+#MF         4
+#MT         700
+#PRODUCT    13-AL-24
+#C4BEGIN    [ 2003 12024   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 12024   4 700  C 4.2000+8          1.1194-4 2.4016-5 0.999988          4386000. 20000.00LVLR.G.T.Zegers+        (08)E2119  2 
+ 2003 12024   4 700  C 4.2000+8          1.2917-4 8.8700-6 0.999891          4386000. 20000.00LVLR.G.T.Zegers+        (08)E2119  2 
+ 2003 12024   4 700  C 4.2000+8          1.0719-4 8.8630-6 0.999696          4386000. 20000.00LVLR.G.T.Zegers+        (08)E2119  2 
+ 2003 12024   4 700  C 4.2000+8          8.2307-5 8.5530-6 0.999404          4386000. 20000.00LVLR.G.T.Zegers+        (08)E2119  2 
+ 2003 12024   4 700  C 4.2000+8          6.0282-5 1.4314-5 0.999016          4386000. 20000.00LVLR.G.T.Zegers+        (08)E2119  2 
+#/DATA      5
+#/DATASET

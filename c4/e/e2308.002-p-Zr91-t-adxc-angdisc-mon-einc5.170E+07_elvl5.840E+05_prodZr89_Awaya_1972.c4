@@ -1,0 +1,39 @@
+#ENTRY      E2308
+#AUTHOR1    T.Awaya+
+#YEAR       1972
+#INSTITUTE  (2JPNTOK)
+#TITLE      Experimental investigation of the 91Zr(p,t)89Zr
+#+          reaction at 51.7 MeV
+#AUTHOR(S)  T.Awaya, H.Ohmura, T.Ishimatsu, T.Tohei, T.Nakagawa, N.Kawamura, 
+#+          T.Yamaya, H.Orihara, Y.Nakajima
+#REF-CODE   (J,JPJ,32,1169,1972)
+#REFERENCE  J.Phys.Soc.Jpn. 32 (1972) 1169
+#DATASETS   0
+#
+#DATASET    E2308002 
+#DATE       20160520
+#REACTION   40-ZR-91(P,T)40-ZR-89,PAR,DA
+#PROJ       1001
+#TARG       40091
+#MF         4
+#MT         700
+#PRODUCT    40-ZR-89
+#C4BEGIN    [ 1001 40091   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40091   4 700  C 5.1700+7          2.8740-5          0.994113          584000.0         LVLT.Awaya+             (72)E2308  2 
+ 1001 40091   4 700  C 5.1700+7          2.8060-5          0.990146          584000.0         LVLT.Awaya+             (72)E2308  2 
+ 1001 40091   4 700  C 5.1700+7          2.4660-5          0.984196          584000.0         LVLT.Awaya+             (72)E2308  2 
+ 1001 40091   4 700  C 5.1700+7          2.3650-5          0.973219          584000.0         LVLT.Awaya+             (72)E2308  2 
+ 1001 40091   4 700  C 5.1700+7          2.0910-5          0.959707          584000.0         LVLT.Awaya+             (72)E2308  2 
+ 1001 40091   4 700  C 5.1700+7          1.6830-5 1.4360-6 0.943165          584000.0         LVLT.Awaya+             (72)E2308  2 
+ 1001 40091   4 700  C 5.1700+7          1.4440-5 1.4170-6 0.924213          584000.0         LVLT.Awaya+             (72)E2308  2 
+ 1001 40091   4 700  C 5.1700+7          1.3530-5 1.4150-6 0.902285          584000.0         LVLT.Awaya+             (72)E2308  2 
+ 1001 40091   4 700  C 5.1700+7          1.0640-5 1.0440-6 0.877816          584000.0         LVLT.Awaya+             (72)E2308  2 
+ 1001 40091   4 700  C 5.1700+7          6.2810-6 8.2070-7 0.840472          584000.0         LVLT.Awaya+             (72)E2308  2 
+ 1001 40091   4 700  C 5.1700+7          3.3760-6 7.4270-7 0.800836          584000.0         LVLT.Awaya+             (72)E2308  2 
+ 1001 40091   4 700  C 5.1700+7          2.1500-6 5.3500-7 0.755625          584000.0         LVLT.Awaya+             (72)E2308  2 
+ 1001 40091   4 700  C 5.1700+7          1.5850-6 5.0140-7 0.707107          584000.0         LVLT.Awaya+             (72)E2308  2 
+#/DATA      13
+#/DATASET

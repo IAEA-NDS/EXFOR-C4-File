@@ -1,0 +1,40 @@
+#ENTRY      E1236
+#AUTHOR1    Y.Takeuchi+
+#YEAR       1986
+#INSTITUTE  (2JPNKTO)
+#TITLE      Quadrupole and hexadecapole moments of 232Th and 238U
+#+          from inelastic scattering of 65 MeV polarized protons
+#AUTHOR(S)  Y.Takeuchi, H.Sakaguchi, M.Nakamura, T.Ichihara, M.Yosoi, 
+#+          M.Ieiri, S.Kobayashi
+#REF-CODE   (J,PR/C,34,493,1986)
+#REFERENCE  Phys.Rev.C 34 (1986) 493
+#DATASETS   0
+#
+#DATASET    E1236020 
+#DATE       20110518
+#REACTION   90-TH-232(P,INL)90-TH-232,PAR,DA
+#PROJ       1001
+#TARG       90232
+#MF         4
+#MT         601
+#PRODUCT    90-TH-232
+#C4BEGIN    [ 1001 90232   4 601 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   4 601 AC 6.5000+7          7.0030-5 7.7560-6 0.717154          333000.0         LVLY.Takeuchi+          (86)E1236 20 
+ 1001 90232   4 601 AC 6.5000+7          4.8640-5 5.5780-6 0.692269          333000.0         LVLY.Takeuchi+          (86)E1236 20 
+ 1001 90232   4 601 AC 6.5000+7          4.0190-5 6.8160-6 0.666663          333000.0         LVLY.Takeuchi+          (86)E1236 20 
+ 1001 90232   4 601 AC 6.5000+7          6.7780-5 7.4750-6 0.640110          333000.0         LVLY.Takeuchi+          (86)E1236 20 
+ 1001 90232   4 601 AC 6.5000+7          7.6970-5 7.3920-6 0.612907          333000.0         LVLY.Takeuchi+          (86)E1236 20 
+ 1001 90232   4 601 AC 6.5000+7          9.3530-5 8.7910-6 0.584816          333000.0         LVLY.Takeuchi+          (86)E1236 20 
+ 1001 90232   4 601 AC 6.5000+7          7.6790-5 7.6050-6 0.556151          333000.0         LVLY.Takeuchi+          (86)E1236 20 
+ 1001 90232   4 601 AC 6.5000+7          4.4790-5 5.6880-6 0.526807          333000.0         LVLY.Takeuchi+          (86)E1236 20 
+ 1001 90232   4 601 AC 6.5000+7          3.2760-5 5.1610-6 0.496671          333000.0         LVLY.Takeuchi+          (86)E1236 20 
+ 1001 90232   4 601 AC 6.5000+7          3.3740-5 4.3080-6 0.466078          333000.0         LVLY.Takeuchi+          (86)E1236 20 
+ 1001 90232   4 601 AC 6.5000+7          3.3300-5 5.3590-6 0.434917          333000.0         LVLY.Takeuchi+          (86)E1236 20 
+ 1001 90232   4 601 AC 6.5000+7          4.5210-5 5.7360-6 0.403226          333000.0         LVLY.Takeuchi+          (86)E1236 20 
+ 1001 90232   4 601 AC 6.5000+7          3.1170-5 7.6350-6 0.370882          333000.0         LVLY.Takeuchi+          (86)E1236 20 
+ 1001 90232   4 601 AC 6.5000+7          3.6270-5 5.1960-6 0.338245          333000.0         LVLY.Takeuchi+          (86)E1236 20 
+#/DATA      14
+#/DATASET

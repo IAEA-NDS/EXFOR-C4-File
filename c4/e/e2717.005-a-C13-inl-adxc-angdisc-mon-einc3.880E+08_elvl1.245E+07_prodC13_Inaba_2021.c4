@@ -1,0 +1,32 @@
+#ENTRY      E2717
+#AUTHOR1    K.Inaba+
+#YEAR       2021
+#INSTITUTE  (2JPNKTO)
+#TITLE      Search for alpha condensed states in 13C using alpha
+#+          inelastic scattering
+#AUTHOR(S)  K.Inaba, Y.Sasamoto, T.Kawabata, M.Fujiwara, Y.Funaki, K.Hatanaka, 
+#+          K.Itoh, M.Itoh, K.Kawase, H.Matsubara, Y.Maeda, K.Suda, 
+#+          S.Sakaguchi, Y.Shimizu, A.Tamii, Y.Tameshige, M.Uchida, 
+#+          T.Uesaka, T.Yamada, H.P.Yoshida
+#REF-CODE   (J,PTEP,2021,093D01,2021)
+#REFERENCE  Prog.Theor.Exp.Phys. 2021 (2021) 093D01
+#DATASETS   0
+#
+#DATASET    E2717005 
+#DATE       20220613
+#REACTION   6-C-13(A,INL)6-C-13,PAR,DA
+#PROJ       2004
+#TARG       6013
+#MF         4
+#MT         801
+#PRODUCT    6-C-13
+#C4BEGIN    [ 2004  6013   4 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  6013   4 801  C 3.8800+8          6.1520-3 9.4220-4 0.999974          1.2450+7         LVLK.Inaba+             (21)E2717  5 
+ 2004  6013   4 801  C 3.8800+8          5.1590-3 7.6630-4 0.999766          1.2450+7         LVLK.Inaba+             (21)E2717  5 
+ 2004  6013   4 801  C 3.8800+8          1.3130-3 2.1260-4 0.998906          1.2450+7         LVLK.Inaba+             (21)E2717  5 
+ 2004  6013   4 801  C 3.8800+8          5.0290-4 8.9660-5 0.998441          1.2450+7         LVLK.Inaba+             (21)E2717  5 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      E2365
+#AUTHOR1    Y.Uozumi+
+#YEAR       2011
+#INSTITUTE  (2JPNKYU)
+#TITLE      Deuteron-production double-differential cross sections
+#+          for 300- and 392-MeV proton-induced reactions deduced
+#+          from experiment and model calculation
+#AUTHOR(S)  Y.Uozumi, Y.Sawada, A.Mzhavia, S.Nogamine, H.Iwamoto, T.Kin, 
+#+          S.Hohara, G.Wakabayashi, M.Nakano
+#REF-CODE   (J,PR/C,84,064617,201112)
+#REFERENCE  Phys.Rev.C 84 (2011) 064617
+#DATASETS   0
+#
+#DATASET    E2365003 
+#DATE       20120614
+#REACTION   13-AL-27(P,X)1-H-2,,DA/DE
+#PROJ       1001
+#TARG       13027
+#MF         6
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001 13027   6 204  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   6 204    3.0000+8          1.061-11          6.123-17          4.3788+7          E2Y.Uozumi+            (11)E2365  3 
+ 1001 13027   6 204    3.0000+8          1.478-11          6.123-17          5.4220+7          E2Y.Uozumi+            (11)E2365  3 
+ 1001 13027   6 204    3.0000+8          1.294-11          6.123-17          6.4644+7          E2Y.Uozumi+            (11)E2365  3 
+ 1001 13027   6 204    3.0000+8          9.997-12          6.123-17          7.5076+7          E2Y.Uozumi+            (11)E2365  3 
+ 1001 13027   6 204    3.0000+8          4.453-12          6.123-17          8.5488+7          E2Y.Uozumi+            (11)E2365  3 
+#/DATA      5
+#/DATASET

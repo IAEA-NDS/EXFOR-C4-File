@@ -1,0 +1,34 @@
+#ENTRY      E2050
+#AUTHOR1    L.Heilbronn+
+#YEAR       2007
+#INSTITUTE  (1USABRK)
+#TITLE      Secondary neutron-production cross sections from
+#+          heavy-ion interactions between 230 and 600 MeV/nucleon
+#AUTHOR(S)  L.Heilbronn, C.J.Zeitlin, Y.Iwata, T.Murakami, H.Iwase, 
+#+          T.Nakamura, T.Nunomiya, H.Sato, H.Yashima, R.M.Ronningen, 
+#+          K.Ieki
+#REF-CODE   (J,NSE,157,(2),142,200710)
+#REFERENCE  Nucl.Sci.Eng. 157 No.2 (2007) 142
+#DATASETS   0
+#
+#DATASET    E2050003 
+#DATE       20080131
+#REACTION   29-CU-0(A,X)0-NN-1,,DA/DE
+#PROJ       2004
+#TARG       29000
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 2004 29000   6 201 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 29000   6 201 A  9.2000+8          2.344-10 4.145-11 0.173648          1.6146+8 1.1474+8 E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          2.3450-9 4.211-10 0.173648          4.1995+7 4725000. E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          3.3260-9 5.819-10 0.173648          3.0620+7 6650000. E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          3.7730-9 7.426-10 0.173648          1.8170+7 5800000. E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          9.6790-9 2.8750-9 0.173648          1.1368+7 1511500. E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          1.3620-8 4.0750-9 0.173648          8702500. 1154500. E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          2.0590-8 8.0450-9 0.173648          7310000. 998000.0 E2L.Heilbronn+         (07)E2050  3 
+#/DATA      7
+#/DATASET

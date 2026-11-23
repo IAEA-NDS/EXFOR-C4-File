@@ -1,0 +1,41 @@
+#ENTRY      E2365
+#AUTHOR1    Y.Uozumi+
+#YEAR       2011
+#INSTITUTE  (2JPNKYU)
+#TITLE      Deuteron-production double-differential cross sections
+#+          for 300- and 392-MeV proton-induced reactions deduced
+#+          from experiment and model calculation
+#AUTHOR(S)  Y.Uozumi, Y.Sawada, A.Mzhavia, S.Nogamine, H.Iwamoto, T.Kin, 
+#+          S.Hohara, G.Wakabayashi, M.Nakano
+#REF-CODE   (J,PR/C,84,064617,201112)
+#REFERENCE  Phys.Rev.C 84 (2011) 064617
+#DATASETS   0
+#
+#DATASET    E2365003 
+#DATE       20120614
+#REACTION   13-AL-27(P,X)1-H-2,,DA/DE
+#PROJ       1001
+#TARG       13027
+#MF         6
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001 13027   6 204  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   6 204    3.0000+8          6.655-11          0.500000          4.3788+7          E2Y.Uozumi+            (11)E2365  3 
+ 1001 13027   6 204    3.0000+8          6.256-11          0.500000          5.4220+7          E2Y.Uozumi+            (11)E2365  3 
+ 1001 13027   6 204    3.0000+8          5.525-11          0.500000          6.4644+7          E2Y.Uozumi+            (11)E2365  3 
+ 1001 13027   6 204    3.0000+8          4.813-11          0.500000          7.5076+7          E2Y.Uozumi+            (11)E2365  3 
+ 1001 13027   6 204    3.0000+8          3.927-11          0.500000          8.5488+7          E2Y.Uozumi+            (11)E2365  3 
+ 1001 13027   6 204    3.0000+8          3.482-11          0.500000          9.5850+7          E2Y.Uozumi+            (11)E2365  3 
+ 1001 13027   6 204    3.0000+8          2.465-11          0.500000          1.0616+8          E2Y.Uozumi+            (11)E2365  3 
+ 1001 13027   6 204    3.0000+8          2.353-11          0.500000          1.1643+8          E2Y.Uozumi+            (11)E2365  3 
+ 1001 13027   6 204    3.0000+8          1.568-11          0.500000          1.2666+8          E2Y.Uozumi+            (11)E2365  3 
+ 1001 13027   6 204    3.0000+8          1.053-11          0.500000          1.3688+8          E2Y.Uozumi+            (11)E2365  3 
+ 1001 13027   6 204    3.0000+8          8.201-12          0.500000          1.4711+8          E2Y.Uozumi+            (11)E2365  3 
+ 1001 13027   6 204    3.0000+8          6.111-12          0.500000          1.5735+8          E2Y.Uozumi+            (11)E2365  3 
+ 1001 13027   6 204    3.0000+8          3.639-12          0.500000          1.6758+8          E2Y.Uozumi+            (11)E2365  3 
+ 1001 13027   6 204    3.0000+8          2.985-12          0.500000          1.7782+8          E2Y.Uozumi+            (11)E2365  3 
+#/DATA      14
+#/DATASET

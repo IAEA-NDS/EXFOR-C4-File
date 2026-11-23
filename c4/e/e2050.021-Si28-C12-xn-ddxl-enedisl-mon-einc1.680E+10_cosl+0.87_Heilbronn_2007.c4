@@ -1,0 +1,40 @@
+#ENTRY      E2050
+#AUTHOR1    L.Heilbronn+
+#YEAR       2007
+#INSTITUTE  (1USABRK)
+#TITLE      Secondary neutron-production cross sections from
+#+          heavy-ion interactions between 230 and 600 MeV/nucleon
+#AUTHOR(S)  L.Heilbronn, C.J.Zeitlin, Y.Iwata, T.Murakami, H.Iwase, 
+#+          T.Nakamura, T.Nunomiya, H.Sato, H.Yashima, R.M.Ronningen, 
+#+          K.Ieki
+#REF-CODE   (J,NSE,157,(2),142,200710)
+#REFERENCE  Nucl.Sci.Eng. 157 No.2 (2007) 142
+#DATASETS   0
+#
+#DATASET    E2050021 
+#DATE       20080131
+#REACTION   6-C-12(14-SI-28,X)0-NN-1,,DA/DE
+#PROJ       14028
+#TARG       6012
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [14028  6012   6 201 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+14028  6012   6 201 A  1.680+10          1.471-10 4.734-11 0.866025          9.2390+8 1.5010+8 E2L.Heilbronn+         (07)E2050 21 
+14028  6012   6 201 A  1.680+10          5.104-10 1.129-10 0.866025          6.8825+8 8.5550+7 E2L.Heilbronn+         (07)E2050 21 
+14028  6012   6 201 A  1.680+10          1.1470-9 2.464-10 0.866025          5.4680+8 5.5900+7 E2L.Heilbronn+         (07)E2050 21 
+14028  6012   6 201 A  1.680+10          1.4380-9 3.368-10 0.866025          4.5135+8 3.9550+7 E2L.Heilbronn+         (07)E2050 21 
+14028  6012   6 201 A  1.680+10          1.7910-9 5.188-10 0.866025          3.8225+8 2.9550+7 E2L.Heilbronn+         (07)E2050 21 
+14028  6012   6 201 A  1.680+10          2.6550-9 6.484-10 0.866025          3.2985+8 2.2850+7 E2L.Heilbronn+         (07)E2050 21 
+14028  6012   6 201 A  1.680+10          2.4390-9 8.529-10 0.866025          2.8875+8 1.8250+7 E2L.Heilbronn+         (07)E2050 21 
+14028  6012   6 201 A  1.680+10          2.5340-9 8.740-10 0.866025          2.5565+8 1.4850+7 E2L.Heilbronn+         (07)E2050 21 
+14028  6012   6 201 A  1.680+10          3.0860-9 8.272-10 0.866025          2.1815+8 2.2650+7 E2L.Heilbronn+         (07)E2050 21 
+14028  6012   6 201 A  1.680+10          1.8880-9 6.758-10 0.866025          1.4945+8 4.6050+7 E2L.Heilbronn+         (07)E2050 21 
+14028  6012   6 201 A  1.680+10          5.5660-9 1.7100-9 0.866025          9.7195+7 6205000. E2L.Heilbronn+         (07)E2050 21 
+14028  6012   6 201 A  1.680+10          2.8600-9 1.1010-9 0.866025          7.3570+7 1.7420+7 E2L.Heilbronn+         (07)E2050 21 
+14028  6012   6 201 A  1.680+10          2.5620-9 1.1900-9 0.866025          3.3140+7 2.3010+7 E2L.Heilbronn+         (07)E2050 21 
+#/DATA      13
+#/DATASET

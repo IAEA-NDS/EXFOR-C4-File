@@ -1,0 +1,35 @@
+#ENTRY      E2050
+#AUTHOR1    L.Heilbronn+
+#YEAR       2007
+#INSTITUTE  (1USABRK)
+#TITLE      Secondary neutron-production cross sections from
+#+          heavy-ion interactions between 230 and 600 MeV/nucleon
+#AUTHOR(S)  L.Heilbronn, C.J.Zeitlin, Y.Iwata, T.Murakami, H.Iwase, 
+#+          T.Nakamura, T.Nunomiya, H.Sato, H.Yashima, R.M.Ronningen, 
+#+          K.Ieki
+#REF-CODE   (J,NSE,157,(2),142,200710)
+#REFERENCE  Nucl.Sci.Eng. 157 No.2 (2007) 142
+#DATASETS   0
+#
+#DATASET    E2050003 
+#DATE       20080131
+#REACTION   29-CU-0(A,X)0-NN-1,,DA/DE
+#PROJ       2004
+#TARG       29000
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 2004 29000   6 201 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 29000   6 201 A  9.2000+8          3.822-10 6.385-11 0.500000          1.7394+8 8.4555+7 E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          1.6060-9 2.852-10 0.500000          7.6015+7 1.3375+7 E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          2.4400-9 4.429-10 0.500000          5.6275+7 6365000. E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          3.1550-9 5.187-10 0.500000          4.5335+7 4575000. E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          2.3890-9 4.584-10 0.500000          3.1075+7 9685000. E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          6.2750-9 1.2170-9 0.500000          1.7310+7 8600500. E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          1.4440-8 4.0840-9 0.500000          6866500. 1842500. E2L.Heilbronn+         (07)E2050  3 
+ 2004 29000   6 201 A  9.2000+8          3.1030-8 7.3740-9 0.500000          5625000. 1200000. E2L.Heilbronn+         (07)E2050  3 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      E2050
+#AUTHOR1    L.Heilbronn+
+#YEAR       2007
+#INSTITUTE  (1USABRK)
+#TITLE      Secondary neutron-production cross sections from
+#+          heavy-ion interactions between 230 and 600 MeV/nucleon
+#AUTHOR(S)  L.Heilbronn, C.J.Zeitlin, Y.Iwata, T.Murakami, H.Iwase, 
+#+          T.Nakamura, T.Nunomiya, H.Sato, H.Yashima, R.M.Ronningen, 
+#+          K.Ieki
+#REF-CODE   (J,NSE,157,(2),142,200710)
+#REFERENCE  Nucl.Sci.Eng. 157 No.2 (2007) 142
+#DATASETS   0
+#
+#DATASET    E2050007 
+#DATE       20080131
+#REACTION   6-C-12(36-KR-84,X)0-NN-1,,DA/DE
+#PROJ       36084
+#TARG       6012
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [36084  6012   6 201 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+36084  6012   6 201 A  3.360+10          1.1550-9 4.111-10 0.173648          1.3185+8 2.2250+7 E2L.Heilbronn+         (07)E2050  7 
+36084  6012   6 201 A  3.360+10          3.075-10 8.771-11 0.173648          2.6466+8 1.7444+8 E2L.Heilbronn+         (07)E2050  7 
+36084  6012   6 201 A  3.360+10          1.7400-9 6.116-10 0.173648          8.7085+7 2.2515+7 E2L.Heilbronn+         (07)E2050  7 
+36084  6012   6 201 A  3.360+10          2.8830-9 1.1320-9 0.173648          5.3735+7 1.0835+7 E2L.Heilbronn+         (07)E2050  7 
+#/DATA      4
+#/DATASET

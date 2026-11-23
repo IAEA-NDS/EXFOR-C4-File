@@ -1,0 +1,44 @@
+#ENTRY      E2269
+#AUTHOR1    D.Frekers+
+#YEAR       2015
+#INSTITUTE  (2GERMST)
+#TITLE      Precision evaluation of the 71Ga(nue,e-) solar
+#+          neutrino capture rate from the (3He,t) charge-exchange
+#+          reaction
+#AUTHOR(S)  D.Frekers, T.Adachi, H.Akimune, M.Alanssari, B.A.Brown, 
+#+          B.T.Cleveland, H.Ejiri, H.Fujita, Y.Fujita, M.Fujiwara, 
+#+          V.N.Gavrin, M.N.Harakeh, K.Hatanaka, M.Holl, C.Iwamoto, 
+#+          A.Lennarz, A.Okamoto, H.Okamura, T.Suzuki, A.Tamii
+#REF-CODE   (J,PR/C,91,034608,2015)
+#REFERENCE  Phys.Rev.C 91 (2015) 034608
+#DATASETS   0
+#
+#DATASET    E2269002 
+#DATE       20240625
+#REACTION   31-GA-71(HE3,T)32-GE-71,PAR,DA
+#PROJ       2003
+#TARG       31071
+#MF         4
+#MT         700
+#PRODUCT    32-GE-71
+#C4BEGIN    [ 2003 31071   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 31071   4 700  C 4.2000+8          1.3810-3 3.9980-5 0.999989          2352000.         LVLD.Frekers+           (15)E2269  2 
+ 2003 31071   4 700  C 4.2000+8          1.2950-3 3.8600-5 0.999903          2352000.         LVLD.Frekers+           (15)E2269  2 
+ 2003 31071   4 700  C 4.2000+8          9.9410-4 2.9630-5 0.999740          2352000.         LVLD.Frekers+           (15)E2269  2 
+ 2003 31071   4 700  C 4.2000+8          8.6850-4 3.6460-5 0.999482          2352000.         LVLD.Frekers+           (15)E2269  2 
+ 2003 31071   4 700  C 4.2000+8          7.8140-4 4.8890-5 0.999150          2352000.         LVLD.Frekers+           (15)E2269  2 
+ 2003 31071   4 700  C 4.2000+8          8.2380-4 4.2420-5 0.998726          2352000.         LVLD.Frekers+           (15)E2269  2 
+ 2003 31071   4 700  C 4.2000+8          6.8660-4 4.2960-5 0.998218          2352000.         LVLD.Frekers+           (15)E2269  2 
+ 2003 31071   4 700  C 4.2000+8          5.5580-4 3.4770-5 0.997637          2352000.         LVLD.Frekers+           (15)E2269  2 
+ 2003 31071   4 700  C 4.2000+8          4.4200-4 2.5210-5 0.996961          2352000.         LVLD.Frekers+           (15)E2269  2 
+ 2003 31071   4 700  C 4.2000+8          3.0710-4 2.2580-5 0.996199          2352000.         LVLD.Frekers+           (15)E2269  2 
+ 2003 31071   4 700  C 4.2000+8          2.0720-4 1.1820-5 0.995183          2352000.         LVLD.Frekers+           (15)E2269  2 
+ 2003 31071   4 700  C 4.2000+8          1.8210-4 1.1390-5 0.994439          2352000.         LVLD.Frekers+           (15)E2269  2 
+ 2003 31071   4 700  C 4.2000+8          1.4650-4 9.9700-6 0.993447          2352000.         LVLD.Frekers+           (15)E2269  2 
+ 2003 31071   4 700  C 4.2000+8          1.0000-4 7.3030-6 0.992349          2352000.         LVLD.Frekers+           (15)E2269  2 
+ 2003 31071   4 700  C 4.2000+8          6.7860-5 5.3570-6 0.991511          2352000.         LVLD.Frekers+           (15)E2269  2 
+#/DATA      15
+#/DATASET

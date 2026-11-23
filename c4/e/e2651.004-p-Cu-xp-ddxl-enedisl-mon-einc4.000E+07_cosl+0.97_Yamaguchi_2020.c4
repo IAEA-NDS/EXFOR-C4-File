@@ -1,0 +1,40 @@
+#ENTRY      E2651
+#AUTHOR1    Y.Yamaguchi+
+#YEAR       2020
+#INSTITUTE  (2JPNKYU)
+#TITLE      Low-energy-threshold detector for measuring proton
+#+          spectra at several tens of MeV using Bragg curve
+#+          spectroscopy
+#AUTHOR(S)  Y.Yamaguchi, T.Sanami, Y.Koba, Y.Uozumi
+#REF-CODE   (J,NIM/A,953,163158,2020)
+#REFERENCE  Nucl.Instrum.Meth.A 953 (2020) 163158
+#DATASETS   0
+#
+#DATASET    E2651004 
+#DATE       20200528
+#REACTION   29-CU-0(P,X)1-H-1,,DA/DE
+#PROJ       1001
+#TARG       29000
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001 29000   6 203 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29000   6 203 A  4.0000+7          1.5700-9 2.230-10 0.965926          1500000.          E2Y.Yamaguchi+         (20)E2651  4 
+ 1001 29000   6 203 A  4.0000+7          1.8700-9 2.270-10 0.965926          1700000.          E2Y.Yamaguchi+         (20)E2651  4 
+ 1001 29000   6 203 A  4.0000+7          2.5800-9 2.440-10 0.965926          1900000.          E2Y.Yamaguchi+         (20)E2651  4 
+ 1001 29000   6 203 A  4.0000+7          2.6700-9 2.290-10 0.965926          2100000.          E2Y.Yamaguchi+         (20)E2651  4 
+ 1001 29000   6 203 A  4.0000+7          8.8000-9 1.750-10 0.965926          4750000.          E2Y.Yamaguchi+         (20)E2651  4 
+ 1001 29000   6 203 A  4.0000+7          9.3200-9 1.850-10 0.965926          5250000.          E2Y.Yamaguchi+         (20)E2651  4 
+ 1001 29000   6 203 A  4.0000+7          9.9200-9 2.070-10 0.965926          5750000.          E2Y.Yamaguchi+         (20)E2651  4 
+ 1001 29000   6 203 A  4.0000+7          1.0400-8 2.280-10 0.965926          6250000.          E2Y.Yamaguchi+         (20)E2651  4 
+ 1001 29000   6 203 A  4.0000+7          1.0400-8 2.480-10 0.965926          6750000.          E2Y.Yamaguchi+         (20)E2651  4 
+ 1001 29000   6 203 A  4.0000+7          1.1200-8 2.720-10 0.965926          7250000.          E2Y.Yamaguchi+         (20)E2651  4 
+ 1001 29000   6 203 A  4.0000+7          7.8400-9 1.570-10 0.965926          9500000.          E2Y.Yamaguchi+         (20)E2651  4 
+ 1001 29000   6 203 A  4.0000+7          8.2800-9 1.630-10 0.965926          1.0500+7          E2Y.Yamaguchi+         (20)E2651  4 
+ 1001 29000   6 203 A  4.0000+7          8.0600-9 1.600-10 0.965926          1.1500+7          E2Y.Yamaguchi+         (20)E2651  4 
+ 1001 29000   6 203 A  4.0000+7          8.1300-9 1.650-10 0.965926          1.2500+7          E2Y.Yamaguchi+         (20)E2651  4 
+#/DATA      14
+#/DATASET

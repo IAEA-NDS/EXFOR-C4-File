@@ -1,0 +1,36 @@
+#ENTRY      E2301
+#AUTHOR1    Y.Oda+
+#YEAR       1971
+#INSTITUTE  (2JPNTIT)
+#TITLE      Elastic and inelastic scattering of protons on 14N in
+#+          the energy region of 10 to 15 MeV. I. Experimental
+#AUTHOR(S)  Y.Oda, H.Nakamura, A.Yoshida, M.Kusuhara, M.Murakami
+#REF-CODE   (J,JPJ,30,1217,1971)
+#REFERENCE  J.Phys.Soc.Jpn. 30 (1971) 1217
+#DATASETS   0
+#
+#DATASET    E2301002 
+#DATE       20181220
+#REACTION   7-N-14(P,EL)7-N-14,,DA
+#PROJ       1001
+#TARG       7014
+#MF         4
+#MT         2
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1001  7014   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7014   4   2  C 1.2500+7          0.269400          0.844608                              Y.Oda+               (71)E2301  2 
+ 1001  7014   4   2  C 1.2500+7          0.362900          0.837862                              Y.Oda+               (71)E2301  2 
+ 1001  7014   4   2  C 1.2500+7          0.075630          0.656059                              Y.Oda+               (71)E2301  2 
+ 1001  7014   4   2  C 1.2500+7          0.025610          0.433030                              Y.Oda+               (71)E2301  2 
+ 1001  7014   4   2  C 1.2500+7          0.050210         -0.092197                              Y.Oda+               (71)E2301  2 
+ 1001  7014   4   2  C 1.2500+7          0.042010         -0.345298                              Y.Oda+               (71)E2301  2 
+ 1001  7014   4   2  C 1.2500+7          0.018640         -0.525561                              Y.Oda+               (71)E2301  2 
+ 1001  7014   4   2  C 1.2500+7          0.024940         -0.570714                              Y.Oda+               (71)E2301  2 
+ 1001  7014   4   2  C 1.2500+7          0.020330         -0.764078                              Y.Oda+               (71)E2301  2 
+ 1001  7014   4   2  C 1.2500+7          0.029200         -0.898825                              Y.Oda+               (71)E2301  2 
+ 1001  7014   4   2  C 1.2500+7          0.043180         -0.953191                              Y.Oda+               (71)E2301  2 
+#/DATA      11
+#/DATASET

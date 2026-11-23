@@ -1,0 +1,35 @@
+#ENTRY      E2365
+#AUTHOR1    Y.Uozumi+
+#YEAR       2011
+#INSTITUTE  (2JPNKYU)
+#TITLE      Deuteron-production double-differential cross sections
+#+          for 300- and 392-MeV proton-induced reactions deduced
+#+          from experiment and model calculation
+#AUTHOR(S)  Y.Uozumi, Y.Sawada, A.Mzhavia, S.Nogamine, H.Iwamoto, T.Kin, 
+#+          S.Hohara, G.Wakabayashi, M.Nakano
+#REF-CODE   (J,PR/C,84,064617,201112)
+#REFERENCE  Phys.Rev.C 84 (2011) 064617
+#DATASETS   0
+#
+#DATASET    E2365004 
+#DATE       20120614
+#REACTION   41-NB-93(P,X)1-H-2,,DA/DE
+#PROJ       1001
+#TARG       41093
+#MF         6
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001 41093   6 204  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 41093   6 204    3.0000+8          4.049-11 1.960-12-0.258819          4.4000+7          E2Y.Uozumi+            (11)E2365  4 
+ 1001 41093   6 204    3.0000+8          3.041-11 1.710-12-0.258819          5.4000+7          E2Y.Uozumi+            (11)E2365  4 
+ 1001 41093   6 204    3.0000+8          2.293-11 1.490-12-0.258819          6.5000+7          E2Y.Uozumi+            (11)E2365  4 
+ 1001 41093   6 204    3.0000+8          1.314-11 1.130-12-0.258819          7.5000+7          E2Y.Uozumi+            (11)E2365  4 
+ 1001 41093   6 204    3.0000+8          1.087-11 1.030-12-0.258819          8.5000+7          E2Y.Uozumi+            (11)E2365  4 
+ 1001 41093   6 204    3.0000+8          4.245-12 6.510-13-0.258819          9.6000+7          E2Y.Uozumi+            (11)E2365  4 
+ 1001 41093   6 204    3.0000+8          2.194-12 4.700-13-0.258819          1.0600+8          E2Y.Uozumi+            (11)E2365  4 
+ 1001 41093   6 204    3.0000+8          5.472-13 2.360-13-0.258819          1.1600+8          E2Y.Uozumi+            (11)E2365  4 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,44 @@
+#ENTRY      E2719
+#AUTHOR1    H.Takeshita+
+#YEAR       2022
+#INSTITUTE  (2JPNJAE)
+#TITLE      Measurement of nuclide production cross sections for
+#+          proton-induced reactions on Mn and Co at 1.3, 2.2, and
+#+          3.0 GeV
+#AUTHOR(S)  H.Takeshita, S.Meigo, H.Matsuda, H.Iwamoto, K.Nakano, Y.Watanabe, 
+#+          F.Maekawa
+#REF-CODE   (J,NIM/B,511,30,2022)
+#REFERENCE  Nucl.Instrum.Meth.B 511 (2022) 30
+#DATASETS   0
+#
+#DATASET    E2719004 
+#DATE       20220620
+#REACTION   27-CO-59(P,X)ELEM/MASS,CUM,SIG
+#PROJ       1001
+#TARG       27059
+#MF         3
+#MT         459
+#C4BEGIN    [ 1001 27059   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 27059   3 459 A  3.0000+9          2.9351-3 6.9207-5           11022.9                     H.Takeshita+         (22)E2719  4 
+ 1001 27059   3 459 A  3.0000+9          4.0511-3 1.6640-4           11024.9                     H.Takeshita+         (22)E2719  4 
+ 1001 27059   3 459 A  3.0000+9          4.8478-4 1.1205-5           12028.9                     H.Takeshita+         (22)E2719  4 
+ 1001 27059   3 459 A  3.0000+9          7.7016-5 7.7855-6           16038.9                     H.Takeshita+         (22)E2719  4 
+ 1001 27059   3 459 A  3.0000+9          9.1724-4 2.7197-5           18041.9                     H.Takeshita+         (22)E2719  4 
+ 1001 27059   3 459 A  3.0000+9          1.5535-3 3.4879-5           19043.9                     H.Takeshita+         (22)E2719  4 
+ 1001 27059   3 459 A  3.0000+9          8.9398-5 2.6498-6           20047.9                     H.Takeshita+         (22)E2719  4 
+ 1001 27059   3 459 A  3.0000+9          3.5302-3 1.4130-4           21043.9                     H.Takeshita+         (22)E2719  4 
+ 1001 27059   3 459 A  3.0000+9          3.1694-3 7.3061-5           21047.9                     H.Takeshita+         (22)E2719  4 
+ 1001 27059   3 459 A  3.0000+9          0.011610 2.4637-4           23048.9                     H.Takeshita+         (22)E2719  4 
+ 1001 27059   3 459 A  3.0000+9          3.2642-4 1.0136-5           24048.9                     H.Takeshita+         (22)E2719  4 
+ 1001 27059   3 459 A  3.0000+9          0.023967 5.1804-4           24051.9                     H.Takeshita+         (22)E2719  4 
+ 1001 27059   3 459 A  3.0000+9          7.5581-3 1.9809-4           25052.0                     H.Takeshita+         (22)E2719  4 
+ 1001 27059   3 459 A  3.0000+9          6.0681-3 2.1271-4           25056.9                     H.Takeshita+         (22)E2719  4 
+ 1001 27059   3 459 A  3.0000+9          1.0316-4 4.3916-6           26052.0                     H.Takeshita+         (22)E2719  4 
+ 1001 27059   3 459 A  3.0000+9          9.1026-4 5.2623-5           27055.9                     H.Takeshita+         (22)E2719  4 
+ 1001 27059   3 459 A  3.0000+9          7.0805-3 1.5598-4           27056.9                     H.Takeshita+         (22)E2719  4 
+ 1001 27059   3 459 A  3.0000+9          0.026500 6.6537-4           27057.9                     H.Takeshita+         (22)E2719  4 
+#/DATA      18
+#/DATASET

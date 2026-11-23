@@ -1,0 +1,32 @@
+#ENTRY      E2514
+#AUTHOR1    R.Talwar+
+#YEAR       2016
+#INSTITUTE  (1USANOT)
+#TITLE      Probing astrophysically important states in the 26Mg
+#+          nucleus to study neutron sources for the s process
+#AUTHOR(S)  R.Talwar, T.Adachi, G.P.A.Berg, L.Bin, S.Bisterzo, M.Couder, 
+#+          R.J.deBoer, X.Fang, H.Fujita, Y.Fujita, J.Gorres, K.Hatanaka, 
+#+          T.Itoh, T.Kadoya, A.Long, K.Miki, D.Patel, M.Pignatari, 
+#+          Y.Shimbara, A.Tamii, M.Wiescher, T.Yamamoto, M.Yosoi
+#REF-CODE   (J,PR/C,93,055803,2016)
+#REFERENCE  Phys.Rev.C 93 (2016) 055803
+#DATASETS   0
+#
+#DATASET    E2514002 
+#DATE       20191216
+#REACTION   12-MG-26(A,INL)12-MG-26,PAR,DA
+#PROJ       2004
+#TARG       12026
+#MF         4
+#MT         801
+#PRODUCT    12-MG-26
+#C4BEGIN    [ 2004 12026   4 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 12026   4 801  C 2.0600+8          7.7920-5 4.3590-6 0.999971          8703000.         LVLR.Talwar+            (16)E2514  2 
+ 2004 12026   4 801  C 2.0600+8          8.7430-5 4.8910-6 0.996594          8703000.         LVLR.Talwar+            (16)E2514  2 
+ 2004 12026   4 801  C 2.0600+8          1.3860-4 7.7520-6 0.984808          8703000.         LVLR.Talwar+            (16)E2514  2 
+ 2004 12026   4 801  C 2.0600+8          6.6840-5 3.7390-6 0.974722          8703000.         LVLR.Talwar+            (16)E2514  2 
+#/DATA      4
+#/DATASET

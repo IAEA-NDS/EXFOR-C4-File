@@ -1,0 +1,37 @@
+#ENTRY      E2050
+#AUTHOR1    L.Heilbronn+
+#YEAR       2007
+#INSTITUTE  (1USABRK)
+#TITLE      Secondary neutron-production cross sections from
+#+          heavy-ion interactions between 230 and 600 MeV/nucleon
+#AUTHOR(S)  L.Heilbronn, C.J.Zeitlin, Y.Iwata, T.Murakami, H.Iwase, 
+#+          T.Nakamura, T.Nunomiya, H.Sato, H.Yashima, R.M.Ronningen, 
+#+          K.Ieki
+#REF-CODE   (J,NSE,157,(2),142,200710)
+#REFERENCE  Nucl.Sci.Eng. 157 No.2 (2007) 142
+#DATASETS   0
+#
+#DATASET    E2050017 
+#DATE       20080131
+#REACTION   82-PB-0(54-XE-132,X)0-NN-1,,DA/DE
+#PROJ       54132
+#TARG       82000
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [54132 82000   6 201 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+54132 82000   6 201 A  5.280+10          4.3810-9 2.5200-9 0.866025          8.3595+8 1.2465+8 E2L.Heilbronn+         (07)E2050 17 
+54132 82000   6 201 A  5.280+10          6.4550-9 3.9630-9 0.866025          6.3675+8 7.4550+7 E2L.Heilbronn+         (07)E2050 17 
+54132 82000   6 201 A  5.280+10          3.4330-8 8.9530-9 0.866025          5.1215+8 5.0050+7 E2L.Heilbronn+         (07)E2050 17 
+54132 82000   6 201 A  5.280+10          5.4200-8 1.3370-8 0.866025          4.2610+8 3.6000+7 E2L.Heilbronn+         (07)E2050 17 
+54132 82000   6 201 A  5.280+10          6.3160-8 1.7750-8 0.866025          3.4165+8 4.8450+7 E2L.Heilbronn+         (07)E2050 17 
+54132 82000   6 201 A  5.280+10          7.7880-8 2.2820-8 0.866025          2.1885+8 7.4350+7 E2L.Heilbronn+         (07)E2050 17 
+54132 82000   6 201 A  5.280+10          1.2640-7 3.7770-8 0.866025          1.1154+8 3.2955+7 E2L.Heilbronn+         (07)E2050 17 
+54132 82000   6 201 A  5.280+10          2.2810-7 6.8410-8 0.866025          6.6675+7 1.1915+7 E2L.Heilbronn+         (07)E2050 17 
+54132 82000   6 201 A  5.280+10          2.2330-7 8.8270-8 0.866025          4.6840+7 7920000. E2L.Heilbronn+         (07)E2050 17 
+54132 82000   6 201 A  5.280+10          1.6090-7 8.0900-8 0.866025          2.1982+7 1.6938+7 E2L.Heilbronn+         (07)E2050 17 
+#/DATA      10
+#/DATASET

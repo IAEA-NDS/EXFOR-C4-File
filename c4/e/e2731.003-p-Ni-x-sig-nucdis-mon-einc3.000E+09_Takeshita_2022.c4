@@ -1,0 +1,34 @@
+#ENTRY      E2731
+#AUTHOR1    H.Takeshita+
+#YEAR       2022
+#INSTITUTE  (2JPNKYU)
+#TITLE      Measurement of nuclide production cross sections for
+#+          proton-induced reactions on nat Ni and nat Zr at 0.4,
+#+          1.3, 2.2, and 3.0 GeV
+#AUTHOR(S)  H.Takeshita, S.Meigo, H.Matsuda, H.Iwamoto, K.Nakano, Y.Watanabe, 
+#+          F.Maekawa
+#REF-CODE   (J,NIM/B,527,17,2022)
+#REFERENCE  Nucl.Instrum.Meth.B 527 (2022) 17
+#DATASETS   0
+#
+#DATASET    E2731003 
+#DATE       20230307
+#REACTION   28-NI-0(P,X)ELEM/MASS,,SIG
+#PROJ       1001
+#TARG       28000
+#MF         3
+#MT         454
+#C4BEGIN    [ 1001 28000   3 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28000   3 454 A  3.0000+9          0.012648 4.6375-4            4007.9                     H.Takeshita+         (22)E2731  3 
+ 1001 28000   3 454 A  3.0000+9          2.3184-3 1.3557-4           19042.9                     H.Takeshita+         (22)E2731  3 
+ 1001 28000   3 454 A  3.0000+9          6.6204-3 2.7317-4           21044.0                     H.Takeshita+         (22)E2731  3 
+ 1001 28000   3 454 A  3.0000+9          6.7339-3 2.4217-4           21044.1                     H.Takeshita+         (22)E2731  3 
+ 1001 28000   3 454 A  3.0000+9          4.7191-3 1.6499-4           21046.9                     H.Takeshita+         (22)E2731  3 
+ 1001 28000   3 454 A  3.0000+9          2.1576-4 3.2370-5           21048.9                     H.Takeshita+         (22)E2731  3 
+ 1001 28000   3 454 A  3.0000+9          0.012234 5.1219-4           25054.9                     H.Takeshita+         (22)E2731  3 
+ 1001 28000   3 454 A  3.0000+9          0.019404 6.8098-4           27058.9                     H.Takeshita+         (22)E2731  3 
+#/DATA      8
+#/DATASET

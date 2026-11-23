@@ -1,0 +1,33 @@
+#ENTRY      E2301
+#AUTHOR1    Y.Oda+
+#YEAR       1971
+#INSTITUTE  (2JPNTIT)
+#TITLE      Elastic and inelastic scattering of protons on 14N in
+#+          the energy region of 10 to 15 MeV. I. Experimental
+#AUTHOR(S)  Y.Oda, H.Nakamura, A.Yoshida, M.Kusuhara, M.Murakami
+#REF-CODE   (J,JPJ,30,1217,1971)
+#REFERENCE  J.Phys.Soc.Jpn. 30 (1971) 1217
+#DATASETS   0
+#
+#DATASET    E2301002 
+#DATE       20181220
+#REACTION   7-N-14(P,EL)7-N-14,,DA
+#PROJ       1001
+#TARG       7014
+#MF         4
+#MT         2
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1001  7014   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7014   4   2  C 1.3290+7          0.292000          0.845280                              Y.Oda+               (71)E2301  2 
+ 1001  7014   4   2  C 1.3290+7          0.062010          0.610353                              Y.Oda+               (71)E2301  2 
+ 1001  7014   4   2  C 1.3290+7          0.041940          0.181171                              Y.Oda+               (71)E2301  2 
+ 1001  7014   4   2  C 1.3290+7          0.041970         -0.118057                              Y.Oda+               (71)E2301  2 
+ 1001  7014   4   2  C 1.3290+7          0.047780         -0.340215                              Y.Oda+               (71)E2301  2 
+ 1001  7014   4   2  C 1.3290+7          0.018640         -0.571530                              Y.Oda+               (71)E2301  2 
+ 1001  7014   4   2  C 1.3290+7          0.024540         -0.898825                              Y.Oda+               (71)E2301  2 
+ 1001  7014   4   2  C 1.3290+7          0.036660         -0.954240                              Y.Oda+               (71)E2301  2 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,42 @@
+#ENTRY      E0013
+#AUTHOR1    K.Hosono+
+#YEAR       1978
+#INSTITUTE  (2JPNOSA)
+#TITLE      Observation of isospin dependence on analyzing powers
+#+          in proton inelastic scattering
+#AUTHOR(S)  K.Hosono, M.Kondo, T.Saito, N.Matsuoka, S.Nagamachi, S.Kato, 
+#+          K.Ogino, Y.Kadota, T.Noro
+#REF-CODE   (J,PRL,41,(9),621,197808)
+#REFERENCE  Phys.Rev.Lett. 41 No.9 (1978) 621
+#DATASETS   0
+#
+#DATASET    E0013003 
+#DATE       20091023
+#REACTION   6-C-12(P,INL)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         601
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  6012   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 601  C 6.5000+7          2.7720-4          0.929133          1.2710+7         LVLK.Hosono+            (78)E0013  3 
+ 1001  6012   4 601  C 6.5000+7          2.4250-4          0.891323          1.2710+7         LVLK.Hosono+            (78)E0013  3 
+ 1001  6012   4 601  C 6.5000+7          1.9670-4          0.836573          1.2710+7         LVLK.Hosono+            (78)E0013  3 
+ 1001  6012   4 601  C 6.5000+7          1.7870-4          0.782717          1.2710+7         LVLK.Hosono+            (78)E0013  3 
+ 1001  6012   4 601  C 6.5000+7          1.5940-4          0.726215          1.2710+7         LVLK.Hosono+            (78)E0013  3 
+ 1001  6012   4 601  C 6.5000+7          1.3680-4          0.655664          1.2710+7         LVLK.Hosono+            (78)E0013  3 
+ 1001  6012   4 601  C 6.5000+7          1.1530-4          0.597625          1.2710+7         LVLK.Hosono+            (78)E0013  3 
+ 1001  6012   4 601  C 6.5000+7          8.8310-5          0.511593          1.2710+7         LVLK.Hosono+            (78)E0013  3 
+ 1001  6012   4 601  C 6.5000+7          6.6400-5          0.425463          1.2710+7         LVLK.Hosono+            (78)E0013  3 
+ 1001  6012   4 601  C 6.5000+7          4.4560-5          0.351678          1.2710+7         LVLK.Hosono+            (78)E0013  3 
+ 1001  6012   4 601  C 6.5000+7          2.4740-5          0.259156          1.2710+7         LVLK.Hosono+            (78)E0013  3 
+ 1001  6012   4 601  C 6.5000+7          2.3350-5          0.180519          1.2710+7         LVLK.Hosono+            (78)E0013  3 
+ 1001  6012   4 601  C 6.5000+7          1.7900-5 2.1550-6 0.106785          1.2710+7         LVLK.Hosono+            (78)E0013  3 
+ 1001  6012   4 601  C 6.5000+7          1.9660-5 1.7770-6 0.032109          1.2710+7         LVLK.Hosono+            (78)E0013  3 
+ 1001  6012   4 601  C 6.5000+7          1.6870-5 2.0960-6-0.094282          1.2710+7         LVLK.Hosono+            (78)E0013  3 
+ 1001  6012   4 601  C 6.5000+7          1.4490-5 1.8000-6-0.173648          1.2710+7         LVLK.Hosono+            (78)E0013  3 
+#/DATA      16
+#/DATASET

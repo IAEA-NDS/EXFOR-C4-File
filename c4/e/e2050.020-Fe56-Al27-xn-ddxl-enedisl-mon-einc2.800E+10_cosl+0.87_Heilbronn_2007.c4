@@ -1,0 +1,35 @@
+#ENTRY      E2050
+#AUTHOR1    L.Heilbronn+
+#YEAR       2007
+#INSTITUTE  (1USABRK)
+#TITLE      Secondary neutron-production cross sections from
+#+          heavy-ion interactions between 230 and 600 MeV/nucleon
+#AUTHOR(S)  L.Heilbronn, C.J.Zeitlin, Y.Iwata, T.Murakami, H.Iwase, 
+#+          T.Nakamura, T.Nunomiya, H.Sato, H.Yashima, R.M.Ronningen, 
+#+          K.Ieki
+#REF-CODE   (J,NSE,157,(2),142,200710)
+#REFERENCE  Nucl.Sci.Eng. 157 No.2 (2007) 142
+#DATASETS   0
+#
+#DATASET    E2050020 
+#DATE       20080131
+#REACTION   13-AL-27(26-FE-56,X)0-NN-1,,DA/DE
+#PROJ       26056
+#TARG       13027
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [26056 13027   6 201 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+26056 13027   6 201 A  2.800+10          9.713-10 2.918-10 0.866025          8.2645+8 1.2195+8 E2L.Heilbronn+         (07)E2050 20 
+26056 13027   6 201 A  2.800+10          2.3210-9 5.658-10 0.866025          6.3115+8 7.3350+7 E2L.Heilbronn+         (07)E2050 20 
+26056 13027   6 201 A  2.800+10          4.7010-9 1.3410-9 0.866025          5.0845+8 4.9350+7 E2L.Heilbronn+         (07)E2050 20 
+26056 13027   6 201 A  2.800+10          6.2530-9 1.7870-9 0.866025          4.2345+8 3.5650+7 E2L.Heilbronn+         (07)E2050 20 
+26056 13027   6 201 A  2.800+10          7.0150-9 1.7840-9 0.866025          3.0905+8 7.8750+7 E2L.Heilbronn+         (07)E2050 20 
+26056 13027   6 201 A  2.800+10          1.5100-8 4.1300-9 0.866025          2.0065+8 2.9650+7 E2L.Heilbronn+         (07)E2050 20 
+26056 13027   6 201 A  2.800+10          8.7590-9 3.3750-9 0.866025          9.5335+7 7.5665+7 E2L.Heilbronn+         (07)E2050 20 
+26056 13027   6 201 A  2.800+10          4.8220-8 2.2660-8 0.866025          1.4895+7 4775000. E2L.Heilbronn+         (07)E2050 20 
+#/DATA      8
+#/DATASET

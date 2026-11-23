@@ -1,0 +1,42 @@
+#ENTRY      E1294
+#AUTHOR1    Y.Sugiyama+
+#YEAR       1989
+#INSTITUTE  (2JPNJAE)
+#TITLE      Contribution of nucleon transfer to the elastic
+#+          scattering of 28Si+58.64Ni near the coulomb barrier
+#AUTHOR(S)  Y.Sugiyama, Y.Tomita, H.Ikezoe, K.Ideno, H.Fujita, T.Sugimitsu, 
+#+          N.Kato, S.Kubono, S.Landowne
+#REF-CODE   (J,PRL,62,1727,1989)
+#REFERENCE  Phys.Rev.Lett. 62 (1989) 1727
+#DATASETS   0
+#
+#DATASET    E1294002 
+#DATE       20190115
+#REACTION   28-NI-58(14-SI-28,EL)28-NI-58,,DA,,RTH
+#PROJ       14028
+#TARG       28058
+#MF         4
+#MT         2
+#PRODUCT    28-NI-58
+#C4BEGIN    [14028 28058   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+14028 28058   4   2  C 8.5001+7          1.127618          0.545926                              Y.Sugiyama+          (89)E1294  2 
+14028 28058   4   2  C 8.5001+7          0.516535          0.349128                              Y.Sugiyama+          (89)E1294  2 
+14028 28058   4   2  C 8.5001+7          0.280323          0.103990                              Y.Sugiyama+          (89)E1294  2 
+14028 28058   4   2  C 8.5001+7          0.250964          0.023647                              Y.Sugiyama+          (89)E1294  2 
+14028 28058   4   2  C 8.5001+7          0.211371         -0.068660                              Y.Sugiyama+          (89)E1294  2 
+14028 28058   4   2  C 8.5001+7          0.151815         -0.164858                              Y.Sugiyama+          (89)E1294  2 
+14028 28058   4   2  C 8.5001+7          0.114439         -0.247743                              Y.Sugiyama+          (89)E1294  2 
+14028 28058   4   2  C 8.5001+7          0.079848         -0.328059                              Y.Sugiyama+          (89)E1294  2 
+14028 28058   4   2  C 8.5001+7          0.055584         -0.405939                              Y.Sugiyama+          (89)E1294  2 
+14028 28058   4   2  C 8.5001+7          0.040102         -0.481188                              Y.Sugiyama+          (89)E1294  2 
+14028 28058   4   2  C 8.5001+7          0.027049         -0.552446                              Y.Sugiyama+          (89)E1294  2 
+14028 28058   4   2  C 8.5001+7          0.020788         -0.625624                              Y.Sugiyama+          (89)E1294  2 
+14028 28058   4   2  C 8.5001+7          0.014952         -0.693150                              Y.Sugiyama+          (89)E1294  2 
+14028 28058   4   2  C 8.5001+7          0.010904         -0.751022                              Y.Sugiyama+          (89)E1294  2 
+14028 28058   4   2  C 8.5001+7          7.1740-3         -0.854776                              Y.Sugiyama+          (89)E1294  2 
+14028 28058   4   2  C 8.5001+7          5.1385-3         -0.932437                              Y.Sugiyama+          (89)E1294  2 
+#/DATA      16
+#/DATASET

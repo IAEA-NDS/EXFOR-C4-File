@@ -1,0 +1,39 @@
+#ENTRY      E2050
+#AUTHOR1    L.Heilbronn+
+#YEAR       2007
+#INSTITUTE  (1USABRK)
+#TITLE      Secondary neutron-production cross sections from
+#+          heavy-ion interactions between 230 and 600 MeV/nucleon
+#AUTHOR(S)  L.Heilbronn, C.J.Zeitlin, Y.Iwata, T.Murakami, H.Iwase, 
+#+          T.Nakamura, T.Nunomiya, H.Sato, H.Yashima, R.M.Ronningen, 
+#+          K.Ieki
+#REF-CODE   (J,NSE,157,(2),142,200710)
+#REFERENCE  Nucl.Sci.Eng. 157 No.2 (2007) 142
+#DATASETS   0
+#
+#DATASET    E2050004 
+#DATE       20080131
+#REACTION   6-C-12(7-N-14,X)0-NN-1,,DA/DE
+#PROJ       7014
+#TARG       6012
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 7014  6012   6 201 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 7014  6012   6 201 A  5.6000+9          1.761-11 1.200-11 0.866025          8.9965+8 1.7735+8 E2L.Heilbronn+         (07)E2050  4 
+ 7014  6012   6 201 A  5.6000+9          7.889-11 4.105-11 0.866025          6.3120+8 9.1100+7 E2L.Heilbronn+         (07)E2050  4 
+ 7014  6012   6 201 A  5.6000+9          4.581-10 9.517-11 0.866025          4.8385+8 5.6250+7 E2L.Heilbronn+         (07)E2050  4 
+ 7014  6012   6 201 A  5.6000+9          9.880-10 1.687-10 0.866025          3.6150+8 6.6100+7 E2L.Heilbronn+         (07)E2050  4 
+ 7014  6012   6 201 A  5.6000+9          2.1230-9 3.653-10 0.866025          2.5795+8 3.7450+7 E2L.Heilbronn+         (07)E2050  4 
+ 7014  6012   6 201 A  5.6000+9          2.1730-9 4.319-10 0.866025          1.8755+8 3.2950+7 E2L.Heilbronn+         (07)E2050  4 
+ 7014  6012   6 201 A  5.6000+9          3.4470-9 6.744-10 0.866025          1.3505+8 1.9550+7 E2L.Heilbronn+         (07)E2050  4 
+ 7014  6012   6 201 A  5.6000+9          3.0550-9 8.170-10 0.866025          1.0282+8 1.2685+7 E2L.Heilbronn+         (07)E2050  4 
+ 7014  6012   6 201 A  5.6000+9          2.5290-9 7.273-10 0.866025          7.6845+7 1.3285+7 E2L.Heilbronn+         (07)E2050  4 
+ 7014  6012   6 201 A  5.6000+9          2.5780-9 7.072-10 0.866025          4.9350+7 1.4210+7 E2L.Heilbronn+         (07)E2050  4 
+ 7014  6012   6 201 A  5.6000+9          2.6150-9 1.4340-9 0.866025          2.2615+7 1.2525+7 E2L.Heilbronn+         (07)E2050  4 
+ 7014  6012   6 201 A  5.6000+9          2.9830-9 1.1590-9 0.866025          2.0102+7 1.5038+7 E2L.Heilbronn+         (07)E2050  4 
+#/DATA      12
+#/DATASET

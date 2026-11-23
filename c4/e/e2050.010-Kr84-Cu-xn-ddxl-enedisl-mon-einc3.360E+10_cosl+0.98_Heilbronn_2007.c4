@@ -1,0 +1,38 @@
+#ENTRY      E2050
+#AUTHOR1    L.Heilbronn+
+#YEAR       2007
+#INSTITUTE  (1USABRK)
+#TITLE      Secondary neutron-production cross sections from
+#+          heavy-ion interactions between 230 and 600 MeV/nucleon
+#AUTHOR(S)  L.Heilbronn, C.J.Zeitlin, Y.Iwata, T.Murakami, H.Iwase, 
+#+          T.Nakamura, T.Nunomiya, H.Sato, H.Yashima, R.M.Ronningen, 
+#+          K.Ieki
+#REF-CODE   (J,NSE,157,(2),142,200710)
+#REFERENCE  Nucl.Sci.Eng. 157 No.2 (2007) 142
+#DATASETS   0
+#
+#DATASET    E2050010 
+#DATE       20080131
+#REACTION   29-CU-0(36-KR-84,X)0-NN-1,,DA/DE
+#PROJ       36084
+#TARG       29000
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [36084 29000   6 201 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+36084 29000   6 201 A  3.360+10          1.1380-8 2.3060-9 0.984808          7.5210+8 9.2100+7 E2L.Heilbronn+         (07)E2050 10 
+36084 29000   6 201 A  3.360+10          3.1800-8 5.2160-9 0.984808          5.9970+8 6.0300+7 E2L.Heilbronn+         (07)E2050 10 
+36084 29000   6 201 A  3.360+10          6.8570-8 1.2010-8 0.984808          4.9670+8 4.2700+7 E2L.Heilbronn+         (07)E2050 10 
+36084 29000   6 201 A  3.360+10          1.5430-7 2.3390-8 0.984808          4.2205+8 3.1950+7 E2L.Heilbronn+         (07)E2050 10 
+36084 29000   6 201 A  3.360+10          1.1220-7 3.6000-8 0.984808          3.6530+8 2.4800+7 E2L.Heilbronn+         (07)E2050 10 
+36084 29000   6 201 A  3.360+10          1.0570-7 3.1590-8 0.984808          2.9105+8 4.9450+7 E2L.Heilbronn+         (07)E2050 10 
+36084 29000   6 201 A  3.360+10          1.5210-7 4.3520-8 0.984808          2.2060+8 2.1000+7 E2L.Heilbronn+         (07)E2050 10 
+36084 29000   6 201 A  3.360+10          7.2650-8 2.1740-8 0.984808          1.6700+8 3.2600+7 E2L.Heilbronn+         (07)E2050 10 
+36084 29000   6 201 A  3.360+10          4.3260-8 1.2890-8 0.984808          9.6705+7 3.7695+7 E2L.Heilbronn+         (07)E2050 10 
+36084 29000   6 201 A  3.360+10          4.3440-8 1.7060-8 0.984808          4.3160+7 2.1420+7 E2L.Heilbronn+         (07)E2050 10 
+36084 29000   6 201 A  3.360+10          4.3820-8 2.8470-8 0.984808          1.5940+7 5800000. E2L.Heilbronn+         (07)E2050 10 
+#/DATA      11
+#/DATASET

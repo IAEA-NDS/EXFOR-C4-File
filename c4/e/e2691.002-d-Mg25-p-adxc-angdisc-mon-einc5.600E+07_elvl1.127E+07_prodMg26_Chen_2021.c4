@@ -1,0 +1,37 @@
+#ENTRY      E2691
+#AUTHOR1    Y.Chen+
+#YEAR       2021
+#INSTITUTE  (1USANOT)
+#TITLE      Neutron transfer studies on 25Mg and its correlation
+#+          to neutron radiative capture processes
+#AUTHOR(S)  Y.Chen, G.P.A.Berg, R.J.deBoer, J.Goerres, H.Jung, A.Long, 
+#+          K.Seetedohnia, R.Talwar, M.Wiescher, S.Adachi, H.Fujita, 
+#+          Y.Fujita, K.Hatanaka, C.Iwamoto, B.Liu, S.Noji, H.-J.Ong, 
+#+          A.Tamii
+#REF-CODE   (J,PR/C,103,035809,2021)
+#REFERENCE  Phys.Rev.C 103 (2021) 035809
+#DATASETS   0
+#
+#DATASET    E2691002 
+#DATE       20220613
+#REACTION   12-MG-25(D,P)12-MG-26,PAR,DA
+#PROJ       1002
+#TARG       12025
+#MF         4
+#MT         600
+#PRODUCT    12-MG-26
+#C4BEGIN    [ 1002 12025   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 12025   4 600  C 5.6000+7          1.7100-4          0.999957          1.1267+7         LVLY.Chen+              (21)E2691  2 
+ 1002 12025   4 600  C 5.6000+7          1.7270-4          0.995773          1.1267+7         LVLY.Chen+              (21)E2691  2 
+ 1002 12025   4 600  C 5.6000+7          1.3860-4          0.983127          1.1267+7         LVLY.Chen+              (21)E2691  2 
+ 1002 12025   4 600  C 5.6000+7          8.1586-5          0.962170          1.1267+7         LVLY.Chen+              (21)E2691  2 
+ 1002 12025   4 600  C 5.6000+7          4.1958-5          0.933142          1.1267+7         LVLY.Chen+              (21)E2691  2 
+ 1002 12025   4 600  C 5.6000+7          1.7277-5          0.896332          1.1267+7         LVLY.Chen+              (21)E2691  2 
+ 1002 12025   4 600  C 5.6000+7          1.2469-5          0.852093          1.1267+7         LVLY.Chen+              (21)E2691  2 
+ 1002 12025   4 600  C 5.6000+7          1.2185-5          0.800836          1.1267+7         LVLY.Chen+              (21)E2691  2 
+ 1002 12025   4 600  C 5.6000+7          1.0849-5          0.743028          1.1267+7         LVLY.Chen+              (21)E2691  2 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      E1618
+#AUTHOR1    M.Nomachi+
+#YEAR       1985
+#INSTITUTE  (2JPNOSA)
+#TITLE      Medium energy gamma rays following radiative capture
+#+          of 50 MeV polarized protons on 11B
+#AUTHOR(S)  M.Nomachi, T.Shibata, K.Okada, T.Motobayashi, F.Ohtani, 
+#+          H.Ejiri, T.Kishimoto
+#REF-CODE   (J,PR/C,31,(1),242,198501)
+#REFERENCE  Phys.Rev.C 31 No.1 (1985) 242
+#DATASETS   0
+#
+#DATASET    E1618004 
+#DATE       20070514
+#REACTION   5-B-11(P,G)6-C-12,PAR,DA
+#PROJ       1001
+#TARG       5011
+#MF         4
+#MT         900
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  5011   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5011   4 900  C 5.0000+7          1.7710-7          0.758476          9640000.         LVLM.Nomachi+           (85)E1618  4 
+ 1001  5011   4 900  C 5.0000+7          1.7550-7          0.494094          9640000.         LVLM.Nomachi+           (85)E1618  4 
+ 1001  5011   4 900  C 5.0000+7          1.3870-7          0.182922          9640000.         LVLM.Nomachi+           (85)E1618  4 
+ 1001  5011   4 900  C 5.0000+7          6.9080-8         -0.325568          9640000.         LVLM.Nomachi+           (85)E1618  4 
+#/DATA      4
+#/DATASET

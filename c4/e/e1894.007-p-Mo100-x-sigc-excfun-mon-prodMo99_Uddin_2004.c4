@@ -1,0 +1,35 @@
+#ENTRY      E1894
+#AUTHOR1    M.S.Uddin+
+#YEAR       2004
+#INSTITUTE  (2JPNTOH)
+#TITLE      Experimental studies on the proton-induced activation
+#+          reactions of molybdenum in the energy range 22-67 MeV
+#AUTHOR(S)  M.S.Uddin, M.Hagiwara, F.Tarkanyi, F.Ditroi, M.Baba
+#REF-CODE   (J,ARI,60,911,2004)
+#REFERENCE  Appl.Radiat.Isot. 60 (2004) 911
+#DATASETS   0
+#
+#DATASET    E1894007 
+#DATE       20240504
+#REACTION   42-MO-100(P,X)42-MO-99,CUM,SIG,,A
+#PROJ       1001
+#TARG       42100
+#MF         3
+#MT         459
+#PRODUCT    42-MO-99
+#C4BEGIN    [ 1001 42100   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42100   3 459    2.2343+7          0.186679 0.014060           42099.9                     M.S.Uddin+           (04)E1894  7 
+ 1001 42100   3 459    2.9671+7          0.290230 0.031507           42099.9                     M.S.Uddin+           (04)E1894  7 
+ 1001 42100   3 459    3.5800+7          0.715004 0.076868           42099.9                     M.S.Uddin+           (04)E1894  7 
+ 1001 42100   3 459    4.1239+7          1.019499 0.108682           42099.9                     M.S.Uddin+           (04)E1894  7 
+ 1001 42100   3 459    4.6193+7          0.976704 0.104167           42099.9                     M.S.Uddin+           (04)E1894  7 
+ 1001 42100   3 459    5.0781+7          0.872024 0.092980           42099.9                     M.S.Uddin+           (04)E1894  7 
+ 1001 42100   3 459    5.5055+7          0.775452 0.082718           42099.9                     M.S.Uddin+           (04)E1894  7 
+ 1001 42100   3 459    5.9093+7          0.762418 0.081281           42099.9                     M.S.Uddin+           (04)E1894  7 
+ 1001 42100   3 459    6.2903+7          0.787254 0.083949           42099.9                     M.S.Uddin+           (04)E1894  7 
+ 1001 42100   3 459    6.6580+7          0.825636 0.088054           42099.9                     M.S.Uddin+           (04)E1894  7 
+#/DATA      10
+#/DATASET

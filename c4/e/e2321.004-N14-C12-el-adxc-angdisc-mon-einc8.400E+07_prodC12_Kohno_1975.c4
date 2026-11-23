@@ -1,0 +1,38 @@
+#ENTRY      E2321
+#AUTHOR1    I.Kohno+
+#YEAR       1975
+#INSTITUTE  (2JPNIPC)
+#TITLE      Elastic and inelastic scattering of 14N and 12C
+#+          projectiles by 12C and 28Si
+#AUTHOR(S)  I.Kohno
+#REF-CODE   (J,JPJ,38,(4),945,197504)
+#REFERENCE  J.Phys.Soc.Jpn. 38 No.4 (1975) 945
+#DATASETS   0
+#
+#DATASET    E2321004 
+#DATE       20160520
+#REACTION   6-C-12(7-N-14,EL)6-C-12,,DA,,RTH
+#PROJ       7014
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 7014  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 7014  6012   4   2  C 8.4000+7          1.234383          0.960245                              I.Kohno              (75)E2321  4 
+ 7014  6012   4   2  C 8.4000+7          0.347296          0.942408                              I.Kohno              (75)E2321  4 
+ 7014  6012   4   2  C 8.4000+7          0.245978          0.921389                              I.Kohno              (75)E2321  4 
+ 7014  6012   4   2  C 8.4000+7          0.013274          0.898871                              I.Kohno              (75)E2321  4 
+ 7014  6012   4   2  C 8.4000+7          0.060786          0.871556                              I.Kohno              (75)E2321  4 
+ 7014  6012   4   2  C 8.4000+7          0.020067          0.841888                              I.Kohno              (75)E2321  4 
+ 7014  6012   4   2  C 8.4000+7          5.9783-3          0.810553                              I.Kohno              (75)E2321  4 
+ 7014  6012   4   2  C 8.4000+7          0.015717          0.777036                              I.Kohno              (75)E2321  4 
+ 7014  6012   4   2  C 8.4000+7          3.9478-3          0.739043                              I.Kohno              (75)E2321  4 
+ 7014  6012   4   2  C 8.4000+7          5.6504-3          0.737159                              I.Kohno              (75)E2321  4 
+ 7014  6012   4   2  C 8.4000+7          3.7868-3          0.699539                              I.Kohno              (75)E2321  4 
+ 7014  6012   4   2  C 8.4000+7          4.6257-3          0.658427                              I.Kohno              (75)E2321  4 
+ 7014  6012   4   2  C 8.4000+7          7.8598-4          0.611251                              I.Kohno              (75)E2321  4 
+#/DATA      13
+#/DATASET

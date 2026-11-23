@@ -1,0 +1,35 @@
+#ENTRY      E2301
+#AUTHOR1    Y.Oda+
+#YEAR       1971
+#INSTITUTE  (2JPNTIT)
+#TITLE      Elastic and inelastic scattering of protons on 14N in
+#+          the energy region of 10 to 15 MeV. I. Experimental
+#AUTHOR(S)  Y.Oda, H.Nakamura, A.Yoshida, M.Kusuhara, M.Murakami
+#REF-CODE   (J,JPJ,30,1217,1971)
+#REFERENCE  J.Phys.Soc.Jpn. 30 (1971) 1217
+#DATASETS   0
+#
+#DATASET    E2301003 
+#DATE       20181220
+#REACTION   7-N-14(P,INL)7-N-14,PAR,DA
+#PROJ       1001
+#TARG       7014
+#MF         4
+#MT         601
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1001  7014   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7014   4 601  C 1.2500+7          1.5080-3          0.809437          7030000.         LVLY.Oda+               (71)E2301  3 
+ 1001  7014   4 601  C 1.2500+7          2.1600-3          0.628846          7030000.         LVLY.Oda+               (71)E2301  3 
+ 1001  7014   4 601  C 1.2500+7          2.4370-3          0.333856          7030000.         LVLY.Oda+               (71)E2301  3 
+ 1001  7014   4 601  C 1.2500+7          2.2010-3          0.076197          7030000.         LVLY.Oda+               (71)E2301  3 
+ 1001  7014   4 601  C 1.2500+7          2.4600-3         -0.191066          7030000.         LVLY.Oda+               (71)E2301  3 
+ 1001  7014   4 601  C 1.2500+7          2.6440-3         -0.428068          7030000.         LVLY.Oda+               (71)E2301  3 
+ 1001  7014   4 601  C 1.2500+7          2.6600-3         -0.664239          7030000.         LVLY.Oda+               (71)E2301  3 
+ 1001  7014   4 601  C 1.2500+7          2.2090-3         -0.815269          7030000.         LVLY.Oda+               (71)E2301  3 
+ 1001  7014   4 601  C 1.2500+7          1.5060-3         -0.927086          7030000.         LVLY.Oda+               (71)E2301  3 
+ 1001  7014   4 601  C 1.2500+7          1.1400-3         -0.978028          7030000.         LVLY.Oda+               (71)E2301  3 
+#/DATA      10
+#/DATASET

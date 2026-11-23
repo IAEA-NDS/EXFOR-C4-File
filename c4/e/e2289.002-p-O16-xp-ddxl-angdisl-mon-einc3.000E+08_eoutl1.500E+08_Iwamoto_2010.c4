@@ -1,0 +1,33 @@
+#ENTRY      E2289
+#AUTHOR1    H.Iwamoto+
+#YEAR       2010
+#INSTITUTE  (2JPNKYU)
+#TITLE      Proton-production double-differential cross sections
+#+          for 300-MeV and 392-MeV proton-induced reactions
+#AUTHOR(S)  H.Iwamoto, M.Imamura, Y.Koba, Y.Fukui, G.Wakabayashi, Y.Uozumi, 
+#+          T.Kin, Y.Iwamoto, S.Hohara, M.Nakano
+#REF-CODE   (J,PR/C,82,(3),034604,201009)
+#REFERENCE  Phys.Rev.C 82 No.3 (2010) 034604
+#DATASETS   0
+#
+#DATASET    E2289002 
+#DATE       20110518
+#REACTION   8-O-16(P,X)1-H-1,,DA/DE
+#PROJ       1001
+#TARG       8016
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001  8016   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   6 203    3.0000+8          5.600-10 5.740-11 0.866025          1.5000+8          E2H.Iwamoto+           (10)E2289  2 
+ 1001  8016   6 203    3.0000+8          6.000-10 3.460-11 0.766044          1.5000+8          E2H.Iwamoto+           (10)E2289  2 
+ 1001  8016   6 203    3.0000+8          3.250-10 2.140-11 0.642788          1.5000+8          E2H.Iwamoto+           (10)E2289  2 
+ 1001  8016   6 203    3.0000+8          1.520-10 3.860-12 0.500000          1.5000+8          E2H.Iwamoto+           (10)E2289  2 
+ 1001  8016   6 203    3.0000+8          3.990-11 1.640-12 0.258819          1.5000+8          E2H.Iwamoto+           (10)E2289  2 
+ 1001  8016   6 203    3.0000+8          2.060-11 7.750-12 6.123-17          1.5000+8          E2H.Iwamoto+           (10)E2289  2 
+ 1001  8016   6 203    3.0000+8          7.230-12 2.310-12-0.258819          1.5000+8          E2H.Iwamoto+           (10)E2289  2 
+#/DATA      7
+#/DATASET
