@@ -1,0 +1,34 @@
+#ENTRY      10899
+#AUTHOR1    D.M.Drake+
+#YEAR       1979
+#INSTITUTE  (1USALAS)
+#TITLE      Neutron scattering cross sections for Pu-242
+#AUTHOR(S)  D.M.Drake, M.Drosg, P.Lisowski, L.Veeser
+#REF-CODE   (R,LA-7855,1979)
+#REFERENCE  Report LA-7855, 1979
+#DATASETS   0
+#
+#DATASET    10899004 
+#DATE       20200229
+#REACTION   94-PU-242(N,INL)94-PU-242,PAR,DA
+#PROJ       1
+#TARG       94242
+#MF         4
+#MT         51
+#PRODUCT    94-PU-242
+#C4BEGIN    [    1 94242   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94242   4  51 A  1000000.          0.036000 6.0000-3 0.906308          148000.0         LVLD.M.Drake+           (79)10899  4 
+    1 94242   4  51 A  1000000.          0.032000 6.0000-3 0.866025          148000.0         LVLD.M.Drake+           (79)10899  4 
+    1 94242   4  51 A  1000000.          0.041000 5.0000-3 0.766044          148000.0         LVLD.M.Drake+           (79)10899  4 
+    1 94242   4  51 A  1000000.          0.034000 5.0000-3 0.573576          148000.0         LVLD.M.Drake+           (79)10899  4 
+    1 94242   4  51 A  1000000.          0.033000 6.0000-3 0.342020          148000.0         LVLD.M.Drake+           (79)10899  4 
+    1 94242   4  51 A  1000000.          0.023000 4.0000-3 6.123-17          148000.0         LVLD.M.Drake+           (79)10899  4 
+    1 94242   4  51 A  1000000.          0.035000 5.0000-3-0.173648          148000.0         LVLD.M.Drake+           (79)10899  4 
+    1 94242   4  51 A  1000000.          0.035000 5.0000-3-0.342020          148000.0         LVLD.M.Drake+           (79)10899  4 
+    1 94242   4  51 A  1000000.          0.029000 4.0000-3-0.500000          148000.0         LVLD.M.Drake+           (79)10899  4 
+    1 94242   4  51 A  1000000.          0.024000 4.0000-3-0.698415          148000.0         LVLD.M.Drake+           (79)10899  4 
+#/DATA      10
+#/DATASET

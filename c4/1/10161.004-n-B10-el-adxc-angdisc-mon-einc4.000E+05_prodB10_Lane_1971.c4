@@ -1,0 +1,31 @@
+#ENTRY      10161
+#AUTHOR1    R.O.Lane+
+#YEAR       1971
+#INSTITUTE  (1USAANL)
+#TITLE      11B States Observed in the Scattering of Neutrons
+#+          from 10B and in the 10B(n,alpha)7Li Reaction.
+#AUTHOR(S)  R.O.Lane, S.L.Hausladen, J.E.Monahan, A.J.Elwyn, F.P.Mooring, 
+#+          A.Langsdorf Jr
+#REF-CODE   (J,PR/C,4,380,197108)
+#REFERENCE  Phys.Rev.C 4 (1971) 380
+#DATASETS   0
+#
+#DATASET    10161004 
+#DATE       20001214
+#REACTION   5-B-10(N,EL)5-B-10,,DA
+#PROJ       1
+#TARG       5010
+#MF         4
+#MT         2
+#PRODUCT    5-B-10
+#C4BEGIN    [    1  5010   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5010   4   2 AC 400000.0          0.333000 2.0000-3 0.913545                              R.O.Lane+            (71)10161  4 
+    1  5010   4   2 AC 400000.0          0.317000 2.0000-3 0.515038                              R.O.Lane+            (71)10161  4 
+    1  5010   4   2 AC 400000.0          0.298000 2.0000-3-0.087156                              R.O.Lane+            (71)10161  4 
+    1  5010   4   2 AC 400000.0          0.287000 2.0000-3-0.629320                              R.O.Lane+            (71)10161  4 
+    1  5010   4   2 AC 400000.0          0.290000 3.0000-3-0.945519                              R.O.Lane+            (71)10161  4 
+#/DATA      5
+#/DATASET

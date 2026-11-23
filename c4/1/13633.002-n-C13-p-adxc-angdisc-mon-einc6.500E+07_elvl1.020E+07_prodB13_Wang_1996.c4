@@ -1,0 +1,34 @@
+#ENTRY      13633
+#AUTHOR1    K.Wang+
+#YEAR       1996
+#INSTITUTE  (1USADAV)
+#TITLE      Reaction 13C(n,p)13B at 65 MeV
+#AUTHOR(S)  K.Wang, C.J.Martoff, D.Pocanic, S.S.Hanna, F.P.Brady, J.L.Romero, 
+#+          C.M.Castaneda, J.R.Drummond, B.McEachern, D.S.Sorenson
+#REF-CODE   (J,PR/C,53,1718,1996)
+#REFERENCE  Phys.Rev.C 53 (1996) 1718
+#DATASETS   0
+#
+#DATASET    13633002 
+#DATE       19961028
+#REACTION   6-C-13(N,P)5-B-13,PAR,DA
+#PROJ       1
+#TARG       6013
+#MF         4
+#MT         600
+#PRODUCT    5-B-13
+#C4BEGIN    [    1  6013   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6013   4 600 AC 6.5000+7 350000.0 4.0100-3 8.0000-4 0.999263          1.0200+7         LVLK.Wang+              (96)13633  2 
+    1  6013   4 600 AC 6.5000+7 350000.0 3.3600-3 6.7000-4 0.993373          1.0200+7         LVLK.Wang+              (96)13633  2 
+    1  6013   4 600 AC 6.5000+7 350000.0 4.6500-3 9.3000-4 0.964095          1.0200+7         LVLK.Wang+              (96)13633  2 
+    1  6013   4 600 AC 6.5000+7 350000.0 4.3000-3 8.6000-4 0.940881          1.0200+7         LVLK.Wang+              (96)13633  2 
+    1  6013   4 600 AC 6.5000+7 350000.0 3.0000-3 6.0000-4 0.912120          1.0200+7         LVLK.Wang+              (96)13633  2 
+    1  6013   4 600 AC 6.5000+7 350000.0 1.7700-3 3.5000-4 0.877983          1.0200+7         LVLK.Wang+              (96)13633  2 
+    1  6013   4 600 AC 6.5000+7 350000.0 1.5500-3 3.1000-4 0.839146          1.0200+7         LVLK.Wang+              (96)13633  2 
+    1  6013   4 600 AC 6.5000+7 350000.0 8.5000-4 1.7000-4 0.795473          1.0200+7         LVLK.Wang+              (96)13633  2 
+    1  6013   4 600 AC 6.5000+7 350000.0 8.4000-4 1.7000-4 0.747798          1.0200+7         LVLK.Wang+              (96)13633  2 
+#/DATA      9
+#/DATASET

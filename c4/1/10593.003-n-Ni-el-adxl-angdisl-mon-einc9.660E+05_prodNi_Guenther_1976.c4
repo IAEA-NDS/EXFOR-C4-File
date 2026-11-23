@@ -1,0 +1,35 @@
+#ENTRY      10593
+#AUTHOR1    P.Guenther+
+#YEAR       1976
+#INSTITUTE  (1USAANL)
+#TITLE      Fast-Neutron Total and Scattering Cross Sections of
+#+          Elemental Nickel
+#AUTHOR(S)  P.Guenther, A.Smith, J.Whalen
+#REF-CODE   (J,NSE,59,106,1976)
+#REFERENCE  Nucl.Sci.Eng. 59 (1976) 106
+#DATASETS   0
+#
+#DATASET    10593003 
+#DATE       20210812
+#REACTION   28-NI-0(N,EL)28-NI-0,,DA
+#PROJ       1
+#TARG       28000
+#MF         4
+#MT         2
+#PRODUCT    28-NI-0
+#C4BEGIN    [    1 28000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28000   4   2 A  966000.0          0.588200 0.102582 0.939693                              P.Guenther+          (76)10593  3 
+    1 28000   4   2 A  966000.0          0.536300 0.082858 0.866025                              P.Guenther+          (76)10593  3 
+    1 28000   4   2 A  966000.0          0.407200 0.051714 0.707107                              P.Guenther+          (76)10593  3 
+    1 28000   4   2 A  966000.0          0.297700 0.031884 0.500000                              P.Guenther+          (76)10593  3 
+    1 28000   4   2 A  966000.0          0.210200 0.021020 0.258819                              P.Guenther+          (76)10593  3 
+    1 28000   4   2 A  966000.0          0.169800 0.020376 6.123-17                              P.Guenther+          (76)10593  3 
+    1 28000   4   2 A  966000.0          0.154400 0.019609-0.258819                              P.Guenther+          (76)10593  3 
+    1 28000   4   2 A  966000.0          0.168300 0.023562-0.500000                              P.Guenther+          (76)10593  3 
+    1 28000   4   2 A  966000.0          0.190200 0.026628-0.707107                              P.Guenther+          (76)10593  3 
+    1 28000   4   2 A  966000.0          0.203900 0.032624-0.819152                              P.Guenther+          (76)10593  3 
+#/DATA      10
+#/DATASET

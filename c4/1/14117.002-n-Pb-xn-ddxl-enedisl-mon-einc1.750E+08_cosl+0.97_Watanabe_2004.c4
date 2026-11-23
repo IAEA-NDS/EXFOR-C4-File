@@ -1,0 +1,35 @@
+#ENTRY      14117
+#AUTHOR1    T.Watanabe+
+#YEAR       2004
+#INSTITUTE  (2JPNKYU)
+#TITLE      Attempt to measure (n,xn) double-differential cross
+#+          sections for incident neutron energies above
+#+          100 MeV
+#AUTHOR(S)  T.Watanabe, S.Kunieda, N.Shigyo, K.Ishibashi, D.Satoh, Y.Iwamoto, 
+#+          T.Nakamura, R.C.Haight
+#REF-CODE   (C,2004SANTA,1,1062,2004)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn., Santa Fe 2004 1 page 1062
+#DATASETS   0
+#
+#DATASET    14117002 
+#DATE       20061117
+#REACTION   82-PB-0(N,X)0-NN-1,,DA/DE
+#PROJ       1
+#TARG       82000
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    1 82000   6 201 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   6 201 P  1.7500+8 2.5000+7 3.2230-9 3.6640-8 0.965926          4.9890+7          E2T.Watanabe+          (04)14117  2 
+    1 82000   6 201 P  1.7500+8 2.5000+7 3.8420-9 7.4490-9 0.965926          6.9820+7          E2T.Watanabe+          (04)14117  2 
+    1 82000   6 201 P  1.7500+8 2.5000+7 3.3480-9 3.5210-9 0.965926          8.9620+7          E2T.Watanabe+          (04)14117  2 
+    1 82000   6 201 P  1.7500+8 2.5000+7 3.8220-9 2.7300-9 0.965926          1.0990+8          E2T.Watanabe+          (04)14117  2 
+    1 82000   6 201 P  1.7500+8 2.5000+7 5.4650-9 2.3620-9 0.965926          1.2930+8          E2T.Watanabe+          (04)14117  2 
+    1 82000   6 201 P  1.7500+8 2.5000+7 8.1730-9 1.4790-8 0.965926          1.4990+8          E2T.Watanabe+          (04)14117  2 
+    1 82000   6 201 P  1.7500+8 2.5000+7 1.0690-8 4.0770-8 0.965926          1.6940+8          E2T.Watanabe+          (04)14117  2 
+    1 82000   6 201 P  1.7500+8 2.5000+7 6.8070-9 5.4670-8 0.965926          1.9940+8          E2T.Watanabe+          (04)14117  2 
+#/DATA      8
+#/DATASET

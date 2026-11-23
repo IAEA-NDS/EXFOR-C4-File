@@ -1,0 +1,35 @@
+#ENTRY      10904
+#AUTHOR1    A.B.Smith+
+#YEAR       1982
+#INSTITUTE  (1USAANL)
+#TITLE      NEUTRON TOTAL AND SCATTERING CROSS SECTIONS OF LI-6 IN
+#+          THE LOW MEV REGION.
+#AUTHOR(S)  A.B.Smith, P.T.Guenther, J.F.Whalen
+#REF-CODE   (J,NP/A,373,305,8201)
+#REFERENCE  Nucl.Phys.A 373 (1982) 305
+#DATASETS   0
+#
+#DATASET    10904002 
+#DATE       19830330
+#REACTION   3-LI-6(N,EL)3-LI-6,,DA
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [    1  3006   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4   2 AC 2400000.          0.143000 7.1500-3 0.895712                              A.B.Smith+           (82)10904  2 
+    1  3006   4   2 AC 2400000.          0.132000 6.6000-3 0.790155                              A.B.Smith+           (82)10904  2 
+    1  3006   4   2 AC 2400000.          0.119000 5.9500-3 0.562083                              A.B.Smith+           (82)10904  2 
+    1  3006   4   2 AC 2400000.          0.106000 5.3000-3 0.270600                              A.B.Smith+           (82)10904  2 
+    1  3006   4   2 AC 2400000.          0.103000 5.1500-3-0.017452                              A.B.Smith+           (82)10904  2 
+    1  3006   4   2 AC 2400000.          0.095100 4.7550-3-0.309017                              A.B.Smith+           (82)10904  2 
+    1  3006   4   2 AC 2400000.          0.090400 4.5200-3-0.544639                              A.B.Smith+           (82)10904  2 
+    1  3006   4   2 AC 2400000.          0.092700 4.6350-3-0.754710                              A.B.Smith+           (82)10904  2 
+    1  3006   4   2 AC 2400000.          0.092400 4.6200-3-0.906308                              A.B.Smith+           (82)10904  2 
+    1  3006   4   2 AC 2400000.          0.091100 4.5550-3-0.956305                              A.B.Smith+           (82)10904  2 
+#/DATA      10
+#/DATASET

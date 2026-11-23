@@ -1,0 +1,34 @@
+#ENTRY      12838
+#AUTHOR1    T.S.Subramanian+
+#YEAR       1983
+#INSTITUTE  (1USADAV)
+#TITLE      DOUBLE DIFFERENTIAL INCLUSIVE HYDROGEN AND HELIUM
+#+          SPECTRA FROM NEUTRON-INDUCED REACTIONS ON CARBON
+#+          27.4, 39.7, AND 60.7 MEV
+#AUTHOR(S)  T.S.Subramanian, J.L.Romero, F.P.Brady, J.W.Watson, D.H.Fitzgerald, 
+#+          R.Garrett, G.A.Needham, J.L.Ullman, C.I.Zanelli, D.J.Brenner, 
+#+          R.A.Prael
+#REF-CODE   (J,PR/C,28,521,8308)
+#REFERENCE  Phys.Rev.C 28 (1983) 521
+#DATASETS   0
+#
+#DATASET    12838006 
+#DATE       19851119
+#REACTION   6-C-12(N,X)2-HE-4,,DA/DE
+#PROJ       1
+#TARG       6012
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1  6012   6 207 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   6 207 A  2.7400+7          1.3900-9 3.900-10-0.866025          4000000.          E2T.S.Subramanian+     (83)12838  6 
+    1  6012   6 207 A  2.7400+7          3.500-10 3.200-10-0.866025          6000000.          E2T.S.Subramanian+     (83)12838  6 
+    1  6012   6 207 A  2.7400+7          6.600-10 2.200-10-0.866025          8000000.          E2T.S.Subramanian+     (83)12838  6 
+    1  6012   6 207 A  2.7400+7          2.400-10 2.200-10-0.866025          1.0000+7          E2T.S.Subramanian+     (83)12838  6 
+    1  6012   6 207 A  2.7400+7          3.700-10 9.000-11-0.866025          1.2000+7          E2T.S.Subramanian+     (83)12838  6 
+    1  6012   6 207 A  2.7400+7          6.000-11 5.000-11-0.866025          1.4000+7          E2T.S.Subramanian+     (83)12838  6 
+#/DATA      6
+#/DATASET

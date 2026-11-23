@@ -1,0 +1,34 @@
+#ENTRY      13146
+#AUTHOR1    D.A.Resler+
+#YEAR       1989
+#INSTITUTE  (1USAOHO)
+#TITLE      STRUCTURE OF 14C VIA ELASTIC AND INELASTIC NEUTRON
+#+          SCATTERING FROM 13C: MEASUREMENT, R-MATRIX ANALYSIS,
+#+          AND SHELL MODEL CALCULATIONS
+#AUTHOR(S)  D.A.Resler, H.D.Knox, P.E.Koehler, R.O.Lane, G.F.Auchampaugh
+#REF-CODE   (J,PR/C,39,766,8903)
+#REFERENCE  Phys.Rev.C 39 (1989) 766
+#DATASETS   0
+#
+#DATASET    13146002 
+#DATE       19890616
+#REACTION   6-C-13(N,EL)6-C-13,,DA
+#PROJ       1
+#TARG       6013
+#MF         4
+#MT         2
+#PRODUCT    6-C-13
+#C4BEGIN    [    1  6013   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6013   4   2  C 4690000.          0.227600 0.012200 0.930418                              D.A.Resler+          (89)13146  2 
+    1  6013   4   2  C 4690000.          0.118300 6.4000-3 0.767165                              D.A.Resler+          (89)13146  2 
+    1  6013   4   2  C 4690000.          0.053500 2.9000-3 0.523986                              D.A.Resler+          (89)13146  2 
+    1  6013   4   2  C 4690000.          0.041100 2.2000-3 0.230050                              D.A.Resler+          (89)13146  2 
+    1  6013   4   2  C 4690000.          0.050800 2.7000-3-0.076719                              D.A.Resler+          (89)13146  2 
+    1  6013   4   2  C 4690000.          0.053300 2.9000-3-0.371368                              D.A.Resler+          (89)13146  2 
+    1  6013   4   2  C 4690000.          0.064300 3.4000-3-0.640110                              D.A.Resler+          (89)13146  2 
+    1  6013   4   2  C 4690000.          0.090200 4.9000-3-0.821149                              D.A.Resler+          (89)13146  2 
+#/DATA      8
+#/DATASET

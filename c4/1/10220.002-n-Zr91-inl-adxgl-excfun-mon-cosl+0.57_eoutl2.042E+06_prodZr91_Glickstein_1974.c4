@@ -1,0 +1,28 @@
+#ENTRY      10220
+#AUTHOR1    S.S.Glickstein+
+#YEAR       1974
+#INSTITUTE  (1USABET)
+#TITLE      Neutron inelastic scattering from 91Zr
+#AUTHOR(S)  S.S.Glickstein, G.Tessler
+#REF-CODE   (J,PR/C,10,173,197407)
+#REFERENCE  Phys.Rev.C 10 (1974) 173
+#DATASETS   0
+#
+#DATASET    10220002 
+#DATE       20010305
+#REACTION   40-ZR-91(N,INL)40-ZR-91,PAR,DA,G,4PI
+#PROJ       1
+#TARG       40091
+#MF         14
+#MT         51
+#PRODUCT    40-ZR-91
+#C4BEGIN    [    1 40091  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40091  14  51 A  2070000.          7.1620-4 7.1620-5 0.573576          2042400. 500.0000   S.S.Glickstein+      (74)10220  2 
+    1 40091  14  51 A  2170000.          2.7852-3 2.7852-4 0.573576          2042400. 500.0000   S.S.Glickstein+      (74)10220  2 
+    1 40091  14  51 A  2270000.          5.0930-3 5.0930-4 0.573576          2042400. 500.0000   S.S.Glickstein+      (74)10220  2 
+    1 40091  14  51 A  2370000.          7.0824-3 7.0824-4 0.573576          2042400. 500.0000   S.S.Glickstein+      (74)10220  2 
+#/DATA      4
+#/DATASET

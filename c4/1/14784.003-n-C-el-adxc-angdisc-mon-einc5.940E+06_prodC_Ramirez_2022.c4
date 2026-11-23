@@ -1,0 +1,41 @@
+#ENTRY      14784
+#AUTHOR1    A.P.D.Ramirez+
+#YEAR       2022
+#INSTITUTE  (1USAKTY)
+#TITLE      Neutron elastic and inelastic scattering differential
+#+          cross sections on carbon
+#AUTHOR(S)  A.P.D.Ramirez, E.E.Peters, J.R.Vanhoy, S.F.Hicks, L.A.Alasagas, 
+#+          D.K.Alcorn-Dominguez, S.T.Block, S.T.Byrd, E.A.Chouinard, 
+#+          B.M.Combs, B.P.Crider, E.C.Derdyn, L.Downes, J.A.Erlanson, 
+#+          S.E.Evans, A.J.French, E.A.Garza, J.Girgis, T.D.Harrison, 
+#+          S.L.Henderson, T.J.Howard, D.T.Jackson, L.J.Kersting, A.Kumar, 
+#+          S.H.Liu, C.J.Lueck, E.M.Lyons, P.J.McDonough, M.T.McEllistrem, 
+#+          T.J.Morin, S.Mukhopadhyay, T.A.Nguyen, M.Nickel, S.Nigam, 
+#+          R.L.Pecha, F.M.Prados-Estevez, B.G.Rice, J.Potter, T.J.Ross, 
+#+          Z.C.Santonil, J.Schneiderjan, L.C.Sidwell, A.J.Sigillito, 
+#+          J.L.Steves, B.K.Thompson, D.W.Watts, Y.Xiao, S.W.Yates
+#REF-CODE   (J,NP/A,1023,122446,2022)
+#REFERENCE  Nucl.Phys.A 1023 (2022) 122446
+#DATASETS   0
+#
+#DATASET    14784003 
+#DATE       20220728
+#REACTION   6-C-0(N,EL)6-C-0,,DA
+#PROJ       1
+#TARG       6000
+#MF         4
+#MT         2
+#PRODUCT    6-C-0
+#C4BEGIN    [    1  6000   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6000   4   2 CC 5940000.          0.171310 0.014750 0.844234                              A.P.D.Ramirez+       (22)14784  3 
+    1  6000   4   2 CC 5940000.          0.138420 0.012290 0.790583                              A.P.D.Ramirez+       (22)14784  3 
+    1  6000   4   2 CC 5940000.          0.116240 0.010440 0.730162                              A.P.D.Ramirez+       (22)14784  3 
+    1  6000   4   2 CC 5940000.          0.040180 3.6700-3 0.435702                              A.P.D.Ramirez+       (22)14784  3 
+    1  6000   4   2 CC 5940000.          0.059910 5.4200-3-0.084026                              A.P.D.Ramirez+       (22)14784  3 
+    1  6000   4   2 CC 5940000.          0.068540 5.8700-3-0.561650                              A.P.D.Ramirez+       (22)14784  3 
+    1  6000   4   2 CC 5940000.          0.039750 3.4000-3-0.886284                              A.P.D.Ramirez+       (22)14784  3 
+#/DATA      7
+#/DATASET

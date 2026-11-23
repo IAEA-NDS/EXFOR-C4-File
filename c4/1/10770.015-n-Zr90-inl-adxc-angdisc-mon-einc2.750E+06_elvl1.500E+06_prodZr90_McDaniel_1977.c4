@@ -1,0 +1,41 @@
+#ENTRY      10770
+#AUTHOR1    F.D.McDaniel+
+#YEAR       1977
+#INSTITUTE  (1USAKTY)
+#TITLE      Neutron scattering - inelastic scattering cross
+#+          sections and mechanisms for nuclei with a around
+#+          90-100.
+#AUTHOR(S)  F.D.McDaniel, J.D.Brandenberger, G.P.Glasgow, M.T.McEllistrem, 
+#+          J.L.Weil
+#REF-CODE   (P,A-KTY-74/77,3,1977)
+#REFERENCE  Progress report A-KTY-74/77 page 3, 1977
+#DATASETS   0
+#
+#DATASET    10770015 
+#DATE       20100525
+#REACTION   40-ZR-90(N,INL)40-ZR-90,PAR,DA
+#PROJ       1
+#TARG       40090
+#MF         4
+#MT         51
+#PRODUCT    40-ZR-90
+#C4BEGIN    [    1 40090   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40090   4  51  C 2750000.          0.020740 3.7700-3 0.861895          1500000.         LVLF.D.McDaniel+        (77)10770 15 
+    1 40090   4  51  C 2750000.          0.020120 3.5200-3 0.759271          1500000.         LVLF.D.McDaniel+        (77)10770 15 
+    1 40090   4  51  C 2750000.          0.022430 3.7100-3 0.633111          1500000.         LVLF.D.McDaniel+        (77)10770 15 
+    1 40090   4  51  C 2750000.          0.021410 2.9300-3 0.487707          1500000.         LVLF.D.McDaniel+        (77)10770 15 
+    1 40090   4  51  C 2750000.          0.022660 2.9600-3 0.327548          1500000.         LVLF.D.McDaniel+        (77)10770 15 
+    1 40090   4  51  C 2750000.          0.019400 2.7700-3 0.157813          1500000.         LVLF.D.McDaniel+        (77)10770 15 
+    1 40090   4  51  C 2750000.          0.021610 3.4700-3-0.016405          1500000.         LVLF.D.McDaniel+        (77)10770 15 
+    1 40090   4  51  C 2750000.          0.018390 3.7600-3-0.189438          1500000.         LVLF.D.McDaniel+        (77)10770 15 
+    1 40090   4  51  C 2750000.          0.024380 2.7800-3-0.356412          1500000.         LVLF.D.McDaniel+        (77)10770 15 
+    1 40090   4  51  C 2750000.          0.019340 4.2600-3-0.512193          1500000.         LVLF.D.McDaniel+        (77)10770 15 
+    1 40090   4  51  C 2750000.          0.017250 3.5000-3-0.652363          1500000.         LVLF.D.McDaniel+        (77)10770 15 
+    1 40090   4  51  C 2750000.          0.017490 4.0900-3-0.772734          1500000.         LVLF.D.McDaniel+        (77)10770 15 
+    1 40090   4  51  C 2750000.          0.016920 3.2600-3-0.870098          1500000.         LVLF.D.McDaniel+        (77)10770 15 
+    1 40090   4  51  C 2750000.          0.016570 3.3200-3-0.909236          1500000.         LVLF.D.McDaniel+        (77)10770 15 
+#/DATA      14
+#/DATASET

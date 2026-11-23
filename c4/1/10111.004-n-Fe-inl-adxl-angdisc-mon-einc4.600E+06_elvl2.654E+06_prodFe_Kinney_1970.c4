@@ -1,0 +1,37 @@
+#ENTRY      10111
+#AUTHOR1    W.E.Kinney+
+#YEAR       1970
+#INSTITUTE  (1USAORL)
+#TITLE      Neutron elastic- and inelastic-scattering cross
+#+          sections for 56Fe in the energy range 4.19 to 8.56 MeV
+#AUTHOR(S)  W.E.Kinney, F.G.Perey
+#REF-CODE   (R,ORNL-4515,197006)
+#REFERENCE  Report ORNL-4515, 1970
+#DATASETS   0
+#
+#DATASET    10111004 
+#DATE       20000202
+#REACTION   26-FE-0(N,INL)26-FE-56,PAR,DA
+#PROJ       1
+#TARG       26000
+#MF         4
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26000   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26000   4  51 AC 4600000. 50000.00 8.1900-3          0.858871          2654000.         LVLW.E.Kinney+          (70)10111  4 
+    1 26000   4  51 AC 4600000. 50000.00 0.011810          0.718248          2654000.         LVLW.E.Kinney+          (70)10111  4 
+    1 26000   4  51 AC 4600000. 50000.00 0.011490          0.554554          2654000.         LVLW.E.Kinney+          (70)10111  4 
+    1 26000   4  51 AC 4600000. 50000.00 0.010480          0.350207          2654000.         LVLW.E.Kinney+          (70)10111  4 
+    1 26000   4  51 AC 4600000. 50000.00 0.010260          0.146428          2654000.         LVLW.E.Kinney+          (70)10111  4 
+    1 26000   4  51 AC 4600000. 50000.00 0.014800         -0.080199          2654000.         LVLW.E.Kinney+          (70)10111  4 
+    1 26000   4  51 AC 4600000. 50000.00 7.7200-3         -0.080373          2654000.         LVLW.E.Kinney+          (70)10111  4 
+    1 26000   4  51 AC 4600000. 50000.00 8.0900-3         -0.284852          2654000.         LVLW.E.Kinney+          (70)10111  4 
+    1 26000   4  51 AC 4600000. 50000.00 0.013050         -0.491208          2654000.         LVLW.E.Kinney+          (70)10111  4 
+    1 26000   4  51 AC 4600000. 50000.00 9.6100-3         -0.491208          2654000.         LVLW.E.Kinney+          (70)10111  4 
+    1 26000   4  51 AC 4600000. 50000.00 0.010470         -0.491208          2654000.         LVLW.E.Kinney+          (70)10111  4 
+    1 26000   4  51 AC 4600000. 50000.00 0.012110         -0.684420          2654000.         LVLW.E.Kinney+          (70)10111  4 
+#/DATA      12
+#/DATASET

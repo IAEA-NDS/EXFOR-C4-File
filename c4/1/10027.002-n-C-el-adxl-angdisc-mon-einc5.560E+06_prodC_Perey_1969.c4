@@ -1,0 +1,34 @@
+#ENTRY      10027
+#AUTHOR1    F.G.Perey+
+#YEAR       1969
+#INSTITUTE  (1USAORL)
+#TITLE      Carbon neutron elastic-and inelastic-scattering cross
+#+          sections from 4.5 to 8.5 MeV
+#AUTHOR(S)  F.G.Perey, W.E.Kinney
+#REF-CODE   (R,ORNL-4441,196912)
+#REFERENCE  Report ORNL-4441, 1969
+#DATASETS   0
+#
+#DATASET    10027002 
+#DATE       19990719
+#REACTION   6-C-0(N,EL)6-C-0,,DA
+#PROJ       1
+#TARG       6000
+#MF         4
+#MT         2
+#PRODUCT    6-C-0
+#C4BEGIN    [    1  6000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6000   4   2 AC 5560000. 50000.00 0.159250          0.844047                              F.G.Perey+           (69)10027  2 
+    1  6000   4   2 AC 5560000. 50000.00 0.104800          0.690756                              F.G.Perey+           (69)10027  2 
+    1  6000   4   2 AC 5560000. 50000.00 0.080640          0.577003                              F.G.Perey+           (69)10027  2 
+    1  6000   4   2 AC 5560000. 50000.00 0.055060          0.434760                              F.G.Perey+           (69)10027  2 
+    1  6000   4   2 AC 5560000. 50000.00 0.049000          0.178630                              F.G.Perey+           (69)10027  2 
+    1  6000   4   2 AC 5560000. 50000.00 0.071330         -0.084026                              F.G.Perey+           (69)10027  2 
+    1  6000   4   2 AC 5560000. 50000.00 0.094020         -0.336602                              F.G.Perey+           (69)10027  2 
+    1  6000   4   2 AC 5560000. 50000.00 0.089690         -0.533762                              F.G.Perey+           (69)10027  2 
+    1  6000   4   2 AC 5560000. 50000.00 0.068700         -0.714351                              F.G.Perey+           (69)10027  2 
+#/DATA      9
+#/DATASET

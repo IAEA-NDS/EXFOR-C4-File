@@ -1,0 +1,33 @@
+#ENTRY      11202
+#AUTHOR1    J.C.Hopkins+
+#YEAR       1969
+#INSTITUTE  (1USALAS)
+#TITLE      Elastic and inelastic scattering of fast neutrons from
+#+          B10, B11, natural Ge, and Nb93.
+#AUTHOR(S)  J.C.Hopkins, D.M.Drake
+#REF-CODE   (J,NSE,36,275,1969)
+#REFERENCE  Nucl.Sci.Eng. 36 (1969) 275
+#DATASETS   0
+#
+#DATASET    11202009 
+#DATE       20240213
+#REACTION   5-B-10(N,INL)5-B-10,PAR,DA
+#PROJ       1
+#TARG       5010
+#MF         4
+#MT         51
+#PRODUCT    5-B-10
+#C4BEGIN    [    1  5010   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5010   4  51  C 7550000. 120000.0 3.2300-3 5.3000-4 0.827000          3590000.         LVLJ.C.Hopkins+         (69)11202  9 
+    1  5010   4  51  C 7550000. 120000.0 2.2600-3 3.7000-4 0.716000          3590000.         LVLJ.C.Hopkins+         (69)11202  9 
+    1  5010   4  51  C 7550000. 120000.0 3.4200-3 5.6000-4 0.600000          3590000.         LVLJ.C.Hopkins+         (69)11202  9 
+    1  5010   4  51  C 7550000. 120000.0 2.5200-3 4.1000-4 0.471000          3590000.         LVLJ.C.Hopkins+         (69)11202  9 
+    1  5010   4  51  C 7550000. 120000.0 1.6900-3 2.8000-4 0.165000          3590000.         LVLJ.C.Hopkins+         (69)11202  9 
+    1  5010   4  51  C 7550000. 120000.0 1.4000-3 2.3000-4-0.146000          3590000.         LVLJ.C.Hopkins+         (69)11202  9 
+    1  5010   4  51  C 7550000. 120000.0 1.8900-3 3.1000-4-0.468000          3590000.         LVLJ.C.Hopkins+         (69)11202  9 
+    1  5010   4  51  C 7550000. 120000.0 2.5500-3 4.2000-4-0.767000          3590000.         LVLJ.C.Hopkins+         (69)11202  9 
+#/DATA      8
+#/DATASET

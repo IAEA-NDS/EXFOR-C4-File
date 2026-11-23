@@ -1,0 +1,34 @@
+#ENTRY      10473
+#AUTHOR1    L.E.Beghian+
+#YEAR       1979
+#INSTITUTE  (1USALTI)
+#TITLE      Neutron scattering cross sections of uranium-238
+#AUTHOR(S)  L.E.Beghian, G.H.R.Kegel, T.V.Marcella, B.K.Barnes, G.P.Couchell, 
+#+          J.J.Egan, A.Mittler, D.J.Pullen, W.A.Schier
+#REF-CODE   (J,NSE,69,191,197902)
+#REFERENCE  Nucl.Sci.Eng. 69 (1979) 191
+#DATASETS   0
+#
+#DATASET    10473005 
+#DATE       20031103
+#REACTION   92-U-238(N,EL)92-U-238,,DA
+#PROJ       1
+#TARG       92238
+#MF         4
+#MT         2
+#PRODUCT    92-U-238
+#C4BEGIN    [    1 92238   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   4   2 A  1900000.          0.329000 0.030000 0.707107 0.049365                     L.E.Beghian+         (79)10473  5 
+    1 92238   4   2 A  1900000.          0.044000 4.7000-3 0.500000 0.075575                     L.E.Beghian+         (79)10473  5 
+    1 92238   4   2 A  1900000.          0.088000 8.3000-3 0.258819 0.118010                     L.E.Beghian+         (79)10473  5 
+    1 92238   4   2 A  1900000.          0.177000 0.015000 6.123-17 0.122173                     L.E.Beghian+         (79)10473  5 
+    1 92238   4   2 A  1900000.          0.161000 0.013700-0.258819 0.118010                     L.E.Beghian+         (79)10473  5 
+    1 92238   4   2 A  1900000.          0.080500 6.9000-3-0.422618 0.110726                     L.E.Beghian+         (79)10473  5 
+    1 92238   4   2 A  1900000.          0.022400 2.3000-3-0.731354 0.119031                     L.E.Beghian+         (79)10473  5 
+    1 92238   4   2 A  1900000.          0.019400 2.1000-3-0.780430 0.120038                     L.E.Beghian+         (79)10473  5 
+    1 92238   4   2 A  1900000.          0.030000 3.1000-3-0.882948 0.073744                     L.E.Beghian+         (79)10473  5 
+#/DATA      9
+#/DATASET

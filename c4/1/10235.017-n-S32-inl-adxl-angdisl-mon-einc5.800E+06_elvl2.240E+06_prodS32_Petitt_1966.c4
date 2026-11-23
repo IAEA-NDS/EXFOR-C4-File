@@ -1,0 +1,34 @@
+#ENTRY      10235
+#AUTHOR1    G.A.Petitt+
+#YEAR       1966
+#INSTITUTE  (1USADKE)
+#TITLE      Elastic and inelastic neutron scattering by silicon
+#+          and sulphur
+#AUTHOR(S)  G.A.Petitt, S.G.Buccino, C.E.Hollandsworth, P.R.Bevington
+#REF-CODE   (J,NP,79,231,1966)
+#REFERENCE  Nucl.Phys. 79 (1966) 231
+#DATASETS   0
+#
+#DATASET    10235017 
+#DATE       20010309
+#REACTION   16-S-32(N,INL)16-S-32,PAR,DA,,A
+#PROJ       1
+#TARG       16032
+#MF         4
+#MT         51
+#PRODUCT    16-S-32
+#C4BEGIN    [    1 16032   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 16032   4  51    5800000. 240000.0 0.040063          0.866025          2240000.         LVLG.A.Petitt+          (66)10235 17 
+    1 16032   4  51    5800000. 240000.0 0.044280          0.707107          2240000.         LVLG.A.Petitt+          (66)10235 17 
+    1 16032   4  51    5800000. 240000.0 0.028466          0.500000          2240000.         LVLG.A.Petitt+          (66)10235 17 
+    1 16032   4  51    5800000. 240000.0 0.023195          0.258819          2240000.         LVLG.A.Petitt+          (66)10235 17 
+    1 16032   4  51    5800000. 240000.0 0.025303          6.123-17          2240000.         LVLG.A.Petitt+          (66)10235 17 
+    1 16032   4  51    5800000. 240000.0 0.022140         -0.258819          2240000.         LVLG.A.Petitt+          (66)10235 17 
+    1 16032   4  51    5800000. 240000.0 0.020032         -0.500000          2240000.         LVLG.A.Petitt+          (66)10235 17 
+    1 16032   4  51    5800000. 240000.0 0.022140         -0.707107          2240000.         LVLG.A.Petitt+          (66)10235 17 
+    1 16032   4  51    5800000. 240000.0 0.016869         -0.866025          2240000.         LVLG.A.Petitt+          (66)10235 17 
+#/DATA      9
+#/DATASET

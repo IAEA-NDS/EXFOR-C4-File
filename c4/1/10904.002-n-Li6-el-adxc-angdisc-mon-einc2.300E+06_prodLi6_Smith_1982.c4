@@ -1,0 +1,33 @@
+#ENTRY      10904
+#AUTHOR1    A.B.Smith+
+#YEAR       1982
+#INSTITUTE  (1USAANL)
+#TITLE      NEUTRON TOTAL AND SCATTERING CROSS SECTIONS OF LI-6 IN
+#+          THE LOW MEV REGION.
+#AUTHOR(S)  A.B.Smith, P.T.Guenther, J.F.Whalen
+#REF-CODE   (J,NP/A,373,305,8201)
+#REFERENCE  Nucl.Phys.A 373 (1982) 305
+#DATASETS   0
+#
+#DATASET    10904002 
+#DATE       19830330
+#REACTION   3-LI-6(N,EL)3-LI-6,,DA
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [    1  3006   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4   2 AC 2300000.          0.134000 0.016080 0.916363                              A.B.Smith+           (82)10904  2 
+    1  3006   4   2 AC 2300000.          0.149000 0.017880 0.819152                              A.B.Smith+           (82)10904  2 
+    1  3006   4   2 AC 2300000.          0.121000 0.014520 0.601815                              A.B.Smith+           (82)10904  2 
+    1  3006   4   2 AC 2300000.          0.112000 0.013440 0.315649                              A.B.Smith+           (82)10904  2 
+    1  3006   4   2 AC 2300000.          0.102000 0.012240 0.027922                              A.B.Smith+           (82)10904  2 
+    1  3006   4   2 AC 2300000.          0.093600 0.011232-0.275637                              A.B.Smith+           (82)10904  2 
+    1  3006   4   2 AC 2300000.          0.089000 0.010680-0.515038                              A.B.Smith+           (82)10904  2 
+    1  3006   4   2 AC 2300000.          0.087300 0.010476-0.719340                              A.B.Smith+           (82)10904  2 
+#/DATA      8
+#/DATASET

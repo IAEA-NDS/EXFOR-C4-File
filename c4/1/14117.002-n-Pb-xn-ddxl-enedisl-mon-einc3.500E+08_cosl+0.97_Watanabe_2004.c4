@@ -1,0 +1,42 @@
+#ENTRY      14117
+#AUTHOR1    T.Watanabe+
+#YEAR       2004
+#INSTITUTE  (2JPNKYU)
+#TITLE      Attempt to measure (n,xn) double-differential cross
+#+          sections for incident neutron energies above
+#+          100 MeV
+#AUTHOR(S)  T.Watanabe, S.Kunieda, N.Shigyo, K.Ishibashi, D.Satoh, Y.Iwamoto, 
+#+          T.Nakamura, R.C.Haight
+#REF-CODE   (C,2004SANTA,1,1062,2004)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn., Santa Fe 2004 1 page 1062
+#DATASETS   0
+#
+#DATASET    14117002 
+#DATE       20061117
+#REACTION   82-PB-0(N,X)0-NN-1,,DA/DE
+#PROJ       1
+#TARG       82000
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    1 82000   6 201 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   6 201 P  3.5000+8 5.0000+7 3.8220-9 3.0310-9 0.965926          4.9370+7          E2T.Watanabe+          (04)14117  2 
+    1 82000   6 201 P  3.5000+8 5.0000+7 4.1660-9          0.965926          6.8080+7          E2T.Watanabe+          (04)14117  2 
+    1 82000   6 201 P  3.5000+8 5.0000+7 2.6510-9          0.965926          8.8770+7          E2T.Watanabe+          (04)14117  2 
+    1 82000   6 201 P  3.5000+8 5.0000+7 2.5290-9          0.965926          1.0780+8          E2T.Watanabe+          (04)14117  2 
+    1 82000   6 201 P  3.5000+8 5.0000+7 2.6400-9          0.965926          1.2880+8          E2T.Watanabe+          (04)14117  2 
+    1 82000   6 201 P  3.5000+8 5.0000+7 3.4500-9          0.965926          1.4780+8          E2T.Watanabe+          (04)14117  2 
+    1 82000   6 201 P  3.5000+8 5.0000+7 3.7700-9          0.965926          1.6540+8          E2T.Watanabe+          (04)14117  2 
+    1 82000   6 201 P  3.5000+8 5.0000+7 2.6280-9          0.965926          1.8880+8          E2T.Watanabe+          (04)14117  2 
+    1 82000   6 201 P  3.5000+8 5.0000+7 2.1930-9          0.965926          2.0910+8          E2T.Watanabe+          (04)14117  2 
+    1 82000   6 201 P  3.5000+8 5.0000+7 1.1680-9          0.965926          2.3520+8          E2T.Watanabe+          (04)14117  2 
+    1 82000   6 201 P  3.5000+8 5.0000+7 1.1660-9          0.965926          2.6440+8          E2T.Watanabe+          (04)14117  2 
+    1 82000   6 201 P  3.5000+8 5.0000+7 1.1140-9 1.6210-9 0.965926          2.9580+8          E2T.Watanabe+          (04)14117  2 
+    1 82000   6 201 P  3.5000+8 5.0000+7 9.721-10 4.6320-9 0.965926          3.2930+8          E2T.Watanabe+          (04)14117  2 
+    1 82000   6 201 P  3.5000+8 5.0000+7 9.286-10 6.0800-9 0.965926          3.5550+8          E2T.Watanabe+          (04)14117  2 
+    1 82000   6 201 P  3.5000+8 5.0000+7 7.086-10 6.2930-9 0.965926          3.8770+8          E2T.Watanabe+          (04)14117  2 
+#/DATA      15
+#/DATASET

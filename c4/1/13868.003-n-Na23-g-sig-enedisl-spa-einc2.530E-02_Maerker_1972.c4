@@ -1,0 +1,35 @@
+#ENTRY      13868
+#AUTHOR1    R.E.Maerker+
+#YEAR       1972
+#INSTITUTE  (1USAORL)
+#TITLE      STD6. Experiment on secondary gamma-ray production
+#+          cross sections arising from thermal-neutron capture
+#+          in iron, stainless steel, nitrogen, and sodium
+#AUTHOR(S)  R.E.Maerker
+#REF-CODE   (R,ORNL-TM-3957,197210)
+#REFERENCE  Report ORNL-TM-3957, 1972
+#DATASETS   0
+#
+#DATASET    13868003 
+#DATE       20040409
+#REACTION   11-NA-23(N,G)11-NA-24,PAR,SIG,,AV/SPA
+#PROJ       1
+#TARG       11023
+#MF         3
+#MT         900
+#PRODUCT    11-NA-24
+#C4BEGIN    [    1 11023   3 900 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 11023   3 900 C  0.025300          0.076000 0.011400                   1750000. 250000.0 E2R.E.Maerker          (72)13868  3 
+    1 11023   3 900 C  0.025300          0.143000 0.021450                   2250000. 250000.0 E2R.E.Maerker          (72)13868  3 
+    1 11023   3 900 C  0.025300          0.076000 0.011400                   3250000. 250000.0 E2R.E.Maerker          (72)13868  3 
+    1 11023   3 900 C  0.025300          0.182000 0.027300                   3750000. 250000.0 E2R.E.Maerker          (72)13868  3 
+    1 11023   3 900 C  0.025300          0.034000 5.1000-3                   4250000. 250000.0 E2R.E.Maerker          (72)13868  3 
+    1 11023   3 900 C  0.025300          0.014000 2.1000-3                   4750000. 250000.0 E2R.E.Maerker          (72)13868  3 
+    1 11023   3 900 C  0.025300          0.012000 1.8000-3                   5250000. 250000.0 E2R.E.Maerker          (72)13868  3 
+    1 11023   3 900 C  0.025300          0.031000 4.6500-3                   5750000. 250000.0 E2R.E.Maerker          (72)13868  3 
+    1 11023   3 900 C  0.025300          0.115000 0.017250                   6250000. 250000.0 E2R.E.Maerker          (72)13868  3 
+#/DATA      9
+#/DATASET

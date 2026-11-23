@@ -1,0 +1,35 @@
+#ENTRY      13146
+#AUTHOR1    D.A.Resler+
+#YEAR       1989
+#INSTITUTE  (1USAOHO)
+#TITLE      STRUCTURE OF 14C VIA ELASTIC AND INELASTIC NEUTRON
+#+          SCATTERING FROM 13C: MEASUREMENT, R-MATRIX ANALYSIS,
+#+          AND SHELL MODEL CALCULATIONS
+#AUTHOR(S)  D.A.Resler, H.D.Knox, P.E.Koehler, R.O.Lane, G.F.Auchampaugh
+#REF-CODE   (J,PR/C,39,766,8903)
+#REFERENCE  Phys.Rev.C 39 (1989) 766
+#DATASETS   0
+#
+#DATASET    13146002 
+#DATE       19890616
+#REACTION   6-C-13(N,EL)6-C-13,,DA
+#PROJ       1
+#TARG       6013
+#MF         4
+#MT         2
+#PRODUCT    6-C-13
+#C4BEGIN    [    1  6013   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6013   4   2  C 6250000.          0.291600 0.015600 0.930418                              D.A.Resler+          (89)13146  2 
+    1  6013   4   2  C 6250000.          0.154500 8.2000-3 0.763796                              D.A.Resler+          (89)13146  2 
+    1  6013   4   2  C 6250000.          0.061700 3.3000-3 0.521010                              D.A.Resler+          (89)13146  2 
+    1  6013   4   2  C 6250000.          0.036200 1.9000-3 0.230050                              D.A.Resler+          (89)13146  2 
+    1  6013   4   2  C 6250000.          0.051700 2.8000-3-0.076719                              D.A.Resler+          (89)13146  2 
+    1  6013   4   2  C 6250000.          0.066600 3.6000-3-0.369747                              D.A.Resler+          (89)13146  2 
+    1  6013   4   2  C 6250000.          0.071400 3.8000-3-0.623880                              D.A.Resler+          (89)13146  2 
+    1  6013   4   2  C 6250000.          0.083700 4.5000-3-0.821149                              D.A.Resler+          (89)13146  2 
+    1  6013   4   2  C 6250000.          0.108200 5.8000-3-0.948324                              D.A.Resler+          (89)13146  2 
+#/DATA      9
+#/DATASET

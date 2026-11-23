@@ -1,0 +1,30 @@
+#ENTRY      10097
+#AUTHOR1    V.J.Orphan+
+#YEAR       1970
+#INSTITUTE  (1USAGA)
+#TITLE      Gamma-ray production cross sections for the
+#+          O16 (n,x gamma) reaction from 6.35- to 16.52-mev
+#+          neutron energy
+#AUTHOR(S)  V.J.Orphan, C.G.Hoot, J.John
+#REF-CODE   (J,NSE,42,352,197012)
+#REFERENCE  Nucl.Sci.Eng. 42 (1970) 352
+#DATASETS   0
+#
+#DATASET    10097002 
+#DATE       19991013
+#REACTION   8-O-16(N,INL)8-O-16,PAR,DA,G
+#PROJ       1
+#TARG       8016
+#MF         14
+#MT         51
+#PRODUCT    8-O-16
+#C4BEGIN    [    1  8016  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8016  14  51 A  1.0400+7 720000.0 2.0000-4 2.0000-4-0.573576          1760000.            V.J.Orphan+          (70)10097  2 
+    1  8016  14  51 A  1.2015+7 895000.0 4.0000-4 3.0000-4-0.573576          1760000.            V.J.Orphan+          (70)10097  2 
+    1  8016  14  51 A  1.3440+7 530000.0 4.0000-4 3.0000-4-0.573576          1760000.            V.J.Orphan+          (70)10097  2 
+    1  8016  14  51 A  1.5245+7 1275000. 5.0000-4 3.7500-4-0.573576          1760000.            V.J.Orphan+          (70)10097  2 
+#/DATA      4
+#/DATASET

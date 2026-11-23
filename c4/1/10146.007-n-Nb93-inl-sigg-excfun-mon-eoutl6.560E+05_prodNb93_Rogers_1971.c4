@@ -1,0 +1,28 @@
+#ENTRY      10146
+#AUTHOR1    V.C.Rogers+
+#YEAR       1971
+#INSTITUTE  (1USAMIT)
+#TITLE      Neutron Inelastic Scattering Cross Sections for Iron,
+#+          Nickel, Niobium and Tantalum from Threshold to 1.8 MeV
+#AUTHOR(S)  V.C.Rogers, L.E.Beghian, F.M.Clikeman
+#REF-CODE   (J,NSE,45,297,197109)
+#REFERENCE  Nucl.Sci.Eng. 45 (1971) 297
+#DATASETS   0
+#
+#DATASET    10146007 
+#DATE       19990811
+#REACTION   41-NB-93(N,INL)41-NB-93,PAR,SIG,G
+#PROJ       1
+#TARG       41093
+#MF         13
+#MT         51
+#PRODUCT    41-NB-93
+#C4BEGIN    [    1 41093  13  51 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 41093  13  51 C  1510000.          7.0000-3 1.7500-3                   656000.0            V.C.Rogers+          (71)10146  7 
+    1 41093  13  51 C  1690000.          0.016000 4.0000-3                   656000.0            V.C.Rogers+          (71)10146  7 
+    1 41093  13  51 C  1790000.          0.017000 4.2500-3                   656000.0            V.C.Rogers+          (71)10146  7 
+#/DATA      3
+#/DATASET

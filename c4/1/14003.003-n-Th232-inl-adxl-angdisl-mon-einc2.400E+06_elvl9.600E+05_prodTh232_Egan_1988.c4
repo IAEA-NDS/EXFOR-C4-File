@@ -1,0 +1,37 @@
+#ENTRY      14003
+#AUTHOR1    J.J.Egan+
+#YEAR       1988
+#INSTITUTE  (1USALTI)
+#TITLE      Inelastic Scattering Cross Sections of Vibrational
+#+          States in 232Th for Neutrons from 2.3 to 3.0 MeV
+#AUTHOR(S)  J.J.Egan, A.Aliyar, C.A.Horton, G.H.R.Kegel, G.Yue, A.Mittler
+#REF-CODE   (C,88MITO,,63,1988)
+#REFERENCE  Proceedings of Conf.on Nucl.Data For Sci.and Technol.,Mito 1988 page 63
+#DATASETS   0
+#
+#DATASET    14003003 
+#DATE       20050519
+#REACTION   90-TH-232(N,INL)90-TH-232,PAR,DA
+#PROJ       1
+#TARG       90232
+#MF         4
+#MT         51
+#PRODUCT    90-TH-232
+#C4BEGIN    [    1 90232   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   4  51    2400000.          4.3700-3 1.0300-3 0.907777          960000.0         LVLJ.J.Egan+            (88)14003  3 
+    1 90232   4  51    2400000.          3.7800-3 1.5500-3 0.822144          960000.0         LVLJ.J.Egan+            (88)14003  3 
+    1 90232   4  51    2400000.          5.8100-3 5.5700-4 0.707107          960000.0         LVLJ.J.Egan+            (88)14003  3 
+    1 90232   4  51    2400000.          4.3700-4 6.7600-4 0.570714          960000.0         LVLJ.J.Egan+            (88)14003  3 
+    1 90232   4  51    2400000.          4.0100-3 1.0300-3 0.414693          960000.0         LVLJ.J.Egan+            (88)14003  3 
+    1 90232   4  51    2400000.          1.9100-3 6.3600-4 0.252069          960000.0         LVLJ.J.Egan+            (88)14003  3 
+    1 90232   4  51    2400000.          2.7800-3 1.1100-3 0.078459          960000.0         LVLJ.J.Egan+            (88)14003  3 
+    1 90232   4  51    2400000.          2.6600-3 9.1500-4-0.094108          960000.0         LVLJ.J.Egan+            (88)14003  3 
+    1 90232   4  51    2400000.          1.5900-3 7.9600-4-0.258819          960000.0         LVLJ.J.Egan+            (88)14003  3 
+    1 90232   4  51    2400000.          1.1900-3 6.7600-4-0.406737          960000.0         LVLJ.J.Egan+            (88)14003  3 
+    1 90232   4  51    2400000.          1.5500-3 7.9600-4-0.559193          960000.0         LVLJ.J.Egan+            (88)14003  3 
+    1 90232   4  51    2400000.          3.7000-3 9.9500-4-0.694658          960000.0         LVLJ.J.Egan+            (88)14003  3 
+#/DATA      12
+#/DATASET

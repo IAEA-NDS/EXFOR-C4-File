@@ -1,0 +1,28 @@
+#ENTRY      14465
+#AUTHOR1    E.E.Peters+
+#YEAR       2017
+#INSTITUTE  (1USAKTY)
+#TITLE      Inelastic neutron scattering cross section
+#+          measurements for 134,136Xe of relevance to
+#+          neutrinoless double-beta decay searches
+#AUTHOR(S)  E.E.Peters, T.J.Ross, S.H.Liu, M.T.McEllistrem, S.W.Yates
+#REF-CODE   (J,PR/C,95,014325,2017)
+#REFERENCE  Phys.Rev.C 95 (2017) 014325
+#DATASETS   0
+#
+#DATASET    14465002 
+#DATE       20170209
+#REACTION   54-XE-134(N,INL)54-XE-134,PAR,SIG,G
+#PROJ       1
+#TARG       54134
+#MF         13
+#MT         51
+#PRODUCT    54-XE-134
+#C4BEGIN    [    1 54134  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 54134  13  51    3750000.          1.4000-3 8.4000-4                   2465000.            E.E.Peters+          (17)14465  2 
+    1 54134  13  51    4000000.          1.6300-3 5.7000-4                   2465000.            E.E.Peters+          (17)14465  2 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      14462
+#AUTHOR1    A.P.D.Ramirez+
+#YEAR       2017
+#INSTITUTE  (1USAKTY)
+#TITLE      Neutron scattering cross section measurements for 56Fe
+#AUTHOR(S)  A.P.D.Ramirez, J.R.Vanhoy, S.F.Hicks, M.T.McEllistrem, E.E.Peters, 
+#+          S.Mukhopadhyay, T.D.Harrison, T.J.Howard, D.T.Jackson, P.D.Lenzen, 
+#+          T.D.Nguyen, R.L.Pecha, B.G.Rice, B.K.Thompson, S.W.Yates
+#REF-CODE   (J,PR/C,95,064605,2017)
+#REFERENCE  Phys.Rev.C 95 (2017) 064605
+#DATASETS   0
+#
+#DATASET    14462002 
+#DATE       20170211
+#REACTION   26-FE-56(N,EL)26-FE-56,,DA
+#PROJ       1
+#TARG       26056
+#MF         4
+#MT         2
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056   4   2    7960000.          0.828280 0.076260 0.861452                              A.P.D.Ramirez+       (17)14462  2 
+    1 26056   4   2    7960000.          0.251080 0.023150 0.758589                              A.P.D.Ramirez+       (17)14462  2 
+    1 26056   4   2    7960000.          0.033040 3.1200-3 0.632165                              A.P.D.Ramirez+       (17)14462  2 
+    1 26056   4   2    7960000.          8.3800-3 8.9000-4 0.391695                              A.P.D.Ramirez+       (17)14462  2 
+    1 26056   4   2    7960000.          0.018010 1.7500-3 0.241922                              A.P.D.Ramirez+       (17)14462  2 
+    1 26056   4   2    7960000.          0.020170 1.9300-3-0.017976                              A.P.D.Ramirez+       (17)14462  2 
+    1 26056   4   2    7960000.          0.014160 1.3800-3-0.357879                              A.P.D.Ramirez+       (17)14462  2 
+    1 26056   4   2    7960000.          2.8300-3 6.6000-4-0.653288                              A.P.D.Ramirez+       (17)14462  2 
+    1 26056   4   2    7960000.          0.015220 1.5200-3-0.870528                              A.P.D.Ramirez+       (17)14462  2 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,48 @@
+#ENTRY      14784
+#AUTHOR1    A.P.D.Ramirez+
+#YEAR       2022
+#INSTITUTE  (1USAKTY)
+#TITLE      Neutron elastic and inelastic scattering differential
+#+          cross sections on carbon
+#AUTHOR(S)  A.P.D.Ramirez, E.E.Peters, J.R.Vanhoy, S.F.Hicks, L.A.Alasagas, 
+#+          D.K.Alcorn-Dominguez, S.T.Block, S.T.Byrd, E.A.Chouinard, 
+#+          B.M.Combs, B.P.Crider, E.C.Derdyn, L.Downes, J.A.Erlanson, 
+#+          S.E.Evans, A.J.French, E.A.Garza, J.Girgis, T.D.Harrison, 
+#+          S.L.Henderson, T.J.Howard, D.T.Jackson, L.J.Kersting, A.Kumar, 
+#+          S.H.Liu, C.J.Lueck, E.M.Lyons, P.J.McDonough, M.T.McEllistrem, 
+#+          T.J.Morin, S.Mukhopadhyay, T.A.Nguyen, M.Nickel, S.Nigam, 
+#+          R.L.Pecha, F.M.Prados-Estevez, B.G.Rice, J.Potter, T.J.Ross, 
+#+          Z.C.Santonil, J.Schneiderjan, L.C.Sidwell, A.J.Sigillito, 
+#+          J.L.Steves, B.K.Thompson, D.W.Watts, Y.Xiao, S.W.Yates
+#REF-CODE   (J,NP/A,1023,122446,2022)
+#REFERENCE  Nucl.Phys.A 1023 (2022) 122446
+#DATASETS   0
+#
+#DATASET    14784005 
+#DATE       20220728
+#REACTION   6-C-0(N,INL)6-C-0,PAR,DA
+#PROJ       1
+#TARG       6000
+#MF         4
+#MT         51
+#PRODUCT    6-C-0
+#C4BEGIN    [    1  6000   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6000   4  51  C 6100000.          0.028320 2.3300-3 0.817145          847000.0         LVLA.P.D.Ramirez+       (22)14784  5 
+    1  6000   4  51  C 6100000.          0.026450 2.1900-3 0.754710          847000.0         LVLA.P.D.Ramirez+       (22)14784  5 
+    1  6000   4  51  C 6100000.          0.025820 2.1200-3 0.684547          847000.0         LVLA.P.D.Ramirez+       (22)14784  5 
+    1  6000   4  51  C 6100000.          0.022570 1.8900-3 0.528438          847000.0         LVLA.P.D.Ramirez+       (22)14784  5 
+    1  6000   4  51  C 6100000.          0.019990 1.6700-3 0.356738          847000.0         LVLA.P.D.Ramirez+       (22)14784  5 
+    1  6000   4  51  C 6100000.          0.017570 1.4800-3 0.175367          847000.0         LVLA.P.D.Ramirez+       (22)14784  5 
+    1  6000   4  51  C 6100000.          0.015090 1.2600-3 6.9813-3          847000.0         LVLA.P.D.Ramirez+       (22)14784  5 
+    1  6000   4  51  C 6100000.          0.015540 1.3100-3-0.182236          847000.0         LVLA.P.D.Ramirez+       (22)14784  5 
+    1  6000   4  51  C 6100000.          0.014190 1.2000-3-0.348572          847000.0         LVLA.P.D.Ramirez+       (22)14784  5 
+    1  6000   4  51  C 6100000.          0.016080 1.4900-3-0.498488          847000.0         LVLA.P.D.Ramirez+       (22)14784  5 
+    1  6000   4  51  C 6100000.          0.015580 1.4200-3-0.630676          847000.0         LVLA.P.D.Ramirez+       (22)14784  5 
+    1  6000   4  51  C 6100000.          0.016530 1.6200-3-0.744312          847000.0         LVLA.P.D.Ramirez+       (22)14784  5 
+    1  6000   4  51  C 6100000.          0.015850 1.3800-3-0.836764          847000.0         LVLA.P.D.Ramirez+       (22)14784  5 
+    1  6000   4  51  C 6100000.          0.016360 1.6000-3-0.931056          847000.0         LVLA.P.D.Ramirez+       (22)14784  5 
+#/DATA      14
+#/DATASET

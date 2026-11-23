@@ -1,0 +1,26 @@
+#ENTRY      10010
+#AUTHOR1    A.B.Smith+
+#YEAR       1970
+#INSTITUTE  (1USAANL)
+#TITLE      Fast-neutron total and scattering cross sections of
+#+          bismuth.
+#AUTHOR(S)  A.B.Smith, J.F.Whalen, E.Barnard, J.A.M.De Villiers, D.Reitmann
+#REF-CODE   (J,NSE,41,63,197007)
+#REFERENCE  Nucl.Sci.Eng. 41 (1970) 63
+#DATASETS   0
+#
+#DATASET    10010004 
+#DATE       19990617
+#REACTION   83-BI-209(N,INL)83-BI-209,PAR,DA
+#PROJ       1
+#TARG       83209
+#MF         4
+#MT         51
+#PRODUCT    83-BI-209
+#C4BEGIN    [    1 83209   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 83209   4  51 A  1090000. 10000.00 0.012500 1.7000-3-0.819152          895000.0         LVLA.B.Smith+           (70)10010  4 
+#/DATA      1
+#/DATASET

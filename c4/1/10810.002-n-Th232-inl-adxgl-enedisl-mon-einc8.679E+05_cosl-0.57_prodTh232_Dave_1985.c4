@@ -1,0 +1,36 @@
+#ENTRY      10810
+#AUTHOR1    J.H.Dave+
+#YEAR       1985
+#INSTITUTE  (1USALTI)
+#TITLE      Cross sections, transition schemes, and branching
+#+          ratios for 232Th from the 232Th(n,n'gamma) reaction
+#AUTHOR(S)  J.H.Dave, J.J.Egan, G.P.Couchell, G.H.R.Kegel, A.Mittler, 
+#+          D.J.Pullen, W.A.Schier, E.Sheldon
+#REF-CODE   (J,NSE,91,187,198510)
+#REFERENCE  Nucl.Sci.Eng. 91 (1985) 187
+#DATASETS   0
+#
+#DATASET    10810002 
+#DATE       19860623
+#REACTION   90-TH-232(N,INL)90-TH-232,PAR,DA,G
+#PROJ       1
+#TARG       90232
+#MF         14
+#MT         51
+#PRODUCT    90-TH-232
+#C4BEGIN    [    1 90232  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232  14  51 A  867900.0          5.2900-3 6.8000-4-0.573576          611810.0            J.H.Dave+            (85)10810  2 
+    1 90232  14  51 A  867900.0          0.013570 1.5500-3-0.573576          664830.0            J.H.Dave+            (85)10810  2 
+    1 90232  14  51 A  867900.0          4.7700-3 4.1000-4-0.573576          680900.0            J.H.Dave+            (85)10810  2 
+    1 90232  14  51 A  867900.0          2.1600-3 3.3000-4-0.573576          714240.0            J.H.Dave+            (85)10810  2 
+    1 90232  14  51 A  867900.0          7.4000-4 2.0000-4-0.573576          724620.0            J.H.Dave+            (85)10810  2 
+    1 90232  14  51 A  867900.0          7.1000-4 3.1000-4-0.573576          727520.0            J.H.Dave+            (85)10810  2 
+    1 90232  14  51 A  867900.0          6.3000-3 7.5000-4-0.573576          735920.0            J.H.Dave+            (85)10810  2 
+    1 90232  14  51 A  867900.0          3.7200-3 6.8000-4-0.573576          774090.0            J.H.Dave+            (85)10810  2 
+    1 90232  14  51 A  867900.0          1.1200-3 2.7000-4-0.573576          780120.0            J.H.Dave+            (85)10810  2 
+    1 90232  14  51 A  867900.0          5.3600-3 4.8000-4-0.573576          785210.0            J.H.Dave+            (85)10810  2 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      10331
+#AUTHOR1    W.P.Bucher+
+#YEAR       1974
+#INSTITUTE  (1USABRL)
+#TITLE      Small-Angle Scattering of 7.4 to 9.5-MeV Neutrons from
+#+          Nitrogen and Oxygen.
+#AUTHOR(S)  W.P.Bucher, C.E.Hollandsworth, D.Mc Natt, R.Lamoreaux, A.Niiler, 
+#+          J.E.Youngblood
+#REF-CODE   (J,NSE,54,416,1974)
+#REFERENCE  Nucl.Sci.Eng. 54 (1974) 416
+#DATASETS   0
+#
+#DATASET    10331004 
+#DATE       20020926
+#REACTION   8-O-16(N,EL)8-O-16,,DA
+#PROJ       1
+#TARG       8016
+#MF         4
+#MT         2
+#PRODUCT    8-O-16
+#C4BEGIN    [    1  8016   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8016   4   2 AC 7550000. 30000.00 0.314000 0.050240 0.998806                              W.P.Bucher+          (74)10331  4 
+    1  8016   4   2 AC 7550000. 30000.00 0.267000 0.037380 0.992115                              W.P.Bucher+          (74)10331  4 
+    1  8016   4   2 AC 7550000. 30000.00 0.251000 0.035140 0.979925                              W.P.Bucher+          (74)10331  4 
+    1  8016   4   2 AC 7550000. 30000.00 0.170000 0.023800 0.965473                              W.P.Bucher+          (74)10331  4 
+#/DATA      4
+#/DATASET

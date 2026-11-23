@@ -1,0 +1,43 @@
+#ENTRY      14451
+#AUTHOR1    J.R.Vanhoy+
+#YEAR       2018
+#INSTITUTE  (1USADLS)
+#TITLE      54Fe neutron elastic and inelastic scattering
+#+          differential cross sections from 2 - 6 MeV
+#AUTHOR(S)  J.R.Vanhoy, S.H.Liu, S.F.Hicks, B.M.Combs, B.P.Crider, A.J.French, 
+#+          E.A.Garza, T.Harrison, S.L.Henderson, T.J.Howard, M.T.McEllistrem, 
+#+          S.Nigam, R.L.Pecha, E.E.Peters, F.M.Prados-Estevez, A.P.D.Ramirez, 
+#+          B.G.Rice, T.J.Ross, Z.C.Santonil, L.C.Sidwell, J.L.Steves, 
+#+          B.K.Thompson, S.W.Yates
+#REF-CODE   (J,NP/A,972,107,2018)
+#REFERENCE  Nucl.Phys.A 972 (2018) 107
+#DATASETS   0
+#
+#DATASET    14451008 
+#DATE       20220109
+#REACTION   26-FE-54(N,EL)26-FE-54,,DA
+#PROJ       1
+#TARG       26054
+#MF         4
+#MT         2
+#PRODUCT    26-FE-54
+#C4BEGIN    [    1 26054   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26054   4   2  C 3000000.          0.794500 0.072200 0.859852                              J.R.Vanhoy+          (18)14451  8 
+    1 26054   4   2  C 3000000.          0.678300 0.061600 0.810042                              J.R.Vanhoy+          (18)14451  8 
+    1 26054   4   2  C 3000000.          0.499400 0.045400 0.754710                              J.R.Vanhoy+          (18)14451  8 
+    1 26054   4   2  C 3000000.          0.269500 0.024500 0.627963                              J.R.Vanhoy+          (18)14451  8 
+    1 26054   4   2  C 3000000.          0.108700 9.9000-3 0.480223                              J.R.Vanhoy+          (18)14451  8 
+    1 26054   4   2  C 3000000.          0.047500 4.3000-3 0.318959                              J.R.Vanhoy+          (18)14451  8 
+    1 26054   4   2  C 3000000.          0.041800 3.8000-3 0.147809                              J.R.Vanhoy+          (18)14451  8 
+    1 26054   4   2  C 3000000.          0.066500 6.0000-3-0.026177                              J.R.Vanhoy+          (18)14451  8 
+    1 26054   4   2  C 3000000.          0.098100 8.9000-3-0.199368                              J.R.Vanhoy+          (18)14451  8 
+    1 26054   4   2  C 3000000.          0.114300 0.010400-0.364877                              J.R.Vanhoy+          (18)14451  8 
+    1 26054   4   2  C 3000000.          0.113300 0.010300-0.519519                              J.R.Vanhoy+          (18)14451  8 
+    1 26054   4   2  C 3000000.          0.110000 0.010000-0.657375                              J.R.Vanhoy+          (18)14451  8 
+    1 26054   4   2  C 3000000.          0.103300 9.4000-3-0.777146                              J.R.Vanhoy+          (18)14451  8 
+    1 26054   4   2  C 3000000.          0.109400 9.9000-3-0.896486                              J.R.Vanhoy+          (18)14451  8 
+#/DATA      14
+#/DATASET

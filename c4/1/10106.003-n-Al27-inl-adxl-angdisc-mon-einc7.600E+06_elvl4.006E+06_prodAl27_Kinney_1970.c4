@@ -1,0 +1,26 @@
+#ENTRY      10106
+#AUTHOR1    W.E.Kinney+
+#YEAR       1970
+#INSTITUTE  (1USAORL)
+#TITLE      Al neutron elastic- and inelastic-scattering cross
+#+          sections from 4.19 to 8.56 MeV
+#AUTHOR(S)  W.E.Kinney, F.G.Perey
+#REF-CODE   (R,ORNL-4516,197010)
+#REFERENCE  Report ORNL-4516, 1970
+#DATASETS   0
+#
+#DATASET    10106003 
+#DATE       20000202
+#REACTION   13-AL-27(N,INL)13-AL-27,PAR,DA
+#PROJ       1
+#TARG       13027
+#MF         4
+#MT         51
+#PRODUCT    13-AL-27
+#C4BEGIN    [    1 13027   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   4  51 AC 7600000. 100000.0 2.6400-3         -0.512043          4005500. 49500.00LVLW.E.Kinney+          (70)10106  3 
+#/DATA      1
+#/DATASET

@@ -1,0 +1,42 @@
+#ENTRY      14370
+#AUTHOR1    M.S.Boswell+
+#YEAR       2013
+#INSTITUTE  (1USALAS)
+#TITLE      Neutron inelastic scattering in natural Cu as a
+#+          background in neutrinoless double-beta decay
+#+          experiments
+#AUTHOR(S)  M.S.Boswell, S.R.Elliott, D.V.Perepelitsa, M.Devlin, N.Fotiades, 
+#+          R.O.Nelson, T.Kawano, V.E.Guiseppe
+#REF-CODE   (J,PR/C,87,064607,2013)
+#REFERENCE  Phys.Rev.C 87 (2013) 064607
+#DATASETS   0
+#
+#DATASET    14370002 
+#DATE       20130802
+#REACTION   29-CU-63(N,INL)29-CU-63,PAR,SIG,G
+#PROJ       1
+#TARG       29063
+#MF         13
+#MT         51
+#PRODUCT    29-CU-63
+#C4BEGIN    [    1 29063  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29063  13  51    2725000.          1.4110-3 5.2500-4                   1827000.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    2819000.          1.5490-3 4.1000-4                   1827000.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    3134000.          5.0610-3 1.1970-3                   1827000.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    3251000.          2.7060-3 5.9800-4                   1827000.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    3374000.          1.3300-3 4.6700-4                   1827000.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    3789000.          3.1400-3 9.3000-4                   1827000.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    4287000.          4.5220-3 1.0990-3                   1827000.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    1.7924+7          7.4350-3 1.4470-3                   1827000.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    1.9608+7          0.011713 1.6040-3                   1827000.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    2.1543+7          9.1170-3 1.2080-3                   1827000.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    2.3785+7          0.011153 1.2730-3                   1827000.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    2.6401+7          0.013421 1.3590-3                   1827000.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    2.9481+7          9.5640-3 1.0960-3                   1827000.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    3.7553+7          7.0050-3 1.0230-3                   1827000.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    4.9581+7          6.1520-3 7.8600-4                   1827000.            M.S.Boswell+         (13)14370  2 
+#/DATA      15
+#/DATASET

@@ -1,0 +1,39 @@
+#ENTRY      12800
+#AUTHOR1    P.E.Koehler+
+#YEAR       1983
+#INSTITUTE  (1USAOHO)
+#TITLE      Structure of 12B from measurement and R-matrix
+#+          analysis of sigma(theta) for 11B(n,n)11B and
+#+          11B(n,n')11B*(2.12 MeV), and shell-model calculations
+#AUTHOR(S)  P.E.Koehler, H.D.Knox, D.A.Resler, R.O.Lane, D.J.Millener
+#REF-CODE   (J,NP/A,394,221,1983)
+#REFERENCE  Nucl.Phys.A 394 (1983) 221
+#DATASETS   0
+#
+#DATASET    12800003 
+#DATE       19830412
+#REACTION   5-B-11(N,INL)5-B-11,PAR,SIG
+#PROJ       1
+#TARG       5011
+#MF         3
+#MT         51
+#PRODUCT    5-B-11
+#C4BEGIN    [    1  5011   3  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5011   3  51 D  4860000.          0.237000 4.0000-3                   2120000.         LVLP.E.Koehler+         (83)12800  3 
+    1  5011   3  51 D  5040000.          0.178000 3.0000-3                   2120000.         LVLP.E.Koehler+         (83)12800  3 
+    1  5011   3  51 D  5250000.          0.193000 4.0000-3                   2120000.         LVLP.E.Koehler+         (83)12800  3 
+    1  5011   3  51 D  5370000.          0.198000 4.0000-3                   2120000.         LVLP.E.Koehler+         (83)12800  3 
+    1  5011   3  51 D  5450000.          0.175000 4.0000-3                   2120000.         LVLP.E.Koehler+         (83)12800  3 
+    1  5011   3  51 D  5590000.          0.160000 3.0000-3                   2120000.         LVLP.E.Koehler+         (83)12800  3 
+    1  5011   3  51 D  5620000.          0.160000 4.0000-3                   2120000.         LVLP.E.Koehler+         (83)12800  3 
+    1  5011   3  51 D  5740000.          0.153000 3.0000-3                   2120000.         LVLP.E.Koehler+         (83)12800  3 
+    1  5011   3  51 D  6000000.          0.137000 3.0000-3                   2120000.         LVLP.E.Koehler+         (83)12800  3 
+    1  5011   3  51 D  6190000.          0.128000 3.0000-3                   2120000.         LVLP.E.Koehler+         (83)12800  3 
+    1  5011   3  51 D  6390000.          0.130000 3.0000-3                   2120000.         LVLP.E.Koehler+         (83)12800  3 
+    1  5011   3  51 D  6800000.          0.133000 3.0000-3                   2120000.         LVLP.E.Koehler+         (83)12800  3 
+    1  5011   3  51 D  7550000.          0.100000 2.0000-3                   2120000.         LVLP.E.Koehler+         (83)12800  3 
+#/DATA      13
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      10158
+#AUTHOR1    D.O.Nellis+
+#YEAR       1970
+#INSTITUTE  (1USATNC)
+#TITLE      Gamma-Ray Yield from Neutron Interactions with 10B
+#AUTHOR(S)  D.O.Nellis, W.E.Tucker, I.L.Morgan
+#REF-CODE   (J,PR/C,1,847,197003)
+#REFERENCE  Phys.Rev.C 1 (1970) 847
+#DATASETS   0
+#
+#DATASET    10158013 
+#DATE       20140421
+#REACTION   5-B-10(N,INL)5-B-10,PAR,DA,G
+#PROJ       1
+#TARG       5010
+#MF         14
+#MT         51
+#PRODUCT    5-B-10
+#C4BEGIN    [    1  5010  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5010  14  51    4900000. 70000.00 6.3000-4 1.5000-4 0.573576          410000.0            D.O.Nellis+          (70)10158 13 
+    1  5010  14  51    4900000. 70000.00 7.3900-3 4.4000-4 0.573576          717000.0            D.O.Nellis+          (70)10158 13 
+    1  5010  14  51    4900000. 70000.00 2.3100-3 1.4000-4 0.573576          1020000.            D.O.Nellis+          (70)10158 13 
+    1  5010  14  51    4900000. 70000.00 1.2600-3 8.0000-5 0.573576          1430000.            D.O.Nellis+          (70)10158 13 
+    1  5010  14  51    4900000. 70000.00 1.5500-3 9.0000-5 0.573576          2150000.            D.O.Nellis+          (70)10158 13 
+    1  5010  14  51    4900000. 70000.00 1.7000-3 1.0000-4 0.573576          2860000.            D.O.Nellis+          (70)10158 13 
+#/DATA      6
+#/DATASET

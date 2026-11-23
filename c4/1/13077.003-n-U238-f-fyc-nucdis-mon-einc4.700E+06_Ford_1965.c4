@@ -1,0 +1,27 @@
+#ENTRY      13077
+#AUTHOR1    G.P.Ford+
+#YEAR       1965
+#INSTITUTE  (1USALAS)
+#TITLE      Fission mass yield dependence on angular momentum
+#AUTHOR(S)  G.P.Ford, R.B.Leachman
+#REF-CODE   (J,PR,137,B826,1965)
+#REFERENCE  Phys.Rev. 137 (1965) B826
+#DATASETS   0
+#
+#DATASET    13077003 
+#DATE       20200723
+#REACTION   92-U-238(N,F)ELEM/MASS,CUM,FY
+#PROJ       1
+#TARG       92238
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92238   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   8 459    4700000. 140000.0 1.6900-3 1.8000-3 46.00000 109.0000 9.000000            G.P.Ford+            (65)13077  3 
+    1 92238   8 459    4700000. 140000.0 2.0000-3 8.0000-4 46.00000 112.0000 9.000000            G.P.Ford+            (65)13077  3 
+    1 92238   8 459    4700000. 140000.0 8.0000-4 5.0000-4 47.00000 111.0000 9.000000            G.P.Ford+            (65)13077  3 
+    1 92238   8 459    4700000. 140000.0 5.8000-4 1.1000-4 47.00000 112.0000 9.000000            G.P.Ford+            (65)13077  3 
+#/DATA      4
+#/DATASET

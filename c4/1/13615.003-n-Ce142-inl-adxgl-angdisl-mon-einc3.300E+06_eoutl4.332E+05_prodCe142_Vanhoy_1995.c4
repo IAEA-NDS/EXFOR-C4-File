@@ -1,0 +1,32 @@
+#ENTRY      13615
+#AUTHOR1    J.R.Vanhoy+
+#YEAR       1995
+#INSTITUTE  (1USAKTY)
+#TITLE      Structural charactaristics of 142Ce through inelastic
+#+          neutron scattering
+#AUTHOR(S)  J.R.Vanhoy, J.M.Anthony, B.M.Haas, B.H.Benedict, B.T.Meehan, 
+#+          S.F.Hicks, C.M.Davoren, C.L.Lundstedt
+#REF-CODE   (J,PR/C,52,2387,9511)
+#REFERENCE  Phys.Rev.C 52 (1995) 2387
+#DATASETS   0
+#
+#DATASET    13615003 
+#DATE       19960516
+#REACTION   58-CE-142(N,INL)58-CE-142,PAR,DA,G
+#PROJ       1
+#TARG       58142
+#MF         14
+#MT         51
+#PRODUCT    58-CE-142
+#C4BEGIN    [    1 58142  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 58142  14  51 A  3300000.          0.025880          0.866025          433200.0            J.R.Vanhoy+          (95)13615  3 
+    1 58142  14  51 A  3300000.          0.027410          0.642788          433200.0            J.R.Vanhoy+          (95)13615  3 
+    1 58142  14  51 A  3300000.          0.037570          0.342020          433200.0            J.R.Vanhoy+          (95)13615  3 
+    1 58142  14  51 A  3300000.          0.028190          6.123-17          433200.0            J.R.Vanhoy+          (95)13615  3 
+    1 58142  14  51 A  3300000.          0.026130         -0.342020          433200.0            J.R.Vanhoy+          (95)13615  3 
+    1 58142  14  51 A  3300000.          0.025680         -0.642788          433200.0            J.R.Vanhoy+          (95)13615  3 
+#/DATA      6
+#/DATASET

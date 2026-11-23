@@ -1,0 +1,34 @@
+#ENTRY      12801
+#AUTHOR1    A.B.Smith+
+#YEAR       1984
+#INSTITUTE  (1USAANL)
+#TITLE      FAST-NEUTRON SCATTERING CROSS SECTIONS OF ELEMENTAL
+#+          ZIRCONIUM
+#AUTHOR(S)  A.B.Smith, P.T.Guenther
+#REF-CODE   (J,NP/A,415,1,8403)
+#REFERENCE  Nucl.Phys.A 415 (1984) 1
+#DATASETS   0
+#
+#DATASET    12801002 
+#DATE       19830304
+#REACTION   40-ZR-0(N,EL),,DA,,AV
+#PROJ       1
+#TARG       40000
+#MF         4
+#MT         2
+#PRODUCT    40-ZR-0
+#C4BEGIN    [    1 40000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40000   4   2 A  2750000.          1.090000 0.054500 0.933580 4.3783-3                     A.B.Smith+           (84)12801  2 
+    1 40000   4   2 A  2750000.          0.681000 0.034050 0.858065 6.2741-3                     A.B.Smith+           (84)12801  2 
+    1 40000   4   2 A  2750000.          0.136000 6.8000-3 0.425779 0.011055                     A.B.Smith+           (84)12801  2 
+    1 40000   4   2 A  2750000.          0.145000 7.2500-3 0.159881 0.012060                     A.B.Smith+           (84)12801  2 
+    1 40000   4   2 A  2750000.          0.107000 5.3500-3-0.133986 0.012107                     A.B.Smith+           (84)12801  2 
+    1 40000   4   2 A  2750000.          0.061000 3.0500-3-0.406737 0.011161                     A.B.Smith+           (84)12801  2 
+    1 40000   4   2 A  2750000.          0.065200 3.2600-3-0.656059 9.2205-3                     A.B.Smith+           (84)12801  2 
+    1 40000   4   2 A  2750000.          0.141000 7.0500-3-0.838671 6.6540-3                     A.B.Smith+           (84)12801  2 
+    1 40000   4   2 A  2750000.          0.221000 0.011050-0.920505 4.7737-3                     A.B.Smith+           (84)12801  2 
+#/DATA      9
+#/DATASET

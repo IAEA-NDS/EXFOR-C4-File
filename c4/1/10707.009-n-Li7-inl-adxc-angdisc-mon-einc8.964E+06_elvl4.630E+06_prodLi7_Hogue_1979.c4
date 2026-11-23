@@ -1,0 +1,44 @@
+#ENTRY      10707
+#AUTHOR1    H.H.Hogue+
+#YEAR       1979
+#INSTITUTE  (1USADKE)
+#TITLE      Elastic and inelastic scattering of 7- to 14-MeV
+#+          neutrons from Lithium-6 and Lithium-7
+#AUTHOR(S)  H.H.Hogue, P.L.von Behren, D.W.Glasgow, S.G.Glendinning, 
+#+          P.W.Lisowski, C.E.Nelson, F.O.Purser, W.Tornow, C.R.Gould, 
+#+          L.W.Seagondollar
+#REF-CODE   (J,NSE,69,22,1979)
+#REFERENCE  Nucl.Sci.Eng. 69 (1979) 22
+#DATASETS   0
+#
+#DATASET    10707009 
+#DATE       20081214
+#REACTION   3-LI-7(N,INL)3-LI-7,PAR,DA
+#PROJ       1
+#TARG       3007
+#MF         4
+#MT         51
+#PRODUCT    3-LI-7
+#C4BEGIN    [    1  3007   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3007   4  51 AC 8964000.          0.018510 1.1900-3 0.736923          4630000.         LVLH.H.Hogue+           (79)10707  9 
+    1  3007   4  51 AC 8964000.          0.021310 1.1500-3 0.664448          4630000.         LVLH.H.Hogue+           (79)10707  9 
+    1  3007   4  51 AC 8964000.          0.019480 1.1100-3 0.585382          4630000.         LVLH.H.Hogue+           (79)10707  9 
+    1  3007   4  51 AC 8964000.          0.020070 1.2100-3 0.501662          4630000.         LVLH.H.Hogue+           (79)10707  9 
+    1  3007   4  51 AC 8964000.          0.017960 1.1400-3 0.414058          4630000.         LVLH.H.Hogue+           (79)10707  9 
+    1  3007   4  51 AC 8964000.          0.018960 9.0000-4 0.323917          4630000.         LVLH.H.Hogue+           (79)10707  9 
+    1  3007   4  51 AC 8964000.          0.019330 1.0600-3 0.231918          4630000.         LVLH.H.Hogue+           (79)10707  9 
+    1  3007   4  51 AC 8964000.          0.020180 1.0300-3 0.139519          4630000.         LVLH.H.Hogue+           (79)10707  9 
+    1  3007   4  51 AC 8964000.          0.019900 1.1100-3 0.047455          4630000.         LVLH.H.Hogue+           (79)10707  9 
+    1  3007   4  51 AC 8964000.          0.018720 1.0500-3-0.043271          4630000.         LVLH.H.Hogue+           (79)10707  9 
+    1  3007   4  51 AC 8964000.          0.016780 1.0900-3-0.131737          4630000.         LVLH.H.Hogue+           (79)10707  9 
+    1  3007   4  51 AC 8964000.          0.015360 1.0100-3-0.217803          4630000.         LVLH.H.Hogue+           (79)10707  9 
+    1  3007   4  51 AC 8964000.          0.016210 9.8000-4-0.300373          4630000.         LVLH.H.Hogue+           (79)10707  9 
+    1  3007   4  51 AC 8964000.          0.014010 1.0300-3-0.378972          4630000.         LVLH.H.Hogue+           (79)10707  9 
+    1  3007   4  51 AC 8964000.          0.012760 9.5000-4-0.453679          4630000.         LVLH.H.Hogue+           (79)10707  9 
+    1  3007   4  51 AC 8964000.          0.011500 1.0600-3-0.523391          4630000.         LVLH.H.Hogue+           (79)10707  9 
+    1  3007   4  51 AC 8964000.          0.011280 1.0500-3-0.588632          4630000.         LVLH.H.Hogue+           (79)10707  9 
+#/DATA      17
+#/DATASET

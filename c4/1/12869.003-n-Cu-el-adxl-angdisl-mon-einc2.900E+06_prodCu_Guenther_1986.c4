@@ -1,0 +1,35 @@
+#ENTRY      12869
+#AUTHOR1    P.T.Guenther+
+#YEAR       1986
+#INSTITUTE  (1USAANL)
+#TITLE      Total, scattering and gamma production cross sections
+#+          for few-MeV neutrons on elemental copper
+#AUTHOR(S)  P.T.Guenther, D.L.Smith, A.B.Smith, J.F.Whalen
+#REF-CODE   (J,NP/A,448,280,1986)
+#REFERENCE  Nucl.Phys.A 448 (1986) 280
+#DATASETS   0
+#
+#DATASET    12869003 
+#DATE       20220903
+#REACTION   29-CU-0(N,EL)29-CU-0,,DA,,AV
+#PROJ       1
+#TARG       29000
+#MF         4
+#MT         2
+#PRODUCT    29-CU-0
+#C4BEGIN    [    1 29000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29000   4   2 A  2900000. 20000.00 0.863000 5.8570-3 0.934826 4.3384-3                     P.T.Guenther+        (86)12869  3 
+    1 29000   4   2 A  2900000. 20000.00 0.583100 4.8560-3 0.859852 6.2375-3                     P.T.Guenther+        (86)12869  3 
+    1 29000   4   2 A  2900000. 20000.00 0.193300 3.1080-3 0.674302 9.0219-3                     P.T.Guenther+        (86)12869  3 
+    1 29000   4   2 A  2900000. 20000.00 0.039390 2.5740-3 0.430511 0.011027                     P.T.Guenther+        (86)12869  3 
+    1 29000   4   2 A  2900000. 20000.00 0.052040 1.5560-3 0.165048 0.012050                     P.T.Guenther+        (86)12869  3 
+    1 29000   4   2 A  2900000. 20000.00 0.097210 2.4220-3-0.130526 0.012113                     P.T.Guenther+        (86)12869  3 
+    1 29000   4   2 A  2900000. 20000.00 0.095410 1.7010-3-0.398749 0.011204                     P.T.Guenther+        (86)12869  3 
+    1 29000   4   2 A  2900000. 20000.00 0.063220 1.5240-3-0.648120 9.3039-3                     P.T.Guenther+        (86)12869  3 
+    1 29000   4   2 A  2900000. 20000.00 0.039510 1.2260-3-0.836764 6.6897-3                     P.T.Guenther+        (86)12869  3 
+    1 29000   4   2 A  2900000. 20000.00 0.044520 1.2080-3-0.919135 4.8129-3                     P.T.Guenther+        (86)12869  3 
+#/DATA      10
+#/DATASET

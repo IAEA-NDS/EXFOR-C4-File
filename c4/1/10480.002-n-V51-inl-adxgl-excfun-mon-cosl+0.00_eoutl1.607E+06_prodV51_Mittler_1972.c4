@@ -1,0 +1,38 @@
+#ENTRY      10480
+#AUTHOR1    A.Mittler+
+#YEAR       1972
+#INSTITUTE  (1USALTI)
+#TITLE      Neutron Inelastic Scattering Cross Sections for 51V
+#+          via (n,n'gamma) Reactions.
+#AUTHOR(S)  A.Mittler, J.A.Correia, L.E.Beghian, J.J.Egan, G.Kegel, 
+#+          P.Harihar, R.V.Le Claire, W.Schier
+#REF-CODE   (J,BAP,17,555(HE4),197204)
+#REFERENCE  Bull.Am.Phys.Soc. 17 (1972) 555(HE4)
+#DATASETS   0
+#
+#DATASET    10480002 
+#DATE       19830614
+#REACTION   23-V-51(N,INL)23-V-51,PAR,DA,G
+#PROJ       1
+#TARG       23051
+#MF         14
+#MT         51
+#PRODUCT    23-V-51
+#C4BEGIN    [    1 23051  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 23051  14  51 A  1900000.          0.016200 1.5000-3 6.123-17          1607000.            A.Mittler+           (72)10480  2 
+    1 23051  14  51 A  2100000.          0.017500 1.7000-3 6.123-17          1607000.            A.Mittler+           (72)10480  2 
+    1 23051  14  51 A  2300000.          0.018400 1.7000-3 6.123-17          1607000.            A.Mittler+           (72)10480  2 
+    1 23051  14  51 A  2500000.          0.019300 1.8000-3 6.123-17          1607000.            A.Mittler+           (72)10480  2 
+    1 23051  14  51 A  2700000.          0.023700 2.4000-3 6.123-17          1607000.            A.Mittler+           (72)10480  2 
+    1 23051  14  51 A  2900000.          0.024900 2.3000-3 6.123-17          1607000.            A.Mittler+           (72)10480  2 
+    1 23051  14  51 A  3100000.          0.022900 2.1000-3 6.123-17          1607000.            A.Mittler+           (72)10480  2 
+    1 23051  14  51 A  3300000.          0.022600 2.1000-3 6.123-17          1607000.            A.Mittler+           (72)10480  2 
+    1 23051  14  51 A  3500000.          0.024700 2.3000-3 6.123-17          1607000.            A.Mittler+           (72)10480  2 
+    1 23051  14  51 A  3700000.          0.026200 2.4000-3 6.123-17          1607000.            A.Mittler+           (72)10480  2 
+    1 23051  14  51 A  3900000.          0.025400 2.4000-3 6.123-17          1607000.            A.Mittler+           (72)10480  2 
+    1 23051  14  51 A  4100000.          0.025100 2.3000-3 6.123-17          1607000.            A.Mittler+           (72)10480  2 
+#/DATA      12
+#/DATASET

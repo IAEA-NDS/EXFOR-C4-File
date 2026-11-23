@@ -1,0 +1,33 @@
+#ENTRY      10706
+#AUTHOR1    D.R.Donati+
+#YEAR       1977
+#INSTITUTE  (1USALTI)
+#TITLE      Cross sections, angular distributions, and magnetic
+#+          substate populations in the 23Na(n,n'gamma)reaction
+#AUTHOR(S)  D.R.Donati, S.C.Mathur, E.Sheldon, B.K.Barnes, L.E.Beghian, 
+#+          P.Harihar, G.H.R.Kegel, W.A.Schier
+#REF-CODE   (J,PR/C,16,939,1977)
+#REFERENCE  Phys.Rev.C 16 (1977) 939
+#DATASETS   0
+#
+#DATASET    10706004 
+#DATE       20220320
+#REACTION   11-NA-23(N,INL)11-NA-23,PAR,DA,G
+#PROJ       1
+#TARG       11023
+#MF         14
+#MT         51
+#PRODUCT    11-NA-23
+#C4BEGIN    [    1 11023  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 11023  14  51 A  3620000.          0.017600 2.0000-3 0.906308          1638000.            D.R.Donati+          (77)10706  4 
+    1 11023  14  51 A  3620000.          0.017600 1.7000-3 0.819152          1638000.            D.R.Donati+          (77)10706  4 
+    1 11023  14  51 A  3620000.          0.016000 1.6000-3 0.573576          1638000.            D.R.Donati+          (77)10706  4 
+    1 11023  14  51 A  3620000.          0.015700 1.6000-3 6.123-17          1638000.            D.R.Donati+          (77)10706  4 
+    1 11023  14  51 A  3620000.          0.015100 1.6000-3-0.342020          1638000.            D.R.Donati+          (77)10706  4 
+    1 11023  14  51 A  3620000.          0.016900 1.6000-3-0.573576          1638000.            D.R.Donati+          (77)10706  4 
+    1 11023  14  51 A  3620000.          0.016600 1.6000-3-0.707107          1638000.            D.R.Donati+          (77)10706  4 
+#/DATA      7
+#/DATASET

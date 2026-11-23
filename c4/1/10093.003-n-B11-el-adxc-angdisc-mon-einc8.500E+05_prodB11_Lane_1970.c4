@@ -1,0 +1,30 @@
+#ENTRY      10093
+#AUTHOR1    R.O.Lane+
+#YEAR       1970
+#INSTITUTE  (1USAANL)
+#TITLE      States in 12B Observed in Scattering of Neutrons by 11B
+#AUTHOR(S)  R.O.Lane, C.E.Nelson, J.L.Adams, J.E.Monahan, A.J.Elwyn, 
+#+          F.P.Mooring, A.Langsdorf Jr
+#REF-CODE   (J,PR/C,2,2097,1970)
+#REFERENCE  Phys.Rev.C 2 (1970) 2097
+#DATASETS   0
+#
+#DATASET    10093003 
+#DATE       20241001
+#REACTION   5-B-11(N,EL)5-B-11,,DA
+#PROJ       1
+#TARG       5011
+#MF         4
+#MT         2
+#PRODUCT    5-B-11
+#C4BEGIN    [    1  5011   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5011   4   2 AC 850000.0          0.216000 2.0000-3 0.927184                              R.O.Lane+            (70)10093  3 
+    1  5011   4   2 AC 850000.0          0.195000 2.0000-3 0.559193                              R.O.Lane+            (70)10093  3 
+    1  5011   4   2 AC 850000.0          0.158000 1.0000-3 6.123-17                              R.O.Lane+            (70)10093  3 
+    1  5011   4   2 AC 850000.0          0.123000 1.0000-3-0.529919                              R.O.Lane+            (70)10093  3 
+    1  5011   4   2 AC 850000.0          0.117000 2.0000-3-0.891007                              R.O.Lane+            (70)10093  3 
+#/DATA      5
+#/DATASET

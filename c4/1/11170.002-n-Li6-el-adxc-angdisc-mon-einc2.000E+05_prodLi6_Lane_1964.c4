@@ -1,0 +1,30 @@
+#ENTRY      11170
+#AUTHOR1    R.O.Lane+
+#YEAR       1964
+#INSTITUTE  (1USAANL)
+#TITLE      Polarization and Differential Cross Section for
+#+          Neutrons Scattered from Li6 and Li7.
+#AUTHOR(S)  R.O.Lane, A.J.Elwyn, A.Langsdorf Jr
+#REF-CODE   (J,PR,136,B1710,1964)
+#REFERENCE  Phys.Rev. 136 (1964) B1710
+#DATASETS   0
+#
+#DATASET    11170002 
+#DATE       20050427
+#REACTION   3-LI-6(N,EL)3-LI-6,,DA
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [    1  3006   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4   2  C 200000.0 10000.00 0.229000          0.920505                              R.O.Lane+            (64)11170  2 
+    1  3006   4   2  C 200000.0 10000.00 0.156000          0.453990                              R.O.Lane+            (64)11170  2 
+    1  3006   4   2  C 200000.0 10000.00 0.163000         -0.173648                              R.O.Lane+            (64)11170  2 
+    1  3006   4   2  C 200000.0 10000.00 0.274000         -0.681998                              R.O.Lane+            (64)11170  2 
+    1  3006   4   2  C 200000.0 10000.00 0.341000         -0.951057                              R.O.Lane+            (64)11170  2 
+#/DATA      5
+#/DATASET

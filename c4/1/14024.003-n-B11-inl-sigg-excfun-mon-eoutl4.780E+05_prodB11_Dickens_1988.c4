@@ -1,0 +1,29 @@
+#ENTRY      14024
+#AUTHOR1    J.K.Dickens+
+#YEAR       1988
+#INSTITUTE  (1USAORL)
+#TITLE      10,11B(n,xg) reactions for incident neutron energies
+#+          between 0.1 and 25 MeV
+#AUTHOR(S)  J.K.Dickens, D.C.Larson
+#REF-CODE   (C,88MITO,,213,1988)
+#REFERENCE  Proceedings of Conf.on Nucl.Data For Sci.and Technol.,Mito 1988 page 213
+#DATASETS   0
+#
+#DATASET    14024003 
+#DATE       20050708
+#REACTION   5-B-11(N,INL)5-B-11,PAR,SIG,G
+#PROJ       1
+#TARG       5011
+#MF         13
+#MT         51
+#PRODUCT    5-B-11
+#C4BEGIN    [    1  5011  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5011  13  51    1.2000+7 763000.0 0.018100 2.7900-3                   478000.0            J.K.Dickens+         (88)14024  3 
+    1  5011  13  51    1.3200+7 503000.0 0.021900 3.9000-3                   478000.0            J.K.Dickens+         (88)14024  3 
+    1  5011  13  51    1.5200+7 1800000. 0.032600 3.3300-3                   478000.0            J.K.Dickens+         (88)14024  3 
+    1  5011  13  51    1.9300+7 2910000. 0.033200 3.9600-3                   478000.0            J.K.Dickens+         (88)14024  3 
+#/DATA      4
+#/DATASET

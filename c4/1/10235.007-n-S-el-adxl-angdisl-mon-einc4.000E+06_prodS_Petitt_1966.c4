@@ -1,0 +1,33 @@
+#ENTRY      10235
+#AUTHOR1    G.A.Petitt+
+#YEAR       1966
+#INSTITUTE  (1USADKE)
+#TITLE      Elastic and inelastic neutron scattering by silicon
+#+          and sulphur
+#AUTHOR(S)  G.A.Petitt, S.G.Buccino, C.E.Hollandsworth, P.R.Bevington
+#REF-CODE   (J,NP,79,231,1966)
+#REFERENCE  Nucl.Phys. 79 (1966) 231
+#DATASETS   0
+#
+#DATASET    10235007 
+#DATE       20010309
+#REACTION   16-S-0(N,EL)16-S-0,,DA
+#PROJ       1
+#TARG       16000
+#MF         4
+#MT         2
+#PRODUCT    16-S-0
+#C4BEGIN    [    1 16000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 16000   4   2    4000000. 275000.0 0.460000          0.866025                              G.A.Petitt+          (66)10235  7 
+    1 16000   4   2    4000000. 275000.0 0.290000          0.707107                              G.A.Petitt+          (66)10235  7 
+    1 16000   4   2    4000000. 275000.0 0.125000          0.500000                              G.A.Petitt+          (66)10235  7 
+    1 16000   4   2    4000000. 275000.0 0.065000          0.258819                              G.A.Petitt+          (66)10235  7 
+    1 16000   4   2    4000000. 275000.0 0.041000          6.123-17                              G.A.Petitt+          (66)10235  7 
+    1 16000   4   2    4000000. 275000.0 0.041000         -0.258819                              G.A.Petitt+          (66)10235  7 
+    1 16000   4   2    4000000. 275000.0 0.055000         -0.500000                              G.A.Petitt+          (66)10235  7 
+    1 16000   4   2    4000000. 275000.0 0.055000         -0.707107                              G.A.Petitt+          (66)10235  7 
+#/DATA      8
+#/DATASET

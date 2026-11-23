@@ -1,0 +1,33 @@
+#ENTRY      10794
+#AUTHOR1    J.D.M.Moore+
+#YEAR       1973
+#INSTITUTE  (1USAAUB)
+#TITLE      Neutron differential elastic scattering cross sections
+#+          for deuterium at selected neutron energies
+#AUTHOR(S)  J.D.M.Moore
+#REF-CODE   (J,DA/B,33,4954,197304)
+#REFERENCE  Diss.Abstr.B 33 (1973) 4954
+#DATASETS   0
+#
+#DATASET    10794002 
+#DATE       20101022
+#REACTION   1-H-2(N,EL)1-H-2,,DA
+#PROJ       1
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002   4   2    1.5580+7          0.074400          0.866025                              J.D.M.Moore          (73)10794  2 
+    1  1002   4   2    1.5580+7          0.089100          0.866025                              J.D.M.Moore          (73)10794  2 
+    1  1002   4   2    1.5580+7          0.067900          0.766044                              J.D.M.Moore          (73)10794  2 
+    1  1002   4   2    1.5580+7          0.052600          0.642788                              J.D.M.Moore          (73)10794  2 
+    1  1002   4   2    1.5580+7          0.040100          0.500000                              J.D.M.Moore          (73)10794  2 
+    1  1002   4   2    1.5580+7          0.029100          0.342020                              J.D.M.Moore          (73)10794  2 
+    1  1002   4   2    1.5580+7          0.016300          0.173648                              J.D.M.Moore          (73)10794  2 
+    1  1002   4   2    1.5580+7          0.023900          6.123-17                              J.D.M.Moore          (73)10794  2 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      10285
+#AUTHOR1    W.E.Kinney+
+#YEAR       1973
+#INSTITUTE  (1USAORL)
+#TITLE      Ti neutron elastic- and inelastic- scattering
+#+          cross sections from 4.07 to 8.56 MeV
+#AUTHOR(S)  W.E.Kinney, F.G.Perey
+#REF-CODE   (R,ORNL-4810,1973)
+#REFERENCE  Report ORNL-4810, 1973
+#DATASETS   0
+#
+#DATASET    10285019 
+#DATE       20081204
+#REACTION   22-TI-48(N,INL)22-TI-48,PAR,SIG,,A
+#PROJ       1
+#TARG       22048
+#MF         3
+#MT         51
+#PRODUCT    22-TI-48
+#C4BEGIN    [    1 22048   3  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 22048   3  51 D  4070000. 40000.00 0.481579 0.045750                   983000.0         LVLW.E.Kinney+          (73)10285 19 
+    1 22048   3  51 D  4340000. 35000.00 0.369371 0.029919                   983000.0         LVLW.E.Kinney+          (73)10285 19 
+    1 22048   3  51 D  4650000. 35000.00 0.236747 0.027463                   983000.0         LVLW.E.Kinney+          (73)10285 19 
+    1 22048   3  51 D  4920000. 30000.00 0.264202 0.021665                   983000.0         LVLW.E.Kinney+          (73)10285 19 
+    1 22048   3  51 D  5230000. 25000.00 0.150556 0.023186                   983000.0         LVLW.E.Kinney+          (73)10285 19 
+    1 22048   3  51 D  5500000. 25000.00 0.142295 0.020064                   983000.0         LVLW.E.Kinney+          (73)10285 19 
+    1 22048   3  51 D  6440000. 35000.00 0.158315 0.014090                   983000.0         LVLW.E.Kinney+          (73)10285 19 
+    1 22048   3  51 D  7030000. 30000.00 0.077835 8.6397-3                   983000.0         LVLW.E.Kinney+          (73)10285 19 
+    1 22048   3  51 D  7540000. 30000.00 0.101696 9.2543-3                   983000.0         LVLW.E.Kinney+          (73)10285 19 
+    1 22048   3  51 D  8040000. 25000.00 0.068787 8.6672-3                   983000.0         LVLW.E.Kinney+          (73)10285 19 
+    1 22048   3  51 D  8560000. 25000.00 0.107135 9.4279-3                   983000.0         LVLW.E.Kinney+          (73)10285 19 
+#/DATA      11
+#/DATASET

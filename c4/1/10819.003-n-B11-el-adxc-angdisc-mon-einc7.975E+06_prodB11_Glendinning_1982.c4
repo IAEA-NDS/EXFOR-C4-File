@@ -1,0 +1,40 @@
+#ENTRY      10819
+#AUTHOR1    S.G.Glendinning+
+#YEAR       1982
+#INSTITUTE  (1USATNL)
+#TITLE      Elastic and inelastic neutron cross sections for
+#+          boron-10 and boron-11.
+#AUTHOR(S)  S.G.Glendinning, S.El-Kadi, C.E.Nelson, R.S.Pedroni, F.O.Purser, 
+#+          R.W.Walter, A.G.Beyerle, C.R.Gould, L.W.Seagondollar, P.Thambidurai
+#REF-CODE   (J,NSE,80,256,1982)
+#REFERENCE  Nucl.Sci.Eng. 80 (1982) 256
+#DATASETS   0
+#
+#DATASET    10819003 
+#DATE       20250629
+#REACTION   5-B-11(N,EL)5-B-11,,DA
+#PROJ       1
+#TARG       5011
+#MF         4
+#MT         2
+#PRODUCT    5-B-11
+#C4BEGIN    [    1  5011   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5011   4   2 AC 7975000.          0.353140          0.845448                              S.G.Glendinning+     (82)10819  3 
+    1  5011   4   2 AC 7975000.          0.272560          0.793034                              S.G.Glendinning+     (82)10819  3 
+    1  5011   4   2 AC 7975000.          0.214240          0.733967                              S.G.Glendinning+     (82)10819  3 
+    1  5011   4   2 AC 7975000.          0.106430          0.599163                              S.G.Glendinning+     (82)10819  3 
+    1  5011   4   2 AC 7975000.          0.041420          0.443697                              S.G.Glendinning+     (82)10819  3 
+    1  5011   4   2 AC 7975000.          0.021760          0.263200                              S.G.Glendinning+     (82)10819  3 
+    1  5011   4   2 AC 7975000.          0.030590          0.080721                              S.G.Glendinning+     (82)10819  3 
+    1  5011   4   2 AC 7975000.          0.050360         -0.092023                              S.G.Glendinning+     (82)10819  3 
+    1  5011   4   2 AC 7975000.          0.058240         -0.258988                              S.G.Glendinning+     (82)10819  3 
+    1  5011   4   2 AC 7975000.          0.056160         -0.416122                              S.G.Glendinning+     (82)10819  3 
+    1  5011   4   2 AC 7975000.          0.046890         -0.561650                              S.G.Glendinning+     (82)10819  3 
+    1  5011   4   2 AC 7975000.          0.039560         -0.690125                              S.G.Glendinning+     (82)10819  3 
+    1  5011   4   2 AC 7975000.          0.035400         -0.799160                              S.G.Glendinning+     (82)10819  3 
+    1  5011   4   2 AC 7975000.          0.036750         -0.886123                              S.G.Glendinning+     (82)10819  3 
+#/DATA      14
+#/DATASET

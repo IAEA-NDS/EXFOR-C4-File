@@ -1,0 +1,35 @@
+#ENTRY      11347
+#AUTHOR1    R.W.Bauer+
+#YEAR       1967
+#INSTITUTE  (1USALRL)
+#TITLE      ELASTIC SCATTERING OF 7 TO 14 MEV NEUTRONS FROM
+#+          NITROGEN.
+#AUTHOR(S)  R.W.Bauer, J.D.Anderson, H.F.Lutz, C.Wong, J.W.Mc Clure, 
+#+          B.A.Pohl
+#REF-CODE   (J,NP/A,93,673,6703)
+#REFERENCE  Nucl.Phys.A 93 (1967) 673
+#DATASETS   0
+#
+#DATASET    11347003 
+#DATE       19860120
+#REACTION   7-N-0(N,EL)7-N-0,,DA
+#PROJ       1
+#TARG       7000
+#MF         4
+#MT         2
+#PRODUCT    7-N-0
+#C4BEGIN    [    1  7000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  7000   4   2  C 6780000. 200000.0 0.234000 0.016000 0.961000                              R.W.Bauer+           (67)11347  3 
+    1  7000   4   2  C 6780000. 200000.0 0.145000 0.010000 0.848000                              R.W.Bauer+           (67)11347  3 
+    1  7000   4   2  C 6780000. 200000.0 0.070300 5.0000-3 0.671000                              R.W.Bauer+           (67)11347  3 
+    1  7000   4   2  C 6780000. 200000.0 0.024500 2.0000-3 0.446000                              R.W.Bauer+           (67)11347  3 
+    1  7000   4   2  C 6780000. 200000.0 0.024000 2.0000-3 0.192000                              R.W.Bauer+           (67)11347  3 
+    1  7000   4   2  C 6780000. 200000.0 0.044700 3.1000-3-0.071000                              R.W.Bauer+           (67)11347  3 
+    1  7000   4   2  C 6780000. 200000.0 0.057200 4.0000-3-0.325000                              R.W.Bauer+           (67)11347  3 
+    1  7000   4   2  C 6780000. 200000.0 0.045200 3.2000-3-0.553000                              R.W.Bauer+           (67)11347  3 
+    1  7000   4   2  C 6780000. 200000.0 0.036100 3.1000-3-0.742000                              R.W.Bauer+           (67)11347  3 
+#/DATA      9
+#/DATASET

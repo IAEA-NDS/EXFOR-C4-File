@@ -1,0 +1,28 @@
+#ENTRY      10025
+#AUTHOR1    D.M.Drake+
+#YEAR       1970
+#INSTITUTE  (1USALAS)
+#TITLE      Gamma-ray production cross sections for fast neutron
+#+          interactions with several elements.
+#AUTHOR(S)  D.M.Drake, J.C.Hopkins, C.S.Young, H.Conde
+#REF-CODE   (J,NSE,40,294,197005)
+#REFERENCE  Nucl.Sci.Eng. 40 (1970) 294
+#DATASETS   0
+#
+#DATASET    10025020 
+#DATE       19990719
+#REACTION   94-PU-239(N,X)0-G-0,,DA/DE
+#PROJ       1
+#TARG       94239
+#MF         6
+#MT         202
+#PRODUCT    0-G-0
+#C4BEGIN    [    1 94239   6 202  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   6 202    4000000.          1.6000-8          0.573576          4625000. 125000.0 E2D.M.Drake+           (70)10025 20 
+    1 94239   6 202    6000000.          1.7000-8          0.573576          4625000. 125000.0 E2D.M.Drake+           (70)10025 20 
+    1 94239   6 202    7500000.          1.9000-8          0.573576          4625000. 125000.0 E2D.M.Drake+           (70)10025 20 
+#/DATA      3
+#/DATASET

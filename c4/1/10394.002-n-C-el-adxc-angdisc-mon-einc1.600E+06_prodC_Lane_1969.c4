@@ -1,0 +1,30 @@
+#ENTRY      10394
+#AUTHOR1    R.O.Lane+
+#YEAR       1969
+#INSTITUTE  (1USAANL)
+#TITLE      Polarization and Differential Cross Section for
+#+          Neutrons Scattered from 12C
+#AUTHOR(S)  R.O.Lane, R.D.Koshel, J.E.Monahan
+#REF-CODE   (J,PR,188,1618,196912)
+#REFERENCE  Phys.Rev. 188 (1969) 1618
+#DATASETS   0
+#
+#DATASET    10394002 
+#DATE       20030102
+#REACTION   6-C-0(N,EL)6-C-0,,DA
+#PROJ       1
+#TARG       6000
+#MF         4
+#MT         2
+#PRODUCT    6-C-0
+#C4BEGIN    [    1  6000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6000   4   2 AC 1600000.          0.183575 1.9370-3 0.929584                              R.O.Lane+            (69)10394  2 
+    1  6000   4   2 AC 1600000.          0.168644 1.3370-3 0.562516                              R.O.Lane+            (69)10394  2 
+    1  6000   4   2 AC 1600000.          0.153429 1.2610-3 4.1888-3                              R.O.Lane+            (69)10394  2 
+    1  6000   4   2 AC 1600000.          0.148036 1.3170-3-0.518922                              R.O.Lane+            (69)10394  2 
+    1  6000   4   2 AC 1600000.          0.148801 1.6010-3-0.886123                              R.O.Lane+            (69)10394  2 
+#/DATA      5
+#/DATASET

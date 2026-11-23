@@ -1,0 +1,36 @@
+#ENTRY      10824
+#AUTHOR1    T.S.Subramanian+
+#YEAR       1986
+#INSTITUTE  (1USADAV)
+#TITLE      DOUBLE-DIFFERENTIAL INCLUSIVE HYDROGEN AND HELIUM
+#+          SPECTRA FROM NEUTRON-INDUCED REACTIONS AT 27.4, 39.7
+#+          AND 60.7 MEV: OXYGEN AND NITROGEN.
+#AUTHOR(S)  T.S.Subramanian, J.L.Romero, F.P.Brady, D.H.Fitzgerald, 
+#+          R.Garrett, G.A.Needham, J.L.Ullmann, J.Watson, C.I.Zanelli, 
+#+          D.J.Brenner, R.E.Prael
+#REF-CODE   (J,PR/C,34,1580,8611)
+#REFERENCE  Phys.Rev.C 34 (1986) 1580
+#DATASETS   0
+#
+#DATASET    10824013 
+#DATE       19850808
+#REACTION   8-O-16(N,X)1-H-2,,DA/DE
+#PROJ       1
+#TARG       8016
+#MF         6
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  8016   6 204 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8016   6 204 A  2.7400+7          4.900-10 2.900-10 0.939693 0.017908 4300000.          E2T.S.Subramanian+     (86)10824 13 
+    1  8016   6 204 A  2.7400+7          4.300-10 3.000-10 0.939693 0.017908 6300000.          E2T.S.Subramanian+     (86)10824 13 
+    1  8016   6 204 A  2.7400+7          1.5100-9 3.000-10 0.939693 0.017908 8300000.          E2T.S.Subramanian+     (86)10824 13 
+    1  8016   6 204 A  2.7400+7          2.2300-9 3.500-10 0.939693 0.017908 1.0300+7          E2T.S.Subramanian+     (86)10824 13 
+    1  8016   6 204 A  2.7400+7          1.1000-9 5.000-10 0.939693 0.017908 1.2300+7          E2T.S.Subramanian+     (86)10824 13 
+    1  8016   6 204 A  2.7400+7          1.700-10 4.100-10 0.939693 0.017908 1.4300+7          E2T.S.Subramanian+     (86)10824 13 
+    1  8016   6 204 A  2.7400+7          1.9700-9 2.500-10 0.939693 0.017908 1.6300+7          E2T.S.Subramanian+     (86)10824 13 
+    1  8016   6 204 A  2.7400+7          1.6200-9 2.400-10 0.939693 0.017908 1.8300+7          E2T.S.Subramanian+     (86)10824 13 
+#/DATA      8
+#/DATASET

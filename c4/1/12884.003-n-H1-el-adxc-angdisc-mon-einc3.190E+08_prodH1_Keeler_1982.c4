@@ -1,0 +1,34 @@
+#ENTRY      12884
+#AUTHOR1    R.K.Keeler+
+#YEAR       1982
+#INSTITUTE  (1CANTMF)
+#TITLE      NEUTRON-PROTON SCATTERING CROSS SECTIONS BETWEEN
+#+          200 AND 500 MEV.
+#AUTHOR(S)  R.K.Keeler, R.Dubios, E.G.Auld, D.A.Axen, M.Comyn, G.Ludgate, 
+#+          L.P.Robertson, J.R.Richardson, D.V.Bugg, J.A.Eddington, 
+#+          W.R.Gibson, A.S.Clouch, N.M.Stewart, B.Dieterle
+#REF-CODE   (J,NP/A,377,529,82)
+#REFERENCE  Nucl.Phys.A 377 (1982) 529
+#DATASETS   0
+#
+#DATASET    12884003 
+#DATE       19841005
+#REACTION   1-H-1(N,EL)1-H-1,,DA
+#PROJ       1
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    1  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   4   2  C 3.1900+8 3000000. 5.1170-3 4.2000-4 0.981192 6.7382-3                     R.K.Keeler+          (82)12884  3 
+    1  1001   4   2  C 3.1900+8 3000000. 4.8450-3 1.8400-4 0.959215 9.8673-3                     R.K.Keeler+          (82)12884  3 
+    1  1001   4   2  C 3.1900+8 3000000. 3.9570-3 1.0600-4 0.844047 0.018719                     R.K.Keeler+          (82)12884  3 
+    1  1001   4   2  C 3.1900+8 3000000. 3.0960-3 8.0000-5 0.664839 0.026075                     R.K.Keeler+          (82)12884  3 
+    1  1001   4   2  C 3.1900+8 3000000. 2.3310-3 4.9000-5 0.454301 0.031096                     R.K.Keeler+          (82)12884  3 
+    1  1001   4   2  C 3.1900+8 3000000. 1.9340-3 1.0000-4 0.270264 0.033608                     R.K.Keeler+          (82)12884  3 
+    1  1001   4   2  C 3.1900+8 3000000. 1.5850-3 1.5600-4-0.078807 0.034798                     R.K.Keeler+          (82)12884  3 
+#/DATA      7
+#/DATASET

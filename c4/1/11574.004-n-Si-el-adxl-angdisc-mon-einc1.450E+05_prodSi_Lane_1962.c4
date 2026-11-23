@@ -1,0 +1,30 @@
+#ENTRY      11574
+#AUTHOR1    R.O.Lane+
+#YEAR       1962
+#INSTITUTE  (1USAANL)
+#TITLE      Polarization and Differential Cross Section for Neutron
+#+          Scattering from Silicon
+#AUTHOR(S)  R.O.Lane, A.J.Elwyn, A.Langsdorf Jr
+#REF-CODE   (J,PR,126,1105,62)
+#REFERENCE  Phys.Rev. 126 (1962) 1105
+#DATASETS   0
+#
+#DATASET    11574004 
+#DATE       19930316
+#REACTION   14-SI-0(N,EL)14-SI-0,,DA
+#PROJ       1
+#TARG       14000
+#MF         4
+#MT         2
+#PRODUCT    14-SI-0
+#C4BEGIN    [    1 14000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14000   4   2  C 145000.0 8000.000 0.057800          0.936700                              R.O.Lane+            (62)11574  4 
+    1 14000   4   2  C 145000.0 8000.000 0.051300          0.597600                              R.O.Lane+            (62)11574  4 
+    1 14000   4   2  C 145000.0 8000.000 0.040900          0.050590                              R.O.Lane+            (62)11574  4 
+    1 14000   4   2  C 145000.0 8000.000 0.030700         -0.484800                              R.O.Lane+            (62)11574  4 
+    1 14000   4   2  C 145000.0 8000.000 0.023400         -0.872900                              R.O.Lane+            (62)11574  4 
+#/DATA      5
+#/DATASET

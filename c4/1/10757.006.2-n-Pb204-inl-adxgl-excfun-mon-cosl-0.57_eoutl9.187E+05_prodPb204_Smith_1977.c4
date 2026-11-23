@@ -1,0 +1,31 @@
+#ENTRY      10757
+#AUTHOR1    D.L.Smith+
+#YEAR       1977
+#INSTITUTE  (1USAANL)
+#TITLE      Neutron inelastic scattering studies for lead 204
+#AUTHOR(S)  D.L.Smith, J.W.Meadows
+#REF-CODE   (R,ANL-NDM-37,197712)
+#REFERENCE  Report ANL-NDM-37, 1977
+#DATASETS   0
+#
+#DATASET    107570062
+#DATE       20100322
+#REACTION   82-PB-204(N,INL)82-PB-204,PAR,DA,G,4PI
+#PROJ       1
+#TARG       82204
+#MF         14
+#MT         51
+#PRODUCT    82-PB-204
+#C4BEGIN    [    1 82204  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82204  14  51 A  2243000. 116000.0 0.010719         -0.573576          918700.0            D.L.Smith+           (77)10757  62
+    1 82204  14  51 A  2495000. 111000.0 7.4063-3         -0.573576          918700.0            D.L.Smith+           (77)10757  62
+    1 82204  14  51 A  2647000. 108000.0 0.010600         -0.573576          918700.0            D.L.Smith+           (77)10757  62
+    1 82204  14  51 A  2747000. 106000.0 8.2092-3         -0.573576          918700.0            D.L.Smith+           (77)10757  62
+    1 82204  14  51 A  2849000. 105000.0 0.011236         -0.573576          918700.0            D.L.Smith+           (77)10757  62
+    1 82204  14  51 A  2949000. 103000.0 0.011571         -0.573576          918700.0            D.L.Smith+           (77)10757  62
+    1 82204  14  51 A  2999000. 102000.0 6.0948-3         -0.573576          918700.0            D.L.Smith+           (77)10757  62
+#/DATA      7
+#/DATASET

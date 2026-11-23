@@ -1,0 +1,28 @@
+#ENTRY      10285
+#AUTHOR1    W.E.Kinney+
+#YEAR       1973
+#INSTITUTE  (1USAORL)
+#TITLE      Ti neutron elastic- and inelastic- scattering
+#+          cross sections from 4.07 to 8.56 MeV
+#AUTHOR(S)  W.E.Kinney, F.G.Perey
+#REF-CODE   (R,ORNL-4810,1973)
+#REFERENCE  Report ORNL-4810, 1973
+#DATASETS   0
+#
+#DATASET    10285002 
+#DATE       20071108
+#REACTION   22-TI-0(N,EL)22-TI-0,,DA
+#PROJ       1
+#TARG       22000
+#MF         4
+#MT         2
+#PRODUCT    22-TI-0
+#C4BEGIN    [    1 22000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 22000   4   2 AC 4650000. 35000.00 0.030770          0.323422                              W.E.Kinney+          (73)10285  2 
+    1 22000   4   2 AC 4650000. 35000.00 0.029300          0.196460                              W.E.Kinney+          (73)10285  2 
+    1 22000   4   2 AC 4650000. 35000.00 0.037020          0.066274                              W.E.Kinney+          (73)10285  2 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      10111
+#AUTHOR1    W.E.Kinney+
+#YEAR       1970
+#INSTITUTE  (1USAORL)
+#TITLE      Neutron elastic- and inelastic-scattering cross
+#+          sections for 56Fe in the energy range 4.19 to 8.56 MeV
+#AUTHOR(S)  W.E.Kinney, F.G.Perey
+#REF-CODE   (R,ORNL-4515,197006)
+#REFERENCE  Report ORNL-4515, 1970
+#DATASETS   0
+#
+#DATASET    10111003 
+#DATE       20000202
+#REACTION   26-FE-0(N,INL)26-FE-56,PAR,DA
+#PROJ       1
+#TARG       26000
+#MF         4
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26000   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26000   4  51 AC 5440000. 170000.0 7.4900-3          0.663012          2084000.         LVLW.E.Kinney+          (70)10111  3 
+    1 26000   4  51 AC 5440000. 170000.0 7.3900-3          0.587079          2084000.         LVLW.E.Kinney+          (70)10111  3 
+    1 26000   4  51 AC 5440000. 170000.0 6.5800-3          0.288029          2084000.         LVLW.E.Kinney+          (70)10111  3 
+    1 26000   4  51 AC 5440000. 170000.0 7.6000-3          0.194406          2084000.         LVLW.E.Kinney+          (70)10111  3 
+    1 26000   4  51 AC 5440000. 170000.0 7.6600-3          0.099320          2084000.         LVLW.E.Kinney+          (70)10111  3 
+    1 26000   4  51 AC 5440000. 170000.0 6.0800-3          0.011868          2084000.         LVLW.E.Kinney+          (70)10111  3 
+    1 26000   4  51 AC 5440000. 170000.0 6.7500-3         -0.083852          2084000.         LVLW.E.Kinney+          (70)10111  3 
+    1 26000   4  51 AC 5440000. 170000.0 7.2500-3         -0.178802          2084000.         LVLW.E.Kinney+          (70)10111  3 
+    1 26000   4  51 AC 5440000. 170000.0 7.1600-3         -0.246661          2084000.         LVLW.E.Kinney+          (70)10111  3 
+    1 26000   4  51 AC 5440000. 170000.0 6.1200-3         -0.337917          2084000.         LVLW.E.Kinney+          (70)10111  3 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,26 @@
+#ENTRY      11591
+#AUTHOR1    D.B.Nichols+
+#YEAR       1966
+#INSTITUTE  (1USAKTY)
+#TITLE      Cross sections of Cl-35,37(n,n'gamma) reactions
+#AUTHOR(S)  D.B.Nichols, B.D.Kern, M.T.McEllistrem
+#REF-CODE   (J,PR,151,879,1966)
+#REFERENCE  Phys.Rev. 151 (1966) 879
+#DATASETS   0
+#
+#DATASET    11591005 
+#DATE       20200503
+#REACTION   17-CL-35(N,INL)17-CL-35,PAR,SIG,G
+#PROJ       1
+#TARG       17035
+#MF         13
+#MT         51
+#PRODUCT    17-CL-35
+#C4BEGIN    [    1 17035  13  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 17035  13  51 D  3090000. 70000.00 0.040000 0.012000                   2695000.            D.B.Nichols+         (66)11591  5 
+    1 17035  13  51 D  4030000. 70000.00 0.073000 0.023000                   2695000.            D.B.Nichols+         (66)11591  5 
+#/DATA      2
+#/DATASET

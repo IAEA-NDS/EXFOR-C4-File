@@ -1,0 +1,39 @@
+#ENTRY      13500
+#AUTHOR1    J.K.Dickens+
+#YEAR       1991
+#INSTITUTE  (1USAORL)
+#TITLE      Experimental and calculated excitation functions for
+#+          discrete-line gamma-ray production due to 1-40 MeV
+#+          neutron interactions with 56Fe.
+#AUTHOR(S)  J.K.Dickens, C.Y.Fu, D.M.Hetrick, D.C.Larson, J.H.Todd
+#REF-CODE   (C,91JUELIC,,307,199105)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 page 307
+#DATASETS   0
+#
+#DATASET    13500002 
+#DATE       19910124
+#REACTION   26-FE-56(N,INL)26-FE-56,PAR,SIG,G,AV
+#PROJ       1
+#TARG       26056
+#MF         13
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056  13  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056  13  51 A  4455000. 255000.0 7.6000-3 1.0000-3                   2034900.            J.K.Dickens+         (91)13500  2 
+    1 26056  13  51 A  5180000. 470000.0 0.025600 2.6000-3                   2034900.            J.K.Dickens+         (91)13500  2 
+    1 26056  13  51 A  6105000. 455000.0 0.027500 3.5000-3                   2034900.            J.K.Dickens+         (91)13500  2 
+    1 26056  13  51 A  7025000. 465000.0 0.025900 3.1000-3                   2034900.            J.K.Dickens+         (91)13500  2 
+    1 26056  13  51 A  7875000. 385000.0 0.024000 3.6000-3                   2034900.            J.K.Dickens+         (91)13500  2 
+    1 26056  13  51 A  8640000. 380000.0 0.017500 3.6000-3                   2034900.            J.K.Dickens+         (91)13500  2 
+    1 26056  13  51 A  9460000. 440000.0 0.017400 3.4000-3                   2034900.            J.K.Dickens+         (91)13500  2 
+    1 26056  13  51 A  1.0230+7 330000.0 0.022800 4.6000-3                   2034900.            J.K.Dickens+         (91)13500  2 
+    1 26056  13  51 A  1.0920+7 360000.0 0.016800 5.0000-3                   2034900.            J.K.Dickens+         (91)13500  2 
+    1 26056  13  51 A  1.1685+7 405000.0 0.015900 5.1000-3                   2034900.            J.K.Dickens+         (91)13500  2 
+    1 26056  13  51 A  1.2535+7 445000.0 0.017900 5.6000-3                   2034900.            J.K.Dickens+         (91)13500  2 
+    1 26056  13  51 A  1.3475+7 495000.0 0.014400 5.5000-3                   2034900.            J.K.Dickens+         (91)13500  2 
+    1 26056  13  51 A  1.4530+7 560000.0 0.010200 3.5000-3                   2034900.            J.K.Dickens+         (91)13500  2 
+#/DATA      13
+#/DATASET

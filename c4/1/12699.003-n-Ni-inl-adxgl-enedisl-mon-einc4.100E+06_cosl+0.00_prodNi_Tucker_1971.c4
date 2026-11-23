@@ -1,0 +1,32 @@
+#ENTRY      12699
+#AUTHOR1    W.E.Tucker+
+#YEAR       1971
+#INSTITUTE  (1USATNC)
+#TITLE      Ni gamma-ray production cross sections at 5 and
+#+          14.8 MeV.
+#AUTHOR(S)  W.E.Tucker, P.S.Buchanan, T.C.Martin, D.O.Nellis
+#REF-CODE   (P,ORO-2791-32,49,197102)
+#REFERENCE  Progress report ORO-2791-32 page 49, 1971
+#DATASETS   0
+#
+#DATASET    12699003 
+#DATE       20140419
+#REACTION   28-NI-0(N,INL)28-NI-0,PAR,DA,G
+#PROJ       1
+#TARG       28000
+#MF         14
+#MT         51
+#PRODUCT    28-NI-0
+#C4BEGIN    [    1 28000  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28000  14  51    4100000. 100000.0 0.083800 0.012570 6.123-17          750000.0 250000.0   W.E.Tucker+          (71)12699  3 
+    1 28000  14  51    4100000. 100000.0 0.144800 0.021720 6.123-17          1250000. 250000.0   W.E.Tucker+          (71)12699  3 
+    1 28000  14  51    4100000. 100000.0 0.035100 5.2650-3 6.123-17          1750000. 250000.0   W.E.Tucker+          (71)12699  3 
+    1 28000  14  51    4100000. 100000.0 0.010400 1.5600-3 6.123-17          2250000. 250000.0   W.E.Tucker+          (71)12699  3 
+    1 28000  14  51    4100000. 100000.0 4.1000-3 6.1500-4 6.123-17          2750000. 250000.0   W.E.Tucker+          (71)12699  3 
+    1 28000  14  51    4100000. 100000.0 9.1000-3 1.3650-3 6.123-17          3250000. 250000.0   W.E.Tucker+          (71)12699  3 
+    1 28000  14  51    4100000. 100000.0 2.5000-3 3.7500-4 6.123-17          3750000. 250000.0   W.E.Tucker+          (71)12699  3 
+#/DATA      7
+#/DATASET

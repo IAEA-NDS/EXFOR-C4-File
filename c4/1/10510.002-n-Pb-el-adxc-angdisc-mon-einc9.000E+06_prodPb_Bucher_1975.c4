@@ -1,0 +1,28 @@
+#ENTRY      10510
+#AUTHOR1    W.Bucher+
+#YEAR       1975
+#INSTITUTE  (1USABRL)
+#TITLE      Small-angle scattering of fast neutrons
+#AUTHOR(S)  W.Bucher, C.E.Hollandsworth, J.E.Youngblood
+#REF-CODE   (C,75WASH,2,945,1975)
+#REFERENCE  Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 2 page 945
+#DATASETS   0
+#
+#DATASET    10510002 
+#DATE       20040427
+#REACTION   82-PB-0(N,EL)82-PB-0,,DA
+#PROJ       1
+#TARG       82000
+#MF         4
+#MT         2
+#PRODUCT    82-PB-0
+#C4BEGIN    [    1 82000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   4   2 AC 9000000.          7.335000 0.168705 0.998188                              W.Bucher+            (75)10510  2 
+    1 82000   4   2 AC 9000000.          6.334000 0.114012 0.992778                              W.Bucher+            (75)10510  2 
+    1 82000   4   2 AC 9000000.          4.991000 0.084847 0.982385                              W.Bucher+            (75)10510  2 
+    1 82000   4   2 AC 9000000.          3.337000 0.060066 0.967356                              W.Bucher+            (75)10510  2 
+#/DATA      4
+#/DATASET

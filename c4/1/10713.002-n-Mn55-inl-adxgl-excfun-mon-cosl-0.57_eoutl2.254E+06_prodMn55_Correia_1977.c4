@@ -1,0 +1,31 @@
+#ENTRY      10713
+#AUTHOR1    J.A.Correia+
+#YEAR       1977
+#INSTITUTE  (1USALTI)
+#TITLE      Mn-55(n,n'gamma) cross-section studies for e(n) =
+#+          1.0 - 3.6 MeV.
+#AUTHOR(S)  J.A.Correia, W.A.Schier, L.E.Beghian, G.P.Couchell, J.J.Egan, 
+#+          G.H.R.Kegel, R.V.Leclaire, A.Mittler
+#REF-CODE   (J,NP/A,286,322,1977)
+#REFERENCE  Nucl.Phys.A 286 (1977) 322
+#DATASETS   0
+#
+#DATASET    10713002 
+#DATE       19780127
+#REACTION   25-MN-55(N,INL)25-MN-55,PAR,DA,G
+#PROJ       1
+#TARG       25055
+#MF         14
+#MT         51
+#PRODUCT    25-MN-55
+#C4BEGIN    [    1 25055  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 25055  14  51 A  2400000.          2.0600-3 5.0000-4-0.573576          2254000.            J.A.Correia+         (77)10713  2 
+    1 25055  14  51 A  2500000.          2.4400-3 6.0000-4-0.573576          2254000.            J.A.Correia+         (77)10713  2 
+    1 25055  14  51 A  2800000.          5.7600-3 1.4000-3-0.573576          2254000.            J.A.Correia+         (77)10713  2 
+    1 25055  14  51 A  3000000.          6.1700-3 1.5000-3-0.573576          2254000.            J.A.Correia+         (77)10713  2 
+    1 25055  14  51 A  3500000.          4.3600-3 1.1000-3-0.573576          2254000.            J.A.Correia+         (77)10713  2 
+#/DATA      5
+#/DATASET

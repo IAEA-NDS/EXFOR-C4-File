@@ -1,0 +1,37 @@
+#ENTRY      12765
+#AUTHOR1    C.A.Ciarcia+
+#YEAR       1985
+#INSTITUTE  (1USALTI)
+#TITLE      Neutron inelastic scattering cross sections for states
+#+          above 700 keV in 232-Th.
+#AUTHOR(S)  C.A.Ciarcia, G.P.Couchell, J.J.Egan, G.H.R.Kegel, S.Q.Li, 
+#+          A.Mittler, D.J.Pullen, W.A.Schier, J.Q.Shau
+#REF-CODE   (J,NSE,91,428,1985)
+#REFERENCE  Nucl.Sci.Eng. 91 (1985) 428
+#DATASETS   0
+#
+#DATASET    12765004 
+#DATE       20181203
+#REACTION   90-TH-232(N,INL)90-TH-232,PAR,DA
+#PROJ       1
+#TARG       90232
+#MF         4
+#MT         51
+#PRODUCT    90-TH-232
+#C4BEGIN    [    1 90232   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   4  51    1200000. 7500.000 0.016530 2.1500-3 0.819152          785200.0         LVLC.A.Ciarcia+         (85)12765  4 
+    1 90232   4  51    1200000. 7500.000 0.019790 2.5700-3 0.707107          785200.0         LVLC.A.Ciarcia+         (85)12765  4 
+    1 90232   4  51    1200000. 7500.000 0.019730 2.5600-3 0.573576          785200.0         LVLC.A.Ciarcia+         (85)12765  4 
+    1 90232   4  51    1200000. 7500.000 0.021920 2.8500-3 0.422618          785200.0         LVLC.A.Ciarcia+         (85)12765  4 
+    1 90232   4  51    1200000. 7500.000 0.019000 2.4700-3 0.258819          785200.0         LVLC.A.Ciarcia+         (85)12765  4 
+    1 90232   4  51    1200000. 7500.000 0.016140 2.0900-3 0.087156          785200.0         LVLC.A.Ciarcia+         (85)12765  4 
+    1 90232   4  51    1200000. 7500.000 0.018980 2.4700-3-0.087156          785200.0         LVLC.A.Ciarcia+         (85)12765  4 
+    1 90232   4  51    1200000. 7500.000 0.019250 2.2000-3-0.258819          785200.0         LVLC.A.Ciarcia+         (85)12765  4 
+    1 90232   4  51    1200000. 7500.000 0.020150 2.6200-3-0.422618          785200.0         LVLC.A.Ciarcia+         (85)12765  4 
+    1 90232   4  51    1200000. 7500.000 0.018510 2.4100-3-0.573576          785200.0         LVLC.A.Ciarcia+         (85)12765  4 
+    1 90232   4  51    1200000. 7500.000 0.020190 2.6200-3-0.707107          785200.0         LVLC.A.Ciarcia+         (85)12765  4 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      13578
+#AUTHOR1    L.Cranberg+
+#YEAR       1967
+#INSTITUTE  (1USALAS)
+#TITLE      Fast-neutron scattering from nuclides in the lead
+#+          region
+#AUTHOR(S)  L.Cranberg, T.A.Oliphant, J.Levin, C.D.Zafiratos
+#REF-CODE   (J,PR,159,969,196707)
+#REFERENCE  Phys.Rev. 159 (1967) 969
+#DATASETS   0
+#
+#DATASET    13578002 
+#DATE       20120713
+#REACTION   82-PB-206(N,INL)82-PB-206,PAR,DA
+#PROJ       1
+#TARG       82206
+#MF         4
+#MT         51
+#PRODUCT    82-PB-206
+#C4BEGIN    [    1 82206   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82206   4  51    2500000.          9.8700-3 6.0000-4-0.800000          1998000.         LVLL.Cranberg+          (67)13578  2 
+    1 82206   4  51    2500000.          8.3200-3 5.3000-4-0.616000          1998000.         LVLL.Cranberg+          (67)13578  2 
+    1 82206   4  51    2500000.          8.3900-3 5.0000-4 7.0000-3          1998000.         LVLL.Cranberg+          (67)13578  2 
+    1 82206   4  51    2500000.          8.6600-3 5.6000-4 0.638000          1998000.         LVLL.Cranberg+          (67)13578  2 
+    1 82206   4  51    2500000.          9.2600-3 5.6000-4 0.825000          1998000.         LVLL.Cranberg+          (67)13578  2 
+    1 82206   4  51    2500000.          9.0200-3 5.3000-4 0.918000          1998000.         LVLL.Cranberg+          (67)13578  2 
+#/DATA      6
+#/DATASET

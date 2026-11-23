@@ -1,0 +1,31 @@
+#ENTRY      10705
+#AUTHOR1    F.P.Brady+
+#YEAR       1977
+#INSTITUTE  (1USADAV)
+#TITLE      Proton pickup from 27Al via the (n,d) reaction at
+#+          56.3 MeV
+#AUTHOR(S)  F.P.Brady, J.R.Shepard, N.S.P.King, M.W.McNaughton, J.C.Wang
+#REF-CODE   (J,NP/A,288,269,19770926)
+#REFERENCE  Nucl.Phys.A 288 (1977) 269
+#DATASETS   0
+#
+#DATASET    10705002 
+#DATE       20081213
+#REACTION   13-AL-27(N,D)12-MG-26,PAR,DA
+#PROJ       1
+#TARG       13027
+#MF         4
+#MT         650
+#PRODUCT    12-MG-26
+#C4BEGIN    [    1 13027   4 650 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   4 650 AC 5.6300+7 200000.0 8.6000-4 1.4000-4 0.982967          0.000000         LVLF.P.Brady+           (77)10705  2 
+    1 13027   4 650 AC 5.6300+7 200000.0 7.4000-4 1.0000-4 0.959314          0.000000         LVLF.P.Brady+           (77)10705  2 
+    1 13027   4 650 AC 5.6300+7 200000.0 4.9000-4 1.0000-4 0.932576          0.000000         LVLF.P.Brady+           (77)10705  2 
+    1 13027   4 650 AC 5.6300+7 200000.0 2.2000-4 4.0000-5 0.850903          0.000000         LVLF.P.Brady+           (77)10705  2 
+    1 13027   4 650 AC 5.6300+7 200000.0 1.5000-4 6.0000-5 0.741156          0.000000         LVLF.P.Brady+           (77)10705  2 
+    1 13027   4 650 AC 5.6300+7 200000.0 3.6000-5 3.4000-5 0.607514          0.000000         LVLF.P.Brady+           (77)10705  2 
+#/DATA      6
+#/DATASET

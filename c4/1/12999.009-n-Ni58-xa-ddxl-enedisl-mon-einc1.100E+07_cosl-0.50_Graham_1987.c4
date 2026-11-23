@@ -1,0 +1,35 @@
+#ENTRY      12999
+#AUTHOR1    S.L.Graham+
+#YEAR       1987
+#INSTITUTE  (1USAOHO)
+#TITLE      CROSS SECTIONS AND SPECTRA FOR (N,XP) AND
+#+          (N,X ALPHA) REACTIONS ON 58NI AND 60NI AT ENERGIES
+#+          OF 9.4 AND 11 MEV.
+#AUTHOR(S)  S.L.Graham, M.Ahmad, S.M.Grimes, H.Satyanarayana, S.K.Saraf
+#REF-CODE   (J,NSE,95,60,8701)
+#REFERENCE  Nucl.Sci.Eng. 95 (1987) 60
+#DATASETS   0
+#
+#DATASET    12999009 
+#DATE       19890308
+#REACTION   28-NI-58(N,X)2-HE-4,,DA/DE
+#PROJ       1
+#TARG       28058
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1 28058   6 207 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   6 207 A  1.1000+7          3.000-11 2.000-11-0.500000          5700000.          E2S.L.Graham+          (87)12999  9 
+    1 28058   6 207 A  1.1000+7          2.000-10 5.000-11-0.500000          6700000.          E2S.L.Graham+          (87)12999  9 
+    1 28058   6 207 A  1.1000+7          6.000-10 1.500-10-0.500000          7700000.          E2S.L.Graham+          (87)12999  9 
+    1 28058   6 207 A  1.1000+7          1.1000-9 2.000-10-0.500000          8700000.          E2S.L.Graham+          (87)12999  9 
+    1 28058   6 207 A  1.1000+7          1.9000-9 2.500-10-0.500000          9700000.          E2S.L.Graham+          (87)12999  9 
+    1 28058   6 207 A  1.1000+7          1.4000-9 2.000-10-0.500000          1.0700+7          E2S.L.Graham+          (87)12999  9 
+    1 28058   6 207 A  1.1000+7          8.000-10 2.000-10-0.500000          1.1700+7          E2S.L.Graham+          (87)12999  9 
+    1 28058   6 207 A  1.1000+7          3.500-10 7.000-11-0.500000          1.2700+7          E2S.L.Graham+          (87)12999  9 
+    1 28058   6 207 A  1.1000+7          4.000-11 3.000-11-0.500000          1.3700+7          E2S.L.Graham+          (87)12999  9 
+#/DATA      9
+#/DATASET

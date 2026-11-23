@@ -1,0 +1,28 @@
+#ENTRY      10283
+#AUTHOR1    F.G.Perey+
+#YEAR       1974
+#INSTITUTE  (1USAORL)
+#TITLE      Nitrogen neutron elastic and inelastic scattering cross
+#+          sections from 4.34 to 8.56 MeV
+#AUTHOR(S)  F.G.Perey, W.E.Kinney
+#REF-CODE   (R,ORNL-4805,197402)
+#REFERENCE  Report ORNL-4805, 1974
+#DATASETS   0
+#
+#DATASET    10283004 
+#DATE       20071108
+#REACTION   7-N-14(N,INL)7-N-14,PAR,DA
+#PROJ       1
+#TARG       7014
+#MF         4
+#MT         51
+#PRODUCT    7-N-14
+#C4BEGIN    [    1  7014   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  7014   4  51 AC 8040000. 50000.00 2.1100-3          0.210472          5690000.         LVLF.G.Perey+           (74)10283  4 
+    1  7014   4  51 AC 8040000. 50000.00 2.0100-3          0.077067          5690000.         LVLF.G.Perey+           (74)10283  4 
+    1  7014   4  51 AC 8040000. 50000.00 1.6700-3         -0.058435          5690000.         LVLF.G.Perey+           (74)10283  4 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,41 @@
+#ENTRY      14403
+#AUTHOR1    J.R.Vanhoy+
+#YEAR       2015
+#INSTITUTE  (1USAANA)
+#TITLE      Neutron scattering differential cross sections for
+#+          23Na from 1.5 to 4.5 MeV
+#AUTHOR(S)  J.R.Vanhoy, S.F.Hicks, A.Chakraborty, B.R.Champine, B.M.Combs, 
+#+          B.P.Crider, L.J.Kersting, A.Kumar, C.J.Lueck, S.H.Liu, P.J.McDonough, 
+#+          M.T.McEllistrem, E.E.Peters, F.M.Prados-Estevez, L.C.Sidwell, 
+#+          A.J.Sigillito, D.W.Watts, S.W.Yates
+#REF-CODE   (J,NP/A,939,121,2015)
+#REFERENCE  Nucl.Phys.A 939 (2015) 121
+#DATASETS   0
+#
+#DATASET    14403002 
+#DATE       20250919
+#REACTION   11-NA-23(N,EL)11-NA-23,,DA
+#PROJ       1
+#TARG       11023
+#MF         4
+#MT         2
+#PRODUCT    11-NA-23
+#C4BEGIN    [    1 11023   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 11023   4   2  C 3500000.          0.365200 0.030300 0.854821                              J.R.Vanhoy+          (15)14403  2 
+    1 11023   4   2  C 3500000.          0.294300 0.024400 0.747566                              J.R.Vanhoy+          (15)14403  2 
+    1 11023   4   2  C 3500000.          0.229900 0.019100 0.616624                              J.R.Vanhoy+          (15)14403  2 
+    1 11023   4   2  C 3500000.          0.079400 6.6000-3 0.466695                              J.R.Vanhoy+          (15)14403  2 
+    1 11023   4   2  C 3500000.          0.055500 4.6000-3 0.303035                              J.R.Vanhoy+          (15)14403  2 
+    1 11023   4   2  C 3500000.          0.047000 3.9000-3 0.130872                              J.R.Vanhoy+          (15)14403  2 
+    1 11023   4   2  C 3500000.          0.058200 4.8000-3-0.043794                              J.R.Vanhoy+          (15)14403  2 
+    1 11023   4   2  C 3500000.          0.035700 3.0000-3-0.216099                              J.R.Vanhoy+          (15)14403  2 
+    1 11023   4   2  C 3500000.          0.047000 3.9000-3-0.380425                              J.R.Vanhoy+          (15)14403  2 
+    1 11023   4   2  C 3500000.          0.029100 2.4000-3-0.532581                              J.R.Vanhoy+          (15)14403  2 
+    1 11023   4   2  C 3500000.          0.027900 2.3000-3-0.668222                              J.R.Vanhoy+          (15)14403  2 
+    1 11023   4   2  C 3500000.          0.039500 3.3037-3-0.783910                              J.R.Vanhoy+          (15)14403  2 
+    1 11023   4   2  C 3500000.          0.027100 2.2606-3-0.851452                              J.R.Vanhoy+          (15)14403  2 
+#/DATA      13
+#/DATASET

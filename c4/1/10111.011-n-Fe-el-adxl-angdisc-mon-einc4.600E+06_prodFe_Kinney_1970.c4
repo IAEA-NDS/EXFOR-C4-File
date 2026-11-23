@@ -1,0 +1,37 @@
+#ENTRY      10111
+#AUTHOR1    W.E.Kinney+
+#YEAR       1970
+#INSTITUTE  (1USAORL)
+#TITLE      Neutron elastic- and inelastic-scattering cross
+#+          sections for 56Fe in the energy range 4.19 to 8.56 MeV
+#AUTHOR(S)  W.E.Kinney, F.G.Perey
+#REF-CODE   (R,ORNL-4515,197006)
+#REFERENCE  Report ORNL-4515, 1970
+#DATASETS   0
+#
+#DATASET    10111011 
+#DATE       20000202
+#REACTION   26-FE-0(N,EL)26-FE-0,,DA
+#PROJ       1
+#TARG       26000
+#MF         4
+#MT         2
+#PRODUCT    26-FE-0
+#C4BEGIN    [    1 26000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26000   4   2 AC 4600000. 50000.00 0.643170          0.861541                              W.E.Kinney+          (70)10111 11 
+    1 26000   4   2 AC 4600000. 50000.00 0.348340          0.722967                              W.E.Kinney+          (70)10111 11 
+    1 26000   4   2 AC 4600000. 50000.00 0.067130          0.561506                              W.E.Kinney+          (70)10111 11 
+    1 26000   4   2 AC 4600000. 50000.00 0.017740          0.359183                              W.E.Kinney+          (70)10111 11 
+    1 26000   4   2 AC 4600000. 50000.00 0.029170          0.156262                              W.E.Kinney+          (70)10111 11 
+    1 26000   4   2 AC 4600000. 50000.00 0.059800         -0.070279                              W.E.Kinney+          (70)10111 11 
+    1 26000   4   2 AC 4600000. 50000.00 0.048850         -0.070279                              W.E.Kinney+          (70)10111 11 
+    1 26000   4   2 AC 4600000. 50000.00 0.064960         -0.275470                              W.E.Kinney+          (70)10111 11 
+    1 26000   4   2 AC 4600000. 50000.00 0.046940         -0.483435                              W.E.Kinney+          (70)10111 11 
+    1 26000   4   2 AC 4600000. 50000.00 0.052570         -0.483435                              W.E.Kinney+          (70)10111 11 
+    1 26000   4   2 AC 4600000. 50000.00 0.053020         -0.483435                              W.E.Kinney+          (70)10111 11 
+    1 26000   4   2 AC 4600000. 50000.00 0.041330         -0.678929                              W.E.Kinney+          (70)10111 11 
+#/DATA      12
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      10824
+#AUTHOR1    T.S.Subramanian+
+#YEAR       1986
+#INSTITUTE  (1USADAV)
+#TITLE      DOUBLE-DIFFERENTIAL INCLUSIVE HYDROGEN AND HELIUM
+#+          SPECTRA FROM NEUTRON-INDUCED REACTIONS AT 27.4, 39.7
+#+          AND 60.7 MEV: OXYGEN AND NITROGEN.
+#AUTHOR(S)  T.S.Subramanian, J.L.Romero, F.P.Brady, D.H.Fitzgerald, 
+#+          R.Garrett, G.A.Needham, J.L.Ullmann, J.Watson, C.I.Zanelli, 
+#+          D.J.Brenner, R.E.Prael
+#REF-CODE   (J,PR/C,34,1580,8611)
+#REFERENCE  Phys.Rev.C 34 (1986) 1580
+#DATASETS   0
+#
+#DATASET    10824012 
+#DATE       19851119
+#REACTION   8-O-16(N,X)1-H-1,,DA/DE
+#PROJ       1
+#TARG       8016
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    1  8016   6 203 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8016   6 203 A  2.7400+7          4.600-10 2.500-10 0.422618 0.047454 8600000.          E2T.S.Subramanian+     (86)10824 12 
+    1  8016   6 203 A  2.7400+7          4.900-10 2.200-10 0.422618 0.047454 1.0600+7          E2T.S.Subramanian+     (86)10824 12 
+    1  8016   6 203 A  2.7400+7          3.800-10 2.000-10 0.422618 0.047454 1.2600+7          E2T.S.Subramanian+     (86)10824 12 
+    1  8016   6 203 A  2.7400+7          4.100-10 1.400-10 0.422618 0.047454 1.4600+7          E2T.S.Subramanian+     (86)10824 12 
+    1  8016   6 203 A  2.7400+7          4.600-10 1.300-10 0.422618 0.047454 1.6600+7          E2T.S.Subramanian+     (86)10824 12 
+#/DATA      5
+#/DATASET

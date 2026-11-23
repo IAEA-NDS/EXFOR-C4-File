@@ -1,0 +1,34 @@
+#ENTRY      10803
+#AUTHOR1    P.T.Guenther+
+#YEAR       1982
+#INSTITUTE  (1USAANL)
+#TITLE      Fast Neutron Total and Scattering Cross Sections of
+#+          182W,184W,186W
+#AUTHOR(S)  P.T.Guenther, A.B.Smith, J.F.Whalen
+#REF-CODE   (J,PR/C,26,2433,198212)
+#REFERENCE  Phys.Rev.C 26 (1982) 2433
+#DATASETS   0
+#
+#DATASET    10803011 
+#DATE       20080723
+#REACTION   74-W-182(N,INL)74-W-182,PAR,DA
+#PROJ       1
+#TARG       74182
+#MF         4
+#MT         51
+#PRODUCT    74-W-182
+#C4BEGIN    [    1 74182   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74182   4  51 A  2100000.          0.038700 7.7400-3 0.897258          326000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  2100000.          0.028500 5.7000-3 0.806960          326000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  2100000.          0.033000 6.6000-3 0.600420          326000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  2100000.          0.025800 5.1600-3 0.342020          326000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  2100000.          0.031600 6.3200-3 0.052336          326000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  2100000.          0.032500 6.5000-3-0.258819          326000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  2100000.          0.025100 5.0200-3-0.731354          326000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  2100000.          0.023100 4.6200-3-0.891007          326000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  2100000.          0.018600 3.7200-3-0.956305          326000.0          E2P.T.Guenther+        (82)10803 11 
+#/DATA      9
+#/DATASET

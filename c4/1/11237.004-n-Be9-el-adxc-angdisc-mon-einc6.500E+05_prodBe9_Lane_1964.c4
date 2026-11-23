@@ -1,0 +1,30 @@
+#ENTRY      11237
+#AUTHOR1    R.O.Lane+
+#YEAR       1964
+#INSTITUTE  (1USAANL)
+#TITLE      Polarization and Differential Cross Section of Neutrons
+#+          Scattered from BE9.
+#AUTHOR(S)  R.O.Lane, A.J.Elwyn, A.Langsdorf Jr
+#REF-CODE   (J,PR,133,B409,1964)
+#REFERENCE  Phys.Rev. 133 (1964) B409
+#DATASETS   0
+#
+#DATASET    11237004 
+#DATE       20050427
+#REACTION   4-BE-9(N,EL)4-BE-9,,DA
+#PROJ       1
+#TARG       4009
+#MF         4
+#MT         2
+#PRODUCT    4-BE-9
+#C4BEGIN    [    1  4009   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  4009   4   2  C 650000.0 20000.00 0.595000          0.927200                              R.O.Lane+            (64)11237  4 
+    1  4009   4   2  C 650000.0 20000.00 0.360000          0.544600                              R.O.Lane+            (64)11237  4 
+    1  4009   4   2  C 650000.0 20000.00 0.235000         -0.017500                              R.O.Lane+            (64)11237  4 
+    1  4009   4   2  C 650000.0 20000.00 0.330000         -0.529900                              R.O.Lane+            (64)11237  4 
+    1  4009   4   2  C 650000.0 20000.00 0.475000         -0.891000                              R.O.Lane+            (64)11237  4 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,37 @@
+#ENTRY      13506
+#AUTHOR1    G.C.Goswami+
+#YEAR       1986
+#INSTITUTE  (1USALTI)
+#TITLE      Differential neutron scattering cross sections for the
+#+          low-lying levels of thorium-232, uranium-235 and
+#+          uranium-238
+#AUTHOR(S)  G.C.Goswami
+#REF-CODE   (T,GOSWAMI,1986)
+#REFERENCE  Thesis  (1986)
+#DATASETS   0
+#
+#DATASET    13506005 
+#DATE       20260110
+#REACTION   92-U-238(N,INL)92-U-238,PAR,DA
+#PROJ       1
+#TARG       92238
+#MF         4
+#MT         51
+#PRODUCT    92-U-238
+#C4BEGIN    [    1 92238   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   4  51    550000.0          0.024900 7.5000-3 0.819152          148000.0         LVLG.C.Goswami          (86)13506  5 
+    1 92238   4  51    550000.0          0.014700 4.4000-3 0.707107          148000.0         LVLG.C.Goswami          (86)13506  5 
+    1 92238   4  51    550000.0          0.014700 4.4000-3 0.573576          148000.0         LVLG.C.Goswami          (86)13506  5 
+    1 92238   4  51    550000.0          0.012300 3.7000-3 0.422618          148000.0         LVLG.C.Goswami          (86)13506  5 
+    1 92238   4  51    550000.0          0.018300 6.5000-3 0.258819          148000.0         LVLG.C.Goswami          (86)13506  5 
+    1 92238   4  51    550000.0          0.010300 3.1000-3 0.087156          148000.0         LVLG.C.Goswami          (86)13506  5 
+    1 92238   4  51    550000.0          0.010300 3.1000-3-0.087156          148000.0         LVLG.C.Goswami          (86)13506  5 
+    1 92238   4  51    550000.0          0.010600 3.2000-3-0.258819          148000.0         LVLG.C.Goswami          (86)13506  5 
+    1 92238   4  51    550000.0          0.014500 4.3000-3-0.422618          148000.0         LVLG.C.Goswami          (86)13506  5 
+    1 92238   4  51    550000.0          0.013700 4.1000-3-0.573576          148000.0         LVLG.C.Goswami          (86)13506  5 
+    1 92238   4  51    550000.0          0.014300 4.3000-3-0.707107          148000.0         LVLG.C.Goswami          (86)13506  5 
+#/DATA      11
+#/DATASET

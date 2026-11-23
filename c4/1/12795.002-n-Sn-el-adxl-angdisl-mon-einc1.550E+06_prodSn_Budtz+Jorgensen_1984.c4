@@ -1,0 +1,35 @@
+#ENTRY      12795
+#AUTHOR1    C.Budtz-Jorgensen+
+#YEAR       1984
+#INSTITUTE  (1USAANL)
+#TITLE      Fast-neutron elastic-scattering cross sections of
+#+          elemental tin
+#AUTHOR(S)  C.Budtz-Jorgensen, P.Guenther, A.Smith
+#REF-CODE   (J,NP/A,415,1,198403)
+#REFERENCE  Nucl.Phys.A 415 (1984) 1
+#DATASETS   0
+#
+#DATASET    12795002 
+#DATE       20110806
+#REACTION   50-SN-0(N,EL)50-SN-0,,DA,,AV
+#PROJ       1
+#TARG       50000
+#MF         4
+#MT         2
+#PRODUCT    50-SN-0
+#C4BEGIN    [    1 50000   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 50000   4   2 C  1550000.          1.620000 0.097200 0.933580 3.7528-3                     C.Budtz-Jorgensen+   (84)12795  2 
+    1 50000   4   2 C  1550000.          1.350000 0.081000 0.858065 5.3778-3                     C.Budtz-Jorgensen+   (84)12795  2 
+    1 50000   4   2 C  1550000.          0.833000 0.049980 0.658689 7.8793-3                     C.Budtz-Jorgensen+   (84)12795  2 
+    1 50000   4   2 C  1550000.          0.456000 0.027360 0.425779 9.4753-3                     C.Budtz-Jorgensen+   (84)12795  2 
+    1 50000   4   2 C  1550000.          0.210000 0.012600 0.144356 0.010362                     C.Budtz-Jorgensen+   (84)12795  2 
+    1 50000   4   2 C  1550000.          0.112000 6.7200-3-0.133986 0.010378                     C.Budtz-Jorgensen+   (84)12795  2 
+    1 50000   4   2 C  1550000.          0.097700 5.8620-3-0.406737 9.5666-3                     C.Budtz-Jorgensen+   (84)12795  2 
+    1 50000   4   2 C  1550000.          0.141000 8.4600-3-0.642788 8.0220-3                     C.Budtz-Jorgensen+   (84)12795  2 
+    1 50000   4   2 C  1550000.          0.262000 0.015720-0.838671 5.7034-3                     C.Budtz-Jorgensen+   (84)12795  2 
+    1 50000   4   2 C  1550000.          0.362000 0.021720-0.920505 4.0917-3                     C.Budtz-Jorgensen+   (84)12795  2 
+#/DATA      10
+#/DATASET

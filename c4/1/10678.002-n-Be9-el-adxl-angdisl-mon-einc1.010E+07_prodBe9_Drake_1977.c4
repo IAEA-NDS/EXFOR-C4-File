@@ -1,0 +1,32 @@
+#ENTRY      10678
+#AUTHOR1    D.M.Drake+
+#YEAR       1977
+#INSTITUTE  (1USALAS)
+#TITLE      Double-DIfferential Beryllium Neutron Cross Sections
+#+          at Incident Neutron Energies of 5.9,10.1 and 14.2 MeV
+#AUTHOR(S)  D.M.Drake, G.F.Auchampaugh, E.D.Arthur, C.E.Ragan, P.G.Young
+#REF-CODE   (J,NSE,63,401,197708)
+#REFERENCE  Nucl.Sci.Eng. 63 (1977) 401
+#DATASETS   0
+#
+#DATASET    10678002 
+#DATE       20080901
+#REACTION   4-BE-9(N,EL)4-BE-9,,DA
+#PROJ       1
+#TARG       4009
+#MF         4
+#MT         2
+#PRODUCT    4-BE-9
+#C4BEGIN    [    1  4009   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  4009   4   2 A  1.0100+7          0.480000 0.062000 0.906308                              D.M.Drake+           (77)10678  2 
+    1  4009   4   2 A  1.0100+7          0.285000 0.037000 0.819152                              D.M.Drake+           (77)10678  2 
+    1  4009   4   2 A  1.0100+7          0.151000 0.020000 0.707107                              D.M.Drake+           (77)10678  2 
+    1  4009   4   2 A  1.0100+7          0.040000 5.0000-3 0.500000                              D.M.Drake+           (77)10678  2 
+    1  4009   4   2 A  1.0100+7          0.015000 2.0000-3 0.173648                              D.M.Drake+           (77)10678  2 
+    1  4009   4   2 A  1.0100+7          0.024000 3.1000-3-0.173648                              D.M.Drake+           (77)10678  2 
+    1  4009   4   2 A  1.0100+7          0.015000 2.0000-3-0.573576                              D.M.Drake+           (77)10678  2 
+#/DATA      7
+#/DATASET

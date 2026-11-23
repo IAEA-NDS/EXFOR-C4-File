@@ -1,0 +1,37 @@
+#ENTRY      10664
+#AUTHOR1    P.T.Guenther+
+#YEAR       1978
+#INSTITUTE  (1USAANL)
+#TITLE      Neutron Scattering and the Optical Model near A=208
+#+          and Implications on the Inelastic Cross Section of
+#+          Uranium-238.
+#AUTHOR(S)  P.T.Guenther, D.G.Havel, A.B.Smith
+#REF-CODE   (J,NSE,65,174,197801)
+#REFERENCE  Nucl.Sci.Eng. 65 (1978) 174
+#DATASETS   0
+#
+#DATASET    10664002 
+#DATE       19780222
+#REACTION   82-PB-206(N,EL)82-PB-206,,DA
+#PROJ       1
+#TARG       82206
+#MF         4
+#MT         2
+#PRODUCT    82-PB-206
+#C4BEGIN    [    1 82206   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82206   4   2 C  1000000.          1.706000          0.939693                              P.T.Guenther+        (78)10664  2 
+    1 82206   4   2 C  1000000.          1.151000          0.866025                              P.T.Guenther+        (78)10664  2 
+    1 82206   4   2 C  1000000.          1.151000          0.866025                              P.T.Guenther+        (78)10664  2 
+    1 82206   4   2 C  1000000.          0.579000          0.707107                              P.T.Guenther+        (78)10664  2 
+    1 82206   4   2 C  1000000.          0.372000          0.500000                              P.T.Guenther+        (78)10664  2 
+    1 82206   4   2 C  1000000.          0.230000          0.258819                              P.T.Guenther+        (78)10664  2 
+    1 82206   4   2 C  1000000.          0.278000          6.123-17                              P.T.Guenther+        (78)10664  2 
+    1 82206   4   2 C  1000000.          0.339000         -0.258819                              P.T.Guenther+        (78)10664  2 
+    1 82206   4   2 C  1000000.          0.370000         -0.500000                              P.T.Guenther+        (78)10664  2 
+    1 82206   4   2 C  1000000.          0.292000         -0.707107                              P.T.Guenther+        (78)10664  2 
+    1 82206   4   2 C  1000000.          0.290000         -0.819152                              P.T.Guenther+        (78)10664  2 
+#/DATA      11
+#/DATASET

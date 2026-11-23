@@ -1,0 +1,31 @@
+#ENTRY      13553
+#AUTHOR1    S.E.Hicks+
+#YEAR       1987
+#INSTITUTE  (1USAKTY)
+#TITLE      INFLUENCE OF NUCLEAR DYNAMICS ON NEUTRON SCATTERING
+#+          FROM 194PT
+#AUTHOR(S)  S.E.Hicks, J.P.Delaroche, N.C.Mirzaa, M.T.Mc Ellistrem
+#REF-CODE   (J,PR/C,36,73,8707)
+#REFERENCE  Phys.Rev.C 36 (1987) 73
+#DATASETS   0
+#
+#DATASET    13553004 
+#DATE       19921210
+#REACTION   78-PT-194(N,INL)78-PT-194,PAR,DA
+#PROJ       1
+#TARG       78194
+#MF         4
+#MT         51
+#PRODUCT    78-PT-194
+#C4BEGIN    [    1 78194   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 78194   4  51    4550000. 108000.0 1.6700-3          0.763796          811000.0         LVLS.E.Hicks+           (87)13553  4 
+    1 78194   4  51    4550000. 108000.0 1.2700-3          0.640110          811000.0         LVLS.E.Hicks+           (87)13553  4 
+    1 78194   4  51    4550000. 108000.0 2.1600-3          0.337095          811000.0         LVLS.E.Hicks+           (87)13553  4 
+    1 78194   4  51    4550000. 108000.0 1.9300-3          0.168489          811000.0         LVLS.E.Hicks+           (87)13553  4 
+    1 78194   4  51    4550000. 108000.0 2.7600-3         -0.178802          811000.0         LVLS.E.Hicks+           (87)13553  4 
+    1 78194   4  51    4550000. 108000.0 2.1100-3         -0.645458          811000.0         LVLS.E.Hicks+           (87)13553  4 
+#/DATA      6
+#/DATASET

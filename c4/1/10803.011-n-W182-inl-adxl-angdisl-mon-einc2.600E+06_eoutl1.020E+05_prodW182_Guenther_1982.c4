@@ -1,0 +1,33 @@
+#ENTRY      10803
+#AUTHOR1    P.T.Guenther+
+#YEAR       1982
+#INSTITUTE  (1USAANL)
+#TITLE      Fast Neutron Total and Scattering Cross Sections of
+#+          182W,184W,186W
+#AUTHOR(S)  P.T.Guenther, A.B.Smith, J.F.Whalen
+#REF-CODE   (J,PR/C,26,2433,198212)
+#REFERENCE  Phys.Rev.C 26 (1982) 2433
+#DATASETS   0
+#
+#DATASET    10803011 
+#DATE       20080723
+#REACTION   74-W-182(N,INL)74-W-182,PAR,DA
+#PROJ       1
+#TARG       74182
+#MF         4
+#MT         51
+#PRODUCT    74-W-182
+#C4BEGIN    [    1 74182   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74182   4  51 A  2600000.          0.084500 0.021125 0.885394          102000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  2600000.          0.053600 8.0400-3 0.414693          102000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  2600000.          0.047000 7.0500-3 0.147809          102000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  2600000.          0.046200 6.9300-3-0.147809          102000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  2600000.          0.041100 6.1650-3-0.406737          102000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  2600000.          0.045800 6.8700-3-0.656059          102000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  2600000.          0.026300 3.9450-3-0.838671          102000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  2600000.          0.019600 2.9400-3-0.920505          102000.0          E2P.T.Guenther+        (82)10803 11 
+#/DATA      8
+#/DATASET

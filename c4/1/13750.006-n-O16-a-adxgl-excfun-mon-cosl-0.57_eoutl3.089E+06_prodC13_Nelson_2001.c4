@@ -1,0 +1,35 @@
+#ENTRY      13750
+#AUTHOR1    R.O.Nelson+
+#YEAR       2001
+#INSTITUTE  (1USALAS)
+#TITLE      High-Resolution Measurements and Calculations of
+#+          Photon-Production Cross Sections for 16O(n,x gamma)
+#+          Reactions Induced by Neutrons with Energies between
+#+          4 and 200 MeV
+#AUTHOR(S)  R.O.Nelson, M.B.Chadwick, A.Michaudon, P.G.Young
+#REF-CODE   (J,NSE,138,105,200106)
+#REFERENCE  Nucl.Sci.Eng. 138 (2001) 105
+#DATASETS   0
+#
+#DATASET    13750006 
+#DATE       20041118
+#REACTION   8-O-16(N,A)6-C-13,PAR,DA,G
+#PROJ       1
+#TARG       8016
+#MF         14
+#MT         800
+#PRODUCT    6-C-13
+#C4BEGIN    [    1  8016  14 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8016  14 800    4500000. 500000.0 1.6490-4 6.7400-5-0.573576          3089000.            R.O.Nelson+          (01)13750  6 
+    1  8016  14 800    5500000. 500000.0 4.8600-5 1.0150-4-0.573576          3089000.            R.O.Nelson+          (01)13750  6 
+    1  8016  14 800    6500000. 500000.0 4.4800-5 1.2410-4-0.573576          3089000.            R.O.Nelson+          (01)13750  6 
+    1  8016  14 800    7500000. 500000.0 8.9030-4 1.6890-4-0.573576          3089000.            R.O.Nelson+          (01)13750  6 
+    1  8016  14 800    8500000. 500000.0 2.1093-3 2.3800-4-0.573576          3089000.            R.O.Nelson+          (01)13750  6 
+    1  8016  14 800    9500000. 500000.0 1.7788-3 2.9870-4-0.573576          3089000.            R.O.Nelson+          (01)13750  6 
+    1  8016  14 800    1.0500+7 500000.0 7.1200-4 3.5070-4-0.573576          3089000.            R.O.Nelson+          (01)13750  6 
+    1  8016  14 800    1.1500+7 500000.0 1.9830-4 3.8560-4-0.573576          3089000.            R.O.Nelson+          (01)13750  6 
+#/DATA      8
+#/DATASET

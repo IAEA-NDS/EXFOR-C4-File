@@ -1,0 +1,35 @@
+#ENTRY      12750
+#AUTHOR1    P.T.Guenther+
+#YEAR       1982
+#INSTITUTE  (1USAANL)
+#TITLE      THE TOTAL, ELASTIC AND INELASTIC SCATTERING FAST
+#+          NEUTRON CROSS SECTIONS OF NATURAL CHROMIUM
+#AUTHOR(S)  P.T.Guenther, A.B.Smith, J.F.Whalen
+#REF-CODE   (J,NSE,82,408,8212)
+#REFERENCE  Nucl.Sci.Eng. 82 (1982) 408
+#DATASETS   0
+#
+#DATASET    12750003 
+#DATE       19821203
+#REACTION   24-CR-0(N,EL),,DA,,AV
+#PROJ       1
+#TARG       24000
+#MF         4
+#MT         2
+#PRODUCT    24-CR-0
+#C4BEGIN    [    1 24000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 24000   4   2 A  3100000. 20000.00 1.010000 0.050500 0.927184 6.5381-3                     P.T.Guenther+        (82)12750  3 
+    1 24000   4   2 A  3100000. 20000.00 0.730000 0.036500 0.848048 9.2488-3                     P.T.Guenther+        (82)12750  3 
+    1 24000   4   2 A  3100000. 20000.00 0.315000 0.015750 0.669131 0.012970                     P.T.Guenther+        (82)12750  3 
+    1 24000   4   2 A  3100000. 20000.00 0.081900 4.0950-3 0.438371 0.015687                     P.T.Guenther+        (82)12750  3 
+    1 24000   4   2 A  3100000. 20000.00 0.038300 1.9150-3 0.173648 0.017188                     P.T.Guenther+        (82)12750  3 
+    1 24000   4   2 A  3100000. 20000.00 0.079600 3.9800-3-0.139173 0.017283                     P.T.Guenther+        (82)12750  3 
+    1 24000   4   2 A  3100000. 20000.00 0.099500 4.9750-3-0.406737 0.015944                     P.T.Guenther+        (82)12750  3 
+    1 24000   4   2 A  3100000. 20000.00 0.091000 4.5500-3-0.642788 0.013370                     P.T.Guenther+        (82)12750  3 
+    1 24000   4   2 A  3100000. 20000.00 0.085400 4.2700-3-0.829038 9.7598-3                     P.T.Guenther+        (82)12750  3 
+    1 24000   4   2 A  3100000. 20000.00 0.087800 4.3900-3-0.913545 7.0989-3                     P.T.Guenther+        (82)12750  3 
+#/DATA      10
+#/DATASET

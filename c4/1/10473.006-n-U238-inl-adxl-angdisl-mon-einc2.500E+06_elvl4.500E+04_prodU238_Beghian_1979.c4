@@ -1,0 +1,33 @@
+#ENTRY      10473
+#AUTHOR1    L.E.Beghian+
+#YEAR       1979
+#INSTITUTE  (1USALTI)
+#TITLE      Neutron scattering cross sections of uranium-238
+#AUTHOR(S)  L.E.Beghian, G.H.R.Kegel, T.V.Marcella, B.K.Barnes, G.P.Couchell, 
+#+          J.J.Egan, A.Mittler, D.J.Pullen, W.A.Schier
+#REF-CODE   (J,NSE,69,191,197902)
+#REFERENCE  Nucl.Sci.Eng. 69 (1979) 191
+#DATASETS   0
+#
+#DATASET    10473006 
+#DATE       20031103
+#REACTION   92-U-238(N,INL)92-U-238,PAR,DA
+#PROJ       1
+#TARG       92238
+#MF         4
+#MT         51
+#PRODUCT    92-U-238
+#C4BEGIN    [    1 92238   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   4  51 A  2500000.          0.038500 5.6000-3 0.707107 0.061707 45000.00         LVLL.E.Beghian+         (79)10473  6 
+    1 92238   4  51 A  2500000.          0.046800 4.7000-3 0.573576 0.071485 45000.00         LVLL.E.Beghian+         (79)10473  6 
+    1 92238   4  51 A  2500000.          0.042100 5.5000-3 0.342020 0.082004 45000.00         LVLL.E.Beghian+         (79)10473  6 
+    1 92238   4  51 A  2500000.          0.035600 4.9000-3 6.123-17 0.104720 45000.00         LVLL.E.Beghian+         (79)10473  6 
+    1 92238   4  51 A  2500000.          0.023000 3.2000-3-0.342020 0.114805 45000.00         LVLL.E.Beghian+         (79)10473  6 
+    1 92238   4  51 A  2500000.          0.031100 3.2000-3-0.573576 0.114375 45000.00         LVLL.E.Beghian+         (79)10473  6 
+    1 92238   4  51 A  2500000.          0.031800 3.5000-3-0.766044 0.078531 45000.00         LVLL.E.Beghian+         (79)10473  6 
+    1 92238   4  51 A  2500000.          0.029500 3.1000-3-0.882948 0.073744 45000.00         LVLL.E.Beghian+         (79)10473  6 
+#/DATA      8
+#/DATASET

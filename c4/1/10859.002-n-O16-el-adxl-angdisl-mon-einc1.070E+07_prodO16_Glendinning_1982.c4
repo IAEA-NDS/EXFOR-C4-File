@@ -1,0 +1,40 @@
+#ENTRY      10859
+#AUTHOR1    S.G.Glendinning+
+#YEAR       1982
+#INSTITUTE  (1USATNL)
+#TITLE      NEUTRON ELASTIC SCATTERING CROSS SECTIONS FOR O-16
+#+          BETWEEN 9 AND 15 MEV.
+#AUTHOR(S)  S.G.Glendinning, S.El-Kadi, C.E.Nelson, F.O.Purser, C.R.Gould, 
+#+          L.W.Seagondollar
+#REF-CODE   (J,NSE,82,393,8212)
+#REFERENCE  Nucl.Sci.Eng. 82 (1982) 393
+#DATASETS   0
+#
+#DATASET    10859002 
+#DATE       19870527
+#REACTION   8-O-16(N,EL)8-O-16,,DA
+#PROJ       1
+#TARG       8016
+#MF         4
+#MT         2
+#PRODUCT    8-O-16
+#C4BEGIN    [    1  8016   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8016   4   2 A  1.0697+7 311282.7 0.148800          0.897720                              S.G.Glendinning+     (82)10859  2 
+    1  8016   4   2 A  1.0697+7 311282.7 0.071080          0.806960                              S.G.Glendinning+     (82)10859  2 
+    1  8016   4   2 A  1.0697+7 311282.7 0.024430          0.686834                              S.G.Glendinning+     (82)10859  2 
+    1  8016   4   2 A  1.0697+7 311282.7 0.015390          0.527846                              S.G.Glendinning+     (82)10859  2 
+    1  8016   4   2 A  1.0697+7 311282.7 0.030210          0.365852                              S.G.Glendinning+     (82)10859  2 
+    1  8016   4   2 A  1.0697+7 311282.7 0.043400          0.199197                              S.G.Glendinning+     (82)10859  2 
+    1  8016   4   2 A  1.0697+7 311282.7 0.052720          0.027224                              S.G.Glendinning+     (82)10859  2 
+    1  8016   4   2 A  1.0697+7 311282.7 0.055470         -0.144011                              S.G.Glendinning+     (82)10859  2 
+    1  8016   4   2 A  1.0697+7 311282.7 0.043240         -0.308685                              S.G.Glendinning+     (82)10859  2 
+    1  8016   4   2 A  1.0697+7 311282.7 0.031970         -0.463605                              S.G.Glendinning+     (82)10859  2 
+    1  8016   4   2 A  1.0697+7 311282.7 0.020960         -0.608484                              S.G.Glendinning+     (82)10859  2 
+    1  8016   4   2 A  1.0697+7 311282.7 0.024920         -0.737513                              S.G.Glendinning+     (82)10859  2 
+    1  8016   4   2 A  1.0697+7 311282.7 0.045540         -0.839335                              S.G.Glendinning+     (82)10859  2 
+    1  8016   4   2 A  1.0697+7 311282.7 0.054740         -0.880560                              S.G.Glendinning+     (82)10859  2 
+#/DATA      14
+#/DATASET

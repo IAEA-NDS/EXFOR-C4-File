@@ -1,0 +1,37 @@
+#ENTRY      14370
+#AUTHOR1    M.S.Boswell+
+#YEAR       2013
+#INSTITUTE  (1USALAS)
+#TITLE      Neutron inelastic scattering in natural Cu as a
+#+          background in neutrinoless double-beta decay
+#+          experiments
+#AUTHOR(S)  M.S.Boswell, S.R.Elliott, D.V.Perepelitsa, M.Devlin, N.Fotiades, 
+#+          R.O.Nelson, T.Kawano, V.E.Guiseppe
+#REF-CODE   (J,PR/C,87,064607,2013)
+#REFERENCE  Phys.Rev.C 87 (2013) 064607
+#DATASETS   0
+#
+#DATASET    14370002 
+#DATE       20130802
+#REACTION   29-CU-63(N,INL)29-CU-63,PAR,SIG,G
+#PROJ       1
+#TARG       29063
+#MF         13
+#MT         51
+#PRODUCT    29-CU-63
+#C4BEGIN    [    1 29063  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29063  13  51    2179000.          5.6320-3 2.1040-3                   1341700.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    2246000.          3.4960-3 6.0900-4                   1341700.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    2317000.          4.2180-3 6.6300-4                   1341700.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    2391000.          3.2660-3 5.7500-4                   1341700.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    2468000.          5.2800-3 7.5600-4                   1341700.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    2550000.          5.9770-3 6.7400-4                   1341700.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    2635000.          5.9590-3 6.6300-4                   1341700.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    2725000.          5.5370-3 5.5500-4                   1341700.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    2819000.          4.1690-3 7.0500-4                   1341700.            M.S.Boswell+         (13)14370  2 
+    1 29063  13  51    3023000.          3.7090-3 5.9900-4                   1341700.            M.S.Boswell+         (13)14370  2 
+#/DATA      10
+#/DATASET

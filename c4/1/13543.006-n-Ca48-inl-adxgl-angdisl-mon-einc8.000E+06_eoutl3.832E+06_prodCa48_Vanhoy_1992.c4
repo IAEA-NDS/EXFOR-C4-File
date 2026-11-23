@@ -1,0 +1,33 @@
+#ENTRY      13543
+#AUTHOR1    J.R.Vanhoy+
+#YEAR       1992
+#INSTITUTE  (1USAKTY)
+#TITLE      Neutron and proton dynamics of 48Ca levels and gamma-
+#+          ray decays from neutron inelastic scattering
+#AUTHOR(S)  J.R.Vanhoy, M.T.McEllistrem, S.F.Hicks, R.A.Gatenby, E.M.Baum, 
+#+          E.L.Johnson, G.Molnar, S.W.Yates
+#REF-CODE   (J,PR/C,45,1628,199204)
+#REFERENCE  Phys.Rev.C 45 (1992) 1628
+#DATASETS   0
+#
+#DATASET    13543006 
+#DATE       20090831
+#REACTION   20-CA-48(N,INL)20-CA-48,PAR,DA,G
+#PROJ       1
+#TARG       20048
+#MF         14
+#MT         51
+#PRODUCT    20-CA-48
+#C4BEGIN    [    1 20048  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 20048  14  51 A  8000000.          0.058140 2.6700-3 0.766044          3832000.            J.R.Vanhoy+          (92)13543  6 
+    1 20048  14  51 A  8000000.          0.053870 2.0800-3 0.500000          3832000.            J.R.Vanhoy+          (92)13543  6 
+    1 20048  14  51 A  8000000.          0.048670 2.3700-3 6.123-17          3832000.            J.R.Vanhoy+          (92)13543  6 
+    1 20048  14  51 A  8000000.          0.048840 1.7800-3-0.173648          3832000.            J.R.Vanhoy+          (92)13543  6 
+    1 20048  14  51 A  8000000.          0.058910 2.3700-3-0.500000          3832000.            J.R.Vanhoy+          (92)13543  6 
+    1 20048  14  51 A  8000000.          0.060720 2.3700-3-0.642788          3832000.            J.R.Vanhoy+          (92)13543  6 
+    1 20048  14  51 A  8000000.          0.065810 2.3700-3-0.766044          3832000.            J.R.Vanhoy+          (92)13543  6 
+#/DATA      7
+#/DATASET

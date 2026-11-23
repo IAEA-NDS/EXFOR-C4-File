@@ -1,0 +1,33 @@
+#ENTRY      10437
+#AUTHOR1    D.L.Bernard+
+#YEAR       1975
+#INSTITUTE  (1USASWL)
+#TITLE      Scattering of neutrons by nitrogen and oxygen from
+#+          5.0 to 9.3 MeV
+#AUTHOR(S)  D.L.Bernard, M.C.Taylor
+#REF-CODE   (C,75WASH,2,938,197503)
+#REFERENCE  Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 2 page 938
+#DATASETS   0
+#
+#DATASET    10437004 
+#DATE       20030408
+#REACTION   7-N-14(N,INL)7-N-14,PAR,DA
+#PROJ       1
+#TARG       7014
+#MF         4
+#MT         51
+#PRODUCT    7-N-14
+#C4BEGIN    [    1  7014   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  7014   4  51 AC 9290000.          1.0000-3 5.0000-4-0.569000          3945000.         LVLD.L.Bernard+         (75)10437  4 
+    1  7014   4  51 AC 9290000.          1.6000-3 1.0000-3-0.424000          3945000.         LVLD.L.Bernard+         (75)10437  4 
+    1  7014   4  51 AC 9290000.          0.010800 1.0000-3-0.265000          3945000.         LVLD.L.Bernard+         (75)10437  4 
+    1  7014   4  51 AC 9290000.          7.2000-3 5.0000-4-0.095000          3945000.         LVLD.L.Bernard+         (75)10437  4 
+    1  7014   4  51 AC 9290000.          3.0000-3 1.0000-3 0.081000          3945000.         LVLD.L.Bernard+         (75)10437  4 
+    1  7014   4  51 AC 9290000.          2.2000-3 1.0000-3 0.257000          3945000.         LVLD.L.Bernard+         (75)10437  4 
+    1  7014   4  51 AC 9290000.          0.014000 1.4000-3 0.585000          3945000.         LVLD.L.Bernard+         (75)10437  4 
+    1  7014   4  51 AC 9290000.          0.026000 1.2000-3 0.725000          3945000.         LVLD.L.Bernard+         (75)10437  4 
+#/DATA      8
+#/DATASET

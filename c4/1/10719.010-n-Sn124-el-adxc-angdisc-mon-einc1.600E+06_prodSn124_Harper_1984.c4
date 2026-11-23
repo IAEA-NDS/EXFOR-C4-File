@@ -1,0 +1,29 @@
+#ENTRY      10719
+#AUTHOR1    R.W.Harper+
+#YEAR       1984
+#INSTITUTE  (1USAKTY)
+#TITLE      Interaction of neutrons with even-A tin isotopes:
+#+          Neutron-excess dependence in scattering as E(n) =
+#+          1.00 and 1.63 MeV.
+#AUTHOR(S)  R.W.Harper, J.L.Weil, J.D.Brandenberger
+#REF-CODE   (J,PR/C,30,1454,1984)
+#REFERENCE  Phys.Rev.C 30 (1984) 1454
+#DATASETS   0
+#
+#DATASET    10719010 
+#DATE       20240213
+#REACTION   50-SN-124(N,EL)50-SN-124,,DA
+#PROJ       1
+#TARG       50124
+#MF         4
+#MT         2
+#PRODUCT    50-SN-124
+#C4BEGIN    [    1 50124   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 50124   4   2  C 1600000. 98000.00 1.716500          0.938493                              R.W.Harper+          (84)10719 10 
+    1 50124   4   2  C 1600000. 98000.00 1.484100          0.864275                              R.W.Harper+          (84)10719 10 
+    1 50124   4   2  C 1600000. 98000.00 1.099600          0.763796                              R.W.Harper+          (84)10719 10 
+#/DATA      3
+#/DATASET

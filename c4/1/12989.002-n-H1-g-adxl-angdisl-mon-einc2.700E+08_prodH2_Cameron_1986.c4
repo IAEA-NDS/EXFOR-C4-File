@@ -1,0 +1,37 @@
+#ENTRY      12989
+#AUTHOR1    J.M.Cameron+
+#YEAR       1986
+#INSTITUTE  (1CANTMF)
+#TITLE      Radiative capture of polarized neutrons by hydrogen
+#+          below the PION production threshold
+#AUTHOR(S)  J.M.Cameron, C.A.Davis, H.Fielding, P.Kitching, J.Pasos, 
+#+          J.Soukup, J.Uegaki, J.Wesick, H.S.Wilson, R.Abegg, D.A.Hutcheon, 
+#+          C.A.Miller, A.W.Stetz, I.J.Van Heerden
+#REF-CODE   (J,NP/A,458,637,1986)
+#REFERENCE  Nucl.Phys.A 458 (1986) 637
+#DATASETS   0
+#
+#DATASET    12989002 
+#DATE       20240213
+#REACTION   1-H-1(N,G)1-H-2,,DA
+#PROJ       1
+#TARG       1001
+#MF         4
+#MT         102
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1001   4 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   4 102 A  2.7000+8 6500000. 4.8300-7 1.3000-8 0.852640                              J.M.Cameron+         (86)12989  2 
+    1  1001   4 102 A  2.7000+8 6500000. 5.3700-7 2.8000-8 0.827081                              J.M.Cameron+         (86)12989  2 
+    1  1001   4 102 A  2.7000+8 6500000. 6.5500-7 1.2000-8 0.654741                              J.M.Cameron+         (86)12989  2 
+    1  1001   4 102 A  2.7000+8 6500000. 8.2400-7 3.5000-8 0.564967                              J.M.Cameron+         (86)12989  2 
+    1  1001   4 102 A  2.7000+8 6500000. 8.5900-7 1.6000-8 0.275637                              J.M.Cameron+         (86)12989  2 
+    1  1001   4 102 A  2.7000+8 6500000. 9.6000-7 1.8000-8-0.087156                              J.M.Cameron+         (86)12989  2 
+    1  1001   4 102 A  2.7000+8 6500000. 9.8800-7 1.9000-8-0.443071                              J.M.Cameron+         (86)12989  2 
+    1  1001   4 102 A  2.7000+8 6500000. 9.6600-7 3.9000-8-0.496974                              J.M.Cameron+         (86)12989  2 
+    1  1001   4 102 A  2.7000+8 6500000. 9.1900-7 2.7000-8-0.665230                              J.M.Cameron+         (86)12989  2 
+    1  1001   4 102 A  2.7000+8 6500000. 7.7800-7 2.2000-8-0.812084                              J.M.Cameron+         (86)12989  2 
+#/DATA      10
+#/DATASET

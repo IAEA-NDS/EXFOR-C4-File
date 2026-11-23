@@ -1,0 +1,35 @@
+#ENTRY      10669
+#AUTHOR1    P.Guenther+
+#YEAR       1978
+#INSTITUTE  (1USAANL)
+#TITLE      Fast-neutron total and scattering cross sections of
+#+          elemental titanium
+#AUTHOR(S)  P.Guenther, D.Havel, A.Smith, J.Whalen
+#REF-CODE   (J,NP/A,307,224,197809)
+#REFERENCE  Nucl.Phys.A 307 (1978) 224
+#DATASETS   0
+#
+#DATASET    10669003 
+#DATE       20080828
+#REACTION   22-TI-0(N,EL)22-TI-0,,DA
+#PROJ       1
+#TARG       22000
+#MF         4
+#MT         2
+#PRODUCT    22-TI-0
+#C4BEGIN    [    1 22000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 22000   4   2 A  1800000.          0.632200 0.031610 0.904678                              P.Guenther+          (78)10669  3 
+    1 22000   4   2 A  1800000.          0.476000 0.023800 0.817648                              P.Guenther+          (78)10669  3 
+    1 22000   4   2 A  1800000.          0.252700 0.012635 0.628235                              P.Guenther+          (78)10669  3 
+    1 22000   4   2 A  1800000.          0.131900 6.5950-3 0.373959                              P.Guenther+          (78)10669  3 
+    1 22000   4   2 A  1800000.          0.074780 3.7390-3 0.104355                              P.Guenther+          (78)10669  3 
+    1 22000   4   2 A  1800000.          0.088820 4.4410-3-0.190809                              P.Guenther+          (78)10669  3 
+    1 22000   4   2 A  1800000.          0.119900 5.9950-3-0.452435                              P.Guenther+          (78)10669  3 
+    1 22000   4   2 A  1800000.          0.190200 9.5100-3-0.693402                              P.Guenther+          (78)10669  3 
+    1 22000   4   2 A  1800000.          0.257400 0.012870-0.864275                              P.Guenther+          (78)10669  3 
+    1 22000   4   2 A  1800000.          0.311800 0.015590-0.937889                              P.Guenther+          (78)10669  3 
+#/DATA      10
+#/DATASET

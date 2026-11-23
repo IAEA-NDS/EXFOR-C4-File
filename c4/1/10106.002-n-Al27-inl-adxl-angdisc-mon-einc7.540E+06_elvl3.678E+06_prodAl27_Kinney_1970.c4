@@ -1,0 +1,34 @@
+#ENTRY      10106
+#AUTHOR1    W.E.Kinney+
+#YEAR       1970
+#INSTITUTE  (1USAORL)
+#TITLE      Al neutron elastic- and inelastic-scattering cross
+#+          sections from 4.19 to 8.56 MeV
+#AUTHOR(S)  W.E.Kinney, F.G.Perey
+#REF-CODE   (R,ORNL-4516,197010)
+#REFERENCE  Report ORNL-4516, 1970
+#DATASETS   0
+#
+#DATASET    10106002 
+#DATE       20000202
+#REACTION   13-AL-27(N,INL)13-AL-27,PAR,DA
+#PROJ       1
+#TARG       13027
+#MF         4
+#MT         51
+#PRODUCT    13-AL-27
+#C4BEGIN    [    1 13027   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   4  51 AC 7540000. 40000.00 8.0000-4          0.362275          3678000.         LVLW.E.Kinney+          (70)10106  2 
+    1 13027   4  51 AC 7540000. 40000.00 7.3000-4          0.260673          3678000.         LVLW.E.Kinney+          (70)10106  2 
+    1 13027   4  51 AC 7540000. 40000.00 1.3700-3          0.122043          3678000.         LVLW.E.Kinney+          (70)10106  2 
+    1 13027   4  51 AC 7540000. 40000.00 1.1500-3         -0.052510          3678000.         LVLW.E.Kinney+          (70)10106  2 
+    1 13027   4  51 AC 7540000. 40000.00 1.4500-3         -0.087851          3678000.         LVLW.E.Kinney+          (70)10106  2 
+    1 13027   4  51 AC 7540000. 40000.00 9.3000-4         -0.258145          3678000.         LVLW.E.Kinney+          (70)10106  2 
+    1 13027   4  51 AC 7540000. 40000.00 8.9000-4         -0.450566          3678000.         LVLW.E.Kinney+          (70)10106  2 
+    1 13027   4  51 AC 7540000. 40000.00 7.2000-4         -0.531842          3678000.         LVLW.E.Kinney+          (70)10106  2 
+    1 13027   4  51 AC 7540000. 40000.00 1.2300-3         -0.635000          3678000.         LVLW.E.Kinney+          (70)10106  2 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      12802
+#AUTHOR1    A.B.Smith+
+#YEAR       1984
+#INSTITUTE  (1USAANL)
+#TITLE      FAST-NEUTRON TOTAL AND SCATTERING CROSS SECTIONS OF
+#+          ELEMENTAL INDIUM
+#AUTHOR(S)  A.B.Smith, P.T.Guenther, J.F.Whalen
+#REF-CODE   (J,NP/A,415,1,8403)
+#REFERENCE  Nucl.Phys.A 415 (1984) 1
+#DATASETS   0
+#
+#DATASET    12802003 
+#DATE       19830304
+#REACTION   49-IN-0(N,EL),,DA,,AV
+#PROJ       1
+#TARG       49000
+#MF         4
+#MT         2
+#PRODUCT    49-IN-0
+#C4BEGIN    [    1 49000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 49000   4   2 A  2200000.          1.410000 0.070500 0.931691 3.8040-3                     A.B.Smith+           (84)12802  3 
+    1 49000   4   2 A  2200000.          1.040000 0.052000 0.855364 5.4248-3                     A.B.Smith+           (84)12802  3 
+    1 49000   4   2 A  2200000.          0.523000 0.026150 0.680721 7.6712-3                     A.B.Smith+           (84)12802  3 
+    1 49000   4   2 A  2200000.          0.220000 0.011000 0.436802 9.4201-3                     A.B.Smith+           (84)12802  3 
+    1 49000   4   2 A  2200000.          0.100000 5.0000-3 0.173648 0.010313                     A.B.Smith+           (84)12802  3 
+    1 49000   4   2 A  2200000.          0.045900 3.0019-3-0.121869 0.010394                     A.B.Smith+           (84)12802  3 
+    1 49000   4   2 A  2200000.          0.030700 2.9994-3-0.390731 9.6395-3                     A.B.Smith+           (84)12802  3 
+    1 49000   4   2 A  2200000.          0.058500 3.0011-3-0.642788 8.0220-3                     A.B.Smith+           (84)12802  3 
+    1 49000   4   2 A  2200000.          0.124000 6.2000-3-0.829038 5.8559-3                     A.B.Smith+           (84)12802  3 
+    1 49000   4   2 A  2200000.          0.172000 8.6000-3-0.913545 4.2593-3                     A.B.Smith+           (84)12802  3 
+#/DATA      10
+#/DATASET

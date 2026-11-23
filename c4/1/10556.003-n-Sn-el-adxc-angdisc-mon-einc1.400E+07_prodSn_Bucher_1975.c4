@@ -1,0 +1,28 @@
+#ENTRY      10556
+#AUTHOR1    W.Bucher+
+#YEAR       1975
+#INSTITUTE  (1USABRL)
+#TITLE      Small-angle scattering of 7-14 MeV neutrons by nuclei.
+#AUTHOR(S)  W.Bucher, C.E.Hollandsworth
+#REF-CODE   (J,PL/B,58,277,197509)
+#REFERENCE  Phys.Lett.B 58 (1975) 277
+#DATASETS   0
+#
+#DATASET    10556003 
+#DATE       20040517
+#REACTION   50-SN-0(N,EL)50-SN-0,,DA
+#PROJ       1
+#TARG       50000
+#MF         4
+#MT         2
+#PRODUCT    50-SN-0
+#C4BEGIN    [    1 50000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 50000   4   2 AC 1.4000+7          8.340000 0.333600 0.998537                              W.Bucher+            (75)10556  3 
+    1 50000   4   2 AC 1.4000+7          7.700000 0.284900 0.992332                              W.Bucher+            (75)10556  3 
+    1 50000   4   2 AC 1.4000+7          6.430000 0.231480 0.982613                              W.Bucher+            (75)10556  3 
+    1 50000   4   2 AC 1.4000+7          4.480000 0.174720 0.965926                              W.Bucher+            (75)10556  3 
+#/DATA      4
+#/DATASET

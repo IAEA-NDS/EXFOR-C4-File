@@ -1,0 +1,35 @@
+#ENTRY      10803
+#AUTHOR1    P.T.Guenther+
+#YEAR       1982
+#INSTITUTE  (1USAANL)
+#TITLE      Fast Neutron Total and Scattering Cross Sections of
+#+          182W,184W,186W
+#AUTHOR(S)  P.T.Guenther, A.B.Smith, J.F.Whalen
+#REF-CODE   (J,PR/C,26,2433,198212)
+#REFERENCE  Phys.Rev.C 26 (1982) 2433
+#DATASETS   0
+#
+#DATASET    10803005 
+#DATE       20080723
+#REACTION   74-W-182(N,EL)74-W-182,,DA
+#PROJ       1
+#TARG       74182
+#MF         4
+#MT         2
+#PRODUCT    74-W-182
+#C4BEGIN    [    1 74182   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74182   4   2 A  1500000.          1.670000 0.167000 0.904827                              P.T.Guenther+        (82)10803  5 
+    1 74182   4   2 A  1500000.          1.120000 0.112000 0.817145                              P.T.Guenther+        (82)10803  5 
+    1 74182   4   2 A  1500000.          0.424000 0.042400 0.627963                              P.T.Guenther+        (82)10803  5 
+    1 74182   4   2 A  1500000.          0.090200 9.0200-3 0.374607                              P.T.Guenther+        (82)10803  5 
+    1 74182   4   2 A  1500000.          0.068900 6.8900-3 0.104528                              P.T.Guenther+        (82)10803  5 
+    1 74182   4   2 A  1500000.          0.116000 0.011600-0.190809                              P.T.Guenther+        (82)10803  5 
+    1 74182   4   2 A  1500000.          0.115000 0.017250-0.453990                              P.T.Guenther+        (82)10803  5 
+    1 74182   4   2 A  1500000.          0.100000 0.010000-0.694658                              P.T.Guenther+        (82)10803  5 
+    1 74182   4   2 A  1500000.          0.084600 8.4600-3-0.866025                              P.T.Guenther+        (82)10803  5 
+    1 74182   4   2 A  1500000.          0.093000 9.3000-3-0.939693                              P.T.Guenther+        (82)10803  5 
+#/DATA      10
+#/DATASET

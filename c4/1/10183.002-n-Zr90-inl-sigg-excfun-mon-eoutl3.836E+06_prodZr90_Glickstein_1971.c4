@@ -1,0 +1,32 @@
+#ENTRY      10183
+#AUTHOR1    S.S.Glickstein+
+#YEAR       1971
+#INSTITUTE  (1USABET)
+#TITLE      Neutron Inelastic Scattering from Zr90
+#AUTHOR(S)  S.S.Glickstein, G.Tessler, M.Goldsmith
+#REF-CODE   (J,PR/C,4,1818,197111)
+#REFERENCE  Phys.Rev.C 4 (1971) 1818
+#DATASETS   0
+#
+#DATASET    10183002 
+#DATE       20010214
+#REACTION   40-ZR-90(N,INL)40-ZR-90,PAR,SIG,G
+#PROJ       1
+#TARG       40090
+#MF         13
+#MT         51
+#PRODUCT    40-ZR-90
+#C4BEGIN    [    1 40090  13  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40090  13  51 A  3990000.          0.079000 0.016000                   3836000.            S.S.Glickstein+      (71)10183  2 
+    1 40090  13  51 A  4280000.          0.100000 0.020000                   3836000.            S.S.Glickstein+      (71)10183  2 
+    1 40090  13  51 A  4590000.          0.086000 0.017000                   3836000.            S.S.Glickstein+      (71)10183  2 
+    1 40090  13  51 A  4840000.          0.064000 0.016000                   3836000.            S.S.Glickstein+      (71)10183  2 
+    1 40090  13  51 A  5070000.          0.063000 0.016000                   3836000.            S.S.Glickstein+      (71)10183  2 
+    1 40090  13  51 A  5320000.          0.052000 0.011000                   3836000.            S.S.Glickstein+      (71)10183  2 
+    1 40090  13  51 A  5530000.          0.046000 9.0000-3                   3836000.            S.S.Glickstein+      (71)10183  2 
+    1 40090  13  51 A  5760000.          0.047000 0.010000                   3836000.            S.S.Glickstein+      (71)10183  2 
+#/DATA      8
+#/DATASET

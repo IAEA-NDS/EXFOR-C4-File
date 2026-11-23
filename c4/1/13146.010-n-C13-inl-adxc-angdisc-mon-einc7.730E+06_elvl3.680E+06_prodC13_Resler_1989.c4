@@ -1,0 +1,37 @@
+#ENTRY      13146
+#AUTHOR1    D.A.Resler+
+#YEAR       1989
+#INSTITUTE  (1USAOHO)
+#TITLE      STRUCTURE OF 14C VIA ELASTIC AND INELASTIC NEUTRON
+#+          SCATTERING FROM 13C: MEASUREMENT, R-MATRIX ANALYSIS,
+#+          AND SHELL MODEL CALCULATIONS
+#AUTHOR(S)  D.A.Resler, H.D.Knox, P.E.Koehler, R.O.Lane, G.F.Auchampaugh
+#REF-CODE   (J,PR/C,39,766,8903)
+#REFERENCE  Phys.Rev.C 39 (1989) 766
+#DATASETS   0
+#
+#DATASET    13146010 
+#DATE       19890616
+#REACTION   6-C-13(N,INL)6-C-13,PAR,DA
+#PROJ       1
+#TARG       6013
+#MF         4
+#MT         51
+#PRODUCT    6-C-13
+#C4BEGIN    [    1  6013   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6013   4  51  C 7730000.          0.020700 1.4000-3 0.958323          3680000.         LVLD.A.Resler+          (89)13146 10 
+    1  6013   4  51  C 7730000.          0.017000 1.1000-3 0.885394          3680000.         LVLD.A.Resler+          (89)13146 10 
+    1  6013   4  51  C 7730000.          0.011500 8.0000-4 0.718126          3680000.         LVLD.A.Resler+          (89)13146 10 
+    1  6013   4  51  C 7730000.          0.010100 6.0000-4 0.496974          3680000.         LVLD.A.Resler+          (89)13146 10 
+    1  6013   4  51  C 7730000.          0.012000 8.0000-4 0.241922          3680000.         LVLD.A.Resler+          (89)13146 10 
+    1  6013   4  51  C 7730000.          0.014400 1.0000-3-0.024432          3680000.         LVLD.A.Resler+          (89)13146 10 
+    1  6013   4  51  C 7730000.          0.017000 1.1000-3-0.280667          3680000.         LVLD.A.Resler+          (89)13146 10 
+    1  6013   4  51  C 7730000.          0.017100 1.1000-3-0.512043          3680000.         LVLD.A.Resler+          (89)13146 10 
+    1  6013   4  51  C 7730000.          0.014000 9.0000-4-0.705872          3680000.         LVLD.A.Resler+          (89)13146 10 
+    1  6013   4  51  C 7730000.          0.010900 7.0000-4-0.854459          3680000.         LVLD.A.Resler+          (89)13146 10 
+    1  6013   4  51  C 7730000.          0.011200 8.0000-4-0.943223          3680000.         LVLD.A.Resler+          (89)13146 10 
+#/DATA      11
+#/DATASET

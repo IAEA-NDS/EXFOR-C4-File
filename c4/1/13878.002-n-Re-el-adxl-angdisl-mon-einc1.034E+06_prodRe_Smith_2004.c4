@@ -1,0 +1,32 @@
+#ENTRY      13878
+#AUTHOR1    A.B.Smith+
+#YEAR       2004
+#INSTITUTE  (1USAANL)
+#TITLE      Fast-neutron scattering from elemental rhenium
+#AUTHOR(S)  A.B.Smith
+#REF-CODE   (J,JP/G,30,407,2004)
+#REFERENCE  J.Phys.G 30 (2004) 407
+#DATASETS   0
+#
+#DATASET    13878002 
+#DATE       20031103
+#REACTION   75-RE-0(N,EL)75-RE-0,,DA
+#PROJ       1
+#TARG       75000
+#MF         4
+#MT         2
+#PRODUCT    75-RE-0
+#C4BEGIN    [    1 75000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 75000   4   2 A  1034000.          1.045000 0.104500 0.866025                              A.B.Smith            (04)13878  2 
+    1 75000   4   2 A  1034000.          0.591200 0.059120 0.698415                              A.B.Smith            (04)13878  2 
+    1 75000   4   2 A  1034000.          0.269000 0.026900 0.484810                              A.B.Smith            (04)13878  2 
+    1 75000   4   2 A  1034000.          0.131600 0.013160 0.246999                              A.B.Smith            (04)13878  2 
+    1 75000   4   2 A  1034000.          0.123300 0.012330-0.087156                              A.B.Smith            (04)13878  2 
+    1 75000   4   2 A  1034000.          0.157200 0.015720-0.350207                              A.B.Smith            (04)13878  2 
+    1 75000   4   2 A  1034000.          0.169500 0.016950-0.583541                              A.B.Smith            (04)13878  2 
+    1 75000   4   2 A  1034000.          0.160000 0.016000-0.866025                              A.B.Smith            (04)13878  2 
+#/DATA      8
+#/DATASET

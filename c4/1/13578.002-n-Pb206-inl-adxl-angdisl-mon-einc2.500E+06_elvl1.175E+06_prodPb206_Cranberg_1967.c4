@@ -1,0 +1,37 @@
+#ENTRY      13578
+#AUTHOR1    L.Cranberg+
+#YEAR       1967
+#INSTITUTE  (1USALAS)
+#TITLE      Fast-neutron scattering from nuclides in the lead
+#+          region
+#AUTHOR(S)  L.Cranberg, T.A.Oliphant, J.Levin, C.D.Zafiratos
+#REF-CODE   (J,PR,159,969,196707)
+#REFERENCE  Phys.Rev. 159 (1967) 969
+#DATASETS   0
+#
+#DATASET    13578002 
+#DATE       20120713
+#REACTION   82-PB-206(N,INL)82-PB-206,PAR,DA
+#PROJ       1
+#TARG       82206
+#MF         4
+#MT         51
+#PRODUCT    82-PB-206
+#C4BEGIN    [    1 82206   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82206   4  51    2500000.          0.011640 6.1000-4-0.884000          1175000.         LVLL.Cranberg+          (67)13578  2 
+    1 82206   4  51    2500000.          0.010620 5.8000-4-0.812000          1175000.         LVLL.Cranberg+          (67)13578  2 
+    1 82206   4  51    2500000.          9.4900-3 7.1000-4-0.772000          1175000.         LVLL.Cranberg+          (67)13578  2 
+    1 82206   4  51    2500000.          7.1900-3 6.5000-4-0.645000          1175000.         LVLL.Cranberg+          (67)13578  2 
+    1 82206   4  51    2500000.          5.1900-3 7.1000-4-0.357000          1175000.         LVLL.Cranberg+          (67)13578  2 
+    1 82206   4  51    2500000.          4.5200-3 6.8000-4-5.0000-3          1175000.         LVLL.Cranberg+          (67)13578  2 
+    1 82206   4  51    2500000.          5.0100-3 5.5000-4 0.331000          1175000.         LVLL.Cranberg+          (67)13578  2 
+    1 82206   4  51    2500000.          7.1400-3 6.5000-4 0.619000          1175000.         LVLL.Cranberg+          (67)13578  2 
+    1 82206   4  51    2500000.          8.1200-3 6.1000-4 0.762000          1175000.         LVLL.Cranberg+          (67)13578  2 
+    1 82206   4  51    2500000.          9.5000-3 6.1000-4 0.812000          1175000.         LVLL.Cranberg+          (67)13578  2 
+    1 82206   4  51    2500000.          9.9600-3 5.8000-4 0.869000          1175000.         LVLL.Cranberg+          (67)13578  2 
+    1 82206   4  51    2500000.          0.011650 7.1000-4 0.906000          1175000.         LVLL.Cranberg+          (67)13578  2 
+#/DATA      12
+#/DATASET

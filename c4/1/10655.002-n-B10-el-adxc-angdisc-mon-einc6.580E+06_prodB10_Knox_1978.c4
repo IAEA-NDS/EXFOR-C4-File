@@ -1,0 +1,34 @@
+#ENTRY      10655
+#AUTHOR1    H.D.Knox+
+#YEAR       1978
+#INSTITUTE  (1USAOHO)
+#TITLE      Differential Elastic Scattering Cross Sections of 10B
+#+          for neutron energies of 4 to 8 MeV.
+#AUTHOR(S)  H.D.Knox, R.M.White, R.O.Lane
+#REF-CODE   (J,NSE,65,65,197801)
+#REFERENCE  Nucl.Sci.Eng. 65 (1978) 65
+#DATASETS   0
+#
+#DATASET    10655002 
+#DATE       20080819
+#REACTION   5-B-10(N,EL)5-B-10,,DA
+#PROJ       1
+#TARG       5010
+#MF         4
+#MT         2
+#PRODUCT    5-B-10
+#C4BEGIN    [    1  5010   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5010   4   2 AC 6580000.          0.340900 0.022200 0.927836                              H.D.Knox+            (78)10655  2 
+    1  5010   4   2 AC 6580000.          0.153700 0.010300 0.754710                              H.D.Knox+            (78)10655  2 
+    1  5010   4   2 AC 6580000.          0.038900 2.9000-3 0.504528                              H.D.Knox+            (78)10655  2 
+    1  5010   4   2 AC 6580000.          0.021900 1.7000-3 0.207912                              H.D.Knox+            (78)10655  2 
+    1  5010   4   2 AC 6580000.          0.042900 3.0000-3-0.099320                              H.D.Knox+            (78)10655  2 
+    1  5010   4   2 AC 6580000.          0.052500 3.7000-3-0.390731                              H.D.Knox+            (78)10655  2 
+    1  5010   4   2 AC 6580000.          0.050200 3.6000-3-0.638768                              H.D.Knox+            (78)10655  2 
+    1  5010   4   2 AC 6580000.          0.053000 3.9000-3-0.829038                              H.D.Knox+            (78)10655  2 
+    1  5010   4   2 AC 6580000.          0.066400 4.9000-3-0.950516                              H.D.Knox+            (78)10655  2 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      12752
+#AUTHOR1    C.Budtz-Jorgensen+
+#YEAR       1982
+#INSTITUTE  (1USAANL)
+#TITLE      FAST-NEUTRON TOTAL AND SCATTERING CROSS SECTIONS OF
+#+          58-NI
+#AUTHOR(S)  C.Budtz-Jorgensen, P.T.Guenther, A.B.Smith, J.F.Whalen
+#REF-CODE   (J,ZP/A,306,265,8208)
+#REFERENCE  Z.Phys.A 306 (1982) 265
+#DATASETS   0
+#
+#DATASET    12752003 
+#DATE       19821129
+#REACTION   28-NI-58(N,EL)28-NI-58,,DA,,AV
+#PROJ       1
+#TARG       28058
+#MF         4
+#MT         2
+#PRODUCT    28-NI-58
+#C4BEGIN    [    1 28058   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   4   2 A  1620000. 10000.00 0.793000 0.039650 0.934826 6.1978-3                     C.Budtz-Jorgensen+   (82)12752  3 
+    1 28058   4   2 A  1620000. 10000.00 0.652000 0.032600 0.859852 8.9107-3                     C.Budtz-Jorgensen+   (82)12752  3 
+    1 28058   4   2 A  1620000. 10000.00 0.375000 0.018750 0.674302 0.012888                     C.Budtz-Jorgensen+   (82)12752  3 
+    1 28058   4   2 A  1620000. 10000.00 0.186000 9.3000-3 0.430511 0.015753                     C.Budtz-Jorgensen+   (82)12752  3 
+    1 28058   4   2 A  1620000. 10000.00 0.116000 5.8000-3 0.165048 0.017214                     C.Budtz-Jorgensen+   (82)12752  3 
+    1 28058   4   2 A  1620000. 10000.00 0.111000 5.5500-3-0.130526 0.017304                     C.Budtz-Jorgensen+   (82)12752  3 
+    1 28058   4   2 A  1620000. 10000.00 0.122000 6.1000-3-0.390731 0.016066                     C.Budtz-Jorgensen+   (82)12752  3 
+    1 28058   4   2 A  1620000. 10000.00 0.153000 7.6500-3-0.642788 0.013370                     C.Budtz-Jorgensen+   (82)12752  3 
+    1 28058   4   2 A  1620000. 10000.00 0.186000 9.3000-3-0.838671 9.5057-3                     C.Budtz-Jorgensen+   (82)12752  3 
+    1 28058   4   2 A  1620000. 10000.00 0.203000 0.010150-0.920505 6.8195-3                     C.Budtz-Jorgensen+   (82)12752  3 
+#/DATA      10
+#/DATASET

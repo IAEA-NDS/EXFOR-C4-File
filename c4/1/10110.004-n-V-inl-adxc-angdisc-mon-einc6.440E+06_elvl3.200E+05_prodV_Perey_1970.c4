@@ -1,0 +1,30 @@
+#ENTRY      10110
+#AUTHOR1    F.G.Perey+
+#YEAR       1970
+#INSTITUTE  (1USAORL)
+#TITLE      V neutron elastic and inelastic scattering cross
+#+          sections from 4.19 to 8.56 MeV
+#AUTHOR(S)  F.G.Perey, W.E.Kinney
+#REF-CODE   (R,ORNL-4551,197010)
+#REFERENCE  Report ORNL-4551, 1970
+#DATASETS   0
+#
+#DATASET    10110004 
+#DATE       20000202
+#REACTION   23-V-0(N,INL)23-V-51,PAR,DA
+#PROJ       1
+#TARG       23000
+#MF         4
+#MT         51
+#PRODUCT    23-V-51
+#C4BEGIN    [    1 23000   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 23000   4  51 AC 6440000. 130000.0 3.8700-3          0.595945          320000.0         LVLF.G.Perey+           (70)10110  4 
+    1 23000   4  51 AC 6440000. 130000.0 2.0200-3         -0.485115          320000.0         LVLF.G.Perey+           (70)10110  4 
+    1 23000   4  51 AC 6440000. 130000.0 2.9100-3         -0.507689          320000.0         LVLF.G.Perey+           (70)10110  4 
+    1 23000   4  51 AC 6440000. 130000.0 2.8300-3         -0.614698          320000.0         LVLF.G.Perey+           (70)10110  4 
+    1 23000   4  51 AC 6440000. 130000.0 3.1500-3         -0.711168          320000.0         LVLF.G.Perey+           (70)10110  4 
+#/DATA      5
+#/DATASET

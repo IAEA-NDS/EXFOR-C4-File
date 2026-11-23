@@ -1,0 +1,35 @@
+#ENTRY      13162
+#AUTHOR1    E.T.Sadowski+
+#YEAR       1990
+#INSTITUTE  (1USAOHO)
+#TITLE      HIGHER EXCITATION LEVELS OF 11B VIA THE 10B(N,N)10B AND
+#+          10B(N,N')10B*(0.72, 1.74, 2.15, 3.59, 4.77 MEV)
+#+          REACTIONS
+#AUTHOR(S)  E.T.Sadowski, H.D.Knox, D.A.Resler, R.O.Lane
+#REF-CODE   (J,PR/C,42,190,9007)
+#REFERENCE  Phys.Rev.C 42 (1990) 190
+#DATASETS   0
+#
+#DATASET    13162002 
+#DATE       19891101
+#REACTION   5-B-10(N,EL)5-B-10,,DA
+#PROJ       1
+#TARG       5010
+#MF         4
+#MT         2
+#PRODUCT    5-B-10
+#C4BEGIN    [    1  5010   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5010   4   2 AC 3510000.          0.298900 0.014600 0.927184                              E.T.Sadowski+        (90)13162  2 
+    1  5010   4   2 AC 3510000.          0.204400 0.010000 0.754710                              E.T.Sadowski+        (90)13162  2 
+    1  5010   4   2 AC 3510000.          0.104800 5.1000-3 0.504528                              E.T.Sadowski+        (90)13162  2 
+    1  5010   4   2 AC 3510000.          0.044500 2.2000-3 0.207912                              E.T.Sadowski+        (90)13162  2 
+    1  5010   4   2 AC 3510000.          0.032300 1.6000-3-0.101056                              E.T.Sadowski+        (90)13162  2 
+    1  5010   4   2 AC 3510000.          0.053600 2.6000-3-0.390731                              E.T.Sadowski+        (90)13162  2 
+    1  5010   4   2 AC 3510000.          0.082600 4.1000-3-0.638768                              E.T.Sadowski+        (90)13162  2 
+    1  5010   4   2 AC 3510000.          0.101000 4.9000-3-0.829038                              E.T.Sadowski+        (90)13162  2 
+    1  5010   4   2 AC 3510000.          0.111400 5.5000-3-0.938493                              E.T.Sadowski+        (90)13162  2 
+#/DATA      9
+#/DATASET

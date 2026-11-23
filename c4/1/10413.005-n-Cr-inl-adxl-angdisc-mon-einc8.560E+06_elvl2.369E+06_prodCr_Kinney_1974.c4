@@ -1,0 +1,38 @@
+#ENTRY      10413
+#AUTHOR1    W.E.Kinney+
+#YEAR       1974
+#INSTITUTE  (1USAORL)
+#TITLE      Natural chromium and 52Cr neutron elastic and
+#+          inelastic scattering cross sections from 4.07 to
+#+          8.56 MeV
+#AUTHOR(S)  W.E.Kinney, F.G.Perey
+#REF-CODE   (R,ORNL-4806,197401)
+#REFERENCE  Report ORNL-4806, 1974
+#DATASETS   0
+#
+#DATASET    10413005 
+#DATE       20030220
+#REACTION   24-CR-0(N,INL)24-CR-52,PAR,DA
+#PROJ       1
+#TARG       24000
+#MF         4
+#MT         51
+#PRODUCT    24-CR-52
+#C4BEGIN    [    1 24000   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 24000   4  51 AC 8560000. 50000.00 3.5900-3          0.726814          2369000.         LVLW.E.Kinney+          (74)10413  5 
+    1 24000   4  51 AC 8560000. 50000.00 1.6100-3          0.663143          2369000.         LVLW.E.Kinney+          (74)10413  5 
+    1 24000   4  51 AC 8560000. 50000.00 1.4900-3          0.443697          2369000.         LVLW.E.Kinney+          (74)10413  5 
+    1 24000   4  51 AC 8560000. 50000.00 1.2500-3          0.321935          2369000.         LVLW.E.Kinney+          (74)10413  5 
+    1 24000   4  51 AC 8560000. 50000.00 1.9800-3          0.194748          2369000.         LVLW.E.Kinney+          (74)10413  5 
+    1 24000   4  51 AC 8560000. 50000.00 1.6200-3          0.064706          2369000.         LVLW.E.Kinney+          (74)10413  5 
+    1 24000   4  51 AC 8560000. 50000.00 1.7200-3         -0.066274          2369000.         LVLW.E.Kinney+          (74)10413  5 
+    1 24000   4  51 AC 8560000. 50000.00 1.7100-3         -0.195604          2369000.         LVLW.E.Kinney+          (74)10413  5 
+    1 24000   4  51 AC 8560000. 50000.00 1.4900-3         -0.321274          2369000.         LVLW.E.Kinney+          (74)10413  5 
+    1 24000   4  51 AC 8560000. 50000.00 1.4400-3         -0.509642          2369000.         LVLW.E.Kinney+          (74)10413  5 
+    1 24000   4  51 AC 8560000. 50000.00 1.2300-3         -0.616211          2369000.         LVLW.E.Kinney+          (74)10413  5 
+    1 24000   4  51 AC 8560000. 50000.00 1.3700-3         -0.712394          2369000.         LVLW.E.Kinney+          (74)10413  5 
+#/DATA      12
+#/DATASET

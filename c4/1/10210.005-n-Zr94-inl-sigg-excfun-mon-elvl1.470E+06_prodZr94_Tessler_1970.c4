@@ -1,0 +1,35 @@
+#ENTRY      10210
+#AUTHOR1    G.Tessler+
+#YEAR       1970
+#INSTITUTE  (1USABET)
+#TITLE      Neutron Inelastic Scattering from 92Zr and 94Zr
+#AUTHOR(S)  G.Tessler, S.S.Glickstein, E.E.Carroll Jr
+#REF-CODE   (J,PR/C,2,2390,197012)
+#REFERENCE  Phys.Rev.C 2 (1970) 2390
+#DATASETS   0
+#
+#DATASET    10210005 
+#DATE       19821012
+#REACTION   40-ZR-94(N,INL)40-ZR-94,PAR,SIG,G
+#PROJ       1
+#TARG       40094
+#MF         13
+#MT         51
+#PRODUCT    40-ZR-94
+#C4BEGIN    [    1 40094  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40094  13  51    1505000.          0.020000 5.0000-3                   1470000.            G.Tessler+           (70)10210  5 
+    1 40094  13  51    1588000.          0.050000 7.0000-3                   1470000.            G.Tessler+           (70)10210  5 
+    1 40094  13  51    1688000.          0.097000 0.013000                   1470000.            G.Tessler+           (70)10210  5 
+    1 40094  13  51    1846000.          0.141000 0.019000                   1470000.            G.Tessler+           (70)10210  5 
+    1 40094  13  51    2004000.          0.149000 0.020000                   1470000.            G.Tessler+           (70)10210  5 
+    1 40094  13  51    2109000.          0.158000 0.021000                   1470000.            G.Tessler+           (70)10210  5 
+    1 40094  13  51    2192000.          0.154000 0.021000                   1470000.            G.Tessler+           (70)10210  5 
+    1 40094  13  51    2262000.          0.162000 0.021000                   1470000.            G.Tessler+           (70)10210  5 
+    1 40094  13  51    2369000.          0.150000 0.020000                   1470000.            G.Tessler+           (70)10210  5 
+    1 40094  13  51    2453000.          0.138000 0.019000                   1470000.            G.Tessler+           (70)10210  5 
+    1 40094  13  51    2577000.          0.140000 0.026000                   1470000.            G.Tessler+           (70)10210  5 
+#/DATA      11
+#/DATASET

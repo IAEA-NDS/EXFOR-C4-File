@@ -1,0 +1,35 @@
+#ENTRY      13131
+#AUTHOR1    A.B.Smith+
+#YEAR       1988
+#INSTITUTE  (1USAANL)
+#TITLE      Energy dependence of the optical model potential for
+#+          fast neutron scattering from cobalt.
+#AUTHOR(S)  A.B.Smith, P.T.Guenther, R.D.Lawson
+#REF-CODE   (J,NP/A,483,50,1988)
+#REFERENCE  Nucl.Phys.A 483 (1988) 50
+#DATASETS   0
+#
+#DATASET    13131002 
+#DATE       20220822
+#REACTION   27-CO-59(N,EL)27-CO-59,,DA
+#PROJ       1
+#TARG       27059
+#MF         4
+#MT         2
+#PRODUCT    27-CO-59
+#C4BEGIN    [    1 27059   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 27059   4   2 A  3680000.          1.140000 0.059736 0.934826                              A.B.Smith+           (88)13131  2 
+    1 27059   4   2 A  3680000.          0.748000 0.041738 0.859852                              A.B.Smith+           (88)13131  2 
+    1 27059   4   2 A  3680000.          0.254000 0.017399 0.674302                              A.B.Smith+           (88)13131  2 
+    1 27059   4   2 A  3680000.          0.048000 5.0400-3 0.436802                              A.B.Smith+           (88)13131  2 
+    1 27059   4   2 A  3680000.          0.036200 2.5376-3 0.147809                              A.B.Smith+           (88)13131  2 
+    1 27059   4   2 A  3680000.          0.071700 3.6782-3-0.130526                              A.B.Smith+           (88)13131  2 
+    1 27059   4   2 A  3680000.          0.070900 3.6159-3-0.406737                              A.B.Smith+           (88)13131  2 
+    1 27059   4   2 A  3680000.          0.047200 2.5818-3-0.656059                              A.B.Smith+           (88)13131  2 
+    1 27059   4   2 A  3680000.          0.024100 1.2098-3-0.838671                              A.B.Smith+           (88)13131  2 
+    1 27059   4   2 A  3680000.          0.026700 1.3884-3-0.920505                              A.B.Smith+           (88)13131  2 
+#/DATA      10
+#/DATASET

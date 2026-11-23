@@ -1,0 +1,33 @@
+#ENTRY      12277
+#AUTHOR1    A.B.Smith+
+#YEAR       1962
+#INSTITUTE  (1USAANL)
+#TITLE      ELASTIC AND INELASTIC SCATTERING OF NEUTRONS FROM
+#+          TH232.
+#AUTHOR(S)  A.B.Smith
+#REF-CODE   (J,PR,126,718,62)
+#REFERENCE  Phys.Rev. 126 (1962) 718
+#DATASETS   0
+#
+#DATASET    12277002 
+#DATE       19840821
+#REACTION   90-TH-232(N,EL)90-TH-232,,DA
+#PROJ       1
+#TARG       90232
+#MF         4
+#MT         2
+#PRODUCT    90-TH-232
+#C4BEGIN    [    1 90232   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   4   2    560000.0          1.154000 0.231000 0.866000                              A.B.Smith            (62)12277  2 
+    1 90232   4   2    560000.0          0.858000 0.172000 0.707000                              A.B.Smith            (62)12277  2 
+    1 90232   4   2    560000.0          0.615000 0.123000 0.500000                              A.B.Smith            (62)12277  2 
+    1 90232   4   2    560000.0          0.455000 0.091000 0.259000                              A.B.Smith            (62)12277  2 
+    1 90232   4   2    560000.0          0.353000          6.123-17                              A.B.Smith            (62)12277  2 
+    1 90232   4   2    560000.0          0.277000         -0.259000                              A.B.Smith            (62)12277  2 
+    1 90232   4   2    560000.0          0.227000         -0.500000                              A.B.Smith            (62)12277  2 
+    1 90232   4   2    560000.0          0.229000         -0.737000                              A.B.Smith            (62)12277  2 
+#/DATA      8
+#/DATASET

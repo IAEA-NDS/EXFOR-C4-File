@@ -1,0 +1,40 @@
+#ENTRY      14462
+#AUTHOR1    A.P.D.Ramirez+
+#YEAR       2017
+#INSTITUTE  (1USAKTY)
+#TITLE      Neutron scattering cross section measurements for 56Fe
+#AUTHOR(S)  A.P.D.Ramirez, J.R.Vanhoy, S.F.Hicks, M.T.McEllistrem, E.E.Peters, 
+#+          S.Mukhopadhyay, T.D.Harrison, T.J.Howard, D.T.Jackson, P.D.Lenzen, 
+#+          T.D.Nguyen, R.L.Pecha, B.G.Rice, B.K.Thompson, S.W.Yates
+#REF-CODE   (J,PR/C,95,064605,2017)
+#REFERENCE  Phys.Rev.C 95 (2017) 064605
+#DATASETS   0
+#
+#DATASET    14462002 
+#DATE       20170211
+#REACTION   26-FE-56(N,EL)26-FE-56,,DA
+#PROJ       1
+#TARG       26056
+#MF         4
+#MT         2
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056   4   2    2000000.          0.548480 0.050300 0.861452                              A.P.D.Ramirez+       (17)14462  2 
+    1 26056   4   2    2000000.          0.383230 0.035150 0.758589                              A.P.D.Ramirez+       (17)14462  2 
+    1 26056   4   2    2000000.          0.227790 0.020890 0.632165                              A.P.D.Ramirez+       (17)14462  2 
+    1 26056   4   2    2000000.          0.128730 0.011810 0.486488                              A.P.D.Ramirez+       (17)14462  2 
+    1 26056   4   2    2000000.          0.067030 6.1500-3 0.326063                              A.P.D.Ramirez+       (17)14462  2 
+    1 26056   4   2    2000000.          0.051770 4.7600-3 0.156090                              A.P.D.Ramirez+       (17)14462  2 
+    1 26056   4   2    2000000.          0.057610 5.2900-3-0.017976                              A.P.D.Ramirez+       (17)14462  2 
+    1 26056   4   2    2000000.          0.073220 6.7200-3-0.191152                              A.P.D.Ramirez+       (17)14462  2 
+    1 26056   4   2    2000000.          0.088210 8.0900-3-0.357879                              A.P.D.Ramirez+       (17)14462  2 
+    1 26056   4   2    2000000.          0.100630 9.2300-3-0.513391                              A.P.D.Ramirez+       (17)14462  2 
+    1 26056   4   2    2000000.          0.107000 9.8200-3-0.653288                              A.P.D.Ramirez+       (17)14462  2 
+    1 26056   4   2    2000000.          0.114410 0.010500-0.773398                              A.P.D.Ramirez+       (17)14462  2 
+    1 26056   4   2    2000000.          0.121950 0.011190-0.870528                              A.P.D.Ramirez+       (17)14462  2 
+    1 26056   4   2    2000000.          0.128620 0.011800-0.902209                              A.P.D.Ramirez+       (17)14462  2 
+#/DATA      14
+#/DATASET

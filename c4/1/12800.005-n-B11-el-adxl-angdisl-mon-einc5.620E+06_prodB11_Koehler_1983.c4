@@ -1,0 +1,33 @@
+#ENTRY      12800
+#AUTHOR1    P.E.Koehler+
+#YEAR       1983
+#INSTITUTE  (1USAOHO)
+#TITLE      Structure of 12B from measurement and R-matrix
+#+          analysis of sigma(theta) for 11B(n,n)11B and
+#+          11B(n,n')11B*(2.12 MeV), and shell-model calculations
+#AUTHOR(S)  P.E.Koehler, H.D.Knox, D.A.Resler, R.O.Lane, D.J.Millener
+#REF-CODE   (J,NP/A,394,221,1983)
+#REFERENCE  Nucl.Phys.A 394 (1983) 221
+#DATASETS   0
+#
+#DATASET    12800005 
+#DATE       19830527
+#REACTION   5-B-11(N,EL)5-B-11,,DA
+#PROJ       1
+#TARG       5011
+#MF         4
+#MT         2
+#PRODUCT    5-B-11
+#C4BEGIN    [    1  5011   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5011   4   2 A  5620000.          0.449400 0.018000 0.939693                              P.E.Koehler+         (83)12800  5 
+    1  5011   4   2 A  5620000.          0.065000 2.8000-3 0.573576                              P.E.Koehler+         (83)12800  5 
+    1  5011   4   2 A  5620000.          0.077400 3.7000-3 6.123-17                              P.E.Koehler+         (83)12800  5 
+    1  5011   4   2 A  5620000.          0.088500 4.5000-3-0.300706                              P.E.Koehler+         (83)12800  5 
+    1  5011   4   2 A  5620000.          0.093600 5.0000-3-0.573576                              P.E.Koehler+         (83)12800  5 
+    1  5011   4   2 A  5620000.          0.116600 6.5000-3-0.793353                              P.E.Koehler+         (83)12800  5 
+    1  5011   4   2 A  5620000.          0.150000 8.6000-3-0.939693                              P.E.Koehler+         (83)12800  5 
+#/DATA      7
+#/DATASET

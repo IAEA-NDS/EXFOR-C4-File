@@ -1,0 +1,32 @@
+#ENTRY      13876
+#AUTHOR1    Y.J.Ko+
+#YEAR       2000
+#INSTITUTE  (1USALTI)
+#TITLE      Thulium-169 neutron inelastic scattering cross section
+#+          measurements via the 169Tm(n,n'gamma) reaction
+#AUTHOR(S)  Y.J.Ko, J.J.Egan, G.H.R.Kegel, D.J.DeSimone, P.N.Seo, P.G.Young
+#REF-CODE   (J,NP/A,679,147,200011)
+#REFERENCE  Nucl.Phys.A 679 (2000) 147
+#DATASETS   0
+#
+#DATASET    13876003 
+#DATE       20030306
+#REACTION   69-TM-169(N,INL)69-TM-169,PAR,SIG,G
+#PROJ       1
+#TARG       69169
+#MF         13
+#MT         51
+#PRODUCT    69-TM-169
+#C4BEGIN    [    1 69169  13  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 69169  13  51 A  800000.0          3.0000-3 4.5000-4                   663560.0            Y.J.Ko+              (00)13876  3 
+    1 69169  13  51 A  800000.0          1.6000-3 2.7000-4                   663560.0            Y.J.Ko+              (00)13876  3 
+    1 69169  13  51 A  850000.0          8.8000-3 6.2000-4                   663560.0            Y.J.Ko+              (00)13876  3 
+    1 69169  13  51 A  900000.0          0.010000 4.9000-4                   663560.0            Y.J.Ko+              (00)13876  3 
+    1 69169  13  51 A  900000.0          0.011700 5.0000-4                   663560.0            Y.J.Ko+              (00)13876  3 
+    1 69169  13  51 A  950000.0          0.014300 6.0000-4                   663560.0            Y.J.Ko+              (00)13876  3 
+    1 69169  13  51 A  1000000.          0.013800 5.0000-4                   663560.0            Y.J.Ko+              (00)13876  3 
+#/DATA      7
+#/DATASET

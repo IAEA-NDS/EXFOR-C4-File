@@ -1,0 +1,32 @@
+#ENTRY      14185
+#AUTHOR1    M.L.Brooks+
+#YEAR       1992
+#INSTITUTE  (1USANMX)
+#TITLE      Neutron induced pion production on C,Al,Cu and W at
+#+          200-600 MeV
+#AUTHOR(S)  M.L.Brooks, B.Bassalleck, B.D.Dieterle, R.A.Reeder, D.M.Lee, 
+#+          J.A.McGill, M.E.Schillaci, R.A.Ristinen, R.W.Smythe
+#REF-CODE   (J,PR/C,45,2343,1992)
+#REFERENCE  Phys.Rev.C 45 (1992) 2343
+#DATASETS   0
+#
+#DATASET    14185002 
+#DATE       20090505
+#REACTION   6-C-12(N,X)1-PN-0,,DA/DE,,AV
+#PROJ       1
+#TARG       6012
+#MF         6
+#MT         210
+#PRODUCT    1-PN-0
+#C4BEGIN    [    1  6012   6 210  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   6 210    2.3750+8 1.2500+7 2.950-12 1.600-13 0.866025 0.043633 2.5140+7          E2M.L.Brooks+          (92)14185  2 
+    1  6012   6 210    2.3750+8 1.2500+7 2.780-12 1.500-13 0.866025 0.043633 3.9590+7          E2M.L.Brooks+          (92)14185  2 
+    1  6012   6 210    2.3750+8 1.2500+7 2.130-12 1.600-13 0.866025 0.043633 5.6260+7          E2M.L.Brooks+          (92)14185  2 
+    1  6012   6 210    2.3750+8 1.2500+7 1.550-12 9.000-14 0.866025 0.043633 7.4060+7          E2M.L.Brooks+          (92)14185  2 
+    1  6012   6 210    2.3750+8 1.2500+7 5.400-13 6.000-14 0.866025 0.043633 9.4360+7          E2M.L.Brooks+          (92)14185  2 
+    1  6012   6 210    2.3750+8 1.2500+7 1.100-13 3.000-14 0.866025 0.043633 1.1436+8          E2M.L.Brooks+          (92)14185  2 
+#/DATA      6
+#/DATASET

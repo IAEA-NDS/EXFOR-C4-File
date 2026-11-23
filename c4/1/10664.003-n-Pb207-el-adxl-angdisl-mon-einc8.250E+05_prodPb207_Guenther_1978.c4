@@ -1,0 +1,36 @@
+#ENTRY      10664
+#AUTHOR1    P.T.Guenther+
+#YEAR       1978
+#INSTITUTE  (1USAANL)
+#TITLE      Neutron Scattering and the Optical Model near A=208
+#+          and Implications on the Inelastic Cross Section of
+#+          Uranium-238.
+#AUTHOR(S)  P.T.Guenther, D.G.Havel, A.B.Smith
+#REF-CODE   (J,NSE,65,174,197801)
+#REFERENCE  Nucl.Sci.Eng. 65 (1978) 174
+#DATASETS   0
+#
+#DATASET    10664003 
+#DATE       19780222
+#REACTION   82-PB-207(N,EL)82-PB-207,,DA
+#PROJ       1
+#TARG       82207
+#MF         4
+#MT         2
+#PRODUCT    82-PB-207
+#C4BEGIN    [    1 82207   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82207   4   2 C  825000.0          1.214000          0.939693                              P.T.Guenther+        (78)10664  3 
+    1 82207   4   2 C  825000.0          0.931000          0.866025                              P.T.Guenther+        (78)10664  3 
+    1 82207   4   2 C  825000.0          0.643000          0.707107                              P.T.Guenther+        (78)10664  3 
+    1 82207   4   2 C  825000.0          0.302000          0.500000                              P.T.Guenther+        (78)10664  3 
+    1 82207   4   2 C  825000.0          0.291000          0.258819                              P.T.Guenther+        (78)10664  3 
+    1 82207   4   2 C  825000.0          0.289000          6.123-17                              P.T.Guenther+        (78)10664  3 
+    1 82207   4   2 C  825000.0          0.390000         -0.258819                              P.T.Guenther+        (78)10664  3 
+    1 82207   4   2 C  825000.0          0.406000         -0.500000                              P.T.Guenther+        (78)10664  3 
+    1 82207   4   2 C  825000.0          0.348000         -0.707107                              P.T.Guenther+        (78)10664  3 
+    1 82207   4   2 C  825000.0          0.333000         -0.819152                              P.T.Guenther+        (78)10664  3 
+#/DATA      10
+#/DATASET

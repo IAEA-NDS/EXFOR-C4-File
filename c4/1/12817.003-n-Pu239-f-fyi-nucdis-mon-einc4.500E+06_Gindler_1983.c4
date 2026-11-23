@@ -1,0 +1,26 @@
+#ENTRY      12817
+#AUTHOR1    J.E.Gindler+
+#YEAR       1983
+#INSTITUTE  (1USAANL)
+#TITLE      Mass Distributions in Monoenergetic-Neutron-Induced
+#+          Fission of 239Pu
+#AUTHOR(S)  J.E.Gindler, L.E.Glendenin, D.J.Henderson, J.W.Meadows
+#REF-CODE   (J,PR/C,27,2058,1983)
+#REFERENCE  Phys.Rev.C 27 (1983) 2058
+#DATASETS   0
+#
+#DATASET    12817003 
+#DATE       20220310
+#REACTION   94-PU-239(N,F)ELEM/MASS,IND,FY
+#PROJ       1
+#TARG       94239
+#MF         8
+#MT         454
+#C4BEGIN    [    1 94239   8 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   8 454 A  4500000.          0.041500 9.2000-3 53.00000 134.0000 9.000000            J.E.Gindler+         (83)12817  3 
+    1 94239   8 454 A  4500000.          0.015800 5.4000-3 54.00000 135.0000 1.000000            J.E.Gindler+         (83)12817  3 
+#/DATA      2
+#/DATASET

@@ -1,0 +1,37 @@
+#ENTRY      13162
+#AUTHOR1    E.T.Sadowski+
+#YEAR       1990
+#INSTITUTE  (1USAOHO)
+#TITLE      HIGHER EXCITATION LEVELS OF 11B VIA THE 10B(N,N)10B AND
+#+          10B(N,N')10B*(0.72, 1.74, 2.15, 3.59, 4.77 MEV)
+#+          REACTIONS
+#AUTHOR(S)  E.T.Sadowski, H.D.Knox, D.A.Resler, R.O.Lane
+#REF-CODE   (J,PR/C,42,190,9007)
+#REFERENCE  Phys.Rev.C 42 (1990) 190
+#DATASETS   0
+#
+#DATASET    13162003 
+#DATE       19891101
+#REACTION   5-B-10(N,EL)5-B-10,,DA
+#PROJ       1
+#TARG       5010
+#MF         4
+#MT         2
+#PRODUCT    5-B-10
+#C4BEGIN    [    1  5010   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5010   4   2 AC 7010000.          0.418100 0.019600 0.947768                              E.T.Sadowski+        (90)13162  3 
+    1  5010   4   2 AC 7010000.          0.334800 0.015500 0.894934                              E.T.Sadowski+        (90)13162  3 
+    1  5010   4   2 AC 7010000.          0.153000 7.5000-3 0.728969                              E.T.Sadowski+        (90)13162  3 
+    1  5010   4   2 AC 7010000.          0.037100 1.9000-3 0.504528                              E.T.Sadowski+        (90)13162  3 
+    1  5010   4   2 AC 7010000.          0.016700 9.0000-4 0.246999                              E.T.Sadowski+        (90)13162  3 
+    1  5010   4   2 AC 7010000.          0.040900 2.1000-3-0.027922                              E.T.Sadowski+        (90)13162  3 
+    1  5010   4   2 AC 7010000.          0.056400 2.8000-3-0.290702                              E.T.Sadowski+        (90)13162  3 
+    1  5010   4   2 AC 7010000.          0.050100 2.4000-3-0.526956                              E.T.Sadowski+        (90)13162  3 
+    1  5010   4   2 AC 7010000.          0.045700 2.3000-3-0.724172                              E.T.Sadowski+        (90)13162  3 
+    1  5010   4   2 AC 7010000.          0.051200 2.5000-3-0.850811                              E.T.Sadowski+        (90)13162  3 
+    1  5010   4   2 AC 7010000.          0.064400 3.1000-3-0.941471                              E.T.Sadowski+        (90)13162  3 
+#/DATA      11
+#/DATASET

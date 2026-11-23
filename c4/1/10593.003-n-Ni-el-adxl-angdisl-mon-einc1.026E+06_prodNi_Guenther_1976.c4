@@ -1,0 +1,33 @@
+#ENTRY      10593
+#AUTHOR1    P.Guenther+
+#YEAR       1976
+#INSTITUTE  (1USAANL)
+#TITLE      Fast-Neutron Total and Scattering Cross Sections of
+#+          Elemental Nickel
+#AUTHOR(S)  P.Guenther, A.Smith, J.Whalen
+#REF-CODE   (J,NSE,59,106,1976)
+#REFERENCE  Nucl.Sci.Eng. 59 (1976) 106
+#DATASETS   0
+#
+#DATASET    10593003 
+#DATE       20210812
+#REACTION   28-NI-0(N,EL)28-NI-0,,DA
+#PROJ       1
+#TARG       28000
+#MF         4
+#MT         2
+#PRODUCT    28-NI-0
+#C4BEGIN    [    1 28000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28000   4   2 A  1026000.          0.606800 0.093083 0.887011                              P.Guenther+          (76)10593  3 
+    1 28000   4   2 A  1026000.          0.441400 0.063297 0.722967                              P.Guenther+          (76)10593  3 
+    1 28000   4   2 A  1026000.          0.296000 0.035520 0.522499                              P.Guenther+          (76)10593  3 
+    1 28000   4   2 A  1026000.          0.205700 0.022030 0.289032                              P.Guenther+          (76)10593  3 
+    1 28000   4   2 A  1026000.          0.160700 0.017211-0.038388                              P.Guenther+          (76)10593  3 
+    1 28000   4   2 A  1026000.          0.156000 0.019500-0.300706                              P.Guenther+          (76)10593  3 
+    1 28000   4   2 A  1026000.          0.169700 0.024335-0.532876                              P.Guenther+          (76)10593  3 
+    1 28000   4   2 A  1026000.          0.199100 0.028551-0.843391                              P.Guenther+          (76)10593  3 
+#/DATA      8
+#/DATASET

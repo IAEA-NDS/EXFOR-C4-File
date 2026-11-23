@@ -1,0 +1,35 @@
+#ENTRY      12900
+#AUTHOR1    E.T.Sadowski+
+#YEAR       1982
+#INSTITUTE  (1USAOHO)
+#TITLE      CORRECTIONS TO 6LI(N,N')6LI*(2.18)DATA FOR CONTINUUM
+#+          NEUTRONS FROM THE 6LI(N,N')ALPHA D REACTION
+#AUTHOR(S)  E.T.Sadowski, H.Knox, D.A.Resler, R.O.Lane
+#REF-CODE   (J,BAP,27,624(C5),8205)
+#REFERENCE  Bull.Am.Phys.Soc. 27 (1982) 624(C5)
+#DATASETS   0
+#
+#DATASET    12900002 
+#DATE       19840830
+#REACTION   3-LI-6(N,INL)3-LI-6,PAR,DA
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         51
+#PRODUCT    3-LI-6
+#C4BEGIN    [    1  3006   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4  51 AC 5748000.          0.018500 9.0000-4 0.910684          2180000.         LVLE.T.Sadowski+        (82)12900  2 
+    1  3006   4  51 AC 5748000.          0.017000 8.0000-4 0.702153          2180000.         LVLE.T.Sadowski+        (82)12900  2 
+    1  3006   4  51 AC 5748000.          0.018000 9.0000-4 0.413104          2180000.         LVLE.T.Sadowski+        (82)12900  2 
+    1  3006   4  51 AC 5748000.          0.014800 7.0000-4 0.088894          2180000.         LVLE.T.Sadowski+        (82)12900  2 
+    1  3006   4  51 AC 5748000.          0.014000 7.0000-4-0.224951          2180000.         LVLE.T.Sadowski+        (82)12900  2 
+    1  3006   4  51 AC 5748000.          0.010200 5.0000-4-0.498488          2180000.         LVLE.T.Sadowski+        (82)12900  2 
+    1  3006   4  51 AC 5748000.          0.011600 7.0000-4-0.714473          2180000.         LVLE.T.Sadowski+        (82)12900  2 
+    1  3006   4  51 AC 5748000.          0.011000 6.0000-4-0.714473          2180000.         LVLE.T.Sadowski+        (82)12900  2 
+    1  3006   4  51 AC 5748000.          7.9000-3 5.0000-4-0.869495          2180000.         LVLE.T.Sadowski+        (82)12900  2 
+    1  3006   4  51 AC 5748000.          8.6000-3 7.0000-4-0.963163          2180000.         LVLE.T.Sadowski+        (82)12900  2 
+#/DATA      10
+#/DATASET

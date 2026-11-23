@@ -1,0 +1,35 @@
+#ENTRY      13104
+#AUTHOR1    P.T.Guenther+
+#YEAR       1986
+#INSTITUTE  (1USAANL)
+#TITLE      Total, scattering and gamma-ray production cross
+#+          sections for few-MeV neutrons on 54Fe.
+#AUTHOR(S)  P.T.Guenther, D.L.Smith, A.B.Smith, J.F.Whalen
+#REF-CODE   (J,ANE,13,601,1986)
+#REFERENCE  Ann.Nucl.Energy 13 (1986) 601
+#DATASETS   0
+#
+#DATASET    13104005 
+#DATE       20220822
+#REACTION   26-FE-54(N,INL)26-FE-54,PAR,DA,G,4PI
+#PROJ       1
+#TARG       26054
+#MF         14
+#MT         51
+#PRODUCT    26-FE-54
+#C4BEGIN    [    1 26054  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26054  14  51 A  2652000. 22250.00 2.0507-3 5.2911-4-0.573576          1130000.            P.T.Guenther+        (86)13104  5 
+    1 26054  14  51 A  2752000. 22750.00 1.4117-3 3.2889-4-0.573576          1130000.            P.T.Guenther+        (86)13104  5 
+    1 26054  14  51 A  2853000. 22250.00 3.1075-3 5.1892-4-0.573576          1130000.            P.T.Guenther+        (86)13104  5 
+    1 26054  14  51 A  2954000. 21750.00 2.7406-3 4.3847-4-0.573576          1130000.            P.T.Guenther+        (86)13104  5 
+    1 26054  14  51 A  3055000. 22000.00 4.4754-3 6.3105-4-0.573576          1130000.            P.T.Guenther+        (86)13104  5 
+    1 26054  14  51 A  3156000. 21000.00 4.9855-3 6.3320-4-0.573576          1130000.            P.T.Guenther+        (86)13104  5 
+    1 26054  14  51 A  3255000. 20750.00 6.9805-3 9.2151-4-0.573576          1130000.            P.T.Guenther+        (86)13104  5 
+    1 26054  14  51 A  3356000. 20000.00 6.3137-3 8.2044-4-0.573576          1130000.            P.T.Guenther+        (86)13104  5 
+    1 26054  14  51 A  3457000. 19750.00 8.0055-3 8.5625-4-0.573576          1130000.            P.T.Guenther+        (86)13104  5 
+    1 26054  14  51 A  3556000. 17000.00 0.011014 1.1236-3-0.573576          1130000.            P.T.Guenther+        (86)13104  5 
+#/DATA      10
+#/DATASET

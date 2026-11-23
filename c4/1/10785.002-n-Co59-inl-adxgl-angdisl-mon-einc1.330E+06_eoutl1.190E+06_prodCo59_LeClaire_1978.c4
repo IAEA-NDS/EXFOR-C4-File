@@ -1,0 +1,30 @@
+#ENTRY      10785
+#AUTHOR1    R.V.LeClaire+
+#YEAR       1978
+#INSTITUTE  (1USALTI)
+#TITLE      Cross sections in the 59Co(n,n'gamma) 59Co reaction
+#+          from 1.1 to 3.3 MeV
+#AUTHOR(S)  R.V.LeClaire, J.J.Egan, L.E.Beghian, G.P.Couchell, G.H.R.Kegel, 
+#+          S.C.Mathur, A.Mittler, W.A.Schier
+#REF-CODE   (J,PR/C,18,1185,1978)
+#REFERENCE  Phys.Rev.C 18 (1978) 1185
+#DATASETS   0
+#
+#DATASET    10785002 
+#DATE       20230518
+#REACTION   27-CO-59(N,INL)27-CO-59,PAR,DA,G
+#PROJ       1
+#TARG       27059
+#MF         14
+#MT         51
+#PRODUCT    27-CO-59
+#C4BEGIN    [    1 27059  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 27059  14  51 A  1330000.          9.6000-3 1.2000-3 0.866025          1190000.            R.V.LeClaire+        (78)10785  2 
+    1 27059  14  51 A  1330000.          9.8000-3 1.2000-3 0.573576          1190000.            R.V.LeClaire+        (78)10785  2 
+    1 27059  14  51 A  1330000.          9.6000-3 1.2000-3 6.123-17          1190000.            R.V.LeClaire+        (78)10785  2 
+    1 27059  14  51 A  1330000.          9.6000-3 1.2000-3-0.573576          1190000.            R.V.LeClaire+        (78)10785  2 
+#/DATA      4
+#/DATASET

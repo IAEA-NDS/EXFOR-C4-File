@@ -1,0 +1,34 @@
+#ENTRY      11708
+#AUTHOR1    W.E.Kinney+
+#YEAR       1968
+#INSTITUTE  (1USAORL)
+#TITLE      Neutron elastic and inelastic scattering from Fe56 from
+#+          4.60 to 7.55 MeV.
+#AUTHOR(S)  W.E.Kinney
+#REF-CODE   (R,ORNL-TM-2052,1968)
+#REFERENCE  Report ORNL-TM-2052, 1968
+#DATASETS   0
+#
+#DATASET    11708007 
+#DATE       19831011
+#REACTION   26-FE-56(N,INL)26-FE-56,PAR,DA
+#PROJ       1
+#TARG       26056
+#MF         4
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056   4  51  C 5040000. 40000.00 0.030000 3.0000-3 0.865300          846000.0         LVLW.E.Kinney           (68)11708  7 
+    1 26056   4  51  C 5040000. 40000.00 0.021000 2.0000-3 0.729960          846000.0         LVLW.E.Kinney           (68)11708  7 
+    1 26056   4  51  C 5040000. 40000.00 0.026000 2.0000-3 0.571670          846000.0         LVLW.E.Kinney           (68)11708  7 
+    1 26056   4  51  C 5040000. 40000.00 0.016000 2.0000-3 0.358370          846000.0         LVLW.E.Kinney           (68)11708  7 
+    1 26056   4  51  C 5040000. 40000.00 0.014000 1.0000-3 0.156430          846000.0         LVLW.E.Kinney           (68)11708  7 
+    1 26056   4  51  C 5040000. 40000.00 0.013000 1.0000-3-0.069800          846000.0         LVLW.E.Kinney           (68)11708  7 
+    1 26056   4  51  C 5040000. 40000.00 0.016000 2.0000-3-0.275600          846000.0         LVLW.E.Kinney           (68)11708  7 
+    1 26056   4  51  C 5040000. 40000.00 0.019000 2.0000-3-0.471800          846000.0         LVLW.E.Kinney           (68)11708  7 
+    1 26056   4  51  C 5040000. 40000.00 0.018000 2.0000-3-0.644600          846000.0         LVLW.E.Kinney           (68)11708  7 
+#/DATA      9
+#/DATASET

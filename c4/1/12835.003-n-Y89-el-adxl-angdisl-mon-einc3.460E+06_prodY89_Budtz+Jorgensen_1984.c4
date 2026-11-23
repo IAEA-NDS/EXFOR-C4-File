@@ -1,0 +1,37 @@
+#ENTRY      12835
+#AUTHOR1    C.Budtz-Jorgensen+
+#YEAR       1984
+#INSTITUTE  (1USAANL)
+#TITLE      Neutron total,scattering and inelastic gamma-ray
+#+          production cross sections of yttrium at few MeV
+#+          energies.
+#AUTHOR(S)  C.Budtz-Jorgensen, P.Guenther, A.Smith, J.Whalen, W.R.McMurray, 
+#+          M.J.Renan, I.J.van Heerden
+#REF-CODE   (J,ZP/A,319,47,198410)
+#REFERENCE  Z.Phys.A 319 (1984) 47
+#DATASETS   0
+#
+#DATASET    12835003 
+#DATE       20110727
+#REACTION   39-Y-89(N,EL)39-Y-89,,DA,,AV
+#PROJ       1
+#TARG       39089
+#MF         4
+#MT         2
+#PRODUCT    39-Y-89
+#C4BEGIN    [    1 39089   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 39089   4   2 A  3460000. 200000.0 0.979000 0.048950 0.915663                              C.Budtz-Jorgensen+   (84)12835  3 
+    1 39089   4   2 A  3460000. 200000.0 0.475000 0.023750 0.831954                              C.Budtz-Jorgensen+   (84)12835  3 
+    1 39089   4   2 A  3460000. 200000.0 0.097400 4.8700-3 0.648120                              C.Budtz-Jorgensen+   (84)12835  3 
+    1 39089   4   2 A  3460000. 200000.0 0.134000 6.7000-3 0.398749                              C.Budtz-Jorgensen+   (84)12835  3 
+    1 39089   4   2 A  3460000. 200000.0 0.162000 8.1000-3 0.113203                              C.Budtz-Jorgensen+   (84)12835  3 
+    1 39089   4   2 A  3460000. 200000.0 0.088300 4.4150-3-0.165048                              C.Budtz-Jorgensen+   (84)12835  3 
+    1 39089   4   2 A  3460000. 200000.0 0.037400 1.8700-3-0.438371                              C.Budtz-Jorgensen+   (84)12835  3 
+    1 39089   4   2 A  3460000. 200000.0 0.043600 2.1800-3-0.681998                              C.Budtz-Jorgensen+   (84)12835  3 
+    1 39089   4   2 A  3460000. 200000.0 0.110000 5.5000-3-0.857167                              C.Budtz-Jorgensen+   (84)12835  3 
+    1 39089   4   2 A  3460000. 200000.0 0.186000 9.3000-3-0.933580                              C.Budtz-Jorgensen+   (84)12835  3 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      10243
+#AUTHOR1    R.C.Greenwood+
+#YEAR       1971
+#INSTITUTE  (1USAMTR)
+#TITLE      Absolute Cross Sections for 2-KeV Neutron Capture in
+#+          204Pb and 207Pb.
+#AUTHOR(S)  R.C.Greenwood, C.W.Reich
+#REF-CODE   (J,PR/C,4,2249,197112)
+#REFERENCE  Phys.Rev.C 4 (1971) 2249
+#DATASETS   0
+#
+#DATASET    10243002 
+#DATE       20011130
+#REACTION   82-PB-204(N,G)82-PB-205,PAR,SIG
+#PROJ       1
+#TARG       82204
+#MF         3
+#MT         900
+#PRODUCT    82-PB-205
+#C4BEGIN    [    1 82204   3 900 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82204   3 900 A  1950.000 350.0000 0.070000 0.010000                   4615800. 1100.000 E2R.C.Greenwood+       (71)10243  2 
+    1 82204   3 900 A  1950.000 350.0000 0.100000 0.010000                   4815100. 900.0000 E2R.C.Greenwood+       (71)10243  2 
+    1 82204   3 900 A  1950.000 350.0000 0.200000 0.020000                   4985300. 800.0000 E2R.C.Greenwood+       (71)10243  2 
+    1 82204   3 900 A  1950.000 350.0000 0.150000 0.400000                   5115800. 800.0000 E2R.C.Greenwood+       (71)10243  2 
+    1 82204   3 900 A  1950.000 350.0000 0.130000 0.020000                   5929200. 1200.000 E2R.C.Greenwood+       (71)10243  2 
+    1 82204   3 900 A  1950.000 350.0000 0.260000 0.050000                   6157200. 800.0000 E2R.C.Greenwood+       (71)10243  2 
+    1 82204   3 900 A  1950.000 350.0000 0.040000 0.010000                   6471600. 1000.000 E2R.C.Greenwood+       (71)10243  2 
+    1 82204   3 900 A  1950.000 350.0000 0.450000 0.090000                   6731200. 700.0000 E2R.C.Greenwood+       (71)10243  2 
+#/DATA      8
+#/DATASET

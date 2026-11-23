@@ -1,0 +1,33 @@
+#ENTRY      10619
+#AUTHOR1    R.M.Sealock+
+#YEAR       1976
+#INSTITUTE  (1USAORE)
+#TITLE      10B(n,alpha)7Li,7Li* differential cross section
+#+          measurements between 0.2 and 1.25 MeV.
+#AUTHOR(S)  R.M.Sealock, J.C.Overley
+#REF-CODE   (J,PR/C,13,2149,197606)
+#REFERENCE  Phys.Rev.C 13 (1976) 2149
+#DATASETS   0
+#
+#DATASET    10619003 
+#DATE       20040726
+#REACTION   5-B-10(N,A)3-LI-7,PAR,DA
+#PROJ       1
+#TARG       5010
+#MF         4
+#MT         800
+#PRODUCT    3-LI-7
+#C4BEGIN    [    1  5010   4 800 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5010   4 800 A  650000.0          0.054060 2.4000-3 1.000000          478000.0         LVLR.M.Sealock+         (76)10619  3 
+    1  5010   4 800 A  650000.0          0.063000 9.0800-3 0.866025          478000.0         LVLR.M.Sealock+         (76)10619  3 
+    1  5010   4 800 A  650000.0          0.037550 4.1500-3 0.573576          478000.0         LVLR.M.Sealock+         (76)10619  3 
+    1  5010   4 800 A  650000.0          0.044720 4.3200-3 0.500000          478000.0         LVLR.M.Sealock+         (76)10619  3 
+    1  5010   4 800 A  650000.0          0.019980 1.8600-3 6.123-17          478000.0         LVLR.M.Sealock+         (76)10619  3 
+    1  5010   4 800 A  650000.0          0.016990 2.0700-3-0.500000          478000.0         LVLR.M.Sealock+         (76)10619  3 
+    1  5010   4 800 A  650000.0          0.013190 2.5700-3-0.573576          478000.0         LVLR.M.Sealock+         (76)10619  3 
+    1  5010   4 800 A  650000.0          0.010830 2.1000-3-0.866025          478000.0         LVLR.M.Sealock+         (76)10619  3 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,37 @@
+#ENTRY      13146
+#AUTHOR1    D.A.Resler+
+#YEAR       1989
+#INSTITUTE  (1USAOHO)
+#TITLE      STRUCTURE OF 14C VIA ELASTIC AND INELASTIC NEUTRON
+#+          SCATTERING FROM 13C: MEASUREMENT, R-MATRIX ANALYSIS,
+#+          AND SHELL MODEL CALCULATIONS
+#AUTHOR(S)  D.A.Resler, H.D.Knox, P.E.Koehler, R.O.Lane, G.F.Auchampaugh
+#REF-CODE   (J,PR/C,39,766,8903)
+#REFERENCE  Phys.Rev.C 39 (1989) 766
+#DATASETS   0
+#
+#DATASET    13146003 
+#DATE       19890616
+#REACTION   6-C-13(N,EL)6-C-13,,DA
+#PROJ       1
+#TARG       6013
+#MF         4
+#MT         2
+#PRODUCT    6-C-13
+#C4BEGIN    [    1  6013   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6013   4   2  C 1.0760+7          0.489000 0.027500 0.960294                              D.A.Resler+          (89)13146  3 
+    1  6013   4   2  C 1.0760+7          0.336300 0.018900 0.891798                              D.A.Resler+          (89)13146  3 
+    1  6013   4   2  C 1.0760+7          0.131200 7.4000-3 0.732543                              D.A.Resler+          (89)13146  3 
+    1  6013   4   2  C 1.0760+7          0.031600 1.8000-3 0.521010                              D.A.Resler+          (89)13146  3 
+    1  6013   4   2  C 1.0760+7          0.016100 1.0000-3 0.272280                              D.A.Resler+          (89)13146  3 
+    1  6013   4   2  C 1.0760+7          0.035700 2.0000-3 0.010472                              D.A.Resler+          (89)13146  3 
+    1  6013   4   2  C 1.0760+7          0.053600 3.0000-3-0.248690                              D.A.Resler+          (89)13146  3 
+    1  6013   4   2  C 1.0760+7          0.052300 3.0000-3-0.484810                              D.A.Resler+          (89)13146  3 
+    1  6013   4   2  C 1.0760+7          0.036300 2.1000-3-0.687088                              D.A.Resler+          (89)13146  3 
+    1  6013   4   2  C 1.0760+7          0.027100 1.6000-3-0.844328                              D.A.Resler+          (89)13146  3 
+    1  6013   4   2  C 1.0760+7          0.034700 2.0000-3-0.948324                              D.A.Resler+          (89)13146  3 
+#/DATA      11
+#/DATASET

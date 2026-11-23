@@ -1,0 +1,31 @@
+#ENTRY      11495
+#AUTHOR1    D.B.Thomson+
+#YEAR       1963
+#INSTITUTE  (1USALAS)
+#TITLE      Nuclear level densities and reaction mechanisms from
+#+          inelastic neutron scattering.
+#AUTHOR(S)  D.B.Thomson
+#REF-CODE   (J,PR,129,1649,1963)
+#REFERENCE  Phys.Rev. 129 (1963) 1649
+#DATASETS   0
+#
+#DATASET    11495026 
+#DATE       20240314
+#REACTION   41-NB-93(N,INL)41-NB-93,PAR,DA
+#PROJ       1
+#TARG       41093
+#MF         4
+#MT         51
+#PRODUCT    41-NB-93
+#C4BEGIN    [    1 41093   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 41093   4  51  C 5000000.          0.021700 8.6800-4-0.515000          1750000. 250000.0 E2D.B.Thomson          (63)11495 26 
+    1 41093   4  51  C 5000000.          0.022600 9.0400-4-0.020400          1750000. 250000.0 E2D.B.Thomson          (63)11495 26 
+    1 41093   4  51  C 5000000.          0.023100 6.9300-4 0.484800          1750000. 250000.0 E2D.B.Thomson          (63)11495 26 
+    1 41093   4  51  C 5000000.          0.023700 9.4800-4 0.697200          1750000. 250000.0 E2D.B.Thomson          (63)11495 26 
+    1 41093   4  51  C 5000000.          0.026000 1.0400-3 0.861600          1750000. 250000.0 E2D.B.Thomson          (63)11495 26 
+    1 41093   4  51  C 5000000.          0.028600 1.1440-3 0.937300          1750000. 250000.0 E2D.B.Thomson          (63)11495 26 
+#/DATA      6
+#/DATASET

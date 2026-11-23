@@ -1,0 +1,36 @@
+#ENTRY      10159
+#AUTHOR1    J.D.Seagrave+
+#YEAR       1972
+#INSTITUTE  (1USALAS)
+#TITLE      Elastic Scattering and Polarization of Fast Neutrons
+#+          by Liquid Deuterium and Tritium
+#AUTHOR(S)  J.D.Seagrave, J.C.Hopkins, R.K.Walter, A.Niiler, P.W.Keaton, 
+#+          E.C.Kerr, R.H.Sherman
+#REF-CODE   (J,AP,74,250,1972)
+#REFERENCE  Ann.Phys.(N.Y.) 74 (1972) 250
+#DATASETS   0
+#
+#DATASET    10159002 
+#DATE       20001211
+#REACTION   1-H-2(N,EL)1-H-2,,DA
+#PROJ       1
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1002   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002   4   2 AC 5550000.          0.184000 0.012900 0.695000                              J.D.Seagrave+        (72)10159  2 
+    1  1002   4   2 AC 5550000.          0.163000 0.011400 0.600000                              J.D.Seagrave+        (72)10159  2 
+    1  1002   4   2 AC 5550000.          0.141000 9.9000-3 0.411000                              J.D.Seagrave+        (72)10159  2 
+    1  1002   4   2 AC 5550000.          0.099500 7.0000-3 0.120000                              J.D.Seagrave+        (72)10159  2 
+    1  1002   4   2 AC 5550000.          0.060700 4.3000-3-0.140000                              J.D.Seagrave+        (72)10159  2 
+    1  1002   4   2 AC 5550000.          0.055800 3.9000-3-0.240000                              J.D.Seagrave+        (72)10159  2 
+    1  1002   4   2 AC 5550000.          0.047900 3.4000-3-0.396000                              J.D.Seagrave+        (72)10159  2 
+    1  1002   4   2 AC 5550000.          0.057200 4.0000-3-0.566000                              J.D.Seagrave+        (72)10159  2 
+    1  1002   4   2 AC 5550000.          0.089100 6.2000-3-0.704000                              J.D.Seagrave+        (72)10159  2 
+    1  1002   4   2 AC 5550000.          0.104600 7.3000-3-0.826000                              J.D.Seagrave+        (72)10159  2 
+#/DATA      10
+#/DATASET

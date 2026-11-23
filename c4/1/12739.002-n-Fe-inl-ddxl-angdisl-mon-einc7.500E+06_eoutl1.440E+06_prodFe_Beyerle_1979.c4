@@ -1,0 +1,30 @@
+#ENTRY      12739
+#AUTHOR1    A.G.Beyerle+
+#YEAR       1979
+#INSTITUTE  (1USATNL)
+#TITLE      Double differential neutron scattering cross sections
+#+          for Fe, Cu, Ni and Pb between 8 and 12 MeV
+#AUTHOR(S)  A.G.Beyerle, C.Gould, W.Seagondollar, P.Thambidurai, S.El-Kadi, 
+#+          G.Glendinning, C.E.Nelson, F.O.Purser, R.L.Walter
+#REF-CODE   (C,79KNOX,,139,1979)
+#REFERENCE  Proceedings of Conf.on Nucl.Cross Sections F.Techn.,Knoxville 1979 page 139
+#DATASETS   0
+#
+#DATASET    12739002 
+#DATE       20210928
+#REACTION   26-FE-0(N,INL)26-FE-0,,DA/DE
+#PROJ       1
+#TARG       26000
+#MF         6
+#MT         4
+#PRODUCT    26-FE-0
+#C4BEGIN    [    1 26000   6   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26000   6   4 A  7500000.          5.1180-8 7.6770-9 0.819152          1440000.          E2A.G.Beyerle+         (79)12739  2 
+    1 26000   6   4 A  7500000.          3.9440-8 5.9160-9-0.087156          1440000.          E2A.G.Beyerle+         (79)12739  2 
+    1 26000   6   4 A  7500000.          3.8500-8 5.7750-9-0.573576          1440000.          E2A.G.Beyerle+         (79)12739  2 
+    1 26000   6   4 A  7500000.          4.4970-8 6.7455-9-0.906308          1440000.          E2A.G.Beyerle+         (79)12739  2 
+#/DATA      4
+#/DATASET

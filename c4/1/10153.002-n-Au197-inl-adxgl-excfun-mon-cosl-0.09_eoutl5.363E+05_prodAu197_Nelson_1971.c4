@@ -1,0 +1,28 @@
+#ENTRY      10153
+#AUTHOR1    J.A.Nelson+
+#YEAR       1971
+#INSTITUTE  (1USATUL)
+#TITLE      Energy Levels and Transitions in 197Au from the
+#+          (n,n'gamma) Reaction.
+#AUTHOR(S)  J.A.Nelson, V.R.Dave, R.M.Wilenzick, J.M.Palms
+#REF-CODE   (J,PR/C,3,307,197101)
+#REFERENCE  Phys.Rev.C 3 (1971) 307
+#DATASETS   0
+#
+#DATASET    10153002 
+#DATE       20001211
+#REACTION   79-AU-197(N,INL)79-AU-197,PAR,DA,G
+#PROJ       1
+#TARG       79197
+#MF         14
+#MT         51
+#PRODUCT    79-AU-197
+#C4BEGIN    [    1 79197  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 79197  14  51 A  1400000.          4.2000-3 1.0500-3-0.087156          536300.0 400.0000   J.A.Nelson+          (71)10153  2 
+    1 79197  14  51 A  1800000.          3.5000-3 8.7500-4-0.087156          536300.0 400.0000   J.A.Nelson+          (71)10153  2 
+    1 79197  14  51 A  2200000.          6.8000-3 1.7000-3-0.087156          536300.0 400.0000   J.A.Nelson+          (71)10153  2 
+#/DATA      3
+#/DATASET

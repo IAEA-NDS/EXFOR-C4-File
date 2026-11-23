@@ -1,0 +1,33 @@
+#ENTRY      13604
+#AUTHOR1    A.Marcinkowski+
+#YEAR       1993
+#INSTITUTE  (1USAOHO)
+#TITLE      Neutron emission cross sections at low bombarding
+#+          energies and the novelty in multistep compound
+#+          reaction model
+#AUTHOR(S)  A.Marcinkowski, J.Rapaport, R.W.Finlay, C.Brient, M.B.Chadwick
+#REF-CODE   (J,NP/A,561,387,9308)
+#REFERENCE  Nucl.Phys.A 561 (1993) 387
+#DATASETS   0
+#
+#DATASET    13604008 
+#DATE       19960124
+#REACTION   67-HO-165(N,X)0-NN-1,,DA/DE
+#PROJ       1
+#TARG       67165
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    1 67165   6 201 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 67165   6 201 AC 2.0000+7          4.9200-9 4.200-10 0.965926          1.3800+7 500000.0 E2A.Marcinkowski+      (93)13604  8 
+    1 67165   6 201 AC 2.0000+7          6.6000-9 8.200-10 0.866025          1.3800+7 500000.0 E2A.Marcinkowski+      (93)13604  8 
+    1 67165   6 201 AC 2.0000+7          5.1500-9 8.100-10 0.707107          1.3800+7 500000.0 E2A.Marcinkowski+      (93)13604  8 
+    1 67165   6 201 AC 2.0000+7          5.2600-9 5.500-10 0.500000          1.3800+7 500000.0 E2A.Marcinkowski+      (93)13604  8 
+    1 67165   6 201 AC 2.0000+7          2.7500-9 2.700-10 0.258819          1.3800+7 500000.0 E2A.Marcinkowski+      (93)13604  8 
+    1 67165   6 201 AC 2.0000+7          2.7800-9 4.900-10-0.087156          1.3800+7 500000.0 E2A.Marcinkowski+      (93)13604  8 
+    1 67165   6 201 AC 2.0000+7          2.0400-9 2.200-10-0.500000          1.3800+7 500000.0 E2A.Marcinkowski+      (93)13604  8 
+#/DATA      7
+#/DATASET

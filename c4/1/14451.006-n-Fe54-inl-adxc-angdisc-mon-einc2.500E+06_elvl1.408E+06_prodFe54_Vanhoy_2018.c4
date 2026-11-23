@@ -1,0 +1,43 @@
+#ENTRY      14451
+#AUTHOR1    J.R.Vanhoy+
+#YEAR       2018
+#INSTITUTE  (1USADLS)
+#TITLE      54Fe neutron elastic and inelastic scattering
+#+          differential cross sections from 2 - 6 MeV
+#AUTHOR(S)  J.R.Vanhoy, S.H.Liu, S.F.Hicks, B.M.Combs, B.P.Crider, A.J.French, 
+#+          E.A.Garza, T.Harrison, S.L.Henderson, T.J.Howard, M.T.McEllistrem, 
+#+          S.Nigam, R.L.Pecha, E.E.Peters, F.M.Prados-Estevez, A.P.D.Ramirez, 
+#+          B.G.Rice, T.J.Ross, Z.C.Santonil, L.C.Sidwell, J.L.Steves, 
+#+          B.K.Thompson, S.W.Yates
+#REF-CODE   (J,NP/A,972,107,2018)
+#REFERENCE  Nucl.Phys.A 972 (2018) 107
+#DATASETS   0
+#
+#DATASET    14451006 
+#DATE       20220109
+#REACTION   26-FE-54(N,INL)26-FE-54,PAR,DA
+#PROJ       1
+#TARG       26054
+#MF         4
+#MT         51
+#PRODUCT    26-FE-54
+#C4BEGIN    [    1 26054   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26054   4  51  C 2500000.          0.045600 4.0000-3 0.861629          1408000.         LVLJ.R.Vanhoy+          (18)14451  6 
+    1 26054   4  51  C 2500000.          0.045600 4.0000-3 0.813101          1408000.         LVLJ.R.Vanhoy+          (18)14451  6 
+    1 26054   4  51  C 2500000.          0.046900 4.1000-3 0.758134          1408000.         LVLJ.R.Vanhoy+          (18)14451  6 
+    1 26054   4  51  C 2500000.          0.050900 4.5000-3 0.632029          1408000.         LVLJ.R.Vanhoy+          (18)14451  6 
+    1 26054   4  51  C 2500000.          0.051300 4.5000-3 0.486335          1408000.         LVLJ.R.Vanhoy+          (18)14451  6 
+    1 26054   4  51  C 2500000.          0.052200 4.6000-3 0.325568          1408000.         LVLJ.R.Vanhoy+          (18)14451  6 
+    1 26054   4  51  C 2500000.          0.053000 4.7000-3 0.154710          1408000.         LVLJ.R.Vanhoy+          (18)14451  6 
+    1 26054   4  51  C 2500000.          0.053500 4.7000-3-0.019197          1408000.         LVLJ.R.Vanhoy+          (18)14451  6 
+    1 26054   4  51  C 2500000.          0.054700 4.8000-3-0.192522          1408000.         LVLJ.R.Vanhoy+          (18)14451  6 
+    1 26054   4  51  C 2500000.          0.054600 4.8000-3-0.358368          1408000.         LVLJ.R.Vanhoy+          (18)14451  6 
+    1 26054   4  51  C 2500000.          0.055200 4.9000-3-0.513541          1408000.         LVLJ.R.Vanhoy+          (18)14451  6 
+    1 26054   4  51  C 2500000.          0.052200 4.6000-3-0.653421          1408000.         LVLJ.R.Vanhoy+          (18)14451  6 
+    1 26054   4  51  C 2500000.          0.051200 4.5000-3-0.773840          1408000.         LVLJ.R.Vanhoy+          (18)14451  6 
+    1 26054   4  51  C 2500000.          0.049800 4.4000-3-0.870356          1408000.         LVLJ.R.Vanhoy+          (18)14451  6 
+#/DATA      14
+#/DATASET

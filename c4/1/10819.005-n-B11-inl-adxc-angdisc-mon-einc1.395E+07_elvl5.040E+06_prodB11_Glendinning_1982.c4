@@ -1,0 +1,49 @@
+#ENTRY      10819
+#AUTHOR1    S.G.Glendinning+
+#YEAR       1982
+#INSTITUTE  (1USATNL)
+#TITLE      Elastic and inelastic neutron cross sections for
+#+          boron-10 and boron-11.
+#AUTHOR(S)  S.G.Glendinning, S.El-Kadi, C.E.Nelson, R.S.Pedroni, F.O.Purser, 
+#+          R.W.Walter, A.G.Beyerle, C.R.Gould, L.W.Seagondollar, P.Thambidurai
+#REF-CODE   (J,NSE,80,256,1982)
+#REFERENCE  Nucl.Sci.Eng. 80 (1982) 256
+#DATASETS   0
+#
+#DATASET    10819005 
+#DATE       20250629
+#REACTION   5-B-11(N,INL)5-B-11,PAR,DA
+#PROJ       1
+#TARG       5011
+#MF         4
+#MT         51
+#PRODUCT    5-B-11
+#C4BEGIN    [    1  5011   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5011   4  51 AC 1.3950+7          5.3000-3          0.884092          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          5.5000-3          0.836190          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          6.3000-3          0.780976          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          1.7700-3          0.719219          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          3.9800-3          0.649448          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          1.6100-3          0.578997          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          2.6500-3          0.498034          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          1.7000-3          0.331503          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          1.2500-3          0.156090          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          1.0400-3         -0.022164          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          8.1000-4         -0.127930          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          1.1500-3         -0.198855          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          1.5400-3         -0.294207          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          1.4800-3         -0.366339          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          2.2800-3         -0.448383          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          1.7800-3         -0.587503          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          1.0200-3         -0.649979          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          1.3200-3         -0.709694          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          1.0600-3         -0.763007          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          1.7400-3         -0.811982          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          2.6100-3         -0.855002          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          1.0200-3         -0.892979          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+    1  5011   4  51 AC 1.3950+7          2.4900-3         -0.924812          5040000.         LVLS.G.Glendinning+     (82)10819  5 
+#/DATA      23
+#/DATASET

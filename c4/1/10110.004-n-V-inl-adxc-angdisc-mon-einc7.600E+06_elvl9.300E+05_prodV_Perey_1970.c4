@@ -1,0 +1,36 @@
+#ENTRY      10110
+#AUTHOR1    F.G.Perey+
+#YEAR       1970
+#INSTITUTE  (1USAORL)
+#TITLE      V neutron elastic and inelastic scattering cross
+#+          sections from 4.19 to 8.56 MeV
+#AUTHOR(S)  F.G.Perey, W.E.Kinney
+#REF-CODE   (R,ORNL-4551,197010)
+#REFERENCE  Report ORNL-4551, 1970
+#DATASETS   0
+#
+#DATASET    10110004 
+#DATE       20000202
+#REACTION   23-V-0(N,INL)23-V-51,PAR,DA
+#PROJ       1
+#TARG       23000
+#MF         4
+#MT         51
+#PRODUCT    23-V-51
+#C4BEGIN    [    1 23000   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 23000   4  51 AC 7600000. 100000.0 8.8000-4          0.595384          930000.0         LVLF.G.Perey+           (70)10110  4 
+    1 23000   4  51 AC 7600000. 100000.0 1.5500-3          0.514739          930000.0         LVLF.G.Perey+           (70)10110  4 
+    1 23000   4  51 AC 7600000. 100000.0 8.9000-4          0.364714          930000.0         LVLF.G.Perey+           (70)10110  4 
+    1 23000   4  51 AC 7600000. 100000.0 9.5000-4         -0.073238          930000.0         LVLF.G.Perey+           (70)10110  4 
+    1 23000   4  51 AC 7600000. 100000.0 9.2000-4         -0.107999          930000.0         LVLF.G.Perey+           (70)10110  4 
+    1 23000   4  51 AC 7600000. 100000.0 9.6000-4         -0.202616          930000.0         LVLF.G.Perey+           (70)10110  4 
+    1 23000   4  51 AC 7600000. 100000.0 1.1600-3         -0.295041          930000.0         LVLF.G.Perey+           (70)10110  4 
+    1 23000   4  51 AC 7600000. 100000.0 6.5000-4         -0.485725          930000.0         LVLF.G.Perey+           (70)10110  4 
+    1 23000   4  51 AC 7600000. 100000.0 9.7000-4         -0.508290          930000.0         LVLF.G.Perey+           (70)10110  4 
+    1 23000   4  51 AC 7600000. 100000.0 1.0800-3         -0.615249          930000.0         LVLF.G.Perey+           (70)10110  4 
+    1 23000   4  51 AC 7600000. 100000.0 9.7000-4         -0.711536          930000.0         LVLF.G.Perey+           (70)10110  4 
+#/DATA      11
+#/DATASET

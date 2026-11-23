@@ -1,0 +1,31 @@
+#ENTRY      10109
+#AUTHOR1    F.G.Perey+
+#YEAR       1970
+#INSTITUTE  (1USAORL)
+#TITLE      Calcium neutron elastic- and inelastic-scattering
+#+          cross sections from 4.0 to 8.5 MeV
+#AUTHOR(S)  F.G.Perey, W.E.Kinney
+#REF-CODE   (R,ORNL-4519,197004)
+#REFERENCE  Report ORNL-4519, 1970
+#DATASETS   0
+#
+#DATASET    10109005 
+#DATE       20000202
+#REACTION   20-CA-0(N,INL)20-CA-40,PAR,DA
+#PROJ       1
+#TARG       20000
+#MF         4
+#MT         51
+#PRODUCT    20-CA-40
+#C4BEGIN    [    1 20000   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 20000   4  51 AC 8520000. 80000.00 2.5400-3          0.181206          4490000.         LVLF.G.Perey+           (70)10109  5 
+    1 20000   4  51 AC 8520000. 80000.00 2.9600-3          0.015358          4490000.         LVLF.G.Perey+           (70)10109  5 
+    1 20000   4  51 AC 8520000. 80000.00 2.5200-3         -0.080721          4490000.         LVLF.G.Perey+           (70)10109  5 
+    1 20000   4  51 AC 8520000. 80000.00 2.3000-3         -0.175539          4490000.         LVLF.G.Perey+           (70)10109  5 
+    1 20000   4  51 AC 8520000. 80000.00 1.5800-3         -0.334136          4490000.         LVLF.G.Perey+           (70)10109  5 
+    1 20000   4  51 AC 8520000. 80000.00 2.0300-3         -0.421669          4490000.         LVLF.G.Perey+           (70)10109  5 
+#/DATA      6
+#/DATASET

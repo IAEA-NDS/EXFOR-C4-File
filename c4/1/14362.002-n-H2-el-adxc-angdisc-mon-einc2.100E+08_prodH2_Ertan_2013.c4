@@ -1,0 +1,31 @@
+#ENTRY      14362
+#AUTHOR1    E.Ertan+
+#YEAR       2013
+#INSTITUTE  (1USAMIT)
+#TITLE      Cross sections for neutron-deuteron elastic
+#+          scattering in the energy range 135 - 250 MeV
+#AUTHOR(S)  E.Ertan, T.Akdogan, M.B.Chtangeev, W.A.Franklin, P.A.M.Gram, 
+#+          M.A.Kovash, J.L.Matthews, M.Yuly
+#REF-CODE   (J,PR/C,87,034003,2013)
+#REFERENCE  Phys.Rev.C 87 (2013) 034003
+#DATASETS   0
+#
+#DATASET    14362002 
+#DATE       20130402
+#REACTION   1-H-2(N,EL)1-H-2,,DA
+#PROJ       1
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002   4   2  C 2.1000+8 5000000. 6.9000-5 6.0000-6-0.656059                              E.Ertan+             (13)14362  2 
+    1  1002   4   2  C 2.1000+8 5000000. 6.9000-5 5.0000-6-0.484810                              E.Ertan+             (13)14362  2 
+    1  1002   4   2  C 2.1000+8 5000000. 6.5000-5 4.0000-6-0.292372                              E.Ertan+             (13)14362  2 
+    1  1002   4   2  C 2.1000+8 5000000. 9.6000-5 6.0000-6-0.087156                              E.Ertan+             (13)14362  2 
+    1  1002   4   2  C 2.1000+8 5000000. 1.1000-4 1.1000-5 0.121869                              E.Ertan+             (13)14362  2 
+#/DATA      5
+#/DATASET

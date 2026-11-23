@@ -1,0 +1,33 @@
+#ENTRY      10277
+#AUTHOR1    P.Lambropoulos+
+#YEAR       1973
+#INSTITUTE  (1USAANL)
+#TITLE      Fast-neutron cross sections of the even isotopes of
+#+          molybdenum.
+#AUTHOR(S)  P.Lambropoulos, P.Guenther, A.Smith, J.Whalen
+#REF-CODE   (J,NP/A,201,1,197301)
+#REFERENCE  Nucl.Phys.A 201 (1973) 1
+#DATASETS   0
+#
+#DATASET    10277029 
+#DATE       20011227
+#REACTION   42-MO-100(N,EL)42-MO-100,,DA
+#PROJ       1
+#TARG       42100
+#MF         4
+#MT         2
+#PRODUCT    42-MO-100
+#C4BEGIN    [    1 42100   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42100   4   2 A  380000.0 20000.00 1.609000 0.080450 0.878817                              P.Lambropoulos+      (73)10277 29 
+    1 42100   4   2 A  380000.0 20000.00 1.414000 0.070700 0.782608                              P.Lambropoulos+      (73)10277 29 
+    1 42100   4   2 A  380000.0 20000.00 1.113000 0.055650 0.594823                              P.Lambropoulos+      (73)10277 29 
+    1 42100   4   2 A  380000.0 20000.00 0.819000 0.040950 0.350207                              P.Lambropoulos+      (73)10277 29 
+    1 42100   4   2 A  380000.0 20000.00 0.627000 0.031350 0.095846                              P.Lambropoulos+      (73)10277 29 
+    1 42100   4   2 A  380000.0 20000.00 0.393000 0.019650-0.414693                              P.Lambropoulos+      (73)10277 29 
+    1 42100   4   2 A  380000.0 20000.00 0.363000 0.018150-0.636078                              P.Lambropoulos+      (73)10277 29 
+    1 42100   4   2 A  380000.0 20000.00 0.273000 0.013650-0.902585                              P.Lambropoulos+      (73)10277 29 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,40 @@
+#ENTRY      10263
+#AUTHOR1    J.D.Brandenberger+
+#YEAR       1972
+#INSTITUTE  (1USAKTY)
+#TITLE      The scattering of 8.0 and 9.0 MeV neutrons by 27Al,
+#+          28Si, 31P and 32S
+#AUTHOR(S)  J.D.Brandenberger, A.Mittler, M.T.McEllistrem
+#REF-CODE   (J,NP/A,196,65,197211)
+#REFERENCE  Nucl.Phys.A 196 (1972) 65
+#DATASETS   0
+#
+#DATASET    10263005 
+#DATE       20011204
+#REACTION   14-SI-28(N,INL)14-SI-28,PAR,DA
+#PROJ       1
+#TARG       14028
+#MF         4
+#MT         51
+#PRODUCT    14-SI-28
+#C4BEGIN    [    1 14028   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14028   4  51  C 9050000.          0.027600 1.0000-3 0.866025          1780000.         LVLJ.D.Brandenberger+   (72)10263  5 
+    1 14028   4  51  C 9050000.          0.029100 1.0000-3 0.819152          1780000.         LVLJ.D.Brandenberger+   (72)10263  5 
+    1 14028   4  51  C 9050000.          0.029500 9.0000-4 0.766044          1780000.         LVLJ.D.Brandenberger+   (72)10263  5 
+    1 14028   4  51  C 9050000.          0.026500 8.0000-4 0.642788          1780000.         LVLJ.D.Brandenberger+   (72)10263  5 
+    1 14028   4  51  C 9050000.          0.024000 6.0000-4 0.573576          1780000.         LVLJ.D.Brandenberger+   (72)10263  5 
+    1 14028   4  51  C 9050000.          0.023000 6.0000-4 0.500000          1780000.         LVLJ.D.Brandenberger+   (72)10263  5 
+    1 14028   4  51  C 9050000.          0.021100 6.0000-4 0.342020          1780000.         LVLJ.D.Brandenberger+   (72)10263  5 
+    1 14028   4  51  C 9050000.          0.020000 6.0000-4 0.173648          1780000.         LVLJ.D.Brandenberger+   (72)10263  5 
+    1 14028   4  51  C 9050000.          0.017300 5.0000-4 6.123-17          1780000.         LVLJ.D.Brandenberger+   (72)10263  5 
+    1 14028   4  51  C 9050000.          0.014600 4.0000-4-0.173648          1780000.         LVLJ.D.Brandenberger+   (72)10263  5 
+    1 14028   4  51  C 9050000.          0.012200 4.0000-4-0.342020          1780000.         LVLJ.D.Brandenberger+   (72)10263  5 
+    1 14028   4  51  C 9050000.          0.012700 4.0000-4-0.500000          1780000.         LVLJ.D.Brandenberger+   (72)10263  5 
+    1 14028   4  51  C 9050000.          0.013000 4.0000-4-0.642788          1780000.         LVLJ.D.Brandenberger+   (72)10263  5 
+    1 14028   4  51  C 9050000.          0.017500 5.0000-4-0.766044          1780000.         LVLJ.D.Brandenberger+   (72)10263  5 
+    1 14028   4  51  C 9050000.          0.020900 6.0000-4-0.866025          1780000.         LVLJ.D.Brandenberger+   (72)10263  5 
+#/DATA      15
+#/DATASET

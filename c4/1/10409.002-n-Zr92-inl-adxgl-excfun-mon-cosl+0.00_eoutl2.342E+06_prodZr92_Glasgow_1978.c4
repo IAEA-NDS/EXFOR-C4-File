@@ -1,0 +1,31 @@
+#ENTRY      10409
+#AUTHOR1    G.P.Glasgow+
+#YEAR       1978
+#INSTITUTE  (1USAKTY)
+#TITLE      Level and decay scheme studies in 92Zr and 94Zr via
+#+          (n,n'gamma) reactions
+#AUTHOR(S)  G.P.Glasgow, F.D.Mc Daniel, J.L.Weil, J.D.Brandenberger, 
+#+          M.T.Mc Ellistrem
+#REF-CODE   (J,PR/C,18,2520,197812)
+#REFERENCE  Phys.Rev.C 18 (1978) 2520
+#DATASETS   0
+#
+#DATASET    10409002 
+#DATE       20030207
+#REACTION   40-ZR-92(N,INL)40-ZR-92,PAR,DA,G
+#PROJ       1
+#TARG       40092
+#MF         14
+#MT         51
+#PRODUCT    40-ZR-92
+#C4BEGIN    [    1 40092  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40092  14  51 A  3450000.          3.0000-4          6.123-17          2342300.            G.P.Glasgow+         (78)10409  2 
+    1 40092  14  51 A  3500000.          3.3000-4          6.123-17          2342300.            G.P.Glasgow+         (78)10409  2 
+    1 40092  14  51 A  3550000.          4.6000-4          6.123-17          2342300.            G.P.Glasgow+         (78)10409  2 
+    1 40092  14  51 A  3600000.          5.0000-4          6.123-17          2342300.            G.P.Glasgow+         (78)10409  2 
+    1 40092  14  51 A  3700000.          4.0000-4          6.123-17          2342300.            G.P.Glasgow+         (78)10409  2 
+#/DATA      5
+#/DATASET

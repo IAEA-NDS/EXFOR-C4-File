@@ -1,0 +1,39 @@
+#ENTRY      14462
+#AUTHOR1    A.P.D.Ramirez+
+#YEAR       2017
+#INSTITUTE  (1USAKTY)
+#TITLE      Neutron scattering cross section measurements for 56Fe
+#AUTHOR(S)  A.P.D.Ramirez, J.R.Vanhoy, S.F.Hicks, M.T.McEllistrem, E.E.Peters, 
+#+          S.Mukhopadhyay, T.D.Harrison, T.J.Howard, D.T.Jackson, P.D.Lenzen, 
+#+          T.D.Nguyen, R.L.Pecha, B.G.Rice, B.K.Thompson, S.W.Yates
+#REF-CODE   (J,PR/C,95,064605,2017)
+#REFERENCE  Phys.Rev.C 95 (2017) 064605
+#DATASETS   0
+#
+#DATASET    14462003 
+#DATE       20170211
+#REACTION   26-FE-56(N,INL)26-FE-56,PAR,DA
+#PROJ       1
+#TARG       26056
+#MF         4
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056   4  51    4900000.          0.027720 6.9700-3 0.812592          847000.0         LVLA.P.D.Ramirez+       (17)14462  3 
+    1 26056   4  51    4900000.          0.027380 5.1200-3 0.757793          847000.0         LVLA.P.D.Ramirez+       (17)14462  3 
+    1 26056   4  51    4900000.          0.029490 5.5100-3 0.631082          847000.0         LVLA.P.D.Ramirez+       (17)14462  3 
+    1 26056   4  51    4900000.          0.020380 2.2500-3 0.484962          847000.0         LVLA.P.D.Ramirez+       (17)14462  3 
+    1 26056   4  51    4900000.          0.016700 1.7800-3 0.324413          847000.0         LVLA.P.D.Ramirez+       (17)14462  3 
+    1 26056   4  51    4900000.          0.017830 1.7800-3 0.154366          847000.0         LVLA.P.D.Ramirez+       (17)14462  3 
+    1 26056   4  51    4900000.          0.020450 2.0500-3-0.019895          847000.0         LVLA.P.D.Ramirez+       (17)14462  3 
+    1 26056   4  51    4900000.          0.020760 2.3400-3-0.192864          847000.0         LVLA.P.D.Ramirez+       (17)14462  3 
+    1 26056   4  51    4900000.          0.022570 2.3000-3-0.359508          847000.0         LVLA.P.D.Ramirez+       (17)14462  3 
+    1 26056   4  51    4900000.          0.023710 2.3500-3-0.514888          847000.0         LVLA.P.D.Ramirez+       (17)14462  3 
+    1 26056   4  51    4900000.          0.022790 2.2700-3-0.654345          847000.0         LVLA.P.D.Ramirez+       (17)14462  3 
+    1 26056   4  51    4900000.          0.022500 2.3000-3-0.774172          847000.0         LVLA.P.D.Ramirez+       (17)14462  3 
+    1 26056   4  51    4900000.          0.017740 1.7800-3-0.870957          847000.0         LVLA.P.D.Ramirez+       (17)14462  3 
+#/DATA      13
+#/DATASET

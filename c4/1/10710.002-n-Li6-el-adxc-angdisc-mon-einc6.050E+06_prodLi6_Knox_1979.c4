@@ -1,0 +1,35 @@
+#ENTRY      10710
+#AUTHOR1    H.D.Knox+
+#YEAR       1979
+#INSTITUTE  (1USAOHO)
+#TITLE      Differential neutron scattering cross sections of
+#+          Lithium-6 and  Lithium-7 for neutrons of 4 to 7.5 MeV
+#+          energy
+#AUTHOR(S)  H.D.Knox, R.M.White, R.O.Lane
+#REF-CODE   (J,NSE,69,223,1979)
+#REFERENCE  Nucl.Sci.Eng. 69 (1979) 223
+#DATASETS   0
+#
+#DATASET    10710002 
+#DATE       20090817
+#REACTION   3-LI-6(N,EL)3-LI-6,,DA
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [    1  3006   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4   2 AC 6050000.          0.436500 0.028700 0.919135                              H.D.Knox+            (79)10710  2 
+    1  3006   4   2 AC 6050000.          0.220400 0.015200 0.727773                              H.D.Knox+            (79)10710  2 
+    1  3006   4   2 AC 6050000.          0.087300 6.3000-3 0.455545                              H.D.Knox+            (79)10710  2 
+    1  3006   4   2 AC 6050000.          0.037300 3.0000-3 0.144356                              H.D.Knox+            (79)10710  2 
+    1  3006   4   2 AC 6050000.          0.030600 2.6000-3-0.166769                              H.D.Knox+            (79)10710  2 
+    1  3006   4   2 AC 6050000.          0.030400 2.6000-3-0.449319                              H.D.Knox+            (79)10710  2 
+    1  3006   4   2 AC 6050000.          0.032700 2.9000-3-0.680721                              H.D.Knox+            (79)10710  2 
+    1  3006   4   2 AC 6050000.          0.043000 3.5000-3-0.850811                              H.D.Knox+            (79)10710  2 
+    1  3006   4   2 AC 6050000.          0.048900 4.0000-3-0.957319                              H.D.Knox+            (79)10710  2 
+#/DATA      9
+#/DATASET

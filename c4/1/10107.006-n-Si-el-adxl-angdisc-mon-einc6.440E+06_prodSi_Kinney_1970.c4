@@ -1,0 +1,30 @@
+#ENTRY      10107
+#AUTHOR1    W.E.Kinney+
+#YEAR       1970
+#INSTITUTE  (1USAORL)
+#TITLE      Neutron elastic- and inelastic-scattering cross
+#+          sections for Si in the energy range 4.19 to 8.56 MeV
+#AUTHOR(S)  W.E.Kinney, F.G.Perey
+#REF-CODE   (R,ORNL-4517,197007)
+#REFERENCE  Report ORNL-4517, 1970
+#DATASETS   0
+#
+#DATASET    10107006 
+#DATE       20000202
+#REACTION   14-SI-0(N,EL)14-SI-0,,DA
+#PROJ       1
+#TARG       14000
+#MF         4
+#MT         2
+#PRODUCT    14-SI-0
+#C4BEGIN    [    1 14000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14000   4   2 AC 6440000. 70000.00 0.600250          0.963490                              W.E.Kinney+          (70)10107  6 
+    1 14000   4   2 AC 6440000. 70000.00 0.485300          0.918584                              W.E.Kinney+          (70)10107  6 
+    1 14000   4   2 AC 6440000. 70000.00 0.021930         -0.519221                              W.E.Kinney+          (70)10107  6 
+    1 14000   4   2 AC 6440000. 70000.00 0.020110         -0.624289                              W.E.Kinney+          (70)10107  6 
+    1 14000   4   2 AC 6440000. 70000.00 0.024650         -0.718855                              W.E.Kinney+          (70)10107  6 
+#/DATA      5
+#/DATASET

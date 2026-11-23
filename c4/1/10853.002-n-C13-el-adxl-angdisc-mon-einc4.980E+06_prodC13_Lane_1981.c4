@@ -1,0 +1,35 @@
+#ENTRY      10853
+#AUTHOR1    R.O.Lane+
+#YEAR       1981
+#INSTITUTE  (1USAOHO)
+#TITLE      STATES IN C-14 FROM TOTAL AND DIFFERENTIAL ELASTIC
+#+          CROSS SECTIONS FOR C-13 + NEUTRON. MEASUREMENT,
+#+          R-MATRIX ANALYSIS AND MODEL CALCULATIONS.
+#AUTHOR(S)  R.O.Lane, H.D.Knox, P.Hoffmann-Pinther, R.M.White, G.F.Auchampaugh
+#REF-CODE   (J,PR/C,23,1883,8105)
+#REFERENCE  Phys.Rev.C 23 (1981) 1883
+#DATASETS   0
+#
+#DATASET    10853002 
+#DATE       19810508
+#REACTION   6-C-13(N,EL)6-C-13,,DA
+#PROJ       1
+#TARG       6013
+#MF         4
+#MT         2
+#PRODUCT    6-C-13
+#C4BEGIN    [    1  6013   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6013   4   2 AC 4980000.          0.186300 0.012100 0.930418                              R.O.Lane+            (81)10853  2 
+    1  6013   4   2 AC 4980000.          0.090400 6.1000-3 0.763796                              R.O.Lane+            (81)10853  2 
+    1  6013   4   2 AC 4980000.          0.029800 2.5000-3 0.521010                              R.O.Lane+            (81)10853  2 
+    1  6013   4   2 AC 4980000.          0.040000 3.1000-3 0.230050                              R.O.Lane+            (81)10853  2 
+    1  6013   4   2 AC 4980000.          0.075900 5.0000-3-0.076719                              R.O.Lane+            (81)10853  2 
+    1  6013   4   2 AC 4980000.          0.088800 5.7000-3-0.369747                              R.O.Lane+            (81)10853  2 
+    1  6013   4   2 AC 4980000.          0.080500 5.2000-3-0.623880                              R.O.Lane+            (81)10853  2 
+    1  6013   4   2 AC 4980000.          0.067800 4.6000-3-0.821149                              R.O.Lane+            (81)10853  2 
+    1  6013   4   2 AC 4980000.          0.065600 4.7000-3-0.948324                              R.O.Lane+            (81)10853  2 
+#/DATA      9
+#/DATASET

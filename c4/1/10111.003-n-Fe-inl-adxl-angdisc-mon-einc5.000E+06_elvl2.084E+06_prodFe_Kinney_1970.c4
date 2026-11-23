@@ -1,0 +1,30 @@
+#ENTRY      10111
+#AUTHOR1    W.E.Kinney+
+#YEAR       1970
+#INSTITUTE  (1USAORL)
+#TITLE      Neutron elastic- and inelastic-scattering cross
+#+          sections for 56Fe in the energy range 4.19 to 8.56 MeV
+#AUTHOR(S)  W.E.Kinney, F.G.Perey
+#REF-CODE   (R,ORNL-4515,197006)
+#REFERENCE  Report ORNL-4515, 1970
+#DATASETS   0
+#
+#DATASET    10111003 
+#DATE       20000202
+#REACTION   26-FE-0(N,INL)26-FE-56,PAR,DA
+#PROJ       1
+#TARG       26000
+#MF         4
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26000   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26000   4  51 AC 5000000. 40000.00 5.8400-3         -0.023734          2084000.         LVLW.E.Kinney+          (70)10111  3 
+    1 26000   4  51 AC 5000000. 40000.00 5.0200-3         -0.196631          2084000.         LVLW.E.Kinney+          (70)10111  3 
+    1 26000   4  51 AC 5000000. 40000.00 5.2700-3         -0.362926          2084000.         LVLW.E.Kinney+          (70)10111  3 
+    1 26000   4  51 AC 5000000. 40000.00 3.2200-3         -0.441976          2084000.         LVLW.E.Kinney+          (70)10111  3 
+    1 26000   4  51 AC 5000000. 40000.00 5.2300-3         -0.775716          2084000.         LVLW.E.Kinney+          (70)10111  3 
+#/DATA      5
+#/DATASET

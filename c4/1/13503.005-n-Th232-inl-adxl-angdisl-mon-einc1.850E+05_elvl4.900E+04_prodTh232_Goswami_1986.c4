@@ -1,0 +1,37 @@
+#ENTRY      13503
+#AUTHOR1    G.C.Goswami+
+#YEAR       1986
+#INSTITUTE  (1USALTI)
+#TITLE      Neutron scattering cross sections up to 2.4 MeV for the
+#+          ground and first two excited states of 232Th.
+#AUTHOR(S)  G.C.Goswami, J.J.Egan, G.H.R.Kegel, A.Mittler, E.Sheldon
+#REF-CODE   (T,GOSWAMI,1986)
+#REFERENCE  Thesis  (1986)
+#DATASETS   0
+#
+#DATASET    13503005 
+#DATE       20260219
+#REACTION   90-TH-232(N,INL)90-TH-232,PAR,DA
+#PROJ       1
+#TARG       90232
+#MF         4
+#MT         51
+#PRODUCT    90-TH-232
+#C4BEGIN    [    1 90232   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   4  51    185000.0          0.057990 8.7000-3 0.819152          49000.00         LVLG.C.Goswami          (86)13503  5 
+    1 90232   4  51    185000.0          0.049260 7.4000-3 0.707107          49000.00         LVLG.C.Goswami          (86)13503  5 
+    1 90232   4  51    185000.0          0.042360 6.3000-3 0.573576          49000.00         LVLG.C.Goswami          (86)13503  5 
+    1 90232   4  51    185000.0          0.048950 7.3000-3 0.422618          49000.00         LVLG.C.Goswami          (86)13503  5 
+    1 90232   4  51    185000.0          0.050620 7.6000-3 0.258819          49000.00         LVLG.C.Goswami          (86)13503  5 
+    1 90232   4  51    185000.0          0.041740 6.3000-3 0.087156          49000.00         LVLG.C.Goswami          (86)13503  5 
+    1 90232   4  51    185000.0          0.044860 6.7000-3-0.087156          49000.00         LVLG.C.Goswami          (86)13503  5 
+    1 90232   4  51    185000.0          0.043830 6.6000-3-0.258819          49000.00         LVLG.C.Goswami          (86)13503  5 
+    1 90232   4  51    185000.0          0.045330 6.8000-3-0.422618          49000.00         LVLG.C.Goswami          (86)13503  5 
+    1 90232   4  51    185000.0          0.045510 6.8000-3-0.573576          49000.00         LVLG.C.Goswami          (86)13503  5 
+    1 90232   4  51    185000.0          0.050150 7.5000-3-0.707107          49000.00         LVLG.C.Goswami          (86)13503  5 
+    1 90232   4  51    185000.0          0.045120 6.8000-3-0.819152          49000.00         LVLG.C.Goswami          (86)13503  5 
+#/DATA      12
+#/DATASET

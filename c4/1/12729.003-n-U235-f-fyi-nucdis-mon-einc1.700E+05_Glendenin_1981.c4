@@ -1,0 +1,26 @@
+#ENTRY      12729
+#AUTHOR1    L.E.Glendenin+
+#YEAR       1981
+#INSTITUTE  (1USAANL)
+#TITLE      Mass distributions for monoenergetic-neutron-induced
+#+          fission of 235U
+#AUTHOR(S)  L.E.Glendenin, J.E.Gindler, D.J.Henderson, J.W.Meadows
+#REF-CODE   (J,PR/C,24,2600,1981)
+#REFERENCE  Phys.Rev.C 24 (1981) 2600
+#DATASETS   0
+#
+#DATASET    12729003 
+#DATE       20201025
+#REACTION   92-U-235(N,F)ELEM/MASS,IND,FY
+#PROJ       1
+#TARG       92235
+#MF         8
+#MT         454
+#C4BEGIN    [    1 92235   8 454 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   8 454 A  170000.0          8.0000-3 6.0000-3 53.00000 134.0000 9.000000            L.E.Glendenin+       (81)12729  3 
+    1 92235   8 454 A  170000.0          5.0000-3 2.0000-3 54.00000 135.0000 9.000000            L.E.Glendenin+       (81)12729  3 
+#/DATA      2
+#/DATASET

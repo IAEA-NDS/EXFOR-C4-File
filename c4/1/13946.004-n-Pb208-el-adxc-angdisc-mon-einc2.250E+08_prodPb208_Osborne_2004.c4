@@ -1,0 +1,35 @@
+#ENTRY      13946
+#AUTHOR1    J.H.Osborne+
+#YEAR       2004
+#INSTITUTE  (1USADAV)
+#TITLE      Measurement of neutron elastic scattering cross
+#+          sections for 12C, 40Ca, and 208Pb at energies from
+#+          65 to 225 MeV.
+#AUTHOR(S)  J.H.Osborne, F.P.Brady, J.L.Romero, J.L.Ullmann, D.S.Sorenson, 
+#+          A.Ling, N.S.P.King, R.C.Haight, J.Rapaport, R.W.Finlay, 
+#+          E.Bauge, J.P.Delaroche, A.J.Koning
+#REF-CODE   (J,PR/C,70,054613,200411)
+#REFERENCE  Phys.Rev.C 70 (2004) 054613
+#DATASETS   0
+#
+#DATASET    13946004 
+#DATE       20041215
+#REACTION   82-PB-208(N,EL)82-PB-208,,DA
+#PROJ       1
+#TARG       82208
+#MF         4
+#MT         2
+#PRODUCT    82-PB-208
+#C4BEGIN    [    1 82208   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82208   4   2  C 2.2500+8 2.5000+7 2.130000 0.270000 0.992546                              J.H.Osborne+         (04)13946  4 
+    1 82208   4   2  C 2.2500+8 2.5000+7 0.573000 0.140000 0.987414                              J.H.Osborne+         (04)13946  4 
+    1 82208   4   2  C 2.2500+8 2.5000+7 0.010000 0.105000 0.981293                              J.H.Osborne+         (04)13946  4 
+    1 82208   4   2  C 2.2500+8 2.5000+7 0.214000 0.085000 0.973976                              J.H.Osborne+         (04)13946  4 
+    1 82208   4   2  C 2.2500+8 2.5000+7 0.067000 0.051000 0.965473                              J.H.Osborne+         (04)13946  4 
+    1 82208   4   2  C 2.2500+8 2.5000+7 0.047000 0.038000 0.955793                              J.H.Osborne+         (04)13946  4 
+    1 82208   4   2  C 2.2500+8 2.5000+7 0.010000 0.025000 0.944949                              J.H.Osborne+         (04)13946  4 
+#/DATA      7
+#/DATASET

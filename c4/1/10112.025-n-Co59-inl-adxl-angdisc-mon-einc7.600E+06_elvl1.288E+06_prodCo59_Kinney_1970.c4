@@ -1,0 +1,27 @@
+#ENTRY      10112
+#AUTHOR1    W.E.Kinney+
+#YEAR       1970
+#INSTITUTE  (1USAORL)
+#TITLE      Neutron elastic- and inelastic-scattering cross
+#+          sections for Co in the energy range 4.19 to 8.56 MeV
+#AUTHOR(S)  W.E.Kinney, F.G.Perey
+#REF-CODE   (R,ORNL-4549,197006)
+#REFERENCE  Report ORNL-4549, 1970
+#DATASETS   0
+#
+#DATASET    10112025 
+#DATE       20000202
+#REACTION   27-CO-59(N,INL)27-CO-59,PAR,DA
+#PROJ       1
+#TARG       27059
+#MF         4
+#MT         51
+#PRODUCT    27-CO-59
+#C4BEGIN    [    1 27059   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 27059   4  51 AC 7600000. 100000.0 0.011190          0.596785          1288000. 191000.0LVLW.E.Kinney+          (70)10112 25 
+    1 27059   4  51 AC 7600000. 100000.0 5.1400-3         -0.483893          1288000. 191000.0LVLW.E.Kinney+          (70)10112 25 
+#/DATA      2
+#/DATASET

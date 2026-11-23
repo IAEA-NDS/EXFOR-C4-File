@@ -1,0 +1,32 @@
+#ENTRY      14370
+#AUTHOR1    M.S.Boswell+
+#YEAR       2013
+#INSTITUTE  (1USALAS)
+#TITLE      Neutron inelastic scattering in natural Cu as a
+#+          background in neutrinoless double-beta decay
+#+          experiments
+#AUTHOR(S)  M.S.Boswell, S.R.Elliott, D.V.Perepelitsa, M.Devlin, N.Fotiades, 
+#+          R.O.Nelson, T.Kawano, V.E.Guiseppe
+#REF-CODE   (J,PR/C,87,064607,2013)
+#REFERENCE  Phys.Rev.C 87 (2013) 064607
+#DATASETS   0
+#
+#DATASET    14370003 
+#DATE       20130802
+#REACTION   29-CU-65(N,INL)29-CU-65,PAR,SIG,G
+#PROJ       1
+#TARG       29065
+#MF         13
+#MT         51
+#PRODUCT    29-CU-65
+#C4BEGIN    [    1 29065  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29065  13  51    2819000.          3.0570-3 5.7700-4                   1762400.            M.S.Boswell+         (13)14370  3 
+    1 29065  13  51    4.9581+7          0.019137 1.1090-3                   1762400.            M.S.Boswell+         (13)14370  3 
+    1 29065  13  51    6.8775+7          0.011253 7.6200-4                   1762400.            M.S.Boswell+         (13)14370  3 
+    1 29065  13  51    1.0269+8          8.8080-3 7.4900-4                   1762400.            M.S.Boswell+         (13)14370  3 
+    1 29065  13  51    1.7379+8          3.8280-3 4.8300-4                   1762400.            M.S.Boswell+         (13)14370  3 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,37 @@
+#ENTRY      13162
+#AUTHOR1    E.T.Sadowski+
+#YEAR       1990
+#INSTITUTE  (1USAOHO)
+#TITLE      HIGHER EXCITATION LEVELS OF 11B VIA THE 10B(N,N)10B AND
+#+          10B(N,N')10B*(0.72, 1.74, 2.15, 3.59, 4.77 MEV)
+#+          REACTIONS
+#AUTHOR(S)  E.T.Sadowski, H.D.Knox, D.A.Resler, R.O.Lane
+#REF-CODE   (J,PR/C,42,190,9007)
+#REFERENCE  Phys.Rev.C 42 (1990) 190
+#DATASETS   0
+#
+#DATASET    13162006 
+#DATE       19910102
+#REACTION   5-B-10(N,INL)5-B-10,PAR,DA
+#PROJ       1
+#TARG       5010
+#MF         4
+#MT         51
+#PRODUCT    5-B-10
+#C4BEGIN    [    1  5010   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5010   4  51 AC 7010000.          2.0000-3 2.0000-4 0.945519          2150000.         LVLE.T.Sadowski+        (90)13162  6 
+    1  5010   4  51 AC 7010000.          1.9000-3 2.0000-4 0.891007          2150000.         LVLE.T.Sadowski+        (90)13162  6 
+    1  5010   4  51 AC 7010000.          1.7000-3 2.0000-4 0.719340          2150000.         LVLE.T.Sadowski+        (90)13162  6 
+    1  5010   4  51 AC 7010000.          2.2000-3 2.0000-4 0.487860          2150000.         LVLE.T.Sadowski+        (90)13162  6 
+    1  5010   4  51 AC 7010000.          2.3000-3 2.0000-4 0.224951          2150000.         LVLE.T.Sadowski+        (90)13162  6 
+    1  5010   4  51 AC 7010000.          2.4000-3 3.0000-4-0.050593          2150000.         LVLE.T.Sadowski+        (90)13162  6 
+    1  5010   4  51 AC 7010000.          2.2000-3 2.0000-4-0.312335          2150000.         LVLE.T.Sadowski+        (90)13162  6 
+    1  5010   4  51 AC 7010000.          1.5000-3 2.0000-4-0.544639          2150000.         LVLE.T.Sadowski+        (90)13162  6 
+    1  5010   4  51 AC 7010000.          1.8000-3 2.0000-4-0.736097          2150000.         LVLE.T.Sadowski+        (90)13162  6 
+    1  5010   4  51 AC 7010000.          2.4000-3 3.0000-4-0.858065          2150000.         LVLE.T.Sadowski+        (90)13162  6 
+    1  5010   4  51 AC 7010000.          3.2000-3 3.0000-4-0.943801          2150000.         LVLE.T.Sadowski+        (90)13162  6 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,40 @@
+#ENTRY      14792
+#AUTHOR1    A.P.D.Ramirez+
+#YEAR       2022
+#INSTITUTE  (1USAKTY)
+#TITLE      Neutron elastic and inelastic cross section
+#+          measurements on silicon from 0.8-8 MeV
+#AUTHOR(S)  A.P.D.Ramirez, E.E.Peters, S.Mukhopadhyay, M.T.McEllistrem, 
+#+          S.W.Yates, E.C.Derdeyn, S.F.Hicks, E.M.Lyons, T.J.Morin, 
+#+          J.R.Vanhoy
+#REF-CODE   (J,NP/A,1024,122474,2022)
+#REFERENCE  Nucl.Phys.A 1024 (2022) 122474
+#DATASETS   0
+#
+#DATASET    14792004 
+#DATE       20241015
+#REACTION   14-SI-0(N,INL)14-SI-0,,DA
+#PROJ       1
+#TARG       14000
+#MF         4
+#MT         4
+#PRODUCT    14-SI-0
+#C4BEGIN    [    1 14000   4   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14000   4   4 A  8000000.          0.031130 2.8900-3 0.855635                              A.P.D.Ramirez+       (22)14792  4 
+    1 14000   4   4 A  8000000.          0.033640 3.0500-3 0.748840                              A.P.D.Ramirez+       (22)14792  4 
+    1 14000   4   4 A  8000000.          0.036520 3.2900-3 0.618408                              A.P.D.Ramirez+       (22)14792  4 
+    1 14000   4   4 A  8000000.          0.033210 3.0500-3 0.469009                              A.P.D.Ramirez+       (22)14792  4 
+    1 14000   4   4 A  8000000.          0.031560 2.8300-3 0.305695                              A.P.D.Ramirez+       (22)14792  4 
+    1 14000   4   4 A  8000000.          0.025350 2.2900-3 0.133813                              A.P.D.Ramirez+       (22)14792  4 
+    1 14000   4   4 A  8000000.          0.021660 1.9700-3-0.040829                              A.P.D.Ramirez+       (22)14792  4 
+    1 14000   4   4 A  8000000.          0.024700 2.2100-3-0.213201                              A.P.D.Ramirez+       (22)14792  4 
+    1 14000   4   4 A  8000000.          0.025130 2.2800-3-0.377841                              A.P.D.Ramirez+       (22)14792  4 
+    1 14000   4   4 A  8000000.          0.031140 2.8100-3-0.530363                              A.P.D.Ramirez+       (22)14792  4 
+    1 14000   4   4 A  8000000.          0.035680 3.2500-3-0.666532                              A.P.D.Ramirez+       (22)14792  4 
+    1 14000   4   4 A  8000000.          0.036140 3.3300-3-0.782717                              A.P.D.Ramirez+       (22)14792  4 
+    1 14000   4   4 A  8000000.          0.025030 2.3500-3-0.913474                              A.P.D.Ramirez+       (22)14792  4 
+#/DATA      13
+#/DATASET

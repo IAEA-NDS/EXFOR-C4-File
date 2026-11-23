@@ -1,0 +1,33 @@
+#ENTRY      10382
+#AUTHOR1    J.C.Overley+
+#YEAR       1974
+#INSTITUTE  (1USAORE)
+#TITLE      6Li(n,t)4He differential cross sections between 0.1
+#+          and 1.8 MeV.
+#AUTHOR(S)  J.C.Overley, R.M.Sealock, D.H.Ehlers
+#REF-CODE   (J,NP/A,221,573,197403)
+#REFERENCE  Nucl.Phys.A 221 (1974) 573
+#DATASETS   0
+#
+#DATASET    10382003 
+#DATE       20030102
+#REACTION   3-LI-6(N,T)2-HE-4,,DA
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         105
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1  3006   4 105 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4 105 AC 1500000.          0.015800 8.0000-4-0.983000                              J.C.Overley+         (74)10382  3 
+    1  3006   4 105 AC 1500000.          0.015600 1.2000-3-0.897600                              J.C.Overley+         (74)10382  3 
+    1  3006   4 105 AC 1500000.          0.014800 8.0000-4-0.732800                              J.C.Overley+         (74)10382  3 
+    1  3006   4 105 AC 1500000.          0.015500 9.0000-4-0.536700                              J.C.Overley+         (74)10382  3 
+    1  3006   4 105 AC 1500000.          0.016600 9.0000-4-0.327900                              J.C.Overley+         (74)10382  3 
+    1  3006   4 105 AC 1500000.          0.016100 9.0000-4-0.144500                              J.C.Overley+         (74)10382  3 
+    1  3006   4 105 AC 1500000.          0.016300 1.0000-3 0.038500                              J.C.Overley+         (74)10382  3 
+    1  3006   4 105 AC 1500000.          0.016100 1.4000-3 0.211600                              J.C.Overley+         (74)10382  3 
+#/DATA      8
+#/DATASET

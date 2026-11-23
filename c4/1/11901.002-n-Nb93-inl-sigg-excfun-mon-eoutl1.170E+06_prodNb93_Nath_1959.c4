@@ -1,0 +1,29 @@
+#ENTRY      11901
+#AUTHOR1    N.Nath+
+#YEAR       1959
+#INSTITUTE  (1USABAR)
+#TITLE      Inelastic neutron scattering in Nb93.
+#AUTHOR(S)  N.Nath, M.A.Rothman, D.M.Van Patter, C.E.Mandeville
+#REF-CODE   (J,NP,14,78,1959)
+#REFERENCE  Nucl.Phys. 14 (1959) 78
+#DATASETS   0
+#
+#DATASET    11901002 
+#DATE       20200504
+#REACTION   41-NB-93(N,INL)41-NB-93,PAR,SIG,G
+#PROJ       1
+#TARG       41093
+#MF         13
+#MT         51
+#PRODUCT    41-NB-93
+#C4BEGIN    [    1 41093  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 41093  13  51    1320000.          0.070000 0.021000                   1170000.            N.Nath+              (59)11901  2 
+    1 41093  13  51    1460000.          0.070000 0.021000                   1170000.            N.Nath+              (59)11901  2 
+    1 41093  13  51    1640000.          0.050000 0.015000                   1170000.            N.Nath+              (59)11901  2 
+    1 41093  13  51    1900000.          0.060000 0.018000                   1170000.            N.Nath+              (59)11901  2 
+    1 41093  13  51    2120000.          0.130000 0.039000                   1170000.            N.Nath+              (59)11901  2 
+#/DATA      5
+#/DATASET

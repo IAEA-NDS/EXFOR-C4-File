@@ -1,0 +1,30 @@
+#ENTRY      11251
+#AUTHOR1    R.O.Lane+
+#YEAR       1956
+#INSTITUTE  (1USAANL)
+#TITLE      DIFFERENTIAL CROSS SECTIONS FOR NEUTRON RESONANCE
+#+          SCATTERING.
+#AUTHOR(S)  R.O.Lane, J.E.Monahan
+#REF-CODE   (P,ANL-5554,22,5608)
+#REFERENCE  Progress report ANL-5554 page 22, 1956
+#DATASETS   0
+#
+#DATASET    11251002 
+#DATE       19800820
+#REACTION   4-BE-9(N,EL)4-BE-9,,DA
+#PROJ       1
+#TARG       4009
+#MF         4
+#MT         2
+#PRODUCT    4-BE-9
+#C4BEGIN    [    1  4009   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  4009   4   2  C 641000.0 8000.000 0.567000          0.910000                              R.O.Lane+            (56)11251  2 
+    1  4009   4   2  C 641000.0 8000.000 0.367300          0.515000                              R.O.Lane+            (56)11251  2 
+    1  4009   4   2  C 641000.0 8000.000 0.267500         -0.194200                              R.O.Lane+            (56)11251  2 
+    1  4009   4   2  C 641000.0 8000.000 0.331000         -0.480200                              R.O.Lane+            (56)11251  2 
+    1  4009   4   2  C 641000.0 8000.000 0.475800         -0.859900                              R.O.Lane+            (56)11251  2 
+#/DATA      5
+#/DATASET

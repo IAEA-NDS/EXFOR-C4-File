@@ -1,0 +1,40 @@
+#ENTRY      14116
+#AUTHOR1    S.Kunieda+
+#YEAR       2004
+#INSTITUTE  (2JPNKYU)
+#TITLE      Measurement of neutron-production double-differential
+#+          cross sections for continuous-energy-neutron-incidence
+#+          on Fe and Pb by liquid organic scintillator
+#AUTHOR(S)  S.Kunieda, T.Watanabe, N.Shigyo, K.Ishibashi, D.Satoh, Y.Iwamoto, 
+#+          T.Nakamura, R.C.Haight
+#REF-CODE   (C,2004SANTA,1,1058,2004)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn., Santa Fe 2004 1 page 1058
+#DATASETS   0
+#
+#DATASET    14116002 
+#DATE       20061117
+#REACTION   26-FE-0(N,X)0-NN-1,,DA/DE
+#PROJ       1
+#TARG       26000
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    1 26000   6 201 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26000   6 201 P  9.5000+7 5000000. 6.4140-9 8.300-10 0.866025          7736000.          E2S.Kunieda+           (04)14116  2 
+    1 26000   6 201 P  9.5000+7 5000000. 4.5260-9 4.933-10 0.866025          9070000.          E2S.Kunieda+           (04)14116  2 
+    1 26000   6 201 P  9.5000+7 5000000. 3.3440-9 4.327-10 0.866025          1.0680+7          E2S.Kunieda+           (04)14116  2 
+    1 26000   6 201 P  9.5000+7 5000000. 2.4700-9 2.178-10 0.866025          1.2640+7          E2S.Kunieda+           (04)14116  2 
+    1 26000   6 201 P  9.5000+7 5000000. 1.6640-9 2.483-10 0.866025          1.4750+7          E2S.Kunieda+           (04)14116  2 
+    1 26000   6 201 P  9.5000+7 5000000. 1.0960-9 1.195-10 0.866025          1.7460+7          E2S.Kunieda+           (04)14116  2 
+    1 26000   6 201 P  9.5000+7 5000000. 8.870-10 7.827-11 0.866025          2.1850+7          E2S.Kunieda+           (04)14116  2 
+    1 26000   6 201 P  9.5000+7 5000000. 7.344-10 4.906-11 0.866025          2.8650+7          E2S.Kunieda+           (04)14116  2 
+    1 26000   6 201 P  9.5000+7 5000000. 7.150-10 7.793-11 0.866025          3.6690+7          E2S.Kunieda+           (04)14116  2 
+    1 26000   6 201 P  9.5000+7 5000000. 6.061-10 9.008-11 0.866025          4.6560+7          E2S.Kunieda+           (04)14116  2 
+    1 26000   6 201 P  9.5000+7 5000000. 4.795-10 7.158-11 0.866025          5.8270+7          E2S.Kunieda+           (04)14116  2 
+    1 26000   6 201 P  9.5000+7 5000000. 4.459-10 5.768-11 0.866025          7.2570+7          E2S.Kunieda+           (04)14116  2 
+    1 26000   6 201 P  9.5000+7 5000000. 3.072-10 2.973-11 0.866025          9.0400+7          E2S.Kunieda+           (04)14116  2 
+#/DATA      13
+#/DATASET

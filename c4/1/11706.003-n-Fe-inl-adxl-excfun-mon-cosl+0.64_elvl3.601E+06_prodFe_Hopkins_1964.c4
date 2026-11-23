@@ -1,0 +1,26 @@
+#ENTRY      11706
+#AUTHOR1    J.C.Hopkins+
+#YEAR       1964
+#INSTITUTE  (1USALAS)
+#TITLE      Inelastic scattering of a 2- to 5-MeV neutrons by iron.
+#AUTHOR(S)  J.C.Hopkins, M.G.Silbert
+#REF-CODE   (J,NSE,19,431,1964)
+#REFERENCE  Nucl.Sci.Eng. 19 (1964) 431
+#DATASETS   0
+#
+#DATASET    11706003 
+#DATE       19831011
+#REACTION   26-FE-0(N,INL),PAR,DA,,4PI
+#PROJ       1
+#TARG       26000
+#MF         4
+#MT         51
+#PRODUCT    26-FE-0
+#C4BEGIN    [    1 26000   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26000   4  51    4500000.          0.014165 8.7535-4 0.642788          3601000.         LVLJ.C.Hopkins+         (64)11706  3 
+    1 26000   4  51    5000000.          0.013210 8.7535-4 0.642788          3601000.         LVLJ.C.Hopkins+         (64)11706  3 
+#/DATA      2
+#/DATASET

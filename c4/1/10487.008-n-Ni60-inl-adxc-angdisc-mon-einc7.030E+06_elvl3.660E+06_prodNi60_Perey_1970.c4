@@ -1,0 +1,30 @@
+#ENTRY      10487
+#AUTHOR1    F.G.Perey+
+#YEAR       1970
+#INSTITUTE  (1USAORL)
+#TITLE      Nickel-60 neutron elastic- and inelastic-scattering
+#+          cross sections from 6.5 TO 8.5 MeV.
+#AUTHOR(S)  F.G.Perey, C.O.LeRigoleur, W.E.Kinney
+#REF-CODE   (R,ORNL-4523,197004)
+#REFERENCE  Report ORNL-4523, 1970
+#DATASETS   0
+#
+#DATASET    10487008 
+#DATE       20040114
+#REACTION   28-NI-60(N,INL)28-NI-60,PAR,DA
+#PROJ       1
+#TARG       28060
+#MF         4
+#MT         51
+#PRODUCT    28-NI-60
+#C4BEGIN    [    1 28060   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28060   4  51 AC 7030000. 60000.00 6.2800-3          0.320448          3660000. 72000.00LVLF.G.Perey+           (70)10487  8 
+    1 28060   4  51 AC 7030000. 60000.00 6.7700-3          0.320282          3660000. 72000.00LVLF.G.Perey+           (70)10487  8 
+    1 28060   4  51 AC 7030000. 60000.00 6.3500-3          0.193207          3660000. 72000.00LVLF.G.Perey+           (70)10487  8 
+    1 28060   4  51 AC 7030000. 60000.00 6.1700-3          0.193036          3660000. 72000.00LVLF.G.Perey+           (70)10487  8 
+    1 28060   4  51 AC 7030000. 60000.00 5.7900-3          0.062965          3660000. 72000.00LVLF.G.Perey+           (70)10487  8 
+#/DATA      5
+#/DATASET

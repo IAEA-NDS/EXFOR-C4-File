@@ -1,0 +1,37 @@
+#ENTRY      13750
+#AUTHOR1    R.O.Nelson+
+#YEAR       2001
+#INSTITUTE  (1USALAS)
+#TITLE      High-Resolution Measurements and Calculations of
+#+          Photon-Production Cross Sections for 16O(n,x gamma)
+#+          Reactions Induced by Neutrons with Energies between
+#+          4 and 200 MeV
+#AUTHOR(S)  R.O.Nelson, M.B.Chadwick, A.Michaudon, P.G.Young
+#REF-CODE   (J,NSE,138,105,200106)
+#REFERENCE  Nucl.Sci.Eng. 138 (2001) 105
+#DATASETS   0
+#
+#DATASET    13750007 
+#DATE       20041118
+#REACTION   8-O-16(N,A)6-C-13,PAR,SIG,G
+#PROJ       1
+#TARG       8016
+#MF         13
+#MT         800
+#PRODUCT    6-C-13
+#C4BEGIN    [    1  8016  13 800 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8016  13 800 D  8500000. 500000.0 6.7164-3 2.0370-4                   169000.0            R.O.Nelson+          (01)13750  7 
+    1  8016  13 800 D  9500000. 500000.0 0.012760 3.8290-4                   169000.0            R.O.Nelson+          (01)13750  7 
+    1  8016  13 800 D  1.0500+7 500000.0 0.026488 1.0446-3                   169000.0            R.O.Nelson+          (01)13750  7 
+    1  8016  13 800 D  1.1500+7 500000.0 0.017275 8.1410-4                   169000.0            R.O.Nelson+          (01)13750  7 
+    1  8016  13 800 D  1.3000+7 1000000. 0.019651 7.7930-4                   169000.0            R.O.Nelson+          (01)13750  7 
+    1  8016  13 800 D  1.5000+7 1000000. 0.015803 7.4090-4                   169000.0            R.O.Nelson+          (01)13750  7 
+    1  8016  13 800 D  1.7000+7 1000000. 5.9841-3 4.5450-4                   169000.0            R.O.Nelson+          (01)13750  7 
+    1  8016  13 800 D  1.9000+7 1000000. 2.0375-3 3.0360-4                   169000.0            R.O.Nelson+          (01)13750  7 
+    1  8016  13 800 D  2.1500+7 1500000. 1.1437-3 9.5300-5                   169000.0            R.O.Nelson+          (01)13750  7 
+    1  8016  13 800 D  2.4500+7 1500000. 3.4470-4 1.4360-4                   169000.0            R.O.Nelson+          (01)13750  7 
+#/DATA      10
+#/DATASET

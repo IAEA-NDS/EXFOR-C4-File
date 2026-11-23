@@ -1,0 +1,28 @@
+#ENTRY      11406
+#AUTHOR1    H.O.Cohn+
+#YEAR       1959
+#INSTITUTE  (1USAORL)
+#TITLE      DIFFERENTIAL ELASTIC SCATTERING OF NEUTRONS FROM NEON.
+#AUTHOR(S)  H.O.Cohn, J.L.Fowler
+#REF-CODE   (J,PR,114,194,59)
+#REFERENCE  Phys.Rev. 114 (1959) 194
+#DATASETS   0
+#
+#DATASET    11406003 
+#DATE       19820813
+#REACTION   10-NE-0(N,EL),,DA
+#PROJ       1
+#TARG       10000
+#MF         4
+#MT         2
+#PRODUCT    10-NE-0
+#C4BEGIN    [    1 10000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 10000   4   2  C 923000.0 13000.00 0.565000 0.055000 0.500000                              H.O.Cohn+            (59)11406  3 
+    1 10000   4   2  C 923000.0 13000.00 0.320000 0.035000 6.123-17                              H.O.Cohn+            (59)11406  3 
+    1 10000   4   2  C 923000.0 13000.00 0.140000 0.020000-0.580000                              H.O.Cohn+            (59)11406  3 
+    1 10000   4   2  C 923000.0 13000.00 0.155000 0.035000-0.780000                              H.O.Cohn+            (59)11406  3 
+#/DATA      4
+#/DATASET

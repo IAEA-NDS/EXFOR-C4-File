@@ -1,0 +1,35 @@
+#ENTRY      11107
+#AUTHOR1    J.D.Seagrave+
+#YEAR       1960
+#INSTITUTE  (1USALAS)
+#TITLE      ELASTIC SCATTERING OF FAST NEUTRONS BY TRITIUM AND HE3.
+#AUTHOR(S)  J.D.Seagrave, L.Cranberg, J.E.Simmons
+#REF-CODE   (J,PR,119,1981,60)
+#REFERENCE  Phys.Rev. 119 (1960) 1981
+#DATASETS   0
+#
+#DATASET    11107003 
+#DATE       19800814
+#REACTION   1-H-3(N,EL)1-H-3,,DA
+#PROJ       1
+#TARG       1003
+#MF         4
+#MT         2
+#PRODUCT    1-H-3
+#C4BEGIN    [    1  1003   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1003   4   2  C 3500000. 100000.0 0.356000 0.023000 0.894000                              J.D.Seagrave+        (60)11107  3 
+    1  1003   4   2  C 3500000. 100000.0 0.307000 0.019000 0.770000                              J.D.Seagrave+        (60)11107  3 
+    1  1003   4   2  C 3500000. 100000.0 0.195000 0.011000 0.519000                              J.D.Seagrave+        (60)11107  3 
+    1  1003   4   2  C 3500000. 100000.0 0.111000 6.0000-3 0.228000                              J.D.Seagrave+        (60)11107  3 
+    1  1003   4   2  C 3500000. 100000.0 0.093000 6.0000-3 0.030000                              J.D.Seagrave+        (60)11107  3 
+    1  1003   4   2  C 3500000. 100000.0 0.080000 7.0000-3-0.157000                              J.D.Seagrave+        (60)11107  3 
+    1  1003   4   2  C 3500000. 100000.0 0.096000 6.0000-3-0.334000                              J.D.Seagrave+        (60)11107  3 
+    1  1003   4   2  C 3500000. 100000.0 0.152000 6.0000-3-0.556000                              J.D.Seagrave+        (60)11107  3 
+    1  1003   4   2  C 3500000. 100000.0 0.235000 7.0000-3-0.729000                              J.D.Seagrave+        (60)11107  3 
+    1  1003   4   2  C 3500000. 100000.0 0.301000 0.010000-0.855000                              J.D.Seagrave+        (60)11107  3 
+    1  1003   4   2  C 3500000. 100000.0 0.389000 0.013000-0.946000                              J.D.Seagrave+        (60)11107  3 
+#/DATA      11
+#/DATASET

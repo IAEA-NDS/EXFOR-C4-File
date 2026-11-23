@@ -1,0 +1,35 @@
+#ENTRY      10803
+#AUTHOR1    P.T.Guenther+
+#YEAR       1982
+#INSTITUTE  (1USAANL)
+#TITLE      Fast Neutron Total and Scattering Cross Sections of
+#+          182W,184W,186W
+#AUTHOR(S)  P.T.Guenther, A.B.Smith, J.F.Whalen
+#REF-CODE   (J,PR/C,26,2433,198212)
+#REFERENCE  Phys.Rev.C 26 (1982) 2433
+#DATASETS   0
+#
+#DATASET    10803011 
+#DATE       20080723
+#REACTION   74-W-182(N,INL)74-W-182,PAR,DA
+#PROJ       1
+#TARG       74182
+#MF         4
+#MT         51
+#PRODUCT    74-W-182
+#C4BEGIN    [    1 74182   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74182   4  51 A  1500000.          0.121000 0.012100 0.916363          102000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  1500000.          0.110000 0.011000 0.759271          102000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  1500000.          0.119000 0.011900 0.627963          102000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  1500000.          0.119000 0.011900 0.400349          102000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  1500000.          0.116000 0.011600 0.133986          102000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  1500000.          0.127000 0.012700-0.161604          102000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  1500000.          0.121000 0.012100-0.422618          102000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  1500000.          0.119000 0.011900-0.669131          102000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  1500000.          0.094700 9.4700-3-0.848048          102000.0          E2P.T.Guenther+        (82)10803 11 
+    1 74182   4  51 A  1500000.          0.085000 8.5000-3-0.927184          102000.0          E2P.T.Guenther+        (82)10803 11 
+#/DATA      10
+#/DATASET

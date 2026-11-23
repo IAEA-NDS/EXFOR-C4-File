@@ -1,0 +1,29 @@
+#ENTRY      11121
+#AUTHOR1    J.T.Wells+
+#YEAR       1963
+#INSTITUTE  (1USASTF)
+#TITLE      Threshold Effects in Neutron Elastic Scattering
+#AUTHOR(S)  J.T.Wells, A.B.Tucker, W.E.Meyerhof
+#REF-CODE   (J,PR,131,1644,1963)
+#REFERENCE  Phys.Rev. 131 (1963) 1644
+#DATASETS   0
+#
+#DATASET    11121020 
+#DATE       20210827
+#REACTION   58-CE-0(N,EL)58-CE-0,,DA
+#PROJ       1
+#TARG       58000
+#MF         4
+#MT         2
+#PRODUCT    58-CE-0
+#C4BEGIN    [    1 58000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 58000   4   2  C 2115000. 50000.00 1.870000 0.018700 0.866025 0.017453                     J.T.Wells+           (63)11121 20 
+    1 58000   4   2  C 2115000. 50000.00 0.421000 4.2100-3 0.573576 0.028594                     J.T.Wells+           (63)11121 20 
+    1 58000   4   2  C 2115000. 50000.00 0.114000 1.1400-3 6.123-17 0.034907                     J.T.Wells+           (63)11121 20 
+    1 58000   4   2  C 2115000. 50000.00 0.097000 9.7000-4-0.034899 0.034885                     J.T.Wells+           (63)11121 20 
+    1 58000   4   2  C 2115000. 50000.00 0.116000 1.1600-3-0.258819 0.033717                     J.T.Wells+           (63)11121 20 
+#/DATA      5
+#/DATASET

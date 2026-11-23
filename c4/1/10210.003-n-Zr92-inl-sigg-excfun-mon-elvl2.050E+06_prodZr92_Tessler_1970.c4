@@ -1,0 +1,32 @@
+#ENTRY      10210
+#AUTHOR1    G.Tessler+
+#YEAR       1970
+#INSTITUTE  (1USABET)
+#TITLE      Neutron Inelastic Scattering from 92Zr and 94Zr
+#AUTHOR(S)  G.Tessler, S.S.Glickstein, E.E.Carroll Jr
+#REF-CODE   (J,PR/C,2,2390,197012)
+#REFERENCE  Phys.Rev.C 2 (1970) 2390
+#DATASETS   0
+#
+#DATASET    10210003 
+#DATE       19821012
+#REACTION   40-ZR-92(N,INL)40-ZR-92,PAR,SIG,G
+#PROJ       1
+#TARG       40092
+#MF         13
+#MT         51
+#PRODUCT    40-ZR-92
+#C4BEGIN    [    1 40092  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40092  13  51    2152000.          0.051000 0.012000                   2050000.            G.Tessler+           (70)10210  3 
+    1 40092  13  51    2248000.          0.072000 0.017000                   2050000.            G.Tessler+           (70)10210  3 
+    1 40092  13  51    2262000.          0.151000 0.028000                   2050000.            G.Tessler+           (70)10210  3 
+    1 40092  13  51    2356000.          0.236000 0.042000                   2050000.            G.Tessler+           (70)10210  3 
+    1 40092  13  51    2450000.          0.226000 0.043000                   2050000.            G.Tessler+           (70)10210  3 
+    1 40092  13  51    2521000.          0.263000 0.050000                   2050000.            G.Tessler+           (70)10210  3 
+    1 40092  13  51    2544000.          0.249000 0.049000                   2050000.            G.Tessler+           (70)10210  3 
+    1 40092  13  51    2684000.          0.285000 0.057000                   2050000.            G.Tessler+           (70)10210  3 
+#/DATA      8
+#/DATASET

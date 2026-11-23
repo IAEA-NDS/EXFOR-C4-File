@@ -1,0 +1,35 @@
+#ENTRY      10823
+#AUTHOR1    A.B.Smith+
+#YEAR       1981
+#INSTITUTE  (1USAANL)
+#TITLE      FAST-NEUTRON TOTAL AND ELASTIC AND NON-ELASTIC
+#+          SCATTERING CROSS SECTIONS OF ELEMENTAL NICKEL
+#AUTHOR(S)  A.B.Smith, P.T.Guenther, J.F.Whalen
+#REF-CODE   (J,NSE,77,110,8101)
+#REFERENCE  Nucl.Sci.Eng. 77 (1981) 110
+#DATASETS   0
+#
+#DATASET    10823003 
+#DATE       19860203
+#REACTION   28-NI-0(N,EL)28-NI-0,,DA,,AV
+#PROJ       1
+#TARG       28000
+#MF         4
+#MT         2
+#PRODUCT    28-NI-0
+#C4BEGIN    [    1 28000   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28000   4   2 A  1720000. 200000.0 0.771000 0.030840 0.931691                              A.B.Smith+           (81)10823  3 
+    1 28000   4   2 A  1720000. 200000.0 0.620000 0.024800 0.855364                              A.B.Smith+           (81)10823  3 
+    1 28000   4   2 A  1720000. 200000.0 0.363000 0.014520 0.680721                              A.B.Smith+           (81)10823  3 
+    1 28000   4   2 A  1720000. 200000.0 0.171000 6.8400-3 0.436802                              A.B.Smith+           (81)10823  3 
+    1 28000   4   2 A  1720000. 200000.0 0.100000 4.0000-3 0.173648                              A.B.Smith+           (81)10823  3 
+    1 28000   4   2 A  1720000. 200000.0 0.102000 4.0800-3-0.121869                              A.B.Smith+           (81)10823  3 
+    1 28000   4   2 A  1720000. 200000.0 0.125000 5.0000-3-0.390731                              A.B.Smith+           (81)10823  3 
+    1 28000   4   2 A  1720000. 200000.0 0.153000 6.1200-3-0.642788                              A.B.Smith+           (81)10823  3 
+    1 28000   4   2 A  1720000. 200000.0 0.182000 7.2800-3-0.829038                              A.B.Smith+           (81)10823  3 
+    1 28000   4   2 A  1720000. 200000.0 0.202000 8.0800-3-0.913545                              A.B.Smith+           (81)10823  3 
+#/DATA      10
+#/DATASET
