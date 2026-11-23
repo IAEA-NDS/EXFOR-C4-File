@@ -1,0 +1,35 @@
+#ENTRY      A1234
+#AUTHOR1    F.Ajzenberg-Selove+
+#YEAR       1978
+#INSTITUTE  (1USAPEN)
+#TITLE      (t,p) reactions on 4He, 6Li, 7Li, 9Be, 10B, 11B
+#+          and 12C
+#AUTHOR(S)  F.Ajzenberg-Selove, E.R.Flynn, O.Hansen
+#REF-CODE   (J,PR/C,17,1283,1978)
+#REFERENCE  Phys.Rev.C 17 (1978) 1283
+#DATASETS   0
+#
+#DATASET    A1234008 
+#DATE       20250903
+#REACTION   6-C-12(T,P)6-C-14,PAR,DA
+#PROJ       1003
+#TARG       6012
+#MF         4
+#MT         600
+#PRODUCT    6-C-14
+#C4BEGIN    [ 1003  6012   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  6012   4 600  C 2.3000+7          5.8000-6 1.2000-6 0.992966          6900000.         LVLF.Ajzenberg-Selove+  (78)A1234  8 
+ 1003  6012   4 600  C 2.3000+7          1.0600-5 3.3000-6 0.989016          6900000.         LVLF.Ajzenberg-Selove+  (78)A1234  8 
+ 1003  6012   4 600  C 2.3000+7          9.8000-6 3.2000-6 0.980271          6900000.         LVLF.Ajzenberg-Selove+  (78)A1234  8 
+ 1003  6012   4 600  C 2.3000+7          1.2600-5 3.2000-6 0.955793          6900000.         LVLF.Ajzenberg-Selove+  (78)A1234  8 
+ 1003  6012   4 600  C 2.3000+7          1.3700-5 3.0000-6 0.917755          6900000.         LVLF.Ajzenberg-Selove+  (78)A1234  8 
+ 1003  6012   4 600  C 2.3000+7          9.8000-6 3.2000-6 0.875465          6900000.         LVLF.Ajzenberg-Selove+  (78)A1234  8 
+ 1003  6012   4 600  C 2.3000+7          7.7000-6 1.9000-6 0.825113          6900000.         LVLF.Ajzenberg-Selove+  (78)A1234  8 
+ 1003  6012   4 600  C 2.3000+7          9.7000-6 2.0000-6 0.766044          6900000.         LVLF.Ajzenberg-Selove+  (78)A1234  8 
+ 1003  6012   4 600  C 2.3000+7          4.8000-6 1.2000-6 0.626604          6900000.         LVLF.Ajzenberg-Selove+  (78)A1234  8 
+ 1003  6012   4 600  C 2.3000+7          4.8000-6 1.0000-6 0.461749          6900000.         LVLF.Ajzenberg-Selove+  (78)A1234  8 
+#/DATA      10
+#/DATASET

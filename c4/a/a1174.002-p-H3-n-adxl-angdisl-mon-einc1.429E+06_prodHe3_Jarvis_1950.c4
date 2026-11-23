@@ -1,0 +1,36 @@
+#ENTRY      A1174
+#AUTHOR1    G.A.Jarvis+
+#YEAR       1950
+#INSTITUTE  (1USALAS)
+#TITLE      Reaction constants for T(p,n)3He
+#AUTHOR(S)  G.A.Jarvis, A.Hemmendinger, H.V.Argo, R.F.Taschek
+#REF-CODE   (J,PR,79,929,1950)
+#REFERENCE  Phys.Rev. 79 (1950) 929
+#DATASETS   0
+#
+#DATASET    A1174002 
+#DATE       20240930
+#REACTION   1-H-3(P,N)2-HE-3,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  1003   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4   4    1429000.          0.047200          1.000000                              G.A.Jarvis+          (50)A1174  2 
+ 1001  1003   4   4    1429000.          0.044700          0.985703                              G.A.Jarvis+          (50)A1174  2 
+ 1001  1003   4   4    1429000.          0.042300          0.940288                              G.A.Jarvis+          (50)A1174  2 
+ 1001  1003   4   4    1429000.          0.040000          0.866025                              G.A.Jarvis+          (50)A1174  2 
+ 1001  1003   4   4    1429000.          0.035400          0.763796                              G.A.Jarvis+          (50)A1174  2 
+ 1001  1003   4   4    1429000.          0.032200          0.649448                              G.A.Jarvis+          (50)A1174  2 
+ 1001  1003   4   4    1429000.          0.026400          0.345298                              G.A.Jarvis+          (50)A1174  2 
+ 1001  1003   4   4    1429000.          0.021800          0.182236                              G.A.Jarvis+          (50)A1174  2 
+ 1001  1003   4   4    1429000.          0.019400          0.013962                              G.A.Jarvis+          (50)A1174  2 
+ 1001  1003   4   4    1429000.          0.015500         -0.177085                              G.A.Jarvis+          (50)A1174  2 
+ 1001  1003   4   4    1429000.          0.012900         -0.333807                              G.A.Jarvis+          (50)A1174  2 
+ 1001  1003   4   4    1429000.          0.010500         -0.501511                              G.A.Jarvis+          (50)A1174  2 
+#/DATA      12
+#/DATASET

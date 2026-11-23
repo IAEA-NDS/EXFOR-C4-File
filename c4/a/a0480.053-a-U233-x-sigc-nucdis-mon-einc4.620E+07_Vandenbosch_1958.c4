@@ -1,0 +1,32 @@
+#ENTRY      A0480
+#AUTHOR1    R.Vandenbosch+
+#YEAR       1958
+#INSTITUTE  (1USABRK)
+#TITLE      Spallation-fission competition in heaviest elements;
+#+          Helium-ion-induced reactions in uranium isotopes
+#AUTHOR(S)  R.Vandenbosch, T.D.Thomas, S.E.Vandenbosch, R.A.Glass, G.T.Seaborg
+#REF-CODE   (J,PR,111,1358,1958)
+#REFERENCE  Phys.Rev. 111 (1958) 1358
+#DATASETS   0
+#
+#DATASET    A0480053 
+#DATE       20200311
+#REACTION   92-U-233(A,F)ELEM/MASS,CUM,SIG
+#PROJ       2004
+#TARG       92233
+#MF         3
+#MT         459
+#C4BEGIN    [ 2004 92233   3 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 92233   3 459    4.6200+7          0.022000 3.3000-3           38089.9                     R.Vandenbosch+       (58)A0480 53 
+ 2004 92233   3 459    4.6200+7          0.035000 5.2500-3           38091.9                     R.Vandenbosch+       (58)A0480 53 
+ 2004 92233   3 459    4.6200+7          0.057000 8.5500-3           40095.9                     R.Vandenbosch+       (58)A0480 53 
+ 2004 92233   3 459    4.6200+7          0.048000 7.2000-3           40097.9                     R.Vandenbosch+       (58)A0480 53 
+ 2004 92233   3 459    4.6200+7          0.074000 0.011100           48115.9                     R.Vandenbosch+       (58)A0480 53 
+ 2004 92233   3 459    4.6200+7          4.9000-3 7.3500-4           56135.1                     R.Vandenbosch+       (58)A0480 53 
+ 2004 92233   3 459    4.6200+7          0.025000 3.7500-3           56139.9                     R.Vandenbosch+       (58)A0480 53 
+ 2004 92233   3 459    4.6200+7          0.016000 2.4000-3           56140.9                     R.Vandenbosch+       (58)A0480 53 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      A0945
+#AUTHOR1    S.V.Artemov+
+#YEAR       2012
+#INSTITUTE  (4UZ UZB)
+#TITLE      Extrapolation of astrophysical S-factors for the
+#+          reaction N-14(p,gamma)O-15 to near-zero energies.
+#AUTHOR(S)  S.V.Artemov, S.B.Igamov, Q.I.Tursunmakhatov, R.Yarmukhamedov
+#REF-CODE   (J,PAN,75,291,2012)
+#REFERENCE  Phys.At.Nucl. 75 (2012) 291
+#DATASETS   0
+#
+#DATASET    A0945002 
+#DATE       20130208
+#REACTION   7-N-14(HE3,D)8-O-15,PAR,DA
+#PROJ       2003
+#TARG       7014
+#MF         4
+#MT         650
+#PRODUCT    8-O-15
+#C4BEGIN    [ 2003  7014   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  7014   4 650  C 2.2300+7          3.5000-3 5.2500-4 0.969872          5241000.         LVLS.V.Artemov+         (12)A0945  2 
+ 2003  7014   4 650  C 2.2300+7          3.0000-3 4.5000-4 0.958820          5241000.         LVLS.V.Artemov+         (12)A0945  2 
+ 2003  7014   4 650  C 2.2300+7          2.6000-3 3.9000-4 0.946649          5241000.         LVLS.V.Artemov+         (12)A0945  2 
+ 2003  7014   4 650  C 2.2300+7          2.0000-3 3.0000-4 0.932324          5241000.         LVLS.V.Artemov+         (12)A0945  2 
+ 2003  7014   4 650  C 2.2300+7          1.1600-3 1.7400-4 0.899558          5241000.         LVLS.V.Artemov+         (12)A0945  2 
+ 2003  7014   4 650  C 2.2300+7          7.1000-4 1.0650-4 0.860742          5241000.         LVLS.V.Artemov+         (12)A0945  2 
+ 2003  7014   4 650  C 2.2300+7          5.2000-4 7.8000-5 0.817145          5241000.         LVLS.V.Artemov+         (12)A0945  2 
+ 2003  7014   4 650  C 2.2300+7          5.1000-4 7.6500-5 0.754710          5241000.         LVLS.V.Artemov+         (12)A0945  2 
+ 2003  7014   4 650  C 2.2300+7          5.0000-4 7.5000-5 0.685818          5241000.         LVLS.V.Artemov+         (12)A0945  2 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      A1107
+#AUTHOR1    K.W.Brockman+
+#YEAR       1957
+#INSTITUTE  (1USAPTN)
+#TITLE      Scattering of protons by helium between 11.4 MeV and
+#+          18 MeV
+#AUTHOR(S)  K.W.Brockman
+#REF-CODE   (J,PR,108,1000,1957)
+#REFERENCE  Phys.Rev. 108 (1957) 1000
+#DATASETS   0
+#
+#DATASET    A1107002 
+#DATE       20240708
+#REACTION   2-HE-4(P,EL)2-HE-4,,DA
+#PROJ       1001
+#TARG       2004
+#MF         4
+#MT         2
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  2004   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  2004   4   2  C 1.5050+7          0.217200 4.1268-3 0.801567 1.0435-3                     K.W.Brockman         (57)A1107  2 
+ 1001  2004   4   2  C 1.5050+7          0.139100 2.5038-3 0.565687 1.4392-3                     K.W.Brockman         (57)A1107  2 
+ 1001  2004   4   2  C 1.5050+7          0.081200 1.3804-3 0.308519 1.6602-3                     K.W.Brockman         (57)A1107  2 
+ 1001  2004   4   2  C 1.5050+7          0.032100 6.0990-4 6.9813-3 1.7453-3                     K.W.Brockman         (57)A1107  2 
+ 1001  2004   4   2  C 1.5050+7          0.012780 2.6838-4-0.255952 1.6872-3                     K.W.Brockman         (57)A1107  2 
+ 1001  2004   4   2  C 1.5050+7          0.011210 2.4662-4-0.485878 1.5255-3                     K.W.Brockman         (57)A1107  2 
+ 1001  2004   4   2  C 1.5050+7          0.020340 3.8646-4-0.669390 1.2966-3                     K.W.Brockman         (57)A1107  2 
+ 1001  2004   4   2  C 1.5050+7          0.037000 8.8800-4-0.821647 9.9483-4                     K.W.Brockman         (57)A1107  2 
+ 1001  2004   4   2  C 1.5050+7          0.049400 1.2844-3-0.919616 6.8560-4                     K.W.Brockman         (57)A1107  2 
+ 1001  2004   4   2  C 1.5050+7          0.057700 1.6733-3-0.981793 3.3153-4                     K.W.Brockman         (57)A1107  2 
+#/DATA      10
+#/DATASET

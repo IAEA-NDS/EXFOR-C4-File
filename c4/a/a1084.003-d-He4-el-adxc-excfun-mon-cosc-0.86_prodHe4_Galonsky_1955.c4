@@ -1,0 +1,32 @@
+#ENTRY      A1084
+#AUTHOR1    A.Galonsky+
+#YEAR       1955
+#INSTITUTE  (1USAWIS)
+#TITLE      Deuteron-helium differential scattering cross sections
+#AUTHOR(S)  A.Galonsky, R.A.Douglas, W.Haeberli, M.T.Mc-Ellistrem, H.T.Richards
+#REF-CODE   (J,PR,98,586,1955)
+#REFERENCE  Phys.Rev. 98 (1955) 586
+#DATASETS   0
+#
+#DATASET    A1084003 
+#DATE       20240704
+#REACTION   2-HE-4(D,EL)2-HE-4,,DA
+#PROJ       1002
+#TARG       2004
+#MF         4
+#MT         2
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  2004   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  2004   4   2 CC 2300000.          0.115300         -0.861629                              A.Galonsky+          (55)A1084  3 
+ 1002  2004   4   2 CC 2604000.          0.110500         -0.861629                              A.Galonsky+          (55)A1084  3 
+ 1002  2004   4   2 CC 2883000.          0.100600         -0.861629                              A.Galonsky+          (55)A1084  3 
+ 1002  2004   4   2 CC 3161000.          0.120800         -0.861629                              A.Galonsky+          (55)A1084  3 
+ 1002  2004   4   2 CC 3312000.          0.135800         -0.861629                              A.Galonsky+          (55)A1084  3 
+ 1002  2004   4   2 CC 3439000.          0.145900         -0.861629                              A.Galonsky+          (55)A1084  3 
+ 1002  2004   4   2 CC 3741000.          0.181000         -0.861629                              A.Galonsky+          (55)A1084  3 
+ 1002  2004   4   2 CC 4017000.          0.256200         -0.861629                              A.Galonsky+          (55)A1084  3 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      A0130
+#AUTHOR1    B.A.Nemashkalo+
+#YEAR       1981
+#INSTITUTE  (4UKRKFT)
+#TITLE      Investigation of radiative capture of protons by
+#+          Ni-60,62,64 nuclei with averaged resonance method.
+#AUTHOR(S)  B.A.Nemashkalo, V.E.Storizhko, I.I.Zalubovskij, S.A.Pismineckij
+#REF-CODE   (J,VAT/O,,(2/16),37,1981)
+#REFERENCE  Vopr.At.Nauk.Ob.  No.2/16 (1981) 37
+#DATASETS   0
+#
+#DATASET    A0130022 
+#DATE       20220321
+#REACTION   28-NI-62(P,G)29-CU-63,PAR,SIG
+#PROJ       1001
+#TARG       28062
+#MF         3
+#MT         900
+#PRODUCT    29-CU-63
+#C4BEGIN    [ 1001 28062   3 900 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28062   3 900 A  2060000. 160000.0 1.2700-5 2.0000-6                   1327000.         LVLB.A.Nemashkalo+      (81)A0130 22 
+ 1001 28062   3 900 A  2060000. 160000.0 1.4000-5 2.0000-6                   1412000.         LVLB.A.Nemashkalo+      (81)A0130 22 
+ 1001 28062   3 900 A  2060000. 160000.0 2.6000-6 5.0000-7                   1861000.         LVLB.A.Nemashkalo+      (81)A0130 22 
+ 1001 28062   3 900 A  2060000. 160000.0 6.4000-6 1.0000-6                   2011000.         LVLB.A.Nemashkalo+      (81)A0130 22 
+ 1001 28062   3 900 A  2060000. 160000.0 3.1000-6 5.0000-7                   2062000.         LVLB.A.Nemashkalo+      (81)A0130 22 
+ 1001 28062   3 900 A  2060000. 160000.0 1.1400-5 2.0000-6                   2081000.         LVLB.A.Nemashkalo+      (81)A0130 22 
+#/DATA      6
+#/DATASET

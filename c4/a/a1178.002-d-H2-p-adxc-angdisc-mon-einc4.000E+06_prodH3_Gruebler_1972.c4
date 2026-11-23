@@ -1,0 +1,46 @@
+#ENTRY      A1178
+#AUTHOR1    W.Gruebler+
+#YEAR       1972
+#INSTITUTE  (2SWTETH)
+#TITLE      Investigation of excited states of 4He via the
+#+          2H(d,p)3H and 2H(d,n)3He reactions using a polarized
+#+          deuteron beam
+#AUTHOR(S)  W.Gruebler, V.Konig, P.A.Schmelzbach, R.Risler, R.E.White, 
+#+          P.Marmier
+#REF-CODE   (J,NP/A,193,129,1972)
+#REFERENCE  Nucl.Phys.A 193 (1972) 129
+#DATASETS   0
+#
+#DATASET    A1178002 
+#DATE       20250729
+#REACTION   1-H-2(D,P)1-H-3,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1002  1002   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4 103  C 4000000.          0.011460          0.879649                              W.Gruebler+          (72)A1178  2 
+ 1002  1002   4 103  C 4000000.          6.0000-3          0.779338                              W.Gruebler+          (72)A1178  2 
+ 1002  1002   4 103  C 4000000.          3.4800-3          0.661312                              W.Gruebler+          (72)A1178  2 
+ 1002  1002   4 103  C 4000000.          3.3600-3          0.532876                              W.Gruebler+          (72)A1178  2 
+ 1002  1002   4 103  C 4000000.          4.2800-3          0.392337                              W.Gruebler+          (72)A1178  2 
+ 1002  1002   4 103  C 4000000.          5.2000-3          0.250380                              W.Gruebler+          (72)A1178  2 
+ 1002  1002   4 103  C 4000000.          5.6900-3          0.092371                              W.Gruebler+          (72)A1178  2 
+ 1002  1002   4 103  C 4000000.          5.7500-3         -0.045363                              W.Gruebler+          (72)A1178  2 
+ 1002  1002   4 103  C 4000000.          5.2600-3         -0.194234                              W.Gruebler+          (72)A1178  2 
+ 1002  1002   4 103  C 4000000.          4.5900-3         -0.317305                              W.Gruebler+          (72)A1178  2 
+ 1002  1002   4 103  C 4000000.          3.7900-3         -0.436802                              W.Gruebler+          (72)A1178  2 
+ 1002  1002   4 103  C 4000000.          3.3000-3         -0.547563                              W.Gruebler+          (72)A1178  2 
+ 1002  1002   4 103  C 4000000.          3.5400-3         -0.641450                              W.Gruebler+          (72)A1178  2 
+ 1002  1002   4 103  C 4000000.          4.7700-3         -0.720551                              W.Gruebler+          (72)A1178  2 
+ 1002  1002   4 103  C 4000000.          7.1600-3         -0.790155                              W.Gruebler+          (72)A1178  2 
+ 1002  1002   4 103  C 4000000.          0.010420         -0.845262                              W.Gruebler+          (72)A1178  2 
+ 1002  1002   4 103  C 4000000.          0.014530         -0.892586                              W.Gruebler+          (72)A1178  2 
+ 1002  1002   4 103  C 4000000.          0.019510         -0.931691                              W.Gruebler+          (72)A1178  2 
+ 1002  1002   4 103  C 4000000.          0.023860         -0.959314                              W.Gruebler+          (72)A1178  2 
+#/DATA      19
+#/DATASET

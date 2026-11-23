@@ -1,0 +1,30 @@
+#ENTRY      A1040
+#AUTHOR1    J.T.Klopcic+
+#YEAR       1971
+#INSTITUTE  (1USANOT)
+#TITLE      Cross section and polarization measurements for the
+#+          3He(He3,n)5Li reaction
+#AUTHOR(S)  J.T.Klopcic, S.E.Darden
+#REF-CODE   (J,PR/C,3,2171,1971)
+#REFERENCE  Phys.Rev.C 3 (1971) 2171
+#DATASETS   0
+#
+#DATASET    A1040003 
+#DATE       20240707
+#REACTION   1-H-3(HE3,N)3-LI-5,,DA
+#PROJ       2003
+#TARG       1003
+#MF         4
+#MT         4
+#PRODUCT    3-LI-5
+#C4BEGIN    [ 2003  1003   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  1003   4   4    1580000.          7.8900-4          1.000000                              J.T.Klopcic+         (71)A1040  3 
+ 2003  1003   4   4    2190000.          1.0750-3          1.000000                              J.T.Klopcic+         (71)A1040  3 
+ 2003  1003   4   4    2790000.          1.4420-3          1.000000                              J.T.Klopcic+         (71)A1040  3 
+ 2003  1003   4   4    3380000.          1.9600-3          1.000000                              J.T.Klopcic+         (71)A1040  3 
+ 2003  1003   4   4    3620000.          1.8910-3          1.000000                              J.T.Klopcic+         (71)A1040  3 
+#/DATA      5
+#/DATASET

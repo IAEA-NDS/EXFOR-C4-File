@@ -1,0 +1,43 @@
+#ENTRY      A0803
+#AUTHOR1    A.M.Stefanini+
+#YEAR       1990
+#INSTITUTE  (2ITYPAD)
+#TITLE      Coupled reaction channels effects in the elastic
+#+          scattering of S-32,36+Ni-58,64.
+#AUTHOR(S)  A.M.Stefanini, A.Tivelli, G.Montagnoli, D.R.Napoli, D.Bonamini, 
+#+          S.Beghini, F.Scarlassara, S.Soramel, C.Signorini, A.DeRosa, 
+#+          G.Inglima, M.Sandori, G.Cardella, M.Papa, F.Rizzo
+#REF-CODE   (J,PR/C,41,1018,1990)
+#REFERENCE  Phys.Rev.C 41 (1990) 1018
+#DATASETS   0
+#
+#DATASET    A0803002 
+#DATE       20080826
+#REACTION   28-NI-58(16-S-36,EL)28-NI-58,,DA,,RTH
+#PROJ       16036
+#TARG       28058
+#MF         4
+#MT         2
+#PRODUCT    28-NI-58
+#C4BEGIN    [16036 28058   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+16036 28058   4   2  C 9.0000+7          0.409399 0.022309 0.071497                              A.M.Stefanini+       (90)A0803  2 
+16036 28058   4   2  C 9.0000+7          0.317599 0.016619-0.047106                              A.M.Stefanini+       (90)A0803  2 
+16036 28058   4   2  C 9.0000+7          0.242629 0.012430-0.165048                              A.M.Stefanini+       (90)A0803  2 
+16036 28058   4   2  C 9.0000+7          0.201994 0.014592-0.272280                              A.M.Stefanini+       (90)A0803  2 
+16036 28058   4   2  C 9.0000+7          0.176969 0.011607-0.374607                              A.M.Stefanini+       (90)A0803  2 
+16036 28058   4   2  C 9.0000+7          0.133886 0.010648-0.467930                              A.M.Stefanini+       (90)A0803  2 
+16036 28058   4   2  C 9.0000+7          0.111587 8.5621-3-0.550481                              A.M.Stefanini+       (90)A0803  2 
+16036 28058   4   2  C 9.0000+7          0.098310 7.3060-3-0.622515                              A.M.Stefanini+       (90)A0803  2 
+16036 28058   4   2  C 9.0000+7          0.082156 7.8244-3-0.687088                              A.M.Stefanini+       (90)A0803  2 
+16036 28058   4   2  C 9.0000+7          0.084396 8.0817-3-0.709571                              A.M.Stefanini+       (90)A0803  2 
+16036 28058   4   2  C 9.0000+7          0.062689 5.7901-3-0.740805                              A.M.Stefanini+       (90)A0803  2 
+16036 28058   4   2  C 9.0000+7          0.057275 6.7631-3-0.786935                              A.M.Stefanini+       (90)A0803  2 
+16036 28058   4   2  C 9.0000+7          0.062872 5.9637-3-0.827081                              A.M.Stefanini+       (90)A0803  2 
+16036 28058   4   2  C 9.0000+7          0.051799 5.1701-3-0.859852                              A.M.Stefanini+       (90)A0803  2 
+16036 28058   4   2  C 9.0000+7          0.053400 5.8702-3-0.887815                              A.M.Stefanini+       (90)A0803  2 
+16036 28058   4   2  C 9.0000+7          0.042693 4.3976-3-0.919135                              A.M.Stefanini+       (90)A0803  2 
+#/DATA      16
+#/DATASET

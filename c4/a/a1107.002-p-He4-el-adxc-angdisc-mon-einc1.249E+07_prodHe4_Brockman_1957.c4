@@ -1,0 +1,31 @@
+#ENTRY      A1107
+#AUTHOR1    K.W.Brockman+
+#YEAR       1957
+#INSTITUTE  (1USAPTN)
+#TITLE      Scattering of protons by helium between 11.4 MeV and
+#+          18 MeV
+#AUTHOR(S)  K.W.Brockman
+#REF-CODE   (J,PR,108,1000,1957)
+#REFERENCE  Phys.Rev. 108 (1957) 1000
+#DATASETS   0
+#
+#DATASET    A1107002 
+#DATE       20240708
+#REACTION   2-HE-4(P,EL)2-HE-4,,DA
+#PROJ       1001
+#TARG       2004
+#MF         4
+#MT         2
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  2004   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  2004   4   2  C 1.2490+7          0.242100 4.5999-3 0.801567 1.0435-3                     K.W.Brockman         (57)A1107  2 
+ 1001  2004   4   2  C 1.2490+7          0.091600 1.6488-3 0.308519 1.6602-3                     K.W.Brockman         (57)A1107  2 
+ 1001  2004   4   2  C 1.2490+7          0.038200 7.2580-4 6.9813-3 1.7453-3                     K.W.Brockman         (57)A1107  2 
+ 1001  2004   4   2  C 1.2490+7          0.015960 3.6708-4-0.255952 1.6872-3                     K.W.Brockman         (57)A1107  2 
+ 1001  2004   4   2  C 1.2490+7          0.024600 5.9040-4-0.669390 1.2966-3                     K.W.Brockman         (57)A1107  2 
+ 1001  2004   4   2  C 1.2490+7          0.041300 1.0325-3-0.821647 9.9483-4                     K.W.Brockman         (57)A1107  2 
+#/DATA      6
+#/DATASET

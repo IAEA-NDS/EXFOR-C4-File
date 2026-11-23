@@ -1,0 +1,31 @@
+#ENTRY      A0059
+#AUTHOR1    I.D.Fedorets+
+#YEAR       1977
+#INSTITUTE  (4UKRKFT)
+#TITLE      Differential cross-sections for the reaction
+#+          94Zr(p,n)94Nb
+#AUTHOR(S)  I.D.Fedorets, V.M.Mishchenko, A.I.Popov, V.E.Storizhko
+#REF-CODE   (J,BAS,41,(8),110,1977)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 41 No.8 (1977) 110
+#DATASETS   0
+#
+#DATASET    A0059002 
+#DATE       20140310
+#REACTION   40-ZR-94(P,N)41-NB-94,PAR,DA,,4PI
+#PROJ       1001
+#TARG       40094
+#MF         4
+#MT         50
+#PRODUCT    41-NB-94
+#C4BEGIN    [ 1001 40094   4  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40094   4  50 A  2640000.          9.5493-6 1.1937-6 0.559193          140400.0         LVLI.D.Fedorets+        (77)A0059  2 
+ 1001 40094   4  50 A  2640000.          1.0345-5 1.5915-6 0.559193          301800.0         LVLI.D.Fedorets+        (77)A0059  2 
+ 1001 40094   4  50 A  2640000.          3.9789-6 7.9577-7 0.559193          334200.0         LVLI.D.Fedorets+        (77)A0059  2 
+ 1001 40094   4  50 A  2640000.          7.5599-7 2.2282-7 0.559193          396300.0         LVLI.D.Fedorets+        (77)A0059  2 
+ 1001 40094   4  50 A  2640000.          4.3768-6 6.3662-7 0.559193          450200.0         LVLI.D.Fedorets+        (77)A0059  2 
+ 1001 40094   4  50 A  2640000.          1.7905-6 4.7746-7 0.559193          666000.0         LVLI.D.Fedorets+        (77)A0059  2 
+#/DATA      6
+#/DATASET

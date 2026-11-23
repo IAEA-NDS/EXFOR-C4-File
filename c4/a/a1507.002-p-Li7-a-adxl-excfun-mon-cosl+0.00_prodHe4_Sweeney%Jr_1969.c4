@@ -1,0 +1,31 @@
+#ENTRY      A1507
+#AUTHOR1    W.E.Sweeney Jr+
+#YEAR       1969
+#INSTITUTE  (1USAMRY)
+#TITLE      Gamma-ray transitions involving isobaric-spin mixed
+#+          states in 8Be
+#AUTHOR(S)  W.E.Sweeney Jr, J.B.Marion
+#REF-CODE   (J,PR,182,1007,1969)
+#REFERENCE  Phys.Rev. 182 (1969) 1007
+#DATASETS   0
+#
+#DATASET    A1507002 
+#DATE       20260317
+#REACTION   3-LI-7(P,A)2-HE-4,,DA
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         107
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  3007   4 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4 107    1400000.          6.0100-4 3.3000-5 6.123-17                              W.E.Sweeney Jr+      (69)A1507  2 
+ 1001  3007   4 107    1650000.          8.8700-4 4.8000-5 6.123-17                              W.E.Sweeney Jr+      (69)A1507  2 
+ 1001  3007   4 107    1800000.          1.1150-3 6.1000-5 6.123-17                              W.E.Sweeney Jr+      (69)A1507  2 
+ 1001  3007   4 107    1850000.          1.2200-3 7.0000-5 6.123-17                              W.E.Sweeney Jr+      (69)A1507  2 
+ 1001  3007   4 107    1900000.          1.3300-3 7.0000-5 6.123-17                              W.E.Sweeney Jr+      (69)A1507  2 
+ 1001  3007   4 107    1950000.          1.4400-3 8.0000-5 6.123-17                              W.E.Sweeney Jr+      (69)A1507  2 
+#/DATA      6
+#/DATASET

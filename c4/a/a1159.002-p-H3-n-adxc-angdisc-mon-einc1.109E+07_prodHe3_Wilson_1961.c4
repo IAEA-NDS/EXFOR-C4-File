@@ -1,0 +1,35 @@
+#ENTRY      A1159
+#AUTHOR1    W.E.Wilson+
+#YEAR       1961
+#INSTITUTE  (1USAWIS)
+#TITLE      Differential cross sections for the T(p,n)3He reaction
+#AUTHOR(S)  W.E.Wilson, R.L.Walter, D.B.Fossan
+#REF-CODE   (J,NP,27,421,1961)
+#REFERENCE  Nucl.Phys. 27 (1961) 421
+#DATASETS   0
+#
+#DATASET    A1159002 
+#DATE       20260216
+#REACTION   1-H-3(P,N)2-HE-3,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  1003   4   4 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4   4 DC 1.1090+7          8.5700-3 1.2855-3-0.504600                              W.E.Wilson+          (61)A1159  2 
+ 1001  1003   4   4 DC 1.1090+7          8.7800-3 1.3170-3-0.350700                              W.E.Wilson+          (61)A1159  2 
+ 1001  1003   4   4 DC 1.1090+7          0.010020 1.5030-3-0.178900                              W.E.Wilson+          (61)A1159  2 
+ 1001  1003   4   4 DC 1.1090+7          0.011680 1.7520-3 9.1000-3                              W.E.Wilson+          (61)A1159  2 
+ 1001  1003   4   4 DC 1.1090+7          0.011890 1.7835-3 0.208100                              W.E.Wilson+          (61)A1159  2 
+ 1001  1003   4   4 DC 1.1090+7          0.010870 1.6305-3 0.407000                              W.E.Wilson+          (61)A1159  2 
+ 1001  1003   4   4 DC 1.1090+7          9.5400-3 1.4310-3 0.596500                              W.E.Wilson+          (61)A1159  2 
+ 1001  1003   4   4 DC 1.1090+7          9.3400-3 1.4010-3 0.758600                              W.E.Wilson+          (61)A1159  2 
+ 1001  1003   4   4 DC 1.1090+7          0.011710 1.7565-3 0.881300                              W.E.Wilson+          (61)A1159  2 
+ 1001  1003   4   4 DC 1.1090+7          0.014800 2.2200-3 0.963000                              W.E.Wilson+          (61)A1159  2 
+ 1001  1003   4   4 DC 1.1090+7          0.015830 2.3745-3 0.995700                              W.E.Wilson+          (61)A1159  2 
+#/DATA      11
+#/DATASET

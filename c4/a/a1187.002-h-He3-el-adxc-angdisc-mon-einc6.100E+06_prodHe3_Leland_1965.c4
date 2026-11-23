@@ -1,0 +1,40 @@
+#ENTRY      A1187
+#AUTHOR1    W.T.Leland+
+#YEAR       1965
+#INSTITUTE  (1USALAS)
+#TITLE      Differential cross sections for 3He-3He and 3He-T
+#+          elastic scattering in the energy region 12-25 MeV.
+#AUTHOR(S)  W.T.Leland, J.E.Brolley Jr, L.Rosen
+#REF-CODE   (J,BAP,10,51(DC7),1965)
+#REFERENCE  Bull.Am.Phys.Soc. 10 (1965) 51(DC7)
+#DATASETS   0
+#
+#DATASET    A1187002 
+#DATE       20180130
+#REACTION   2-HE-3(HE3,EL)2-HE-3,,DA
+#PROJ       2003
+#TARG       2003
+#MF         4
+#MT         2
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 2003  2003   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  2003   4   2  C 6100000.          0.485600          0.941471                              W.T.Leland+          (65)A1187  2 
+ 2003  2003   4   2  C 6100000.          0.142200          0.907777                              W.T.Leland+          (65)A1187  2 
+ 2003  2003   4   2  C 6100000.          0.075620          0.866897                              W.T.Leland+          (65)A1187  2 
+ 2003  2003   4   2  C 6100000.          0.040210          0.821149                              W.T.Leland+          (65)A1187  2 
+ 2003  2003   4   2  C 6100000.          0.036280          0.767165                              W.T.Leland+          (65)A1187  2 
+ 2003  2003   4   2  C 6100000.          0.029900          0.709571                              W.T.Leland+          (65)A1187  2 
+ 2003  2003   4   2  C 6100000.          0.031750          0.644124                              W.T.Leland+          (65)A1187  2 
+ 2003  2003   4   2  C 6100000.          0.029970          0.573576                              W.T.Leland+          (65)A1187  2 
+ 2003  2003   4   2  C 6100000.          0.027790          0.501511                              W.T.Leland+          (65)A1187  2 
+ 2003  2003   4   2  C 6100000.          0.027440          0.424199                              W.T.Leland+          (65)A1187  2 
+ 2003  2003   4   2  C 6100000.          0.028610          0.343660                              W.T.Leland+          (65)A1187  2 
+ 2003  2003   4   2  C 6100000.          0.030790          0.260505                              W.T.Leland+          (65)A1187  2 
+ 2003  2003   4   2  C 6100000.          0.032400          0.175367                              W.T.Leland+          (65)A1187  2 
+ 2003  2003   4   2  C 6100000.          0.028070          0.088894                              W.T.Leland+          (65)A1187  2 
+ 2003  2003   4   2  C 6100000.          0.026730          3.4907-3                              W.T.Leland+          (65)A1187  2 
+#/DATA      15
+#/DATASET

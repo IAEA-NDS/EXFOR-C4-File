@@ -1,0 +1,34 @@
+#ENTRY      A1174
+#AUTHOR1    G.A.Jarvis+
+#YEAR       1950
+#INSTITUTE  (1USALAS)
+#TITLE      Reaction constants for T(p,n)3He
+#AUTHOR(S)  G.A.Jarvis, A.Hemmendinger, H.V.Argo, R.F.Taschek
+#REF-CODE   (J,PR,79,929,1950)
+#REFERENCE  Phys.Rev. 79 (1950) 929
+#DATASETS   0
+#
+#DATASET    A1174002 
+#DATE       20240930
+#REACTION   1-H-3(P,N)2-HE-3,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  1003   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4   4    1064000.          0.048900          0.999994                              G.A.Jarvis+          (50)A1174  2 
+ 1001  1003   4   4    1064000.          0.047200          0.995884                              G.A.Jarvis+          (50)A1174  2 
+ 1001  1003   4   4    1064000.          0.041100          0.985703                              G.A.Jarvis+          (50)A1174  2 
+ 1001  1003   4   4    1064000.          0.033100          0.966823                              G.A.Jarvis+          (50)A1174  2 
+ 1001  1003   4   4    1064000.          0.024300          0.941471                              G.A.Jarvis+          (50)A1174  2 
+ 1001  1003   4   4    1064000.          0.014300          0.907777                              G.A.Jarvis+          (50)A1174  2 
+ 1001  1003   4   4    1064000.          7.4000-3          0.866897                              G.A.Jarvis+          (50)A1174  2 
+ 1001  1003   4   4    1064000.          3.4000-3          0.823136                              G.A.Jarvis+          (50)A1174  2 
+ 1001  1003   4   4    1064000.          1.1000-3          0.764921                              G.A.Jarvis+          (50)A1174  2 
+ 1001  1003   4   4    1064000.          8.0000-4          0.708340                              G.A.Jarvis+          (50)A1174  2 
+#/DATA      10
+#/DATASET

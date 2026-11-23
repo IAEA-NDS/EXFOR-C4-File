@@ -1,0 +1,31 @@
+#ENTRY      A0819
+#AUTHOR1    N.Burtebaev+
+#YEAR       2008
+#INSTITUTE  (4KASKAZ)
+#TITLE      New measurement of the astrophysical S factor for
+#+          C-12(p,g)N-13 reaction at low energies and the
+#+          asymptotic normalization coefficient(nuclear vertex
+#+          constant) for the p+C-12--N-13 reaction
+#AUTHOR(S)  N.Burtebaev, S.B.Igamov, R.J.Peterson, R.Yarmukhamedov, 
+#+          D.M.Zazulin
+#REF-CODE   (J,PR/C,78,035802,2008)
+#REFERENCE  Phys.Rev.C 78 (2008) 035802
+#DATASETS   0
+#
+#DATASET    A0819002 
+#DATE       20250729
+#REACTION   6-C-12(P,G)7-N-13,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         900
+#PRODUCT    7-N-13
+#C4BEGIN    [ 1001  6012   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 900    565310.5          4.1000-7 4.0000-8 1.000000          0.000000         LVLN.Burtebaev+         (08)A0819  2 
+ 1001  6012   4 900    565310.5          4.1000-7 4.0000-8-0.015707          0.000000         LVLN.Burtebaev+         (08)A0819  2 
+ 1001  6012   4 900    565310.5          3.6000-7 3.0000-8-0.715693          0.000000         LVLN.Burtebaev+         (08)A0819  2 
+#/DATA      3
+#/DATASET

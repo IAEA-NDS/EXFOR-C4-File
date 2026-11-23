@@ -1,0 +1,35 @@
+#ENTRY      A0610
+#AUTHOR1    V.A.Vukolov+
+#YEAR       1995
+#INSTITUTE  (4RUSKUR)
+#TITLE      Spectra of neutrons from the reactions
+#+          6Li(d,n+alpha)3He and 9Be(d,n)10B at deuteron
+#+          energies up to 2.0 MeV
+#AUTHOR(S)  V.A.Vukolov, E.A.Koltypin, Yu.D.Molchanov, G.B.Yankov
+#REF-CODE   (J,YF,58,1539,1995)
+#REFERENCE  Yad.Fiz. 58 (1995) 1539
+#DATASETS   0
+#
+#DATASET    A0610003 
+#DATE       20210623
+#REACTION   3-LI-6(D,X)0-NN-1,,DA/DE
+#PROJ       1002
+#TARG       3006
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1002  3006   6 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3006   6 201    1100000.          8.8000-9 1.6200-9 0.984808          250000.0 50000.00 E2V.A.Vukolov+         (95)A0610  3 
+ 1002  3006   6 201    1100000.          1.8020-8 1.8200-9 0.984808          350000.0 50000.00 E2V.A.Vukolov+         (95)A0610  3 
+ 1002  3006   6 201    1100000.          2.1210-8 1.8500-9 0.984808          450000.0 50000.00 E2V.A.Vukolov+         (95)A0610  3 
+ 1002  3006   6 201    1100000.          2.0930-8 1.7800-9 0.984808          600000.0 100000.0 E2V.A.Vukolov+         (95)A0610  3 
+ 1002  3006   6 201    1100000.          2.1340-8 1.7000-9 0.984808          800000.0 100000.0 E2V.A.Vukolov+         (95)A0610  3 
+ 1002  3006   6 201    1100000.          1.9390-8 1.4600-9 0.984808          1000000. 100000.0 E2V.A.Vukolov+         (95)A0610  3 
+ 1002  3006   6 201    1100000.          1.6870-8 1.2100-9 0.984808          1200000. 100000.0 E2V.A.Vukolov+         (95)A0610  3 
+ 1002  3006   6 201    1100000.          1.3910-8 1.000-09 0.984808          1400000. 100000.0 E2V.A.Vukolov+         (95)A0610  3 
+ 1002  3006   6 201    1100000.          7.1700-9 5.000-10 0.984808          1750000. 250000.0 E2V.A.Vukolov+         (95)A0610  3 
+#/DATA      9
+#/DATASET

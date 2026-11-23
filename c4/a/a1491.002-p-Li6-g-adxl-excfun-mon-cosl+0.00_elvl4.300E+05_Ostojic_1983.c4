@@ -1,0 +1,33 @@
+#ENTRY      A1491
+#AUTHOR1    R.Ostojic+
+#YEAR       1983
+#INSTITUTE  (3SRBBKB)
+#TITLE      Study of the direct-radiative-capture reaction
+#+          6Li(p,gamma)7Be from 0.4 to 1.1 MeV
+#AUTHOR(S)  R.Ostojic, K.Subotic, B.Stepancic
+#REF-CODE   (J,NC/A,76,73,1983)
+#REFERENCE  Nuovo Cim.A 76 (1983) 73
+#DATASETS   0
+#
+#DATASET    A1491002 
+#DATE       20251006
+#REACTION   3-LI-6(P,G)4-BE-7,PAR,DA
+#PROJ       1001
+#TARG       3006
+#MF         4
+#MT         900
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  3006   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3006   4 900    400000.0          3.0000-8 2.4000-9 6.123-17          430000.0         LVLR.Ostojic+           (83)A1491  2 
+ 1001  3006   4 900    500000.0          1.0000-7 8.0000-9 6.123-17          430000.0         LVLR.Ostojic+           (83)A1491  2 
+ 1001  3006   4 900    600000.0          1.0000-7 8.0000-9 6.123-17          430000.0         LVLR.Ostojic+           (83)A1491  2 
+ 1001  3006   4 900    700000.0          9.0000-8 7.2000-9 6.123-17          430000.0         LVLR.Ostojic+           (83)A1491  2 
+ 1001  3006   4 900    800000.0          1.2000-7 9.6000-9 6.123-17          430000.0         LVLR.Ostojic+           (83)A1491  2 
+ 1001  3006   4 900    900000.0          1.1000-7 8.8000-9 6.123-17          430000.0         LVLR.Ostojic+           (83)A1491  2 
+ 1001  3006   4 900    1000000.          1.0000-7 8.0000-9 6.123-17          430000.0         LVLR.Ostojic+           (83)A1491  2 
+ 1001  3006   4 900    1100000.          1.2000-7 9.6000-9 6.123-17          430000.0         LVLR.Ostojic+           (83)A1491  2 
+#/DATA      8
+#/DATASET

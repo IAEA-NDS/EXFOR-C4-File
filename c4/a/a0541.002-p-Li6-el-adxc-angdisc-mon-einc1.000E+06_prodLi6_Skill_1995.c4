@@ -1,0 +1,36 @@
+#ENTRY      A0541
+#AUTHOR1    M.Skill+
+#YEAR       1995
+#INSTITUTE  (2GERJLU)
+#TITLE      Differential cross section and analyzing power for
+#+          elastic scattering of protons on Li-6 below 2.2 MeV
+#AUTHOR(S)  M.Skill, R.Baumann, G.Keil, N.Kniest, E.Pfaff, M.Preiss, 
+#+          G.Reiter, G.Clausnitzer, M.Haller, W.Kretschmer
+#REF-CODE   (J,NP/A,581,93,1995)
+#REFERENCE  Nucl.Phys.A 581 (1995) 93
+#DATASETS   0
+#
+#DATASET    A0541002 
+#DATE       20200331
+#REACTION   3-LI-6(P,EL)3-LI-6,,DA
+#PROJ       1001
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 1001  3006   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3006   4   2  C 1000000.          0.072200 1.4440-4 0.183951                              M.Skill+             (95)A0541  2 
+ 1001  3006   4   2  C 1000000.          0.055400 1.1080-4 0.013962                              M.Skill+             (95)A0541  2 
+ 1001  3006   4   2  C 1000000.          0.044100 8.8200-5-0.173648                              M.Skill+             (95)A0541  2 
+ 1001  3006   4   2  C 1000000.          0.037900 7.5800-5-0.330514                              M.Skill+             (95)A0541  2 
+ 1001  3006   4   2  C 1000000.          0.034500 6.9000-5-0.487860                              M.Skill+             (95)A0541  2 
+ 1001  3006   4   2  C 1000000.          0.031300 6.2600-5-0.614285                              M.Skill+             (95)A0541  2 
+ 1001  3006   4   2  C 1000000.          0.029600 5.9200-5-0.727773                              M.Skill+             (95)A0541  2 
+ 1001  3006   4   2  C 1000000.          0.027400 5.4800-5-0.834848                              M.Skill+             (95)A0541  2 
+ 1001  3006   4   2  C 1000000.          0.027300 5.4600-5-0.901077                              M.Skill+             (95)A0541  2 
+ 1001  3006   4   2  C 1000000.          0.026800 5.3600-5-0.959314                              M.Skill+             (95)A0541  2 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      A1170
+#AUTHOR1    V.V.Volkov+
+#YEAR       1957
+#INSTITUTE  (4RUSKUR)
+#TITLE      Investigation of the D-D reaction in the deuteron
+#+          energy range 0.20 to 1.75 MeV
+#AUTHOR(S)  V.V.Volkov, P.E.Vorotnikov, E.A.Koltypin, N.I.Sidorov, G.B.Iankov
+#REF-CODE   (J,AE/S,,(5),15,1957)
+#REFERENCE  At.En. Suppl.  No.5 (1957) 15
+#DATASETS   0
+#
+#DATASET    A1170002 
+#DATE       20140410
+#REACTION   1-H-2(D,P)1-H-3,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1002  1002   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4 103  C 1300000.          0.022300 1.1150-3 0.977747                              V.V.Volkov+          (57)A1170  2 
+ 1002  1002   4 103  C 1300000.          0.019540 9.7700-4 0.912834                              V.V.Volkov+          (57)A1170  2 
+ 1002  1002   4 103  C 1300000.          0.015680 7.8400-4 0.807887                              V.V.Volkov+          (57)A1170  2 
+ 1002  1002   4 103  C 1300000.          0.013010 6.5050-4 0.678929                              V.V.Volkov+          (57)A1170  2 
+ 1002  1002   4 103  C 1300000.          0.012250 6.1250-4 0.574720                              V.V.Volkov+          (57)A1170  2 
+ 1002  1002   4 103  C 1300000.          0.011330 5.6650-4 0.392979                              V.V.Volkov+          (57)A1170  2 
+ 1002  1002   4 103  C 1300000.          0.011340 5.6700-4 0.238194                              V.V.Volkov+          (57)A1170  2 
+ 1002  1002   4 103  C 1300000.          0.011090 5.5450-4 0.091675                              V.V.Volkov+          (57)A1170  2 
+ 1002  1002   4 103  C 1300000.          0.011170 5.5850-4-0.012217                              V.V.Volkov+          (57)A1170  2 
+#/DATA      9
+#/DATASET

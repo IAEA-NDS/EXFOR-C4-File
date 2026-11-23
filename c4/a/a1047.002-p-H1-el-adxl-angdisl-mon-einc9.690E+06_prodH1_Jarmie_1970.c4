@@ -1,0 +1,29 @@
+#ENTRY      A1047
+#AUTHOR1    N.Jarmie+
+#YEAR       1970
+#INSTITUTE  (1USALAS)
+#TITLE      Proton-proton scattering at 9.690, 9.918 and 13.600 MeV
+#AUTHOR(S)  N.Jarmie, J.H.Jett, J.L.Detch, R.L.Hutson
+#REF-CODE   (J,PRL,25,34,1970)
+#REFERENCE  Phys.Rev.Lett. 25 (1970) 34
+#DATASETS   0
+#
+#DATASET    A1047002 
+#DATE       20240426
+#REACTION   1-H-1(P,EL)1-H-1,,DA
+#PROJ       1001
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1001   4   2    9690000.          0.215290          0.974370                              N.Jarmie+            (70)A1047  2 
+ 1001  1001   4   2    9690000.          0.201790          0.965926                              N.Jarmie+            (70)A1047  2 
+ 1001  1001   4   2    9690000.          0.196070          0.939693                              N.Jarmie+            (70)A1047  2 
+ 1001  1001   4   2    9690000.          0.192560          0.906308                              N.Jarmie+            (70)A1047  2 
+ 1001  1001   4   2    9690000.          0.186900          0.866025                              N.Jarmie+            (70)A1047  2 
+#/DATA      5
+#/DATASET

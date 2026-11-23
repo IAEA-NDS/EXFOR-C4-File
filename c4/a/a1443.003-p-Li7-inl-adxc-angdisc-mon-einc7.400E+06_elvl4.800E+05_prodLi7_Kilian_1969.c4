@@ -1,0 +1,39 @@
+#ENTRY      A1443
+#AUTHOR1    K.Kilian+
+#YEAR       1969
+#INSTITUTE  (2GERUEN)
+#TITLE      Investigation of 7Li(p,p0)7Li, 7Li(p,p1)7Li and
+#+          7li(p,alpha)4He reactions at the proton energy range
+#+          2.7 - 10.6 MeV
+#AUTHOR(S)  K.Kilian, G.Clausnitzer, W.Durr, D.Fick, R.Fleischmann, 
+#+          H.M.Hofmann
+#REF-CODE   (J,NP/A,126,529,1969)
+#REFERENCE  Nucl.Phys.A 126 (1969) 529
+#DATASETS   0
+#
+#DATASET    A1443003 
+#DATE       20240205
+#REACTION   3-LI-7(P,INL)3-LI-7,PAR,DA
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         601
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1001  3007   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4 601  C 7400000.          9.4100-3          0.714473          480000.0         LVLK.Kilian+            (69)A1443  3 
+ 1001  3007   4 601  C 7400000.          0.010590          0.406737          480000.0         LVLK.Kilian+            (69)A1443  3 
+ 1001  3007   4 601  C 7400000.          0.010590          0.197657          480000.0         LVLK.Kilian+            (69)A1443  3 
+ 1001  3007   4 601  C 7400000.          0.010880          0.041876          480000.0         LVLK.Kilian+            (69)A1443  3 
+ 1001  3007   4 601  C 7400000.          0.010880         -0.130526          480000.0         LVLK.Kilian+            (69)A1443  3 
+ 1001  3007   4 601  C 7400000.          8.8200-3         -0.460200          480000.0         LVLK.Kilian+            (69)A1443  3 
+ 1001  3007   4 601  C 7400000.          7.9400-3         -0.605988          480000.0         LVLK.Kilian+            (69)A1443  3 
+ 1001  3007   4 601  C 7400000.          7.0600-3         -0.722967          480000.0         LVLK.Kilian+            (69)A1443  3 
+ 1001  3007   4 601  C 7400000.          6.4700-3         -0.822144          480000.0         LVLK.Kilian+            (69)A1443  3 
+ 1001  3007   4 601  C 7400000.          6.4700-3         -0.901077          480000.0         LVLK.Kilian+            (69)A1443  3 
+ 1001  3007   4 601  C 7400000.          6.1800-3         -0.957822          480000.0         LVLK.Kilian+            (69)A1443  3 
+ 1001  3007   4 601  C 7400000.          6.4700-3         -0.990983          480000.0         LVLK.Kilian+            (69)A1443  3 
+#/DATA      12
+#/DATASET

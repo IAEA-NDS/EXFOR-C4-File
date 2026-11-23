@@ -1,0 +1,27 @@
+#ENTRY      A0289
+#AUTHOR1    A.A.Naqvi+
+#YEAR       1998
+#INSTITUTE  (3SARDHA)
+#TITLE      Cross Section Measurements of Two-Nucleon Pickup
+#+          Reactions in the 13-C+D System at Deuteron Energies
+#+          Below 350 keV
+#AUTHOR(S)  A.A.Naqvi, M.M.Nagadi, S.Kidwai, M.A.Al-Ohali, F.Z.Khiari
+#REF-CODE   (J,AUJ,51,903,1998)
+#REFERENCE  Australian J.Physics 51 (1998) 903
+#DATASETS   0
+#
+#DATASET    A0289003 
+#DATE       20120110
+#REACTION   6-C-13(D,A)5-B-11,PAR,DA
+#PROJ       1002
+#TARG       6013
+#MF         4
+#MT         800
+#PRODUCT    5-B-11
+#C4BEGIN    [ 1002  6013   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6013   4 800    220000.0          2.7800-6 9.0000-8-0.743145          0.000000         LVLA.A.Naqvi+           (98)A0289  3 
+#/DATA      1
+#/DATASET

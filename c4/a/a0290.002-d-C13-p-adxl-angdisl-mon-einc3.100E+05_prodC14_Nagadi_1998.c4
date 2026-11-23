@@ -1,0 +1,30 @@
+#ENTRY      A0290
+#AUTHOR1    M.M.Nagadi+
+#YEAR       1998
+#INSTITUTE  (3SARDHA)
+#TITLE      Deuteron Stripping Cross Section from 13-C at Deuteron
+#+          Energies Below 350 KeV
+#AUTHOR(S)  M.M.Nagadi, A.A.Naqvi, S.Kidwai, M.A.Al-Ohali, F.Z.Khiari
+#REF-CODE   (J,AUJ,51,913,1998)
+#REFERENCE  Australian J.Physics 51 (1998) 913
+#DATASETS   0
+#
+#DATASET    A0290002 
+#DATE       20111004
+#REACTION   6-C-13(D,P)6-C-14,,DA
+#PROJ       1002
+#TARG       6013
+#MF         4
+#MT         103
+#PRODUCT    6-C-14
+#C4BEGIN    [ 1002  6013   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6013   4 103    310000.0          1.9010-5 2.9000-7 0.866025                              M.M.Nagadi+          (98)A0290  2 
+ 1002  6013   4 103    310000.0          4.4000-5 1.6000-6 0.406737                              M.M.Nagadi+          (98)A0290  2 
+ 1002  6013   4 103    310000.0          5.4200-6 2.8000-7-0.342020                              M.M.Nagadi+          (98)A0290  2 
+ 1002  6013   4 103    310000.0          7.3000-6 7.0000-7-0.829038                              M.M.Nagadi+          (98)A0290  2 
+ 1002  6013   4 103    310000.0          4.1600-6 2.3000-7-0.961262                              M.M.Nagadi+          (98)A0290  2 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      A1171
+#AUTHOR1    A.S.Ganeev+
+#YEAR       1957
+#INSTITUTE  (4RUSIFP)
+#TITLE      The D-D reaction in the deuteron energy range
+#+          100 - 1000 keV.
+#AUTHOR(S)  A.S.Ganeev, A.M.Govorov, G.M.Osetinskii, A.N.Rakivnenko, 
+#+          I.V.Sizov, V.S.Siksin
+#REF-CODE   (J,AE/S,,(5),26,1957)
+#REFERENCE  At.En. Suppl.  No.5 (1957) 26
+#DATASETS   0
+#
+#DATASET    A1171002 
+#DATE       20180422
+#REACTION   1-H-2(D,P)1-H-3,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1002  1002   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4 103  C 950000.0          0.013800 4.4000-4 1.000000                              A.S.Ganeev+          (57)A1171  2 
+ 1002  1002   4 103  C 950000.0          8.3800-3 2.6000-4 0.815330                              A.S.Ganeev+          (57)A1171  2 
+ 1002  1002   4 103  C 950000.0          5.5900-3 1.8000-4 0.607376                              A.S.Ganeev+          (57)A1171  2 
+ 1002  1002   4 103  C 950000.0          4.1300-3 1.3000-4 0.215588                              A.S.Ganeev+          (57)A1171  2 
+ 1002  1002   4 103  C 950000.0          4.0400-3 1.3000-4-0.187381                              A.S.Ganeev+          (57)A1171  2 
+ 1002  1002   4 103  C 950000.0          4.9600-3 1.7000-4-0.538771                              A.S.Ganeev+          (57)A1171  2 
+ 1002  1002   4 103  C 950000.0          7.9300-3 2.5000-4-0.794415                              A.S.Ganeev+          (57)A1171  2 
+#/DATA      7
+#/DATASET

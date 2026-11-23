@@ -1,0 +1,35 @@
+#ENTRY      A1014
+#AUTHOR1    M.Ivanovich+
+#YEAR       1968
+#INSTITUTE  (3AULCBR)
+#TITLE      Elastic scattering of several hydrogen and helium
+#+          isotopes from tritium
+#AUTHOR(S)  M.Ivanovich, P.G.Young, G.G.Ohlsen
+#REF-CODE   (J,NP/A,110,441,1968)
+#REFERENCE  Nucl.Phys.A 110 (1968) 441
+#DATASETS   0
+#
+#DATASET    A1014003 
+#DATE       20240229
+#REACTION   1-H-3(D,EL)1-H-3,,DA
+#PROJ       1002
+#TARG       1003
+#MF         4
+#MT         2
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1002  1003   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1003   4   2  C 6380000.          0.375000 7.5000-3 0.866025                              M.Ivanovich+         (68)A1014  3 
+ 1002  1003   4   2  C 6380000.          0.138400 2.7680-3 0.703395                              M.Ivanovich+         (68)A1014  3 
+ 1002  1003   4   2  C 6380000.          0.061400 1.2280-3 0.576432                              M.Ivanovich+         (68)A1014  3 
+ 1002  1003   4   2  C 6380000.          0.040800 8.1600-4 0.489382                              M.Ivanovich+         (68)A1014  3 
+ 1002  1003   4   2  C 6380000.          0.056100 1.1220-3 0.289032                              M.Ivanovich+         (68)A1014  3 
+ 1002  1003   4   2  C 6380000.          0.096600 1.9320-3 6.123-17                              M.Ivanovich+         (68)A1014  3 
+ 1002  1003   4   2  C 6380000.          0.079800 1.5960-3-0.275637                              M.Ivanovich+         (68)A1014  3 
+ 1002  1003   4   2  C 6380000.          0.061400 1.2280-3-0.395546                              M.Ivanovich+         (68)A1014  3 
+ 1002  1003   4   2  C 6380000.          0.047200 9.4400-4-0.577858                              M.Ivanovich+         (68)A1014  3 
+ 1002  1003   4   2  C 6380000.          0.189400 3.7880-3-0.807990                              M.Ivanovich+         (68)A1014  3 
+#/DATA      10
+#/DATASET

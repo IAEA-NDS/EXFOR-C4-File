@@ -1,0 +1,35 @@
+#ENTRY      A0014
+#AUTHOR1    K.Malushinska+
+#YEAR       1977
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Investigation of 9Be(t,n)11B reaction for tritium
+#+          ions in the energy range 1.1-1.7 MeV
+#AUTHOR(S)  K.Malushinska, K.Nedvedyuk, V.I.Salatskii, I.Kholsvek
+#REF-CODE   (J,APP/B,8,309,1977)
+#REFERENCE  Acta Phys.Pol.B 8 (1977) 309
+#DATASETS   0
+#
+#DATASET    A0014003 
+#DATE       20260125
+#REACTION   4-BE-9(T,N)5-B-11,PAR,DA
+#PROJ       1003
+#TARG       4009
+#MF         4
+#MT         50
+#PRODUCT    5-B-11
+#C4BEGIN    [ 1003  4009   4  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  4009   4  50 AC 1510000. 22650.00 2.2200-3          0.998630          0.000000         LVLK.Malushinska+       (77)A0014  3 
+ 1003  4009   4  50 AC 1510000. 22650.00 2.2200-3          0.945519          0.000000         LVLK.Malushinska+       (77)A0014  3 
+ 1003  4009   4  50 AC 1510000. 22650.00 2.5400-3          0.788011          0.000000         LVLK.Malushinska+       (77)A0014  3 
+ 1003  4009   4  50 AC 1510000. 22650.00 3.3000-3          0.544639          0.000000         LVLK.Malushinska+       (77)A0014  3 
+ 1003  4009   4  50 AC 1510000. 22650.00 2.6600-3          0.258819          0.000000         LVLK.Malushinska+       (77)A0014  3 
+ 1003  4009   4  50 AC 1510000. 22650.00 2.6800-3         -0.052336          0.000000         LVLK.Malushinska+       (77)A0014  3 
+ 1003  4009   4  50 AC 1510000. 22650.00 2.5400-3         -0.358368          0.000000         LVLK.Malushinska+       (77)A0014  3 
+ 1003  4009   4  50 AC 1510000. 22650.00 2.6800-3         -0.615661          0.000000         LVLK.Malushinska+       (77)A0014  3 
+ 1003  4009   4  50 AC 1510000. 22650.00 2.3000-3         -0.819152          0.000000         LVLK.Malushinska+       (77)A0014  3 
+ 1003  4009   4  50 AC 1510000. 22650.00 3.1400-3         -0.951057          0.000000         LVLK.Malushinska+       (77)A0014  3 
+#/DATA      10
+#/DATASET

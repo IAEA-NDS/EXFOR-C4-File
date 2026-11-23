@@ -1,0 +1,39 @@
+#ENTRY      A0577
+#AUTHOR1    S.N.Abramovich+
+#YEAR       1995
+#INSTITUTE  (4RUSEPA)
+#TITLE      Cross sections of the reaction Be-9(d,t)Be-8
+#AUTHOR(S)  S.N.Abramovich, Yu.I.Vinogradov, L.N.Generalov, B.Ya.Guzhovskiy, 
+#+          S.P.Sabanin, V.V.Chulkov
+#REF-CODE   (J,BAS,59,1880,1995)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 59 (1995) 1880
+#DATASETS   0
+#
+#DATASET    A0577002 
+#DATE       20220810
+#REACTION   4-BE-9(D,T)4-BE-8,PAR,DA
+#PROJ       1002
+#TARG       4009
+#MF         4
+#MT         700
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 1002  4009   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   4 700  C 8500000.          0.016600          0.973179          0.000000         LVLS.N.Abramovich+      (95)A0577  2 
+ 1002  4009   4 700  C 8500000.          7.1900-3          0.906308          0.000000         LVLS.N.Abramovich+      (95)A0577  2 
+ 1002  4009   4 700  C 8500000.          2.5800-3          0.725374          0.000000         LVLS.N.Abramovich+      (95)A0577  2 
+ 1002  4009   4 700  C 8500000.          2.3800-3          0.656059          0.000000         LVLS.N.Abramovich+      (95)A0577  2 
+ 1002  4009   4 700  C 8500000.          1.7800-3          0.480223          0.000000         LVLS.N.Abramovich+      (95)A0577  2 
+ 1002  4009   4 700  C 8500000.          1.4800-3          0.385906          0.000000         LVLS.N.Abramovich+      (95)A0577  2 
+ 1002  4009   4 700  C 8500000.          9.7000-4 1.8430-4 0.299041          0.000000         LVLS.N.Abramovich+      (95)A0577  2 
+ 1002  4009   4 700  C 8500000.          3.2000-4 7.0400-5 0.118404          0.000000         LVLS.N.Abramovich+      (95)A0577  2 
+ 1002  4009   4 700  C 8500000.          3.3000-4 5.9400-5 5.2360-3          0.000000         LVLS.N.Abramovich+      (95)A0577  2 
+ 1002  4009   4 700  C 8500000.          5.7000-4 1.0260-4-0.385906          0.000000         LVLS.N.Abramovich+      (95)A0577  2 
+ 1002  4009   4 700  C 8500000.          1.0300-3         -0.845262          0.000000         LVLS.N.Abramovich+      (95)A0577  2 
+ 1002  4009   4 700  C 8500000.          1.1400-3         -0.892586          0.000000         LVLS.N.Abramovich+      (95)A0577  2 
+ 1002  4009   4 700  C 8500000.          1.0000-3         -0.931691          0.000000         LVLS.N.Abramovich+      (95)A0577  2 
+ 1002  4009   4 700  C 8500000.          1.1000-3 2.9700-4-0.966376          0.000000         LVLS.N.Abramovich+      (95)A0577  2 
+#/DATA      14
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      A1371
+#AUTHOR1    V.Meyer+
+#YEAR       1963
+#INSTITUTE  (2SWTZUR)
+#TITLE      6Li(d,p)7Li and 6Li(d,alpha)alpha reactions at the
+#+          deuteron energy range 3 - 5 MeV
+#AUTHOR(S)  V.Meyer, W.Pfeifer, H.H.Staub
+#REF-CODE   (J,HPA,36,465,1963)
+#REFERENCE  Helv.Phys.Acta 36 (1963) 465
+#DATASETS   0
+#
+#DATASET    A1371005 
+#DATE       20250918
+#REACTION   3-LI-6(D,P)3-LI-7,PAR,DA
+#PROJ       1002
+#TARG       3006
+#MF         4
+#MT         600
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1002  3006   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3006   4 600  C 4500000.          1.0700-3          0.944949          4630000.         LVLV.Meyer+             (63)A1371  5 
+ 1002  3006   4 600  C 4500000.          1.2500-3          0.880477          4630000.         LVLV.Meyer+             (63)A1371  5 
+ 1002  3006   4 600  C 4500000.          1.3600-3          0.785857          4630000.         LVLV.Meyer+             (63)A1371  5 
+ 1002  3006   4 600  C 4500000.          1.3600-3          0.646790          4630000.         LVLV.Meyer+             (63)A1371  5 
+ 1002  3006   4 600  C 4500000.          1.3100-3          0.492424          4630000.         LVLV.Meyer+             (63)A1371  5 
+ 1002  3006   4 600  C 4500000.          1.1000-3          0.322266          4630000.         LVLV.Meyer+             (63)A1371  5 
+ 1002  3006   4 600  C 4500000.          1.1300-3         -0.047106          4630000.         LVLV.Meyer+             (63)A1371  5 
+ 1002  3006   4 600  C 4500000.          1.0600-3         -0.231748          4630000.         LVLV.Meyer+             (63)A1371  5 
+ 1002  3006   4 600  C 4500000.          1.2200-3         -0.384295          4630000.         LVLV.Meyer+             (63)A1371  5 
+ 1002  3006   4 600  C 4500000.          1.2300-3         -0.538771          4630000.         LVLV.Meyer+             (63)A1371  5 
+#/DATA      10
+#/DATASET

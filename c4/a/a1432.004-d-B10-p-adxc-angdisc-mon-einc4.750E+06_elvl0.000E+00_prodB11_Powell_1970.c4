@@ -1,0 +1,40 @@
+#ENTRY      A1432
+#AUTHOR1    D.L.Powell+
+#YEAR       1970
+#INSTITUTE  (3AULCBR)
+#TITLE      Deuteron-induced reactions in 6Li, 9Be and 10B at
+#+          bombarding energies of 4.5 to 6.0 MeV
+#AUTHOR(S)  D.L.Powell, G.M.Crawley, B.V.N.Rao, B.A.Robson
+#REF-CODE   (J,NP/A,147,65,1970)
+#REFERENCE  Nucl.Phys.A 147 (1970) 65
+#DATASETS   0
+#
+#DATASET    A1432004 
+#DATE       20240204
+#REACTION   5-B-10(D,P)5-B-11,PAR,DA
+#PROJ       1002
+#TARG       5010
+#MF         4
+#MT         600
+#PRODUCT    5-B-11
+#C4BEGIN    [ 1002  5010   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5010   4 600  C 4750000.          1.1730-3          0.961262          0.000000         LVLD.L.Powell+          (70)A1432  4 
+ 1002  5010   4 600  C 4750000.          1.5250-3          0.888617          0.000000         LVLD.L.Powell+          (70)A1432  4 
+ 1002  5010   4 600  C 4750000.          1.2720-3          0.799685          0.000000         LVLD.L.Powell+          (70)A1432  4 
+ 1002  5010   4 600  C 4750000.          9.6900-4          0.671721          0.000000         LVLD.L.Powell+          (70)A1432  4 
+ 1002  5010   4 600  C 4750000.          8.0800-4          0.532876          0.000000         LVLD.L.Powell+          (70)A1432  4 
+ 1002  5010   4 600  C 4750000.          7.3800-4          0.363251          0.000000         LVLD.L.Powell+          (70)A1432  4 
+ 1002  5010   4 600  C 4750000.          6.6700-4          0.195946          0.000000         LVLD.L.Powell+          (70)A1432  4 
+ 1002  5010   4 600  C 4750000.          5.8200-4          0.024432          0.000000         LVLD.L.Powell+          (70)A1432  4 
+ 1002  5010   4 600  C 4750000.          5.3200-4         -0.154710          0.000000         LVLD.L.Powell+          (70)A1432  4 
+ 1002  5010   4 600  C 4750000.          5.8300-4         -0.323917          0.000000         LVLD.L.Powell+          (70)A1432  4 
+ 1002  5010   4 600  C 4750000.          5.7700-4         -0.477159          0.000000         LVLD.L.Powell+          (70)A1432  4 
+ 1002  5010   4 600  C 4750000.          6.2500-4         -0.621148          0.000000         LVLD.L.Powell+          (70)A1432  4 
+ 1002  5010   4 600  C 4750000.          6.3900-4         -0.743145          0.000000         LVLD.L.Powell+          (70)A1432  4 
+ 1002  5010   4 600  C 4750000.          6.0400-4         -0.835807          0.000000         LVLD.L.Powell+          (70)A1432  4 
+ 1002  5010   4 600  C 4750000.          6.2500-4         -0.917755          0.000000         LVLD.L.Powell+          (70)A1432  4 
+#/DATA      15
+#/DATASET

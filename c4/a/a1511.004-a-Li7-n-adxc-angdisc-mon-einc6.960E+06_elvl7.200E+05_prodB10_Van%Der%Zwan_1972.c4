@@ -1,0 +1,33 @@
+#ENTRY      A1511
+#AUTHOR1    L.Van Der Zwan+
+#YEAR       1972
+#INSTITUTE  (1CANOTC)
+#TITLE      The 7Li(alpha,n)10B0 differential cross section for
+#+          alpha-energies of up to 8 MeV
+#AUTHOR(S)  L.Van Der Zwan, K.W.Geiger
+#REF-CODE   (J,NP/A,180,615,1972)
+#REFERENCE  Nucl.Phys.A 180 (1972) 615
+#DATASETS   0
+#
+#DATASET    A1511004 
+#DATE       20260318
+#REACTION   3-LI-7(A,N)5-B-10,PAR,DA
+#PROJ       2004
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    5-B-10
+#C4BEGIN    [ 2004  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  3007   4  50  C 6960000.          9.3900-3 3.2000-4 0.999998          720000.0         LVLL.Van Der Zwan+      (72)A1511  4 
+ 2004  3007   4  50  C 6960000.          7.9600-3 2.5000-4 0.924546          720000.0         LVLL.Van Der Zwan+      (72)A1511  4 
+ 2004  3007   4  50  C 6960000.          4.7600-3 3.2000-4 0.707107          720000.0         LVLL.Van Der Zwan+      (72)A1511  4 
+ 2004  3007   4  50  C 6960000.          2.9400-3 2.5000-4 0.395546          720000.0         LVLL.Van Der Zwan+      (72)A1511  4 
+ 2004  3007   4  50  C 6960000.          2.5200-3 2.5000-4 0.055822          720000.0         LVLL.Van Der Zwan+      (72)A1511  4 
+ 2004  3007   4  50  C 6960000.          2.2900-3 2.5000-4-0.260505          720000.0         LVLL.Van Der Zwan+      (72)A1511  4 
+ 2004  3007   4  50  C 6960000.          2.6800-3 2.5000-4-0.519519          720000.0         LVLL.Van Der Zwan+      (72)A1511  4 
+ 2004  3007   4  50  C 6960000.          3.0200-3 3.8000-4-0.707107          720000.0         LVLL.Van Der Zwan+      (72)A1511  4 
+#/DATA      8
+#/DATASET

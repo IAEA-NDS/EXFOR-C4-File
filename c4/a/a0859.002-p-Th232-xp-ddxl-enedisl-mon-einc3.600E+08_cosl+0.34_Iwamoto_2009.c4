@@ -1,0 +1,42 @@
+#ENTRY      A0859
+#AUTHOR1    H.Iwamoto+
+#YEAR       2009
+#INSTITUTE  (2JPNKYU)
+#TITLE      Measurement of light charged particle production double
+#+          differential cross sections for 360- and 500-MeV proton
+#+          induced reactions.
+#AUTHOR(S)  H.Iwamoto, Y.Koba, M.Imamura, Y.Fukui, Y.Fukuda, K.Kiyohara, 
+#+          M.Ueyama, G.Wakabayashi, Y.Uozumi, P.Evtoukhovitch, V.Kalinikov, 
+#+          N.Khomutov, N.Kuchinskiy, G.Macharasvili, D.Mjavia, A.Moiseenko, 
+#+          A.Molokanov, A.Mzavia, V.Samoilov, M.Nakano
+#REF-CODE   (S,JAEA-C-2009-004,193,2009)
+#REFERENCE  Report (proceedings) JAEA-C-2009-004 page 193, 2009
+#DATASETS   0
+#
+#DATASET    A0859002 
+#DATE       20100701
+#REACTION   90-TH-232(P,X)1-H-1,,DA/DE
+#PROJ       1001
+#TARG       90232
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001 90232   6 203 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 90232   6 203 P  3.6000+8          1.2000-9 1.800-10 0.342020          4.3200+7          E2H.Iwamoto+           (09)A0859  2 
+ 1001 90232   6 203 P  3.6000+8          1.3500-9 2.025-10 0.342020          5.2300+7          E2H.Iwamoto+           (09)A0859  2 
+ 1001 90232   6 203 P  3.6000+8          1.2000-9 1.800-10 0.342020          6.2300+7          E2H.Iwamoto+           (09)A0859  2 
+ 1001 90232   6 203 P  3.6000+8          1.0700-9 1.605-10 0.342020          7.1400+7          E2H.Iwamoto+           (09)A0859  2 
+ 1001 90232   6 203 P  3.6000+8          8.500-10 1.275-10 0.342020          8.0500+7          E2H.Iwamoto+           (09)A0859  2 
+ 1001 90232   6 203 P  3.6000+8          6.400-10 9.600-11 0.342020          9.0500+7          E2H.Iwamoto+           (09)A0859  2 
+ 1001 90232   6 203 P  3.6000+8          4.500-10 6.750-11 0.342020          1.0150+8          E2H.Iwamoto+           (09)A0859  2 
+ 1001 90232   6 203 P  3.6000+8          3.600-10 5.400-11 0.342020          1.1060+8          E2H.Iwamoto+           (09)A0859  2 
+ 1001 90232   6 203 P  3.6000+8          2.380-10 3.570-11 0.342020          1.1980+8          E2H.Iwamoto+           (09)A0859  2 
+ 1001 90232   6 203 P  3.6000+8          1.780-10 2.670-11 0.342020          1.2980+8          E2H.Iwamoto+           (09)A0859  2 
+ 1001 90232   6 203 P  3.6000+8          1.190-10 1.785-11 0.342020          1.3900+8          E2H.Iwamoto+           (09)A0859  2 
+ 1001 90232   6 203 P  3.6000+8          7.500-11 1.125-11 0.342020          1.5090+8          E2H.Iwamoto+           (09)A0859  2 
+ 1001 90232   6 203 P  3.6000+8          4.400-11 6.600-12 0.342020          1.5910+8          E2H.Iwamoto+           (09)A0859  2 
+#/DATA      13
+#/DATASET

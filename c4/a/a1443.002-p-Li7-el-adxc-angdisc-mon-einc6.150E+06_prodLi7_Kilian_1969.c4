@@ -1,0 +1,39 @@
+#ENTRY      A1443
+#AUTHOR1    K.Kilian+
+#YEAR       1969
+#INSTITUTE  (2GERUEN)
+#TITLE      Investigation of 7Li(p,p0)7Li, 7Li(p,p1)7Li and
+#+          7li(p,alpha)4He reactions at the proton energy range
+#+          2.7 - 10.6 MeV
+#AUTHOR(S)  K.Kilian, G.Clausnitzer, W.Durr, D.Fick, R.Fleischmann, 
+#+          H.M.Hofmann
+#REF-CODE   (J,NP/A,126,529,1969)
+#REFERENCE  Nucl.Phys.A 126 (1969) 529
+#DATASETS   0
+#
+#DATASET    A1443002 
+#DATE       20240205
+#REACTION   3-LI-7(P,EL)3-LI-7,,DA
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         2
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1001  3007   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4   2  C 6150000.          0.164400          0.708340                              K.Kilian+            (69)A1443  2 
+ 1001  3007   4   2  C 6150000.          0.049600          0.409923                              K.Kilian+            (69)A1443  2 
+ 1001  3007   4   2  C 6150000.          0.031600          0.230050                              K.Kilian+            (69)A1443  2 
+ 1001  3007   4   2  C 6150000.          0.028800          0.059306                              K.Kilian+            (69)A1443  2 
+ 1001  3007   4   2  C 6150000.          0.032000         -0.130526                              K.Kilian+            (69)A1443  2 
+ 1001  3007   4   2  C 6150000.          0.038400         -0.460200                              K.Kilian+            (69)A1443  2 
+ 1001  3007   4   2  C 6150000.          0.041500         -0.580703                              K.Kilian+            (69)A1443  2 
+ 1001  3007   4   2  C 6150000.          0.038600         -0.702153                              K.Kilian+            (69)A1443  2 
+ 1001  3007   4   2  C 6150000.          0.035800         -0.814116                              K.Kilian+            (69)A1443  2 
+ 1001  3007   4   2  C 6150000.          0.039000         -0.895712                              K.Kilian+            (69)A1443  2 
+ 1001  3007   4   2  C 6150000.          0.039100         -0.949425                              K.Kilian+            (69)A1443  2 
+ 1001  3007   4   2  C 6150000.          0.042300         -0.989272                              K.Kilian+            (69)A1443  2 
+#/DATA      12
+#/DATASET

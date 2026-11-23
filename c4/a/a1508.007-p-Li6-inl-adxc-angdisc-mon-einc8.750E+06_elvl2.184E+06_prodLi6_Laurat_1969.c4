@@ -1,0 +1,35 @@
+#ENTRY      A1508
+#AUTHOR1    M.Laurat+
+#YEAR       1969
+#INSTITUTE  (2FR BRC)
+#TITLE      Elastic and inelastic scattering of 2 to 10 MeV
+#+          protons by lithium isotopes
+#AUTHOR(S)  M.Laurat
+#REF-CODE   (R,CEA-R-3727,1969)
+#REFERENCE  Report CEA-R-3727, 1969
+#DATASETS   0
+#
+#DATASET    A1508007 
+#DATE       20260318
+#REACTION   3-LI-6(P,INL)3-LI-6,PAR,DA
+#PROJ       1001
+#TARG       3006
+#MF         4
+#MT         601
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 1001  3006   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3006   4 601  C 8750000.          0.011160 5.5900-4 0.669000          2184000.         LVLM.Laurat             (69)A1508  7 
+ 1001  3006   4 601  C 8750000.          0.011150 5.5800-4 0.371000          2184000.         LVLM.Laurat             (69)A1508  7 
+ 1001  3006   4 601  C 8750000.          9.6400-3 4.9600-4 0.089000          2184000.         LVLM.Laurat             (69)A1508  7 
+ 1001  3006   4 601  C 8750000.          7.8900-3 3.1100-4-0.166000          2184000.         LVLM.Laurat             (69)A1508  7 
+ 1001  3006   4 601  C 8750000.          8.0000-3 3.7300-4-0.403000          2184000.         LVLM.Laurat             (69)A1508  7 
+ 1001  3006   4 601  C 8750000.          7.4900-3 3.7300-4-0.625000          2184000.         LVLM.Laurat             (69)A1508  7 
+ 1001  3006   4 601  C 8750000.          7.4900-3 2.4800-4-0.786000          2184000.         LVLM.Laurat             (69)A1508  7 
+ 1001  3006   4 601  C 8750000.          7.3600-3 3.1100-4-0.885000          2184000.         LVLM.Laurat             (69)A1508  7 
+ 1001  3006   4 601  C 8750000.          7.2900-3 3.1100-4-0.947000          2184000.         LVLM.Laurat             (69)A1508  7 
+ 1001  3006   4 601  C 8750000.          7.2300-3 3.0100-4-0.997000          2184000.         LVLM.Laurat             (69)A1508  7 
+#/DATA      10
+#/DATASET

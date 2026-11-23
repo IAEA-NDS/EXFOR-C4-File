@@ -1,0 +1,33 @@
+#ENTRY      A1234
+#AUTHOR1    F.Ajzenberg-Selove+
+#YEAR       1978
+#INSTITUTE  (1USAPEN)
+#TITLE      (t,p) reactions on 4He, 6Li, 7Li, 9Be, 10B, 11B
+#+          and 12C
+#AUTHOR(S)  F.Ajzenberg-Selove, E.R.Flynn, O.Hansen
+#REF-CODE   (J,PR/C,17,1283,1978)
+#REFERENCE  Phys.Rev.C 17 (1978) 1283
+#DATASETS   0
+#
+#DATASET    A1234008 
+#DATE       20250903
+#REACTION   6-C-12(T,P)6-C-14,PAR,DA
+#PROJ       1003
+#TARG       6012
+#MF         4
+#MT         600
+#PRODUCT    6-C-14
+#C4BEGIN    [ 1003  6012   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  6012   4 600  C 2.3000+7          3.3360-4 3.6700-5 0.994703          1.2850+7         LVLF.Ajzenberg-Selove+  (78)A1234  8 
+ 1003  6012   4 600  C 2.3000+7          3.3390-4 3.3100-5 0.988494          1.2850+7         LVLF.Ajzenberg-Selove+  (78)A1234  8 
+ 1003  6012   4 600  C 2.3000+7          2.8570-4 2.8400-5 0.979575          1.2850+7         LVLF.Ajzenberg-Selove+  (78)A1234  8 
+ 1003  6012   4 600  C 2.3000+7          2.5510-4 2.5400-5 0.951057          1.2850+7         LVLF.Ajzenberg-Selove+  (78)A1234  8 
+ 1003  6012   4 600  C 2.3000+7          2.3260-4 1.7700-5 0.914254          1.2850+7         LVLF.Ajzenberg-Selove+  (78)A1234  8 
+ 1003  6012   4 600  C 2.3000+7          1.9090-4 1.4500-5 0.875465          1.2850+7         LVLF.Ajzenberg-Selove+  (78)A1234  8 
+ 1003  6012   4 600  C 2.3000+7          1.5030-4 1.1400-5 0.823136          1.2850+7         LVLF.Ajzenberg-Selove+  (78)A1234  8 
+ 1003  6012   4 600  C 2.3000+7          1.1720-4 1.2900-5 0.756995          1.2850+7         LVLF.Ajzenberg-Selove+  (78)A1234  8 
+#/DATA      8
+#/DATASET

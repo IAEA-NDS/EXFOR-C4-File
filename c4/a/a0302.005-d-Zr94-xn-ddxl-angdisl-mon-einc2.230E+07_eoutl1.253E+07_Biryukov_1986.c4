@@ -1,0 +1,30 @@
+#ENTRY      A0302
+#AUTHOR1    N.S.Biryukov+
+#YEAR       1986
+#INSTITUTE  (4RUSFEI)
+#TITLE      Neutron from (d,n) reaction on 27Al,53Cr,90,94Zr,
+#+          122Sn,181Ta.
+#AUTHOR(S)  N.S.Biryukov, B.V.Zhuravlev, A.P.Rudenko, V.I.Trykova
+#REF-CODE   (J,YK,,(2),6,1986)
+#REFERENCE  Yad.Reak.Konst.  No.2 (1986) 6
+#DATASETS   0
+#
+#DATASET    A0302005 
+#DATE       20180125
+#REACTION   40-ZR-94(D,X)0-NN-1,,DA/DE
+#PROJ       1002
+#TARG       40094
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1002 40094   6 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 40094   6 201    2.2300+7 300000.0 8.3500-9 2.1300-9 0.866025          1.2530+7          E2N.S.Biryukov+        (86)A0302  5 
+ 1002 40094   6 201    2.2300+7 300000.0 2.3000-9 5.900-10 0.500000          1.2530+7          E2N.S.Biryukov+        (86)A0302  5 
+ 1002 40094   6 201    2.2300+7 300000.0 1.1200-9 2.900-10 6.123-17          1.2530+7          E2N.S.Biryukov+        (86)A0302  5 
+ 1002 40094   6 201    2.2300+7 300000.0 8.100-10 2.200-10-0.500000          1.2530+7          E2N.S.Biryukov+        (86)A0302  5 
+ 1002 40094   6 201    2.2300+7 300000.0 5.800-10 1.600-10-0.866025          1.2530+7          E2N.S.Biryukov+        (86)A0302  5 
+#/DATA      5
+#/DATASET

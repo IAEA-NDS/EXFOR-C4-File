@@ -1,0 +1,39 @@
+#ENTRY      A1098
+#AUTHOR1    M.Allab+
+#YEAR       1976
+#INSTITUTE  (3ALGCDT)
+#TITLE      Elastic scattering of 0.3 MeV to 8 MeV deuterons by
+#+          3He and level parameters in 5Li
+#AUTHOR(S)  M.Allab, H.Beaumevielle
+#REF-CODE   (J,NC/A,36,95,1976)
+#REFERENCE  Nuovo Cim.A 36 (1976) 95
+#DATASETS   0
+#
+#DATASET    A1098002 
+#DATE       20200211
+#REACTION   2-HE-3(D,EL)2-HE-3,,DA
+#PROJ       1002
+#TARG       2003
+#MF         4
+#MT         2
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1002  2003   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  2003   4   2  C 1422000.          0.410100          0.777146                              M.Allab+             (76)A1098  2 
+ 1002  2003   4   2  C 1422000.          0.212000          0.661312                              M.Allab+             (76)A1098  2 
+ 1002  2003   4   2  C 1422000.          0.195200          0.570714                              M.Allab+             (76)A1098  2 
+ 1002  2003   4   2  C 1422000.          0.144900          0.369747                              M.Allab+             (76)A1098  2 
+ 1002  2003   4   2  C 1422000.          0.128000          0.368125                              M.Allab+             (76)A1098  2 
+ 1002  2003   4   2  C 1422000.          0.111300          0.223250                              M.Allab+             (76)A1098  2 
+ 1002  2003   4   2  C 1422000.          0.111600          1.7453-3                              M.Allab+             (76)A1098  2 
+ 1002  2003   4   2  C 1422000.          0.132700         -0.034899                              M.Allab+             (76)A1098  2 
+ 1002  2003   4   2  C 1422000.          0.120100         -0.073238                              M.Allab+             (76)A1098  2 
+ 1002  2003   4   2  C 1422000.          0.149800         -0.182236                              M.Allab+             (76)A1098  2 
+ 1002  2003   4   2  C 1422000.          0.137200         -0.292372                              M.Allab+             (76)A1098  2 
+ 1002  2003   4   2  C 1422000.          0.137400         -0.397148                              M.Allab+             (76)A1098  2 
+ 1002  2003   4   2  C 1422000.          0.183900         -0.493942                              M.Allab+             (76)A1098  2 
+ 1002  2003   4   2  C 1422000.          0.184100         -0.587785                              M.Allab+             (76)A1098  2 
+#/DATA      14
+#/DATASET

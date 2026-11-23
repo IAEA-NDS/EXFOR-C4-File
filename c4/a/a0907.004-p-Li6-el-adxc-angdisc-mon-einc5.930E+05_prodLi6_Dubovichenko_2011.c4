@@ -1,0 +1,39 @@
+#ENTRY      A0907
+#AUTHOR1    S.B.Dubovichenko+
+#YEAR       2011
+#INSTITUTE  (4KASKAZ)
+#TITLE      Astrophysical S factor for the radiative-capture
+#+          reaction p+Li-6->Be-7+gamma.
+#AUTHOR(S)  S.B.Dubovichenko, N.Burtebaev, D.M.Zazulin, Zh.K.Kerimkulov, 
+#+          A.S.A.Amar
+#REF-CODE   (J,YF,74,1013,2011)
+#REFERENCE  Yad.Fiz. 74 (2011) 1013
+#DATASETS   0
+#
+#DATASET    A0907004 
+#DATE       20160721
+#REACTION   3-LI-6(P,EL)3-LI-6,,DA
+#PROJ       1001
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 1001  3006   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3006   4   2 AC 593000.0          0.903800 0.090380 0.540240 2.9374-3                     S.B.Dubovichenko+    (11)A0907  4 
+ 1001  3006   4   2 AC 593000.0          0.518500 0.051850 0.369747 3.2433-3                     S.B.Dubovichenko+    (11)A0907  4 
+ 1001  3006   4   2 AC 593000.0          0.310200 0.031020 0.190809 3.4265-3                     S.B.Dubovichenko+    (11)A0907  4 
+ 1001  3006   4   2 AC 593000.0          0.208000 0.020800 0.010472 3.4905-3                     S.B.Dubovichenko+    (11)A0907  4 
+ 1001  3006   4   2 AC 593000.0          0.157100 0.015710-0.166769 3.4418-3                     S.B.Dubovichenko+    (11)A0907  4 
+ 1001  3006   4   2 AC 593000.0          0.126000 0.012600-0.333807 3.2904-3                     S.B.Dubovichenko+    (11)A0907  4 
+ 1001  3006   4   2 AC 593000.0          0.099000 9.9000-3-0.484810 3.0530-3                     S.B.Dubovichenko+    (11)A0907  4 
+ 1001  3006   4   2 AC 593000.0          0.082000 8.2000-3-0.619779 2.7394-3                     S.B.Dubovichenko+    (11)A0907  4 
+ 1001  3006   4   2 AC 593000.0          0.077800 7.7800-3-0.734915 2.3672-3                     S.B.Dubovichenko+    (11)A0907  4 
+ 1001  3006   4   2 AC 593000.0          0.070100 7.0100-3-0.830984 1.9418-3                     S.B.Dubovichenko+    (11)A0907  4 
+ 1001  3006   4   2 AC 593000.0          0.068200 6.8200-3-0.904827 1.4863-3                     S.B.Dubovichenko+    (11)A0907  4 
+ 1001  3006   4   2 AC 593000.0          0.058100 5.8100-3-0.957822 1.0031-3                     S.B.Dubovichenko+    (11)A0907  4 
+ 1001  3006   4   2 AC 593000.0          0.058800 5.8800-3-0.989526 5.0390-4                     S.B.Dubovichenko+    (11)A0907  4 
+#/DATA      13
+#/DATASET

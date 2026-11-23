@@ -1,0 +1,39 @@
+#ENTRY      A0205
+#AUTHOR1    O.I.Vasil'eva+
+#YEAR       1983
+#INSTITUTE  (4RUSMOS)
+#TITLE      A study of the reaction (alpha,d) and (alpha,t) on
+#+          Be-10,11 at 30 MeV alpha-particle energy.
+#AUTHOR(S)  O.I.Vasil'eva, V.M.Lebedev, A.V.Spasskii, I.B.Teplov, L.N.Fateeva
+#REF-CODE   (J,IZV,47,2248,1983)
+#REFERENCE  Izv.Ross.AN,Fiz. 47 (1983) 2248
+#DATASETS   0
+#
+#DATASET    A0205002 
+#DATE       20190604
+#REACTION   5-B-10(A,T)6-C-11,PAR,DA
+#PROJ       2004
+#TARG       5010
+#MF         4
+#MT         700
+#PRODUCT    6-C-11
+#C4BEGIN    [ 2004  5010   4 700 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  5010   4 700 AC 2.4800+7          2.6200-4 9.0000-6 0.909961          0.000000         LVLO.I.Vasil'eva+       (83)A0205  2 
+ 2004  5010   4 700 AC 2.4800+7          2.6300-4 1.4000-5 0.860742          0.000000         LVLO.I.Vasil'eva+       (83)A0205  2 
+ 2004  5010   4 700 AC 2.4800+7          2.3500-4 9.0000-6 0.786935          0.000000         LVLO.I.Vasil'eva+       (83)A0205  2 
+ 2004  5010   4 700 AC 2.4800+7          1.8100-4 6.0000-6 0.699663          0.000000         LVLO.I.Vasil'eva+       (83)A0205  2 
+ 2004  5010   4 700 AC 2.4800+7          1.3400-4 5.0000-6 0.601815          0.000000         LVLO.I.Vasil'eva+       (83)A0205  2 
+ 2004  5010   4 700 AC 2.4800+7          1.5100-4 6.0000-6 0.551937          0.000000         LVLO.I.Vasil'eva+       (83)A0205  2 
+ 2004  5010   4 700 AC 2.4800+7          1.3800-4 5.0000-6 0.496974          0.000000         LVLO.I.Vasil'eva+       (83)A0205  2 
+ 2004  5010   4 700 AC 2.4800+7          1.3100-4 5.0000-6 0.444635          0.000000         LVLO.I.Vasil'eva+       (83)A0205  2 
+ 2004  5010   4 700 AC 2.4800+7          1.9600-4 5.0000-6 0.385906          0.000000         LVLO.I.Vasil'eva+       (83)A0205  2 
+ 2004  5010   4 700 AC 2.4800+7          2.1600-4 5.0000-6 0.270600          0.000000         LVLO.I.Vasil'eva+       (83)A0205  2 
+ 2004  5010   4 700 AC 2.4800+7          1.6100-4 6.0000-6 0.154710          0.000000         LVLO.I.Vasil'eva+       (83)A0205  2 
+ 2004  5010   4 700 AC 2.4800+7          1.4500-4 7.0000-6 0.040132          0.000000         LVLO.I.Vasil'eva+       (83)A0205  2 
+ 2004  5010   4 700 AC 2.4800+7          1.6200-4 9.0000-6-0.071497          0.000000         LVLO.I.Vasil'eva+       (83)A0205  2 
+ 2004  5010   4 700 AC 2.4800+7          1.8600-4 1.0000-5-0.178802          0.000000         LVLO.I.Vasil'eva+       (83)A0205  2 
+#/DATA      14
+#/DATASET

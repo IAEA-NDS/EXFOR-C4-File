@@ -1,0 +1,34 @@
+#ENTRY      A1234
+#AUTHOR1    F.Ajzenberg-Selove+
+#YEAR       1978
+#INSTITUTE  (1USAPEN)
+#TITLE      (t,p) reactions on 4He, 6Li, 7Li, 9Be, 10B, 11B
+#+          and 12C
+#AUTHOR(S)  F.Ajzenberg-Selove, E.R.Flynn, O.Hansen
+#REF-CODE   (J,PR/C,17,1283,1978)
+#REFERENCE  Phys.Rev.C 17 (1978) 1283
+#DATASETS   0
+#
+#DATASET    A1234005 
+#DATE       20250903
+#REACTION   4-BE-9(T,P)4-BE-11,PAR,DA
+#PROJ       1003
+#TARG       4009
+#MF         4
+#MT         600
+#PRODUCT    4-BE-11
+#C4BEGIN    [ 1003  4009   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  4009   4 600  C 2.3000+7          1.5680-3 2.3100-5 0.993373          1760000.         LVLF.Ajzenberg-Selove+  (78)A1234  5 
+ 1003  4009   4 600  C 2.3000+7          1.0150-3 1.4900-5 0.977046          1760000.         LVLF.Ajzenberg-Selove+  (78)A1234  5 
+ 1003  4009   4 600  C 2.3000+7          6.8890-4 1.0200-5 0.950516          1760000.         LVLF.Ajzenberg-Selove+  (78)A1234  5 
+ 1003  4009   4 600  C 2.3000+7          4.4580-4 6.6000-6 0.914960          1760000.         LVLF.Ajzenberg-Selove+  (78)A1234  5 
+ 1003  4009   4 600  C 2.3000+7          4.0320-4 5.9000-6 0.868632          1760000.         LVLF.Ajzenberg-Selove+  (78)A1234  5 
+ 1003  4009   4 600  C 2.3000+7          2.6090-4 3.8000-6 0.815128          1760000.         LVLF.Ajzenberg-Selove+  (78)A1234  5 
+ 1003  4009   4 600  C 2.3000+7          2.8570-4 4.2000-6 0.751264          1760000.         LVLF.Ajzenberg-Selove+  (78)A1234  5 
+ 1003  4009   4 600  C 2.3000+7          1.9300-4 2.8000-6 0.603208          1760000.         LVLF.Ajzenberg-Selove+  (78)A1234  5 
+ 1003  4009   4 600  C 2.3000+7          1.1860-4 1.7000-6 0.446198          1760000.         LVLF.Ajzenberg-Selove+  (78)A1234  5 
+#/DATA      9
+#/DATASET

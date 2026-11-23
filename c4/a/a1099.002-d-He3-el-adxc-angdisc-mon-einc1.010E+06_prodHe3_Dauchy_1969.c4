@@ -1,0 +1,37 @@
+#ENTRY      A1099
+#AUTHOR1    A.Dauchy+
+#YEAR       1969
+#INSTITUTE  (3ALGCDT)
+#TITLE      Study of 3He(d,d)3He reaction at 1 < Ed < 3 MeV
+#AUTHOR(S)  A.Dauchy, A.Amokrane, H.Beaumevieille, C.Morand, M.Yaker, 
+#+          Nguyen Van Sen
+#REF-CODE   (J,NCL,2,263,1969)
+#REFERENCE  Nuovo Cim.Lett. 2 (1969) 263
+#DATASETS   0
+#
+#DATASET    A1099002 
+#DATE       20200211
+#REACTION   2-HE-3(D,EL)2-HE-3,,DA
+#PROJ       1002
+#TARG       2003
+#MF         4
+#MT         2
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1002  2003   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  2003   4   2  C 1010000.          1.625000 0.136400 0.780430                              A.Dauchy+            (69)A1099  2 
+ 1002  2003   4   2  C 1010000.          0.932100 0.136400 0.763796                              A.Dauchy+            (69)A1099  2 
+ 1002  2003   4   2  C 1010000.          0.353000 0.045500 0.660002                              A.Dauchy+            (69)A1099  2 
+ 1002  2003   4   2  C 1010000.          0.228900 0.034100 0.403545                              A.Dauchy+            (69)A1099  2 
+ 1002  2003   4   2  C 1010000.          0.217900 0.034100 0.309017                              A.Dauchy+            (69)A1099  2 
+ 1002  2003   4   2  C 1010000.          0.195400 0.022700 0.250380                              A.Dauchy+            (69)A1099  2 
+ 1002  2003   4   2  C 1010000.          0.184600 0.045500 0.048850                              A.Dauchy+            (69)A1099  2 
+ 1002  2003   4   2  C 1010000.          0.207600 0.045400-0.031411                              A.Dauchy+            (69)A1099  2 
+ 1002  2003   4   2  C 1010000.          0.185000 0.056800-0.071497                              A.Dauchy+            (69)A1099  2 
+ 1002  2003   4   2  C 1010000.          0.196700 0.045500-0.192522                              A.Dauchy+            (69)A1099  2 
+ 1002  2003   4   2  C 1010000.          0.185600 0.056800-0.272280                              A.Dauchy+            (69)A1099  2 
+ 1002  2003   4   2  C 1010000.          0.243400 0.056800-0.547563                              A.Dauchy+            (69)A1099  2 
+#/DATA      12
+#/DATASET

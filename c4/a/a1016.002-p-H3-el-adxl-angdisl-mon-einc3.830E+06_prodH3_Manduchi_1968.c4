@@ -1,0 +1,31 @@
+#ENTRY      A1016
+#AUTHOR1    C.Manduchi+
+#YEAR       1968
+#INSTITUTE  (2ITYUPV)
+#TITLE      Experimental study on low-energy levels of 4He
+#AUTHOR(S)  C.Manduchi, G.Moschini, G.Tornielly, G.Zannoni
+#REF-CODE   (J,NC/B,57,340,1968)
+#REFERENCE  Nuovo Cim.B 57 (1968) 340
+#DATASETS   0
+#
+#DATASET    A1016002 
+#DATE       20240229
+#REACTION   1-H-3(P,EL)1-H-3,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         2
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1001  1003   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4   2    3830000.          0.160000 0.012800 0.500000                              C.Manduchi+          (68)A1016  2 
+ 1001  1003   4   2    3830000.          0.102000 8.1600-3 0.342020                              C.Manduchi+          (68)A1016  2 
+ 1001  1003   4   2    3830000.          0.076000 6.0800-3 0.173648                              C.Manduchi+          (68)A1016  2 
+ 1001  1003   4   2    3830000.          0.062000 4.9600-3 6.123-17                              C.Manduchi+          (68)A1016  2 
+ 1001  1003   4   2    3830000.          0.061000 4.8800-3-0.173648                              C.Manduchi+          (68)A1016  2 
+ 1001  1003   4   2    3830000.          0.065000 5.2000-3-0.342020                              C.Manduchi+          (68)A1016  2 
+ 1001  1003   4   2    3830000.          0.074000 5.9200-3-0.500000                              C.Manduchi+          (68)A1016  2 
+#/DATA      7
+#/DATASET

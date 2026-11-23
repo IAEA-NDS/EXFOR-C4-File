@@ -1,0 +1,37 @@
+#ENTRY      A0832
+#AUTHOR1    B.V.Zhuravlev+
+#YEAR       1998
+#INSTITUTE  (4RUSFEI)
+#TITLE      Nuclear level density and spin out-off parameter for
+#+          nuclei of Ni-59, Tc-96, Sb-118 from  differential
+#+          neutron emission cross sections of (p,n) and (a,n)
+#+          reaction.
+#AUTHOR(S)  B.V.Zhuravlev, N.N.Titarenko, V.I.Trykova, Z.Zuying, T.Hongqing, 
+#+          Qi.Bujia, Z.Chenwei, Du Yanfeng
+#REF-CODE   (S,ISINN-6,151,1998)
+#REFERENCE  Report (proceedings) ISINN-6 page 151, 1998
+#DATASETS   0
+#
+#DATASET    A0832002 
+#DATE       20100317
+#REACTION   41-NB-93(A,N)43-TC-96,,DE
+#PROJ       2004
+#TARG       41093
+#MF         5
+#MT         4
+#PRODUCT    43-TC-96
+#C4BEGIN    [ 2004 41093   5   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 41093   5   4  C 1.8300+7          1.9200-7                            1982000.          E2B.V.Zhuravlev+       (98)A0832  2 
+ 2004 41093   5   4  C 1.8300+7          9.9000-8                            2980000.          E2B.V.Zhuravlev+       (98)A0832  2 
+ 2004 41093   5   4  C 1.8300+7          4.6000-8                            3954000.          E2B.V.Zhuravlev+       (98)A0832  2 
+ 2004 41093   5   4  C 1.8300+7          1.6800-8                            4978000.          E2B.V.Zhuravlev+       (98)A0832  2 
+ 2004 41093   5   4  C 1.8300+7          6.5000-9                            6026000.          E2B.V.Zhuravlev+       (98)A0832  2 
+ 2004 41093   5   4  C 1.8300+7          2.3900-9                            7026000.          E2B.V.Zhuravlev+       (98)A0832  2 
+ 2004 41093   5   4  C 1.8300+7          5.600-10                            8051000.          E2B.V.Zhuravlev+       (98)A0832  2 
+ 2004 41093   5   4  C 1.8300+7          2.160-10                            9051000.          E2B.V.Zhuravlev+       (98)A0832  2 
+ 2004 41093   5   4  C 1.8300+7          1.970-10                            1.0020+7          E2B.V.Zhuravlev+       (98)A0832  2 
+#/DATA      9
+#/DATASET

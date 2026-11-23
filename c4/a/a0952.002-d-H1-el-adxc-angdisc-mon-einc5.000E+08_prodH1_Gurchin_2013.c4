@@ -1,0 +1,33 @@
+#ENTRY      A0952
+#AUTHOR1    Yu.V.Gurchin+
+#YEAR       2013
+#INSTITUTE  (4ZZZDUB)
+#TITLE      The cross section in dp elastic scattering at the
+#+          energies of 500, 700 and 880 MeV obtained at the
+#+          internal target station of nuclotron.
+#AUTHOR(S)  Yu.V.Gurchin, A.Yu.Isupov, M.Janek, J.T.Karachuk, A.N.Khrenov, 
+#+          V.A.Krasnov, A.K.Kurilkin, P.K.Kurilkin, V.P.Ladygin, N.B.Ladygina, 
+#+          A.N.Livanov, S.M.Piyadin, V.L.Rapatskiy, S.G.Reznikov, A.A.Terekhin, 
+#+          T.A.Vasiliev
+#REF-CODE   (J,PPN/L,10,243,2013)
+#REFERENCE  Phys.Part.Nucl.Lett. 10 (2013) 243
+#DATASETS   0
+#
+#DATASET    A0952002 
+#DATE       20130129
+#REACTION   1-H-1(D,EL)1-H-1,,DA
+#PROJ       1002
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1002  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1001   4   2  C 5.0000+8          6.7740-4          0.501360                              Yu.V.Gurchin+        (13)A0952  2 
+ 1002  1001   4   2  C 5.0000+8          3.0730-4          0.341774                              Yu.V.Gurchin+        (13)A0952  2 
+ 1002  1001   4   2  C 5.0000+8          8.7160-5          0.046060                              Yu.V.Gurchin+        (13)A0952  2 
+ 1002  1001   4   2  C 5.0000+8          6.5450-5         -0.505913                              Yu.V.Gurchin+        (13)A0952  2 
+#/DATA      4
+#/DATASET

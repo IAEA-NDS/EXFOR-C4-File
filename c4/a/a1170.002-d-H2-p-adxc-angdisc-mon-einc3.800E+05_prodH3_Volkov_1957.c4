@@ -1,0 +1,33 @@
+#ENTRY      A1170
+#AUTHOR1    V.V.Volkov+
+#YEAR       1957
+#INSTITUTE  (4RUSKUR)
+#TITLE      Investigation of the D-D reaction in the deuteron
+#+          energy range 0.20 to 1.75 MeV
+#AUTHOR(S)  V.V.Volkov, P.E.Vorotnikov, E.A.Koltypin, N.I.Sidorov, G.B.Iankov
+#REF-CODE   (J,AE/S,,(5),15,1957)
+#REFERENCE  At.En. Suppl.  No.5 (1957) 15
+#DATASETS   0
+#
+#DATASET    A1170002 
+#DATE       20140410
+#REACTION   1-H-2(D,P)1-H-3,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         103
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1002  1002   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4 103  C 380000.0          9.2030-3 4.6015-4 0.987852                              V.V.Volkov+          (57)A1170  2 
+ 1002  1002   4 103  C 380000.0          8.3670-3 4.1835-4 0.933955                              V.V.Volkov+          (57)A1170  2 
+ 1002  1002   4 103  C 380000.0          7.6160-3 3.8080-4 0.839240                              V.V.Volkov+          (57)A1170  2 
+ 1002  1002   4 103  C 380000.0          6.6950-3 3.3475-4 0.697165                              V.V.Volkov+          (57)A1170  2 
+ 1002  1002   4 103  C 380000.0          5.8610-3 2.9305-4 0.507538                              V.V.Volkov+          (57)A1170  2 
+ 1002  1002   4 103  C 380000.0          5.2800-3 2.6400-4 0.331832                              V.V.Volkov+          (57)A1170  2 
+ 1002  1002   4 103  C 380000.0          5.2020-3 2.6010-4 0.232087                              V.V.Volkov+          (57)A1170  2 
+ 1002  1002   4 103  C 380000.0          5.2160-3 2.6080-4 0.056344                              V.V.Volkov+          (57)A1170  2 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      A1371
+#AUTHOR1    V.Meyer+
+#YEAR       1963
+#INSTITUTE  (2SWTZUR)
+#TITLE      6Li(d,p)7Li and 6Li(d,alpha)alpha reactions at the
+#+          deuteron energy range 3 - 5 MeV
+#AUTHOR(S)  V.Meyer, W.Pfeifer, H.H.Staub
+#REF-CODE   (J,HPA,36,465,1963)
+#REFERENCE  Helv.Phys.Acta 36 (1963) 465
+#DATASETS   0
+#
+#DATASET    A1371002 
+#DATE       20250918
+#REACTION   3-LI-6(D,A)2-HE-4,,DA
+#PROJ       1002
+#TARG       3006
+#MF         4
+#MT         107
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  3006   4 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3006   4 107  C 3800000.          2.0900-3          0.971134                              V.Meyer+             (63)A1371  2 
+ 1002  3006   4 107  C 3800000.          2.0700-3          0.962218                              V.Meyer+             (63)A1371  2 
+ 1002  3006   4 107  C 3800000.          2.0600-3          0.893371                              V.Meyer+             (63)A1371  2 
+ 1002  3006   4 107  C 3800000.          2.1400-3          0.826098                              V.Meyer+             (63)A1371  2 
+ 1002  3006   4 107  C 3800000.          2.0200-3          0.778243                              V.Meyer+             (63)A1371  2 
+ 1002  3006   4 107  C 3800000.          2.1200-3          0.582123                              V.Meyer+             (63)A1371  2 
+ 1002  3006   4 107  C 3800000.          1.9700-3          0.510543                              V.Meyer+             (63)A1371  2 
+ 1002  3006   4 107  C 3800000.          2.1700-3          0.323917                              V.Meyer+             (63)A1371  2 
+ 1002  3006   4 107  C 3800000.          2.2600-3          0.182236                              V.Meyer+             (63)A1371  2 
+ 1002  3006   4 107  C 3800000.          2.2600-3          0.052336                              V.Meyer+             (63)A1371  2 
+#/DATA      10
+#/DATASET

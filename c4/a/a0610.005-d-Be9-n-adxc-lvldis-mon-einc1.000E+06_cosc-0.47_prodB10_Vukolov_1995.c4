@@ -1,0 +1,27 @@
+#ENTRY      A0610
+#AUTHOR1    V.A.Vukolov+
+#YEAR       1995
+#INSTITUTE  (4RUSKUR)
+#TITLE      Spectra of neutrons from the reactions
+#+          6Li(d,n+alpha)3He and 9Be(d,n)10B at deuteron
+#+          energies up to 2.0 MeV
+#AUTHOR(S)  V.A.Vukolov, E.A.Koltypin, Yu.D.Molchanov, G.B.Yankov
+#REF-CODE   (J,YF,58,1539,1995)
+#REFERENCE  Yad.Fiz. 58 (1995) 1539
+#DATASETS   0
+#
+#DATASET    A0610005 
+#DATE       20210623
+#REACTION   4-BE-9(D,N)5-B-10,PAR,DA
+#PROJ       1002
+#TARG       4009
+#MF         4
+#MT         50
+#PRODUCT    5-B-10
+#C4BEGIN    [ 1002  4009   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   4  50  C 1000000.          2.2870-3         -0.467930          2160000.         LVLV.A.Vukolov+         (95)A0610  5 
+#/DATA      1
+#/DATASET

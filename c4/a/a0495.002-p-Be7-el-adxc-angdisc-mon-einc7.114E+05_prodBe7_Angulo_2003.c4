@@ -1,0 +1,32 @@
+#ENTRY      A0495
+#AUTHOR1    C.Angulo+
+#YEAR       2003
+#INSTITUTE  (2BLGLEU)
+#TITLE      Experimental determination of the 7-Be+p scattering
+#+          lengths
+#AUTHOR(S)  C.Angulo, M.Azzouz, P.Descouvemont, G.Tabacaru, D.Baye, 
+#+          M.Cogneau, M.Couder, T.Davinson, A.Di-Pietro, P.Figuera, 
+#+          M.Gaelens, P.Leleux, M.Loiselet, A.Ninane, F.De Oliveira Santos, 
+#+          R.G.Pizzone, G.Ryckewaert, N.De Sereville, F.Vanderbist
+#REF-CODE   (J,NP/A,716,211,2003)
+#REFERENCE  Nucl.Phys.A 716 (2003) 211
+#DATASETS   0
+#
+#DATASET    A0495002 
+#DATE       20260202
+#REACTION   4-BE-7(P,EL)4-BE-7,,DA
+#PROJ       1001
+#TARG       4007
+#MF         4
+#MT         2
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 1001  4007   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4007   4   2  C 711365.9          0.131000 1.6000-3-0.503020                              C.Angulo+            (03)A0495  2 
+ 1001  4007   4   2  C 711365.9          0.107000 3.3100-3-0.936060                              C.Angulo+            (03)A0495  2 
+ 1001  4007   4   2  C 711365.9          0.108000 3.9600-3-0.960294                              C.Angulo+            (03)A0495  2 
+ 1001  4007   4   2  C 711365.9          0.107000 4.8300-3-0.979575                              C.Angulo+            (03)A0495  2 
+#/DATA      4
+#/DATASET

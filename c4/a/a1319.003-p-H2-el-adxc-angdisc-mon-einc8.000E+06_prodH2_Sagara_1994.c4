@@ -1,0 +1,27 @@
+#ENTRY      A1319
+#AUTHOR1    K.Sagara+
+#YEAR       1994
+#INSTITUTE  (2JPNKYU)
+#TITLE      Energy dependence of analyzing power Ay and cross
+#+          section for p+d scattering below 18 MeV
+#AUTHOR(S)  K.Sagara, H.Oguri, S.Shimizu, K.Maeda, H.Nakamura, T.Nakashima, 
+#+          S.Morinobu
+#REF-CODE   (J,PR/C,50,576,1994)
+#REFERENCE  Phys.Rev.C 50 (1994) 576
+#DATASETS   0
+#
+#DATASET    A1319003 
+#DATE       20250913
+#REACTION   1-H-2(P,EL)1-H-2,,DA
+#PROJ       1001
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   4   2  C 8000000.          0.026710 1.4000-4-0.478079 1.9928-3                     K.Sagara+            (94)A1319  3 
+#/DATA      1
+#/DATASET

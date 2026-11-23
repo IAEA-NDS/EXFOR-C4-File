@@ -1,0 +1,35 @@
+#ENTRY      A0107
+#AUTHOR1    B.A.Nemashkalo+
+#YEAR       1981
+#INSTITUTE  (4UKRKFT)
+#TITLE      (p,gamma0) and (p,gamma1) reaction cross sections for
+#+          nuclei Cu-63 and Cu-65
+#AUTHOR(S)  B.A.Nemashkalo, V.E.Storizhko, V.K.Chirt
+#REF-CODE   (C,81SAMAR,,322,1981)
+#REFERENCE  Proceedings of 31.Conf.Nucl.Spectr.and Nucl.Struct.,Samarkand 1981 page 322
+#DATASETS   0
+#
+#DATASET    A0107003 
+#DATE       20220303
+#REACTION   29-CU-65(P,G)30-ZN-66,PAR,SIG
+#PROJ       1001
+#TARG       29065
+#MF         3
+#MT         900
+#PRODUCT    30-ZN-66
+#C4BEGIN    [ 1001 29065   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 29065   3 900    1300000.          3.0000-7 5.0000-8                   0.000000         LVLB.A.Nemashkalo+      (81)A0107  3 
+ 1001 29065   3 900    1500000.          1.6000-6 3.0000-7                   0.000000         LVLB.A.Nemashkalo+      (81)A0107  3 
+ 1001 29065   3 900    1700000.          5.1000-6 9.0000-7                   0.000000         LVLB.A.Nemashkalo+      (81)A0107  3 
+ 1001 29065   3 900    1900000.          7.3000-6 1.3000-6                   0.000000         LVLB.A.Nemashkalo+      (81)A0107  3 
+ 1001 29065   3 900    1980000.          1.0000-5 1.8000-6                   0.000000         LVLB.A.Nemashkalo+      (81)A0107  3 
+ 1001 29065   3 900    2060000.          1.3500-5 2.1000-6                   0.000000         LVLB.A.Nemashkalo+      (81)A0107  3 
+ 1001 29065   3 900    2100000.          1.4100-5 2.5000-6                   0.000000         LVLB.A.Nemashkalo+      (81)A0107  3 
+ 1001 29065   3 900    2140000.          1.4400-5 2.6000-6                   0.000000         LVLB.A.Nemashkalo+      (81)A0107  3 
+ 1001 29065   3 900    2200000.          1.2100-5 2.2000-6                   0.000000         LVLB.A.Nemashkalo+      (81)A0107  3 
+ 1001 29065   3 900    2300000.          7.0000-6 1.3000-6                   0.000000         LVLB.A.Nemashkalo+      (81)A0107  3 
+#/DATA      10
+#/DATASET

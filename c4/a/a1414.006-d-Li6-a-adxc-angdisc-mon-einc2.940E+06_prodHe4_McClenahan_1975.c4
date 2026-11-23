@@ -1,0 +1,40 @@
+#ENTRY      A1414
+#AUTHOR1    C.R.McClenahan+
+#YEAR       1975
+#INSTITUTE  (1USAANL)
+#TITLE      Cross section for the 7Li(d,p)8Li, 6Li(He3,n)8B,
+#+          6Li(d,alpha)4He, 6Li(d,p)7Li and 6Li(d,n)7Be reactions
+#AUTHOR(S)  C.R.McClenahan, R.E.Segel
+#REF-CODE   (J,PR/C,11,370,1975)
+#REFERENCE  Phys.Rev.C 11 (1975) 370
+#DATASETS   0
+#
+#DATASET    A1414006 
+#DATE       20200530
+#REACTION   3-LI-6(D,A)2-HE-4,,DA
+#PROJ       1002
+#TARG       3006
+#MF         4
+#MT         107
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  3006   4 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3006   4 107  C 2940000.          2.3620-3 6.6000-5 0.909236                              C.R.McClenahan+      (75)A1414  6 
+ 1002  3006   4 107  C 2940000.          1.6350-3 1.1100-4 0.673013                              C.R.McClenahan+      (75)A1414  6 
+ 1002  3006   4 107  C 2940000.          1.2840-3 1.1100-4 0.368125                              C.R.McClenahan+      (75)A1414  6 
+ 1002  3006   4 107  C 2940000.          1.1530-3 8.9000-5 0.194234                              C.R.McClenahan+      (75)A1414  6 
+ 1002  3006   4 107  C 2940000.          1.1120-3 8.9000-5 0.013962                              C.R.McClenahan+      (75)A1414  6 
+ 1002  3006   4 107  C 2940000.          1.2030-3 4.4000-5-0.168489                              C.R.McClenahan+      (75)A1414  6 
+ 1002  3006   4 107  C 2940000.          1.1170-3 1.1100-4-0.343660                              C.R.McClenahan+      (75)A1414  6 
+ 1002  3006   4 107  C 2940000.          1.3850-3 1.1100-4-0.469472                              C.R.McClenahan+      (75)A1414  6 
+ 1002  3006   4 107  C 2940000.          1.5650-3 6.7000-5-0.605988                              C.R.McClenahan+      (75)A1414  6 
+ 1002  3006   4 107  C 2940000.          1.5900-3 6.7000-5-0.724172                              C.R.McClenahan+      (75)A1414  6 
+ 1002  3006   4 107  C 2940000.          1.9250-3 4.4000-5-0.826098                              C.R.McClenahan+      (75)A1414  6 
+ 1002  3006   4 107  C 2940000.          1.8830-3 8.9000-5-0.904827                              C.R.McClenahan+      (75)A1414  6 
+ 1002  3006   4 107  C 2940000.          2.1940-3 8.9000-5-0.905569                              C.R.McClenahan+      (75)A1414  6 
+ 1002  3006   4 107  C 2940000.          2.2850-3 1.3300-4-0.955278                              C.R.McClenahan+      (75)A1414  6 
+ 1002  3006   4 107  C 2940000.          2.4650-3 1.3300-4-0.986856                              C.R.McClenahan+      (75)A1414  6 
+#/DATA      15
+#/DATASET

@@ -1,0 +1,37 @@
+#ENTRY      A0290
+#AUTHOR1    M.M.Nagadi+
+#YEAR       1998
+#INSTITUTE  (3SARDHA)
+#TITLE      Deuteron Stripping Cross Section from 13-C at Deuteron
+#+          Energies Below 350 KeV
+#AUTHOR(S)  M.M.Nagadi, A.A.Naqvi, S.Kidwai, M.A.Al-Ohali, F.Z.Khiari
+#REF-CODE   (J,AUJ,51,913,1998)
+#REFERENCE  Australian J.Physics 51 (1998) 913
+#DATASETS   0
+#
+#DATASET    A0290003 
+#DATE       20111004
+#REACTION   6-C-13(D,P)6-C-14,,DA
+#PROJ       1002
+#TARG       6013
+#MF         4
+#MT         103
+#PRODUCT    6-C-14
+#C4BEGIN    [ 1002  6013   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6013   4 103    200000.0          1.6900-6 8.0000-8 0.866025                              M.M.Nagadi+          (98)A0290  3 
+ 1002  6013   4 103    200000.0          9.9000-7 1.4000-7 0.529919                              M.M.Nagadi+          (98)A0290  3 
+ 1002  6013   4 103    200000.0          8.4000-7 6.0000-8 0.406737                              M.M.Nagadi+          (98)A0290  3 
+ 1002  6013   4 103    200000.0          4.3000-7 8.0000-8 0.190809                              M.M.Nagadi+          (98)A0290  3 
+ 1002  6013   4 103    200000.0          3.2000-7 5.0000-8 0.017452                              M.M.Nagadi+          (98)A0290  3 
+ 1002  6013   4 103    200000.0          2.4000-7 3.0000-8-0.342020                              M.M.Nagadi+          (98)A0290  3 
+ 1002  6013   4 103    200000.0          1.9000-7 4.0000-8-0.484810                              M.M.Nagadi+          (98)A0290  3 
+ 1002  6013   4 103    200000.0          1.7600-7 1.1000-8-0.615661                              M.M.Nagadi+          (98)A0290  3 
+ 1002  6013   4 103    200000.0          1.0600-7 1.1000-8-0.743145                              M.M.Nagadi+          (98)A0290  3 
+ 1002  6013   4 103    200000.0          1.1500-7 1.1000-8-0.829038                              M.M.Nagadi+          (98)A0290  3 
+ 1002  6013   4 103    200000.0          1.0700-7 2.6000-8-0.898794                              M.M.Nagadi+          (98)A0290  3 
+ 1002  6013   4 103    200000.0          1.6300-7 1.1000-8-0.961262                              M.M.Nagadi+          (98)A0290  3 
+#/DATA      12
+#/DATASET

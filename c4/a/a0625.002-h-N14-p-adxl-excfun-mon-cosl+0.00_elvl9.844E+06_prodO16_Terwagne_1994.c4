@@ -1,0 +1,38 @@
+#ENTRY      A0625
+#AUTHOR1    G.Terwagne+
+#YEAR       1994
+#INSTITUTE  (2BLGNAM)
+#TITLE      Cross section measurements of the N-14(He3,p)O-16
+#+          and N-14(He3,alpha)N-13 reactions between 1.6
+#+          and 2.8 MeV
+#AUTHOR(S)  G.Terwagne, D.D.Cohen, G.A.Collins
+#REF-CODE   (J,NIM/B,84,415,1994)
+#REFERENCE  Nucl.Instrum.Meth.B 84 (1994) 415
+#DATASETS   0
+#
+#DATASET    A0625002 
+#DATE       20220809
+#REACTION   7-N-14(HE3,P)8-O-16,PAR,DA
+#PROJ       2003
+#TARG       7014
+#MF         4
+#MT         600
+#PRODUCT    8-O-16
+#C4BEGIN    [ 2003  7014   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  7014   4 600    1589000.          8.0000-6 8.0000-7 6.123-17          9844500.         LVLG.Terwagne+          (94)A0625  2 
+ 2003  7014   4 600    1787000.          1.5000-5 1.5000-6 6.123-17          9844500.         LVLG.Terwagne+          (94)A0625  2 
+ 2003  7014   4 600    1984000.          2.5000-5 2.5000-6 6.123-17          9844500.         LVLG.Terwagne+          (94)A0625  2 
+ 2003  7014   4 600    2083000.          3.7000-5 3.7000-6 6.123-17          9844500.         LVLG.Terwagne+          (94)A0625  2 
+ 2003  7014   4 600    2182000.          3.8000-5 3.8000-6 6.123-17          9844500.         LVLG.Terwagne+          (94)A0625  2 
+ 2003  7014   4 600    2231000.          4.5000-5 4.5000-6 6.123-17          9844500.         LVLG.Terwagne+          (94)A0625  2 
+ 2003  7014   4 600    2281000.          5.4000-5 5.4000-6 6.123-17          9844500.         LVLG.Terwagne+          (94)A0625  2 
+ 2003  7014   4 600    2358000.          6.7000-5 6.7000-6 6.123-17          9844500.         LVLG.Terwagne+          (94)A0625  2 
+ 2003  7014   4 600    2478000.          9.4000-5 9.4000-6 6.123-17          9844500.         LVLG.Terwagne+          (94)A0625  2 
+ 2003  7014   4 600    2577000.          1.1200-4 1.1200-5 6.123-17          9844500.         LVLG.Terwagne+          (94)A0625  2 
+ 2003  7014   4 600    2676000.          1.4600-4 1.4600-5 6.123-17          9844500.         LVLG.Terwagne+          (94)A0625  2 
+ 2003  7014   4 600    2775000.          1.7600-4 1.7600-5 6.123-17          9844500.         LVLG.Terwagne+          (94)A0625  2 
+#/DATA      12
+#/DATASET

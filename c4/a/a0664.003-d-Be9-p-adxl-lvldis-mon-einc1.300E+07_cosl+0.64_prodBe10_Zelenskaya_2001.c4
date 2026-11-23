@@ -1,0 +1,29 @@
+#ENTRY      A0664
+#AUTHOR1    N.S.Zelenskaya+
+#YEAR       2001
+#INSTITUTE  (4RUSMOS)
+#TITLE      The correlation characteristics of 9-Be(d,p+gamma)10-Be
+#+          reaction at E/d =15.3 MeV and structure of 10-Be
+#+          nucleus.
+#AUTHOR(S)  N.S.Zelenskaya, A.V.Ignatenko, V.M.Lebedev, N.V.Orlova, 
+#+          A.V.Spassky
+#REF-CODE   (J,YF,64,1995,2001)
+#REFERENCE  Yad.Fiz. 64 (2001) 1995
+#DATASETS   0
+#
+#DATASET    A0664003 
+#DATE       20040310
+#REACTION   4-BE-9(D,P)4-BE-10,PAR,DA
+#PROJ       1002
+#TARG       4009
+#MF         4
+#MT         600
+#PRODUCT    4-BE-10
+#C4BEGIN    [ 1002  4009   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   4 600 A  1.3000+7          4.2550-4 1.7760-5 0.642788          0.000000         LVLN.S.Zelenskaya+      (01)A0664  3 
+ 1002  4009   4 600 A  1.3000+7          5.5130-4 2.8120-5 0.642788          3370000.         LVLN.S.Zelenskaya+      (01)A0664  3 
+#/DATA      2
+#/DATASET

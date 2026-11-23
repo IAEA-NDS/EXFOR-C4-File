@@ -1,0 +1,34 @@
+#ENTRY      A0060
+#AUTHOR1    I.D.Fedorets+
+#YEAR       1977
+#INSTITUTE  (4UKRKFT)
+#TITLE      Levels of Br-77 from reaction Se-77(p,n)Br-77
+#AUTHOR(S)  I.D.Fedorets, V.D.Zabolotnyj, I.I.Zalubovskij, V.M.Mishchenko, 
+#+          V.E.Storizhko
+#REF-CODE   (J,IZV,41,1603,1977)
+#REFERENCE  Izv.Ross.AN,Fiz. 41 (1977) 1603
+#DATASETS   0
+#
+#DATASET    A0060002 
+#DATE       20080618
+#REACTION   34-SE-77(P,N)35-BR-77,PAR,DA,G,4PI
+#PROJ       1001
+#TARG       34077
+#MF         14
+#MT         50
+#PRODUCT    35-BR-77
+#C4BEGIN    [ 1001 34077  14  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 34077  14  50 A  2920000.          5.8887-5 7.9577-6 0.559193          129700.0            I.D.Fedorets+        (77)A0060  2 
+ 1001 34077  14  50 A  2920000.          6.1275-5 7.1620-6 0.559193          162100.0            I.D.Fedorets+        (77)A0060  2 
+ 1001 34077  14  50 A  2920000.          1.2892-4 1.5915-5 0.559193          167100.0            I.D.Fedorets+        (77)A0060  2 
+ 1001 34077  14  50 A  2920000.          3.9789-5 9.5493-6 0.559193          226600.0            I.D.Fedorets+        (77)A0060  2 
+ 1001 34077  14  50 A  2920000.          6.3662-5 9.5493-6 0.559193          276300.0            I.D.Fedorets+        (77)A0060  2 
+ 1001 34077  14  50 A  2920000.          6.6049-5 7.1620-6 0.559193          336900.0            I.D.Fedorets+        (77)A0060  2 
+ 1001 34077  14  50 A  2920000.          9.9472-6 1.6711-6 0.559193          418000.0            I.D.Fedorets+        (77)A0060  2 
+ 1001 34077  14  50 A  2920000.          2.0849-5 3.9789-6 0.559193          425100.0            I.D.Fedorets+        (77)A0060  2 
+ 1001 34077  14  50 A  2920000.          3.8197-5 7.1620-6 0.559193          471100.0            I.D.Fedorets+        (77)A0060  2 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,40 @@
+#ENTRY      A1513
+#AUTHOR1    F.Bertrand+
+#YEAR       1968
+#INSTITUTE  (2FR VNV)
+#TITLE      6Li(p,alpha)3He, 6Li(d,alpha)4He, 6Li(d,p0)7Li,
+#+          6Li(d,p1)7Li* reaction investigation in the energy
+#+          interval from 300 keV to 1000 keV
+#AUTHOR(S)  F.Bertrand, G.Grenier, J.Pornet
+#REF-CODE   (R,CEA-R-3428,1968)
+#REFERENCE  Report CEA-R-3428, 1968
+#DATASETS   0
+#
+#DATASET    A1513005 
+#DATE       20120411
+#REACTION   3-LI-6(P,HE3)2-HE-4,,DA
+#PROJ       1001
+#TARG       3006
+#MF         4
+#MT         106
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  3006   4 106  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3006   4 106  C 800000.0          9.2000-3 3.0000-4 0.833886                              F.Bertrand+          (68)A1513  5 
+ 1001  3006   4 106  C 800000.0          9.5500-3 2.8700-4 0.707107                              F.Bertrand+          (68)A1513  5 
+ 1001  3006   4 106  C 800000.0          9.5500-3 2.8700-4 0.559193                              F.Bertrand+          (68)A1513  5 
+ 1001  3006   4 106  C 800000.0          9.1500-3 2.7500-4 0.406737                              F.Bertrand+          (68)A1513  5 
+ 1001  3006   4 106  C 800000.0          8.2000-3 2.4600-4 0.224951                              F.Bertrand+          (68)A1513  5 
+ 1001  3006   4 106  C 800000.0          7.2500-3 2.1800-4 0.052336                              F.Bertrand+          (68)A1513  5 
+ 1001  3006   4 106  C 800000.0          6.5500-3 1.9700-4-0.121869                              F.Bertrand+          (68)A1513  5 
+ 1001  3006   4 106  C 800000.0          5.8500-3 1.7600-4-0.300706                              F.Bertrand+          (68)A1513  5 
+ 1001  3006   4 106  C 800000.0          5.3500-3 1.5000-4-0.453990                              F.Bertrand+          (68)A1513  5 
+ 1001  3006   4 106  C 800000.0          4.5500-3 1.3700-4-0.587785                              F.Bertrand+          (68)A1513  5 
+ 1001  3006   4 106  C 800000.0          4.1000-3 1.2300-4-0.719340                              F.Bertrand+          (68)A1513  5 
+ 1001  3006   4 106  C 800000.0          3.6500-3 1.1000-4-0.819152                              F.Bertrand+          (68)A1513  5 
+ 1001  3006   4 106  C 800000.0          3.3500-3 1.0100-4-0.902585                              F.Bertrand+          (68)A1513  5 
+ 1001  3006   4 106  C 800000.0          3.1500-3 9.5000-5-0.953717                              F.Bertrand+          (68)A1513  5 
+#/DATA      14
+#/DATASET

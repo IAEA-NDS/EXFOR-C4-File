@@ -1,0 +1,30 @@
+#ENTRY      A0058
+#AUTHOR1    N.S.Biryukov+
+#YEAR       1979
+#INSTITUTE  (4RUSFEI)
+#TITLE      Neutrons from the (p,n) reactions on 90,91,94Zr
+#AUTHOR(S)  N.S.Biryukov, B.V.Zhuravrev, A.P.Rudenko, O.A.Salnikov, 
+#+          V.I.Trykova
+#REF-CODE   (J,YF,29,(6),1443,1979)
+#REFERENCE  Yad.Fiz. 29 No.6 (1979) 1443
+#DATASETS   0
+#
+#DATASET    A0058005 
+#DATE       20080618
+#REACTION   40-ZR-90(P,N)41-NB-90,,DA/DE
+#PROJ       1001
+#TARG       40090
+#MF         6
+#MT         4
+#PRODUCT    41-NB-90
+#C4BEGIN    [ 1001 40090   6   4 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40090   6   4 A  1.1200+7 200000.0 4.3940-8 2.6100-9 0.866025          900000.0          E2N.S.Biryukov+        (79)A0058  5 
+ 1001 40090   6   4 A  1.1200+7 200000.0 4.1250-8 2.4500-9 0.500000          900000.0          E2N.S.Biryukov+        (79)A0058  5 
+ 1001 40090   6   4 A  1.1200+7 200000.0 3.7220-8 2.2100-9 6.123-17          900000.0          E2N.S.Biryukov+        (79)A0058  5 
+ 1001 40090   6   4 A  1.1200+7 200000.0 3.7760-8 2.2400-9-0.500000          900000.0          E2N.S.Biryukov+        (79)A0058  5 
+ 1001 40090   6   4 A  1.1200+7 200000.0 3.6850-8 2.1900-9-0.866025          900000.0          E2N.S.Biryukov+        (79)A0058  5 
+#/DATA      5
+#/DATASET

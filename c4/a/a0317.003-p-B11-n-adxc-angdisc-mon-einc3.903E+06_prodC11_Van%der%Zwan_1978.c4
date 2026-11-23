@@ -1,0 +1,36 @@
+#ENTRY      A0317
+#AUTHOR1    L.Van der Zwan+
+#YEAR       1978
+#INSTITUTE  (1CANOTC)
+#TITLE      The 11B(p,n)11C cross section from threshold to 4.9 MeV
+#AUTHOR(S)  L.Van der Zwan, K.W.Geiger
+#REF-CODE   (J,NP/A,306,45,1978)
+#REFERENCE  Nucl.Phys.A 306 (1978) 45
+#DATASETS   0
+#
+#DATASET    A0317003 
+#DATE       20210622
+#REACTION   5-B-11(P,N)6-C-11,,DA
+#PROJ       1001
+#TARG       5011
+#MF         4
+#MT         4
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1001  5011   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5011   4   4  C 3903000.          4.4000-3          1.000000 0.000000                     L.Van der Zwan+      (78)A0317  3 
+ 1001  5011   4   4  C 3903000.          4.8200-3          0.935444 0.024677                     L.Van der Zwan+      (78)A0317  3 
+ 1001  5011   4   4  C 3903000.          5.4900-3          0.819152 0.040043                     L.Van der Zwan+      (78)A0317  3 
+ 1001  5011   4   4  C 3903000.          6.4400-3          0.600420 0.055829                     L.Van der Zwan+      (78)A0317  3 
+ 1001  5011   4   4  C 3903000.          7.2500-3          0.343660 0.065561                     L.Van der Zwan+      (78)A0317  3 
+ 1001  5011   4   4  C 3903000.          8.0700-3          0.034899 0.069771                     L.Van der Zwan+      (78)A0317  3 
+ 1001  5011   4   4  C 3903000.          7.6800-3         -0.213030 0.068211                     L.Van der Zwan+      (78)A0317  3 
+ 1001  5011   4   4  C 3903000.          8.2200-3         -0.466387 0.061755                     L.Van der Zwan+      (78)A0317  3 
+ 1001  5011   4   4  C 3903000.          7.9700-3         -0.653421 0.052848                     L.Van der Zwan+      (78)A0317  3 
+ 1001  5011   4   4  C 3903000.          7.5800-3         -0.820152 0.039943                     L.Van der Zwan+      (78)A0317  3 
+ 1001  5011   4   4  C 3903000.          7.0500-3         -0.909961 0.028951                     L.Van der Zwan+      (78)A0317  3 
+ 1001  5011   4   4  C 3903000.          7.1900-3         -0.964095 0.018539                     L.Van der Zwan+      (78)A0317  3 
+#/DATA      12
+#/DATASET

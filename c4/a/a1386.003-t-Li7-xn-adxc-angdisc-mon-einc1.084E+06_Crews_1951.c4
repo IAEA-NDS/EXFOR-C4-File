@@ -1,0 +1,29 @@
+#ENTRY      A1386
+#AUTHOR1    R.W.Crews+
+#YEAR       1951
+#INSTITUTE  (1USALAS)
+#TITLE      Neutron yield for the Li + T reactions
+#AUTHOR(S)  R.W.Crews
+#REF-CODE   (J,PR,82,100(2),1951)
+#REFERENCE  Phys.Rev. 82 (1951) 100(2)
+#DATASETS   0
+#
+#DATASET    A1386003 
+#DATE       20250919
+#REACTION   3-LI-7(T,X)0-NN-1,,DA
+#PROJ       1003
+#TARG       3007
+#MF         4
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1003  3007   4 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  3007   4 201  C 1084000.          0.044580 7.8000-4 0.999743                              R.W.Crews            (51)A1386  3 
+ 1003  3007   4 201  C 1084000.          0.041940 1.3500-3 0.836764                              R.W.Crews            (51)A1386  3 
+ 1003  3007   4 201  C 1084000.          0.036360 1.5600-3 0.444635                              R.W.Crews            (51)A1386  3 
+ 1003  3007   4 201  C 1084000.          0.031960 1.1700-3-0.068015                              R.W.Crews            (51)A1386  3 
+ 1003  3007   4 201  C 1084000.          0.035350 1.9500-3-0.553392                              R.W.Crews            (51)A1386  3 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      A1508
+#AUTHOR1    M.Laurat+
+#YEAR       1969
+#INSTITUTE  (2FR BRC)
+#TITLE      Elastic and inelastic scattering of 2 to 10 MeV
+#+          protons by lithium isotopes
+#AUTHOR(S)  M.Laurat
+#REF-CODE   (R,CEA-R-3727,1969)
+#REFERENCE  Report CEA-R-3727, 1969
+#DATASETS   0
+#
+#DATASET    A1508005 
+#DATE       20260318
+#REACTION   3-LI-6(P,EL)3-LI-6,,DA
+#PROJ       1001
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 1001  3006   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3006   4   2  C 6000000.          0.033800 7.0000-4-0.942000                              M.Laurat             (69)A1508  5 
+ 1001  3006   4   2  C 6000000.          0.027300 7.0000-4-0.795000                              M.Laurat             (69)A1508  5 
+ 1001  3006   4   2  C 6000000.          0.027300 7.0000-4-0.639000                              M.Laurat             (69)A1508  5 
+ 1001  3006   4   2  C 6000000.          0.026000 7.0000-4-0.457000                              M.Laurat             (69)A1508  5 
+ 1001  3006   4   2  C 6000000.          0.027300 7.0000-4-0.159000                              M.Laurat             (69)A1508  5 
+ 1001  3006   4   2  C 6000000.          0.031900 3.3000-3 0.073000                              M.Laurat             (69)A1508  5 
+ 1001  3006   4   2  C 6000000.          0.050100 3.3000-3 0.335000                              M.Laurat             (69)A1508  5 
+ 1001  3006   4   2  C 6000000.          0.106700 5.9000-3 0.550000                              M.Laurat             (69)A1508  5 
+#/DATA      8
+#/DATASET

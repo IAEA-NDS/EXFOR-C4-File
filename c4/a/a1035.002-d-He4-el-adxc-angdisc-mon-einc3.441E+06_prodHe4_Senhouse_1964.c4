@@ -1,0 +1,33 @@
+#ENTRY      A1035
+#AUTHOR1    L.S.Senhouse+
+#YEAR       1964
+#INSTITUTE  (1USACAL)
+#TITLE      Excited states of 6Li observed through 4He(d,d)4He
+#AUTHOR(S)  L.S.Senhouse, A.Tombrello
+#REF-CODE   (J,NP,57,624,1964)
+#REFERENCE  Nucl.Phys. 57 (1964) 624
+#DATASETS   0
+#
+#DATASET    A1035002 
+#DATE       20240321
+#REACTION   2-HE-4(D,EL)2-HE-4,,DA
+#PROJ       1002
+#TARG       2004
+#MF         4
+#MT         2
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1002  2004   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  2004   4   2  C 3441000. 10000.00 0.110000          0.642788 1.3370-3                     L.S.Senhouse+        (64)A1035  2 
+ 1002  2004   4   2  C 3441000. 10000.00 0.085900          0.500000 1.5115-3                     L.S.Senhouse+        (64)A1035  2 
+ 1002  2004   4   2  C 3441000. 10000.00 0.073500          0.342020 1.6401-3                     L.S.Senhouse+        (64)A1035  2 
+ 1002  2004   4   2  C 3441000. 10000.00 0.065500          0.173648 1.7188-3                     L.S.Senhouse+        (64)A1035  2 
+ 1002  2004   4   2  C 3441000. 10000.00 0.062600          6.123-17 1.7453-3                     L.S.Senhouse+        (64)A1035  2 
+ 1002  2004   4   2  C 3441000. 10000.00 0.062900         -0.173648 1.7188-3                     L.S.Senhouse+        (64)A1035  2 
+ 1002  2004   4   2  C 3441000. 10000.00 0.073400         -0.342020 1.6401-3                     L.S.Senhouse+        (64)A1035  2 
+ 1002  2004   4   2  C 3441000. 10000.00 0.090500         -0.500000 1.5115-3                     L.S.Senhouse+        (64)A1035  2 
+ 1002  2004   4   2  C 3441000. 10000.00 0.101800         -0.642788 1.3370-3                     L.S.Senhouse+        (64)A1035  2 
+#/DATA      9
+#/DATASET

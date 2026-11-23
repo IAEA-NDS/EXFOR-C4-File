@@ -1,0 +1,28 @@
+#ENTRY      A1014
+#AUTHOR1    M.Ivanovich+
+#YEAR       1968
+#INSTITUTE  (3AULCBR)
+#TITLE      Elastic scattering of several hydrogen and helium
+#+          isotopes from tritium
+#AUTHOR(S)  M.Ivanovich, P.G.Young, G.G.Ohlsen
+#REF-CODE   (J,NP/A,110,441,1968)
+#REFERENCE  Nucl.Phys.A 110 (1968) 441
+#DATASETS   0
+#
+#DATASET    A1014009 
+#DATE       20260401
+#REACTION   1-H-3(A,EL)1-H-3,,DA
+#PROJ       2004
+#TARG       1003
+#MF         4
+#MT         2
+#PRODUCT    1-H-3
+#C4BEGIN    [ 2004  1003   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  1003   4   2  C 4160000.          0.637900 0.012758 0.818150                              M.Ivanovich+         (68)A1014  9 
+ 2004  1003   4   2  C 4160000.          0.021500 4.3000-4-0.766044                              M.Ivanovich+         (68)A1014  9 
+ 2004  1003   4   2  C 4160000.          0.016300 3.2600-4-0.866025                              M.Ivanovich+         (68)A1014  9 
+#/DATA      3
+#/DATASET

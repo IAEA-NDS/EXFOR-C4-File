@@ -1,0 +1,26 @@
+#ENTRY      A1020
+#AUTHOR1    D.Kohler+
+#YEAR       1963
+#INSTITUTE  (1USASTF)
+#TITLE      Radiative capture of 3H by 3He
+#AUTHOR(S)  D.Kohler, S.M.Austin
+#REF-CODE   (J,BAP,8,290(A2),1963)
+#REFERENCE  Bull.Am.Phys.Soc. 8 (1963) 290(A2)
+#DATASETS   0
+#
+#DATASET    A1020002 
+#DATE       20200305
+#REACTION   1-H-3(HE3,G)3-LI-6,PAR,DA
+#PROJ       2003
+#TARG       1003
+#MF         4
+#MT         900
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 2003  1003   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  1003   4 900    1100000.          1.4000-6 5.6000-7 6.123-17          0.000000         LVLD.Kohler+            (63)A1020  2 
+ 2003  1003   4 900    3000000.          8.0000-6 3.2000-6 6.123-17          0.000000         LVLD.Kohler+            (63)A1020  2 
+#/DATA      2
+#/DATASET

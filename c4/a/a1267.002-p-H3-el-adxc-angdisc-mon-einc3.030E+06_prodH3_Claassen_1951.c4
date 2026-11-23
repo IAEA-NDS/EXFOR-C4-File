@@ -1,0 +1,36 @@
+#ENTRY      A1267
+#AUTHOR1    R.S.Claassen+
+#YEAR       1951
+#INSTITUTE  (1USAMIN)
+#TITLE      The scattering of protons by tritons
+#AUTHOR(S)  R.S.Claassen, J.S.Brown, G.D.Freier, W.R.Stratton
+#REF-CODE   (J,PR,82,589,1951)
+#REFERENCE  Phys.Rev. 82 (1951) 589
+#DATASETS   0
+#
+#DATASET    A1267002 
+#DATE       20250907
+#REACTION   1-H-3(P,EL)1-H-3,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         2
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1001  1003   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4   2  C 3030000.          0.240000 0.012000 0.577858                              R.S.Claassen+        (51)A1267  2 
+ 1001  1003   4   2  C 3030000.          0.212000 0.010600 0.521010                              R.S.Claassen+        (51)A1267  2 
+ 1001  1003   4   2  C 3030000.          0.190000 9.5000-3 0.425779                              R.S.Claassen+        (51)A1267  2 
+ 1001  1003   4   2  C 3030000.          0.141000 7.0500-3 0.228351                              R.S.Claassen+        (51)A1267  2 
+ 1001  1003   4   2  C 3030000.          0.124000 6.2000-3 0.173648                              R.S.Claassen+        (51)A1267  2 
+ 1001  1003   4   2  C 3030000.          0.095000 4.7500-3 6.123-17                              R.S.Claassen+        (51)A1267  2 
+ 1001  1003   4   2  C 3030000.          0.092000 4.6000-3-0.109734                              R.S.Claassen+        (51)A1267  2 
+ 1001  1003   4   2  C 3030000.          0.085000 4.2500-3-0.333807                              R.S.Claassen+        (51)A1267  2 
+ 1001  1003   4   2  C 3030000.          0.106500 5.3250-3-0.573576                              R.S.Claassen+        (51)A1267  2 
+ 1001  1003   4   2  C 3030000.          0.140000 7.0000-3-0.721760                              R.S.Claassen+        (51)A1267  2 
+ 1001  1003   4   2  C 3030000.          0.186000 9.3000-3-0.886204                              R.S.Claassen+        (51)A1267  2 
+ 1001  1003   4   2  C 3030000.          0.221000 0.011050-0.980615                              R.S.Claassen+        (51)A1267  2 
+#/DATA      12
+#/DATASET

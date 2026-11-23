@@ -1,0 +1,45 @@
+#ENTRY      A1302
+#AUTHOR1    G.Rauprich+
+#YEAR       1988
+#INSTITUTE  (2GERKLN)
+#TITLE      Measurement of D(p,p)D elastic scattering at 10.0,
+#+          12.0, 14.1 and 16.5 MeV especially for small forward
+#+          and extreme backward scattering angles
+#AUTHOR(S)  G.Rauprich, H.J.Hahn, M.Karus, P.Nieben, K.R.Nyga, H.Oswald, 
+#+          L.Sydow, H.Paetz Gen.Schieck, Y.Koike
+#REF-CODE   (J,FBS,5,67,1988)
+#REFERENCE  Few-Body Sys. 5 (1988) 67
+#DATASETS   0
+#
+#DATASET    A1302002 
+#DATE       20250912
+#REACTION   1-H-2(P,EL)1-H-2,,DA
+#PROJ       1001
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   4   2  C 1.2000+7          0.117400          0.790155 3.2092-3                     G.Rauprich+          (88)A1302  2 
+ 1001  1002   4   2  C 1.2000+7          0.108500          0.705872 3.7089-3                     G.Rauprich+          (88)A1302  2 
+ 1001  1002   4   2  C 1.2000+7          0.095600          0.608761 4.1540-3                     G.Rauprich+          (88)A1302  2 
+ 1001  1002   4   2  C 1.2000+7          0.084700          0.519519 4.4739-3                     G.Rauprich+          (88)A1302  2 
+ 1001  1002   4   2  C 1.2000+7          0.073700          0.406737 4.7833-3                     G.Rauprich+          (88)A1302  2 
+ 1001  1002   4   2  C 1.2000+7          0.063800          0.295708 5.0018-3                     G.Rauprich+          (88)A1302  2 
+ 1001  1002   4   2  C 1.2000+7          0.048900          0.161604 5.1672-3                     G.Rauprich+          (88)A1302  2 
+ 1001  1002   4   2  C 1.2000+7          0.036000         -0.015707 5.2353-3                     G.Rauprich+          (88)A1302  2 
+ 1001  1002   4   2  C 1.2000+7          0.024000         -0.182236 5.1483-3                     G.Rauprich+          (88)A1302  2 
+ 1001  1002   4   2  C 1.2000+7          0.016100         -0.343660 4.9171-3                     G.Rauprich+          (88)A1302  2 
+ 1001  1002   4   2  C 1.2000+7          0.013000         -0.512043 4.4975-3                     G.Rauprich+          (88)A1302  2 
+ 1001  1002   4   2  C 1.2000+7          0.015000         -0.649448 3.9815-3                     G.Rauprich+          (88)A1302  2 
+ 1001  1002   4   2  C 1.2000+7          0.129600         -0.985703 8.8221-4                     G.Rauprich+          (88)A1302  2 
+ 1001  1002   4   2  C 1.2000+7          0.134600         -0.989016 7.7393-4                     G.Rauprich+          (88)A1302  2 
+ 1001  1002   4   2  C 1.2000+7          0.136500         -0.991671 6.7437-4                     G.Rauprich+          (88)A1302  2 
+ 1001  1002   4   2  C 1.2000+7          0.144400         -0.997564 3.6524-4                     G.Rauprich+          (88)A1302  2 
+ 1001  1002   4   2  C 1.2000+7          0.147400         -0.999194 2.1013-4                     G.Rauprich+          (88)A1302  2 
+ 1001  1002   4   2  C 1.2000+7          0.147400         -0.999945 5.4830-5                     G.Rauprich+          (88)A1302  2 
+#/DATA      18
+#/DATASET

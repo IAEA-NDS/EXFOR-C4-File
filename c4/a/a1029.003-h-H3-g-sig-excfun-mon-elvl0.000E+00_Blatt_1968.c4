@@ -1,0 +1,40 @@
+#ENTRY      A1029
+#AUTHOR1    S.L.Blatt+
+#YEAR       1968
+#INSTITUTE  (1USAOSU)
+#TITLE      Reaction T(3He,gamma)6Li in the energy range 0.5-11 MeV
+#AUTHOR(S)  S.L.Blatt, A.M.Young, S.C.Ling, K.J.Moon, C.D.Porterfield
+#REF-CODE   (J,PR,176,1147,1968)
+#REFERENCE  Phys.Rev. 176 (1968) 1147
+#DATASETS   0
+#
+#DATASET    A1029003 
+#DATE       20240321
+#REACTION   1-H-3(HE3,G)3-LI-6,PAR,SIG
+#PROJ       2003
+#TARG       1003
+#MF         3
+#MT         900
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 2003  1003   3 900 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  1003   3 900 D  510000.0          4.8000-6                            0.000000         LVLS.L.Blatt+           (68)A1029  3 
+ 2003  1003   3 900 D  1100000.          1.4400-5                            0.000000         LVLS.L.Blatt+           (68)A1029  3 
+ 2003  1003   3 900 D  1650000.          2.0800-5                            0.000000         LVLS.L.Blatt+           (68)A1029  3 
+ 2003  1003   3 900 D  1920000.          3.8700-5 4.9000-6                   0.000000         LVLS.L.Blatt+           (68)A1029  3 
+ 2003  1003   3 900 D  2730000.          5.9700-5                            0.000000         LVLS.L.Blatt+           (68)A1029  3 
+ 2003  1003   3 900 D  3250000.          6.6100-5                            0.000000         LVLS.L.Blatt+           (68)A1029  3 
+ 2003  1003   3 900 D  3770000.          7.5800-5                            0.000000         LVLS.L.Blatt+           (68)A1029  3 
+ 2003  1003   3 900 D  4030000.          8.2200-5 1.1500-5                   0.000000         LVLS.L.Blatt+           (68)A1029  3 
+ 2003  1003   3 900 D  4280000.          8.0500-5                            0.000000         LVLS.L.Blatt+           (68)A1029  3 
+ 2003  1003   3 900 D  4540000.          9.0300-5                            0.000000         LVLS.L.Blatt+           (68)A1029  3 
+ 2003  1003   3 900 D  4800000.          8.8500-5                            0.000000         LVLS.L.Blatt+           (68)A1029  3 
+ 2003  1003   3 900 D  5300000.          9.3300-5 1.3100-5                   0.000000         LVLS.L.Blatt+           (68)A1029  3 
+ 2003  1003   3 900 D  6340000.          9.1400-5 1.4700-5                   0.000000         LVLS.L.Blatt+           (68)A1029  3 
+ 2003  1003   3 900 D  7860000.          8.6000-5 1.8000-5                   0.000000         LVLS.L.Blatt+           (68)A1029  3 
+ 2003  1003   3 900 D  9380000.          9.3700-5 2.0000-5                   0.000000         LVLS.L.Blatt+           (68)A1029  3 
+ 2003  1003   3 900 D  1.1000+7          1.0630-4 1.8000-5                   0.000000         LVLS.L.Blatt+           (68)A1029  3 
+#/DATA      16
+#/DATASET

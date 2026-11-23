@@ -1,0 +1,26 @@
+#ENTRY      A1030
+#AUTHOR1    D.C.Kocher+
+#YEAR       1969
+#INSTITUTE  (1USAWIS)
+#TITLE      Cross sections for proton-deuteron scattering from 1.0
+#+          10.0 MeV
+#AUTHOR(S)  D.C.Kocher, T.B.Clegg
+#REF-CODE   (J,NP/A,132,455,1969)
+#REFERENCE  Nucl.Phys.A 132 (1969) 455
+#DATASETS   0
+#
+#DATASET    A1030004 
+#DATE       20240317
+#REACTION   1-H-2(P,EL)1-H-2,,DA,,AV
+#PROJ       1001
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001  1002   4   2 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   4   2 DC 3998000.          0.126200 0.000000-0.719340                              D.C.Kocher+          (69)A1030  4 
+#/DATA      1
+#/DATASET

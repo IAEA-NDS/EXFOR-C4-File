@@ -1,0 +1,34 @@
+#ENTRY      A1080
+#AUTHOR1    L.Kraus+
+#YEAR       1974
+#INSTITUTE  (2FR STR)
+#TITLE      Study of P3/2 and P1/2 states for nuclei 5He and 5Li
+#+          by measurement of n + 4He and p + 4He differential
+#+          cross section
+#AUTHOR(S)  L.Kraus, I.Linck
+#REF-CODE   (J,NP/A,224,45,1974)
+#REFERENCE  Nucl.Phys.A 224 (1974) 45
+#DATASETS   0
+#
+#DATASET    A1080003 
+#DATE       20240704
+#REACTION   2-HE-4(P,EL)2-HE-4,,DA
+#PROJ       1001
+#TARG       2004
+#MF         4
+#MT         2
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  2004   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  2004   4   2  C 750000.0          0.319800          0.547563                              L.Kraus+             (74)A1080  3 
+ 1001  2004   4   2  C 750000.0          0.164700          0.309017                              L.Kraus+             (74)A1080  3 
+ 1001  2004   4   2  C 750000.0          0.114900          6.123-17                              L.Kraus+             (74)A1080  3 
+ 1001  2004   4   2  C 750000.0          0.090480         -0.262189                              L.Kraus+             (74)A1080  3 
+ 1001  2004   4   2  C 750000.0          0.085440         -0.519519                              L.Kraus+             (74)A1080  3 
+ 1001  2004   4   2  C 750000.0          0.083300         -0.828060                              L.Kraus+             (74)A1080  3 
+ 1001  2004   4   2  C 750000.0          0.086040         -0.915663                              L.Kraus+             (74)A1080  3 
+ 1001  2004   4   2  C 750000.0          0.086260         -0.980271                              L.Kraus+             (74)A1080  3 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      A1181
+#AUTHOR1    H.Berg+
+#YEAR       1980
+#INSTITUTE  (2GERJLU)
+#TITLE      Differential cross section, analyzing power and phase
+#+          shifts for p - 3He elastic scattering below 1.0 MeV
+#AUTHOR(S)  H.Berg, W.Arnold, E.Huttel, H.H.Krause, J.Ulbricht, G.Clausnitzer
+#REF-CODE   (J,NP/A,334,21,1980)
+#REFERENCE  Nucl.Phys.A 334 (1980) 21
+#DATASETS   0
+#
+#DATASET    A1181002 
+#DATE       20250730
+#REACTION   2-HE-3(P,EL)2-HE-3,,DA
+#PROJ       1001
+#TARG       2003
+#MF         4
+#MT         2
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  2003   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  2003   4   2  C 400000.0          0.342050 1.0600-3 0.342020                              H.Berg+              (80)A1181  2 
+ 1001  2003   4   2  C 400000.0          0.260380 9.3000-4 0.173648                              H.Berg+              (80)A1181  2 
+ 1001  2003   4   2  C 400000.0          0.212450 7.8000-4 6.123-17                              H.Berg+              (80)A1181  2 
+ 1001  2003   4   2  C 400000.0          0.184890 8.1000-4-0.173648                              H.Berg+              (80)A1181  2 
+ 1001  2003   4   2  C 400000.0          0.165300 7.1000-4-0.342020                              H.Berg+              (80)A1181  2 
+ 1001  2003   4   2  C 400000.0          0.150510 7.2000-4-0.500000                              H.Berg+              (80)A1181  2 
+ 1001  2003   4   2  C 400000.0          0.141590 6.6000-4-0.642788                              H.Berg+              (80)A1181  2 
+#/DATA      7
+#/DATASET

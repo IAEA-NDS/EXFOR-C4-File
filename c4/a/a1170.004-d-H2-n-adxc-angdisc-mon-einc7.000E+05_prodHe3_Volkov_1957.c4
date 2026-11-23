@@ -1,0 +1,36 @@
+#ENTRY      A1170
+#AUTHOR1    V.V.Volkov+
+#YEAR       1957
+#INSTITUTE  (4RUSKUR)
+#TITLE      Investigation of the D-D reaction in the deuteron
+#+          energy range 0.20 to 1.75 MeV
+#AUTHOR(S)  V.V.Volkov, P.E.Vorotnikov, E.A.Koltypin, N.I.Sidorov, G.B.Iankov
+#REF-CODE   (J,AE/S,,(5),15,1957)
+#REFERENCE  At.En. Suppl.  No.5 (1957) 15
+#DATASETS   0
+#
+#DATASET    A1170004 
+#DATE       20140410
+#REACTION   1-H-2(D,N)2-HE-3,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         4
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1002  1002   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4   4  C 700000.0          0.013630 1.1586-3 0.994865                              V.V.Volkov+          (57)A1170  4 
+ 1002  1002   4   4  C 700000.0          0.012040 1.0234-3 0.951326                              V.V.Volkov+          (57)A1170  4 
+ 1002  1002   4   4  C 700000.0          9.8050-3 8.3343-4 0.873857                              V.V.Volkov+          (57)A1170  4 
+ 1002  1002   4   4  C 700000.0          6.0940-3 5.1799-4 0.602930                              V.V.Volkov+          (57)A1170  4 
+ 1002  1002   4   4  C 700000.0          4.2400-3 3.6040-4 0.177772                              V.V.Volkov+          (57)A1170  4 
+ 1002  1002   4   4  C 700000.0          4.4650-3 3.7953-4-0.260505                              V.V.Volkov+          (57)A1170  4 
+ 1002  1002   4   4  C 700000.0          8.5700-3 7.2845-4-0.689620                              V.V.Volkov+          (57)A1170  4 
+ 1002  1002   4   4  C 700000.0          7.9990-3 6.7992-4-0.732543                              V.V.Volkov+          (57)A1170  4 
+ 1002  1002   4   4  C 700000.0          0.010740 9.1290-4-0.835807                              V.V.Volkov+          (57)A1170  4 
+ 1002  1002   4   4  C 700000.0          0.012600 1.0710-3-0.904827                              V.V.Volkov+          (57)A1170  4 
+ 1002  1002   4   4  C 700000.0          0.014480 1.2308-3-0.969016                              V.V.Volkov+          (57)A1170  4 
+#/DATA      11
+#/DATASET

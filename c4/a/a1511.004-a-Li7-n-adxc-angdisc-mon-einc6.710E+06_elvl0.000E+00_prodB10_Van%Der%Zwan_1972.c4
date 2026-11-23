@@ -1,0 +1,34 @@
+#ENTRY      A1511
+#AUTHOR1    L.Van Der Zwan+
+#YEAR       1972
+#INSTITUTE  (1CANOTC)
+#TITLE      The 7Li(alpha,n)10B0 differential cross section for
+#+          alpha-energies of up to 8 MeV
+#AUTHOR(S)  L.Van Der Zwan, K.W.Geiger
+#REF-CODE   (J,NP/A,180,615,1972)
+#REFERENCE  Nucl.Phys.A 180 (1972) 615
+#DATASETS   0
+#
+#DATASET    A1511004 
+#DATE       20260318
+#REACTION   3-LI-7(A,N)5-B-10,PAR,DA
+#PROJ       2004
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    5-B-10
+#C4BEGIN    [ 2004  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  3007   4  50  C 6710000.          9.2900-3 3.2000-4 0.999994          0.000000         LVLL.Van Der Zwan+      (72)A1511  4 
+ 2004  3007   4  50  C 6710000.          9.6300-3 2.5000-4 0.934826          0.000000         LVLL.Van Der Zwan+      (72)A1511  4 
+ 2004  3007   4  50  C 6710000.          0.010350 4.4000-4 0.753563          0.000000         LVLL.Van Der Zwan+      (72)A1511  4 
+ 2004  3007   4  50  C 6710000.          9.8000-3 3.2000-4 0.498488          0.000000         LVLL.Van Der Zwan+      (72)A1511  4 
+ 2004  3007   4  50  C 6710000.          8.8000-3 3.2000-4 0.195946          0.000000         LVLL.Van Der Zwan+      (72)A1511  4 
+ 2004  3007   4  50  C 6710000.          8.2500-3 2.5000-4-0.113203          0.000000         LVLL.Van Der Zwan+      (72)A1511  4 
+ 2004  3007   4  50  C 6710000.          7.8100-3 4.4000-4-0.369747          0.000000         LVLL.Van Der Zwan+      (72)A1511  4 
+ 2004  3007   4  50  C 6710000.          8.3800-3 4.4000-4-0.594823          0.000000         LVLL.Van Der Zwan+      (72)A1511  4 
+ 2004  3007   4  50  C 6710000.          8.6800-3 3.1000-4-0.759271          0.000000         LVLL.Van Der Zwan+      (72)A1511  4 
+#/DATA      9
+#/DATASET

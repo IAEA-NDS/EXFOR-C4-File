@@ -1,0 +1,31 @@
+#ENTRY      A1217
+#AUTHOR1    J.M.Blair+
+#YEAR       1948
+#INSTITUTE  (1USAMIN)
+#TITLE      The angular distribution of 1 to 3.5 MeV deuterons
+#+          scattered by deuterons
+#AUTHOR(S)  J.M.Blair, G.Freier, E.Lampi, W.Sleator, J.H.Williams
+#REF-CODE   (J,PR,74,1594,1948)
+#REFERENCE  Phys.Rev. 74 (1948) 1594
+#DATASETS   0
+#
+#DATASET    A1217002 
+#DATE       20250823
+#REACTION   1-H-2(D,EL)1-H-2,,DA
+#PROJ       1002
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1002  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  1002   4   2  C 960000.0          11.08000 0.277000 0.939693                              J.M.Blair+           (48)A1217  2 
+ 1002  1002   4   2  C 960000.0          2.570000 0.064250 0.866025                              J.M.Blair+           (48)A1217  2 
+ 1002  1002   4   2  C 960000.0          1.119000 0.027975 0.766044                              J.M.Blair+           (48)A1217  2 
+ 1002  1002   4   2  C 960000.0          0.703000 0.017575 0.642788                              J.M.Blair+           (48)A1217  2 
+ 1002  1002   4   2  C 960000.0          0.517000 0.012925 0.500000                              J.M.Blair+           (48)A1217  2 
+ 1002  1002   4   2  C 960000.0          0.430000 0.010750 0.342020                              J.M.Blair+           (48)A1217  2 
+#/DATA      6
+#/DATASET

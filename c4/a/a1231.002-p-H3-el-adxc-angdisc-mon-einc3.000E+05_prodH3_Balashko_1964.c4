@@ -1,0 +1,29 @@
+#ENTRY      A1231
+#AUTHOR1    Yu.G.Balashko+
+#YEAR       1964
+#INSTITUTE  (4RUSLEB)
+#TITLE      Elastic scattering of protons by tritium at energies
+#+          below the threshold of the (p,n) reactions.
+#AUTHOR(S)  Yu.G.Balashko, I.Ja.Barit, L.S.Dulkova, A.B.Kurepin
+#REF-CODE   (J,IZV,28,1124,1964)
+#REFERENCE  Izv.Ross.AN,Fiz. 28 (1964) 1124
+#DATASETS   0
+#
+#DATASET    A1231002 
+#DATE       20140302
+#REACTION   1-H-3(P,EL)1-H-3,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         2
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1001  1003   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4   2  C 300000.0          1.700000 0.190000 0.766044 0.016828                     Yu.G.Balashko+       (64)A1231  2 
+ 1001  1003   4   2  C 300000.0          0.635000 0.030000 0.567556 0.021555                     Yu.G.Balashko+       (64)A1231  2 
+ 1001  1003   4   2  C 300000.0          0.416000 0.017000 0.342020 0.024601                     Yu.G.Balashko+       (64)A1231  2 
+ 1001  1003   4   2  C 300000.0          0.256000 0.040000 0.030539 0.026168                     Yu.G.Balashko+       (64)A1231  2 
+#/DATA      4
+#/DATASET

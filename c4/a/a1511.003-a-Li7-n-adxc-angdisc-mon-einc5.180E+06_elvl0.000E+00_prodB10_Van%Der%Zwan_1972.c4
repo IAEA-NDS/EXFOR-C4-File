@@ -1,0 +1,36 @@
+#ENTRY      A1511
+#AUTHOR1    L.Van Der Zwan+
+#YEAR       1972
+#INSTITUTE  (1CANOTC)
+#TITLE      The 7Li(alpha,n)10B0 differential cross section for
+#+          alpha-energies of up to 8 MeV
+#AUTHOR(S)  L.Van Der Zwan, K.W.Geiger
+#REF-CODE   (J,NP/A,180,615,1972)
+#REFERENCE  Nucl.Phys.A 180 (1972) 615
+#DATASETS   0
+#
+#DATASET    A1511003 
+#DATE       20260318
+#REACTION   3-LI-7(A,N)5-B-10,PAR,DA
+#PROJ       2004
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    5-B-10
+#C4BEGIN    [ 2004  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  3007   4  50  C 5180000.          1.9180-3          0.999962          0.000000         LVLL.Van Der Zwan+      (72)A1511  3 
+ 2004  3007   4  50  C 5180000.          1.7470-3          0.915663          0.000000         LVLL.Van Der Zwan+      (72)A1511  3 
+ 2004  3007   4  50  C 5180000.          1.6760-3          0.678160          0.000000         LVLL.Van Der Zwan+      (72)A1511  3 
+ 2004  3007   4  50  C 5180000.          1.8030-3          0.351842          0.000000         LVLL.Van Der Zwan+      (72)A1511  3 
+ 2004  3007   4  50  C 5180000.          1.9310-3         -0.026177          0.000000         LVLL.Van Der Zwan+      (72)A1511  3 
+ 2004  3007   4  50  C 5180000.          2.0830-3 1.9900-4-0.345298          0.000000         LVLL.Van Der Zwan+      (72)A1511  3 
+ 2004  3007   4  50  C 5180000.          2.7830-3 1.9900-4-0.592013          0.000000         LVLL.Van Der Zwan+      (72)A1511  3 
+ 2004  3007   4  50  C 5180000.          3.4820-3 3.2400-4-0.766044          0.000000         LVLL.Van Der Zwan+      (72)A1511  3 
+ 2004  3007   4  50  C 5180000.          3.6580-3 4.9800-4-0.872922          0.000000         LVLL.Van Der Zwan+      (72)A1511  3 
+ 2004  3007   4  50  C 5180000.          3.6840-3 6.9800-4-0.934204          0.000000         LVLL.Van Der Zwan+      (72)A1511  3 
+ 2004  3007   4  50  C 5180000.          3.3610-3 9.4700-4-0.974370          0.000000         LVLL.Van Der Zwan+      (72)A1511  3 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,42 @@
+#ENTRY      A0686
+#AUTHOR1    A.Pakou+
+#YEAR       2003
+#INSTITUTE  (2GRCIOA)
+#TITLE      The elastic scattering of 6Li+28Si at near-barrier
+#+          energies
+#AUTHOR(S)  A.Pakou, N.Alamanos, A.Lagoyannisa, A.Gillibert, E.C.Pollacco, 
+#+          P.A.Assimakopoulos, G.Doukelis, K.G.Ioannides, D.Karadimos, 
+#+          D.Karamanis, M.Kokkoris, E.Kossionides, N.G.Nicolis, C.Papachristodoulou, 
+#+          N.Patronis, G.Perdikakis, D.Pierroutsakou
+#REF-CODE   (J,PL/B,556,21,2003)
+#REFERENCE  Phys.Lett.B 556 (2003) 21
+#DATASETS   0
+#
+#DATASET    A0686002 
+#DATE       20040716
+#REACTION   14-SI-28(3-LI-6,EL)14-SI-28,,DA,,RTH
+#PROJ       3006
+#TARG       14028
+#MF         4
+#MT         2
+#PRODUCT    14-SI-28
+#C4BEGIN    [ 3006 14028   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 14028   4   2 AC 1.3000+7          4.239456 4.8933-3 0.864187 0.017564                     A.Pakou+             (03)A0686  2 
+ 3006 14028   4   2 AC 1.3000+7          1.819196 3.8706-3 0.807269 0.020601                     A.Pakou+             (03)A0686  2 
+ 3006 14028   4   2 AC 1.3000+7          0.439838 2.1992-3 0.669908 0.025916                     A.Pakou+             (03)A0686  2 
+ 3006 14028   4   2 AC 1.3000+7          0.118054 2.1764-3 0.507839 0.030070                     A.Pakou+             (03)A0686  2 
+ 3006 14028   4   2 AC 1.3000+7          0.047689 7.8296-4 0.330020 0.032951                     A.Pakou+             (03)A0686  2 
+ 3006 14028   4   2 AC 1.3000+7          0.025682 2.4459-3 0.191837 0.034258                     A.Pakou+             (03)A0686  2 
+ 3006 14028   4   2 AC 1.3000+7          0.012150 1.2150-3 6.9813-3 0.034906                     A.Pakou+             (03)A0686  2 
+ 3006 14028   4   2 AC 1.3000+7          6.5427-3 5.8158-4-0.171929 0.034387                     A.Pakou+             (03)A0686  2 
+ 3006 14028   4   2 AC 1.3000+7          3.8371-3 3.7898-4-0.298508 0.033315                     A.Pakou+             (03)A0686  2 
+ 3006 14028   4   2 AC 1.3000+7          2.7909-3 1.8754-4-0.378229 0.032313                     A.Pakou+             (03)A0686  2 
+ 3006 14028   4   2 AC 1.3000+7          2.0269-3 1.1337-4-0.524818 0.029713                     A.Pakou+             (03)A0686  2 
+ 3006 14028   4   2 AC 1.3000+7          1.4625-3 1.4625-4-0.652495 0.026452                     A.Pakou+             (03)A0686  2 
+ 3006 14028   4   2 AC 1.3000+7          1.0126-3 1.3323-4-0.731354 0.023806                     A.Pakou+             (03)A0686  2 
+ 3006 14028   4   2 AC 1.3000+7          7.4175-4 6.9389-5-0.827081 0.019620                     A.Pakou+             (03)A0686  2 
+#/DATA      14
+#/DATASET

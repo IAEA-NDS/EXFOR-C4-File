@@ -1,0 +1,39 @@
+#ENTRY      A1129
+#AUTHOR1    R.Kankowsky+
+#YEAR       1976
+#INSTITUTE  (2GERUEN)
+#TITLE      Elastic scattering of polarized protons on tritons
+#+          between 4 and 12 MeV
+#AUTHOR(S)  R.Kankowsky, J.C.Fritz, K.Kilian, A.Neufert, D.Fick
+#REF-CODE   (J,NP/A,263,29,1976)
+#REFERENCE  Nucl.Phys.A 263 (1976) 29
+#DATASETS   0
+#
+#DATASET    A1129002 
+#DATE       20240710
+#REACTION   1-H-3(P,EL)1-H-3,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         2
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1001  1003   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4   2  C 9900000.          0.210100          0.662620 0.045751                     R.Kankowsky+         (76)A1129  2 
+ 1001  1003   4   2  C 9900000.          0.149600          0.480223 0.053582                     R.Kankowsky+         (76)A1129  2 
+ 1001  1003   4   2  C 9900000.          0.092070          0.272280 0.058779                     R.Kankowsky+         (76)A1129  2 
+ 1001  1003   4   2  C 9900000.          0.052730          0.083678 0.060872                     R.Kankowsky+         (76)A1129  2 
+ 1001  1003   4   2  C 9900000.          0.024580         -0.121869 0.060631                     R.Kankowsky+         (76)A1129  2 
+ 1001  1003   4   2  C 9900000.          0.011890         -0.285688 0.058541                     R.Kankowsky+         (76)A1129  2 
+ 1001  1003   4   2  C 9900000.          8.7770-3         -0.449319 0.054573                     R.Kankowsky+         (76)A1129  2 
+ 1001  1003   4   2  C 9900000.          0.010390         -0.526956 0.051917                     R.Kankowsky+         (76)A1129  2 
+ 1001  1003   4   2  C 9900000.          0.016440         -0.601815 0.048786                     R.Kankowsky+         (76)A1129  2 
+ 1001  1003   4   2  C 9900000.          0.021450         -0.670427 0.045325                     R.Kankowsky+         (76)A1129  2 
+ 1001  1003   4   2  C 9900000.          0.034340         -0.760406 0.039673                     R.Kankowsky+         (76)A1129  2 
+ 1001  1003   4   2  C 9900000.          0.051770         -0.842452 0.032912                     R.Kankowsky+         (76)A1129  2 
+ 1001  1003   4   2  C 9900000.          0.069140         -0.912120 0.025041                     R.Kankowsky+         (76)A1129  2 
+ 1001  1003   4   2  C 9900000.          0.087990         -0.959314 0.017247                     R.Kankowsky+         (76)A1129  2 
+#/DATA      14
+#/DATASET

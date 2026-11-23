@@ -1,0 +1,30 @@
+#ENTRY      A1073
+#AUTHOR1    H.Schroder+
+#YEAR       1970
+#INSTITUTE  (2GERFRB)
+#TITLE      Study of 5Li around 20 MeV excitation energy by a
+#+          radiative capture reaction
+#AUTHOR(S)  H.Schroder, W.Mausberg
+#REF-CODE   (J,ZP,235,234,1970)
+#REFERENCE  Z.Phys. 235 (1970) 234
+#DATASETS   0
+#
+#DATASET    A1073003 
+#DATE       20240703
+#REACTION   1-H-2(HE3,G)3-LI-5,PAR,DA
+#PROJ       2003
+#TARG       1002
+#MF         4
+#MT         900
+#PRODUCT    3-LI-5
+#C4BEGIN    [ 2003  1002   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  1002   4 900  C 1.8000+7 20000.00 2.7000-6 2.0000-7 0.999328          0.000000         LVLH.Schroder+          (70)A1073  3 
+ 2003  1002   4 900  C 1.8000+7 20000.00 2.8000-6 2.0000-7 0.857167          0.000000         LVLH.Schroder+          (70)A1073  3 
+ 2003  1002   4 900  C 1.8000+7 20000.00 3.0000-6 7.0000-8 0.507538          0.000000         LVLH.Schroder+          (70)A1073  3 
+ 2003  1002   4 900  C 1.8000+7 20000.00 2.8000-6 2.0000-7-0.151261          0.000000         LVLH.Schroder+          (70)A1073  3 
+ 2003  1002   4 900  C 1.8000+7 20000.00 2.5000-6 4.0000-7-0.764921          0.000000         LVLH.Schroder+          (70)A1073  3 
+#/DATA      5
+#/DATASET

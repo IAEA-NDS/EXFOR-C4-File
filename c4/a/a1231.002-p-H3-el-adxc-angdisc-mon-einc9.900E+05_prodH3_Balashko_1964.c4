@@ -1,0 +1,34 @@
+#ENTRY      A1231
+#AUTHOR1    Yu.G.Balashko+
+#YEAR       1964
+#INSTITUTE  (4RUSLEB)
+#TITLE      Elastic scattering of protons by tritium at energies
+#+          below the threshold of the (p,n) reactions.
+#AUTHOR(S)  Yu.G.Balashko, I.Ja.Barit, L.S.Dulkova, A.B.Kurepin
+#REF-CODE   (J,IZV,28,1124,1964)
+#REFERENCE  Izv.Ross.AN,Fiz. 28 (1964) 1124
+#DATASETS   0
+#
+#DATASET    A1231002 
+#DATE       20140302
+#REACTION   1-H-3(P,EL)1-H-3,,DA
+#PROJ       1001
+#TARG       1003
+#MF         4
+#MT         2
+#PRODUCT    1-H-3
+#C4BEGIN    [ 1001  1003   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1003   4   2  C 990000.0          0.266000 0.012000 0.766044 0.016828                     Yu.G.Balashko+       (64)A1231  2 
+ 1001  1003   4   2  C 990000.0          0.180000 0.013000 0.567556 0.021555                     Yu.G.Balashko+       (64)A1231  2 
+ 1001  1003   4   2  C 990000.0          0.201000 0.010000 0.030539 0.026168                     Yu.G.Balashko+       (64)A1231  2 
+ 1001  1003   4   2  C 990000.0          0.194000 6.0000-3-0.087156 0.026080                     Yu.G.Balashko+       (64)A1231  2 
+ 1001  1003   4   2  C 990000.0          0.214000 7.0000-3-0.312335 0.024870                     Yu.G.Balashko+       (64)A1231  2 
+ 1001  1003   4   2  C 990000.0          0.227000 6.0000-3-0.489382 0.022831                     Yu.G.Balashko+       (64)A1231  2 
+ 1001  1003   4   2  C 990000.0          0.225000 6.0000-3-0.515038 0.022441                     Yu.G.Balashko+       (64)A1231  2 
+ 1001  1003   4   2  C 990000.0          0.239000 7.0000-3-0.615661 0.020630                     Yu.G.Balashko+       (64)A1231  2 
+ 1001  1003   4   2  C 990000.0          0.281000 0.011000-0.882948 0.012291                     Yu.G.Balashko+       (64)A1231  2 
+#/DATA      9
+#/DATASET

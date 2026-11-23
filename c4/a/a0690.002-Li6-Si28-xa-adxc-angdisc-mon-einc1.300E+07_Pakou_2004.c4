@@ -1,0 +1,32 @@
+#ENTRY      A0690
+#AUTHOR1    A.Pakou+
+#YEAR       2004
+#INSTITUTE  (2GRCIOA)
+#TITLE      Alpha-particle production in the reaction 6Li + 28Si at
+#+          near-barrier energies
+#AUTHOR(S)  A.Pakou, N.Alamanos, A.Gillibert, M.Kokkoris, S.Kossionides, 
+#+          A.Lagoyannis, N.G.Nicolis, C.Papachristodoulou, D.Patiris, 
+#+          D.Pierroutsakou, E.C.Pollacco, K.Rusek
+#REF-CODE   (W,PAKOU,20040708)
+#REFERENCE  Private communication  (2004)
+#DATASETS   0
+#
+#DATASET    A0690002 
+#DATE       20251001
+#REACTION   14-SI-28(3-LI-6,X)2-HE-4,,DA
+#PROJ       3006
+#TARG       14028
+#MF         4
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 3006 14028   4 207 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006 14028   4 207 AC 1.3000+7          0.097854 7.9100-4 0.864161 0.017566                     A.Pakou              (04)A0690  2 
+ 3006 14028   4 207 AC 1.3000+7          0.119000 2.0000-3 0.775264 0.022048                     A.Pakou              (04)A0690  2 
+ 3006 14028   4 207 AC 1.3000+7          0.113000 1.1790-3 0.669857 0.025918                     A.Pakou              (04)A0690  2 
+ 3006 14028   4 207 AC 1.3000+7          0.099282 2.1100-3 0.507839 0.030070                     A.Pakou              (04)A0690  2 
+ 3006 14028   4 207 AC 1.3000+7          0.075837 9.5600-4 0.330004 0.032951                     A.Pakou              (04)A0690  2 
+#/DATA      5
+#/DATASET

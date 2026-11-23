@@ -1,0 +1,30 @@
+#ENTRY      A1410
+#AUTHOR1    J.A.McCray+
+#YEAR       1963
+#INSTITUTE  (1USACAL)
+#TITLE      Elastic scattering of protons from 6Li nuclei
+#AUTHOR(S)  J.A.McCray
+#REF-CODE   (J,PR,130,2034,1963)
+#REFERENCE  Phys.Rev. 130 (1963) 2034
+#DATASETS   0
+#
+#DATASET    A1410004 
+#DATE       20200329
+#REACTION   3-LI-6(P,EL)3-LI-6,,DA,,RTH
+#PROJ       1001
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 1001  3006   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3006   4   2  C 1879000.          0.080382          0.328867                              J.A.McCray           (63)A1410  4 
+ 1001  3006   4   2  C 1879000.          0.068089 3.6291-3-0.020942                              J.A.McCray           (63)A1410  4 
+ 1001  3006   4   2  C 1879000.          0.067457 3.0263-3-0.358368                              J.A.McCray           (63)A1410  4 
+ 1001  3006   4   2  C 1879000.          0.072945 2.1954-3-0.594823                              J.A.McCray           (63)A1410  4 
+ 1001  3006   4   2  C 1879000.          0.083110 2.3355-3-0.778243                              J.A.McCray           (63)A1410  4 
+ 1001  3006   4   2  C 1879000.          0.096777 2.4555-3-0.934204                              J.A.McCray           (63)A1410  4 
+#/DATA      6
+#/DATASET
