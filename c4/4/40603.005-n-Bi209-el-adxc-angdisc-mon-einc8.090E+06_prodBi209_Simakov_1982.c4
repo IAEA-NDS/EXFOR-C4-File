@@ -1,0 +1,33 @@
+#ENTRY      40603
+#AUTHOR1    S.P.Simakov+
+#YEAR       1982
+#INSTITUTE  (4RUSFEI)
+#TITLE      Differential cross-sections of elastic and inelastic
+#+          neutrons scattering from tantalum and bismuth in the
+#+          energy range 5-8 MeV
+#AUTHOR(S)  S.P.Simakov, G.N.Lovchikova, O.A.Sal'nikov, A.M.Trufanov, 
+#+          G.V.Kotel'nikova
+#REF-CODE   (R,INDC(CCP)-197,17,1982)
+#REFERENCE  Report INDC(CCP)-197 page 17, 1982
+#DATASETS   0
+#
+#DATASET    40603005 
+#DATE       20260211
+#REACTION   83-BI-209(N,EL)83-BI-209,,DA
+#PROJ       1
+#TARG       83209
+#MF         4
+#MT         2
+#PRODUCT    83-BI-209
+#C4BEGIN    [    1 83209   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 83209   4   2 AC 8090000. 90000.00 0.405000 0.036000 0.854000 1.0000-3                     S.P.Simakov+         (82)40603  5 
+    1 83209   4   2 AC 8090000. 90000.00 0.171000 0.016000 0.688000 1.0000-3                     S.P.Simakov+         (82)40603  5 
+    1 83209   4   2 AC 8090000. 90000.00 0.024000 4.0000-3 0.476000 2.0000-3                     S.P.Simakov+         (82)40603  5 
+    1 83209   4   2 AC 8090000. 90000.00 0.076000 8.0000-3-0.032000 0.062000                     S.P.Simakov+         (82)40603  5 
+    1 83209   4   2 AC 8090000. 90000.00 0.050000 7.0000-3-0.526000 2.0000-3                     S.P.Simakov+         (82)40603  5 
+    1 83209   4   2 AC 8090000. 90000.00 8.0000-3 1.0000-3-0.878000 1.0000-3                     S.P.Simakov+         (82)40603  5 
+#/DATA      6
+#/DATASET

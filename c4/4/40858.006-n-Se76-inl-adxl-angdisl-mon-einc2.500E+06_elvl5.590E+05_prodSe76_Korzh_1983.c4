@@ -1,0 +1,36 @@
+#ENTRY      40858
+#AUTHOR1    I.A.Korzh+
+#YEAR       1983
+#INSTITUTE  (4UKRIJD)
+#TITLE      Elastic and inelastic differential neutron cross-
+#+          sections for selenium-76,78,80,82 at the neutron
+#+          energy range 1.5 - 5.0 MeV
+#AUTHOR(S)  I.A.Korzh, V.A.Mishchenko, N.N.Pravdivyy
+#REF-CODE   (C,83KIEV,3,167,1983)
+#REFERENCE  Proceedings of 6.All-Union Conf.on Neutron Physics,Kiev,2-6 Oct.1983 3 page 167
+#DATASETS   0
+#
+#DATASET    40858006 
+#DATE       20231226
+#REACTION   34-SE-76(N,INL)34-SE-76,PAR,DA
+#PROJ       1
+#TARG       34076
+#MF         4
+#MT         51
+#PRODUCT    34-SE-76
+#C4BEGIN    [    1 34076   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 34076   4  51 A  2500000.          0.050200 5.0000-3 0.939693          559000.0         LVLI.A.Korzh+           (83)40858  6 
+    1 34076   4  51 A  2500000.          0.049600 2.5000-3 0.866025          559000.0         LVLI.A.Korzh+           (83)40858  6 
+    1 34076   4  51 A  2500000.          0.048700 2.5000-3 0.766044          559000.0         LVLI.A.Korzh+           (83)40858  6 
+    1 34076   4  51 A  2500000.          0.044600 2.3000-3 0.573576          559000.0         LVLI.A.Korzh+           (83)40858  6 
+    1 34076   4  51 A  2500000.          0.050200 2.5000-3 0.258819          559000.0         LVLI.A.Korzh+           (83)40858  6 
+    1 34076   4  51 A  2500000.          0.048000 3.0000-3 6.123-17          559000.0         LVLI.A.Korzh+           (83)40858  6 
+    1 34076   4  51 A  2500000.          0.046300 3.4000-3-0.258819          559000.0         LVLI.A.Korzh+           (83)40858  6 
+    1 34076   4  51 A  2500000.          0.049000 2.3000-3-0.573576          559000.0         LVLI.A.Korzh+           (83)40858  6 
+    1 34076   4  51 A  2500000.          0.041700 2.0000-3-0.707107          559000.0         LVLI.A.Korzh+           (83)40858  6 
+    1 34076   4  51 A  2500000.          0.038000 1.9000-3-0.866025          559000.0         LVLI.A.Korzh+           (83)40858  6 
+#/DATA      10
+#/DATASET

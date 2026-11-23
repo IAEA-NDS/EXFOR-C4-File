@@ -1,0 +1,35 @@
+#ENTRY      40532
+#AUTHOR1    I.A.Korzh+
+#YEAR       1977
+#INSTITUTE  (4UKRIJD)
+#TITLE      Differential neutron scattering cross-sections at
+#+          1.5 to 3.0 MeV for titanium, iron and bismuth nuclei
+#AUTHOR(S)  I.A.Korzh, V.A.Mishchenko, E.N.Mozhzhukhin, N.M.Pravdivyy, 
+#+          I.E.Sanzhur
+#REF-CODE   (J,UFZ,22,87,1977)
+#REFERENCE  Ukr.Fiz.Zh. 22 (1977) 87
+#DATASETS   0
+#
+#DATASET    40532008 
+#DATE       20211201
+#REACTION   26-FE-56(N,INL)26-FE-56,PAR,DA
+#PROJ       1
+#TARG       26056
+#MF         4
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056   4  51    3000000. 50000.00 0.011400 1.8000-3 0.939693          2085000.         LVLI.A.Korzh+           (77)40532  8 
+    1 26056   4  51    3000000. 50000.00 0.011500 1.1000-3 0.866025          2085000.         LVLI.A.Korzh+           (77)40532  8 
+    1 26056   4  51    3000000. 50000.00 0.011100 5.0000-4 0.766044          2085000.         LVLI.A.Korzh+           (77)40532  8 
+    1 26056   4  51    3000000. 50000.00 0.010300 7.0000-4 0.573576          2085000.         LVLI.A.Korzh+           (77)40532  8 
+    1 26056   4  51    3000000. 50000.00 0.010400 5.0000-4 0.258819          2085000.         LVLI.A.Korzh+           (77)40532  8 
+    1 26056   4  51    3000000. 50000.00 0.012100 1.0000-3 6.123-17          2085000.         LVLI.A.Korzh+           (77)40532  8 
+    1 26056   4  51    3000000. 50000.00 0.011100 6.0000-4-0.258819          2085000.         LVLI.A.Korzh+           (77)40532  8 
+    1 26056   4  51    3000000. 50000.00 0.011200 5.0000-4-0.573576          2085000.         LVLI.A.Korzh+           (77)40532  8 
+    1 26056   4  51    3000000. 50000.00 0.010900 5.0000-4-0.866025          2085000.         LVLI.A.Korzh+           (77)40532  8 
+#/DATA      9
+#/DATASET

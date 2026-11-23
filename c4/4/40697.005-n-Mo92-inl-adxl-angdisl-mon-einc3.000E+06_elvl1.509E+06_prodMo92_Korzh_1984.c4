@@ -1,0 +1,36 @@
+#ENTRY      40697
+#AUTHOR1    I.A.Korzh+
+#YEAR       1984
+#INSTITUTE  (4UKRIJD)
+#TITLE      Investigation of the mechanism of fast neutron
+#+          scattering by even isotopes of molybdenum
+#AUTHOR(S)  I.A.Korzh, V.P.Lunev, V.A.Mishchenko, Eh.N.Mozhzhukhin, 
+#+          N.M.Pravdivyj, E.Sh.Sukhovitskij
+#REF-CODE   (R,INDC(CCP)-229,1,1984)
+#REFERENCE  Report INDC(CCP)-229 page 1, 1984
+#DATASETS   0
+#
+#DATASET    40697005 
+#DATE       20221125
+#REACTION   42-MO-92(N,INL)42-MO-92,PAR,DA
+#PROJ       1
+#TARG       42092
+#MF         4
+#MT         51
+#PRODUCT    42-MO-92
+#C4BEGIN    [    1 42092   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42092   4  51    3000000. 63000.00 0.071600 5.9000-3 0.939693          1509000.         LVLI.A.Korzh+           (84)40697  5 
+    1 42092   4  51    3000000. 63000.00 0.071700 3.8000-3 0.866025          1509000.         LVLI.A.Korzh+           (84)40697  5 
+    1 42092   4  51    3000000. 63000.00 0.069100 4.0000-3 0.766044          1509000.         LVLI.A.Korzh+           (84)40697  5 
+    1 42092   4  51    3000000. 63000.00 0.067200 4.7000-3 0.573576          1509000.         LVLI.A.Korzh+           (84)40697  5 
+    1 42092   4  51    3000000. 63000.00 0.065800 4.1000-3 0.258819          1509000.         LVLI.A.Korzh+           (84)40697  5 
+    1 42092   4  51    3000000. 63000.00 0.061600 3.3000-3 6.123-17          1509000.         LVLI.A.Korzh+           (84)40697  5 
+    1 42092   4  51    3000000. 63000.00 0.063200 3.3000-3-0.258819          1509000.         LVLI.A.Korzh+           (84)40697  5 
+    1 42092   4  51    3000000. 63000.00 0.063100 3.3000-3-0.573576          1509000.         LVLI.A.Korzh+           (84)40697  5 
+    1 42092   4  51    3000000. 63000.00 0.062800 3.3000-3-0.707107          1509000.         LVLI.A.Korzh+           (84)40697  5 
+    1 42092   4  51    3000000. 63000.00 0.067200 3.7000-3-0.866025          1509000.         LVLI.A.Korzh+           (84)40697  5 
+#/DATA      10
+#/DATASET

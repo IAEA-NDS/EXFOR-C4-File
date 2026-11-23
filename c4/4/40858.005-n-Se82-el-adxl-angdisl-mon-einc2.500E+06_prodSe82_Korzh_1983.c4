@@ -1,0 +1,36 @@
+#ENTRY      40858
+#AUTHOR1    I.A.Korzh+
+#YEAR       1983
+#INSTITUTE  (4UKRIJD)
+#TITLE      Elastic and inelastic differential neutron cross-
+#+          sections for selenium-76,78,80,82 at the neutron
+#+          energy range 1.5 - 5.0 MeV
+#AUTHOR(S)  I.A.Korzh, V.A.Mishchenko, N.N.Pravdivyy
+#REF-CODE   (C,83KIEV,3,167,1983)
+#REFERENCE  Proceedings of 6.All-Union Conf.on Neutron Physics,Kiev,2-6 Oct.1983 3 page 167
+#DATASETS   0
+#
+#DATASET    40858005 
+#DATE       20231226
+#REACTION   34-SE-82(N,EL)34-SE-82,,DA
+#PROJ       1
+#TARG       34082
+#MF         4
+#MT         2
+#PRODUCT    34-SE-82
+#C4BEGIN    [    1 34082   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 34082   4   2 A  2500000.          0.924700 0.076500 0.939693                              I.A.Korzh+           (83)40858  5 
+    1 34082   4   2 A  2500000.          0.615800 0.020700 0.866025                              I.A.Korzh+           (83)40858  5 
+    1 34082   4   2 A  2500000.          0.332100 0.010800 0.766044                              I.A.Korzh+           (83)40858  5 
+    1 34082   4   2 A  2500000.          0.102300 3.6000-3 0.573576                              I.A.Korzh+           (83)40858  5 
+    1 34082   4   2 A  2500000.          0.085200 2.8000-3 0.258819                              I.A.Korzh+           (83)40858  5 
+    1 34082   4   2 A  2500000.          0.127900 4.1000-3 6.123-17                              I.A.Korzh+           (83)40858  5 
+    1 34082   4   2 A  2500000.          0.127200 3.9000-3-0.258819                              I.A.Korzh+           (83)40858  5 
+    1 34082   4   2 A  2500000.          0.082700 2.7000-3-0.573576                              I.A.Korzh+           (83)40858  5 
+    1 34082   4   2 A  2500000.          0.063700 2.2000-3-0.707107                              I.A.Korzh+           (83)40858  5 
+    1 34082   4   2 A  2500000.          0.084700 2.8000-3-0.866025                              I.A.Korzh+           (83)40858  5 
+#/DATA      10
+#/DATASET

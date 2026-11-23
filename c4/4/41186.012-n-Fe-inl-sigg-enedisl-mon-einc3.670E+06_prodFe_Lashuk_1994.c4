@@ -1,0 +1,37 @@
+#ENTRY      41186
+#AUTHOR1    A.I.Lashuk+
+#YEAR       1994
+#INSTITUTE  (4RUSFEI)
+#TITLE      Gamma-quanta production cross-sections at inelastic
+#+          scattering of the neutrons on the nuclei of reactor
+#+          construction materials.
+#AUTHOR(S)  A.I.Lashuk, I.P.Sadokhin
+#REF-CODE   (J,YK,,(1),26,1994)
+#REFERENCE  Yad.Reak.Konst.  No.1 (1994) 26
+#DATASETS   0
+#
+#DATASET    41186012 
+#DATE       20191107
+#REACTION   26-FE-0(N,INL)26-FE-0,PAR,SIG,G
+#PROJ       1
+#TARG       26000
+#MF         13
+#MT         51
+#PRODUCT    26-FE-0
+#C4BEGIN    [    1 26000  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26000  13  51    3670000.          1.215000 0.091000                   847000.0            A.I.Lashuk+          (94)41186 12 
+    1 26000  13  51    3670000.          0.048000 5.0000-3                   1038000.            A.I.Lashuk+          (94)41186 12 
+    1 26000  13  51    3670000.          0.112000 0.013000                   1237000.            A.I.Lashuk+          (94)41186 12 
+    1 26000  13  51    3670000.          0.051000 6.0000-3                   1407000.            A.I.Lashuk+          (94)41186 12 
+    1 26000  13  51    3670000.          0.156000 0.016000                   1808000.            A.I.Lashuk+          (94)41186 12 
+    1 26000  13  51    3670000.          0.078000 0.012000                   2093000.            A.I.Lashuk+          (94)41186 12 
+    1 26000  13  51    3670000.          0.112000 0.015000                   2111000.            A.I.Lashuk+          (94)41186 12 
+    1 26000  13  51    3670000.          0.056000 8.0000-3                   2270000.            A.I.Lashuk+          (94)41186 12 
+    1 26000  13  51    3670000.          0.014000 2.0000-3                   2521000.            A.I.Lashuk+          (94)41186 12 
+    1 26000  13  51    3670000.          9.0000-3 2.0000-3                   2601000.            A.I.Lashuk+          (94)41186 12 
+    1 26000  13  51    3670000.          0.012000 2.0000-3                   3448000.            A.I.Lashuk+          (94)41186 12 
+#/DATA      11
+#/DATASET

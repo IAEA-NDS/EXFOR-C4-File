@@ -1,0 +1,36 @@
+#ENTRY      40697
+#AUTHOR1    I.A.Korzh+
+#YEAR       1984
+#INSTITUTE  (4UKRIJD)
+#TITLE      Investigation of the mechanism of fast neutron
+#+          scattering by even isotopes of molybdenum
+#AUTHOR(S)  I.A.Korzh, V.P.Lunev, V.A.Mishchenko, Eh.N.Mozhzhukhin, 
+#+          N.M.Pravdivyj, E.Sh.Sukhovitskij
+#REF-CODE   (R,INDC(CCP)-229,1,1984)
+#REFERENCE  Report INDC(CCP)-229 page 1, 1984
+#DATASETS   0
+#
+#DATASET    40697002 
+#DATE       20221125
+#REACTION   42-MO-92(N,EL)42-MO-92,,DA
+#PROJ       1
+#TARG       42092
+#MF         4
+#MT         2
+#PRODUCT    42-MO-92
+#C4BEGIN    [    1 42092   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42092   4   2 A  2500000. 67000.00 0.994900 0.028900 0.939693                              I.A.Korzh+           (84)40697  2 
+    1 42092   4   2 A  2500000. 67000.00 0.708100 0.021500 0.866025                              I.A.Korzh+           (84)40697  2 
+    1 42092   4   2 A  2500000. 67000.00 0.428100 0.013200 0.766044                              I.A.Korzh+           (84)40697  2 
+    1 42092   4   2 A  2500000. 67000.00 0.220000 7.5000-3 0.573576                              I.A.Korzh+           (84)40697  2 
+    1 42092   4   2 A  2500000. 67000.00 0.173400 6.0000-3 0.258819                              I.A.Korzh+           (84)40697  2 
+    1 42092   4   2 A  2500000. 67000.00 0.144500 4.7000-3 6.123-17                              I.A.Korzh+           (84)40697  2 
+    1 42092   4   2 A  2500000. 67000.00 0.098400 3.5000-3-0.258819                              I.A.Korzh+           (84)40697  2 
+    1 42092   4   2 A  2500000. 67000.00 0.070000 2.6000-3-0.573576                              I.A.Korzh+           (84)40697  2 
+    1 42092   4   2 A  2500000. 67000.00 0.091500 3.4000-3-0.707107                              I.A.Korzh+           (84)40697  2 
+    1 42092   4   2 A  2500000. 67000.00 0.194000 6.3000-3-0.866025                              I.A.Korzh+           (84)40697  2 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      40530
+#AUTHOR1    S.P.Simakov+
+#YEAR       1981
+#INSTITUTE  (4RUSFEI)
+#TITLE      Elastic and inelastic scattering of the neutrons
+#+          with the energies from 5 to 8 MeV on cobalt
+#AUTHOR(S)  S.P.Simakov, G.N.Lovchikova, O.A.Sal'nikov, G.V.Kotel'nikova, 
+#+          V.A.Vinogradov
+#REF-CODE   (J,YK,,(5/44),23,1981)
+#REFERENCE  Yad.Reak.Konst.  No.5/44 (1981) 23
+#DATASETS   0
+#
+#DATASET    40530003 
+#DATE       20200319
+#REACTION   27-CO-59(N,EL)27-CO-59,,DA
+#PROJ       1
+#TARG       27059
+#MF         4
+#MT         2
+#PRODUCT    27-CO-59
+#C4BEGIN    [    1 27059   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 27059   4   2  C 5970000. 70000.00 0.857000 0.064000 0.856000 0.011000                     S.P.Simakov+         (81)40530  3 
+    1 27059   4   2  C 5970000. 70000.00 0.187000 0.014000 0.681000 0.016000                     S.P.Simakov+         (81)40530  3 
+    1 27059   4   2  C 5970000. 70000.00 0.020000 2.0000-3 0.481000 0.019000                     S.P.Simakov+         (81)40530  3 
+    1 27059   4   2  C 5970000. 70000.00 0.038000 3.0000-3-0.021000 0.022000                     S.P.Simakov+         (81)40530  3 
+    1 27059   4   2  C 5970000. 70000.00 0.019000 1.0000-3-0.522000 0.019000                     S.P.Simakov+         (81)40530  3 
+    1 27059   4   2  C 5970000. 70000.00 0.019000 2.0000-3-0.875000 0.011000                     S.P.Simakov+         (81)40530  3 
+#/DATA      6
+#/DATASET

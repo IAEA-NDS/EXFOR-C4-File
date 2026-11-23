@@ -1,0 +1,30 @@
+#ENTRY      41528
+#AUTHOR1    V.M.Piksaykin+
+#YEAR       2004
+#INSTITUTE  (4RUSFEI)
+#TITLE      Cumulative yields and average half-life of delayed
+#+          neutron precursors from neutron induced fission of
+#+          U-233 .
+#AUTHOR(S)  V.M.Piksaykin, V.A.Roshchenko, S.G.Isaev, L.E.Kazakov, G.G.Korolev, 
+#+          Yu.F.Balakshev, A.A.Goverdovski
+#REF-CODE   (S,ISINN-12,342,2004)
+#REFERENCE  Report (proceedings) ISINN-12 page 342, 2004
+#DATASETS   0
+#
+#DATASET    41528003 
+#DATE       20210316
+#REACTION   92-U-233(N,F)ELEM/MASS,CUM,FY
+#PROJ       1
+#TARG       92233
+#MF         8
+#MT         459
+#C4BEGIN    [    1 92233   8 459  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92233   8 459    1010000.          0.015700 2.0000-4 53.00000 137.0000 9.000000            V.M.Piksaykin+       (04)41528  3 
+    1 92233   8 459    1010000.          4.5600-3 8.0000-5 53.00000 138.0000 9.000000            V.M.Piksaykin+       (04)41528  3 
+    1 92233   8 459    1010000.          1.1500-3 1.0000-5 53.00000 139.0000 9.000000            V.M.Piksaykin+       (04)41528  3 
+    1 92233   8 459    1010000.          1.6000-4 1.0000-5 53.00000 140.0000 9.000000            V.M.Piksaykin+       (04)41528  3 
+#/DATA      4
+#/DATASET
