@@ -1,0 +1,44 @@
+#ENTRY      G0044
+#AUTHOR1    S.Costanza+
+#YEAR       2014
+#INSTITUTE  (2ITYPAV)
+#TITLE      Helicity dependence of the gamma 3He->pi X reactions
+#+          in the Delta(1232) resonance region
+#AUTHOR(S)  S.Costanza, A.Mushkarenkov, F.Rigamonti, M.Romaniuk, P.Aguar Bartolome, 
+#+          J.Ahrens, J.R.M.Annand, H.-J.Arends, R.Beck, A.Braghieri, 
+#+          V.Bekrenev, H.Berghaeuser, W.J.Briscoe, S.N.Cherepnya, C.Collicott, 
+#+          E.J.Downie, P.Drexler, L.V.Fil'kov, A.Fix, D.I.Glazier, 
+#+          D.Hamilton, E.Heid, W.Heil, D.Hornidge, D.Howdle, I.Jaegle, 
+#+          G.M.Huber, O.Jahn, T.Jude, V.L.Kashevarov, I.Keshelashvili, 
+#+          R.Kondratiev, M.Korolija, J.Krimmer, B.Krusche, S.Kruglov, 
+#+          A.Kulbardis, V.Lisin, K.Livingston, I.J.D.MacGregor, J.Mancell, 
+#+          G.Mandaglio, D.M.Manley, J.C.McGeorge, D.G.Middleton, V.Metag, 
+#+          B.M.K.Nefkens, A.Nikolaev, M.Oberle, M.Ostrick, H.Ortega, 
+#+          P.B.Otte, B.Oussena, P.Pedroni, F.Pheron, A.Polonski, S.Prakhov, 
+#+          G.Rosner, T.Rostomyan, A.J.Sarty, S.Schumann, A.Starostin, 
+#+          I.Supek, M.Thiel, A.Thomas, M.Unverzagt, D.P.Watts, D.Werthmueller
+#REF-CODE   (J,EPJ/A,50,173,2014)
+#REFERENCE  Eur.Phys.J.A 50 (2014) 173
+#DATASETS   0
+#
+#DATASET    G0044002 
+#DATE       20141224
+#REACTION   2-HE-3(G,X)0-P0-0,,DA
+#PROJ       0
+#TARG       2003
+#MF         4
+#MT         209
+#PRODUCT    0-P0-0
+#C4BEGIN    [    0  2003   4 209 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    0  2003   4 209 A  4.1800+8          4.8834-5 2.2683-5 0.891007                              S.Costanza+          (14)G0044  2 
+    0  2003   4 209 A  4.1800+8          2.9599-5 1.6675-5 0.707107                              S.Costanza+          (14)G0044  2 
+    0  2003   4 209 A  4.1800+8          4.4224-5 1.3509-5 0.453990                              S.Costanza+          (14)G0044  2 
+    0  2003   4 209 A  4.1800+8          2.1406-5 1.2350-5 0.156434                              S.Costanza+          (14)G0044  2 
+    0  2003   4 209 A  4.1800+8          1.0326-5 1.1808-5-0.156434                              S.Costanza+          (14)G0044  2 
+    0  2003   4 209 A  4.1800+8          3.1440-5 1.1810-5-0.453990                              S.Costanza+          (14)G0044  2 
+    0  2003   4 209 A  4.1800+8          1.0676-5 1.1823-5-0.707107                              S.Costanza+          (14)G0044  2 
+#/DATA      7
+#/DATASET
