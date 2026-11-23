@@ -1,0 +1,29 @@
+#ENTRY      21062
+#AUTHOR1    P.H.Bowen+
+#YEAR       1963
+#INSTITUTE  (2UK HAR)
+#TITLE      Small angle elastic scattering of neutrons by
+#+          uranium at energies between 18 MeV and 120 MeV
+#AUTHOR(S)  P.H.Bowen, G.C.Cox, G.B.Huxtable, J.P.Scanlon, J.J.Thresher, 
+#+          A.Langsford, H.Appel
+#REF-CODE   (J,NP,40,186,1963)
+#REFERENCE  Nucl.Phys. 40 (1963) 186
+#DATASETS   0
+#
+#DATASET    21062002 
+#DATE       20170802
+#REACTION   92-U-0(N,EL)92-U-0,,DA
+#PROJ       1
+#TARG       92000
+#MF         4
+#MT         2
+#PRODUCT    92-U-0
+#C4BEGIN    [    1 92000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92000   4   2    5.2500+7 6000000. 1.140000 0.900000 0.999802                              P.H.Bowen+           (63)21062  2 
+    1 92000   4   2    5.2500+7 6000000. 36.60000 1.200000 0.999025                              P.H.Bowen+           (63)21062  2 
+    1 92000   4   2    5.2500+7 6000000. 29.20000 1.100000 0.996890                              P.H.Bowen+           (63)21062  2 
+#/DATA      3
+#/DATASET

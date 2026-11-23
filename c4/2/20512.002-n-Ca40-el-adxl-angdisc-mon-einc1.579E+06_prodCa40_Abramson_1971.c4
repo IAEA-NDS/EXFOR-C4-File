@@ -1,0 +1,41 @@
+#ENTRY      20512
+#AUTHOR1    D.Abramson+
+#YEAR       1971
+#INSTITUTE  (2FR CAD)
+#TITLE      -ELASTIC SCATTERING OF NEUTRONS BY CA-40 BETWEEN 1.2
+#+          AND 2.83 MEV.- (IN FRENCH)
+#AUTHOR(S)  D.Abramson, A.Arnaud, J.C.Bluet, G.Filippi, C.Lavelaine, 
+#+          C.Le Rigoleur
+#REF-CODE   (P,EANDC(E)-149,7102)
+#REFERENCE  Progress report EANDC(E)-149, 1971
+#DATASETS   0
+#
+#DATASET    20512002 
+#DATE       19840126
+#REACTION   20-CA-40(N,EL)20-CA-40,,DA
+#PROJ       1
+#TARG       20040
+#MF         4
+#MT         2
+#PRODUCT    20-CA-40
+#C4BEGIN    [    1 20040   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 20040   4   2  C 1579000.          0.375000 0.031000-0.896480                              D.Abramson+          (71)20512  2 
+    1 20040   4   2  C 1579000.          0.345000 0.025000-0.872070                              D.Abramson+          (71)20512  2 
+    1 20040   4   2  C 1579000.          0.303000 0.020000-0.817140                              D.Abramson+          (71)20512  2 
+    1 20040   4   2  C 1579000.          0.204000 0.014000-0.562080                              D.Abramson+          (71)20512  2 
+    1 20040   4   2  C 1579000.          0.195000 0.012000-0.518020                              D.Abramson+          (71)20512  2 
+    1 20040   4   2  C 1579000.          0.175000 0.015000-0.427350                              D.Abramson+          (71)20512  2 
+    1 20040   4   2  C 1579000.          0.089000 0.012000-0.076710                              D.Abramson+          (71)20512  2 
+    1 20040   4   2  C 1579000.          0.092000 0.012000-0.024430                              D.Abramson+          (71)20512  2 
+    1 20040   4   2  C 1579000.          0.105000 0.012000 0.080190                              D.Abramson+          (71)20512  2 
+    1 20040   4   2  C 1579000.          0.169000 0.018000 0.433660                              D.Abramson+          (71)20512  2 
+    1 20040   4   2  C 1579000.          0.194000 0.019000 0.481750                              D.Abramson+          (71)20512  2 
+    1 20040   4   2  C 1579000.          0.241000 0.025000 0.570710                              D.Abramson+          (71)20512  2 
+    1 20040   4   2  C 1579000.          0.390000 0.032000 0.830980                              D.Abramson+          (71)20512  2 
+    1 20040   4   2  C 1579000.          0.402000 0.033000 0.859850                              D.Abramson+          (71)20512  2 
+    1 20040   4   2  C 1579000.          0.449000 0.033000 0.909230                              D.Abramson+          (71)20512  2 
+#/DATA      15
+#/DATASET

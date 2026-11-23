@@ -1,0 +1,33 @@
+#ENTRY      23180
+#AUTHOR1    Y.Watanabe+
+#YEAR       2014
+#INSTITUTE  (2JPNKYU)
+#TITLE      Production of light charged particles from silicon
+#+          bombarded by 175 MeV quasi mono-energetic neutrons.
+#AUTHOR(S)  Y.Watanabe, S.Hirayama, H.Umishio, Y.Naitou, R.Bevilacqua, 
+#+          V.Simutkin, S.Pomp, C.Gustavsson, M.Oesterlund, A.Hjalmarsson, 
+#+          A.Prokofiev, U.Tippawan, H.Sjoestrand, P.Andersson, M.Tesinsky, 
+#+          S.Kunieda
+#REF-CODE   (J,NSTP,4,569,2014)
+#REFERENCE  Prog.Nucl.Sci.Techn. 4 (2014) 569
+#DATASETS   0
+#
+#DATASET    23180003 
+#DATE       20160929
+#REACTION   14-SI-28(N,X)2-HE-4,,DA/DE
+#PROJ       1
+#TARG       14028
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1 14028   6 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14028   6 207    1.7540+8 700000.0 3.147-10 1.829-10-0.766044          1.2000+7          E2Y.Watanabe+          (14)23180  3 
+    1 14028   6 207    1.7540+8 700000.0 5.765-11 1.637-11-0.766044          2.2000+7          E2Y.Watanabe+          (14)23180  3 
+    1 14028   6 207    1.7540+8 700000.0 9.404-12 4.763-12-0.766044          3.2000+7          E2Y.Watanabe+          (14)23180  3 
+    1 14028   6 207    1.7540+8 700000.0 5.210-14 2.673-13-0.766044          4.2000+7          E2Y.Watanabe+          (14)23180  3 
+    1 14028   6 207    1.7540+8 700000.0 6.000-16 2.311-14-0.766044          5.2000+7          E2Y.Watanabe+          (14)23180  3 
+#/DATA      5
+#/DATASET

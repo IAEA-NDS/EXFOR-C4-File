@@ -1,0 +1,39 @@
+#ENTRY      20749
+#AUTHOR1    H.H.Knitter+
+#YEAR       1977
+#INSTITUTE  (2ZZZGEL)
+#TITLE      -NEUTRON TOTAL AND ELASTIC SCATTERING CROSS SECTIONS
+#+          OF LI-6 IN THE ENERGY RANGE FROM 0.1 TO 3.0 MEV-
+#AUTHOR(S)  H.H.Knitter, C.Budtz-Jorgensen, N.Mailly, R.Vogt
+#REF-CODE   (R,EUR-5726E,1,7704)
+#REFERENCE  Report EUR-5726E page 1, 1977
+#DATASETS   0
+#
+#DATASET    20749003 
+#DATE       19840203
+#REACTION   3-LI-6(N,EL)3-LI-6,,DA
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [    1  3006   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4   2    296000.0          0.773200 0.058000 0.891798                              H.H.Knitter+         (77)20749  3 
+    1  3006   4   2    296000.0          0.740000 0.057000 0.848972                              H.H.Knitter+         (77)20749  3 
+    1  3006   4   2    296000.0          0.632800 0.057000 0.799685                              H.H.Knitter+         (77)20749  3 
+    1  3006   4   2    296000.0          0.609500 0.054000 0.744312                              H.H.Knitter+         (77)20749  3 
+    1  3006   4   2    296000.0          0.490100 0.050000 0.617036                              H.H.Knitter+         (77)20749  3 
+    1  3006   4   2    296000.0          0.368900 0.047000 0.471012                              H.H.Knitter+         (77)20749  3 
+    1  3006   4   2    296000.0          0.280900 0.054000 0.310676                              H.H.Knitter+         (77)20749  3 
+    1  3006   4   2    296000.0          0.238900 0.053000 0.140901                              H.H.Knitter+         (77)20749  3 
+    1  3006   4   2    296000.0          0.258300 0.046000-0.033155                              H.H.Knitter+         (77)20749  3 
+    1  3006   4   2    296000.0          0.230800 0.046000-0.206204                              H.H.Knitter+         (77)20749  3 
+    1  3006   4   2    296000.0          0.232600 0.049000-0.372988                              H.H.Knitter+         (77)20749  3 
+    1  3006   4   2    296000.0          0.262500 0.064000-0.667833                              H.H.Knitter+         (77)20749  3 
+    1  3006   4   2    296000.0          0.242400 0.085000-0.786935                              H.H.Knitter+         (77)20749  3 
+    1  3006   4   2    296000.0          0.282100 0.096000-0.882127                              H.H.Knitter+         (77)20749  3 
+#/DATA      14
+#/DATASET

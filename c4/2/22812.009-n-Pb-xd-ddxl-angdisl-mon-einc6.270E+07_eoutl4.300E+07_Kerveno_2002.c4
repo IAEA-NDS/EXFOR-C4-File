@@ -1,0 +1,36 @@
+#ENTRY      22812
+#AUTHOR1    M.Kerveno+
+#YEAR       2002
+#INSTITUTE  (2FR NTE)
+#TITLE      Hydrogen isotope double differential production cross
+#+          sections induced by 62.7 MeV neutrons on a lead
+#+          target
+#AUTHOR(S)  M.Kerveno, F.Haddad, Ph.Eudes, T.Kirchner, C.Lebrun, I.Slypen, 
+#+          J.P.Meulders, C.Le Brun, F.R.Lecolley, J.F.Lecolley, M.Louvel, 
+#+          F.Lefebvres, S.Hilaire, A.J.Koning
+#REF-CODE   (J,PR/C,66,014601,2002)
+#REFERENCE  Phys.Rev.C 66 (2002) 014601
+#DATASETS   0
+#
+#DATASET    22812009 
+#DATE       20151026
+#REACTION   82-PB-0(N,X)1-H-2,,DA/DE
+#PROJ       1
+#TARG       82000
+#MF         6
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [    1 82000   6 204  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   6 204    6.2700+7 2000000. 7.071-10 3.490-11 0.939693          4.3000+7          E2M.Kerveno+           (02)22812  9 
+    1 82000   6 204    6.2700+7 2000000. 4.031-10 2.950-11 0.866025          4.3000+7          E2M.Kerveno+           (02)22812  9 
+    1 82000   6 204    6.2700+7 2000000. 3.218-10 2.470-11 0.766044          4.3000+7          E2M.Kerveno+           (02)22812  9 
+    1 82000   6 204    6.2700+7 2000000. 1.693-10 1.800-11 0.642788          4.3000+7          E2M.Kerveno+           (02)22812  9 
+    1 82000   6 204    6.2700+7 2000000. 1.116-10 1.400-11 0.500000          4.3000+7          E2M.Kerveno+           (02)22812  9 
+    1 82000   6 204    6.2700+7 2000000. 8.760-11 1.270-11 0.342020          4.3000+7          E2M.Kerveno+           (02)22812  9 
+    1 82000   6 204    6.2700+7 2000000. 1.590-11 3.700-12-0.342020          4.3000+7          E2M.Kerveno+           (02)22812  9 
+    1 82000   6 204    6.2700+7 2000000. 2.400-12 1.500-12-0.939693          4.3000+7          E2M.Kerveno+           (02)22812  9 
+#/DATA      8
+#/DATASET

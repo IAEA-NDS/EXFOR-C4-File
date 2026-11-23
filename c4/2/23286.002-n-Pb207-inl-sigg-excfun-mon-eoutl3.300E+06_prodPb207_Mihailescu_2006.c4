@@ -1,0 +1,36 @@
+#ENTRY      23286
+#AUTHOR1    L.C.Mihailescu+
+#YEAR       2006
+#INSTITUTE  (2ZZZGEL)
+#TITLE      Neutron (n,xng) cross-section measurements for 52Cr,
+#+          209Bi,206,207,208Pb from threshold up to 20 MeV
+#AUTHOR(S)  L.C.Mihailescu, A.J.M.Plompen, C.Borcea
+#REF-CODE   (R,EUR-22343,2006)
+#REFERENCE  Report EUR-22343, 2006
+#DATASETS   0
+#
+#DATASET    23286002 
+#DATE       20160126
+#REACTION   82-PB-207(N,INL)82-PB-207,PAR,SIG,G
+#PROJ       1
+#TARG       82207
+#MF         13
+#MT         51
+#PRODUCT    82-PB-207
+#C4BEGIN    [    1 82207  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82207  13  51    3319700. 101335.0 9.1630-3 1.1900-3                   3300000.            L.C.Mihailescu+      (06)23286  2 
+    1 82207  13  51    3532280. 111235.0 0.018680 1.6180-3                   3300000.            L.C.Mihailescu+      (06)23286  2 
+    1 82207  13  51    3765980. 122470.0 0.017763 1.7020-3                   3300000.            L.C.Mihailescu+      (06)23286  2 
+    1 82207  13  51    4023740. 135285.0 0.016948 1.9760-3                   3300000.            L.C.Mihailescu+      (06)23286  2 
+    1 82207  13  51    4308970. 149945.0 0.017911 2.0110-3                   3300000.            L.C.Mihailescu+      (06)23286  2 
+    1 82207  13  51    4625720. 166810.0 0.016699 2.3090-3                   3300000.            L.C.Mihailescu+      (06)23286  2 
+    1 82207  13  51    4978840. 186310.0 0.015943 2.3120-3                   3300000.            L.C.Mihailescu+      (06)23286  2 
+    1 82207  13  51    5374140. 208990.0 6.3670-3 2.4830-3                   3300000.            L.C.Mihailescu+      (06)23286  2 
+    1 82207  13  51    5818640. 235505.0 3.3430-3 2.6070-3                   3300000.            L.C.Mihailescu+      (06)23286  2 
+    1 82207  13  51    6320880. 266735.0 7.8810-3 2.7940-3                   3300000.            L.C.Mihailescu+      (06)23286  2 
+    1 82207  13  51    6891360. 303750.0 6.4930-3 2.2230-3                   3300000.            L.C.Mihailescu+      (06)23286  2 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,38 @@
+#ENTRY      22831
+#AUTHOR1    V.Blideanu+
+#YEAR       2004
+#INSTITUTE  (2SWDUPP)
+#TITLE      .Nucleon-induced reactions at intermediate energies:
+#+          New data at 96 MeV and theoretical status
+#AUTHOR(S)  V.Blideanu, F.R.Lecolley, J.F.Lecolley, T.Lefort, N.Marie, 
+#+          A.Atac, G.Ban, B.Bergenwall, J.Blomgren, S.Dangtip, K.Elmgren, 
+#+          Ph.Eudes, Y.Foucher, A.Guertin, F.Haddad, A.Hildebrand, 
+#+          C.Johansson, O.Jonsson, M.Kerveno, T.Kirchner, J.Klug, Ch.Le Brun, 
+#+          C.Lebrun, M.Louvel, P.Nadel-Turonski, L.Nilsson, N.Olsson, 
+#+          S.Pomp, A.V.Prokofiev, P.-U.Renberg, G.Riviere, I.Slypen, 
+#+          L.Stuttge, U.Tippawan, M.Oesterlund
+#REF-CODE   (J,PR/C,70,(1),014607,2004)
+#REFERENCE  Phys.Rev.C 70 No.1 (2004) 014607
+#DATASETS   0
+#
+#DATASET    22831008 
+#DATE       20041126
+#REACTION   82-PB-0(N,X)1-H-2,,DA/DE
+#PROJ       1
+#TARG       82000
+#MF         6
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [    1 82000   6 204  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   6 204    9.6000+7          5.452-10 2.530-11 0.939693 0.023878 5.8000+7          E2V.Blideanu+          (04)22831  8 
+    1 82000   6 204    9.6000+7          2.803-10 1.700-11 0.766044 0.044875 5.8000+7          E2V.Blideanu+          (04)22831  8 
+    1 82000   6 204    9.6000+7          1.146-10 1.170-11 0.500000 0.060460 5.8000+7          E2V.Blideanu+          (04)22831  8 
+    1 82000   6 204    9.6000+7          3.880-11 6.100-12 0.173648 0.068753 5.8000+7          E2V.Blideanu+          (04)22831  8 
+    1 82000   6 204    9.6000+7          1.220-11 4.000-12-0.173648 0.068753 5.8000+7          E2V.Blideanu+          (04)22831  8 
+    1 82000   6 204    9.6000+7          2.600-12 1.700-12-0.500000 0.060460 5.8000+7          E2V.Blideanu+          (04)22831  8 
+    1 82000   6 204    9.6000+7          1.100-12 8.000-13-0.939693 0.023878 5.8000+7          E2V.Blideanu+          (04)22831  8 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      22113
+#AUTHOR1    G.Boerker+
+#YEAR       1988
+#INSTITUTE  (2GERPTB)
+#TITLE      -ELASTIC AND INELASTIC DIFFERENTIAL NEUTRON SCATTERING
+#+          CROSS SECTIONS OF OXYGEN BETWEEN 6 AND 15 MEV.
+#AUTHOR(S)  G.Boerker, R.Boettger, H.J.Brede, H.Klein, W.Mannhart, R.L.Siebert
+#REF-CODE   (C,88MITO,,193,88)
+#REFERENCE  Proceedings of Conf.on Nucl.Data For Sci.and Technol.,Mito 1988 page 193
+#DATASETS   0
+#
+#DATASET    22113005 
+#DATE       19891211
+#REACTION   8-O-16(N,INL)8-O-16,PAR,DA
+#PROJ       1
+#TARG       8016
+#MF         4
+#MT         51
+#PRODUCT    8-O-16
+#C4BEGIN    [    1  8016   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8016   4  51  C 9011000. 46000.00 0.023630 3.7808-3 0.966823          6100000.         LVLG.Boerker+           (88)22113  5 
+    1  8016   4  51  C 9011000. 46000.00 0.019370 3.5447-3 0.942233          6100000.         LVLG.Boerker+           (88)22113  5 
+    1  8016   4  51  C 9011000. 46000.00 0.020120 9.0540-4 0.881138          6100000.         LVLG.Boerker+           (88)22113  5 
+    1  8016   4  51  C 9011000. 46000.00 0.019750 9.4800-4 0.837623          6100000.         LVLG.Boerker+           (88)22113  5 
+    1  8016   4  51  C 9011000. 46000.00 0.018710 9.3550-4 0.745592          6100000.         LVLG.Boerker+           (88)22113  5 
+    1  8016   4  51  C 9011000. 46000.00 0.019990 9.7951-4 0.686453          6100000.         LVLG.Boerker+           (88)22113  5 
+    1  8016   4  51  C 9011000. 46000.00 0.019800 1.0296-3 0.570427          6100000.         LVLG.Boerker+           (88)22113  5 
+    1  8016   4  51  C 9011000. 46000.00 0.018060 9.2106-4 0.289533          6100000.         LVLG.Boerker+           (88)22113  5 
+    1  8016   4  51  C 9011000. 46000.00 0.019970 1.1383-3 0.198513          6100000.         LVLG.Boerker+           (88)22113  5 
+    1  8016   4  51  C 9011000. 46000.00 0.019810 1.4857-3-0.022513          6100000.         LVLG.Boerker+           (88)22113  5 
+    1  8016   4  51  C 9011000. 46000.00 0.016730 2.1916-3-0.237516          6100000.         LVLG.Boerker+           (88)22113  5 
+#/DATA      11
+#/DATASET

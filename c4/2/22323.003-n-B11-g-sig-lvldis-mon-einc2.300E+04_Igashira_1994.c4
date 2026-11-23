@@ -1,0 +1,27 @@
+#ENTRY      22323
+#AUTHOR1    M.Igashira+
+#YEAR       1994
+#INSTITUTE  (2JPNTIT)
+#TITLE      -CROSS SECTION MEASUREMENTS FOR STUDIES ON NUCLEAR
+#+          TRANSMUTATION AND NUCLEOSYNTHESIS.
+#AUTHOR(S)  M.Igashira, K.Masuda, Y.Nagai, H.Kitazawa
+#REF-CODE   (C,94GATLIN,,1045,9405)
+#REFERENCE  Proceedings of Conf.on Nucl.Data for Sci.and Techn.,Gatlinburg 1994 page 1045
+#DATASETS   0
+#
+#DATASET    22323003 
+#DATE       19970214
+#REACTION   5-B-11(N,G)5-B-12,PAR,SIG
+#PROJ       1
+#TARG       5011
+#MF         3
+#MT         900
+#PRODUCT    5-B-12
+#C4BEGIN    [    1  5011   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5011   3 900    23000.00          9.5000-6 3.2000-6                   0.000000         LVLM.Igashira+          (94)22323  3 
+    1  5011   3 900    23000.00          2.2840-4 1.2300-5                   1670000.         LVLM.Igashira+          (94)22323  3 
+#/DATA      2
+#/DATASET

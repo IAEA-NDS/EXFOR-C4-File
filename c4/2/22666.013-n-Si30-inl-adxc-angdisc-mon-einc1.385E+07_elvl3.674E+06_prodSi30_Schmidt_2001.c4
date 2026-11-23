@@ -1,0 +1,29 @@
+#ENTRY      22666
+#AUTHOR1    D.Schmidt+
+#YEAR       2001
+#INSTITUTE  (2GERPTB)
+#TITLE      Differential cross sections of neutron scattering on
+#+          elemental silicon at energies between 7.89 MeV
+#+          and 13.85 MeV
+#AUTHOR(S)  D.Schmidt, W.Mannhart
+#REF-CODE   (R,PTB-N-43,2001)
+#REFERENCE  Report PTB-N-43, 2001
+#DATASETS   0
+#
+#DATASET    22666013 
+#DATE       20180125
+#REACTION   14-SI-30(N,INL)14-SI-30,PAR,DA
+#PROJ       1
+#TARG       14030
+#MF         4
+#MT         51
+#PRODUCT    14-SI-30
+#C4BEGIN    [    1 14030   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14030   4  51 AC 1.3850+7 60500.00 0.014430 9.7980-3 0.412945 3.1791-3 3674000.         LVLD.Schmidt+           (01)22666 13 
+    1 14030   4  51 AC 1.3850+7 60500.00 8.9800-3 5.5496-3-0.035423 3.4885-3 3674000.         LVLD.Schmidt+           (01)22666 13 
+    1 14030   4  51 AC 1.3850+7 60500.00 0.013190 0.012042-0.315649 3.3122-3 3674000.         LVLD.Schmidt+           (01)22666 13 
+#/DATA      3
+#/DATASET

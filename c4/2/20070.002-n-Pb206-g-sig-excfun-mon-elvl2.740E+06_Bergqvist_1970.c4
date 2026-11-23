@@ -1,0 +1,28 @@
+#ENTRY      20070
+#AUTHOR1    I.Bergqvist+
+#YEAR       1970
+#INSTITUTE  (2SWDAE)
+#TITLE      Cross sections for high-energy gamma-transitions from
+#+          MeV neutron capture in Pb-206
+#AUTHOR(S)  I.Bergqvist, B.Lundberg, L.Nilsson
+#REF-CODE   (J,NP/A,153,553,1970)
+#REFERENCE  Nucl.Phys.A 153 (1970) 553
+#DATASETS   0
+#
+#DATASET    20070002 
+#DATE       20230515
+#REACTION   82-PB-206(N,G)82-PB-207,PAR,SIG
+#PROJ       1
+#TARG       82206
+#MF         3
+#MT         900
+#PRODUCT    82-PB-207
+#C4BEGIN    [    1 82206   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82206   3 900    6460000.          2.3200-4 4.7000-5                   2740000.         LVLI.Bergqvist+         (70)20070  2 
+    1 82206   3 900    7460000.          3.8500-4 7.7000-5                   2740000.         LVLI.Bergqvist+         (70)20070  2 
+    1 82206   3 900    8430000.          5.8000-4 1.1600-4                   2740000.         LVLI.Bergqvist+         (70)20070  2 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      21113
+#AUTHOR1    P.E.Cavanagh+
+#YEAR       1969
+#INSTITUTE  (2UK HAR)
+#TITLE      Elastic and inelastic scattering of neutrons by Pu-239
+#AUTHOR(S)  P.E.Cavanagh, C.F.Coleman, D.A.Boyce, G.A.Gard, A.G.Hardacre, 
+#+          J.F.Turner
+#REF-CODE   (R,AERE-R-5972,1969)
+#REFERENCE  Report AERE-R-5972, 1969
+#DATASETS   0
+#
+#DATASET    21113005 
+#DATE       20101114
+#REACTION   94-PU-239(N,INL)94-PU-239,PAR,DA
+#PROJ       1
+#TARG       94239
+#MF         4
+#MT         51
+#PRODUCT    94-PU-239
+#C4BEGIN    [    1 94239   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   4  51  C 668000.0 10000.00 0.016100 3.1000-3 6.123-17          530000.0         LVLP.E.Cavanagh+        (69)21113  5 
+    1 94239   4  51  C 668000.0 10000.00 2.2200-3 8.0000-4 6.123-17          390000.0         LVLP.E.Cavanagh+        (69)21113  5 
+    1 94239   4  51  C 668000.0 10000.00 4.4200-3 8.0000-4 6.123-17          331000.0         LVLP.E.Cavanagh+        (69)21113  5 
+    1 94239   4  51  C 668000.0 10000.00 6.6500-3 9.0000-4 6.123-17          286000.0         LVLP.E.Cavanagh+        (69)21113  5 
+    1 94239   4  51  C 668000.0 10000.00 0.029200 2.8000-3 6.123-17          66500.00         LVLP.E.Cavanagh+        (69)21113  5 
+#/DATA      5
+#/DATASET

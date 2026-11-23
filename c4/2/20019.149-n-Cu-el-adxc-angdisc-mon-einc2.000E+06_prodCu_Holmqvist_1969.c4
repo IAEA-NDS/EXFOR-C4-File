@@ -1,0 +1,40 @@
+#ENTRY      20019
+#AUTHOR1    B.Holmqvist+
+#YEAR       1969
+#INSTITUTE  (2SWDAE)
+#TITLE      Neutron elastic scattering cross sections experimental
+#+          data and optical model cross section calculations.-
+#AUTHOR(S)  B.Holmqvist, T.Wiedling, S.G.Johansson, G.Lodin, A.Kiss, 
+#+          B.Gustavsson, B.Antolkovic
+#REF-CODE   (R,AE-366,1969)
+#REFERENCE  Report AE-366, 1969
+#DATASETS   0
+#
+#DATASET    20019149 
+#DATE       20190114
+#REACTION   29-CU-0(N,EL)29-CU-0,,DA
+#PROJ       1
+#TARG       29000
+#MF         4
+#MT         2
+#PRODUCT    29-CU-0
+#C4BEGIN    [    1 29000   4   2 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29000   4   2 CC 2000000. 50000.00 0.087000 4.3500-3-0.870000                              B.Holmqvist+         (69)20019149 
+    1 29000   4   2 CC 2000000. 50000.00 0.115000 5.7500-3-0.773000                              B.Holmqvist+         (69)20019149 
+    1 29000   4   2 CC 2000000. 50000.00 0.121000 6.0500-3-0.652000                              B.Holmqvist+         (69)20019149 
+    1 29000   4   2 CC 2000000. 50000.00 0.131000 6.5500-3-0.512000                              B.Holmqvist+         (69)20019149 
+    1 29000   4   2 CC 2000000. 50000.00 0.129000 6.4500-3-0.356000                              B.Holmqvist+         (69)20019149 
+    1 29000   4   2 CC 2000000. 50000.00 0.116000 5.8000-3-0.189000                              B.Holmqvist+         (69)20019149 
+    1 29000   4   2 CC 2000000. 50000.00 0.105000 5.2500-3-0.016000                              B.Holmqvist+         (69)20019149 
+    1 29000   4   2 CC 2000000. 50000.00 0.085000 4.2500-3 0.158000                              B.Holmqvist+         (69)20019149 
+    1 29000   4   2 CC 2000000. 50000.00 0.080000 4.0000-3 0.328000                              B.Holmqvist+         (69)20019149 
+    1 29000   4   2 CC 2000000. 50000.00 0.123000 6.1500-3 0.488000                              B.Holmqvist+         (69)20019149 
+    1 29000   4   2 CC 2000000. 50000.00 0.207000 0.010350 0.633000                              B.Holmqvist+         (69)20019149 
+    1 29000   4   2 CC 2000000. 50000.00 0.352000 0.017600 0.760000                              B.Holmqvist+         (69)20019149 
+    1 29000   4   2 CC 2000000. 50000.00 0.562000 0.028100 0.862000                              B.Holmqvist+         (69)20019149 
+    1 29000   4   2 CC 2000000. 50000.00 0.740000 0.037000 0.938000                              B.Holmqvist+         (69)20019149 
+#/DATA      14
+#/DATASET

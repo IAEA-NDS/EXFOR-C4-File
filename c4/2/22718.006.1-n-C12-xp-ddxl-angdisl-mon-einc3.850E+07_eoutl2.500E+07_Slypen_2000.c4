@@ -1,0 +1,34 @@
+#ENTRY      22718
+#AUTHOR1    I.Slypen+
+#YEAR       2000
+#INSTITUTE  (2BLGLVN)
+#TITLE      Experimental cross sections for light charged particle
+#+          production induced by neutrons with energies between
+#+          25 and 75 MeV incident on carbon
+#AUTHOR(S)  I.Slypen, S.Benck, J.P.Meulders, V.Corcalciuc, M.B.Chadwick, 
+#+          C.Dufauquez
+#REF-CODE   (J,AND,76,26,2000)
+#REFERENCE  At.Data Nucl.Data T. 76 (2000) 26
+#DATASETS   0
+#
+#DATASET    227180061
+#DATE       20181002
+#REACTION   6-C-12(N,X)1-H-1,,DA/DE
+#PROJ       1
+#TARG       6012
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    1  6012   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   6 203    3.8500+7 1500000. 8.820-10 5.900-11 0.939693          2.5000+7          E2I.Slypen+            (00)22718  61
+    1  6012   6 203    3.8500+7 1500000. 8.760-10 5.800-11 0.866025          2.5000+7          E2I.Slypen+            (00)22718  61
+    1  6012   6 203    3.8500+7 1500000. 3.820-10 3.800-11 0.766044          2.5000+7          E2I.Slypen+            (00)22718  61
+    1  6012   6 203    3.8500+7 1500000. 1.570-10 1.900-11 0.642788          2.5000+7          E2I.Slypen+            (00)22718  61
+    1  6012   6 203    3.8500+7 1500000. 1.200-10 1.200-11 0.500000          2.5000+7          E2I.Slypen+            (00)22718  61
+    1  6012   6 203    3.8500+7 1500000. 3.600-11 8.000-12 0.342020          2.5000+7          E2I.Slypen+            (00)22718  61
+    1  6012   6 203    3.8500+7 1500000. 3.730-10 9.000-12 0.173648          2.5000+7          E2I.Slypen+            (00)22718  61
+#/DATA      7
+#/DATASET

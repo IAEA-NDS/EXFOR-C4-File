@@ -1,0 +1,28 @@
+#ENTRY      20615
+#AUTHOR1    A.Asami+
+#YEAR       1970
+#INSTITUTE  (2UK HAR)
+#TITLE      -LOW-ENERGY NEUTRON-SCATTERING CROSS-SECTION OF LI-6
+#AUTHOR(S)  A.Asami, M.C.Moxon
+#REF-CODE   (C,70HELSINKI,1,153,7006)
+#REFERENCE  Proceedings of Nuclear Data for Reactors Conf., Helsinki 1970 1 page 153
+#DATASETS   0
+#
+#DATASET    20615003 
+#DATE       19840127
+#REACTION   3-LI-6(N,EL)3-LI-6,,DA
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [    1  3006   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4   2  C 51500.00          0.070000 6.0000-3 0.713250                              A.Asami+             (70)20615  3 
+    1  3006   4   2  C 51500.00          0.067000 3.0000-3 0.284015                              A.Asami+             (70)20615  3 
+    1  3006   4   2  C 51500.00          0.080000 5.0000-3-0.785857                              A.Asami+             (70)20615  3 
+    1  3006   4   2  C 51500.00          0.095000 0.010000-0.860742                              A.Asami+             (70)20615  3 
+#/DATA      4
+#/DATASET

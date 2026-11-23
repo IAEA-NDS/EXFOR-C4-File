@@ -1,0 +1,31 @@
+#ENTRY      22720
+#AUTHOR1    H.Morgenstern+
+#YEAR       1966
+#INSTITUTE  (2GERBER)
+#TITLE      Neutron-induced reactions on silicon: proton and
+#+          alpha-particle energy and angular distributions
+#AUTHOR(S)  H.Morgenstern, D.Hilscher, J.Scheer
+#REF-CODE   (J,NP,83,369,1966)
+#REFERENCE  Nucl.Phys. 83 (1966) 369
+#DATASETS   0
+#
+#DATASET    22720002 
+#DATE       20011115
+#REACTION   14-SI-28(N,A)12-MG-25,PAR,DA
+#PROJ       1
+#TARG       14028
+#MF         4
+#MT         800
+#PRODUCT    12-MG-25
+#C4BEGIN    [    1 14028   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14028   4 800  C 1.4600+7 100000.0 6.0570-3 6.2440-4 0.999799 3.4998-4 0.000000         LVLH.Morgenstern+       (66)22720  2 
+    1 14028   4 800  C 1.4600+7 100000.0 8.3700-4 3.8240-4 0.666663 0.013009 0.000000         LVLH.Morgenstern+       (66)22720  2 
+    1 14028   4 800  C 1.4600+7 100000.0 3.6960-4 3.3660-4 0.341036 0.016407 0.000000         LVLH.Morgenstern+       (66)22720  2 
+    1 14028   4 800  C 1.4600+7 100000.0 8.7600-4 3.3660-4-0.564967 0.014401 0.000000         LVLH.Morgenstern+       (66)22720  2 
+    1 14028   4 800  C 1.4600+7 100000.0 7.9350-4 3.8200-4-0.807990 0.010283 0.000000         LVLH.Morgenstern+       (66)22720  2 
+    1 14028   4 800  C 1.4600+7 100000.0 7.0870-4 4.4310-4-0.999962 1.5231-4 0.000000         LVLH.Morgenstern+       (66)22720  2 
+#/DATA      6
+#/DATASET

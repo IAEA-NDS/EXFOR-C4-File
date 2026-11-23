@@ -1,0 +1,41 @@
+#ENTRY      22795
+#AUTHOR1    M.Kerveno+
+#YEAR       2021
+#INSTITUTE  (2FR STR)
+#TITLE      Measurement of 238U(n,n'gamma) cross section data and
+#+          their impact on reaction models
+#AUTHOR(S)  M.Kerveno, M.Dupuis, A.Bacquias, F.Belloni, D.Bernard, C.Borcea, 
+#+          M.Boromiza, R.Capote, C.De Saint Jean, P.Dessagne, J.C.Drohe, 
+#+          G.Henning, S.Hilaire, T.Kawano, P.Leconte, N.Nankov, A.Negret, 
+#+          M.Nyman, A.Olacel, A.J.M.Plompen, P.Romain, C.Rouki, G.Rudolf, 
+#+          M.Stanoiu, R.Wynants
+#REF-CODE   (J,PR/C,104,044605,2021)
+#REFERENCE  Phys.Rev.C 104 (2021) 044605
+#DATASETS   0
+#
+#DATASET    22795005 
+#DATE       20220202
+#REACTION   92-U-238(N,INL)92-U-238,PAR,DA,G
+#PROJ       1
+#TARG       92238
+#MF         14
+#MT         51
+#PRODUCT    92-U-238
+#C4BEGIN    [    1 92238  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238  14  51 A  1.2903+7 1119100. 0.000000 0.000000-0.342020          257800.0            M.Kerveno+           (21)22795  5 
+    1 92238  14  51 A  1.0914+7 869900.0 2.0000-4 6.3000-5-0.342020          257800.0            M.Kerveno+           (21)22795  5 
+    1 92238  14  51 A  9354100. 689800.0 6.0000-4 1.1076-4-0.342020          257800.0            M.Kerveno+           (21)22795  5 
+    1 92238  14  51 A  8108000. 556400.0 7.0000-4 9.4640-5-0.342020          257800.0            M.Kerveno+           (21)22795  5 
+    1 92238  14  51 A  7096300. 455400.0 1.0000-3 9.5500-5-0.342020          257800.0            M.Kerveno+           (21)22795  5 
+    1 92238  14  51 A  6263500. 377500.0 1.1000-3 9.4930-5-0.342020          257800.0            M.Kerveno+           (21)22795  5 
+    1 92238  14  51 A  5569700. 316400.0 1.0000-3 9.2300-5-0.342020          257800.0            M.Kerveno+           (21)22795  5 
+    1 92238  14  51 A  4985400. 267800.0 7.0000-4 7.9800-5-0.342020          257800.0            M.Kerveno+           (21)22795  5 
+    1 92238  14  51 A  4488700. 228800.0 6.0000-4 7.2420-5-0.342020          257800.0            M.Kerveno+           (21)22795  5 
+    1 92238  14  51 A  4062900. 197000.0 4.0000-4 7.5800-5-0.342020          257800.0            M.Kerveno+           (21)22795  5 
+    1 92238  14  51 A  3695100. 170900.0 1.0000-4 2.3630-5-0.342020          257800.0            M.Kerveno+           (21)22795  5 
+    1 92238  14  51 A  3375100. 149100.0 0.000000 0.000000-0.342020          257800.0            M.Kerveno+           (21)22795  5 
+#/DATA      12
+#/DATASET

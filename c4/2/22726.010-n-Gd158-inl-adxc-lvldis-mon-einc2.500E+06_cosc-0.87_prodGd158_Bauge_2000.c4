@@ -1,0 +1,29 @@
+#ENTRY      22726
+#AUTHOR1    E.Bauge+
+#YEAR       2000
+#INSTITUTE  (2FR BRC)
+#TITLE      .Neutron scattering from the Gd-155,156,157,158,160
+#+          isotopes-measurements and analyses with a deformed,
+#+          semimicroscopic optical model.
+#AUTHOR(S)  E.Bauge, J.P.Delaroche, M.Girod, G.Haouat, J.Lachkar, Y.Patin, 
+#+          J.Sigaud, J.Chardine
+#REF-CODE   (J,PR/C,61,034306,2000)
+#REFERENCE  Phys.Rev.C 61 (2000) 034306
+#DATASETS   0
+#
+#DATASET    22726010 
+#DATE       20050216
+#REACTION   64-GD-158(N,INL)64-GD-158,PAR,DA
+#PROJ       1
+#TARG       64158
+#MF         4
+#MT         51
+#PRODUCT    64-GD-158
+#C4BEGIN    [    1 64158   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 64158   4  51  C 2500000. 14000.00 0.019950 3.2718-3-0.867765          80000.00         LVLE.Bauge+             (00)22726 10 
+    1 64158   4  51  C 2500000. 14000.00 5.0400-3 1.3759-3-0.867765          261000.0         LVLE.Bauge+             (00)22726 10 
+#/DATA      2
+#/DATASET

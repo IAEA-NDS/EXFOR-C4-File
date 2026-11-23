@@ -1,0 +1,31 @@
+#ENTRY      23440
+#AUTHOR1    S.Benck+
+#YEAR       1997
+#INSTITUTE  (2BLGLVN)
+#TITLE      Neutron-proton differential cross section measurements
+#+          for En from 28 to 75 MeV
+#AUTHOR(S)  S.Benck, I.Slypen, V.Corcalciuc, J-P.Meulders
+#REF-CODE   (J,NP/A,615,220,1997)
+#REFERENCE  Nucl.Phys.A 615 (1997) 220
+#DATASETS   0
+#
+#DATASET    23440002 
+#DATE       20181002
+#REACTION   1-H-1(N,EL)1-H-1,,DA
+#PROJ       1
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    1  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   4   2  C 6.2700+7 2000000. 0.010200 3.0000-4 0.766044                              S.Benck+             (97)23440  2 
+    1  1001   4   2  C 6.2700+7 2000000. 8.6000-3 2.0000-4 0.500000                              S.Benck+             (97)23440  2 
+    1  1001   4   2  C 6.2700+7 2000000. 7.9000-3 2.0000-4 0.173648                              S.Benck+             (97)23440  2 
+    1  1001   4   2  C 6.2700+7 2000000. 8.5000-3 2.0000-4-0.173648                              S.Benck+             (97)23440  2 
+    1  1001   4   2  C 6.2700+7 2000000. 9.9000-3 2.0000-4-0.500000                              S.Benck+             (97)23440  2 
+    1  1001   4   2  C 6.2700+7 2000000. 0.012200 3.0000-4-0.766044                              S.Benck+             (97)23440  2 
+#/DATA      6
+#/DATASET

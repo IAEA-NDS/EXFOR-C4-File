@@ -1,0 +1,35 @@
+#ENTRY      22880
+#AUTHOR1    E.Raeymackers+
+#YEAR       2003
+#INSTITUTE  (2BLGLVN)
+#TITLE      Light charged particle emission in fast neutron
+#+          (25 - 65 MeV) induced reactions on Bi-209
+#AUTHOR(S)  E.Raeymackers, S.Benck, N.Nica, I.Slypen, J.P.Meulders, 
+#+          V.Corcalciuc, A.J.Koning
+#REF-CODE   (J,NP/A,726,210,2003)
+#REFERENCE  Nucl.Phys.A 726 (2003) 210
+#DATASETS   0
+#
+#DATASET    228800131
+#DATE       20151018
+#REACTION   83-BI-209(N,X)1-H-2,,DA/DE
+#PROJ       1
+#TARG       83209
+#MF         6
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [    1 83209   6 204  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 83209   6 204    3.4500+7 1500000. 4.990-10 1.000-10 0.939693          1.7000+7          E2E.Raeymackers+       (03)22880 131
+    1 83209   6 204    3.4500+7 1500000. 2.880-10 8.700-11 0.866025          1.7000+7          E2E.Raeymackers+       (03)22880 131
+    1 83209   6 204    3.4500+7 1500000. 1.490-10 6.700-11 0.766044          1.7000+7          E2E.Raeymackers+       (03)22880 131
+    1 83209   6 204    3.4500+7 1500000. 2.430-10 7.700-11 0.642788          1.7000+7          E2E.Raeymackers+       (03)22880 131
+    1 83209   6 204    3.4500+7 1500000. 1.470-10 5.600-11 0.500000          1.7000+7          E2E.Raeymackers+       (03)22880 131
+    1 83209   6 204    3.4500+7 1500000. 1.330-10 5.400-11 0.342020          1.7000+7          E2E.Raeymackers+       (03)22880 131
+    1 83209   6 204    3.4500+7 1500000. 3.200-11 1.900-11-0.342020          1.7000+7          E2E.Raeymackers+       (03)22880 131
+    1 83209   6 204    3.4500+7 1500000. 1.300-11 1.100-11-0.766044          1.7000+7          E2E.Raeymackers+       (03)22880 131
+    1 83209   6 204    3.4500+7 1500000. 1.400-11 1.100-11-0.939693          1.7000+7          E2E.Raeymackers+       (03)22880 131
+#/DATA      9
+#/DATASET

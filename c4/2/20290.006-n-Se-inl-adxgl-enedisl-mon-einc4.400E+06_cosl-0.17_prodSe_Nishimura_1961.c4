@@ -1,0 +1,27 @@
+#ENTRY      20290
+#AUTHOR1    K.Nishimura+
+#YEAR       1961
+#INSTITUTE  (2JPNJAE)
+#TITLE      Gamma-rays from inelastic scattering of neutrons by
+#+          Fe, Cu, Zn, Ge and Se
+#AUTHOR(S)  K.Nishimura
+#REF-CODE   (J,JPJ,16,355,1961)
+#REFERENCE  J.Phys.Soc.Jpn. 16 (1961) 355
+#DATASETS   0
+#
+#DATASET    20290006 
+#DATE       20170425
+#REACTION   34-SE-0(N,INL)34-SE-0,PAR,DA,G
+#PROJ       1
+#TARG       34000
+#MF         14
+#MT         51
+#PRODUCT    34-SE-0
+#C4BEGIN    [    1 34000  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 34000  14  51 A  4400000. 100000.0 0.035800 0.010740-0.173648          560000.0 20000.00   K.Nishimura          (61)20290  6 
+    1 34000  14  51 A  4400000. 100000.0 0.088100 0.013215-0.173648          660000.0 10000.00   K.Nishimura          (61)20290  6 
+#/DATA      2
+#/DATASET

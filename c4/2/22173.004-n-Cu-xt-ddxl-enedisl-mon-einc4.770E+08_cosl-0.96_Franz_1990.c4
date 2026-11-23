@@ -1,0 +1,30 @@
+#ENTRY      22173
+#AUTHOR1    J.Franz+
+#YEAR       1990
+#INSTITUTE  (2SWTPSI)
+#TITLE      -NEUTRON-INDUCED PRODUCTION OF PROTONS, DEUTERONS AND
+#+          TRITONS ON COPPER AND BISMUTH.
+#AUTHOR(S)  J.Franz, P.Koncz, E.Roessle, C.Sauerwein, H.Schmitt, K.Schmoll, 
+#+          J.Eroe, Z.Fodor, J.Kecskemeti, Z.Kovacs, Z.Seres
+#REF-CODE   (J,NP/A,510,774,9004)
+#REFERENCE  Nucl.Phys.A 510 (1990) 774
+#DATASETS   0
+#
+#DATASET    22173004 
+#DATE       19910523
+#REACTION   29-CU-0(N,X)1-H-3,,DA/DE
+#PROJ       1
+#TARG       29000
+#MF         6
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [    1 29000   6 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29000   6 205    4.7700+8          2.646-12 6.830-13-0.961262          5.9000+7 1000000. E2J.Franz+             (90)22173  4 
+    1 29000   6 205    4.7700+8          8.923-13 1.740-13-0.961262          6.5000+7 5000000. E2J.Franz+             (90)22173  4 
+    1 29000   6 205    4.7700+8          2.864-13 9.700-14-0.961262          7.5000+7 5000000. E2J.Franz+             (90)22173  4 
+    1 29000   6 205    4.7700+8          5.680-14 4.100-14-0.961262          8.5000+7 5000000. E2J.Franz+             (90)22173  4 
+#/DATA      4
+#/DATASET

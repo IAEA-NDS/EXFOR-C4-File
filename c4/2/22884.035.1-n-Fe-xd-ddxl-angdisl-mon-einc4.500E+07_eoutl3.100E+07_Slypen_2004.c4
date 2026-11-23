@@ -1,0 +1,35 @@
+#ENTRY      22884
+#AUTHOR1    I.Slypen+
+#YEAR       2004
+#INSTITUTE  (2BLGLVN)
+#TITLE      Light charged particle emission induced by fast
+#+          neutrons with energies between 25 and 65 MeV on iron
+#AUTHOR(S)  I.Slypen, N.Nica, A.Koning, E.Raeymackers, S.Benck, J.P.Meulders, 
+#+          V.Corcalciuc
+#REF-CODE   (J,JP/G,30,45,2004)
+#REFERENCE  J.Phys.G 30 (2004) 45
+#DATASETS   0
+#
+#DATASET    228840351
+#DATE       20151024
+#REACTION   26-FE-0(N,X)1-H-2,,DA/DE
+#PROJ       1
+#TARG       26000
+#MF         6
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [    1 26000   6 204  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26000   6 204    4.5000+7 2000000. 1.0420-9 9.900-11 0.939693          3.1000+7          E2I.Slypen+            (04)22884 351
+    1 26000   6 204    4.5000+7 2000000. 6.960-10 8.800-11 0.866025          3.1000+7          E2I.Slypen+            (04)22884 351
+    1 26000   6 204    4.5000+7 2000000. 4.340-10 6.400-11 0.766044          3.1000+7          E2I.Slypen+            (04)22884 351
+    1 26000   6 204    4.5000+7 2000000. 2.960-10 5.700-11 0.642788          3.1000+7          E2I.Slypen+            (04)22884 351
+    1 26000   6 204    4.5000+7 2000000. 2.210-10 4.700-11 0.500000          3.1000+7          E2I.Slypen+            (04)22884 351
+    1 26000   6 204    4.5000+7 2000000. 1.650-10 4.100-11 0.342020          3.1000+7          E2I.Slypen+            (04)22884 351
+    1 26000   6 204    4.5000+7 2000000. 3.400-11 1.300-11-0.342020          3.1000+7          E2I.Slypen+            (04)22884 351
+    1 26000   6 204    4.5000+7 2000000. 1.900-11 8.000-12-0.766044          3.1000+7          E2I.Slypen+            (04)22884 351
+    1 26000   6 204    4.5000+7 2000000. 2.500-11 1.100-11-0.939693          3.1000+7          E2I.Slypen+            (04)22884 351
+#/DATA      9
+#/DATASET

@@ -1,0 +1,27 @@
+#ENTRY      20962
+#AUTHOR1    J.H.Montague+
+#YEAR       1962
+#INSTITUTE  (2UK HAR)
+#TITLE      -CROSS SECTIONS FOR THE PRODUCTION OF GAMMA-RAYS BY
+#+          THE INELASTIC SCATTERING OF NEUTRONS FROM IRON-.
+#AUTHOR(S)  J.H.Montague, E.B.Paul
+#REF-CODE   (J,NP,30,93,6202)
+#REFERENCE  Nucl.Phys. 30 (1962) 93
+#DATASETS   0
+#
+#DATASET    20962004 
+#DATE       19791211
+#REACTION   26-FE-56(N,INL)26-FE-56,PAR,SIG,G
+#PROJ       1
+#TARG       26056
+#MF         13
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056  13  51    2740000. 50000.00 0.071000 9.0000-3                   1260000.            J.H.Montague+        (62)20962  4 
+    1 26056  13  51    2740000. 50000.00 0.036000 4.0000-3                   1810000.            J.H.Montague+        (62)20962  4 
+#/DATA      2
+#/DATASET

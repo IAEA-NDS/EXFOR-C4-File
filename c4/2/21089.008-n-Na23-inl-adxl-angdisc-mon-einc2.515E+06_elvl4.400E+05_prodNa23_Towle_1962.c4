@@ -1,0 +1,29 @@
+#ENTRY      21089
+#AUTHOR1    J.H.Towle+
+#YEAR       1962
+#INSTITUTE  (2UK ALD)
+#TITLE      -The interaction of neutrons with sodium in the
+#+          energy range 0.5 to 4 MeV -.
+#AUTHOR(S)  J.H.Towle, W.B.Gilboy
+#REF-CODE   (J,NP,32,610,196205)
+#REFERENCE  Nucl.Phys. 32 (1962) 610
+#DATASETS   0
+#
+#DATASET    21089008 
+#DATE       20070718
+#REACTION   11-NA-23(N,INL)11-NA-23,PAR,DA
+#PROJ       1
+#TARG       11023
+#MF         4
+#MT         51
+#PRODUCT    11-NA-23
+#C4BEGIN    [    1 11023   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 11023   4  51  C 2515000. 65000.00 0.046000 2.0000-3-0.744000          440000.0         LVLJ.H.Towle+           (62)21089  8 
+    1 11023   4  51  C 2515000. 65000.00 0.044000 2.0000-3-0.530000          440000.0         LVLJ.H.Towle+           (62)21089  8 
+    1 11023   4  51  C 2515000. 65000.00 0.042000 2.0000-3-0.040000          440000.0         LVLJ.H.Towle+           (62)21089  8 
+    1 11023   4  51  C 2515000. 65000.00 0.042000 2.5000-3 0.470000          440000.0         LVLJ.H.Towle+           (62)21089  8 
+#/DATA      4
+#/DATASET

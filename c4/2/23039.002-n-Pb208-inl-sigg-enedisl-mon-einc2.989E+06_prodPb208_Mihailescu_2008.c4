@@ -1,0 +1,28 @@
+#ENTRY      23039
+#AUTHOR1    L.C.Mihailescu+
+#YEAR       2008
+#INSTITUTE  (2ZZZGEL)
+#TITLE      A measurement of (n,xng) cross sections for 208Pb from
+#+          threshold up to 20 MeV
+#AUTHOR(S)  L.C.Mihailescu, C.Borcea, P.Baumann, Ph.Dessagne, E.Jericha, 
+#+          H.Karam, M.Kerveno, A.J.Koning, N.Leveque, A.Pavlik, A.J.M.Plompen, 
+#+          C.Quetel, G.Rudolf, I.Tresl
+#REF-CODE   (J,NP/A,811,1,2008)
+#REFERENCE  Nucl.Phys.A 811 (2008) 1
+#DATASETS   0
+#
+#DATASET    23039002 
+#DATE       20160106
+#REACTION   82-PB-208(N,INL)82-PB-208,PAR,SIG,G
+#PROJ       1
+#TARG       82208
+#MF         13
+#MT         51
+#PRODUCT    82-PB-208
+#C4BEGIN    [    1 82208  13  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82208  13  51 D  2989440. 2885.000 0.481302 0.026817                   2614510.            L.C.Mihailescu+      (08)23039  2 
+#/DATA      1
+#/DATASET

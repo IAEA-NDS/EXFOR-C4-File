@@ -1,0 +1,35 @@
+#ENTRY      22856
+#AUTHOR1    E.Raeymackers+
+#YEAR       2003
+#INSTITUTE  (2BLGLVN)
+#TITLE      Light charged particle production in the interaction
+#+          of fast neutrons (25-65 MeV) with uranium nuclei
+#AUTHOR(S)  E.Raeymackers, S.Benck, I.Slypen, J.P.Meulders, N.Nica, 
+#+          V.Corcalciuc, A.Koning
+#REF-CODE   (J,PR/C,68,024604,2003)
+#REFERENCE  Phys.Rev.C 68 (2003) 024604
+#DATASETS   0
+#
+#DATASET    228560251
+#DATE       20151025
+#REACTION   92-U-0(N,X)1-H-3,,DA/DE
+#PROJ       1
+#TARG       92000
+#MF         6
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [    1 92000   6 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92000   6 205    6.2700+7 2500000. 2.090-10 1.900-11 0.939693          3.7500+7          E2E.Raeymackers+       (03)22856 251
+    1 92000   6 205    6.2700+7 2500000. 1.950-10 1.800-11 0.866025          3.7500+7          E2E.Raeymackers+       (03)22856 251
+    1 92000   6 205    6.2700+7 2500000. 1.210-10 1.900-11 0.766044          3.7500+7          E2E.Raeymackers+       (03)22856 251
+    1 92000   6 205    6.2700+7 2500000. 1.230-10 1.600-11 0.642788          3.7500+7          E2E.Raeymackers+       (03)22856 251
+    1 92000   6 205    6.2700+7 2500000. 6.300-11 1.000-11 0.500000          3.7500+7          E2E.Raeymackers+       (03)22856 251
+    1 92000   6 205    6.2700+7 2500000. 5.000-11 9.000-12 0.342020          3.7500+7          E2E.Raeymackers+       (03)22856 251
+    1 92000   6 205    6.2700+7 2500000. 6.000-12 3.000-12-0.342020          3.7500+7          E2E.Raeymackers+       (03)22856 251
+    1 92000   6 205    6.2700+7 2500000. 3.000-12 2.000-12-0.766044          3.7500+7          E2E.Raeymackers+       (03)22856 251
+    1 92000   6 205    6.2700+7 2500000. 3.000-12 2.000-12-0.939693          3.7500+7          E2E.Raeymackers+       (03)22856 251
+#/DATA      9
+#/DATASET

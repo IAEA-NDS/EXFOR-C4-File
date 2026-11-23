@@ -1,0 +1,34 @@
+#ENTRY      21986
+#AUTHOR1    S.Chiba+
+#YEAR       1985
+#INSTITUTE  (2JPNTOH)
+#TITLE      Double-differential neutron emission cross sections
+#+          of 6Li and 7Li at incident neutron energies of 4.2,
+#+          5.4, 6.0 and 14.2 MeV
+#AUTHOR(S)  S.Chiba, M.Baba, H.Nakashima, M.Ono, N.Yabuta, S.Yukinori, 
+#+          N.Hirakawa
+#REF-CODE   (J,NST,22,771,1985)
+#REFERENCE  J.Nucl.Sci.Technol. 22 (1985) 771
+#DATASETS   0
+#
+#DATASET    21986002 
+#DATE       20151128
+#REACTION   3-LI-6(N,X)0-NN-1,,DA/DE
+#PROJ       1
+#TARG       3006
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    1  3006   6 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   6 201    4200000. 300000.0 3.5680-8 9.6700-9-0.573576          400000.0 100000.0 E2S.Chiba+             (85)21986  2 
+    1  3006   6 201    4200000. 300000.0 3.3970-8 5.0000-9-0.573576          600000.0 100000.0 E2S.Chiba+             (85)21986  2 
+    1  3006   6 201    4200000. 300000.0 4.1600-8 4.7200-9-0.573576          800000.0 100000.0 E2S.Chiba+             (85)21986  2 
+    1  3006   6 201    4200000. 300000.0 2.0180-8 3.4400-9-0.573576          1000000. 100000.0 E2S.Chiba+             (85)21986  2 
+    1  3006   6 201    4200000. 300000.0 5.2590-9 2.2000-9-0.573576          1200000. 100000.0 E2S.Chiba+             (85)21986  2 
+    1  3006   6 201    4200000. 300000.0 2.1400-9 1.1470-9-0.573576          1400000. 100000.0 E2S.Chiba+             (85)21986  2 
+    1  3006   6 201    4200000. 300000.0 7.600-11 4.900-11-0.573576          1600000. 100000.0 E2S.Chiba+             (85)21986  2 
+#/DATA      7
+#/DATASET

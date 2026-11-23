@@ -1,0 +1,30 @@
+#ENTRY      22271
+#AUTHOR1    Y.Nagai+
+#YEAR       1991
+#INSTITUTE  (2JPNTIT)
+#TITLE      Measurement of the neutron capture rate of the
+#+          12C(n,g)13C reaction at stellar energy
+#AUTHOR(S)  Y.Nagai, M.Igashira K.Takeda, N.Mukai, S.Motoyama, F.Uesawa, 
+#+          H.Kitazawa, T.Fukuda
+#REF-CODE   (J,AJ,372,683,1991)
+#REFERENCE  Astrophys.J. 372 (1991) 683
+#DATASETS   0
+#
+#DATASET    22271006 
+#DATE       20170130
+#REACTION   6-C-12(N,G)6-C-13,PAR,SIG,,SPA
+#PROJ       1
+#TARG       6012
+#MF         3
+#MT         900
+#PRODUCT    6-C-13
+#C4BEGIN    [    1  6012   3 900 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   3 900 D  30000.00          3.3000-6 9.0000-7                   0.000000         LVLY.Nagai+             (91)22271  6 
+    1  6012   3 900 D  30000.00          9.6000-6 1.3000-6                   3090000.         LVLY.Nagai+             (91)22271  6 
+    1  6012   3 900 D  30000.00          1.7000-6 8.0000-7                   3680000.         LVLY.Nagai+             (91)22271  6 
+    1  6012   3 900 D  30000.00          2.2000-6 1.1000-6                   3850000.         LVLY.Nagai+             (91)22271  6 
+#/DATA      4
+#/DATASET

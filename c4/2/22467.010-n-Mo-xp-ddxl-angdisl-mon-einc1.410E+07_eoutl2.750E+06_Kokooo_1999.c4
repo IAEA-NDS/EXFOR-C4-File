@@ -1,0 +1,30 @@
+#ENTRY      22467
+#AUTHOR1    Kokooo+
+#YEAR       1999
+#INSTITUTE  (2JPNOSA)
+#TITLE      Measurements of Double-Differential Cross Sections
+#+          Of Charged Particles Emission Reactions For Several
+#+          Structural Elements of Fusion Power Reactors by
+#+          14.1 MeV Incident Neutrons
+#AUTHOR(S)  Kokooo, I.Murata, A.Takahashi
+#REF-CODE   (J,NSE,132,(1),16,1999)
+#REFERENCE  Nucl.Sci.Eng. 132 No.1 (1999) 16
+#DATASETS   0
+#
+#DATASET    22467010 
+#DATE       20000603
+#REACTION   42-MO-0(N,X)1-H-1,,DA/DE
+#PROJ       1
+#TARG       42000
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    1 42000   6 203 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 42000   6 203 A  1.4100+7 100000.0 1.2170-9 2.222-10 0.707107          2750000.          E2Kokooo+              (99)22467 10 
+    1 42000   6 203 A  1.4100+7 100000.0 8.393-10 2.098-10 0.500000          2750000.          E2Kokooo+              (99)22467 10 
+    1 42000   6 203 A  1.4100+7 100000.0 1.6807-9 7.663-10-0.500000          2750000.          E2Kokooo+              (99)22467 10 
+#/DATA      3
+#/DATASET

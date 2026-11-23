@@ -1,0 +1,35 @@
+#ENTRY      20482
+#AUTHOR1    J.Cabe+
+#YEAR       1967
+#INSTITUTE  (2FR BRC)
+#TITLE      Search for an intermediate structure in neutron total
+#+          cross sections (in French)
+#AUTHOR(S)  J.Cabe, M.Laurat, P.Yvon, G.Bardolle
+#REF-CODE   (J,NP/A,102,92,196709)
+#REFERENCE  Nucl.Phys.A 102 (1967) 92
+#DATASETS   0
+#
+#DATASET    20482005 
+#DATE       20100715
+#REACTION   26-FE-56(N,EL)26-FE-56,,DA
+#PROJ       1
+#TARG       26056
+#MF         4
+#MT         2
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056   4   2    755000.0 35000.00 0.213600         -0.866020                              J.Cabe+              (67)20482  5 
+    1 26056   4   2    755000.0 35000.00 0.229600         -0.707100                              J.Cabe+              (67)20482  5 
+    1 26056   4   2    755000.0 35000.00 0.212300         -0.500000                              J.Cabe+              (67)20482  5 
+    1 26056   4   2    755000.0 35000.00 0.221100         -0.258810                              J.Cabe+              (67)20482  5 
+    1 26056   4   2    755000.0 35000.00 0.204800          6.123-17                              J.Cabe+              (67)20482  5 
+    1 26056   4   2    755000.0 35000.00 0.231700          0.258820                              J.Cabe+              (67)20482  5 
+    1 26056   4   2    755000.0 35000.00 0.295200          0.500000                              J.Cabe+              (67)20482  5 
+    1 26056   4   2    755000.0 35000.00 0.335900          0.707100                              J.Cabe+              (67)20482  5 
+    1 26056   4   2    755000.0 35000.00 0.463500          0.866020                              J.Cabe+              (67)20482  5 
+    1 26056   4   2    755000.0 35000.00 0.552000          0.939690                              J.Cabe+              (67)20482  5 
+#/DATA      10
+#/DATASET

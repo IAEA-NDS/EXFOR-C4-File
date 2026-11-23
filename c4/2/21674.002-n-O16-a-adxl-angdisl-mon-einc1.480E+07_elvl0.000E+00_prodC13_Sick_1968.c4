@@ -1,0 +1,35 @@
+#ENTRY      21674
+#AUTHOR1    I.Sick+
+#YEAR       1968
+#INSTITUTE  (2SWTBAS)
+#TITLE      -Measurement of the differential cross sections of the
+#+          reaction O-16(N,A)C-13 in the energy range 14.8 - 18.8
+#+          MeV -.
+#AUTHOR(S)  I.Sick, E.Baumgartner, P.Huber, Th.Stammbach
+#REF-CODE   (J,HPA,41,573,1968)
+#REFERENCE  Helv.Phys.Acta 41 (1968) 573
+#DATASETS   0
+#
+#DATASET    21674002 
+#DATE       20160622
+#REACTION   8-O-16(N,A)6-C-13,PAR,DA
+#PROJ       1
+#TARG       8016
+#MF         4
+#MT         800
+#PRODUCT    6-C-13
+#C4BEGIN    [    1  8016   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8016   4 800    1.4800+7 350000.0 2.0705-3 1.0352-4 1.000000          0.000000         LVLI.Sick+              (68)21674  2 
+    1  8016   4 800    1.4800+7 350000.0 1.8471-3 9.2355-5 0.927184          0.000000         LVLI.Sick+              (68)21674  2 
+    1  8016   4 800    1.4800+7 350000.0 1.0406-3 5.2030-5 0.731354          0.000000         LVLI.Sick+              (68)21674  2 
+    1  8016   4 800    1.4800+7 350000.0 9.5170-4 4.7585-5 0.438371          0.000000         LVLI.Sick+              (68)21674  2 
+    1  8016   4 800    1.4800+7 350000.0 1.0492-3 5.2460-5 0.104528          0.000000         LVLI.Sick+              (68)21674  2 
+    1  8016   4 800    1.4800+7 350000.0 1.4097-3 7.0485-5-0.241922          0.000000         LVLI.Sick+              (68)21674  2 
+    1  8016   4 800    1.4800+7 350000.0 1.9567-3 9.7835-5-0.529919          0.000000         LVLI.Sick+              (68)21674  2 
+    1  8016   4 800    1.4800+7 350000.0 1.8883-3 9.4415-5-0.766044          0.000000         LVLI.Sick+              (68)21674  2 
+    1  8016   4 800    1.4800+7 350000.0 1.1018-3 5.5090-5-0.913545          0.000000         LVLI.Sick+              (68)21674  2 
+#/DATA      9
+#/DATASET

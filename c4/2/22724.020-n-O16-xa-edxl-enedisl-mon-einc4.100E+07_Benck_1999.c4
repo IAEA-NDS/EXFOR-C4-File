@@ -1,0 +1,36 @@
+#ENTRY      22724
+#AUTHOR1    S.Benck+
+#YEAR       1999
+#INSTITUTE  (2BLGLVN)
+#TITLE      Experimental cross sections for light-charged particle
+#+          production induced by neutrons with energies between
+#+          28 and 63 MeV incident on oxygen
+#AUTHOR(S)  S.Benck, I.Slypen, J.P.Meulders, V.Corcalciuc
+#REF-CODE   (J,AND,72,1,1999)
+#REFERENCE  At.Data Nucl.Data T. 72 (1999) 1
+#DATASETS   0
+#
+#DATASET    22724020 
+#DATE       20181002
+#REACTION   8-O-16(N,X)2-HE-4,,DE
+#PROJ       1
+#TARG       8016
+#MF         5
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1  8016   5 207 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8016   5 207 D  4.1000+7 2000000. 3.2800-9 2.0700-9                   1.3500+7          E2S.Benck+             (99)22724 20 
+    1  8016   5 207 D  4.1000+7 2000000. 2.5000-9 1.2900-9                   1.6500+7          E2S.Benck+             (99)22724 20 
+    1  8016   5 207 D  4.1000+7 2000000. 1.5300-9 7.200-10                   1.9500+7          E2S.Benck+             (99)22724 20 
+    1  8016   5 207 D  4.1000+7 2000000. 6.900-10 3.600-10                   2.2500+7          E2S.Benck+             (99)22724 20 
+    1  8016   5 207 D  4.1000+7 2000000. 5.000-10 2.700-10                   2.5500+7          E2S.Benck+             (99)22724 20 
+    1  8016   5 207 D  4.1000+7 2000000. 3.000-10 1.500-10                   2.8500+7          E2S.Benck+             (99)22724 20 
+    1  8016   5 207 D  4.1000+7 2000000. 1.600-10 9.000-11                   3.1500+7          E2S.Benck+             (99)22724 20 
+    1  8016   5 207 D  4.1000+7 2000000. 9.000-11 6.000-11                   3.4500+7          E2S.Benck+             (99)22724 20 
+    1  8016   5 207 D  4.1000+7 2000000. 7.000-11 4.000-11                   3.7500+7          E2S.Benck+             (99)22724 20 
+    1  8016   5 207 D  4.1000+7 2000000. 5.000-11 3.000-11                   4.0500+7          E2S.Benck+             (99)22724 20 
+#/DATA      10
+#/DATASET

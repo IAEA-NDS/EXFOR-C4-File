@@ -1,0 +1,27 @@
+#ENTRY      22999
+#AUTHOR1    Y.Nagai+
+#YEAR       2007
+#INSTITUTE  (2JPNOSA)
+#TITLE      .Role of multiparticle-multihole states in 18,19-O in
+#+          thermal neutron capture of 18-O
+#AUTHOR(S)  Y.Nagai, M.Segawa, T.Ohsaki, H.Matsue, K.Muto
+#REF-CODE   (J,PR/C,76,051301,200711)
+#REFERENCE  Phys.Rev.C 76 (2007) 051301
+#DATASETS   0
+#
+#DATASET    229990032
+#DATE       20080522
+#REACTION   8-O-18(N,G)8-O-19,PAR,SIG,G,MXW
+#PROJ       1
+#TARG       8018
+#MF         13
+#MT         900
+#PRODUCT    8-O-19
+#C4BEGIN    [    1  8018  13 900 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8018  13 900 D  0.025300          1.6600-4 1.3000-5                   197300.0            Y.Nagai+             (07)22999  32
+    1  8018  13 900 D  0.025300          8.5000-5 8.0000-6                   1356500.            Y.Nagai+             (07)22999  32
+#/DATA      2
+#/DATASET

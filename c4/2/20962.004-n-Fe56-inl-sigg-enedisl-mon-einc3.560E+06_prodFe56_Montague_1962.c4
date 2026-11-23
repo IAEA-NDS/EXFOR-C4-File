@@ -1,0 +1,32 @@
+#ENTRY      20962
+#AUTHOR1    J.H.Montague+
+#YEAR       1962
+#INSTITUTE  (2UK HAR)
+#TITLE      -CROSS SECTIONS FOR THE PRODUCTION OF GAMMA-RAYS BY
+#+          THE INELASTIC SCATTERING OF NEUTRONS FROM IRON-.
+#AUTHOR(S)  J.H.Montague, E.B.Paul
+#REF-CODE   (J,NP,30,93,6202)
+#REFERENCE  Nucl.Phys. 30 (1962) 93
+#DATASETS   0
+#
+#DATASET    20962004 
+#DATE       19791211
+#REACTION   26-FE-56(N,INL)26-FE-56,PAR,SIG,G
+#PROJ       1
+#TARG       26056
+#MF         13
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056  13  51    3560000. 50000.00 0.090000 0.011000                   1260000.            J.H.Montague+        (62)20962  4 
+    1 26056  13  51    3560000. 50000.00 0.103000 0.013000                   1810000.            J.H.Montague+        (62)20962  4 
+    1 26056  13  51    3560000. 50000.00 0.112000 0.013000                   2100000.            J.H.Montague+        (62)20962  4 
+    1 26056  13  51    3560000. 50000.00 0.157000 0.019000                   2260000.            J.H.Montague+        (62)20962  4 
+    1 26056  13  51    3560000. 50000.00 0.100000 0.012000                   2600000.            J.H.Montague+        (62)20962  4 
+    1 26056  13  51    3560000. 50000.00 0.045000 5.0000-3                   3000000.            J.H.Montague+        (62)20962  4 
+    1 26056  13  51    3560000. 50000.00 0.056000 0.011000                   3300000.            J.H.Montague+        (62)20962  4 
+#/DATA      7
+#/DATASET

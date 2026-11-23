@@ -1,0 +1,34 @@
+#ENTRY      21086
+#AUTHOR1    B.H.Armitage+
+#YEAR       1966
+#INSTITUTE  (2UK HAR)
+#TITLE      Inelastic scattering of fast neutrons by U-235
+#AUTHOR(S)  B.H.Armitage, A.T.G.Ferguson, J.H.Montague, N.Starfelt
+#REF-CODE   (C,66PARIS,1,383,1966)
+#REFERENCE  Proceedings of Nuclear Data For Reactors Conf., Paris 1966 1 page 383
+#DATASETS   0
+#
+#DATASET    21086003 
+#DATE       20230130
+#REACTION   92-U-235(N,INL)92-U-235,PAR,DA,,4PI
+#PROJ       1
+#TARG       92235
+#MF         4
+#MT         51
+#PRODUCT    92-U-235
+#C4BEGIN    [    1 92235   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   4  51    1000000.          0.014483 2.8966-3 6.123-17          75000.00 25000.00LVLB.H.Armitage+        (66)21086  3 
+    1 92235   4  51    1000000.          0.014165 2.8330-3 6.123-17          125000.0 25000.00LVLB.H.Armitage+        (66)21086  3 
+    1 92235   4  51    1000000.          0.010345 2.0690-3 6.123-17          175000.0 25000.00LVLB.H.Armitage+        (66)21086  3 
+    1 92235   4  51    1000000.          0.013210 2.6420-3 6.123-17          250000.0 50000.00LVLB.H.Armitage+        (66)21086  3 
+    1 92235   4  51    1000000.          0.014881 2.9762-3 6.123-17          350000.0 50000.00LVLB.H.Armitage+        (66)21086  3 
+    1 92235   4  51    1000000.          0.014085 2.8170-3 6.123-17          450000.0 50000.00LVLB.H.Armitage+        (66)21086  3 
+    1 92235   4  51    1000000.          0.010027 2.0054-3 6.123-17          550000.0 50000.00LVLB.H.Armitage+        (66)21086  3 
+    1 92235   4  51    1000000.          0.013687 2.7375-3 6.123-17          650000.0 50000.00LVLB.H.Armitage+        (66)21086  3 
+    1 92235   4  51    1000000.          0.012494 2.4987-3 6.123-17          750000.0 50000.00LVLB.H.Armitage+        (66)21086  3 
+    1 92235   4  51    1000000.          7.0824-3 1.4165-3 6.123-17          850000.0 50000.00LVLB.H.Armitage+        (66)21086  3 
+#/DATA      10
+#/DATASET

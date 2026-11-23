@@ -1,0 +1,33 @@
+#ENTRY      20434
+#AUTHOR1    J.Sigaud+
+#YEAR       1975
+#INSTITUTE  (2FR BRC)
+#TITLE      Level and decay schemes of even-a Se and Ge isotopes
+#+          from (n,n gamma) reaction studies
+#AUTHOR(S)  J.Sigaud, Y.Patin, M.T.McEllistrem, G.Haouat, J.Lachkar
+#REF-CODE   (C,75WASH,2,893,1975)
+#REFERENCE  Proceedings of Conf.on Nucl.Cross-Sect.and Techn.,Washington 1975 2 page 893
+#DATASETS   0
+#
+#DATASET    20434041 
+#DATE       20170430
+#REACTION   34-SE-82(N,INL)34-SE-82,PAR,DA,G
+#PROJ       1
+#TARG       34082
+#MF         14
+#MT         51
+#PRODUCT    34-SE-82
+#C4BEGIN    [    1 34082  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 34082  14  51 A  3000000.          0.120400          0.866025          654800.0            J.Sigaud+            (75)20434 41 
+    1 34082  14  51 A  3000000.          7.8000-3          0.866025          755700.0            J.Sigaud+            (75)20434 41 
+    1 34082  14  51 A  3000000.          3.5000-3          0.866025          816400.0            J.Sigaud+            (75)20434 41 
+    1 34082  14  51 A  3000000.          0.026800          0.866025          1077300.            J.Sigaud+            (75)20434 41 
+    1 34082  14  51 A  3000000.          0.027700          0.866025          1732100.            J.Sigaud+            (75)20434 41 
+    1 34082  14  51 A  3000000.          3.2000-3          0.866025          1860800.            J.Sigaud+            (75)20434 41 
+    1 34082  14  51 A  3000000.          3.5000-3          0.866025          1896300.            J.Sigaud+            (75)20434 41 
+    1 34082  14  51 A  3000000.          8.1000-3          0.866025          1972100.            J.Sigaud+            (75)20434 41 
+#/DATA      8
+#/DATASET

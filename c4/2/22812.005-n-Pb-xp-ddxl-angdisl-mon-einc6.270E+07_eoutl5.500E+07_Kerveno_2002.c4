@@ -1,0 +1,35 @@
+#ENTRY      22812
+#AUTHOR1    M.Kerveno+
+#YEAR       2002
+#INSTITUTE  (2FR NTE)
+#TITLE      Hydrogen isotope double differential production cross
+#+          sections induced by 62.7 MeV neutrons on a lead
+#+          target
+#AUTHOR(S)  M.Kerveno, F.Haddad, Ph.Eudes, T.Kirchner, C.Lebrun, I.Slypen, 
+#+          J.P.Meulders, C.Le Brun, F.R.Lecolley, J.F.Lecolley, M.Louvel, 
+#+          F.Lefebvres, S.Hilaire, A.J.Koning
+#REF-CODE   (J,PR/C,66,014601,2002)
+#REFERENCE  Phys.Rev.C 66 (2002) 014601
+#DATASETS   0
+#
+#DATASET    22812005 
+#DATE       20151026
+#REACTION   82-PB-0(N,X)1-H-1,,DA/DE
+#PROJ       1
+#TARG       82000
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    1 82000   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82000   6 203    6.2700+7 2000000. 1.3699-9 4.860-11 0.939693          5.5000+7          E2M.Kerveno+           (02)22812  5 
+    1 82000   6 203    6.2700+7 2000000. 8.560-10 4.300-11 0.866025          5.5000+7          E2M.Kerveno+           (02)22812  5 
+    1 82000   6 203    6.2700+7 2000000. 6.934-10 3.630-11 0.766044          5.5000+7          E2M.Kerveno+           (02)22812  5 
+    1 82000   6 203    6.2700+7 2000000. 3.617-10 2.630-11 0.642788          5.5000+7          E2M.Kerveno+           (02)22812  5 
+    1 82000   6 203    6.2700+7 2000000. 2.222-10 1.980-11 0.500000          5.5000+7          E2M.Kerveno+           (02)22812  5 
+    1 82000   6 203    6.2700+7 2000000. 1.367-10 1.580-11 0.342020          5.5000+7          E2M.Kerveno+           (02)22812  5 
+    1 82000   6 203    6.2700+7 2000000. 8.600-12 2.700-12-0.342020          5.5000+7          E2M.Kerveno+           (02)22812  5 
+#/DATA      7
+#/DATASET

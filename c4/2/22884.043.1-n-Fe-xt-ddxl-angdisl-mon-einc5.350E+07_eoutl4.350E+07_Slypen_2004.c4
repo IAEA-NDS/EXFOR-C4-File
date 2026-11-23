@@ -1,0 +1,29 @@
+#ENTRY      22884
+#AUTHOR1    I.Slypen+
+#YEAR       2004
+#INSTITUTE  (2BLGLVN)
+#TITLE      Light charged particle emission induced by fast
+#+          neutrons with energies between 25 and 65 MeV on iron
+#AUTHOR(S)  I.Slypen, N.Nica, A.Koning, E.Raeymackers, S.Benck, J.P.Meulders, 
+#+          V.Corcalciuc
+#REF-CODE   (J,JP/G,30,45,2004)
+#REFERENCE  J.Phys.G 30 (2004) 45
+#DATASETS   0
+#
+#DATASET    228840431
+#DATE       20151024
+#REACTION   26-FE-0(N,X)1-H-3,,DA/DE
+#PROJ       1
+#TARG       26000
+#MF         6
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [    1 26000   6 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26000   6 205    5.3500+7 2500000. 2.400-11 1.400-11 0.939693          4.3500+7          E2I.Slypen+            (04)22884 431
+    1 26000   6 205    5.3500+7 2500000. 2.800-11 1.600-11 0.866025          4.3500+7          E2I.Slypen+            (04)22884 431
+    1 26000   6 205    5.3500+7 2500000. 2.400-11 1.400-11 0.766044          4.3500+7          E2I.Slypen+            (04)22884 431
+#/DATA      3
+#/DATASET

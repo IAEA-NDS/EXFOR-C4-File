@@ -1,0 +1,29 @@
+#ENTRY      22446
+#AUTHOR1    H.Beer+
+#YEAR       1997
+#INSTITUTE  (2GERKFK)
+#TITLE      Measurement of direct neutron capture by neutron-rich
+#+          sulfur isotopes
+#AUTHOR(S)  H.Beer, C.Coceva, R.Hofinger, P.Mohr, H.Oberhummer, P.V.Sedyshev, 
+#+          Yu.P.Popov
+#REF-CODE   (J,NP/A,621,235,1997)
+#REFERENCE  Nucl.Phys.A 621 (1997) 235
+#DATASETS   0
+#
+#DATASET    22446004 
+#DATE       20181225
+#REACTION   16-S-36(N,G)16-S-37,PAR,SIG,,MXW
+#PROJ       1
+#TARG       16036
+#MF         3
+#MT         900
+#PRODUCT    16-S-37
+#C4BEGIN    [    1 16036   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 16036   3 900    0.025300          0.054800 6.9000-3                   2638000.         LVLH.Beer+              (97)22446  4 
+    1 16036   3 900    0.025300          0.031300 5.1000-3                   1992000.         LVLH.Beer+              (97)22446  4 
+    1 16036   3 900    0.025300          0.153300 9.9000-3                   647000.0         LVLH.Beer+              (97)22446  4 
+#/DATA      3
+#/DATASET

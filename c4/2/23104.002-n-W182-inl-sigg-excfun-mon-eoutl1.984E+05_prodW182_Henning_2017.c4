@@ -1,0 +1,33 @@
+#ENTRY      23104
+#AUTHOR1    G.Henning+
+#YEAR       2017
+#INSTITUTE  (2FR STR)
+#TITLE      Measurement of (n,xngamma) reaction cross sections in
+#+          W isotopes
+#AUTHOR(S)  G.Henning, A.Bacquias, C.Borcea, R.Capote, P.Dessagne, J.-C.Drohe, 
+#+          T.Kawano, M.Kerveno, A.Negret, M.Nyman, A.Olacel, A.Plompen, 
+#+          P.Romain, P.Scholtes, G.Rudolf
+#REF-CODE   (J,EPJ/CS,146,11016,2017)
+#REFERENCE  EPJ Web Conf. 146 (2017) 11016
+#DATASETS   0
+#
+#DATASET    23104002 
+#DATE       20250221
+#REACTION   74-W-182(N,INL)74-W-182,PAR,SIG,G
+#PROJ       1
+#TARG       74182
+#MF         13
+#MT         51
+#PRODUCT    74-W-182
+#C4BEGIN    [    1 74182  13  51 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74182  13  51 C  1656359.          5.8190-3 1.6740-3                   198400.0            G.Henning+           (17)23104  2 
+    1 74182  13  51 C  2172845.          0.013209 1.3950-3                   198400.0            G.Henning+           (17)23104  2 
+    1 74182  13  51 C  3000125.          0.019539 1.4370-3                   198400.0            G.Henning+           (17)23104  2 
+    1 74182  13  51 C  4410018.          0.024457 2.0310-3                   198400.0            G.Henning+           (17)23104  2 
+    1 74182  13  51 C  7115572.          0.026433 2.3930-3                   198400.0            G.Henning+           (17)23104  2 
+    1 74182  13  51 C  1.2708+7          0.017077 4.2860-3                   198400.0            G.Henning+           (17)23104  2 
+#/DATA      6
+#/DATASET

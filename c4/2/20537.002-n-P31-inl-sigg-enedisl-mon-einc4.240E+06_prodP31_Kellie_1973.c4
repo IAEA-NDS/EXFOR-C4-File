@@ -1,0 +1,27 @@
+#ENTRY      20537
+#AUTHOR1    J.D.Kellie+
+#YEAR       1973
+#INSTITUTE  (2UK GLS)
+#TITLE      -INELASTIC NEUTRON SCATTERING BY FE-56 AND P-31 IN THE
+#+          ENERGY RANGE 0.8 TO 9.0 MEV.-
+#AUTHOR(S)  J.D.Kellie, M.N.Islam, G.I.Crawford
+#REF-CODE   (J,NP/A,208,525,7307)
+#REFERENCE  Nucl.Phys.A 208 (1973) 525
+#DATASETS   0
+#
+#DATASET    20537002 
+#DATE       19840126
+#REACTION   15-P-31(N,INL)15-P-31,PAR,SIG,G
+#PROJ       1
+#TARG       15031
+#MF         13
+#MT         51
+#PRODUCT    15-P-31
+#C4BEGIN    [    1 15031  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 15031  13  51    4240000.          0.207000                            1266000.            J.D.Kellie+          (73)20537  2 
+    1 15031  13  51    4240000.          0.070000                            2234000.            J.D.Kellie+          (73)20537  2 
+#/DATA      2
+#/DATASET

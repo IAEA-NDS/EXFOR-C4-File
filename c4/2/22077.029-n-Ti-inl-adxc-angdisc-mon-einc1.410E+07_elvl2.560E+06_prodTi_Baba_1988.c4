@@ -1,0 +1,37 @@
+#ENTRY      22077
+#AUTHOR1    M.Baba+
+#YEAR       1988
+#INSTITUTE  (2JPNTOH)
+#TITLE      Double differential neutron emission spectra for Al,
+#+          Ti, V, Cr, Mn, Fe, Ni, Cu, and Zr
+#AUTHOR(S)  M.Baba, M.Ishikawa, N.Yabuta, T.Kikuchi, H.Wakabayashi, 
+#+          N.Hirakawa
+#REF-CODE   (C,88MITO,,291,1988)
+#REFERENCE  Proceedings of Conf.on Nucl.Data For Sci.and Technol.,Mito 1988 page 291
+#DATASETS   0
+#
+#DATASET    22077029 
+#DATE       20180829
+#REACTION   22-TI-0(N,INL)22-TI-0,PAR,DA
+#PROJ       1
+#TARG       22000
+#MF         4
+#MT         51
+#PRODUCT    22-TI-0
+#C4BEGIN    [    1 22000   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 22000   4  51  C 1.4100+7 150000.0 3.0820-3 3.3300-4 0.901833          2560000.         LVLM.Baba+              (88)22077 29 
+    1 22000   4  51  C 1.4100+7 150000.0 1.4240-3 3.5400-4 0.859852          2560000.         LVLM.Baba+              (88)22077 29 
+    1 22000   4  51  C 1.4100+7 150000.0 2.5370-3 4.0300-4 0.784776          2560000.         LVLM.Baba+              (88)22077 29 
+    1 22000   4  51  C 1.4100+7 150000.0 3.3290-3 4.6400-4 0.695913          2560000.         LVLM.Baba+              (88)22077 29 
+    1 22000   4  51  C 1.4100+7 150000.0 2.7470-3 3.5400-4 0.594823          2560000.         LVLM.Baba+              (88)22077 29 
+    1 22000   4  51  C 1.4100+7 150000.0 1.4340-3 3.0800-4 0.483282          2560000.         LVLM.Baba+              (88)22077 29 
+    1 22000   4  51  C 1.4100+7 150000.0 2.0900-3 4.3300-4 0.151261          2560000.         LVLM.Baba+              (88)22077 29 
+    1 22000   4  51  C 1.4100+7 150000.0 6.0000-4 2.3300-4-0.195946          2560000.         LVLM.Baba+              (88)22077 29 
+    1 22000   4  51  C 1.4100+7 150000.0 9.7100-4 1.6400-4-0.516533          2560000.         LVLM.Baba+              (88)22077 29 
+    1 22000   4  51  C 1.4100+7 150000.0 1.1300-3 2.5100-4-0.718126          2560000.         LVLM.Baba+              (88)22077 29 
+    1 22000   4  51  C 1.4100+7 150000.0 1.2140-3 2.0600-4-0.872069          2560000.         LVLM.Baba+              (88)22077 29 
+#/DATA      11
+#/DATASET

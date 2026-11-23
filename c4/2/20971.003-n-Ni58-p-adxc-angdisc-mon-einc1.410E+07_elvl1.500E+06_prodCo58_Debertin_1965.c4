@@ -1,0 +1,32 @@
+#ENTRY      20971
+#AUTHOR1    K.Debertin+
+#YEAR       1965
+#INSTITUTE  (2GERFRK)
+#TITLE      The reaction Ni-58(n,p)Co-58 at different neutron
+#+          energies
+#AUTHOR(S)  K.Debertin, E.Rossle
+#REF-CODE   (J,NP,70,89,1965)
+#REFERENCE  Nucl.Phys. 70 (1965) 89
+#DATASETS   0
+#
+#DATASET    20971003 
+#DATE       20190903
+#REACTION   28-NI-58(N,P)27-CO-58,PAR,DA
+#PROJ       1
+#TARG       28058
+#MF         4
+#MT         600
+#PRODUCT    27-CO-58
+#C4BEGIN    [    1 28058   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   4 600  C 1.4100+7 200000.0 4.5000-3 4.0500-4 0.990300          1500000. 1500000.LVLK.Debertin+          (65)20971  3 
+    1 28058   4 600  C 1.4100+7 200000.0 3.5000-3 3.1500-4 0.902600          1500000. 1500000.LVLK.Debertin+          (65)20971  3 
+    1 28058   4 600  C 1.4100+7 200000.0 3.0000-3 2.7000-4 0.725400          1500000. 1500000.LVLK.Debertin+          (65)20971  3 
+    1 28058   4 600  C 1.4100+7 200000.0 2.6000-3 2.3400-4 0.484800          1500000. 1500000.LVLK.Debertin+          (65)20971  3 
+    1 28058   4 600  C 1.4100+7 200000.0 1.6500-3 2.6400-4-0.026200          1500000. 1500000.LVLK.Debertin+          (65)20971  3 
+    1 28058   4 600  C 1.4100+7 200000.0 1.6000-3 1.7600-4-0.515001          1500000. 1500000.LVLK.Debertin+          (65)20971  3 
+    1 28058   4 600  C 1.4100+7 200000.0 1.4500-3 2.0300-4-0.824100          1500000. 1500000.LVLK.Debertin+          (65)20971  3 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      22491
+#AUTHOR1    S.Benck+
+#YEAR       1998
+#INSTITUTE  (2BLGLVN)
+#TITLE      Light charged particle production in neutron-induced
+#+          reactions on aluminum at En=28.5-62.7 MeV
+#AUTHOR(S)  S.Benck, I.Slypen, J.P.Meulders, V.Corcalciuc, M.B.Chadwick, 
+#+          P.G.Young, A.J.Koning
+#REF-CODE   (J,PR/C,58,(3),1558,199809)
+#REFERENCE  Phys.Rev.C 58 No.3 (1998) 1558
+#DATASETS   0
+#
+#DATASET    224910021
+#DATE       20151006
+#REACTION   13-AL-27(N,X)1-H-1,,DA/DE
+#PROJ       1
+#TARG       13027
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    1 13027   6 203 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   6 203 A  6.2700+7 2000000. 9.000-12 3.000-12 0.939693          6.1000+7          E2S.Benck+             (98)22491  21
+    1 13027   6 203 A  6.2700+7 2000000. 5.000-12 1.000-12 0.866025          6.1000+7          E2S.Benck+             (98)22491  21
+#/DATA      2
+#/DATASET

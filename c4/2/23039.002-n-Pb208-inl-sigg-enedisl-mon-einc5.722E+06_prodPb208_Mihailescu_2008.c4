@@ -1,0 +1,39 @@
+#ENTRY      23039
+#AUTHOR1    L.C.Mihailescu+
+#YEAR       2008
+#INSTITUTE  (2ZZZGEL)
+#TITLE      A measurement of (n,xng) cross sections for 208Pb from
+#+          threshold up to 20 MeV
+#AUTHOR(S)  L.C.Mihailescu, C.Borcea, P.Baumann, Ph.Dessagne, E.Jericha, 
+#+          H.Karam, M.Kerveno, A.J.Koning, N.Leveque, A.Pavlik, A.J.M.Plompen, 
+#+          C.Quetel, G.Rudolf, I.Tresl
+#REF-CODE   (J,NP/A,811,1,2008)
+#REFERENCE  Nucl.Phys.A 811 (2008) 1
+#DATASETS   0
+#
+#DATASET    23039002 
+#DATE       20160106
+#REACTION   82-PB-208(N,INL)82-PB-208,PAR,SIG,G
+#PROJ       1
+#TARG       82208
+#MF         13
+#MT         51
+#PRODUCT    82-PB-208
+#C4BEGIN    [    1 82208  13  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82208  13  51 D  5721560. 153165.0 0.055541 0.011529                   277370.0            L.C.Mihailescu+      (08)23039  2 
+    1 82208  13  51 D  5721560. 153165.0 0.015167 2.3120-3                   650210.0            L.C.Mihailescu+      (08)23039  2 
+    1 82208  13  51 D  5721560. 153165.0 0.023484 2.3770-3                   786790.0            L.C.Mihailescu+      (08)23039  2 
+    1 82208  13  51 D  5721560. 153165.0 0.020889 2.1870-3                   797740.0            L.C.Mihailescu+      (08)23039  2 
+    1 82208  13  51 D  5721560. 153165.0 0.042441 2.5390-3                   1615070.            L.C.Mihailescu+      (08)23039  2 
+    1 82208  13  51 D  5721560. 153165.0 0.029784 3.7370-3                   2322650.            L.C.Mihailescu+      (08)23039  2 
+    1 82208  13  51 D  5721560. 153165.0 0.020698 3.0470-3                   2423000.            L.C.Mihailescu+      (08)23039  2 
+    1 82208  13  51 D  5721560. 153165.0 0.011260 1.9570-3                   2512800.            L.C.Mihailescu+      (08)23039  2 
+    1 82208  13  51 D  5721560. 153165.0 0.011949 1.7180-3                   2949180.            L.C.Mihailescu+      (08)23039  2 
+    1 82208  13  51 D  5721560. 153165.0 0.087212 4.7920-3                   4085470.            L.C.Mihailescu+      (08)23039  2 
+    1 82208  13  51 D  5721560. 153165.0 9.9510-3 1.7470-3                   4229490.            L.C.Mihailescu+      (08)23039  2 
+    1 82208  13  51 D  5721560. 153165.0 0.025007 2.6560-3                   4841460.            L.C.Mihailescu+      (08)23039  2 
+#/DATA      12
+#/DATASET

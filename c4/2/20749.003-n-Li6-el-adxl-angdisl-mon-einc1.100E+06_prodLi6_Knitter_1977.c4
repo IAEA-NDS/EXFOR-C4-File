@@ -1,0 +1,33 @@
+#ENTRY      20749
+#AUTHOR1    H.H.Knitter+
+#YEAR       1977
+#INSTITUTE  (2ZZZGEL)
+#TITLE      -NEUTRON TOTAL AND ELASTIC SCATTERING CROSS SECTIONS
+#+          OF LI-6 IN THE ENERGY RANGE FROM 0.1 TO 3.0 MEV-
+#AUTHOR(S)  H.H.Knitter, C.Budtz-Jorgensen, N.Mailly, R.Vogt
+#REF-CODE   (R,EUR-5726E,1,7704)
+#REFERENCE  Report EUR-5726E page 1, 1977
+#DATASETS   0
+#
+#DATASET    20749003 
+#DATE       19840203
+#REACTION   3-LI-6(N,EL)3-LI-6,,DA
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [    1  3006   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4   2    1100000.          0.157800 7.9000-3 0.939693                              H.H.Knitter+         (77)20749  3 
+    1  3006   4   2    1100000.          0.155400 7.8000-3 0.819152                              H.H.Knitter+         (77)20749  3 
+    1  3006   4   2    1100000.          0.115300 5.8000-3 0.573576                              H.H.Knitter+         (77)20749  3 
+    1  3006   4   2    1100000.          0.098100 4.9000-3 0.342020                              H.H.Knitter+         (77)20749  3 
+    1  3006   4   2    1100000.          0.071300 3.6000-3 6.123-17                              H.H.Knitter+         (77)20749  3 
+    1  3006   4   2    1100000.          0.051200 2.6000-3-0.342020                              H.H.Knitter+         (77)20749  3 
+    1  3006   4   2    1100000.          0.041200 2.1000-3-0.642788                              H.H.Knitter+         (77)20749  3 
+    1  3006   4   2    1100000.          0.034100 1.8000-3-0.866025                              H.H.Knitter+         (77)20749  3 
+#/DATA      8
+#/DATASET

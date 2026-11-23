@@ -1,0 +1,35 @@
+#ENTRY      22173
+#AUTHOR1    J.Franz+
+#YEAR       1990
+#INSTITUTE  (2SWTPSI)
+#TITLE      -NEUTRON-INDUCED PRODUCTION OF PROTONS, DEUTERONS AND
+#+          TRITONS ON COPPER AND BISMUTH.
+#AUTHOR(S)  J.Franz, P.Koncz, E.Roessle, C.Sauerwein, H.Schmitt, K.Schmoll, 
+#+          J.Eroe, Z.Fodor, J.Kecskemeti, Z.Kovacs, Z.Seres
+#REF-CODE   (J,NP/A,510,774,9004)
+#REFERENCE  Nucl.Phys.A 510 (1990) 774
+#DATASETS   0
+#
+#DATASET    22173004 
+#DATE       19910523
+#REACTION   29-CU-0(N,X)1-H-3,,DA/DE
+#PROJ       1
+#TARG       29000
+#MF         6
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [    1 29000   6 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 29000   6 205    3.4770+8          2.491-11 4.643-12 0.374607          5.7000+7 1000000. E2J.Franz+             (90)22173  4 
+    1 29000   6 205    3.4770+8          2.827-11 5.024-12 0.374607          5.9000+7 1000000. E2J.Franz+             (90)22173  4 
+    1 29000   6 205    3.4770+8          1.351-11 1.531-12 0.374607          6.5000+7 5000000. E2J.Franz+             (90)22173  4 
+    1 29000   6 205    3.4770+8          1.057-11 1.384-12 0.374607          7.5000+7 5000000. E2J.Franz+             (90)22173  4 
+    1 29000   6 205    3.4770+8          6.402-12 1.082-12 0.374607          8.5000+7 5000000. E2J.Franz+             (90)22173  4 
+    1 29000   6 205    3.4770+8          1.988-12 5.850-13 0.374607          9.5000+7 5000000. E2J.Franz+             (90)22173  4 
+    1 29000   6 205    3.4770+8          2.068-12 6.190-13 0.374607          1.0500+8 5000000. E2J.Franz+             (90)22173  4 
+    1 29000   6 205    3.4770+8          1.446-12 5.230-13 0.374607          1.1500+8 5000000. E2J.Franz+             (90)22173  4 
+    1 29000   6 205    3.4770+8          3.563-13 2.550-13 0.374607          1.2500+8 5000000. E2J.Franz+             (90)22173  4 
+#/DATA      9
+#/DATASET

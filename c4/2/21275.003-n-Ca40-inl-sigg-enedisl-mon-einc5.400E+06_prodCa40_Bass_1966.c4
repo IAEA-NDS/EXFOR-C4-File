@@ -1,0 +1,27 @@
+#ENTRY      21275
+#AUTHOR1    R.Bass+
+#YEAR       1966
+#INSTITUTE  (2GERFRK)
+#TITLE      -FAST NEUTRON CROSS SECTIONS OF CA-40 -.
+#AUTHOR(S)  R.Bass, F.Saleh
+#REF-CODE   (P,EANDC(E)-66U,64,6602)
+#REFERENCE  Progress report EANDC(E)-66U page 64, 1966
+#DATASETS   0
+#
+#DATASET    21275003 
+#DATE       19801024
+#REACTION   20-CA-40(N,INL)20-CA-40,PAR,SIG,G
+#PROJ       1
+#TARG       20040
+#MF         13
+#MT         51
+#PRODUCT    20-CA-40
+#C4BEGIN    [    1 20040  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 20040  13  51    5400000. 150000.0 0.061000 0.012200                   3350000.            R.Bass+              (66)21275  3 
+    1 20040  13  51    5400000. 150000.0 0.160400 0.032080                   3730000.            R.Bass+              (66)21275  3 
+    1 20040  13  51    5400000. 150000.0 0.167900 0.033580                   3900000.            R.Bass+              (66)21275  3 
+#/DATA      3
+#/DATASET

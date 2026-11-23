@@ -1,0 +1,35 @@
+#ENTRY      22741
+#AUTHOR1    L.C.Mihailescu+
+#YEAR       2008
+#INSTITUTE  (2ZZZGEL)
+#TITLE      High resolution measurement of neutron inelastic
+#+          scattering and (n,2n) cross sections for 209Bi
+#AUTHOR(S)  L.C.Mihailescu, C.Borcea, A.J.Koning, A.Pavlik, A.J.M.Plompen
+#REF-CODE   (J,NP/A,799,1,2008)
+#REFERENCE  Nucl.Phys.A 799 (2008) 1
+#DATASETS   0
+#
+#DATASET    22741006 
+#DATE       20160106
+#REACTION   83-BI-209(N,INL)83-BI-209,PAR,SIG
+#PROJ       1
+#TARG       83209
+#MF         3
+#MT         51
+#PRODUCT    83-BI-209
+#C4BEGIN    [    1 83209   3  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 83209   3  51 D  3414150. 28200.00 0.012088 4.3790-3                   3394300.         LVLL.C.Mihailescu+      (08)22741  6 
+    1 83209   3  51 D  3471260. 28915.00 0.010529 4.3550-3                   3394300.         LVLL.C.Mihailescu+      (08)22741  6 
+    1 83209   3  51 D  3529830. 29650.00 0.026786 5.3860-3                   3394300.         LVLL.C.Mihailescu+      (08)22741  6 
+    1 83209   3  51 D  3589890. 30410.00 0.025413 5.2980-3                   3394300.         LVLL.C.Mihailescu+      (08)22741  6 
+    1 83209   3  51 D  3651490. 31195.00 0.032118 5.1720-3                   3394300.         LVLL.C.Mihailescu+      (08)22741  6 
+    1 83209   3  51 D  3714700. 32015.00 0.041635 5.7300-3                   3394300.         LVLL.C.Mihailescu+      (08)22741  6 
+    1 83209   3  51 D  3779570. 32855.00 0.034886 5.5680-3                   3394300.         LVLL.C.Mihailescu+      (08)22741  6 
+    1 83209   3  51 D  3846160. 33735.00 0.040414 5.9670-3                   3394300.         LVLL.C.Mihailescu+      (08)22741  6 
+    1 83209   3  51 D  3914530. 34635.00 0.046688 6.1030-3                   3394300.         LVLL.C.Mihailescu+      (08)22741  6 
+    1 83209   3  51 D  3984740. 35575.00 0.044530 6.2580-3                   3394300.         LVLL.C.Mihailescu+      (08)22741  6 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,31 @@
+#ENTRY      22207
+#AUTHOR1    G.Fink+
+#YEAR       1990
+#INSTITUTE  (2GERKFK)
+#TITLE      Backward angle np differential cross sections from
+#+          22 to 50 MeV.
+#AUTHOR(S)  G.Fink, P.Doll, T.D.Ford, R.Garrett, W.Heeringa, K.Hofmann, 
+#+          H.O.Klages, H.Krupp
+#REF-CODE   (J,NP/A,518,561,1990)
+#REFERENCE  Nucl.Phys.A 518 (1990) 561
+#DATASETS   0
+#
+#DATASET    22207002 
+#DATE       20150819
+#REACTION   1-H-1(N,EL)1-H-1,,DA
+#PROJ       1
+#TARG       1001
+#MF         4
+#MT         2
+#PRODUCT    1-H-1
+#C4BEGIN    [    1  1001   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   4   2  C 3.0000+7 1500000. 0.023800 1.6000-4-0.252069                              G.Fink+              (90)22207  2 
+    1  1001   4   2  C 3.0000+7 1500000. 0.024760 1.4000-4-0.493942                              G.Fink+              (90)22207  2 
+    1  1001   4   2  C 3.0000+7 1500000. 0.025770 1.5000-4-0.703395                              G.Fink+              (90)22207  2 
+    1  1001   4   2  C 3.0000+7 1500000. 0.027520 1.6000-4-0.864275                              G.Fink+              (90)22207  2 
+    1  1001   4   2  C 3.0000+7 1500000. 0.028800 1.5000-4-0.965473                              G.Fink+              (90)22207  2 
+#/DATA      5
+#/DATASET

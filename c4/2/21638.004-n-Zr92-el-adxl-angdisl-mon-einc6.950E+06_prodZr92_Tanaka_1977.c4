@@ -1,0 +1,31 @@
+#ENTRY      21638
+#AUTHOR1    S.Tanaka+
+#YEAR       1977
+#INSTITUTE  (2JPNJAE)
+#TITLE      Fast neutron scattering from Zr-90 and Zr-92
+#AUTHOR(S)  S.Tanaka, Y.Yamanouti
+#REF-CODE   (P,NEANDC(J)-51,11,1977)
+#REFERENCE  Progress report NEANDC(J)-51 page 11, 1977
+#DATASETS   0
+#
+#DATASET    21638004 
+#DATE       20220218
+#REACTION   40-ZR-92(N,EL)40-ZR-92,,DA
+#PROJ       1
+#TARG       40092
+#MF         4
+#MT         2
+#PRODUCT    40-ZR-92
+#C4BEGIN    [    1 40092   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 40092   4   2    6950000. 120000.0 0.010200 1.0000-3-0.173648                              S.Tanaka+            (77)21638  4 
+    1 40092   4   2    6950000. 120000.0 6.6200-3 1.2000-3-0.258819                              S.Tanaka+            (77)21638  4 
+    1 40092   4   2    6950000. 120000.0 9.3000-3 1.0500-3-0.342020                              S.Tanaka+            (77)21638  4 
+    1 40092   4   2    6950000. 120000.0 0.029700 2.1000-3-0.500000                              S.Tanaka+            (77)21638  4 
+    1 40092   4   2    6950000. 120000.0 0.035000 1.4000-3-0.642788                              S.Tanaka+            (77)21638  4 
+    1 40092   4   2    6950000. 120000.0 0.028400 2.3000-3-0.766044                              S.Tanaka+            (77)21638  4 
+    1 40092   4   2    6950000. 120000.0 0.022900 2.7000-3-0.866025                              S.Tanaka+            (77)21638  4 
+#/DATA      7
+#/DATASET

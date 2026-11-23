@@ -1,0 +1,27 @@
+#ENTRY      22807
+#AUTHOR1    S.Benck+
+#YEAR       2002
+#INSTITUTE  (2BLGLVN)
+#TITLE      Secondary light charged particle emission from the
+#+          interaction of 25- to 65-MeV neutrons on silicon
+#AUTHOR(S)  S.Benck, I.Slypen, J.P.Meulders, V.Corcalciuc
+#REF-CODE   (J,NSE,141,(1),55,2002)
+#REFERENCE  Nucl.Sci.Eng. 141 No.1 (2002) 55
+#DATASETS   0
+#
+#DATASET    228070321
+#DATE       20151011
+#REACTION   14-SI-0(N,X)1-H-3,,DA/DE
+#PROJ       1
+#TARG       14000
+#MF         6
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [    1 14000   6 205 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14000   6 205 A  5.3500+7 2500000. 9.100-11 3.000-11 0.939693          3.7500+7          E2S.Benck+             (02)22807 321
+    1 14000   6 205 A  5.3500+7 2500000. 0.000000          0.766044          3.7500+7          E2S.Benck+             (02)22807 321
+#/DATA      2
+#/DATASET

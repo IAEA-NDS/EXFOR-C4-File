@@ -1,0 +1,38 @@
+#ENTRY      21845
+#AUTHOR1    P.Schwarz+
+#YEAR       1983
+#INSTITUTE  (2GERKFK)
+#TITLE      -ELASTIC NEUTRON-DEUTERON SCATTERING IN THE ENERGY
+#+          RANGE FROM 2.5 MEV TO 30 MEV.
+#AUTHOR(S)  P.Schwarz, H.O.Klages, P.Doll, B.Haesner, J.Wilczynski, 
+#+          B.Zeitnitz, J.Kecskemeti
+#REF-CODE   (J,NP/A,398,(1),1,8304)
+#REFERENCE  Nucl.Phys.A 398 No.1 (1983) 1
+#DATASETS   0
+#
+#DATASET    21845002 
+#DATE       19830429
+#REACTION   1-H-2(N,EL)1-H-2,,DA
+#PROJ       1
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1002   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002   4   2  C 2.5000+7          0.063900 1.7000-3 0.713250                              P.Schwarz+           (83)21845  2 
+    1  1002   4   2  C 2.5000+7          0.035500 1.0000-3 0.411514                              P.Schwarz+           (83)21845  2 
+    1  1002   4   2  C 2.5000+7          0.015100 4.0000-4 0.074979                              P.Schwarz+           (83)21845  2 
+    1  1002   4   2  C 2.5000+7          7.5000-3 5.0000-4-0.140901                              P.Schwarz+           (83)21845  2 
+    1  1002   4   2  C 2.5000+7          3.6000-3 1.0000-4-0.333807                              P.Schwarz+           (83)21845  2 
+    1  1002   4   2  C 2.5000+7          2.0000-3 1.0000-4-0.500000                              P.Schwarz+           (83)21845  2 
+    1  1002   4   2  C 2.5000+7          1.8000-3 2.0000-4-0.636078                              P.Schwarz+           (83)21845  2 
+    1  1002   4   2  C 2.5000+7          0.017900 7.0000-4-0.887011                              P.Schwarz+           (83)21845  2 
+    1  1002   4   2  C 2.5000+7          0.034100 1.3000-3-0.949425                              P.Schwarz+           (83)21845  2 
+    1  1002   4   2  C 2.5000+7          0.052700 2.9000-3-0.984196                              P.Schwarz+           (83)21845  2 
+    1  1002   4   2  C 2.5000+7          0.062700 2.7000-3-0.996041                              P.Schwarz+           (83)21845  2 
+    1  1002   4   2  C 2.5000+7          0.071100 2.4000-3-0.999848                              P.Schwarz+           (83)21845  2 
+#/DATA      12
+#/DATASET

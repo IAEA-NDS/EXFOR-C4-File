@@ -1,0 +1,35 @@
+#ENTRY      22795
+#AUTHOR1    M.Kerveno+
+#YEAR       2021
+#INSTITUTE  (2FR STR)
+#TITLE      Measurement of 238U(n,n'gamma) cross section data and
+#+          their impact on reaction models
+#AUTHOR(S)  M.Kerveno, M.Dupuis, A.Bacquias, F.Belloni, D.Bernard, C.Borcea, 
+#+          M.Boromiza, R.Capote, C.De Saint Jean, P.Dessagne, J.C.Drohe, 
+#+          G.Henning, S.Hilaire, T.Kawano, P.Leconte, N.Nankov, A.Negret, 
+#+          M.Nyman, A.Olacel, A.J.M.Plompen, P.Romain, C.Rouki, G.Rudolf, 
+#+          M.Stanoiu, R.Wynants
+#REF-CODE   (J,PR/C,104,044605,2021)
+#REFERENCE  Phys.Rev.C 104 (2021) 044605
+#DATASETS   0
+#
+#DATASET    22795002 
+#DATE       20220202
+#REACTION   92-U-238(N,INL)92-U-238,PAR,SIG,G
+#PROJ       1
+#TARG       92238
+#MF         13
+#MT         51
+#PRODUCT    92-U-238
+#C4BEGIN    [    1 92238  13  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238  13  51 D  1.1442+7 3831570. 9.2355-4 5.6623-4                   44915.00            M.Kerveno+           (21)22795  2 
+    1 92238  13  51 D  7503890. 2951640. 5.6057-4 2.0562-4                   44915.00            M.Kerveno+           (21)22795  2 
+    1 92238  13  51 D  4071580. 1717390. 3.8474-3 8.6683-4                   44915.00            M.Kerveno+           (21)22795  2 
+    1 92238  13  51 D  1959900. 829140.0 2.2839-3 4.3759-4                   44915.00            M.Kerveno+           (21)22795  2 
+    1 92238  13  51 D  917520.0 352060.0 2.8713-3 5.7599-4                   44915.00            M.Kerveno+           (21)22795  2 
+    1 92238  13  51 D  419620.0 193640.0 1.9895-3 3.9590-4                   44915.00            M.Kerveno+           (21)22795  2 
+#/DATA      6
+#/DATASET

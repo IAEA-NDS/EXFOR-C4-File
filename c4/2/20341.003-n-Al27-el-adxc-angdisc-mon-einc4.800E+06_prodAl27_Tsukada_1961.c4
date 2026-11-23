@@ -1,0 +1,33 @@
+#ENTRY      20341
+#AUTHOR1    K.Tsukada+
+#YEAR       1961
+#INSTITUTE  (2JPNJAE)
+#TITLE      Angular distributions of fast neutrons scattered by
+#+          Al, Si, P, S and Zn
+#AUTHOR(S)  K.Tsukada, S.Tanaka, M.Maruyama, Y.Tomita
+#REF-CODE   (C,61VIENNA,1,75(18/12),1961)
+#REFERENCE  Proceedings of Reactor Physics Sem., Vienna 1961 1 page 75(18/12)
+#DATASETS   0
+#
+#DATASET    20341003 
+#DATE       20201220
+#REACTION   13-AL-27(N,EL)13-AL-27,,DA
+#PROJ       1
+#TARG       13027
+#MF         4
+#MT         2
+#PRODUCT    13-AL-27
+#C4BEGIN    [    1 13027   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   4   2  C 4800000. 75000.00 0.024200 3.6000-3-0.719000-6.1051-4                     K.Tsukada+           (61)20341  3 
+    1 13027   4   2  C 4800000. 75000.00 0.021500 3.3000-3-0.574000-5.7424-4                     K.Tsukada+           (61)20341  3 
+    1 13027   4   2  C 4800000. 75000.00 0.021900 3.0000-3-0.342000-3.9264-4                     K.Tsukada+           (61)20341  3 
+    1 13027   4   2  C 4800000. 75000.00 0.028000 3.6000-3 6.123-17 0.000000                     K.Tsukada+           (61)20341  3 
+    1 13027   4   2  C 4800000. 75000.00 0.053600 6.3000-3 0.342000 3.9264-4                     K.Tsukada+           (61)20341  3 
+    1 13027   4   2  C 4800000. 75000.00 0.133000 0.015000 0.643000 6.0164-4                     K.Tsukada+           (61)20341  3 
+    1 13027   4   2  C 4800000. 75000.00 0.308000 0.024000 0.866000 5.2906-4                     K.Tsukada+           (61)20341  3 
+    1 13027   4   2  C 4800000. 75000.00 0.451000 0.051000 0.966000 3.0513-4                     K.Tsukada+           (61)20341  3 
+#/DATA      8
+#/DATASET

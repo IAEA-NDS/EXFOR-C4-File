@@ -1,0 +1,33 @@
+#ENTRY      20197
+#AUTHOR1    S.G.Malmskog+
+#YEAR       1972
+#INSTITUTE  (2SWDAE)
+#TITLE      Differential neutron elastic scattering cross sections
+#+          for Cr, Fe and Ni in the energy range 500 to
+#+          1400 keV
+#AUTHOR(S)  S.G.Malmskog
+#REF-CODE   (R,AE-FN-25,1972)
+#REFERENCE  Report AE-FN-25, 1972
+#DATASETS   0
+#
+#DATASET    20197009 
+#DATE       20200925
+#REACTION   28-NI-0(N,EL)28-NI-0,,DA
+#PROJ       1
+#TARG       28000
+#MF         4
+#MT         2
+#PRODUCT    28-NI-0
+#C4BEGIN    [    1 28000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28000   4   2  C 1050000. 15000.00 0.457500 0.032025 0.866025                              S.G.Malmskog         (72)20197  9 
+    1 28000   4   2  C 1050000. 15000.00 0.392000 0.027440 0.766044                              S.G.Malmskog         (72)20197  9 
+    1 28000   4   2  C 1050000. 15000.00 0.244600 0.017122 0.500000                              S.G.Malmskog         (72)20197  9 
+    1 28000   4   2  C 1050000. 15000.00 0.168600 0.011802 0.173648                              S.G.Malmskog         (72)20197  9 
+    1 28000   4   2  C 1050000. 15000.00 0.157700 0.011039-0.173648                              S.G.Malmskog         (72)20197  9 
+    1 28000   4   2  C 1050000. 15000.00 0.171900 0.012033-0.500000                              S.G.Malmskog         (72)20197  9 
+    1 28000   4   2  C 1050000. 15000.00 0.210500 0.014735-0.866025                              S.G.Malmskog         (72)20197  9 
+#/DATA      7
+#/DATASET

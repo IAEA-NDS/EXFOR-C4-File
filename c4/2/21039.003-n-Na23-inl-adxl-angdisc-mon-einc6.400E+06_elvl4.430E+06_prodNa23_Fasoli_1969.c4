@@ -1,0 +1,33 @@
+#ENTRY      21039
+#AUTHOR1    U.Fasoli+
+#YEAR       1969
+#INSTITUTE  (2ITYPAD)
+#TITLE      -ELASTIC AND INELASTIC SCATTERING OF NEUTRONS BY NA
+#+          AT 1.51, 2.47, 4.04 AND 6.40 MEV-
+#AUTHOR(S)  U.Fasoli, D.Toniolo, G.Zago, V.Benzi
+#REF-CODE   (J,NP/A,125,227,6902)
+#REFERENCE  Nucl.Phys.A 125 (1969) 227
+#DATASETS   0
+#
+#DATASET    21039003 
+#DATE       19800228
+#REACTION   11-NA-23(N,INL)11-NA-23,PAR,DA
+#PROJ       1
+#TARG       11023
+#MF         4
+#MT         51
+#PRODUCT    11-NA-23
+#C4BEGIN    [    1 11023   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 11023   4  51  C 6400000. 80000.00 3.1000-3         -0.866020          4430000.         LVLU.Fasoli+            (69)21039  3 
+    1 11023   4  51  C 6400000. 80000.00 3.2000-3         -0.766040          4430000.         LVLU.Fasoli+            (69)21039  3 
+    1 11023   4  51  C 6400000. 80000.00 4.3000-3         -0.642790          4430000.         LVLU.Fasoli+            (69)21039  3 
+    1 11023   4  51  C 6400000. 80000.00 3.0000-3         -0.500000          4430000.         LVLU.Fasoli+            (69)21039  3 
+    1 11023   4  51  C 6400000. 80000.00 3.5000-3         -0.342020          4430000.         LVLU.Fasoli+            (69)21039  3 
+    1 11023   4  51  C 6400000. 80000.00 2.9000-3         -0.173650          4430000.         LVLU.Fasoli+            (69)21039  3 
+    1 11023   4  51  C 6400000. 80000.00 3.5000-3          6.123-17          4430000.         LVLU.Fasoli+            (69)21039  3 
+    1 11023   4  51  C 6400000. 80000.00 3.1000-3          0.173650          4430000.         LVLU.Fasoli+            (69)21039  3 
+#/DATA      8
+#/DATASET

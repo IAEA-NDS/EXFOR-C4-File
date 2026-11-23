@@ -1,0 +1,41 @@
+#ENTRY      23130
+#AUTHOR1    Y.Watanabe+
+#YEAR       2014
+#INSTITUTE  (2SWDUPP)
+#TITLE      Light-ion production in 175 MeV quasi mono-energetic
+#+          neutron induced reactions on carbon, oxygen, and
+#+          silicon .
+#AUTHOR(S)  Y.Watanabe, S.Hirayama, H.Umishio, Y.Naitou, M.Hayashi, 
+#+          R.Bevilacqua, V.Simutkin, S.Pomp, C.Gustavsson, M.Oesterlund, 
+#+          A.Hjalmarsson, A.V.Prokofiev, U.Tippawan, P.Andersson, J.Blomgren, 
+#+          L.Nilsson, H.Sjoestrand, M.Tesinsky, T.Vilaithong
+#REF-CODE   (J,NSTP,4,569,2014)
+#REFERENCE  Prog.Nucl.Sci.Techn. 4 (2014) 569
+#DATASETS   0
+#
+#DATASET    23130003 
+#DATE       20160928
+#REACTION   8-O-0(N,X)1-H-2,,DA/DE
+#PROJ       1
+#TARG       8000
+#MF         6
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  8000   6 204  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8000   6 204    1.7500+8 2500000. 3.085-11 6.609-11 0.173648          4000000.          E2Y.Watanabe+          (14)23130  3 
+    1  8000   6 204    1.7500+8 2500000. 2.372-10 4.989-11 0.173648          1.2000+7          E2Y.Watanabe+          (14)23130  3 
+    1  8000   6 204    1.7500+8 2500000. 9.632-11 2.210-11 0.173648          2.0000+7          E2Y.Watanabe+          (14)23130  3 
+    1  8000   6 204    1.7500+8 2500000. 1.307-10 2.354-11 0.173648          2.8000+7          E2Y.Watanabe+          (14)23130  3 
+    1  8000   6 204    1.7500+8 2500000. 7.030-11 1.768-11 0.173648          3.6000+7          E2Y.Watanabe+          (14)23130  3 
+    1  8000   6 204    1.7500+8 2500000. 4.314-11 1.741-11 0.173648          4.4000+7          E2Y.Watanabe+          (14)23130  3 
+    1  8000   6 204    1.7500+8 2500000. 3.014-11 1.502-11 0.173648          5.2000+7          E2Y.Watanabe+          (14)23130  3 
+    1  8000   6 204    1.7500+8 2500000. 2.080-11 1.264-11 0.173648          6.0000+7          E2Y.Watanabe+          (14)23130  3 
+    1  8000   6 204    1.7500+8 2500000. 2.533-11 9.610-12 0.173648          7.0000+7          E2Y.Watanabe+          (14)23130  3 
+    1  8000   6 204    1.7500+8 2500000. 2.200-12 6.370-12 0.173648          8.2000+7          E2Y.Watanabe+          (14)23130  3 
+    1  8000   6 204    1.7500+8 2500000. 8.310-12 5.850-12 0.173648          9.4000+7          E2Y.Watanabe+          (14)23130  3 
+    1  8000   6 204    1.7500+8 2500000. 3.510-12 2.560-12 0.173648          1.1800+8          E2Y.Watanabe+          (14)23130  3 
+#/DATA      12
+#/DATASET

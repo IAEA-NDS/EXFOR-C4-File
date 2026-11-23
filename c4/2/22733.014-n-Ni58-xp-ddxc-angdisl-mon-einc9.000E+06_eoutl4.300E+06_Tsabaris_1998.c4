@@ -1,0 +1,30 @@
+#ENTRY      22733
+#AUTHOR1    C.Tsabaris+
+#YEAR       1998
+#INSTITUTE  (2GRCATH)
+#TITLE      .Measured and calculated differential and total yield
+#+          cross section data of Ni-58(N,xa) and Cu(N,xp) in
+#+          the neutron energy range from 2.0 to 15.6 MeV.
+#AUTHOR(S)  C.Tsabaris, E.Wattecamps, G.Rollin, C.Papadopoulos
+#REF-CODE   (J,NSE,128,47,1998)
+#REFERENCE  Nucl.Sci.Eng. 128 (1998) 47
+#DATASETS   0
+#
+#DATASET    22733014 
+#DATE       20060209
+#REACTION   28-NI-58(N,X)1-H-1,,DA/DE
+#PROJ       1
+#TARG       28058
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    1 28058   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 28058   6 203  C 9000000.          1.8000-9          0.629320          4300000.          E2C.Tsabaris+          (98)22733 14 
+    1 28058   6 203  C 9000000.          1.1430-8          0.190809          4300000.          E2C.Tsabaris+          (98)22733 14 
+    1 28058   6 203  C 9000000.          9.0400-9         -0.325568          4300000.          E2C.Tsabaris+          (98)22733 14 
+    1 28058   6 203  C 9000000.          1.0210-8         -0.777146          4300000.          E2C.Tsabaris+          (98)22733 14 
+#/DATA      4
+#/DATASET

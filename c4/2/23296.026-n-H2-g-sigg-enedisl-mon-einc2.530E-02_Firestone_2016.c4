@@ -1,0 +1,26 @@
+#ENTRY      23296
+#AUTHOR1    R.B.Firestone+
+#YEAR       2016
+#INSTITUTE  (1USAUCX)
+#TITLE      Thermal neutron capture cross sections for 16,17,18O
+#+          and 2H .
+#AUTHOR(S)  R.B.Firestone, Zs.Revay
+#REF-CODE   (J,PR/C,93,044311,2016)
+#REFERENCE  Phys.Rev.C 93 (2016) 044311
+#DATASETS   0
+#
+#DATASET    23296026 
+#DATE       20160421
+#REACTION   1-H-2(N,G)1-H-3,PAR,SIG,G
+#PROJ       1
+#TARG       1002
+#MF         13
+#MT         900
+#PRODUCT    1-H-3
+#C4BEGIN    [    1  1002  13 900 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002  13 900 D  0.025300          4.8800-4 6.0000-6                   6250240.            R.B.Firestone+       (16)23296 26 
+#/DATA      1
+#/DATASET

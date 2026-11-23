@@ -1,0 +1,30 @@
+#ENTRY      22634
+#AUTHOR1    H.Takagi+
+#YEAR       1999
+#INSTITUTE  (2JPNOSA)
+#TITLE      Measurement of double-differential cross sections of
+#+          charged particle emission reactions for nat-Zr, 27Al,
+#+          and nat-Ti by incident dt neutrons
+#AUTHOR(S)  H.Takagi, Kokooo, I.Murata, A.Takahashi
+#REF-CODE   (S,JAERI-C-99-002,204,1999)
+#REFERENCE  Report (proceedings) JAERI-C-99-002 page 204, 1999
+#DATASETS   0
+#
+#DATASET    22634003 
+#DATE       20010904
+#REACTION   13-AL-27(N,X)1-H-1,,DA/DE
+#PROJ       1
+#TARG       13027
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    1 13027   6 203 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 13027   6 203 A  1.4100+7          2.0900-9 3.700-10 0.707107          7300000.          E2H.Takagi+            (99)22634  3 
+    1 13027   6 203 A  1.4100+7          2.7700-9 3.750-10 0.500000          7300000.          E2H.Takagi+            (99)22634  3 
+    1 13027   6 203 A  1.4100+7          1.9100-9 3.730-10 0.342020          7300000.          E2H.Takagi+            (99)22634  3 
+    1 13027   6 203 A  1.4100+7          1.6000-9 3.690-10 6.123-17          7300000.          E2H.Takagi+            (99)22634  3 
+#/DATA      4
+#/DATASET

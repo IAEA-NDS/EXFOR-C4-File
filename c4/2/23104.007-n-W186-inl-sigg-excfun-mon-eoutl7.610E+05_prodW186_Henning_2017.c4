@@ -1,0 +1,37 @@
+#ENTRY      23104
+#AUTHOR1    G.Henning+
+#YEAR       2017
+#INSTITUTE  (2FR STR)
+#TITLE      Measurement of (n,xngamma) reaction cross sections in
+#+          W isotopes
+#AUTHOR(S)  G.Henning, A.Bacquias, C.Borcea, R.Capote, P.Dessagne, J.-C.Drohe, 
+#+          T.Kawano, M.Kerveno, A.Negret, M.Nyman, A.Olacel, A.Plompen, 
+#+          P.Romain, P.Scholtes, G.Rudolf
+#REF-CODE   (J,EPJ/CS,146,11016,2017)
+#REFERENCE  EPJ Web Conf. 146 (2017) 11016
+#DATASETS   0
+#
+#DATASET    23104007 
+#DATE       20250221
+#REACTION   74-W-186(N,INL)74-W-186,PAR,SIG,G
+#PROJ       1
+#TARG       74186
+#MF         13
+#MT         51
+#PRODUCT    74-W-186
+#C4BEGIN    [    1 74186  13  51 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74186  13  51 C  931834.2          0.425904 0.618037                   761000.0            G.Henning+           (17)23104  7 
+    1 74186  13  51 C  1100138.          0.932223 0.804084                   761000.0            G.Henning+           (17)23104  7 
+    1 74186  13  51 C  1321044.          1.206675 1.051991                   761000.0            G.Henning+           (17)23104  7 
+    1 74186  13  51 C  1615905.          1.308689 1.413379                   761000.0            G.Henning+           (17)23104  7 
+    1 74186  13  51 C  2021877.          1.360933 2.438650                   761000.0            G.Henning+           (17)23104  7 
+    1 74186  13  51 C  2602798.          1.447751 2.827688                   761000.0            G.Henning+           (17)23104  7 
+    1 74186  13  51 C  3476031.          1.568357 2.930740                   761000.0            G.Henning+           (17)23104  7 
+    1 74186  13  51 C  4877164.          1.714489 3.062012                   761000.0            G.Henning+           (17)23104  7 
+    1 74186  13  51 C  7338904.          1.967480 3.997226                   761000.0            G.Henning+           (17)23104  7 
+    1 74186  13  51 C  1.1944+7          2.873044 5.941385                   761000.0            G.Henning+           (17)23104  7 
+#/DATA      10
+#/DATASET

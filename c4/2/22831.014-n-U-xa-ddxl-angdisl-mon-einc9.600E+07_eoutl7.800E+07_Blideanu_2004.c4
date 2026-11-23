@@ -1,0 +1,34 @@
+#ENTRY      22831
+#AUTHOR1    V.Blideanu+
+#YEAR       2004
+#INSTITUTE  (2SWDUPP)
+#TITLE      .Nucleon-induced reactions at intermediate energies:
+#+          New data at 96 MeV and theoretical status
+#AUTHOR(S)  V.Blideanu, F.R.Lecolley, J.F.Lecolley, T.Lefort, N.Marie, 
+#+          A.Atac, G.Ban, B.Bergenwall, J.Blomgren, S.Dangtip, K.Elmgren, 
+#+          Ph.Eudes, Y.Foucher, A.Guertin, F.Haddad, A.Hildebrand, 
+#+          C.Johansson, O.Jonsson, M.Kerveno, T.Kirchner, J.Klug, Ch.Le Brun, 
+#+          C.Lebrun, M.Louvel, P.Nadel-Turonski, L.Nilsson, N.Olsson, 
+#+          S.Pomp, A.V.Prokofiev, P.-U.Renberg, G.Riviere, I.Slypen, 
+#+          L.Stuttge, U.Tippawan, M.Oesterlund
+#REF-CODE   (J,PR/C,70,(1),014607,2004)
+#REFERENCE  Phys.Rev.C 70 No.1 (2004) 014607
+#DATASETS   0
+#
+#DATASET    22831014 
+#DATE       20041126
+#REACTION   92-U-0(N,X)2-HE-4,,DA/DE
+#PROJ       1
+#TARG       92000
+#MF         6
+#MT         207
+#PRODUCT    2-HE-4
+#C4BEGIN    [    1 92000   6 207  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92000   6 207    9.6000+7          2.260-11 5.200-12 0.939693 0.023878 7.8000+7          E2V.Blideanu+          (04)22831 14 
+    1 92000   6 207    9.6000+7          1.300-11 2.900-12 0.766044 0.044875 7.8000+7          E2V.Blideanu+          (04)22831 14 
+    1 92000   6 207    9.6000+7          2.700-12 1.500-12 0.500000 0.060460 7.8000+7          E2V.Blideanu+          (04)22831 14 
+#/DATA      3
+#/DATASET

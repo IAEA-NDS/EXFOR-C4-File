@@ -1,0 +1,42 @@
+#ENTRY      23104
+#AUTHOR1    G.Henning+
+#YEAR       2017
+#INSTITUTE  (2FR STR)
+#TITLE      Measurement of (n,xngamma) reaction cross sections in
+#+          W isotopes
+#AUTHOR(S)  G.Henning, A.Bacquias, C.Borcea, R.Capote, P.Dessagne, J.-C.Drohe, 
+#+          T.Kawano, M.Kerveno, A.Negret, M.Nyman, A.Olacel, A.Plompen, 
+#+          P.Romain, P.Scholtes, G.Rudolf
+#REF-CODE   (J,EPJ/CS,146,11016,2017)
+#REFERENCE  EPJ Web Conf. 146 (2017) 11016
+#DATASETS   0
+#
+#DATASET    23104004 
+#DATE       20250221
+#REACTION   74-W-186(N,INL)74-W-186,PAR,SIG,G
+#PROJ       1
+#TARG       74186
+#MF         13
+#MT         51
+#PRODUCT    74-W-186
+#C4BEGIN    [    1 74186  13  51 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74186  13  51 C  759920.4          0.056712 6.3000-3                   738000.0            G.Henning+           (17)23104  4 
+    1 74186  13  51 C  846227.8          0.138385 8.4020-3                   738000.0            G.Henning+           (17)23104  4 
+    1 74186  13  51 C  952580.3          0.211600 0.014561                   738000.0            G.Henning+           (17)23104  4 
+    1 74186  13  51 C  1080331.          0.289222 0.020737                   738000.0            G.Henning+           (17)23104  4 
+    1 74186  13  51 C  1235636.          0.363261 0.025545                   738000.0            G.Henning+           (17)23104  4 
+    1 74186  13  51 C  1427036.          0.439998 0.036655                   738000.0            G.Henning+           (17)23104  4 
+    1 74186  13  51 C  1666658.          0.522426 0.039398                   738000.0            G.Henning+           (17)23104  4 
+    1 74186  13  51 C  1972196.          0.580478 0.055268                   738000.0            G.Henning+           (17)23104  4 
+    1 74186  13  51 C  2370280.          0.590151 0.051472                   738000.0            G.Henning+           (17)23104  4 
+    1 74186  13  51 C  2902511.          0.559051 0.054685                   738000.0            G.Henning+           (17)23104  4 
+    1 74186  13  51 C  3636846.          0.510738 0.058835                   738000.0            G.Henning+           (17)23104  4 
+    1 74186  13  51 C  4690567.          0.465467 0.054870                   738000.0            G.Henning+           (17)23104  4 
+    1 74186  13  51 C  6280613.          0.406383 0.049363                   738000.0            G.Henning+           (17)23104  4 
+    1 74186  13  51 C  8846247.          0.298420 0.044824                   738000.0            G.Henning+           (17)23104  4 
+    1 74186  13  51 C  1.3394+7          0.122665 0.037551                   738000.0            G.Henning+           (17)23104  4 
+#/DATA      15
+#/DATASET

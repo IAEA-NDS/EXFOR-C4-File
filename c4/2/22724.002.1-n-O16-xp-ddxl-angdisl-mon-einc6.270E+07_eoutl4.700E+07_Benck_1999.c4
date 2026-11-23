@@ -1,0 +1,33 @@
+#ENTRY      22724
+#AUTHOR1    S.Benck+
+#YEAR       1999
+#INSTITUTE  (2BLGLVN)
+#TITLE      Experimental cross sections for light-charged particle
+#+          production induced by neutrons with energies between
+#+          28 and 63 MeV incident on oxygen
+#AUTHOR(S)  S.Benck, I.Slypen, J.P.Meulders, V.Corcalciuc
+#REF-CODE   (J,AND,72,1,1999)
+#REFERENCE  At.Data Nucl.Data T. 72 (1999) 1
+#DATASETS   0
+#
+#DATASET    227240021
+#DATE       20181002
+#REACTION   8-O-16(N,X)1-H-1,,DA/DE
+#PROJ       1
+#TARG       8016
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    1  8016   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8016   6 203    6.2700+7 2000000. 8.020-10 2.000-11 0.939693          4.7000+7          E2S.Benck+             (99)22724  21
+    1  8016   6 203    6.2700+7 2000000. 5.170-10 1.600-11 0.866025          4.7000+7          E2S.Benck+             (99)22724  21
+    1  8016   6 203    6.2700+7 2000000. 1.350-10 7.000-12 0.766044          4.7000+7          E2S.Benck+             (99)22724  21
+    1  8016   6 203    6.2700+7 2000000. 1.290-10 6.000-12 0.642788          4.7000+7          E2S.Benck+             (99)22724  21
+    1  8016   6 203    6.2700+7 2000000. 4.200-11 5.000-12 0.500000          4.7000+7          E2S.Benck+             (99)22724  21
+    1  8016   6 203    6.2700+7 2000000. 1.500-11 2.000-12 0.342020          4.7000+7          E2S.Benck+             (99)22724  21
+    1  8016   6 203    6.2700+7 2000000. 9.000-12 1.000-12 0.173648          4.7000+7          E2S.Benck+             (99)22724  21
+#/DATA      7
+#/DATASET

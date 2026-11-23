@@ -1,0 +1,40 @@
+#ENTRY      23129
+#AUTHOR1    R.Bevilacqua+
+#YEAR       2011
+#INSTITUTE  (2SWDUPP)
+#TITLE      Medley spectrometer for light ions in neutron-induced
+#+          reactions at 175MeV.
+#AUTHOR(S)  R.Bevilacqua, S.Pomp, V.Simutkin, M.Hayashi, S.Hirayama, 
+#+          Y.Naitou, Y.Watanabe, U.Tippawan, M.Tesinsky, G.Ban, J.-L.Lecouey, 
+#+          F.-R.Lecolley, N.Marie, Q.Hamel, A.Hjalmarsson, A.V.Prokofiev, 
+#+          J.-C.David, S.Leray, C.Gustavsson, M.Oesterlund, P.Andersson, 
+#+          J.Blomgren, A.Kolozhvari, E.Tengborn
+#REF-CODE   (J,NIM/A,646,100,2011)
+#REFERENCE  Nucl.Instrum.Meth.A 646 (2011) 100
+#DATASETS   0
+#
+#DATASET    23129003 
+#DATE       20160927
+#REACTION   26-FE-0(N,X)1-H-2,,DA/DE
+#PROJ       1
+#TARG       26000
+#MF         6
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [    1 26000   6 204 P]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26000   6 204 P  1.7500+8 3000000. 2.422-10 1.155-10-0.939693          6000000.          E2R.Bevilacqua+        (11)23129  3 
+    1 26000   6 204 P  1.7500+8 3000000. 1.864-10 6.078-11-0.939693          1.2000+7          E2R.Bevilacqua+        (11)23129  3 
+    1 26000   6 204 P  1.7500+8 3000000. 1.330-10 3.550-11-0.939693          1.8000+7          E2R.Bevilacqua+        (11)23129  3 
+    1 26000   6 204 P  1.7500+8 3000000. 8.083-11 2.522-11-0.939693          2.4000+7          E2R.Bevilacqua+        (11)23129  3 
+    1 26000   6 204 P  1.7500+8 3000000. 4.662-11 1.959-11-0.939693          2.7000+7          E2R.Bevilacqua+        (11)23129  3 
+    1 26000   6 204 P  1.7500+8 3000000. 5.543-11 2.722-11-0.939693          3.5000+7          E2R.Bevilacqua+        (11)23129  3 
+    1 26000   6 204 P  1.7500+8 3000000. 3.432-11 1.950-11-0.939693          4.3000+7          E2R.Bevilacqua+        (11)23129  3 
+    1 26000   6 204 P  1.7500+8 3000000. 4.962-11 2.994-11-0.939693          5.1000+7          E2R.Bevilacqua+        (11)23129  3 
+    1 26000   6 204 P  1.7500+8 3000000. 4.977-11 3.763-11-0.939693          5.9000+7          E2R.Bevilacqua+        (11)23129  3 
+    1 26000   6 204 P  1.7500+8 3000000. 3.425-11 2.606-11-0.939693          6.7000+7          E2R.Bevilacqua+        (11)23129  3 
+    1 26000   6 204 P  1.7500+8 3000000. 1.388-11 1.254-11-0.939693          7.5000+7          E2R.Bevilacqua+        (11)23129  3 
+#/DATA      11
+#/DATASET

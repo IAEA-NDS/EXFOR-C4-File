@@ -1,0 +1,36 @@
+#ENTRY      22741
+#AUTHOR1    L.C.Mihailescu+
+#YEAR       2008
+#INSTITUTE  (2ZZZGEL)
+#TITLE      High resolution measurement of neutron inelastic
+#+          scattering and (n,2n) cross sections for 209Bi
+#AUTHOR(S)  L.C.Mihailescu, C.Borcea, A.J.Koning, A.Pavlik, A.J.M.Plompen
+#REF-CODE   (J,NP/A,799,1,2008)
+#REFERENCE  Nucl.Phys.A 799 (2008) 1
+#DATASETS   0
+#
+#DATASET    22741007 
+#DATE       20160106
+#REACTION   83-BI-209(N,INL)83-BI-209,PAR,DA,G
+#PROJ       1
+#TARG       83209
+#MF         14
+#MT         51
+#PRODUCT    83-BI-209
+#C4BEGIN    [    1 83209  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 83209  14  51 A  3575730. 75555.00 8.5100-4 2.3000-4-0.866025          2705400.            L.C.Mihailescu+      (08)22741  7 
+    1 83209  14  51 A  3731860. 80570.00 1.2840-3 2.5600-4-0.866025          2705400.            L.C.Mihailescu+      (08)22741  7 
+    1 83209  14  51 A  3898470. 86035.00 1.8260-3 2.7400-4-0.866025          2705400.            L.C.Mihailescu+      (08)22741  7 
+    1 83209  14  51 A  4076510. 92010.00 9.9100-4 2.9400-4-0.866025          2705400.            L.C.Mihailescu+      (08)22741  7 
+    1 83209  14  51 A  4267070. 98545.00 1.4550-3 3.0600-4-0.866025          2705400.            L.C.Mihailescu+      (08)22741  7 
+    1 83209  14  51 A  4471340. 105725.0 1.3950-3 2.8600-4-0.866025          2705400.            L.C.Mihailescu+      (08)22741  7 
+    1 83209  14  51 A  4690680. 113615.0 1.3110-3 2.8400-4-0.866025          2705400.            L.C.Mihailescu+      (08)22741  7 
+    1 83209  14  51 A  4926600. 122310.0 1.5390-3 2.8800-4-0.866025          2705400.            L.C.Mihailescu+      (08)22741  7 
+    1 83209  14  51 A  5180840. 131930.0 1.3870-3 3.2600-4-0.866025          2705400.            L.C.Mihailescu+      (08)22741  7 
+    1 83209  14  51 A  5455350. 142575.0 7.8800-4 2.9200-4-0.866025          2705400.            L.C.Mihailescu+      (08)22741  7 
+    1 83209  14  51 A  5752340. 154415.0 2.4000-5 2.9600-4-0.866025          2705400.            L.C.Mihailescu+      (08)22741  7 
+#/DATA      11
+#/DATASET

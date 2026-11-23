@@ -1,0 +1,36 @@
+#ENTRY      23039
+#AUTHOR1    L.C.Mihailescu+
+#YEAR       2008
+#INSTITUTE  (2ZZZGEL)
+#TITLE      A measurement of (n,xng) cross sections for 208Pb from
+#+          threshold up to 20 MeV
+#AUTHOR(S)  L.C.Mihailescu, C.Borcea, P.Baumann, Ph.Dessagne, E.Jericha, 
+#+          H.Karam, M.Kerveno, A.J.Koning, N.Leveque, A.Pavlik, A.J.M.Plompen, 
+#+          C.Quetel, G.Rudolf, I.Tresl
+#REF-CODE   (J,NP/A,811,1,2008)
+#REFERENCE  Nucl.Phys.A 811 (2008) 1
+#DATASETS   0
+#
+#DATASET    23039005 
+#DATE       20160106
+#REACTION   82-PB-208(N,INL)82-PB-208,PAR,DA,G
+#PROJ       1
+#TARG       82208
+#MF         14
+#MT         51
+#PRODUCT    82-PB-208
+#C4BEGIN    [    1 82208  14  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82208  14  51 A  4588060. 10995.00 4.9140-3 6.8100-4-0.866025          748850.0            L.C.Mihailescu+      (08)23039  5 
+    1 82208  14  51 A  4588060. 10995.00 3.1880-3 5.7700-4-0.866025          763430.0            L.C.Mihailescu+      (08)23039  5 
+    1 82208  14  51 A  4588060. 10995.00 3.8260-3 6.1400-4-0.866025          927650.0            L.C.Mihailescu+      (08)23039  5 
+    1 82208  14  51 A  4588060. 10995.00 5.1430-3 7.0100-4-0.866025          982710.0            L.C.Mihailescu+      (08)23039  5 
+    1 82208  14  51 A  4588060. 10995.00 1.6070-3 7.5700-4-0.866025          1126240.            L.C.Mihailescu+      (08)23039  5 
+    1 82208  14  51 A  4588060. 10995.00 1.4870-3 5.0500-4-0.866025          1225920.            L.C.Mihailescu+      (08)23039  5 
+    1 82208  14  51 A  4588060. 10995.00 3.3210-3 6.6000-4-0.866025          1380890.            L.C.Mihailescu+      (08)23039  5 
+    1 82208  14  51 A  4588060. 10995.00 6.0970-3 8.4300-4-0.866025          1436600.            L.C.Mihailescu+      (08)23039  5 
+    1 82208  14  51 A  4588060. 10995.00 5.5670-3 8.0200-4-0.866025          1640280.            L.C.Mihailescu+      (08)23039  5 
+#/DATA      9
+#/DATASET

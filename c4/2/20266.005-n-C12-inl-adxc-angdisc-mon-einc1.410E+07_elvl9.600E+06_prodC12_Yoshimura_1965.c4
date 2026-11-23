@@ -1,0 +1,35 @@
+#ENTRY      20266
+#AUTHOR1    A.Yoshimura+
+#YEAR       1965
+#INSTITUTE  (2JPNKYU)
+#TITLE      Time-of-flight spectrometer for fast neutrons
+#AUTHOR(S)  A.Yoshimura, M.Sonoda, A.Katase, Y.Wakuta, M.Seki, T.Akiyoshi, 
+#+          I.Fujita, H.Hyakutake
+#REF-CODE   (P,EANDC(J)-1,24,1965)
+#REFERENCE  Progress report EANDC(J)-1 page 24, 1965
+#DATASETS   0
+#
+#DATASET    20266005 
+#DATE       20170425
+#REACTION   6-C-12(N,INL)6-C-12,PAR,DA
+#PROJ       1
+#TARG       6012
+#MF         4
+#MT         51
+#PRODUCT    6-C-12
+#C4BEGIN    [    1  6012   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   4  51  C 1.4100+7 100000.0 0.018500 6.6600-3-0.332200          9600000.         LVLA.Yoshimura+         (65)20266  5 
+    1  6012   4  51  C 1.4100+7 100000.0 0.010900 1.9000-3-0.165000          9600000.         LVLA.Yoshimura+         (65)20266  5 
+    1  6012   4  51  C 1.4100+7 100000.0 0.011300 1.7000-3 0.010470          9600000.         LVLA.Yoshimura+         (65)20266  5 
+    1  6012   4  51  C 1.4100+7 100000.0 9.7000-3 1.4200-3 0.192500          9600000.         LVLA.Yoshimura+         (65)20266  5 
+    1  6012   4  51  C 1.4100+7 100000.0 0.014500 1.8000-3 0.371400          9600000.         LVLA.Yoshimura+         (65)20266  5 
+    1  6012   4  51  C 1.4100+7 100000.0 0.011700 1.1600-3 0.540200          9600000.         LVLA.Yoshimura+         (65)20266  5 
+    1  6012   4  51  C 1.4100+7 100000.0 5.5000-3 9.2000-4 0.694700          9600000.         LVLA.Yoshimura+         (65)20266  5 
+    1  6012   4  51  C 1.4100+7 100000.0 6.6000-3 6.7000-4 0.822100          9600000.         LVLA.Yoshimura+         (65)20266  5 
+    1  6012   4  51  C 1.4100+7 100000.0 7.4000-3 1.1900-3 0.919100          9600000.         LVLA.Yoshimura+         (65)20266  5 
+    1  6012   4  51  C 1.4100+7 100000.0 0.020000 3.0700-3 0.979600          9600000.         LVLA.Yoshimura+         (65)20266  5 
+#/DATA      10
+#/DATASET

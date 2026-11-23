@@ -1,0 +1,37 @@
+#ENTRY      23039
+#AUTHOR1    L.C.Mihailescu+
+#YEAR       2008
+#INSTITUTE  (2ZZZGEL)
+#TITLE      A measurement of (n,xng) cross sections for 208Pb from
+#+          threshold up to 20 MeV
+#AUTHOR(S)  L.C.Mihailescu, C.Borcea, P.Baumann, Ph.Dessagne, E.Jericha, 
+#+          H.Karam, M.Kerveno, A.J.Koning, N.Leveque, A.Pavlik, A.J.M.Plompen, 
+#+          C.Quetel, G.Rudolf, I.Tresl
+#REF-CODE   (J,NP/A,811,1,2008)
+#REFERENCE  Nucl.Phys.A 811 (2008) 1
+#DATASETS   0
+#
+#DATASET    23039004 
+#DATE       20160106
+#REACTION   82-PB-208(N,INL)82-PB-208,PAR,SIG
+#PROJ       1
+#TARG       82208
+#MF         3
+#MT         51
+#PRODUCT    82-PB-208
+#C4BEGIN    [    1 82208   3  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82208   3  51 D  5036260. 12645.00 0.100396 0.012316                   3946580.         LVLL.C.Mihailescu+      (08)23039  4 
+    1 82208   3  51 D  5036260. 12645.00 0.077059 0.011135                   3961160.         LVLL.C.Mihailescu+      (08)23039  4 
+    1 82208   3  51 D  5036260. 12645.00 0.092146 0.010341                   3995440.         LVLL.C.Mihailescu+      (08)23039  4 
+    1 82208   3  51 D  5036260. 12645.00 0.109790 9.6430-3                   4051130.         LVLL.C.Mihailescu+      (08)23039  4 
+    1 82208   3  51 D  5036260. 12645.00 0.185378 0.014326                   4085520.         LVLL.C.Mihailescu+      (08)23039  4 
+    1 82208   3  51 D  5036260. 12645.00 0.066041 0.010112                   4125350.         LVLL.C.Mihailescu+      (08)23039  4 
+    1 82208   3  51 D  5036260. 12645.00 0.061792 7.6890-3                   4180410.         LVLL.C.Mihailescu+      (08)23039  4 
+    1 82208   3  51 D  5036260. 12645.00 0.048421 7.3510-3                   4229590.         LVLL.C.Mihailescu+      (08)23039  4 
+    1 82208   3  51 D  5036260. 12645.00 0.051566 9.6640-3                   4323950.         LVLL.C.Mihailescu+      (08)23039  4 
+    1 82208   3  51 D  5036260. 12645.00 0.025100 8.6000-3                   4423650.         LVLL.C.Mihailescu+      (08)23039  4 
+#/DATA      10
+#/DATASET

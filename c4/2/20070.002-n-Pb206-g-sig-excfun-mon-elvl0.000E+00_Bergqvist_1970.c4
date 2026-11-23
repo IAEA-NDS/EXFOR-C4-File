@@ -1,0 +1,40 @@
+#ENTRY      20070
+#AUTHOR1    I.Bergqvist+
+#YEAR       1970
+#INSTITUTE  (2SWDAE)
+#TITLE      Cross sections for high-energy gamma-transitions from
+#+          MeV neutron capture in Pb-206
+#AUTHOR(S)  I.Bergqvist, B.Lundberg, L.Nilsson
+#REF-CODE   (J,NP/A,153,553,1970)
+#REFERENCE  Nucl.Phys.A 153 (1970) 553
+#DATASETS   0
+#
+#DATASET    20070002 
+#DATE       20230515
+#REACTION   82-PB-206(N,G)82-PB-207,PAR,SIG
+#PROJ       1
+#TARG       82206
+#MF         3
+#MT         900
+#PRODUCT    82-PB-207
+#C4BEGIN    [    1 82206   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82206   3 900    1580000.          4.8300-4 1.2000-4                   0.000000         LVLI.Bergqvist+         (70)20070  2 
+    1 82206   3 900    2390000.          4.7900-4 1.2000-4                   0.000000         LVLI.Bergqvist+         (70)20070  2 
+    1 82206   3 900    3190000.          1.9100-4 4.8000-5                   0.000000         LVLI.Bergqvist+         (70)20070  2 
+    1 82206   3 900    3990000.          2.8600-4 7.2000-5                   0.000000         LVLI.Bergqvist+         (70)20070  2 
+    1 82206   3 900    4080000.          3.6600-4 9.2000-5                   0.000000         LVLI.Bergqvist+         (70)20070  2 
+    1 82206   3 900    4450000.          2.6900-4 6.7000-5                   0.000000         LVLI.Bergqvist+         (70)20070  2 
+    1 82206   3 900    4560000.          2.7300-4 6.8000-5                   0.000000         LVLI.Bergqvist+         (70)20070  2 
+    1 82206   3 900    5380000.          1.7300-4 4.3000-5                   0.000000         LVLI.Bergqvist+         (70)20070  2 
+    1 82206   3 900    5440000.          2.0600-4 5.2000-5                   0.000000         LVLI.Bergqvist+         (70)20070  2 
+    1 82206   3 900    6460000.          1.6000-4 4.0000-5                   0.000000         LVLI.Bergqvist+         (70)20070  2 
+    1 82206   3 900    6500000.          1.7600-4 4.4000-5                   0.000000         LVLI.Bergqvist+         (70)20070  2 
+    1 82206   3 900    7460000.          2.0300-4 5.1000-5                   0.000000         LVLI.Bergqvist+         (70)20070  2 
+    1 82206   3 900    7490000.          1.9400-4 4.9000-5                   0.000000         LVLI.Bergqvist+         (70)20070  2 
+    1 82206   3 900    8430000.          1.2300-4 3.1000-5                   0.000000         LVLI.Bergqvist+         (70)20070  2 
+    1 82206   3 900    8450000.          1.1200-4 2.8000-5                   0.000000         LVLI.Bergqvist+         (70)20070  2 
+#/DATA      15
+#/DATASET

@@ -1,0 +1,28 @@
+#ENTRY      20069
+#AUTHOR1    B.Holmqvist+
+#YEAR       1970
+#INSTITUTE  (2SWDAE)
+#TITLE      Neutron scattering from vanadium at 1.5 to 8 MeV
+#AUTHOR(S)  B.Holmqvist, S.G.Johansson, G.Lodin, I.Wiedling
+#REF-CODE   (J,NP/A,146,321,1970)
+#REFERENCE  Nucl.Phys.A 146 (1970) 321
+#DATASETS   0
+#
+#DATASET    20069002 
+#DATE       20170421
+#REACTION   23-V-51(N,INL)23-V-51,PAR,SIG
+#PROJ       1
+#TARG       23051
+#MF         3
+#MT         51
+#PRODUCT    23-V-51
+#C4BEGIN    [    1 23051   3  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 23051   3  51    3760000. 50000.00 0.183000 0.027450                   320000.0         LVLB.Holmqvist+         (70)20069  2 
+    1 23051   3  51    3760000. 50000.00 0.094000 0.014100                   930000.0         LVLB.Holmqvist+         (70)20069  2 
+    1 23051   3  51    3760000. 50000.00 0.168000 0.025200                   1609000.         LVLB.Holmqvist+         (70)20069  2 
+    1 23051   3  51    3760000. 50000.00 0.193000 0.028950                   1813000.         LVLB.Holmqvist+         (70)20069  2 
+#/DATA      4
+#/DATASET

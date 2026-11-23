@@ -1,0 +1,35 @@
+#ENTRY      20981
+#AUTHOR1    W.Hunzinger+
+#YEAR       1962
+#INSTITUTE  (2SWTBAS)
+#TITLE      Differential cross-section of oxygen-16 for neutrons
+#+          in the MeV energy region
+#AUTHOR(S)  W.Hunzinger, P.Huber
+#REF-CODE   (J,HPA,35,351,1962)
+#REFERENCE  Helv.Phys.Acta 35 (1962) 351
+#DATASETS   0
+#
+#DATASET    20981002 
+#DATE       20170731
+#REACTION   8-O-0(N,EL)8-O-0,,DA
+#PROJ       1
+#TARG       8000
+#MF         4
+#MT         2
+#PRODUCT    8-O-0
+#C4BEGIN    [    1  8000   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  8000   4   2    2000000. 10000.00 0.134000 6.0000-3-0.640000                              W.Hunzinger+         (62)20981  2 
+    1  8000   4   2    2000000. 10000.00 0.118000 6.0000-3-0.520000                              W.Hunzinger+         (62)20981  2 
+    1  8000   4   2    2000000. 10000.00 0.111000 6.0000-3-0.410000                              W.Hunzinger+         (62)20981  2 
+    1  8000   4   2    2000000. 10000.00 0.103000 6.0000-3-0.300000                              W.Hunzinger+         (62)20981  2 
+    1  8000   4   2    2000000. 10000.00 0.098000 6.0000-3-0.150000                              W.Hunzinger+         (62)20981  2 
+    1  8000   4   2    2000000. 10000.00 0.100000 6.0000-3-0.060000                              W.Hunzinger+         (62)20981  2 
+    1  8000   4   2    2000000. 10000.00 0.099000 6.0000-3 0.050000                              W.Hunzinger+         (62)20981  2 
+    1  8000   4   2    2000000. 10000.00 0.097000 7.0000-3 0.160000                              W.Hunzinger+         (62)20981  2 
+    1  8000   4   2    2000000. 10000.00 0.105000 8.0000-3 0.270000                              W.Hunzinger+         (62)20981  2 
+    1  8000   4   2    2000000. 10000.00 0.112000 0.010000 0.400000                              W.Hunzinger+         (62)20981  2 
+#/DATA      10
+#/DATASET

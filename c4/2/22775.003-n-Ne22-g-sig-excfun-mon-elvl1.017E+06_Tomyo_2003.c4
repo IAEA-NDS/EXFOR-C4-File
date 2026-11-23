@@ -1,0 +1,28 @@
+#ENTRY      22775
+#AUTHOR1    A.Tomyo+
+#YEAR       2003
+#INSTITUTE  (2JPNOSA)
+#TITLE      .Neutron capture cross section measurement of 20,22-Ne
+#+          for stellar nucleosynthesis
+#AUTHOR(S)  A.Tomyo, Y.Nagai, Y.Nobuhara, T.Shima, H.Makii, K.Mishima, 
+#+          M.Igashira
+#REF-CODE   (J,NP/A,718,527C,2003)
+#REFERENCE  Nucl.Phys.A 718 (2003) 527C
+#DATASETS   0
+#
+#DATASET    22775003 
+#DATE       20091103
+#REACTION   10-NE-22(N,G)10-NE-23,PAR,SIG
+#PROJ       1
+#TARG       10022
+#MF         3
+#MT         900
+#PRODUCT    10-NE-23
+#C4BEGIN    [    1 10022   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 10022   3 900    26497.00          1.0946-5 2.2703-6                   1017000.         LVLA.Tomyo+             (03)22775  3 
+    1 10022   3 900    48731.00          1.6351-5 2.5946-6                   1017000.         LVLA.Tomyo+             (03)22775  3 
+#/DATA      2
+#/DATASET

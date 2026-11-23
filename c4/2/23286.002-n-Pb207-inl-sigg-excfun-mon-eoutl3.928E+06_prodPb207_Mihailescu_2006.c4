@@ -1,0 +1,29 @@
+#ENTRY      23286
+#AUTHOR1    L.C.Mihailescu+
+#YEAR       2006
+#INSTITUTE  (2ZZZGEL)
+#TITLE      Neutron (n,xng) cross-section measurements for 52Cr,
+#+          209Bi,206,207,208Pb from threshold up to 20 MeV
+#AUTHOR(S)  L.C.Mihailescu, A.J.M.Plompen, C.Borcea
+#REF-CODE   (R,EUR-22343,2006)
+#REFERENCE  Report EUR-22343, 2006
+#DATASETS   0
+#
+#DATASET    23286002 
+#DATE       20160126
+#REACTION   82-PB-207(N,INL)82-PB-207,PAR,SIG,G
+#PROJ       1
+#TARG       82207
+#MF         13
+#MT         51
+#PRODUCT    82-PB-207
+#C4BEGIN    [    1 82207  13  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 82207  13  51    3981580. 177445.0 0.014252 1.5030-3                   3928000.            L.C.Mihailescu+      (06)23286  2 
+    1 82207  13  51    4362570. 203550.0 0.015838 1.7980-3                   3928000.            L.C.Mihailescu+      (06)23286  2 
+    1 82207  13  51    4801180. 235060.0 7.9000-3 2.0970-3                   3928000.            L.C.Mihailescu+      (06)23286  2 
+    1 82207  13  51    5309680. 273445.0 6.1080-3 2.4670-3                   3928000.            L.C.Mihailescu+      (06)23286  2 
+#/DATA      4
+#/DATASET

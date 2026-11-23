@@ -1,0 +1,30 @@
+#ENTRY      22870
+#AUTHOR1    L.C.Mihailescu+
+#YEAR       2007
+#INSTITUTE  (2ZZZGEL)
+#TITLE      High resolution measurement of neutron inelastic
+#+          scattering and (n,2n) cross-sections for 52Cr
+#AUTHOR(S)  L.C.Mihailescu, C.Borcea, A.J.Koning, A.J.M.Plompen
+#REF-CODE   (J,NP/A,786,1,2007)
+#REFERENCE  Nucl.Phys.A 786 (2007) 1
+#DATASETS   0
+#
+#DATASET    22870002 
+#DATE       20160106
+#REACTION   24-CR-52(N,INL)24-CR-52,PAR,SIG,G
+#PROJ       1
+#TARG       24052
+#MF         13
+#MT         51
+#PRODUCT    24-CR-52
+#C4BEGIN    [    1 24052  13  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 24052  13  51 D  3496520. 3655.000 0.104705 0.010308                   935540.0            L.C.Mihailescu+      (07)22870  2 
+    1 24052  13  51 D  3496520. 3655.000 0.097238 9.3970-3                   1333650.            L.C.Mihailescu+      (07)22870  2 
+    1 24052  13  51 D  3496520. 3655.000 0.923895 0.034054                   1434070.            L.C.Mihailescu+      (07)22870  2 
+    1 24052  13  51 D  3496520. 3655.000 0.097226 9.0690-3                   1530670.            L.C.Mihailescu+      (07)22870  2 
+    1 24052  13  51 D  3496520. 3655.000 0.097107 9.5660-3                   1727530.            L.C.Mihailescu+      (07)22870  2 
+#/DATA      5
+#/DATASET

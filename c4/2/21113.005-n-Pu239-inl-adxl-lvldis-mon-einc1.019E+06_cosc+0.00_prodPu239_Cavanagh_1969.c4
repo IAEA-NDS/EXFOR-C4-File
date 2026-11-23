@@ -1,0 +1,34 @@
+#ENTRY      21113
+#AUTHOR1    P.E.Cavanagh+
+#YEAR       1969
+#INSTITUTE  (2UK HAR)
+#TITLE      Elastic and inelastic scattering of neutrons by Pu-239
+#AUTHOR(S)  P.E.Cavanagh, C.F.Coleman, D.A.Boyce, G.A.Gard, A.G.Hardacre, 
+#+          J.F.Turner
+#REF-CODE   (R,AERE-R-5972,1969)
+#REFERENCE  Report AERE-R-5972, 1969
+#DATASETS   0
+#
+#DATASET    21113005 
+#DATE       20101114
+#REACTION   94-PU-239(N,INL)94-PU-239,PAR,DA
+#PROJ       1
+#TARG       94239
+#MF         4
+#MT         51
+#PRODUCT    94-PU-239
+#C4BEGIN    [    1 94239   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 94239   4  51  C 1019000. 10000.00 9.5000-3 3.7000-3 6.123-17          875000.0         LVLP.E.Cavanagh+        (69)21113  5 
+    1 94239   4  51  C 1019000. 10000.00 0.018700 4.8000-3 6.123-17          820000.0         LVLP.E.Cavanagh+        (69)21113  5 
+    1 94239   4  51  C 1019000. 10000.00 2.0000-3 1.3000-3 6.123-17          580000.0         LVLP.E.Cavanagh+        (69)21113  5 
+    1 94239   4  51  C 1019000. 10000.00 0.015100 3.2000-3 6.123-17          530000.0         LVLP.E.Cavanagh+        (69)21113  5 
+    1 94239   4  51  C 1019000. 10000.00 3.0900-3 1.1000-3 6.123-17          390000.0         LVLP.E.Cavanagh+        (69)21113  5 
+    1 94239   4  51  C 1019000. 10000.00 1.9600-3 1.1000-3 6.123-17          331000.0         LVLP.E.Cavanagh+        (69)21113  5 
+    1 94239   4  51  C 1019000. 10000.00 6.0100-3 1.1000-3 6.123-17          286000.0         LVLP.E.Cavanagh+        (69)21113  5 
+    1 94239   4  51  C 1019000. 10000.00 2.3900-3 1.5000-3 6.123-17          164000.0         LVLP.E.Cavanagh+        (69)21113  5 
+    1 94239   4  51  C 1019000. 10000.00 0.036000 8.4000-3 6.123-17          66500.00         LVLP.E.Cavanagh+        (69)21113  5 
+#/DATA      9
+#/DATASET

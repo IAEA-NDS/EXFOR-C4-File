@@ -1,0 +1,36 @@
+#ENTRY      22079
+#AUTHOR1    J.Franz+
+#YEAR       1987
+#INSTITUTE  (2SWTVIL)
+#TITLE      Production of protons, deuterons and tritons on carbon
+#+          by intermediate energy neutrons
+#AUTHOR(S)  J.Franz, E.Roessle, C.Sauerwein, H.Schmitt, H.L.Woolverton, 
+#+          J.Ero, Z.Fodor, J.Kecskemeti, P.Koncz, Zs.Kovacs, Z.Seres
+#REF-CODE   (J,NP/A,472,733,1987)
+#REFERENCE  Nucl.Phys.A 472 (1987) 733
+#DATASETS   0
+#
+#DATASET    22079004 
+#DATE       20201208
+#REACTION   6-C-0(N,X)1-H-2,,DA/DE
+#PROJ       1
+#TARG       6000
+#MF         6
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  6000   6 204  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6000   6 204    4.8000+8          2.074-12 1.030-13-0.501511          6.5000+7          E2J.Franz+             (87)22079  4 
+    1  6000   6 204    4.8000+8          1.362-12 4.800-14-0.501511          7.5000+7          E2J.Franz+             (87)22079  4 
+    1  6000   6 204    4.8000+8          8.210-13 3.700-14-0.501511          8.5000+7          E2J.Franz+             (87)22079  4 
+    1  6000   6 204    4.8000+8          4.220-13 2.600-14-0.501511          9.5000+7          E2J.Franz+             (87)22079  4 
+    1  6000   6 204    4.8000+8          2.850-13 2.100-14-0.501511          1.0500+8          E2J.Franz+             (87)22079  4 
+    1  6000   6 204    4.8000+8          1.200-13 1.400-14-0.501511          1.1500+8          E2J.Franz+             (87)22079  4 
+    1  6000   6 204    4.8000+8          1.060-13 1.300-14-0.501511          1.2500+8          E2J.Franz+             (87)22079  4 
+    1  6000   6 204    4.8000+8          4.800-14 9.000-15-0.501511          1.3500+8          E2J.Franz+             (87)22079  4 
+    1  6000   6 204    4.8000+8          2.400-14 6.000-15-0.501511          1.4500+8          E2J.Franz+             (87)22079  4 
+    1  6000   6 204    4.8000+8          1.900-14 5.000-15-0.501511          1.5500+8          E2J.Franz+             (87)22079  4 
+#/DATA      10
+#/DATASET

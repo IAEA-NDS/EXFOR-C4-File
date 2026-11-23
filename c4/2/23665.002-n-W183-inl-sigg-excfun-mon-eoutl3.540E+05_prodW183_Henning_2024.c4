@@ -1,0 +1,32 @@
+#ENTRY      23665
+#AUTHOR1    G.Henning+
+#YEAR       2024
+#INSTITUTE  (2FR STR)
+#TITLE      Applying random sampling methods to data analysis for
+#+          uncertainty production, with an Open source and Open
+#+          science outlook
+#AUTHOR(S)  G.Henning
+#REF-CODE   (T,HENNING,2024)
+#REFERENCE  Thesis  (2024)
+#DATASETS   0
+#
+#DATASET    23665002 
+#DATE       20241213
+#REACTION   74-W-183(N,INL)74-W-183,PAR,SIG,G
+#PROJ       1
+#TARG       74183
+#MF         13
+#MT         51
+#PRODUCT    74-W-183
+#C4BEGIN    [    1 74183  13  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74183  13  51 A  700000.0 300000.0 0.015660 5.5000-3                   353990.0            G.Henning            (24)23665  2 
+    1 74183  13  51 A  1500000. 500000.0 0.020640 4.4300-3                   353990.0            G.Henning            (24)23665  2 
+    1 74183  13  51 A  2500000. 500000.0 0.021950 7.1400-3                   353990.0            G.Henning            (24)23665  2 
+    1 74183  13  51 A  3500000. 500000.0 0.022960 0.011820                   353990.0            G.Henning            (24)23665  2 
+    1 74183  13  51 A  5000000. 1000000. 0.022250 0.010990                   353990.0            G.Henning            (24)23665  2 
+    1 74183  13  51 A  8500000. 2500000. 7.3800-3 9.2300-3                   353990.0            G.Henning            (24)23665  2 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,37 @@
+#ENTRY      22718
+#AUTHOR1    I.Slypen+
+#YEAR       2000
+#INSTITUTE  (2BLGLVN)
+#TITLE      Experimental cross sections for light charged particle
+#+          production induced by neutrons with energies between
+#+          25 and 75 MeV incident on carbon
+#AUTHOR(S)  I.Slypen, S.Benck, J.P.Meulders, V.Corcalciuc, M.B.Chadwick, 
+#+          C.Dufauquez
+#REF-CODE   (J,AND,76,26,2000)
+#REFERENCE  At.Data Nucl.Data T. 76 (2000) 26
+#DATASETS   0
+#
+#DATASET    227180221
+#DATE       20181002
+#REACTION   6-C-12(N,X)1-H-2,,DA/DE
+#PROJ       1
+#TARG       6012
+#MF         6
+#MT         204
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  6012   6 204  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   6 204    7.2800+7 2000000. 3.180-10 3.900-11 0.939693          9000000.          E2I.Slypen+            (00)22718 221
+    1  6012   6 204    7.2800+7 2000000. 3.630-10 6.300-11 0.866025          9000000.          E2I.Slypen+            (00)22718 221
+    1  6012   6 204    7.2800+7 2000000. 2.770-10 3.100-11 0.766044          9000000.          E2I.Slypen+            (00)22718 221
+    1  6012   6 204    7.2800+7 2000000. 2.390-10 2.600-11 0.642788          9000000.          E2I.Slypen+            (00)22718 221
+    1  6012   6 204    7.2800+7 2000000. 2.010-10 2.200-11 0.500000          9000000.          E2I.Slypen+            (00)22718 221
+    1  6012   6 204    7.2800+7 2000000. 1.560-10 4.400-11 0.342020          9000000.          E2I.Slypen+            (00)22718 221
+    1  6012   6 204    7.2800+7 2000000. 1.080-10 1.700-11-0.342020          9000000.          E2I.Slypen+            (00)22718 221
+    1  6012   6 204    7.2800+7 2000000. 6.000-11 7.000-12-0.500000          9000000.          E2I.Slypen+            (00)22718 221
+    1  6012   6 204    7.2800+7 2000000. 4.200-11 4.000-12-0.766044          9000000.          E2I.Slypen+            (00)22718 221
+    1  6012   6 204    7.2800+7 2000000. 3.600-11 4.000-12-0.939693          9000000.          E2I.Slypen+            (00)22718 221
+#/DATA      10
+#/DATASET

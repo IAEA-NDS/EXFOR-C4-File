@@ -1,0 +1,29 @@
+#ENTRY      21142
+#AUTHOR1    G.Vedrenne+
+#YEAR       1963
+#INSTITUTE  (2FR TOU)
+#TITLE      Interaction of 14.1 MeV neutrons with deuterium
+#AUTHOR(S)  G.Vedrenne, D.Blanc, F.Cambou
+#REF-CODE   (J,JPR,24,801,1963)
+#REFERENCE  J.Phys.(Paris) 24 (1963) 801
+#DATASETS   0
+#
+#DATASET    21142002 
+#DATE       20180111
+#REACTION   1-H-2(N,X)0-NN-1,,DA/DE
+#PROJ       1
+#TARG       1002
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    1  1002   6 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1002   6 201  C 1.4200+7 400000.0 9.2000-9 4.6000-9 0.173600          2500000. 85000.00 E2G.Vedrenne+          (63)21142  2 
+    1  1002   6 201  C 1.4200+7 400000.0 1.5400-8 5.8000-9 0.173600          2850000. 85000.00 E2G.Vedrenne+          (63)21142  2 
+    1  1002   6 201  C 1.4200+7 400000.0 1.1800-8 4.6000-9 0.173600          3250000. 85000.00 E2G.Vedrenne+          (63)21142  2 
+    1  1002   6 201  C 1.4200+7 400000.0 8.8000-9 3.2000-9 0.173600          3700000. 85000.00 E2G.Vedrenne+          (63)21142  2 
+    1  1002   6 201  C 1.4200+7 400000.0 4.0000-9 1.6000-9 0.173600          4000000. 85000.00 E2G.Vedrenne+          (63)21142  2 
+#/DATA      5
+#/DATASET

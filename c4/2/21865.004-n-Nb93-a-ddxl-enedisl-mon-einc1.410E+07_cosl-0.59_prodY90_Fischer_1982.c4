@@ -1,0 +1,30 @@
+#ENTRY      21865
+#AUTHOR1    R.Fischer+
+#YEAR       1982
+#INSTITUTE  (2AUSIRK)
+#TITLE      -.Investigation of the alpha-particle
+#+          emission from the reaction Nb-93 + N
+#+          at e(N) = 14.1 MeV.-
+#AUTHOR(S)  R.Fischer, C.Derndorfer, B.Strohmaier, H.Vonach
+#REF-CODE   (J,ANE,9,409,1982)
+#REFERENCE  Ann.Nucl.Energy 9 (1982) 409
+#DATASETS   0
+#
+#DATASET    21865004 
+#DATE       20060807
+#REACTION   41-NB-93(N,A)39-Y-90,,DA/DE
+#PROJ       1
+#TARG       41093
+#MF         6
+#MT         107
+#PRODUCT    39-Y-90
+#C4BEGIN    [    1 41093   6 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 41093   6 107    1.4100+7          8.800-11 1.038-11-0.593981          1.1000+7 1000000. E2R.Fischer+           (82)21865  4 
+    1 41093   6 107    1.4100+7          8.200-11 9.348-12-0.593981          1.3000+7 1000000. E2R.Fischer+           (82)21865  4 
+    1 41093   6 107    1.4100+7          3.000-11 6.330-12-0.593981          1.5000+7 1000000. E2R.Fischer+           (82)21865  4 
+    1 41093   6 107    1.4100+7          1.500-11 5.295-12-0.593981          1.7000+7 1000000. E2R.Fischer+           (82)21865  4 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,37 @@
+#ENTRY      22855
+#AUTHOR1    U.Tippawan+
+#YEAR       2004
+#INSTITUTE  (2SWDUPP)
+#TITLE      .Light-ion production in the interaction of 96 MeV
+#+          neutrons with silicon
+#AUTHOR(S)  U.Tippawan, S.Pomp, A.Atac, B.Bergenwall, J.Blomgren, S.Dangtip, 
+#+          A.Hildebrand, C.Johansson, J.Klug, P.Mermod, L.Nilsson, 
+#+          M.Osterlund, N.Olsson, K.Elmgren, O.Jonsson, A.V.Prokofiev, 
+#+          P.-U.Renberg, P.Nadel-Turonski, V.Corcalciuc, Y.Watanabe, 
+#+          A.J.Koning
+#REF-CODE   (J,PR/C,69,064609,200406)
+#REFERENCE  Phys.Rev.C 69 (2004) 064609
+#DATASETS   0
+#
+#DATASET    22855004 
+#DATE       20050310
+#REACTION   14-SI-0(N,X)1-H-3,,DA/DE
+#PROJ       1
+#TARG       14000
+#MF         6
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [    1 14000   6 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14000   6 205    9.5600+7 500000.0 9.029-11 6.146-12 0.939693          1.0500+7          E2U.Tippawan+          (04)22855  4 
+    1 14000   6 205    9.5600+7 500000.0 6.177-11 2.686-12 0.766044          1.0500+7          E2U.Tippawan+          (04)22855  4 
+    1 14000   6 205    9.5600+7 500000.0 5.993-11 4.650-12 0.500000          1.0500+7          E2U.Tippawan+          (04)22855  4 
+    1 14000   6 205    9.5600+7 500000.0 4.359-11 3.236-12 0.173648          1.0500+7          E2U.Tippawan+          (04)22855  4 
+    1 14000   6 205    9.5600+7 500000.0 3.605-11 2.894-12-0.173648          1.0500+7          E2U.Tippawan+          (04)22855  4 
+    1 14000   6 205    9.5600+7 500000.0 2.387-11 3.095-12-0.500000          1.0500+7          E2U.Tippawan+          (04)22855  4 
+    1 14000   6 205    9.5600+7 500000.0 1.889-11 1.748-12-0.766044          1.0500+7          E2U.Tippawan+          (04)22855  4 
+    1 14000   6 205    9.5600+7 500000.0 1.820-11 2.972-12-0.939693          1.0500+7          E2U.Tippawan+          (04)22855  4 
+#/DATA      8
+#/DATASET

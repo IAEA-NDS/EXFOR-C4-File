@@ -1,0 +1,35 @@
+#ENTRY      22666
+#AUTHOR1    D.Schmidt+
+#YEAR       2001
+#INSTITUTE  (2GERPTB)
+#TITLE      Differential cross sections of neutron scattering on
+#+          elemental silicon at energies between 7.89 MeV
+#+          and 13.85 MeV
+#AUTHOR(S)  D.Schmidt, W.Mannhart
+#REF-CODE   (R,PTB-N-43,2001)
+#REFERENCE  Report PTB-N-43, 2001
+#DATASETS   0
+#
+#DATASET    22666010 
+#DATE       20170823
+#REACTION   14-SI-29(N,INL)14-SI-29,PAR,DA
+#PROJ       1
+#TARG       14029
+#MF         4
+#MT         51
+#PRODUCT    14-SI-29
+#C4BEGIN    [    1 14029   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14029   4  51 AC 8380000. 70500.00 0.012690 8.4515-3 0.895323 1.5548-3 1273000.         LVLD.Schmidt+           (01)22666 10 
+    1 14029   4  51 AC 8380000. 70500.00 0.015450 8.2039-3 0.840188 1.8930-3 1273000.         LVLD.Schmidt+           (01)22666 10 
+    1 14029   4  51 AC 8380000. 70500.00 0.010420 7.1377-3 0.809939 2.0473-3 1273000.         LVLD.Schmidt+           (01)22666 10 
+    1 14029   4  51 AC 8380000. 70500.00 0.014980 8.0592-3 0.775386 2.2043-3 1273000.         LVLD.Schmidt+           (01)22666 10 
+    1 14029   4  51 AC 8380000. 70500.00 7.9500-3 7.4889-3 0.575862 2.8538-3 1273000.         LVLD.Schmidt+           (01)22666 10 
+    1 14029   4  51 AC 8380000. 70500.00 0.013280 6.3744-3-0.234294 3.3935-3 1273000.         LVLD.Schmidt+           (01)22666 10 
+    1 14029   4  51 AC 8380000. 70500.00 0.016210 6.6947-3-0.525620 2.9696-3 1273000.         LVLD.Schmidt+           (01)22666 10 
+    1 14029   4  51 AC 8380000. 70500.00 0.016440 6.6582-3-0.649315 2.6547-3 1273000.         LVLD.Schmidt+           (01)22666 10 
+    1 14029   4  51 AC 8380000. 70500.00 0.023070 0.010474-0.941294 1.1784-3 1273000.         LVLD.Schmidt+           (01)22666 10 
+#/DATA      9
+#/DATASET

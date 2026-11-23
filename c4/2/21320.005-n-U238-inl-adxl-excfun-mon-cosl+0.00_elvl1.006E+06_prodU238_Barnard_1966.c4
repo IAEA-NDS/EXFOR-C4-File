@@ -1,0 +1,31 @@
+#ENTRY      21320
+#AUTHOR1    E.Barnard+
+#YEAR       1966
+#INSTITUTE  (2UK HAR)
+#TITLE      Scattering of fast neutrons by U-238
+#AUTHOR(S)  E.Barnard, A.T.G.Ferguson, W.R.McMurray, I.J.Van Heerden
+#REF-CODE   (J,NP,80,46,1966)
+#REFERENCE  Nucl.Phys. 80 (1966) 46
+#DATASETS   0
+#
+#DATASET    21320005 
+#DATE       20190828
+#REACTION   92-U-238(N,INL)92-U-238,PAR,DA
+#PROJ       1
+#TARG       92238
+#MF         4
+#MT         51
+#PRODUCT    92-U-238
+#C4BEGIN    [    1 92238   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   4  51    1081000. 7000.000 3.7000-3 1.6000-3 6.123-17          1006000.         LVLE.Barnard+           (66)21320  5 
+    1 92238   4  51    1129000. 7000.000 0.013800 1.9000-3 6.123-17          1006000.         LVLE.Barnard+           (66)21320  5 
+    1 92238   4  51    1198000. 7000.000 0.012000 1.6000-3 6.123-17          1006000.         LVLE.Barnard+           (66)21320  5 
+    1 92238   4  51    1251000. 7000.000 0.014500 1.6000-3 6.123-17          1006000.         LVLE.Barnard+           (66)21320  5 
+    1 92238   4  51    1292000. 7000.000 0.014800 1.8000-3 6.123-17          1006000.         LVLE.Barnard+           (66)21320  5 
+    1 92238   4  51    1368000. 7000.000 0.016400 1.8000-3 6.123-17          1006000.         LVLE.Barnard+           (66)21320  5 
+    1 92238   4  51    1620000. 7000.000 0.017700 2.6000-3 6.123-17          1006000.         LVLE.Barnard+           (66)21320  5 
+#/DATA      7
+#/DATASET

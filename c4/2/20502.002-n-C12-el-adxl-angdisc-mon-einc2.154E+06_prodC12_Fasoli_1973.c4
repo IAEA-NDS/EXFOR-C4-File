@@ -1,0 +1,37 @@
+#ENTRY      20502
+#AUTHOR1    U.Fasoli+
+#YEAR       1973
+#INSTITUTE  (2ITYPAD)
+#TITLE      -Neutron-carbon interaction, total and elastic
+#+          scattering differential cross sections and phase shift
+#+          analysis, 2.1 to 4.7 MeV.-
+#AUTHOR(S)  U.Fasoli, A.Metellini, D.Toniolo, G.Zago
+#REF-CODE   (J,NP/A,205,305,197304)
+#REFERENCE  Nucl.Phys.A 205 (1973) 305
+#DATASETS   0
+#
+#DATASET    20502002 
+#DATE       20060807
+#REACTION   6-C-12(N,EL)6-C-12,,DA
+#PROJ       1
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [    1  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6012   4   2  C 2154000. 20000.00 0.173310 4.0210-3-0.886000                              U.Fasoli+            (73)20502  2 
+    1  6012   4   2  C 2154000. 20000.00 0.157130 3.9280-3-0.799000                              U.Fasoli+            (73)20502  2 
+    1  6012   4   2  C 2154000. 20000.00 0.158040 4.1250-3-0.690000                              U.Fasoli+            (73)20502  2 
+    1  6012   4   2  C 2154000. 20000.00 0.145510 3.7110-3-0.561000                              U.Fasoli+            (73)20502  2 
+    1  6012   4   2  C 2154000. 20000.00 0.130330 3.5320-3-0.415000                              U.Fasoli+            (73)20502  2 
+    1  6012   4   2  C 2154000. 20000.00 0.124330 3.2950-3-0.254000                              U.Fasoli+            (73)20502  2 
+    1  6012   4   2  C 2154000. 20000.00 0.105120 3.0060-3-0.083000                              U.Fasoli+            (73)20502  2 
+    1  6012   4   2  C 2154000. 20000.00 0.091999 2.6500-3 0.092000                              U.Fasoli+            (73)20502  2 
+    1  6012   4   2  C 2154000. 20000.00 0.102980 2.7190-3 0.267000                              U.Fasoli+            (73)20502  2 
+    1  6012   4   2  C 2154000. 20000.00 0.120490 2.9160-3 0.436000                              U.Fasoli+            (73)20502  2 
+    1  6012   4   2  C 2154000. 20000.00 0.151650 3.1850-3 0.844000                              U.Fasoli+            (73)20502  2 
+#/DATA      11
+#/DATASET

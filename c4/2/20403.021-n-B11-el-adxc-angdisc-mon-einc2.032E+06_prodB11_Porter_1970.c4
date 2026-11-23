@@ -1,0 +1,35 @@
+#ENTRY      20403
+#AUTHOR1    D.Porter+
+#YEAR       1970
+#INSTITUTE  (2UK ALD)
+#TITLE      Elastic and inelastic scattering of neutrons in the
+#+          energy range 2 to 5 MeV by B-10 and B-11
+#AUTHOR(S)  D.Porter, R.E.Coles, K.Wyld
+#REF-CODE   (R,AWRE-O-45/70,1970)
+#REFERENCE  Report AWRE-O-45/70, 1970
+#DATASETS   0
+#
+#DATASET    20403021 
+#DATE       20180821
+#REACTION   5-B-11(N,EL)5-B-11,,DA
+#PROJ       1
+#TARG       5011
+#MF         4
+#MT         2
+#PRODUCT    5-B-11
+#C4BEGIN    [    1  5011   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  5011   4   2  C 2032000. 32000.00 0.140000         -0.752000                              D.Porter+            (70)20403 21 
+    1  5011   4   2  C 2032000. 32000.00 0.132000         -0.567000                              D.Porter+            (70)20403 21 
+    1  5011   4   2  C 2032000. 32000.00 0.131000         -0.343000                              D.Porter+            (70)20403 21 
+    1  5011   4   2  C 2032000. 32000.00 0.113000         -0.092000                              D.Porter+            (70)20403 21 
+    1  5011   4   2  C 2032000. 32000.00 0.113000          0.084000                              D.Porter+            (70)20403 21 
+    1  5011   4   2  C 2032000. 32000.00 0.106000          0.260000                              D.Porter+            (70)20403 21 
+    1  5011   4   2  C 2032000. 32000.00 0.113000          0.430000                              D.Porter+            (70)20403 21 
+    1  5011   4   2  C 2032000. 32000.00 0.119000          0.587000                              D.Porter+            (70)20403 21 
+    1  5011   4   2  C 2032000. 32000.00 0.140000          0.727000                              D.Porter+            (70)20403 21 
+    1  5011   4   2  C 2032000. 32000.00 0.190000          0.842000                              D.Porter+            (70)20403 21 
+#/DATA      10
+#/DATASET

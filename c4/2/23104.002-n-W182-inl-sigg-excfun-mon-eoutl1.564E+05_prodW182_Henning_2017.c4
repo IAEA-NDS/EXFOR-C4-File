@@ -1,0 +1,35 @@
+#ENTRY      23104
+#AUTHOR1    G.Henning+
+#YEAR       2017
+#INSTITUTE  (2FR STR)
+#TITLE      Measurement of (n,xngamma) reaction cross sections in
+#+          W isotopes
+#AUTHOR(S)  G.Henning, A.Bacquias, C.Borcea, R.Capote, P.Dessagne, J.-C.Drohe, 
+#+          T.Kawano, M.Kerveno, A.Negret, M.Nyman, A.Olacel, A.Plompen, 
+#+          P.Romain, P.Scholtes, G.Rudolf
+#REF-CODE   (J,EPJ/CS,146,11016,2017)
+#REFERENCE  EPJ Web Conf. 146 (2017) 11016
+#DATASETS   0
+#
+#DATASET    23104002 
+#DATE       20250221
+#REACTION   74-W-182(N,INL)74-W-182,PAR,SIG,G
+#PROJ       1
+#TARG       74182
+#MF         13
+#MT         51
+#PRODUCT    74-W-182
+#C4BEGIN    [    1 74182  13  51 C]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 74182  13  51 C  1577297.          8.6590-3 6.5900-4                   156400.0            G.Henning+           (17)23104  2 
+    1 74182  13  51 C  1894628.          0.019785 8.8300-4                   156400.0            G.Henning+           (17)23104  2 
+    1 74182  13  51 C  2335549.          0.027998 1.1910-3                   156400.0            G.Henning+           (17)23104  2 
+    1 74182  13  51 C  2950712.          0.035144 1.8150-3                   156400.0            G.Henning+           (17)23104  2 
+    1 74182  13  51 C  3845902.          0.041845 2.0380-3                   156400.0            G.Henning+           (17)23104  2 
+    1 74182  13  51 C  5221602.          0.045798 2.1110-3                   156400.0            G.Henning+           (17)23104  2 
+    1 74182  13  51 C  7497014.          0.044119 2.4590-3                   156400.0            G.Henning+           (17)23104  2 
+    1 74182  13  51 C  1.1118+7          0.017120 4.1540-3                   156400.0            G.Henning+           (17)23104  2 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      22079
+#AUTHOR1    J.Franz+
+#YEAR       1987
+#INSTITUTE  (2SWTVIL)
+#TITLE      Production of protons, deuterons and tritons on carbon
+#+          by intermediate energy neutrons
+#AUTHOR(S)  J.Franz, E.Roessle, C.Sauerwein, H.Schmitt, H.L.Woolverton, 
+#+          J.Ero, Z.Fodor, J.Kecskemeti, P.Koncz, Zs.Kovacs, Z.Seres
+#REF-CODE   (J,NP/A,472,733,1987)
+#REFERENCE  Nucl.Phys.A 472 (1987) 733
+#DATASETS   0
+#
+#DATASET    22079003 
+#DATE       20201208
+#REACTION   6-C-0(N,X)1-H-1,,DA
+#PROJ       1
+#TARG       6000
+#MF         4
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [    1  6000   4 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  6000   4 203    4.2800+8          0.020632 1.5120-4 0.626604                              J.Franz+             (87)22079  3 
+    1  6000   4 203    4.2800+8          0.012954 1.2477-4 0.490904                              J.Franz+             (87)22079  3 
+    1  6000   4 203    4.2800+8          5.4763-3 2.5260-5 0.294040                              J.Franz+             (87)22079  3 
+    1  6000   4 203    4.2800+8          3.9695-3 2.6210-5 0.154710                              J.Franz+             (87)22079  3 
+    1  6000   4 203    4.2800+8          1.3610-3 1.2770-5-0.133986                              J.Franz+             (87)22079  3 
+    1  6000   4 203    4.2800+8          4.7358-4 4.3000-6-0.501511                              J.Franz+             (87)22079  3 
+    1  6000   4 203    4.2800+8          2.7575-4 3.6200-6-0.767165                              J.Franz+             (87)22079  3 
+    1  6000   4 203    4.2800+8          2.2956-4 4.1400-6-0.856267                              J.Franz+             (87)22079  3 
+    1  6000   4 203    4.2800+8          1.8905-4 2.3400-6-0.965016                              J.Franz+             (87)22079  3 
+#/DATA      9
+#/DATASET

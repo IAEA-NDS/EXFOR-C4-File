@@ -1,0 +1,34 @@
+#ENTRY      20474
+#AUTHOR1    J.Lachkar+
+#YEAR       1974
+#INSTITUTE  (2FR BRC)
+#TITLE      -GAMMA-RAY-PRODUCTION CROSS-SECTIONS FOR THE
+#+          FE-56(N,N GAMMA) REACTION FROM 2.5 TO 14.1 MEV
+#+          NEUTRON ENERGIES.-
+#AUTHOR(S)  J.Lachkar, J.Sigaud, Y.Patin, G.Haouat
+#REF-CODE   (J,NSE,55,168,7410)
+#REFERENCE  Nucl.Sci.Eng. 55 (1974) 168
+#DATASETS   0
+#
+#DATASET    20474005 
+#DATE       19840120
+#REACTION   26-FE-56(N,INL)26-FE-56,PAR,DA,G
+#PROJ       1
+#TARG       26056
+#MF         14
+#MT         51
+#PRODUCT    26-FE-56
+#C4BEGIN    [    1 26056  14  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 26056  14  51    8800000. 100000.0 1.8000-3 5.0000-4-0.642780          2760000.            J.Lachkar+           (74)20474  5 
+    1 26056  14  51    8800000. 100000.0 1.7000-3 5.0000-4-0.500000          2760000.            J.Lachkar+           (74)20474  5 
+    1 26056  14  51    8800000. 100000.0 1.6000-3 5.0000-4-0.173640          2760000.            J.Lachkar+           (74)20474  5 
+    1 26056  14  51    8800000. 100000.0 1.6000-3 5.0000-4 6.123-17          2760000.            J.Lachkar+           (74)20474  5 
+    1 26056  14  51    8800000. 100000.0 2.0000-3 5.0000-4 0.173640          2760000.            J.Lachkar+           (74)20474  5 
+    1 26056  14  51    8800000. 100000.0 1.9000-3 5.0000-4 0.342020          2760000.            J.Lachkar+           (74)20474  5 
+    1 26056  14  51    8800000. 100000.0 1.6000-3 5.0000-4 0.500000          2760000.            J.Lachkar+           (74)20474  5 
+    1 26056  14  51    8800000. 100000.0 1.9000-3 5.0000-4 0.642780          2760000.            J.Lachkar+           (74)20474  5 
+#/DATA      8
+#/DATASET

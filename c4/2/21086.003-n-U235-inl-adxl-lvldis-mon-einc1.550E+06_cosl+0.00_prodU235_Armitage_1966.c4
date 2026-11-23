@@ -1,0 +1,25 @@
+#ENTRY      21086
+#AUTHOR1    B.H.Armitage+
+#YEAR       1966
+#INSTITUTE  (2UK HAR)
+#TITLE      Inelastic scattering of fast neutrons by U-235
+#AUTHOR(S)  B.H.Armitage, A.T.G.Ferguson, J.H.Montague, N.Starfelt
+#REF-CODE   (C,66PARIS,1,383,1966)
+#REFERENCE  Proceedings of Nuclear Data For Reactors Conf., Paris 1966 1 page 383
+#DATASETS   0
+#
+#DATASET    21086003 
+#DATE       20230130
+#REACTION   92-U-235(N,INL)92-U-235,PAR,DA,,4PI
+#PROJ       1
+#TARG       92235
+#MF         4
+#MT         51
+#PRODUCT    92-U-235
+#C4BEGIN    [    1 92235   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92235   4  51    1550000.          4.2972-3 8.5944-4 6.123-17          1350000. 50000.00LVLB.H.Armitage+        (66)21086  3 
+#/DATA      1
+#/DATASET

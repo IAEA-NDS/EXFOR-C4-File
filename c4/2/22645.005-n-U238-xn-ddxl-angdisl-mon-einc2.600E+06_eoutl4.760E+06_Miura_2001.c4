@@ -1,0 +1,32 @@
+#ENTRY      22645
+#AUTHOR1    T.Miura+
+#YEAR       2001
+#INSTITUTE  (2JPNTOH)
+#TITLE      .Measurements of the Double-Differential neutron
+#+          emission cross-sections of 238U and 232Th for
+#+          2.6, 3.6 and 11.8 MeV neutrons
+#AUTHOR(S)  T.Miura, M.Baba, M.Ibaraki, T.Win, T.Sanami, Y.Hirasawa
+#REF-CODE   (J,ANE,28,937,2001)
+#REFERENCE  Ann.Nucl.Energy 28 (2001) 937
+#DATASETS   0
+#
+#DATASET    22645005 
+#DATE       20070430
+#REACTION   92-U-238(N,X)0-NN-1,,DA/DE
+#PROJ       1
+#TARG       92238
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [    1 92238   6 201 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 92238   6 201 A  2600000.          6.2066-9 1.8408-9 0.866025          4760000.          E2T.Miura+             (01)22645  5 
+    1 92238   6 201 A  2600000.          6.7511-9 2.0048-9 0.707107          4760000.          E2T.Miura+             (01)22645  5 
+    1 92238   6 201 A  2600000.          6.7680-9 2.0100-9 0.500000          4760000.          E2T.Miura+             (01)22645  5 
+    1 92238   6 201 A  2600000.          6.6636-9 1.9783-9 6.123-17          4760000.          E2T.Miura+             (01)22645  5 
+    1 92238   6 201 A  2600000.          6.6139-9 1.9633-9-0.500000          4760000.          E2T.Miura+             (01)22645  5 
+    1 92238   6 201 A  2600000.          6.6553-9 1.9758-9-0.819152          4760000.          E2T.Miura+             (01)22645  5 
+#/DATA      6
+#/DATASET

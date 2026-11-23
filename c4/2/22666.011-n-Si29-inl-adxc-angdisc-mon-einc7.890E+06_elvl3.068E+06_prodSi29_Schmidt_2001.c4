@@ -1,0 +1,36 @@
+#ENTRY      22666
+#AUTHOR1    D.Schmidt+
+#YEAR       2001
+#INSTITUTE  (2GERPTB)
+#TITLE      Differential cross sections of neutron scattering on
+#+          elemental silicon at energies between 7.89 MeV
+#+          and 13.85 MeV
+#AUTHOR(S)  D.Schmidt, W.Mannhart
+#REF-CODE   (R,PTB-N-43,2001)
+#REFERENCE  Report PTB-N-43, 2001
+#DATASETS   0
+#
+#DATASET    22666011 
+#DATE       20170823
+#REACTION   14-SI-29(N,INL)14-SI-29,PAR,DA
+#PROJ       1
+#TARG       14029
+#MF         4
+#MT         51
+#PRODUCT    14-SI-29
+#C4BEGIN    [    1 14029   4  51 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 14029   4  51 AC 7890000. 80500.00 0.010620 7.1366-3 0.867245 1.7379-3 3068000.         LVLD.Schmidt+           (01)22666 11 
+    1 14029   4  51 AC 7890000. 80500.00 8.2900-3 6.0849-3 0.517728 2.9864-3 3068000.         LVLD.Schmidt+           (01)22666 11 
+    1 14029   4  51 AC 7890000. 80500.00 9.5900-3 5.7828-3 0.422144 3.1644-3 3068000.         LVLD.Schmidt+           (01)22666 11 
+    1 14029   4  51 AC 7890000. 80500.00 0.010420 6.1895-3 0.371692 3.2406-3 3068000.         LVLD.Schmidt+           (01)22666 11 
+    1 14029   4  51 AC 7890000. 80500.00 6.5100-3 6.2171-3 0.298708 3.3313-3 3068000.         LVLD.Schmidt+           (01)22666 11 
+    1 14029   4  51 AC 7890000. 80500.00 0.013500 6.8580-3-0.243615 3.3855-3 3068000.         LVLD.Schmidt+           (01)22666 11 
+    1 14029   4  51 AC 7890000. 80500.00 0.021250 6.9700-3-0.285187 3.3457-3 3068000.         LVLD.Schmidt+           (01)22666 11 
+    1 14029   4  51 AC 7890000. 80500.00 0.017980 9.7092-3-0.382522 3.2252-3 3068000.         LVLD.Schmidt+           (01)22666 11 
+    1 14029   4  51 AC 7890000. 80500.00 9.2400-3 7.4197-3-0.906013 1.4774-3 3068000.         LVLD.Schmidt+           (01)22666 11 
+    1 14029   4  51 AC 7890000. 80500.00 0.017330 7.1746-3-0.943223 1.1595-3 3068000.         LVLD.Schmidt+           (01)22666 11 
+#/DATA      10
+#/DATASET

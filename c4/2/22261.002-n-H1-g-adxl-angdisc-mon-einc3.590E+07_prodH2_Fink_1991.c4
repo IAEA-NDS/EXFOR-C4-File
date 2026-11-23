@@ -1,0 +1,31 @@
+#ENTRY      22261
+#AUTHOR1    G.Fink+
+#YEAR       1991
+#INSTITUTE  (2GERKFK)
+#TITLE      -Neutron-proton capture using polarized neutrons from
+#+          19 to 50 MeV.
+#AUTHOR(S)  G.Fink, P.Doll, S.Hauber, M.Haupenthal, H.O.Klages, H.Schieler, 
+#+          F.Smend, G.D.Wicke
+#REF-CODE   (J,NP/A,530,331,1991)
+#REFERENCE  Nucl.Phys.A 530 (1991) 331
+#DATASETS   0
+#
+#DATASET    22261002 
+#DATE       20110207
+#REACTION   1-H-1(N,G)1-H-2,,DA
+#PROJ       1
+#TARG       1001
+#MF         4
+#MT         102
+#PRODUCT    1-H-2
+#C4BEGIN    [    1  1001   4 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  1001   4 102  C 3.5900+7          2.1000-7 8.5000-8 1.000000                              G.Fink+              (91)22261  2 
+    1  1001   4 102  C 3.5900+7          1.6100-6 6.4000-8 0.474088                              G.Fink+              (91)22261  2 
+    1  1001   4 102  C 3.5900+7          2.4700-6 6.2000-8-0.137445                              G.Fink+              (91)22261  2 
+    1  1001   4 102  C 3.5900+7          1.7800-6 7.7000-8-0.658689                              G.Fink+              (91)22261  2 
+    1  1001   4 102  C 3.5900+7          2.2000-7 8.7000-8-1.000000                              G.Fink+              (91)22261  2 
+#/DATA      5
+#/DATASET

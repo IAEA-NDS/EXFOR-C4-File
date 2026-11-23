@@ -1,0 +1,30 @@
+#ENTRY      21147
+#AUTHOR1    R.Batchelor+
+#YEAR       1963
+#INSTITUTE  (2UK ALD)
+#TITLE      -THE INTERACTIONS OF NEUTRONS WITH LI-6 AND LI-7
+#+          BETWEEN 1.5 AND 7.5 MEV-.
+#AUTHOR(S)  R.Batchelor, J.H.Towle
+#REF-CODE   (J,NP,47,385,6309)
+#REFERENCE  Nucl.Phys. 47 (1963) 385
+#DATASETS   0
+#
+#DATASET    21147017 
+#DATE       19800512
+#REACTION   3-LI-6(N,INL)3-LI-6,PAR,DA
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         51
+#PRODUCT    3-LI-6
+#C4BEGIN    [    1  3006   4  51  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4  51  C 4830000. 60000.00 0.011700 3.0000-3-0.829000          2180000.         LVLR.Batchelor+         (63)21147 17 
+    1  3006   4  51  C 4830000. 60000.00 8.9000-3 4.0000-3-0.544600          2180000.         LVLR.Batchelor+         (63)21147 17 
+    1  3006   4  51  C 4830000. 60000.00 0.015100 4.0000-3-0.240200          2180000.         LVLR.Batchelor+         (63)21147 17 
+    1  3006   4  51  C 4830000. 60000.00 0.014200 3.6000-3 0.121350          2180000.         LVLR.Batchelor+         (63)21147 17 
+    1  3006   4  51  C 4830000. 60000.00 0.023600 2.3000-3 0.657400          2180000.         LVLR.Batchelor+         (63)21147 17 
+#/DATA      5
+#/DATASET

@@ -1,0 +1,37 @@
+#ENTRY      22188
+#AUTHOR1    M.Baba+
+#YEAR       1990
+#INSTITUTE  (2JPNTOH)
+#TITLE      Application of post acceleration beam chopper for
+#+          neutron emission cross section measurements
+#AUTHOR(S)  M.Baba, S.Matsuyama, M.Fujisawa, T.Iwasaki, S.Iwasaki, R.Sakamoto
+#REF-CODE   (S,JAERI-M-90-025,383,1990)
+#REFERENCE  Report (proceedings) JAERI-M-90-025 page 383, 1990
+#DATASETS   0
+#
+#DATASET    22188015 
+#DATE       20151020
+#REACTION   3-LI-6(N,INL)3-LI-6,PAR,DA
+#PROJ       1
+#TARG       3006
+#MF         4
+#MT         51
+#PRODUCT    3-LI-6
+#C4BEGIN    [    1  3006   4  51 D]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1  3006   4  51 DC 1.4100+7          0.013470 1.0800-3 0.916293          2185000.         LVLM.Baba+              (90)22188 15 
+    1  3006   4  51 DC 1.4100+7          0.014340 1.0100-3 0.816339          2185000.         LVLM.Baba+              (90)22188 15 
+    1  3006   4  51 DC 1.4100+7          0.012700 9.1000-4 0.720067          2185000.         LVLM.Baba+              (90)22188 15 
+    1  3006   4  51 DC 1.4100+7          0.012750 9.7000-4 0.609038          2185000.         LVLM.Baba+              (90)22188 15 
+    1  3006   4  51 DC 1.4100+7          0.013640 1.1800-3 0.486335          2185000.         LVLM.Baba+              (90)22188 15 
+    1  3006   4  51 DC 1.4100+7          0.011260 8.8000-4 0.355433          2185000.         LVLM.Baba+              (90)22188 15 
+    1  3006   4  51 DC 1.4100+7          7.3900-3 8.7000-4 0.082808          2185000.         LVLM.Baba+              (90)22188 15 
+    1  3006   4  51 DC 1.4100+7          5.4100-3 5.0000-4-0.184123          2185000.         LVLM.Baba+              (90)22188 15 
+    1  3006   4  51 DC 1.4100+7          5.1700-3 5.4000-4-0.426569          2185000.         LVLM.Baba+              (90)22188 15 
+    1  3006   4  51 DC 1.4100+7          3.9700-3 5.2000-4-0.631894          2185000.         LVLM.Baba+              (90)22188 15 
+    1  3006   4  51 DC 1.4100+7          4.1300-3 5.3000-4-0.793141          2185000.         LVLM.Baba+              (90)22188 15 
+    1  3006   4  51 DC 1.4100+7          4.2100-3 7.2000-4-0.908362          2185000.         LVLM.Baba+              (90)22188 15 
+#/DATA      12
+#/DATASET
