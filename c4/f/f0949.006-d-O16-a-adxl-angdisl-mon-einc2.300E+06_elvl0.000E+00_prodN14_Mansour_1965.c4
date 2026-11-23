@@ -1,0 +1,33 @@
+#ENTRY      F0949
+#AUTHOR1    N.A.Mansour+
+#YEAR       1965
+#INSTITUTE  (3EGYCAI)
+#TITLE      The (d,a) reaction on N-15 and O-16 in the deuteron
+#+          energy range 1-2.5 MeV.
+#AUTHOR(S)  N.A.Mansour, H.R.Saad, Z.A.Saleh, E.M.Sayed, I.I.Zaloubovsky, 
+#+          V.I.Gontchar
+#REF-CODE   (J,NP,65,433,1965)
+#REFERENCE  Nucl.Phys. 65 (1965) 433
+#DATASETS   0
+#
+#DATASET    F0949006 
+#DATE       20100630
+#REACTION   8-O-16(D,A)7-N-14,PAR,DA
+#PROJ       1002
+#TARG       8016
+#MF         4
+#MT         800
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1002  8016   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  8016   4 800    2300000.          1.3920-3 2.6190-5 0.698040          0.000000         LVLN.A.Mansour+         (65)F0949  6 
+ 1002  8016   4 800    2300000.          9.8040-4 2.9470-5 0.490448          0.000000         LVLN.A.Mansour+         (65)F0949  6 
+ 1002  8016   4 800    2300000.          8.6400-4 2.2950-5 0.255614          0.000000         LVLN.A.Mansour+         (65)F0949  6 
+ 1002  8016   4 800    2300000.          7.8700-4 2.6230-5-2.4435-3          0.000000         LVLN.A.Mansour+         (65)F0949  6 
+ 1002  8016   4 800    2300000.          9.8530-4 2.9510-5-0.272280          0.000000         LVLN.A.Mansour+         (65)F0949  6 
+ 1002  8016   4 800    2300000.          1.0260-3 2.9540-5-0.503020          0.000000         LVLN.A.Mansour+         (65)F0949  6 
+ 1002  8016   4 800    2300000.          9.9190-4 3.9380-5-0.713250          0.000000         LVLN.A.Mansour+         (65)F0949  6 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      F0348
+#AUTHOR1    G.R.Harrison+
+#YEAR       1960
+#INSTITUTE  (1USAVBT)
+#TITLE      Differential and total cross sections of the
+#+          10B(d,p)11B reaction at low-deuteron energies
+#AUTHOR(S)  G.R.Harrison, G.D.Schmidt, C.D.Curtis
+#REF-CODE   (J,PR,117,532,1960)
+#REFERENCE  Phys.Rev. 117 (1960) 532
+#DATASETS   0
+#
+#DATASET    F0348002 
+#DATE       20210726
+#REACTION   5-B-10(D,P)5-B-11,PAR,DA
+#PROJ       1002
+#TARG       5010
+#MF         4
+#MT         600
+#PRODUCT    5-B-11
+#C4BEGIN    [ 1002  5010   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5010   4 600  C 249000.0          3.3800-5 5.9210-7 0.998806          4445000.         LVLG.R.Harrison+        (60)F0348  2 
+ 1002  5010   4 600  C 249000.0          3.3500-5 5.9210-7 0.981959          4445000.         LVLG.R.Harrison+        (60)F0348  2 
+ 1002  5010   4 600  C 249000.0          2.9600-5 5.9210-7 0.889416          4445000.         LVLG.R.Harrison+        (60)F0348  2 
+ 1002  5010   4 600  C 249000.0          2.5500-5 5.9210-7 0.737277          4445000.         LVLG.R.Harrison+        (60)F0348  2 
+ 1002  5010   4 600  C 249000.0          2.2700-5 5.9210-7 0.537300          4445000.         LVLG.R.Harrison+        (60)F0348  2 
+ 1002  5010   4 600  C 249000.0          1.6300-5 5.9210-7 0.290702          4445000.         LVLG.R.Harrison+        (60)F0348  2 
+ 1002  5010   4 600  C 249000.0          1.4300-5 5.9210-7 0.033155          4445000.         LVLG.R.Harrison+        (60)F0348  2 
+ 1002  5010   4 600  C 249000.0          1.4100-5 5.9210-7-0.168489          4445000.         LVLG.R.Harrison+        (60)F0348  2 
+ 1002  5010   4 600  C 249000.0          1.1500-5 5.9210-7-0.384295          4445000.         LVLG.R.Harrison+        (60)F0348  2 
+ 1002  5010   4 600  C 249000.0          1.1000-5 5.9210-7-0.607376          4445000.         LVLG.R.Harrison+        (60)F0348  2 
+ 1002  5010   4 600  C 249000.0          9.9610-6 5.9210-7-0.744312          4445000.         LVLG.R.Harrison+        (60)F0348  2 
+#/DATA      11
+#/DATASET

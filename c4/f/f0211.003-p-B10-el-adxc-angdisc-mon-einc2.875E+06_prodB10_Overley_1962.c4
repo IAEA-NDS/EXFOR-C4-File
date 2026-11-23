@@ -1,0 +1,37 @@
+#ENTRY      F0211
+#AUTHOR1    J.C.Overley+
+#YEAR       1962
+#INSTITUTE  (1USACAL)
+#TITLE      Highly excited states in 11C. Elastic scattering of
+#+          protons by 10B
+#AUTHOR(S)  J.C.Overley, W.Whaling
+#REF-CODE   (J,PR,128,315,1962)
+#REFERENCE  Phys.Rev. 128 (1962) 315
+#DATASETS   0
+#
+#DATASET    F0211003 
+#DATE       20200628
+#REACTION   5-B-10(P,EL)5-B-10,,DA,,RTH
+#PROJ       1001
+#TARG       5010
+#MF         4
+#MT         2
+#PRODUCT    5-B-10
+#C4BEGIN    [ 1001  5010   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5010   4   2  C 2875000.          0.081238 5.6867-3 0.504528                              J.C.Overley+         (62)F0211  3 
+ 1001  5010   4   2  C 2875000.          0.064777 4.5344-3 0.350207                              J.C.Overley+         (62)F0211  3 
+ 1001  5010   4   2  C 2875000.          0.058716 4.1101-3 0.185667                              J.C.Overley+         (62)F0211  3 
+ 1001  5010   4   2  C 2875000.          0.052137 3.6496-3 0.017452                              J.C.Overley+         (62)F0211  3 
+ 1001  5010   4   2  C 2875000.          0.052706 3.6895-3-0.154710                              J.C.Overley+         (62)F0211  3 
+ 1001  5010   4   2  C 2875000.          0.053992 3.7794-3-0.322266                              J.C.Overley+         (62)F0211  3 
+ 1001  5010   4   2  C 2875000.          0.056000 3.9200-3-0.480223                              J.C.Overley+         (62)F0211  3 
+ 1001  5010   4   2  C 2875000.          0.055692 3.8985-3-0.577858                              J.C.Overley+         (62)F0211  3 
+ 1001  5010   4   2  C 2875000.          0.057712 4.0398-3-0.638768                              J.C.Overley+         (62)F0211  3 
+ 1001  5010   4   2  C 2875000.          0.058191 4.0734-3-0.773840                              J.C.Overley+         (62)F0211  3 
+ 1001  5010   4   2  C 2875000.          0.058041 4.0629-3-0.870356                              J.C.Overley+         (62)F0211  3 
+ 1001  5010   4   2  C 2875000.          0.059333 4.1533-3-0.921185                              J.C.Overley+         (62)F0211  3 
+#/DATA      12
+#/DATASET

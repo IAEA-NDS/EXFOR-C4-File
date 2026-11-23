@@ -1,0 +1,33 @@
+#ENTRY      F1187
+#AUTHOR1    S.S.Vasilev+
+#YEAR       1964
+#INSTITUTE  (4RUSMOS)
+#TITLE      Study of the (p,p') reaction of 1.65, and 1.83 MeV
+#+          levels in Al-27.
+#AUTHOR(S)  S.S.Vasilev, T.N.Mihaleva, D.L.Chuprunov
+#REF-CODE   (J,ZET,47,1585,1964)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 47 (1964) 1585
+#DATASETS   0
+#
+#DATASET    F1187002 
+#DATE       20130318
+#REACTION   13-AL-27(P,INL)13-AL-27,PAR,DA
+#PROJ       1001
+#TARG       13027
+#MF         4
+#MT         601
+#PRODUCT    13-AL-27
+#C4BEGIN    [ 1001 13027   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   4 601  C 6700000.          8.0464-4 2.0515-4 0.737277          1830000.         LVLS.S.Vasilev+         (64)F1187  2 
+ 1001 13027   4 601  C 6700000.          6.4549-4 1.7096-4 0.506034          1830000.         LVLS.S.Vasilev+         (64)F1187  2 
+ 1001 13027   4 601  C 6700000.          3.5808-4 8.1230-5 0.282509          1830000.         LVLS.S.Vasilev+         (64)F1187  2 
+ 1001 13027   4 601  C 6700000.          2.5025-4 6.4130-5 0.030887          1830000.         LVLS.S.Vasilev+         (64)F1187  2 
+ 1001 13027   4 601  C 6700000.          2.4067-4 6.8340-5-0.232936          1830000.         LVLS.S.Vasilev+         (64)F1187  2 
+ 1001 13027   4 601  C 6700000.          2.2261-4 6.8410-5-0.464688          1830000.         LVLS.S.Vasilev+         (64)F1187  2 
+ 1001 13027   4 601  C 6700000.          2.3857-4 7.6920-5-0.700660          1830000.         LVLS.S.Vasilev+         (64)F1187  2 
+ 1001 13027   4 601  C 6700000.          2.2475-4 5.9830-5-0.880560          1830000.         LVLS.S.Vasilev+         (64)F1187  2 
+#/DATA      8
+#/DATASET

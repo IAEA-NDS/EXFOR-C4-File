@@ -1,0 +1,32 @@
+#ENTRY      F0888
+#AUTHOR1    V.V.Okorokov+
+#YEAR       1971
+#INSTITUTE  (4RUSITE)
+#TITLE      Investigation of the nuclei 28Si,47,49V in (d,n)
+#+          reactions.
+#AUTHOR(S)  V.V.Okorokov, V.M.Serezhin, V.A.Smotryaev, D.A.Tolchenkov, 
+#+          I.S.Trostin, Yu.N.Cheblukov, V.S.Zolotarev, V.S.Romanov
+#REF-CODE   (J,YF,14,490,1971)
+#REFERENCE  Yad.Fiz. 14 (1971) 490
+#DATASETS   0
+#
+#DATASET    F0888002 
+#DATE       20080204
+#REACTION   13-AL-27(D,N)14-SI-28,PAR,DA
+#PROJ       1002
+#TARG       13027
+#MF         4
+#MT         50
+#PRODUCT    14-SI-28
+#C4BEGIN    [ 1002 13027   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 13027   4  50    1.1200+7          1.3937-3 1.3056-4 0.981790          1.0390+7         LVLV.V.Okorokov+        (71)F0888  2 
+ 1002 13027   4  50    1.1200+7          1.1665-3          0.964465          1.0390+7         LVLV.V.Okorokov+        (71)F0888  2 
+ 1002 13027   4  50    1.1200+7          1.0063-3 8.5794-5 0.952773          1.0390+7         LVLV.V.Okorokov+        (71)F0888  2 
+ 1002 13027   4  50    1.1200+7          1.1187-3 8.9525-5 0.915936          1.0390+7         LVLV.V.Okorokov+        (71)F0888  2 
+ 1002 13027   4  50    1.1200+7          8.0221-4 1.3429-4 0.858262          1.0390+7         LVLV.V.Okorokov+        (71)F0888  2 
+ 1002 13027   4  50    1.1200+7          5.4524-4          0.808144          1.0390+7         LVLV.V.Okorokov+        (71)F0888  2 
+#/DATA      6
+#/DATASET

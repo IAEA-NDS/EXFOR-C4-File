@@ -1,0 +1,37 @@
+#ENTRY      F1407
+#AUTHOR1    V.B.Gubin+
+#YEAR       1974
+#INSTITUTE  (4RUSMOS)
+#TITLE      Scattering of ~6 MeV protons by 58,60,62,64-Ni and
+#+          59-Co.
+#AUTHOR(S)  V.B.Gubin, Z.F.Kalachyova, E.A.Romanovski, E.I.Sirotinin, 
+#+          T.I.Spasskaya, K.S.Shishkin
+#REF-CODE   (J,IZV,38,133,1974)
+#REFERENCE  Izv.Ross.AN,Fiz. 38 (1974) 133
+#DATASETS   0
+#
+#DATASET    F1407010 
+#DATE       20191226
+#REACTION   28-NI-58(P,EL)28-NI-58,,DA,,RTH
+#PROJ       1001
+#TARG       28058
+#MF         4
+#MT         2
+#PRODUCT    28-NI-58
+#C4BEGIN    [ 1001 28058   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28058   4   2  C 6100000.          0.876984          0.633637                              V.B.Gubin+           (74)F1407 10 
+ 1001 28058   4   2  C 6100000.          0.306659          0.493380                              V.B.Gubin+           (74)F1407 10 
+ 1001 28058   4   2  C 6100000.          0.159972          0.337982                              V.B.Gubin+           (74)F1407 10 
+ 1001 28058   4   2  C 6100000.          0.100519          0.160346                              V.B.Gubin+           (74)F1407 10 
+ 1001 28058   4   2  C 6100000.          0.073586         -0.181892                              V.B.Gubin+           (74)F1407 10 
+ 1001 28058   4   2  C 6100000.          0.079284         -0.348081                              V.B.Gubin+           (74)F1407 10 
+ 1001 28058   4   2  C 6100000.          0.075775         -0.503774                              V.B.Gubin+           (74)F1407 10 
+ 1001 28058   4   2  C 6100000.          0.080335         -0.644791                              V.B.Gubin+           (74)F1407 10 
+ 1001 28058   4   2  C 6100000.          0.073089         -0.758021                              V.B.Gubin+           (74)F1407 10 
+ 1001 28058   4   2  C 6100000.          0.071460         -0.864713                              V.B.Gubin+           (74)F1407 10 
+ 1001 28058   4   2  C 6100000.          0.070212         -0.942116                              V.B.Gubin+           (74)F1407 10 
+#/DATA      11
+#/DATASET

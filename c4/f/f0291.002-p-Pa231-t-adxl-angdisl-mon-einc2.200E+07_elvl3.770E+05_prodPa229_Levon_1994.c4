@@ -1,0 +1,37 @@
+#ENTRY      F0291
+#AUTHOR1    A.I.Levon+
+#YEAR       1994
+#INSTITUTE  (2GERMUU)
+#TITLE      The nuclear structure of 229Pa from the 231Pa(p,t)229Pa
+#+          and 230Th(p,2ng)229Pa reactions.
+#AUTHOR(S)  A.I.Levon, J.de Boer.G.Graw, R.Hertenberger, D.Hofer, J.Kvasil, 
+#+          A.Losch, E.Muller-Zanotti, M.Wurkner, H.Baltzer, V.Grafen, 
+#+          C.Gunther
+#REF-CODE   (J,NP/A,576,267,1994)
+#REFERENCE  Nucl.Phys.A 576 (1994) 267
+#DATASETS   0
+#
+#DATASET    F0291002 
+#DATE       20060403
+#REACTION   91-PA-231(P,T)91-PA-229,PAR,DA
+#PROJ       1001
+#TARG       91231
+#MF         4
+#MT         700
+#PRODUCT    91-PA-229
+#C4BEGIN    [ 1001 91231   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 91231   4 700    2.2000+7          1.1985-6 3.4312-7 0.996213          377000.0         LVLA.I.Levon+           (94)F0291  2 
+ 1001 91231   4 700    2.2000+7          7.7116-7 2.5249-7 0.991871          377000.0         LVLA.I.Levon+           (94)F0291  2 
+ 1001 91231   4 700    2.2000+7          7.4698-7 1.3651-7 0.985256          377000.0         LVLA.I.Levon+           (94)F0291  2 
+ 1001 91231   4 700    2.2000+7          1.0229-6 3.4922-7 0.976684          377000.0         LVLA.I.Levon+           (94)F0291  2 
+ 1001 91231   4 700    2.2000+7          8.7359-7 1.5965-7 0.965740          377000.0         LVLA.I.Levon+           (94)F0291  2 
+ 1001 91231   4 700    2.2000+7          7.2274-7 2.4675-7 0.940235          377000.0         LVLA.I.Levon+           (94)F0291  2 
+ 1001 91231   4 700    2.2000+7          1.0647-6 2.4854-7 0.907887          377000.0         LVLA.I.Levon+           (94)F0291  2 
+ 1001 91231   4 700    2.2000+7          8.6188-7 2.2373-7 0.820751          377000.0         LVLA.I.Levon+           (94)F0291  2 
+ 1001 91231   4 700    2.2000+7          6.6204-7 1.0813-7 0.707107          377000.0         LVLA.I.Levon+           (94)F0291  2 
+ 1001 91231   4 700    2.2000+7          3.5254-7 1.3722-7 0.643242          377000.0         LVLA.I.Levon+           (94)F0291  2 
+#/DATA      10
+#/DATASET

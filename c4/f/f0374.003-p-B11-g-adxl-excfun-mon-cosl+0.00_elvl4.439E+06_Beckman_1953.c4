@@ -1,0 +1,28 @@
+#ENTRY      F0374
+#AUTHOR1    O.Beckman+
+#YEAR       1953
+#INSTITUTE  (2DENNBI)
+#TITLE      Excitation curves for alpha particles from 11B
+#+          bombarded with protons
+#AUTHOR(S)  O.Beckman, T.Huus, C.Zupancic
+#REF-CODE   (J,PR,91,606,1953)
+#REFERENCE  Phys.Rev. 91 (1953) 606
+#DATASETS   0
+#
+#DATASET    F0374003 
+#DATE       20220421
+#REACTION   5-B-11(P,G)6-C-12,PAR,DA,,4PI
+#PROJ       1001
+#TARG       5011
+#MF         4
+#MT         900
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1001  5011   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5011   4 900    163000.0          1.1937-5          6.123-17          4439000.         LVLO.Beckman+           (53)F0374  3 
+ 1001  5011   4 900    670000.0          3.8197-6          6.123-17          4439000.         LVLO.Beckman+           (53)F0374  3 
+ 1001  5011   4 900    1400000.          1.4324-6          6.123-17          4439000.         LVLO.Beckman+           (53)F0374  3 
+#/DATA      3
+#/DATASET

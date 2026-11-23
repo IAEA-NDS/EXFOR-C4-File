@@ -1,0 +1,33 @@
+#ENTRY      F0129
+#AUTHOR1    B.D.Walker+
+#YEAR       1965
+#INSTITUTE  (1USALRL)
+#TITLE      Angular distribution and polarization of neutrons from
+#+          Be-9(p,n0)B-9 and B-11(p,n0)C-11 reactions
+#AUTHOR(S)  B.D.Walker, C.Wong, J.D.Anderson, J.W.McClure
+#REF-CODE   (J,PR,137,B1504,1965)
+#REFERENCE  Phys.Rev. 137 (1965) B1504
+#DATASETS   0
+#
+#DATASET    F0129002 
+#DATE       20200509
+#REACTION   4-BE-9(P,N)5-B-9,PAR,DA
+#PROJ       1001
+#TARG       4009
+#MF         4
+#MT         50
+#PRODUCT    5-B-9
+#C4BEGIN    [ 1001  4009   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   4  50  C 1.0900+7          6.8700-3 1.3700-4 0.955000          0.000000         LVLB.D.Walker+          (65)F0129  2 
+ 1001  4009   4  50  C 1.0900+7          5.4500-3 1.0900-4 0.811000          0.000000         LVLB.D.Walker+          (65)F0129  2 
+ 1001  4009   4  50  C 1.0900+7          5.8200-3 1.1600-4 0.604000          0.000000         LVLB.D.Walker+          (65)F0129  2 
+ 1001  4009   4  50  C 1.0900+7          4.7700-3 9.5300-5 0.374000          0.000000         LVLB.D.Walker+          (65)F0129  2 
+ 1001  4009   4  50  C 1.0900+7          3.2400-3 6.4800-5 0.121000          0.000000         LVLB.D.Walker+          (65)F0129  2 
+ 1001  4009   4  50  C 1.0900+7          3.2000-3 6.4000-5-0.146000          0.000000         LVLB.D.Walker+          (65)F0129  2 
+ 1001  4009   4  50  C 1.0900+7          2.7300-3 5.4500-5-0.363000          0.000000         LVLB.D.Walker+          (65)F0129  2 
+ 1001  4009   4  50  C 1.0900+7          2.8000-3 5.6000-5-0.594000          0.000000         LVLB.D.Walker+          (65)F0129  2 
+#/DATA      8
+#/DATASET

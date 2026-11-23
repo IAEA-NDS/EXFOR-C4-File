@@ -1,0 +1,40 @@
+#ENTRY      F1464
+#AUTHOR1    A.V.Ignatenko+
+#YEAR       1990
+#INSTITUTE  (4RUSMOS)
+#TITLE      Experimental study of the energy dependence of the
+#+          12C(alpha,alpha1gamma4.44) double differential
+#+          reaction cross section at the region Ealpha=16-25 MeV
+#AUTHOR(S)  A.V.Ignatenko, V.M.Lebedev, N.V.Orlova, A.V.Spasskiy, I.B.Teplov, 
+#+          G.V.Shekhvorostova
+#REF-CODE   (R,MSU-INP-90-25/171,1990)
+#REFERENCE  Report MSU-INP-90-25/171, 1990
+#DATASETS   0
+#
+#DATASET    F1464002 
+#DATE       20211223
+#REACTION   6-C-12(A,INL)6-C-12,PAR,DA
+#PROJ       2004
+#TARG       6012
+#MF         4
+#MT         801
+#PRODUCT    6-C-12
+#C4BEGIN    [ 2004  6012   4 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  6012   4 801    1.7190+7          0.015655         -0.866025          4440000.         LVLA.V.Ignatenko+       (90)F1464  2 
+ 2004  6012   4 801    1.7960+7          0.042238         -0.866025          4440000.         LVLA.V.Ignatenko+       (90)F1464  2 
+ 2004  6012   4 801    1.8670+7          0.034445         -0.866025          4440000.         LVLA.V.Ignatenko+       (90)F1464  2 
+ 2004  6012   4 801    1.9310+7          0.018837         -0.866025          4440000.         LVLA.V.Ignatenko+       (90)F1464  2 
+ 2004  6012   4 801    2.0150+7          0.036047         -0.866025          4440000.         LVLA.V.Ignatenko+       (90)F1464  2 
+ 2004  6012   4 801    2.0790+7          0.020440         -0.866025          4440000.         LVLA.V.Ignatenko+       (90)F1464  2 
+ 2004  6012   4 801    2.1430+7          0.036082         -0.866025          4440000.         LVLA.V.Ignatenko+       (90)F1464  2 
+ 2004  6012   4 801    2.2200+7          0.054852         -0.866025          4440000.         LVLA.V.Ignatenko+       (90)F1464  2 
+ 2004  6012   4 801    2.2720+7          0.050179         -0.866025          4440000.         LVLA.V.Ignatenko+       (90)F1464  2 
+ 2004  6012   4 801    2.3360+7          0.045509         -0.866025          4440000.         LVLA.V.Ignatenko+       (90)F1464  2 
+ 2004  6012   4 801    2.4000+7          0.029901         -0.866025          4440000.         LVLA.V.Ignatenko+       (90)F1464  2 
+ 2004  6012   4 801    2.4580+7          0.020542         -0.866025          4440000.         LVLA.V.Ignatenko+       (90)F1464  2 
+ 2004  6012   4 801    2.5160+7          0.023683         -0.866025          4440000.         LVLA.V.Ignatenko+       (90)F1464  2 
+#/DATA      13
+#/DATASET

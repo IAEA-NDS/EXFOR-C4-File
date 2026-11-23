@@ -1,0 +1,29 @@
+#ENTRY      F0279
+#AUTHOR1    A.A.Jaffe+
+#YEAR       1960
+#INSTITUTE  (2UK MAN)
+#TITLE      Some (t,p) reactions in light nuclei
+#AUTHOR(S)  A.A.Jaffe, F.de S.Barros, P.D.Forsyth, J.Muto, I.J.Taylor, 
+#+          S.Ramavataram
+#REF-CODE   (J,PPS,76,914,1960)
+#REFERENCE  Proc.Phys.Soc.(UK) 76 (1960) 914
+#DATASETS   0
+#
+#DATASET    F0279003 
+#DATE       20180616
+#REACTION   6-C-12(T,P)6-C-14,PAR,DA
+#PROJ       1003
+#TARG       6012
+#MF         4
+#MT         600
+#PRODUCT    6-C-14
+#C4BEGIN    [ 1003  6012   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  6012   4 600  C 5500000.          3.5180-3 1.0580-4 0.974761          6582000.         LVLA.A.Jaffe+           (60)F0279  3 
+ 1003  6012   4 600  C 5500000.          2.2470-3 2.3350-4 0.914960          6582000.         LVLA.A.Jaffe+           (60)F0279  3 
+ 1003  6012   4 600  C 5500000.          3.0430-4 5.2900-5 0.662359          6582000.         LVLA.A.Jaffe+           (60)F0279  3 
+ 1003  6012   4 600  C 5500000.          1.6310-4 4.8500-5 0.324908          6582000.         LVLA.A.Jaffe+           (60)F0279  3 
+#/DATA      4
+#/DATASET

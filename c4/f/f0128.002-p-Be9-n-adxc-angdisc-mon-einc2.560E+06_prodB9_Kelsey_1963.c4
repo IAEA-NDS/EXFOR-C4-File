@@ -1,0 +1,39 @@
+#ENTRY      F0128
+#AUTHOR1    C.A.Kelsey+
+#YEAR       1963
+#INSTITUTE  (1USANOT)
+#TITLE      Polarization and angular distribution measurements on T
+#+          neutrons from the Be-9(p,n)B-9 reaction
+#AUTHOR(S)  C.A.Kelsey, G.P.Lietz, S.F.Trevino, S.E.Darden
+#REF-CODE   (J,PR,129,759,1963)
+#REFERENCE  Phys.Rev. 129 (1963) 759
+#DATASETS   0
+#
+#DATASET    F0128002 
+#DATE       20200508
+#REACTION   4-BE-9(P,N)5-B-9,,DA
+#PROJ       1001
+#TARG       4009
+#MF         4
+#MT         4
+#PRODUCT    5-B-9
+#C4BEGIN    [ 1001  4009   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   4   4  C 2560000.          0.010200 2.0400-3 0.999610                              C.A.Kelsey+          (63)F0128  2 
+ 1001  4009   4   4  C 2560000.          0.010330 2.0660-3 0.983571                              C.A.Kelsey+          (63)F0128  2 
+ 1001  4009   4   4  C 2560000.          0.010450 2.0900-3 0.921185                              C.A.Kelsey+          (63)F0128  2 
+ 1001  4009   4   4  C 2560000.          9.9700-3 1.9940-3 0.806960                              C.A.Kelsey+          (63)F0128  2 
+ 1001  4009   4   4  C 2560000.          9.5000-3 1.9000-3 0.679441                              C.A.Kelsey+          (63)F0128  2 
+ 1001  4009   4   4  C 2560000.          8.7200-3 1.7440-3 0.504528                              C.A.Kelsey+          (63)F0128  2 
+ 1001  4009   4   4  C 2560000.          8.1000-3 1.6200-3 0.330514                              C.A.Kelsey+          (63)F0128  2 
+ 1001  4009   4   4  C 2560000.          7.4700-3 1.4940-3 0.170209                              C.A.Kelsey+          (63)F0128  2 
+ 1001  4009   4   4  C 2560000.          7.4600-3 1.4920-3 0.041876                              C.A.Kelsey+          (63)F0128  2 
+ 1001  4009   4   4  C 2560000.          9.0400-3 1.8080-3-0.455545                              C.A.Kelsey+          (63)F0128  2 
+ 1001  4009   4   4  C 2560000.          9.9400-3 1.9880-3-0.457098                              C.A.Kelsey+          (63)F0128  2 
+ 1001  4009   4   4  C 2560000.          9.7700-3 1.9540-3-0.556296                              C.A.Kelsey+          (63)F0128  2 
+ 1001  4009   4   4  C 2560000.          0.010510 2.1020-3-0.648120                              C.A.Kelsey+          (63)F0128  2 
+ 1001  4009   4   4  C 2560000.          0.010780 2.1560-3-0.782608                              C.A.Kelsey+          (63)F0128  2 
+#/DATA      14
+#/DATASET

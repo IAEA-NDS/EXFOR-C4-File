@@ -1,0 +1,34 @@
+#ENTRY      F0969
+#AUTHOR1    G.E.Fischer+
+#YEAR       1958
+#INSTITUTE  (1USACOL)
+#TITLE      Anomalous behavior of 27Al(p,a)24Mg differential cross
+#+          sections.
+#AUTHOR(S)  G.E.Fischer, V.K.Fischer, E.A.Remler, M.D.Tatcher
+#REF-CODE   (J,PR,110,286,1958)
+#REFERENCE  Phys.Rev. 110 (1958) 286
+#DATASETS   0
+#
+#DATASET    F0969002 
+#DATE       20090203
+#REACTION   13-AL-27(P,A)12-MG-24,PAR,DA
+#PROJ       1001
+#TARG       13027
+#MF         4
+#MT         800
+#PRODUCT    12-MG-24
+#C4BEGIN    [ 1001 13027   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 13027   4 800  C 1.0970+7 200000.0 2.6660-4 1.9900-5 0.961507          0.000000         LVLG.E.Fischer+         (58)F0969  2 
+ 1001 13027   4 800  C 1.0970+7 200000.0 2.4680-4 1.7400-5 0.844907          0.000000         LVLG.E.Fischer+         (58)F0969  2 
+ 1001 13027   4 800  C 1.0970+7 200000.0 3.6120-4 1.8900-5 0.666676          0.000000         LVLG.E.Fischer+         (58)F0969  2 
+ 1001 13027   4 800  C 1.0970+7 200000.0 2.1230-4 1.4900-5 0.436472          0.000000         LVLG.E.Fischer+         (58)F0969  2 
+ 1001 13027   4 800  C 1.0970+7 200000.0 9.5600-5 1.3800-5 0.181429          0.000000         LVLG.E.Fischer+         (58)F0969  2 
+ 1001 13027   4 800  C 1.0970+7 200000.0 1.6030-4 1.2900-5-0.085713          0.000000         LVLG.E.Fischer+         (58)F0969  2 
+ 1001 13027   4 800  C 1.0970+7 200000.0 2.8720-4 1.8200-5-0.338245          0.000000         LVLG.E.Fischer+         (58)F0969  2 
+ 1001 13027   4 800  C 1.0970+7 200000.0 2.6240-4 2.2400-5-0.554554          0.000000         LVLG.E.Fischer+         (58)F0969  2 
+ 1001 13027   4 800  C 1.0970+7 200000.0 2.1290-4 1.3700-5-0.749996          0.000000         LVLG.E.Fischer+         (58)F0969  2 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      F1048
+#AUTHOR1    M.Lambert+
+#YEAR       1968
+#INSTITUTE  (3ALGCDT)
+#TITLE      20Ne(d, p)21Ne and the excited condition 21Ne.
+#AUTHOR(S)  M.Lambert, G.Dumazet, H.Beaumevieille, A.Tellez, C.Meynadier, 
+#+          P.Midy, N.V.Sen
+#REF-CODE   (J,NP/A,112,161,1968)
+#REFERENCE  Nucl.Phys.A 112 (1968) 161
+#DATASETS   0
+#
+#DATASET    F1048003 
+#DATE       20200415
+#REACTION   10-NE-20(D,P)10-NE-21,PAR,DA
+#PROJ       1002
+#TARG       10020
+#MF         4
+#MT         600
+#PRODUCT    10-NE-21
+#C4BEGIN    [ 1002 10020   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 10020   4 600  C 3200000.          5.9200-4 1.5800-4 0.859852          3886000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 3200000.          7.4200-4 1.5800-4 0.781520          3886000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 3200000.          7.5900-4 1.4200-4 0.681998          3886000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 3200000.          7.3400-4 1.1700-4 0.094108          3886000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 3200000.          8.7600-4 9.2000-5-0.074979          3886000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 3200000.          9.5100-4 1.0800-4-0.226651          3886000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 3200000.          1.1430-3 1.2500-4-0.534352          3886000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 3200000.          1.0430-3 1.6700-4-0.788011          3886000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 3200000.          1.3850-3 2.7400-4-0.842452          3886000.         LVLM.Lambert+           (68)F1048  3 
+#/DATA      9
+#/DATASET

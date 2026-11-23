@@ -1,0 +1,32 @@
+#ENTRY      F0923
+#AUTHOR1    A.E.Antropov+
+#YEAR       1976
+#INSTITUTE  (4RUSSUL)
+#TITLE      Energy dependence of cross sections for elastic and
+#+          inelastic scattering by 46,48,50Ti.
+#AUTHOR(S)  A.E.Antropov, V.P.Gusev, P.P.Zarubin, P.D.Ioannu
+#REF-CODE   (J,IZV,40,807,1976)
+#REFERENCE  Izv.Ross.AN,Fiz. 40 (1976) 807
+#DATASETS   0
+#
+#DATASET    F0923003 
+#DATE       20080415
+#REACTION   22-TI-46(P,INL)22-TI-46,PAR,DA
+#PROJ       1001
+#TARG       22046
+#MF         4
+#MT         601
+#PRODUCT    22-TI-46
+#C4BEGIN    [ 1001 22046   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 22046   4 601    5560800.          6.5857-4 1.7641-4-0.104528          2610000.         LVLA.E.Antropov+        (76)F0923  3 
+ 1001 22046   4 601    5657800.          1.1079-3 1.5686-4-0.104528          2610000.         LVLA.E.Antropov+        (76)F0923  3 
+ 1001 22046   4 601    5747000.          9.4943-4 1.1771-4-0.104528          2610000.         LVLA.E.Antropov+        (76)F0923  3 
+ 1001 22046   4 601    5799100.          1.0662-3 1.1758-4-0.104528          2610000.         LVLA.E.Antropov+        (76)F0923  3 
+ 1001 22046   4 601    5877600.          1.5746-3 1.1765-4-0.104528          2610000.         LVLA.E.Antropov+        (76)F0923  3 
+ 1001 22046   4 601    5966700.          1.2985-3 1.3719-4-0.104528          2610000.         LVLA.E.Antropov+        (76)F0923  3 
+ 1001 22046   4 601    6007400.          1.0429-3 1.3725-4-0.104528          2610000.         LVLA.E.Antropov+        (76)F0923  3 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      F0414
+#AUTHOR1    A.Nilsson+
+#YEAR       1962
+#INSTITUTE  (2SWDIPS)
+#TITLE      Neutron angular distributions from the 9Be(alpha,n)12C
+#+          reaction at 14.1, 13.9 and 13.5 MeV
+#AUTHOR(S)  A.Nilsson, J.Kjellman
+#REF-CODE   (J,NP,32,177,1962)
+#REFERENCE  Nucl.Phys. 32 (1962) 177
+#DATASETS   0
+#
+#DATASET    F0414002 
+#DATE       20220604
+#REACTION   4-BE-9(A,N)6-C-12,PAR,DA
+#PROJ       2004
+#TARG       4009
+#MF         4
+#MT         50
+#PRODUCT    6-C-12
+#C4BEGIN    [ 2004  4009   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  4009   4  50  C 1.4100+7 100000.0 6.7700-4          0.830012          0.000000         LVLA.Nilsson+           (62)F0414  2 
+ 2004  4009   4  50  C 1.4100+7 100000.0 8.0200-4          0.638768          0.000000         LVLA.Nilsson+           (62)F0414  2 
+ 2004  4009   4  50  C 1.4100+7 100000.0 6.1500-4          0.471012          0.000000         LVLA.Nilsson+           (62)F0414  2 
+ 2004  4009   4  50  C 1.4100+7 100000.0 4.8100-4          0.300706          0.000000         LVLA.Nilsson+           (62)F0414  2 
+ 2004  4009   4  50  C 1.4100+7 100000.0 5.6900-4          0.107999          0.000000         LVLA.Nilsson+           (62)F0414  2 
+ 2004  4009   4  50  C 1.4100+7 100000.0 8.8800-4         -0.221548          0.000000         LVLA.Nilsson+           (62)F0414  2 
+ 2004  4009   4  50  C 1.4100+7 100000.0 6.4900-4         -0.460200          0.000000         LVLA.Nilsson+           (62)F0414  2 
+ 2004  4009   4  50  C 1.4100+7 100000.0 8.2600-4         -0.658689          0.000000         LVLA.Nilsson+           (62)F0414  2 
+ 2004  4009   4  50  C 1.4100+7 100000.0 1.1610-3         -0.820152          0.000000         LVLA.Nilsson+           (62)F0414  2 
+#/DATA      9
+#/DATASET

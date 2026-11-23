@@ -1,0 +1,38 @@
+#ENTRY      F0214
+#AUTHOR1    G.D.Symons+
+#YEAR       1963
+#INSTITUTE  (3AULCBR)
+#TITLE      The 11B(p,alpha)8Be reaction and 12C states between
+#+          15 and 20 MeV
+#AUTHOR(S)  G.D.Symons, P.B.Treacy
+#REF-CODE   (J,NP,46,93,1963)
+#REFERENCE  Nucl.Phys. 46 (1963) 93
+#DATASETS   0
+#
+#DATASET    F0214005 
+#DATE       20240213
+#REACTION   5-B-11(P,A)4-BE-8,PAR,DA
+#PROJ       1001
+#TARG       5011
+#MF         4
+#MT         800
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 1001  5011   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5011   4 800  C 1180000.          0.019600          0.789084          2900000.         LVLG.D.Symons+          (63)F0214  5 
+ 1001  5011   4 800  C 1180000.          0.020630          0.661312          2900000.         LVLG.D.Symons+          (63)F0214  5 
+ 1001  5011   4 800  C 1180000.          0.020440          0.509041          2900000.         LVLG.D.Symons+          (63)F0214  5 
+ 1001  5011   4 800  C 1180000.          0.020860          0.351842          2900000.         LVLG.D.Symons+          (63)F0214  5 
+ 1001  5011   4 800  C 1180000.          0.020460          0.185667          2900000.         LVLG.D.Symons+          (63)F0214  5 
+ 1001  5011   4 800  C 1180000.          0.021290         -1.7453-3          2900000.         LVLG.D.Symons+          (63)F0214  5 
+ 1001  5011   4 800  C 1180000.          0.020090         -0.166769          2900000.         LVLG.D.Symons+          (63)F0214  5 
+ 1001  5011   4 800  C 1180000.          0.020500         -0.328867          2900000.         LVLG.D.Symons+          (63)F0214  5 
+ 1001  5011   4 800  C 1180000.          0.019500         -0.486335          2900000.         LVLG.D.Symons+          (63)F0214  5 
+ 1001  5011   4 800  C 1180000.          0.020530         -0.623880          2900000.         LVLG.D.Symons+          (63)F0214  5 
+ 1001  5011   4 800  C 1180000.          0.018720         -0.750111          2900000.         LVLG.D.Symons+          (63)F0214  5 
+ 1001  5011   4 800  C 1180000.          0.018320         -0.845262          2900000.         LVLG.D.Symons+          (63)F0214  5 
+ 1001  5011   4 800  C 1180000.          0.018130         -0.919135          2900000.         LVLG.D.Symons+          (63)F0214  5 
+#/DATA      13
+#/DATASET

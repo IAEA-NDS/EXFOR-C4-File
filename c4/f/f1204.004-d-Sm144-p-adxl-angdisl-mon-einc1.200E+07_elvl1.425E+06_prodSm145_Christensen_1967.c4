@@ -1,0 +1,33 @@
+#ENTRY      F1204
+#AUTHOR1    P.R.Christensen+
+#YEAR       1967
+#INSTITUTE  (2DENNBI)
+#TITLE      Neutron single-particle states in Nd-143 and Sm-145.
+#AUTHOR(S)  P.R.Christensen, B.Herskind, R.R.Borchers, L.Westgaard
+#REF-CODE   (J,NP/A,102,481,1967)
+#REFERENCE  Nucl.Phys.A 102 (1967) 481
+#DATASETS   0
+#
+#DATASET    F1204004 
+#DATE       20131007
+#REACTION   62-SM-144(D,P)62-SM-145,PAR,DA
+#PROJ       1002
+#TARG       62144
+#MF         4
+#MT         600
+#PRODUCT    62-SM-145
+#C4BEGIN    [ 1002 62144   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 62144   4 600    1.2000+7 45000.00 8.2400-5          0.882702          1425000.         LVLP.R.Christensen+     (67)F1204  4 
+ 1002 62144   4 600    1.2000+7 45000.00 1.3200-4          0.789620          1425000.         LVLP.R.Christensen+     (67)F1204  4 
+ 1002 62144   4 600    1.2000+7 45000.00 1.2880-4          0.730282          1425000.         LVLP.R.Christensen+     (67)F1204  4 
+ 1002 62144   4 600    1.2000+7 45000.00 2.1150-4          0.679057          1425000.         LVLP.R.Christensen+     (67)F1204  4 
+ 1002 62144   4 600    1.2000+7 45000.00 1.6350-4          0.535385          1425000.         LVLP.R.Christensen+     (67)F1204  4 
+ 1002 62144   4 600    1.2000+7 45000.00 1.0330-4          0.041004          1425000.         LVLP.R.Christensen+     (67)F1204  4 
+ 1002 62144   4 600    1.2000+7 45000.00 8.5200-5         -0.452279          1425000.         LVLP.R.Christensen+     (67)F1204  4 
+ 1002 62144   4 600    1.2000+7 45000.00 6.1300-5         -0.740453          1425000.         LVLP.R.Christensen+     (67)F1204  4 
+ 1002 62144   4 600    1.2000+7 45000.00 6.7000-5         -0.842734          1425000.         LVLP.R.Christensen+     (67)F1204  4 
+#/DATA      9
+#/DATASET

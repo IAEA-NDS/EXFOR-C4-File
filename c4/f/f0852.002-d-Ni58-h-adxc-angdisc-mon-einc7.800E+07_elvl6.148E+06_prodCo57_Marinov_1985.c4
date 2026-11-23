@@ -1,0 +1,35 @@
+#ENTRY      F0852
+#AUTHOR1    A.Marinov+
+#YEAR       1985
+#INSTITUTE  (2GERJUL)
+#TITLE      Proton-hole states in 57Co studied with the
+#+          58Ni(d,3He)57Co reaction at 78 MeV.
+#AUTHOR(S)  A.Marinov, W.Oelert, S.Gopal, B.Brinkmoller, G.Hlawatsch, 
+#+          C.Mayer-Boricke, J.Meissburger, D.Paul, M.Rogge, J.G.M.Romer, 
+#+          J.L.Tain, P.Turek, L.Zemlo, R.B.M.Mooy, P.W.M.Glaudemans, 
+#+          S.Brant, V.Paar, M.Vouk, V.Lopac
+#REF-CODE   (J,NP/A,438,429,1985)
+#REFERENCE  Nucl.Phys.A 438 (1985) 429
+#DATASETS   0
+#
+#DATASET    F0852002 
+#DATE       20070918
+#REACTION   28-NI-58(D,HE3)27-CO-57,PAR,DA
+#PROJ       1002
+#TARG       28058
+#MF         4
+#MT         750
+#PRODUCT    27-CO-57
+#C4BEGIN    [ 1002 28058   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28058   4 750  C 7.8000+7 12500.00 5.7660-5 8.6490-6 0.998951          6148000.         LVLA.Marinov+           (85)F0852  2 
+ 1002 28058   4 750  C 7.8000+7 12500.00 7.3320-5 1.0998-5 0.997841          6148000.         LVLA.Marinov+           (85)F0852  2 
+ 1002 28058   4 750  C 7.8000+7 12500.00 5.5010-5 8.2515-6 0.996310          6148000.         LVLA.Marinov+           (85)F0852  2 
+ 1002 28058   4 750  C 7.8000+7 12500.00 4.6530-5 6.9795-6 0.994379          6148000.         LVLA.Marinov+           (85)F0852  2 
+ 1002 28058   4 750  C 7.8000+7 12500.00 1.6010-5 2.4015-6 0.992211          6148000.         LVLA.Marinov+           (85)F0852  2 
+ 1002 28058   4 750  C 7.8000+7 12500.00 2.0880-5 3.1320-6 0.980529          6148000.         LVLA.Marinov+           (85)F0852  2 
+ 1002 28058   4 750  C 7.8000+7 12500.00 2.7530-5 4.1295-6 0.975230          6148000.         LVLA.Marinov+           (85)F0852  2 
+#/DATA      7
+#/DATASET

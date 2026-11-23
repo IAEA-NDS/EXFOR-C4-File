@@ -1,0 +1,32 @@
+#ENTRY      F1203
+#AUTHOR1    A.Adam+
+#YEAR       1976
+#INSTITUTE  (2FR BRC)
+#TITLE      Fe-56(d,n)Co-57 reaction and Co-57 levels.
+#AUTHOR(S)  A.Adam, O.Bersillon, S.Joly
+#REF-CODE   (J,PR/C,14,92,1976)
+#REFERENCE  Phys.Rev.C 14 (1976) 92
+#DATASETS   0
+#
+#DATASET    F1203002 
+#DATE       20140606
+#REACTION   26-FE-56(D,N)27-CO-57,PAR,DA
+#PROJ       1002
+#TARG       26056
+#MF         4
+#MT         50
+#PRODUCT    27-CO-57
+#C4BEGIN    [ 1002 26056   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 26056   4  50  C 6000000.          3.5500-5 1.8400-5 0.942467          2561000.         LVLA.Adam+              (76)F1203  2 
+ 1002 26056   4  50  C 6000000.          4.2200-5 9.0000-6 0.864827          2561000.         LVLA.Adam+              (76)F1203  2 
+ 1002 26056   4  50  C 6000000.          2.1800-5 9.6000-6 0.763897          2561000.         LVLA.Adam+              (76)F1203  2 
+ 1002 26056   4  50  C 6000000.          2.7600-5 1.1400-5 0.702451          2561000.         LVLA.Adam+              (76)F1203  2 
+ 1002 26056   4  50  C 6000000.          1.7800-5 9.4000-6 0.642052          2561000.         LVLA.Adam+              (76)F1203  2 
+ 1002 26056   4  50  C 6000000.          1.6000-5 7.9000-6 0.491162          2561000.         LVLA.Adam+              (76)F1203  2 
+ 1002 26056   4  50  C 6000000.          2.8800-5 1.2700-5 0.331074          2561000.         LVLA.Adam+              (76)F1203  2 
+ 1002 26056   4  50  C 6000000.          4.0500-5 8.1000-6-0.182579          2561000.         LVLA.Adam+              (76)F1203  2 
+#/DATA      8
+#/DATASET

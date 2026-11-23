@@ -1,0 +1,36 @@
+#ENTRY      F0860
+#AUTHOR1    N.Kaffrell+
+#YEAR       1987
+#INSTITUTE  (2GERMNZ)
+#TITLE      Levels in 109Rh.
+#AUTHOR(S)  N.Kaffrell, P.Hill, J.Rogowski, H.Tetzlaff, N.Trautmann, 
+#+          E.Jacobs, P.De Gelder, D.De Frenne, K.Heyde, S.Borjesson, 
+#+          G.Skarnemark, J.Alstad, N.Blasi, M.N.Harakeh, W.A.Sterrenburg, 
+#+          K.Wolfsberg
+#REF-CODE   (J,NP/A,470,141,1987)
+#REFERENCE  Nucl.Phys.A 470 (1987) 141
+#DATASETS   0
+#
+#DATASET    F0860002 
+#DATE       20080121
+#REACTION   46-PD-110(D,HE3)45-RH-109,PAR,DA
+#PROJ       1002
+#TARG       46110
+#MF         4
+#MT         750
+#PRODUCT    45-RH-109
+#C4BEGIN    [ 1002 46110   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 46110   4 750  C 5.0000+7 15000.00 1.0302-3          0.997270          374000.0         LVLN.Kaffrell+          (87)F0860  2 
+ 1002 46110   4 750  C 5.0000+7 15000.00 1.1829-3          0.994096          374000.0         LVLN.Kaffrell+          (87)F0860  2 
+ 1002 46110   4 750  C 5.0000+7 15000.00 5.2789-4          0.986793          374000.0         LVLN.Kaffrell+          (87)F0860  2 
+ 1002 46110   4 750  C 5.0000+7 15000.00 1.6050-4          0.976556          374000.0         LVLN.Kaffrell+          (87)F0860  2 
+ 1002 46110   4 750  C 5.0000+7 15000.00 3.4633-4          0.964916          374000.0         LVLN.Kaffrell+          (87)F0860  2 
+ 1002 46110   4 750  C 5.0000+7 15000.00 2.3319-4          0.948141          374000.0         LVLN.Kaffrell+          (87)F0860  2 
+ 1002 46110   4 750  C 5.0000+7 15000.00 8.7054-5          0.932551          374000.0         LVLN.Kaffrell+          (87)F0860  2 
+ 1002 46110   4 750  C 5.0000+7 15000.00 1.1793-4          0.908654          374000.0         LVLN.Kaffrell+          (87)F0860  2 
+ 1002 46110   4 750  C 5.0000+7 15000.00 4.9224-5          0.859701          374000.0         LVLN.Kaffrell+          (87)F0860  2 
+#/DATA      9
+#/DATASET

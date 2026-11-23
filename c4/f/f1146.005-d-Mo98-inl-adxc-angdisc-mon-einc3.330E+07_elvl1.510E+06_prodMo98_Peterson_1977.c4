@@ -1,0 +1,37 @@
+#ENTRY      F1146
+#AUTHOR1    R.J.Peterson+
+#YEAR       1977
+#INSTITUTE  (1USACLU)
+#TITLE      Level structure of Tc-99 by inelastic scattering and
+#+          proton stripping.
+#AUTHOR(S)  R.J.Peterson, R.A.Emigh, R.E.Anderson
+#REF-CODE   (J,NP/A,290,155,1977)
+#REFERENCE  Nucl.Phys.A 290 (1977) 155
+#DATASETS   0
+#
+#DATASET    F1146005 
+#DATE       20220429
+#REACTION   42-MO-98(D,INL)42-MO-98,PAR,DA
+#PROJ       1002
+#TARG       42098
+#MF         4
+#MT         651
+#PRODUCT    42-MO-98
+#C4BEGIN    [ 1002 42098   4 651  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 42098   4 651  C 3.3300+7          3.1600-4 1.3900-4 0.947210          1510000.         LVLR.J.Peterson+        (77)F1146  5 
+ 1002 42098   4 651  C 3.3300+7          2.5200-4 1.1100-4 0.934826          1510000.         LVLR.J.Peterson+        (77)F1146  5 
+ 1002 42098   4 651  C 3.3300+7          3.5300-4 9.7400-5 0.915663          1510000.         LVLR.J.Peterson+        (77)F1146  5 
+ 1002 42098   4 651  C 3.3300+7          2.2700-4 9.6000-5 0.858960          1510000.         LVLR.J.Peterson+        (77)F1146  5 
+ 1002 42098   4 651  C 3.3300+7          2.2800-4 6.3100-5 0.756995          1510000.         LVLR.J.Peterson+        (77)F1146  5 
+ 1002 42098   4 651  C 3.3300+7          2.2900-4 5.2300-5 0.689620          1510000.         LVLR.J.Peterson+        (77)F1146  5 
+ 1002 42098   4 651  C 3.3300+7          1.3700-4 3.8900-5 0.625243          1510000.         LVLR.J.Peterson+        (77)F1146  5 
+ 1002 42098   4 651  C 3.3300+7          7.9200-5 2.9900-5 0.480223          1510000.         LVLR.J.Peterson+        (77)F1146  5 
+ 1002 42098   4 651  C 3.3300+7          7.5800-5 3.1900-5 0.405142          1510000.         LVLR.J.Peterson+        (77)F1146  5 
+ 1002 42098   4 651  C 3.3300+7          6.0400-5 3.0800-5 0.325568          1510000.         LVLR.J.Peterson+        (77)F1146  5 
+ 1002 42098   4 651  C 3.3300+7          7.3900-5 2.1900-5 0.240228          1510000.         LVLR.J.Peterson+        (77)F1146  5 
+ 1002 42098   4 651  C 3.3300+7          5.6300-5 2.2400-5 0.156434          1510000.         LVLR.J.Peterson+        (77)F1146  5 
+#/DATA      12
+#/DATASET

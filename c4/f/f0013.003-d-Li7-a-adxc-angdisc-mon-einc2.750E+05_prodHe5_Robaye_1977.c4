@@ -1,0 +1,31 @@
+#ENTRY      F0013
+#AUTHOR1    G.Robaye+
+#YEAR       1977
+#INSTITUTE  (2BLGLIE)
+#TITLE      Reaction Li-7(d,alpha1)He-5 cross-section between
+#+          250 keV and 750 keV. Reaction chamber specially
+#+          studied to measure small energy incident beam currents.
+#AUTHOR(S)  G.Robaye, J.M.Delbrouck-Habaru
+#REF-CODE   (J,BSL,46,375,1977)
+#REFERENCE  B.Soc.Roy.Sci.Liege 46 (1977) 375
+#DATASETS   0
+#
+#DATASET    F0013003 
+#DATE       20200120
+#REACTION   3-LI-7(D,A)2-HE-5,,DA
+#PROJ       1002
+#TARG       3007
+#MF         4
+#MT         107
+#PRODUCT    2-HE-5
+#C4BEGIN    [ 1002  3007   4 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3007   4 107  C 275000.0          5.5800-4 8.3700-6 0.904000                              G.Robaye+            (77)F0013  3 
+ 1002  3007   4 107  C 275000.0          5.9300-4 8.8950-6 0.578000                              G.Robaye+            (77)F0013  3 
+ 1002  3007   4 107  C 275000.0          6.1900-4 9.2850-6 0.218000                              G.Robaye+            (77)F0013  3 
+ 1002  3007   4 107  C 275000.0          6.3700-4 9.5550-6-0.271000                              G.Robaye+            (77)F0013  3 
+ 1002  3007   4 107  C 275000.0          7.5900-4 1.1385-5-0.829000                              G.Robaye+            (77)F0013  3 
+#/DATA      5
+#/DATASET

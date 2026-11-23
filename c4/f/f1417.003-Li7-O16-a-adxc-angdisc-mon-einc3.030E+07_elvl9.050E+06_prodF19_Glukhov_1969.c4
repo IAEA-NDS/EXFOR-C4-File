@@ -1,0 +1,32 @@
+#ENTRY      F1417
+#AUTHOR1    Yu.A.Glukhov+
+#YEAR       1969
+#INSTITUTE  (4RUSKUR)
+#TITLE      The (7Li,alpha) reactions on O-16, Mg-24, Al-27,
+#+          Si-28 nuclei.
+#AUTHOR(S)  Yu.A.Glukhov, B.G.Novatskiy, A.A.Ogloblin, S.B.Sakuta, D.N.Stepanov
+#REF-CODE   (J,IZV,33,609,1969)
+#REFERENCE  Izv.Ross.AN,Fiz. 33 (1969) 609
+#DATASETS   0
+#
+#DATASET    F1417003 
+#DATE       20200619
+#REACTION   8-O-16(3-LI-7,A)9-F-19,PAR,DA
+#PROJ       3007
+#TARG       8016
+#MF         4
+#MT         800
+#PRODUCT    9-F-19
+#C4BEGIN    [ 3007  8016   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3007  8016   4 800  C 3.0300+7          3.9209-3 6.6320-4 0.999994          9050000.         LVLYu.A.Glukhov+        (69)F1417  3 
+ 3007  8016   4 800  C 3.0300+7          3.5591-3 5.7570-4 0.996330          9050000.         LVLYu.A.Glukhov+        (69)F1417  3 
+ 3007  8016   4 800  C 3.0300+7          2.5992-3 4.2260-4 0.984686          9050000.         LVLYu.A.Glukhov+        (69)F1417  3 
+ 3007  8016   4 800  C 3.0300+7          2.2880-3 3.2810-4 0.965473          9050000.         LVLYu.A.Glukhov+        (69)F1417  3 
+ 3007  8016   4 800  C 3.0300+7          1.3425-3 3.1330-4 0.937646          9050000.         LVLYu.A.Glukhov+        (69)F1417  3 
+ 3007  8016   4 800  C 3.0300+7          8.2710-4 1.6030-4 0.902059          9050000.         LVLYu.A.Glukhov+        (69)F1417  3 
+ 3007  8016   4 800  C 3.0300+7          7.8410-4 1.1670-4 0.847771          9050000.         LVLYu.A.Glukhov+        (69)F1417  3 
+#/DATA      7
+#/DATASET

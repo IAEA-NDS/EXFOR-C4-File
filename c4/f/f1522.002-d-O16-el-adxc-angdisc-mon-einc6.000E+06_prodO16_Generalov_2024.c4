@@ -1,0 +1,49 @@
+#ENTRY      F1522
+#AUTHOR1    L.N.Generalov+
+#YEAR       2024
+#INSTITUTE  (4RUSEPA)
+#TITLE      Optical model analysis of deuteron elastic scattering
+#+          on O-16 nuclei with allowance for the contribution
+#+          from resonance
+#AUTHOR(S)  L.N.Generalov, V.A.Zherebtsov, A.V.Morozova, S.M.Selyankina, 
+#+          S.M.Taova
+#REF-CODE   (J,BAS,88,1825,2024)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 88 (2024) 1825
+#DATASETS   0
+#
+#DATASET    F1522002 
+#DATE       20250113
+#REACTION   8-O-16(D,EL)8-O-16,,DA
+#PROJ       1002
+#TARG       8016
+#MF         4
+#MT         2
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1002  8016   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  8016   4   2 AC 6000000.          19.25709 0.962712 0.980806                              L.N.Generalov+       (24)F1522  2 
+ 1002  8016   4   2 AC 6000000.          5.435891 0.271813 0.957047                              L.N.Generalov+       (24)F1522  2 
+ 1002  8016   4   2 AC 6000000.          1.597246 0.079864 0.924211                              L.N.Generalov+       (24)F1522  2 
+ 1002  8016   4   2 AC 6000000.          0.360558 0.018029 0.833083                              L.N.Generalov+       (24)F1522  2 
+ 1002  8016   4   2 AC 6000000.          0.185970 9.2989-3 0.775920                              L.N.Generalov+       (24)F1522  2 
+ 1002  8016   4   2 AC 6000000.          0.076718 3.8357-3 0.711921                              L.N.Generalov+       (24)F1522  2 
+ 1002  8016   4   2 AC 6000000.          0.071594 3.5796-3 0.566481                              L.N.Generalov+       (24)F1522  2 
+ 1002  8016   4   2 AC 6000000.          0.052662 2.6330-3 0.403312                              L.N.Generalov+       (24)F1522  2 
+ 1002  8016   4   2 AC 6000000.          0.033405 1.6702-3 0.229275                              L.N.Generalov+       (24)F1522  2 
+ 1002  8016   4   2 AC 6000000.          0.018779 9.3900-4 0.140300                              L.N.Generalov+       (24)F1522  2 
+ 1002  8016   4   2 AC 6000000.          0.015244 7.6220-4 0.051097                              L.N.Generalov+       (24)F1522  2 
+ 1002  8016   4   2 AC 6000000.          5.0691-3 2.5350-4-0.125001                              L.N.Generalov+       (24)F1522  2 
+ 1002  8016   4   2 AC 6000000.          5.0210-3 2.5100-4-0.210528                              L.N.Generalov+       (24)F1522  2 
+ 1002  8016   4   2 AC 6000000.          4.9486-3 2.4740-4-0.293558                              L.N.Generalov+       (24)F1522  2 
+ 1002  8016   4   2 AC 6000000.          7.6672-3 3.8340-4-0.373551                              L.N.Generalov+       (24)F1522  2 
+ 1002  8016   4   2 AC 6000000.          9.1077-3 4.5540-4-0.450030                              L.N.Generalov+       (24)F1522  2 
+ 1002  8016   4   2 AC 6000000.          0.010652 5.3260-4-0.522571                              L.N.Generalov+       (24)F1522  2 
+ 1002  8016   4   2 AC 6000000.          0.011983 5.9910-4-0.590811                              L.N.Generalov+       (24)F1522  2 
+ 1002  8016   4   2 AC 6000000.          0.012291 6.1460-4-0.654437                              L.N.Generalov+       (24)F1522  2 
+ 1002  8016   4   2 AC 6000000.          0.010609 5.1270-4-0.815215                              L.N.Generalov+       (24)F1522  2 
+ 1002  8016   4   2 AC 6000000.          0.014817 7.7470-4-0.858168                              L.N.Generalov+       (24)F1522  2 
+ 1002  8016   4   2 AC 6000000.          0.012757 6.0540-4-0.895582                              L.N.Generalov+       (24)F1522  2 
+#/DATA      22
+#/DATASET

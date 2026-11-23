@@ -1,0 +1,34 @@
+#ENTRY      F0186
+#AUTHOR1    F.Machali+
+#YEAR       1968
+#INSTITUTE  (3EGYCAI)
+#TITLE      Elastic scattering of deuterons by 9Be and 28Si
+#AUTHOR(S)  F.Machali, Z.A.Saleh, A.T.Baranik, F.Asfour, I.Boundouk, 
+#+          V.E.Storizhko
+#REF-CODE   (J,AKE,13,29,1968)
+#REFERENCE  Atomkernenergie 13 (1968) 29
+#DATASETS   0
+#
+#DATASET    F0186003 
+#DATE       20200625
+#REACTION   4-BE-9(D,EL)4-BE-9,,DA,,RTH
+#PROJ       1002
+#TARG       4009
+#MF         4
+#MT         2
+#PRODUCT    4-BE-9
+#C4BEGIN    [ 1002  4009   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   4   2  C 1500000.          0.129222 6.4611-3 0.327218                              F.Machali+           (68)F0186  3 
+ 1002  4009   4   2  C 1500000.          0.083620 4.1810-3 0.146083                              F.Machali+           (68)F0186  3 
+ 1002  4009   4   2  C 1500000.          0.058665 2.9332-3-0.031411                              F.Machali+           (68)F0186  3 
+ 1002  4009   4   2  C 1500000.          0.041710 2.0855-3-0.209619                              F.Machali+           (68)F0186  3 
+ 1002  4009   4   2  C 1500000.          0.033725 1.6863-3-0.368125                              F.Machali+           (68)F0186  3 
+ 1002  4009   4   2  C 1500000.          0.029722 1.4861-3-0.523986                              F.Machali+           (68)F0186  3 
+ 1002  4009   4   2  C 1500000.          0.025391 1.2696-3-0.661312                              F.Machali+           (68)F0186  3 
+ 1002  4009   4   2  C 1500000.          0.020958 1.0479-3-0.841511                              F.Machali+           (68)F0186  3 
+ 1002  4009   4   2  C 1500000.          0.018451 9.2254-4-0.907777                              F.Machali+           (68)F0186  3 
+#/DATA      9
+#/DATASET

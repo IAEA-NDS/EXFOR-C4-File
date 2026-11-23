@@ -1,0 +1,40 @@
+#ENTRY      F0132
+#AUTHOR1    H.J.Votava+
+#YEAR       1973
+#INSTITUTE  (1USATNL)
+#TITLE      Proton scattering from 9Be between 6 and 30 MeV and
+#+          the structure of 9Be.
+#AUTHOR(S)  H.J.Votava, T.B.Clegg, E.J.Ludwig, W.J.Thompson
+#REF-CODE   (J,NP/A,204,529,1973)
+#REFERENCE  Nucl.Phys.A 204 (1973) 529
+#DATASETS   0
+#
+#DATASET    F0132003 
+#DATE       20191219
+#REACTION   4-BE-9(P,EL)4-BE-9,,DA
+#PROJ       1001
+#TARG       4009
+#MF         4
+#MT         2
+#PRODUCT    4-BE-9
+#C4BEGIN    [ 1001  4009   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   4   2  C 1.5000+7          0.506000          0.929905                              H.J.Votava+          (73)F0132  3 
+ 1001  4009   4   2  C 1.5000+7          0.277400          0.841794                              H.J.Votava+          (73)F0132  3 
+ 1001  4009   4   2  C 1.5000+7          0.112200          0.706983                              H.J.Votava+          (73)F0132  3 
+ 1001  4009   4   2  C 1.5000+7          0.034590          0.573004                              H.J.Votava+          (73)F0132  3 
+ 1001  4009   4   2  C 1.5000+7          6.0500-3          0.432243                              H.J.Votava+          (73)F0132  3 
+ 1001  4009   4   2  C 1.5000+7          5.5700-3          0.227331                              H.J.Votava+          (73)F0132  3 
+ 1001  4009   4   2  C 1.5000+7          9.8900-3          0.061223                              H.J.Votava+          (73)F0132  3 
+ 1001  4009   4   2  C 1.5000+7          0.012750         -0.109734                              H.J.Votava+          (73)F0132  3 
+ 1001  4009   4   2  C 1.5000+7          0.012850         -0.280667                              H.J.Votava+          (73)F0132  3 
+ 1001  4009   4   2  C 1.5000+7          0.010630         -0.441506                              H.J.Votava+          (73)F0132  3 
+ 1001  4009   4   2  C 1.5000+7          7.7700-3         -0.599024                              H.J.Votava+          (73)F0132  3 
+ 1001  4009   4   2  C 1.5000+7          5.1900-3         -0.704634                              H.J.Votava+          (73)F0132  3 
+ 1001  4009   4   2  C 1.5000+7          3.2500-3         -0.818150                              H.J.Votava+          (73)F0132  3 
+ 1001  4009   4   2  C 1.5000+7          2.5600-3         -0.893371                              H.J.Votava+          (73)F0132  3 
+ 1001  4009   4   2  C 1.5000+7          2.7500-3         -0.952661                              H.J.Votava+          (73)F0132  3 
+#/DATA      15
+#/DATASET

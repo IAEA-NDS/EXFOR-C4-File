@@ -1,0 +1,33 @@
+#ENTRY      F0147
+#AUTHOR1    W.E.Dorenbusch+
+#YEAR       1963
+#INSTITUTE  (1USANOT)
+#TITLE      Heavy-particle stripping in the 9Be(He3,alpha)8Be
+#+          reaction and energy levels of 8Be
+#AUTHOR(S)  W.E.Dorenbusch, C.P.Browne
+#REF-CODE   (J,PR,131,1212,1963)
+#REFERENCE  Phys.Rev. 131 (1963) 1212
+#DATASETS   0
+#
+#DATASET    F0147003 
+#DATE       20200510
+#REACTION   4-BE-9(HE3,A)4-BE-8,PAR,DA
+#PROJ       2003
+#TARG       4009
+#MF         4
+#MT         800
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 2003  4009   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  4009   4 800  C 4000000.          1.6630-3 1.6900-4 0.972776          1.7600+7         LVLW.E.Dorenbusch+      (63)F0147  3 
+ 2003  4009   4 800  C 4000000.          2.0010-3 1.4490-4 0.943223          1.7600+7         LVLW.E.Dorenbusch+      (63)F0147  3 
+ 2003  4009   4 800  C 4000000.          2.4110-3 1.6900-4 0.883766          1.7600+7         LVLW.E.Dorenbusch+      (63)F0147  3 
+ 2003  4009   4 800  C 4000000.          2.5080-3 9.6500-5 0.764921          1.7600+7         LVLW.E.Dorenbusch+      (63)F0147  3 
+ 2003  4009   4 800  C 4000000.          2.0750-3 7.2400-5 0.593419          1.7600+7         LVLW.E.Dorenbusch+      (63)F0147  3 
+ 2003  4009   4 800  C 4000000.          1.5680-3 1.2070-4 0.390731          1.7600+7         LVLW.E.Dorenbusch+      (63)F0147  3 
+ 2003  4009   4 800  C 4000000.          1.3030-3 1.2060-4 0.187381          1.7600+7         LVLW.E.Dorenbusch+      (63)F0147  3 
+ 2003  4009   4 800  C 4000000.          8.9380-4 1.2070-4-0.173648          1.7600+7         LVLW.E.Dorenbusch+      (63)F0147  3 
+#/DATA      8
+#/DATASET

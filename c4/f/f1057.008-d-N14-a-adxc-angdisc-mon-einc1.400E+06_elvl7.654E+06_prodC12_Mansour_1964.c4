@@ -1,0 +1,34 @@
+#ENTRY      F1057
+#AUTHOR1    N.A.Mansour+
+#YEAR       1964
+#INSTITUTE  (3EGYCAI)
+#TITLE      Studies of the (d,a) reaction on N-14 in the deuteron
+#+          energy range from 1 to 2.5 MeV.
+#AUTHOR(S)  N.A.Mansour, H.R.Saad, Z.A.Saleh, E.M.Sayed, I.I.Zaloubovsky, 
+#+          V.J.Gontchar
+#REF-CODE   (J,NP,59,241,1964)
+#REFERENCE  Nucl.Phys. 59 (1964) 241
+#DATASETS   0
+#
+#DATASET    F1057008 
+#DATE       20100310
+#REACTION   7-N-14(D,A)6-C-12,PAR,DA
+#PROJ       1002
+#TARG       7014
+#MF         4
+#MT         800
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1002  7014   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  7014   4 800  C 1400000.          3.0781-4 1.2162-4 0.718041          7654000.         LVLN.A.Mansour+         (64)F1057  8 
+ 1002  7014   4 800  C 1400000.          2.7974-4 1.2363-4 0.506320          7654000.         LVLN.A.Mansour+         (64)F1057  8 
+ 1002  7014   4 800  C 1400000.          3.0577-4 1.3513-4 0.271188          7654000.         LVLN.A.Mansour+         (64)F1057  8 
+ 1002  7014   4 800  C 1400000.          4.6690-4 1.4864-4 0.011292          7654000.         LVLN.A.Mansour+         (64)F1057  8 
+ 1002  7014   4 800  C 1400000.          6.0106-4 1.4862-4-0.235990          7654000.         LVLN.A.Mansour+         (64)F1057  8 
+ 1002  7014   4 800  C 1400000.          5.9999-4 1.2162-4-0.492727          7654000.         LVLN.A.Mansour+         (64)F1057  8 
+ 1002  7014   4 800  C 1400000.          5.5853-4 1.7567-4-0.682126          7654000.         LVLN.A.Mansour+         (64)F1057  8 
+ 1002  7014   4 800  C 1400000.          5.4394-4 1.2161-4-0.856087          7654000.         LVLN.A.Mansour+         (64)F1057  8 
+#/DATA      8
+#/DATASET

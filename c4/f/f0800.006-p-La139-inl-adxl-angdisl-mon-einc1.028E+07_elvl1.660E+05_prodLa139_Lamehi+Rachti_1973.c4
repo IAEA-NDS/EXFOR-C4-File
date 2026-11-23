@@ -1,0 +1,28 @@
+#ENTRY      F0800
+#AUTHOR1    M.Lamehi-Rachti+
+#YEAR       1973
+#INSTITUTE  (2FR SAC)
+#TITLE      Analog states of 140La levels.
+#AUTHOR(S)  M.Lamehi-Rachti, Y.Cassagnou, P.Foissel, C.Levi, W.Mittig, 
+#+          L.Papineau, G.M.Temmer
+#REF-CODE   (J,NP/A,202,609,1973)
+#REFERENCE  Nucl.Phys.A 202 (1973) 609
+#DATASETS   0
+#
+#DATASET    F0800006 
+#DATE       20070126
+#REACTION   57-LA-139(P,INL)57-LA-139,PAR,DA
+#PROJ       1001
+#TARG       57139
+#MF         4
+#MT         601
+#PRODUCT    57-LA-139
+#C4BEGIN    [ 1001 57139   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 57139   4 601    1.0280+7 20000.00 4.6971-5 4.6971-6-0.578427          166000.0         LVLM.Lamehi-Rachti+     (73)F0800  6 
+ 1001 57139   4 601    1.0280+7 20000.00 3.8722-5 3.8722-6-0.779447          166000.0         LVLM.Lamehi-Rachti+     (73)F0800  6 
+ 1001 57139   4 601    1.0280+7 20000.00 3.4620-5 3.4620-6-0.943801          166000.0         LVLM.Lamehi-Rachti+     (73)F0800  6 
+#/DATA      3
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      F0821
+#AUTHOR1    S.V.Artemov+
+#YEAR       1996
+#INSTITUTE  (4UZ UZB)
+#TITLE      Analysis of the reactions (3He,d) on 1p-shell nuclei
+#+          by a method combining DWBA and dispersion relations
+#AUTHOR(S)  S.V.Artemov, I.R.Gulamov, E.A.Zaparov, I.Yu.Zotov, G.K.Nie
+#REF-CODE   (J,YF,59,454,1996)
+#REFERENCE  Yad.Fiz. 59 (1996) 454
+#DATASETS   0
+#
+#DATASET    F0821002 
+#DATE       20070525
+#REACTION   4-BE-9(HE3,D)5-B-10,PAR,DA
+#PROJ       2003
+#TARG       4009
+#MF         4
+#MT         650
+#PRODUCT    5-B-10
+#C4BEGIN    [ 2003  4009   4 650 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  4009   4 650 AC 2.2300+7          0.011200 9.0000-4 0.991445          0.000000         LVLS.V.Artemov+         (96)F0821  2 
+ 2003  4009   4 650 AC 2.2300+7          0.017500 1.4000-3 0.984808          0.000000         LVLS.V.Artemov+         (96)F0821  2 
+ 2003  4009   4 650 AC 2.2300+7          0.017200 1.3800-3 0.974370          0.000000         LVLS.V.Artemov+         (96)F0821  2 
+ 2003  4009   4 650 AC 2.2300+7          0.013800 1.1000-3 0.956305          0.000000         LVLS.V.Artemov+         (96)F0821  2 
+ 2003  4009   4 650 AC 2.2300+7          3.7000-3 3.0000-4 0.923880          0.000000         LVLS.V.Artemov+         (96)F0821  2 
+#/DATA      5
+#/DATASET

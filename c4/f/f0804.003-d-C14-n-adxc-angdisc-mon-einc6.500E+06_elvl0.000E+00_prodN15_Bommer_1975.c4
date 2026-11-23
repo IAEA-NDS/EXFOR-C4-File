@@ -1,0 +1,36 @@
+#ENTRY      F0804
+#AUTHOR1    J.Bommer+
+#YEAR       1975
+#INSTITUTE  (2GERBER)
+#TITLE      Spectroscopic study of 15N states with the reaction
+#+          14C(d,n).
+#AUTHOR(S)  J.Bommer, M.Ekpo, H.Fuchs, K.Grabisch, H.Kluge
+#REF-CODE   (J,NP/A,251,246,1975)
+#REFERENCE  Nucl.Phys.A 251 (1975) 246
+#DATASETS   0
+#
+#DATASET    F0804003 
+#DATE       20070208
+#REACTION   6-C-14(D,N)7-N-15,PAR,DA
+#PROJ       1002
+#TARG       6014
+#MF         4
+#MT         50
+#PRODUCT    7-N-15
+#C4BEGIN    [ 1002  6014   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6014   4  50  C 6500000.          4.0586-3 1.0726-3 0.999931          0.000000         LVLJ.Bommer+            (75)F0804  3 
+ 1002  6014   4  50  C 6500000.          7.3303-3 1.9626-3 0.987305          0.000000         LVLJ.Bommer+            (75)F0804  3 
+ 1002  6014   4  50  C 6500000.          0.010960 2.6254-3 0.958730          0.000000         LVLJ.Bommer+            (75)F0804  3 
+ 1002  6014   4  50  C 6500000.          0.010563 2.8283-3 0.909548          0.000000         LVLJ.Bommer+            (75)F0804  3 
+ 1002  6014   4  50  C 6500000.          6.7509-3 1.7606-3 0.851873          0.000000         LVLJ.Bommer+            (75)F0804  3 
+ 1002  6014   4  50  C 6500000.          3.4076-3 9.1237-4 0.767691          0.000000         LVLJ.Bommer+            (75)F0804  3 
+ 1002  6014   4  50  C 6500000.          3.0313-3 7.9055-4 0.662515          0.000000         LVLJ.Bommer+            (75)F0804  3 
+ 1002  6014   4  50  C 6500000.          3.7700-3 1.0353-3 0.560509          0.000000         LVLJ.Bommer+            (75)F0804  3 
+ 1002  6014   4  50  C 6500000.          4.2464-3 1.1222-3 0.437116          0.000000         LVLJ.Bommer+            (75)F0804  3 
+ 1002  6014   4  50  C 6500000.          3.5022-3 8.5150-4 0.314274          0.000000         LVLJ.Bommer+            (75)F0804  3 
+ 1002  6014   4  50  C 6500000.          2.7683-3 7.3160-4 0.180622          0.000000         LVLJ.Bommer+            (75)F0804  3 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,29 @@
+#ENTRY      F0384
+#AUTHOR1    H.R.Weller+
+#YEAR       1973
+#INSTITUTE  (1USAFLA)
+#TITLE      The 13C(d,gamma0)15N and the 11B(d,gamma0)13C cross
+#+          sections in the region of the giant dipole resonance
+#AUTHOR(S)  H.R.Weller, R.A.Blue
+#REF-CODE   (J,NP/A,211,221,1973)
+#REFERENCE  Nucl.Phys.A 211 (1973) 221
+#DATASETS   0
+#
+#DATASET    F0384003 
+#DATE       20220601
+#REACTION   5-B-11(D,G)6-C-13,PAR,DA
+#PROJ       1002
+#TARG       5011
+#MF         4
+#MT         900
+#PRODUCT    6-C-13
+#C4BEGIN    [ 1002  5011   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5011   4 900  C 3610000.          6.2380-7 3.1190-7 0.999903          0.000000         LVLH.R.Weller+          (73)F0384  3 
+ 1002  5011   4 900  C 3610000.          7.1620-7 3.5810-7 0.873772          0.000000         LVLH.R.Weller+          (73)F0384  3 
+ 1002  5011   4 900  C 3610000.          6.9230-7 3.4615-7 0.493942          0.000000         LVLH.R.Weller+          (73)F0384  3 
+ 1002  5011   4 900  C 3610000.          6.6840-7 3.3420-7 0.019197          0.000000         LVLH.R.Weller+          (73)F0384  3 
+#/DATA      4
+#/DATASET

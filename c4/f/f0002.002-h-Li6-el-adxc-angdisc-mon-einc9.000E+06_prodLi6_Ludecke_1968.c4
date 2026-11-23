@@ -1,0 +1,35 @@
+#ENTRY      F0002
+#AUTHOR1    H.Ludecke+
+#YEAR       1968
+#INSTITUTE  (2GERMPH)
+#TITLE      The reactions Li-6(3He,3He0)Li-6,Li-6(d,d0)Li-6,
+#+          Li-7(d,d0)Li-7 and Li-6(3He,d0,1)Be-7.
+#AUTHOR(S)  H.Ludecke, T.Wan-Tjin, H.Werner, J.Zimmerer
+#REF-CODE   (J,NP/A,109,676,1968)
+#REFERENCE  Nucl.Phys.A 109 (1968) 676
+#DATASETS   0
+#
+#DATASET    F0002002 
+#DATE       20151118
+#REACTION   3-LI-6(HE3,EL)3-LI-6,,DA,,RTH
+#PROJ       2003
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 2003  3006   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  3006   4   2  C 9000000.          0.646298 0.027218 0.853551                              H.Ludecke+           (68)F0002  2 
+ 2003  3006   4   2  C 9000000.          0.103282 4.3450-3 0.741976                              H.Ludecke+           (68)F0002  2 
+ 2003  3006   4   2  C 9000000.          0.039989 1.6824-3 0.567844                              H.Ludecke+           (68)F0002  2 
+ 2003  3006   4   2  C 9000000.          0.041051 7.3617-3 0.406737                              H.Ludecke+           (68)F0002  2 
+ 2003  3006   4   2  C 9000000.          0.029972 1.2616-3 0.305695                              H.Ludecke+           (68)F0002  2 
+ 2003  3006   4   2  C 9000000.          0.018159 7.6434-4 0.107999                              H.Ludecke+           (68)F0002  2 
+ 2003  3006   4   2  C 9000000.          0.011875 4.9989-4-0.015707                              H.Ludecke+           (68)F0002  2 
+ 2003  3006   4   2  C 9000000.          7.5851-3 1.3604-3-0.170209                              H.Ludecke+           (68)F0002  2 
+ 2003  3006   4   2  C 9000000.          6.8865-3 2.3045-3-0.333807                              H.Ludecke+           (68)F0002  2 
+ 2003  3006   4   2  C 9000000.          6.1106-3 2.3875-3-0.475624                              H.Ludecke+           (68)F0002  2 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      F1201
+#AUTHOR1    J.Bommer+
+#YEAR       1971
+#INSTITUTE  (2GERBER)
+#TITLE      Study of Sc-43 states with proton transfer reactions on
+#+          Ca-42.
+#AUTHOR(S)  J.Bommer, K.Grabisch, H.Kluge, G.Roschert, H.Fuchs, U.Lynen, 
+#+          K.K.Seth
+#REF-CODE   (J,NP/A,160,577,1971)
+#REFERENCE  Nucl.Phys.A 160 (1971) 577
+#DATASETS   0
+#
+#DATASET    F1201005 
+#DATE       20140830
+#REACTION   20-CA-42(D,N)21-SC-43,PAR,DA
+#PROJ       1002
+#TARG       20042
+#MF         4
+#MT         50
+#PRODUCT    21-SC-43
+#C4BEGIN    [ 1002 20042   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 20042   4  50  C 6000000.          9.3190-4          0.999853          4712000.         LVLJ.Bommer+            (71)F1201  5 
+ 1002 20042   4  50  C 6000000.          1.4788-3          0.990447          4712000.         LVLJ.Bommer+            (71)F1201  5 
+ 1002 20042   4  50  C 6000000.          1.8317-3          0.963840          4712000.         LVLJ.Bommer+            (71)F1201  5 
+ 1002 20042   4  50  C 6000000.          1.5918-3          0.923839          4712000.         LVLJ.Bommer+            (71)F1201  5 
+ 1002 20042   4  50  C 6000000.          1.3351-3          0.874425          4712000.         LVLJ.Bommer+            (71)F1201  5 
+ 1002 20042   4  50  C 6000000.          8.2910-4          0.784830          4712000.         LVLJ.Bommer+            (71)F1201  5 
+ 1002 20042   4  50  C 6000000.          5.3330-4 1.0970-4 0.695411          4712000.         LVLJ.Bommer+            (71)F1201  5 
+ 1002 20042   4  50  C 6000000.          3.1010-4 4.5600-5 0.144218          4712000.         LVLJ.Bommer+            (71)F1201  5 
+ 1002 20042   4  50  C 6000000.          3.5780-4 4.7300-5 3.6652-3          4712000.         LVLJ.Bommer+            (71)F1201  5 
+ 1002 20042   4  50  C 6000000.          3.9850-4 6.4600-5-0.118352          4712000.         LVLJ.Bommer+            (71)F1201  5 
+#/DATA      10
+#/DATASET

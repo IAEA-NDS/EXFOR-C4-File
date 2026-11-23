@@ -1,0 +1,36 @@
+#ENTRY      F1021
+#AUTHOR1    A.E.Antropov+
+#YEAR       1969
+#INSTITUTE  (4RUSSUL)
+#TITLE      Elastic and inelastic scattering of protons by 23Na.
+#AUTHOR(S)  A.E.Antropov, P.P.Zarubin, M.F.Kydoyarov, B.N.Orlov, A.V.Plavko, 
+#+          A.I.Sorokin
+#REF-CODE   (J,IZV,33,1379,1969)
+#REFERENCE  Izv.Ross.AN,Fiz. 33 (1969) 1379
+#DATASETS   0
+#
+#DATASET    F1021003 
+#DATE       20090723
+#REACTION   11-NA-23(P,INL)11-NA-23,PAR,DA
+#PROJ       1001
+#TARG       11023
+#MF         4
+#MT         601
+#PRODUCT    11-NA-23
+#C4BEGIN    [ 1001 11023   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 11023   4 601  C 6030000.          3.0524-3 1.8590-3 0.856051          2984000.         LVLA.E.Antropov+        (69)F1021  3 
+ 1001 11023   4 601  C 6030000.          1.6164-3 4.2088-4 0.754206          2984000.         LVLA.E.Antropov+        (69)F1021  3 
+ 1001 11023   4 601  C 6030000.          1.1800-3 2.6295-4 0.625215          2984000.         LVLA.E.Antropov+        (69)F1021  3 
+ 1001 11023   4 601  C 6030000.          1.1814-3 4.5616-4 0.531088          2984000.         LVLA.E.Antropov+        (69)F1021  3 
+ 1001 11023   4 601  C 6030000.          1.0082-3 3.5073-4 0.364194          2984000.         LVLA.E.Antropov+        (69)F1021  3 
+ 1001 11023   4 601  C 6030000.          8.5149-4 2.8059-4 0.271104          2984000.         LVLA.E.Antropov+        (69)F1021  3 
+ 1001 11023   4 601  C 6030000.          5.7392-4 2.1034-4 0.016004          2984000.         LVLA.E.Antropov+        (69)F1021  3 
+ 1001 11023   4 601  C 6030000.          4.7078-4 2.1054-4-0.161311          2984000.         LVLA.E.Antropov+        (69)F1021  3 
+ 1001 11023   4 601  C 6030000.          3.3256-4 2.6315-4-0.333642          2984000.         LVLA.E.Antropov+        (69)F1021  3 
+ 1001 11023   4 601  C 6030000.          3.7065-4 2.1034-4-0.562805          2984000.         LVLA.E.Antropov+        (69)F1021  3 
+ 1001 11023   4 601  C 6030000.          4.9839-4 2.2798-4-0.854187          2984000.         LVLA.E.Antropov+        (69)F1021  3 
+#/DATA      11
+#/DATASET

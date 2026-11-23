@@ -1,0 +1,33 @@
+#ENTRY      F0095
+#AUTHOR1    J.A.Biggerstaff+
+#YEAR       1962
+#INSTITUTE  (1USAKTY)
+#TITLE      Differential cross sections for (d,a) and (d,t)
+#+          reaction in 9Be.
+#AUTHOR(S)  J.A.Biggerstaff, R.F.Hood, H.Scott, M.T.McEllistrem
+#REF-CODE   (J,NP,36,631,1962)
+#REFERENCE  Nucl.Phys. 36 (1962) 631
+#DATASETS   0
+#
+#DATASET    F0095005 
+#DATE       20120126
+#REACTION   4-BE-9(D,A)3-LI-7,PAR,DA
+#PROJ       1002
+#TARG       4009
+#MF         4
+#MT         800
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1002  4009   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   4 800  C 2190000.          4.3040-3          0.832438          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 2190000.          3.6170-3          0.624152          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 2190000.          3.1690-3          0.370395          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 2190000.          2.7200-3          0.098451          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 2190000.          2.4270-3         -0.152986          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 2190000.          1.9760-3         -0.408330          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 2190000.          1.5230-3         -0.623880          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 2190000.          1.2280-3         -0.781520          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+#/DATA      8
+#/DATASET

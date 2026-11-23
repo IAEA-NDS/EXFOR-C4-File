@@ -1,0 +1,40 @@
+#ENTRY      F0487
+#AUTHOR1    H.D.Holmgren+
+#YEAR       1956
+#INSTITUTE  (1USANRL)
+#TITLE      Differential cross sections for the 9Be(3He,p)11B
+#+          reaction
+#AUTHOR(S)  H.D.Holmgren, M.L.Bullock, W.E.Kunz
+#REF-CODE   (J,PR,104,1446,1956)
+#REFERENCE  Phys.Rev. 104 (1956) 1446
+#DATASETS   0
+#
+#DATASET    F0487002 
+#DATE       20220608
+#REACTION   4-BE-9(HE3,P)5-B-11,PAR,DA
+#PROJ       2003
+#TARG       4009
+#MF         4
+#MT         600
+#PRODUCT    5-B-11
+#C4BEGIN    [ 2003  4009   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  4009   4 600  C 2000000.          1.0840-3          0.996917          4445000.         LVLH.D.Holmgren+        (56)F0487  2 
+ 2003  4009   4 600  C 2000000.          1.0080-3          0.963163          4445000.         LVLH.D.Holmgren+        (56)F0487  2 
+ 2003  4009   4 600  C 2000000.          9.8300-4          0.893371          4445000.         LVLH.D.Holmgren+        (56)F0487  2 
+ 2003  4009   4 600  C 2000000.          9.4600-4          0.800731          4445000.         LVLH.D.Holmgren+        (56)F0487  2 
+ 2003  4009   4 600  C 2000000.          7.8400-4          0.680721          4445000.         LVLH.D.Holmgren+        (56)F0487  2 
+ 2003  4009   4 600  C 2000000.          6.8800-4          0.543174          4445000.         LVLH.D.Holmgren+        (56)F0487  2 
+ 2003  4009   4 600  C 2000000.          7.4400-4          0.372988          4445000.         LVLH.D.Holmgren+        (56)F0487  2 
+ 2003  4009   4 600  C 2000000.          7.8100-4          0.233445          4445000.         LVLH.D.Holmgren+        (56)F0487  2 
+ 2003  4009   4 600  C 2000000.          7.9100-4          0.013962          4445000.         LVLH.D.Holmgren+        (56)F0487  2 
+ 2003  4009   4 600  C 2000000.          8.1000-4         -0.161604          4445000.         LVLH.D.Holmgren+        (56)F0487  2 
+ 2003  4009   4 600  C 2000000.          7.0000-4         -0.348572          4445000.         LVLH.D.Holmgren+        (56)F0487  2 
+ 2003  4009   4 600  C 2000000.          8.1100-4         -0.490904          4445000.         LVLH.D.Holmgren+        (56)F0487  2 
+ 2003  4009   4 600  C 2000000.          7.7500-4         -0.622515          4445000.         LVLH.D.Holmgren+        (56)F0487  2 
+ 2003  4009   4 600  C 2000000.          7.0100-4         -0.750111          4445000.         LVLH.D.Holmgren+        (56)F0487  2 
+ 2003  4009   4 600  C 2000000.          6.4600-4         -0.881303          4445000.         LVLH.D.Holmgren+        (56)F0487  2 
+#/DATA      15
+#/DATASET

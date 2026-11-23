@@ -1,0 +1,27 @@
+#ENTRY      F1207
+#AUTHOR1    W.M.Mason+
+#YEAR       1969
+#INSTITUTE  (2UK OXF)
+#TITLE      The giant dipole resonance and isospin in
+#+          Y-89(p,g)Zr-90.
+#AUTHOR(S)  W.M.Mason, G.Kernel, J.L.Black, N.W.Tanner
+#REF-CODE   (J,NP/A,135,193,1969)
+#REFERENCE  Nucl.Phys.A 135 (1969) 193
+#DATASETS   0
+#
+#DATASET    F1207021 
+#DATE       20131119
+#REACTION   39-Y-89(P,G)40-ZR-90,PAR,DA
+#PROJ       1001
+#TARG       39089
+#MF         4
+#MT         900
+#PRODUCT    40-ZR-90
+#C4BEGIN    [ 1001 39089   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 39089   4 900    7500000.          5.3000-6          6.123-17          0.000000         LVLW.M.Mason+           (69)F1207 21 
+ 1001 39089   4 900    8040000.          1.9800-5          6.123-17          0.000000         LVLW.M.Mason+           (69)F1207 21 
+#/DATA      2
+#/DATASET

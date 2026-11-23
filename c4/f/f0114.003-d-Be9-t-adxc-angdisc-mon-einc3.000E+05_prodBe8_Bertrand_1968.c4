@@ -1,0 +1,39 @@
+#ENTRY      F0114
+#AUTHOR1    F.Bertrand+
+#YEAR       1968
+#INSTITUTE  (2FR VNV)
+#TITLE      Study of the reactions 9Be(d,alpha0)7Li,
+#+          9Be(d,alpha1)7Li* 9Be(d,t)8Be and 9Be(d,p0)10Be
+#+          from 300 keV to 1000 keV
+#AUTHOR(S)  F.Bertrand, G.Grenier, J.Pornet
+#REF-CODE   (R,CEA-R-3504,1968)
+#REFERENCE  Report CEA-R-3504, 1968
+#DATASETS   0
+#
+#DATASET    F0114003 
+#DATE       20190717
+#REACTION   4-BE-9(D,T)4-BE-8,,DA
+#PROJ       1002
+#TARG       4009
+#MF         4
+#MT         105
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 1002  4009   4 105  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   4 105  C 300000.0          5.9000-5 6.0000-6 0.955793                              F.Bertrand+          (68)F0114  3 
+ 1002  4009   4 105  C 300000.0          5.9000-5 5.0000-6 0.891007                              F.Bertrand+          (68)F0114  3 
+ 1002  4009   4 105  C 300000.0          5.5000-5 1.0000-5 0.802817                              F.Bertrand+          (68)F0114  3 
+ 1002  4009   4 105  C 300000.0          7.8000-5 6.0000-6 0.689620                              F.Bertrand+          (68)F0114  3 
+ 1002  4009   4 105  C 300000.0          1.0400-4 6.0000-6 0.531399                              F.Bertrand+          (68)F0114  3 
+ 1002  4009   4 105  C 300000.0          1.4400-4 7.0000-6 0.369747                              F.Bertrand+          (68)F0114  3 
+ 1002  4009   4 105  C 300000.0          1.6100-4 6.0000-6-0.146083                              F.Bertrand+          (68)F0114  3 
+ 1002  4009   4 105  C 300000.0          1.5300-4 7.0000-6-0.236838                              F.Bertrand+          (68)F0114  3 
+ 1002  4009   4 105  C 300000.0          1.4900-4 6.0000-6-0.392337                              F.Bertrand+          (68)F0114  3 
+ 1002  4009   4 105  C 300000.0          1.4500-4 6.0000-6-0.634731                              F.Bertrand+          (68)F0114  3 
+ 1002  4009   4 105  C 300000.0          1.5400-4 6.0000-6-0.697165                              F.Bertrand+          (68)F0114  3 
+ 1002  4009   4 105  C 300000.0          1.2500-4 1.6000-5-0.881303                              F.Bertrand+          (68)F0114  3 
+ 1002  4009   4 105  C 300000.0          1.3600-4 5.0000-6-0.954240                              F.Bertrand+          (68)F0114  3 
+#/DATA      13
+#/DATASET

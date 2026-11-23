@@ -1,0 +1,36 @@
+#ENTRY      F0923
+#AUTHOR1    A.E.Antropov+
+#YEAR       1976
+#INSTITUTE  (4RUSSUL)
+#TITLE      Energy dependence of cross sections for elastic and
+#+          inelastic scattering by 46,48,50Ti.
+#AUTHOR(S)  A.E.Antropov, V.P.Gusev, P.P.Zarubin, P.D.Ioannu
+#REF-CODE   (J,IZV,40,807,1976)
+#REFERENCE  Izv.Ross.AN,Fiz. 40 (1976) 807
+#DATASETS   0
+#
+#DATASET    F0923006 
+#DATE       20080415
+#REACTION   22-TI-50(P,EL)22-TI-50,,DA
+#PROJ       1001
+#TARG       22050
+#MF         4
+#MT         2
+#PRODUCT    22-TI-50
+#C4BEGIN    [ 1001 22050   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 22050   4   2    5191000.          0.027314 2.7151-3-0.104528                              A.E.Antropov+        (76)F0923  6 
+ 1001 22050   4   2    5297000.          0.022836 1.7291-3-0.104528                              A.E.Antropov+        (76)F0923  6 
+ 1001 22050   4   2    5321700.          0.022828 2.9628-3-0.104528                              A.E.Antropov+        (76)F0923  6 
+ 1001 22050   4   2    5381100.          0.026760 1.9744-3-0.104528                              A.E.Antropov+        (76)F0923  6 
+ 1001 22050   4   2    5447900.          0.029455 1.7291-3-0.104528                              A.E.Antropov+        (76)F0923  6 
+ 1001 22050   4   2    5583400.          0.020771 1.4806-3-0.104528                              A.E.Antropov+        (76)F0923  6 
+ 1001 22050   4   2    5672300.          0.020249 2.2213-3-0.104528                              A.E.Antropov+        (76)F0923  6 
+ 1001 22050   4   2    5734500.          0.037512 2.4682-3-0.104528                              A.E.Antropov+        (76)F0923  6 
+ 1001 22050   4   2    5805900.          0.031317 2.7166-3-0.104528                              A.E.Antropov+        (76)F0923  6 
+ 1001 22050   4   2    5914500.          0.028814 2.9628-3-0.104528                              A.E.Antropov+        (76)F0923  6 
+ 1001 22050   4   2    5996200.          0.035208 2.2221-3-0.104528                              A.E.Antropov+        (76)F0923  6 
+#/DATA      11
+#/DATASET

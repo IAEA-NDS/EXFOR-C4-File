@@ -1,0 +1,30 @@
+#ENTRY      F0438
+#AUTHOR1    O.Ames+
+#YEAR       1957
+#INSTITUTE  (1USAJHU)
+#TITLE      Angular distributions of the 11B(d,n)12C ground - state
+#+          neutrons
+#AUTHOR(S)  O.Ames, G.E.Owen, C.D.Swartz
+#REF-CODE   (J,PR,106,775,1957)
+#REFERENCE  Phys.Rev. 106 (1957) 775
+#DATASETS   0
+#
+#DATASET    F0438002 
+#DATE       20220606
+#REACTION   5-B-11(D,N)6-C-12,PAR,DA
+#PROJ       1002
+#TARG       5011
+#MF         4
+#MT         50
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1002  5011   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5011   4  50  C 500000.0          4.9100-5          0.999903          0.000000         LVLO.Ames+              (57)F0438  2 
+ 1002  5011   4  50  C 500000.0          4.7300-5          0.736097          0.000000         LVLO.Ames+              (57)F0438  2 
+ 1002  5011   4  50  C 500000.0          4.0000-5          0.022687          0.000000         LVLO.Ames+              (57)F0438  2 
+ 1002  5011   4  50  C 500000.0          3.9200-5         -0.487860          0.000000         LVLO.Ames+              (57)F0438  2 
+ 1002  5011   4  50  C 500000.0          2.9100-5         -0.855364          0.000000         LVLO.Ames+              (57)F0438  2 
+#/DATA      5
+#/DATASET

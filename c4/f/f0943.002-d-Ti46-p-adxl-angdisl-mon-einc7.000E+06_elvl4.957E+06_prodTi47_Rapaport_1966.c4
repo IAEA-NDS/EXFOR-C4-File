@@ -1,0 +1,29 @@
+#ENTRY      F0943
+#AUTHOR1    J.Rapaport+
+#YEAR       1966
+#INSTITUTE  (1USAMIT)
+#TITLE      Stripping analysis of the 46Ti(d,p)47Ti reactions.
+#AUTHOR(S)  J.Rapaport, A.Sperduto, W.W.Buechner
+#REF-CODE   (J,PR,143,808,1966)
+#REFERENCE  Phys.Rev. 143 (1966) 808
+#DATASETS   0
+#
+#DATASET    F0943002 
+#DATE       20090226
+#REACTION   22-TI-46(D,P)22-TI-47,PAR,DA
+#PROJ       1002
+#TARG       22046
+#MF         4
+#MT         600
+#PRODUCT    22-TI-47
+#C4BEGIN    [ 1002 22046   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 22046   4 600    7000000.          3.3984-3          0.992629          4957000.         LVLJ.Rapaport+          (66)F0943  2 
+ 1002 22046   4 600    7000000.          1.9297-3          0.966201          4957000.         LVLJ.Rapaport+          (66)F0943  2 
+ 1002 22046   4 600    7000000.          1.1883-3          0.925296          4957000.         LVLJ.Rapaport+          (66)F0943  2 
+ 1002 22046   4 600    7000000.          1.5937-3          0.869072          4957000.         LVLJ.Rapaport+          (66)F0943  2 
+ 1002 22046   4 600    7000000.          8.9404-4          0.707181          4957000.         LVLJ.Rapaport+          (66)F0943  2 
+#/DATA      5
+#/DATASET

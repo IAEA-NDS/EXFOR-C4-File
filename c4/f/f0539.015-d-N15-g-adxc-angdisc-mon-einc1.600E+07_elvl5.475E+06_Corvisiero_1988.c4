@@ -1,0 +1,31 @@
+#ENTRY      F0539
+#AUTHOR1    P.Corvisiero+
+#YEAR       1988
+#INSTITUTE  (2ITYGVA)
+#TITLE      Proton and deuteron radiative capture in light nuclei
+#AUTHOR(S)  P.Corvisiero, M.Anghinolfi, M.M.Giannini, G.Ricco, M.Sanzone, 
+#+          M.Taiuti
+#REF-CODE   (J,NP/A,483,9,1988)
+#REFERENCE  Nucl.Phys.A 483 (1988) 9
+#DATASETS   0
+#
+#DATASET    F0539015 
+#DATE       20200415
+#REACTION   7-N-15(D,G)8-O-17,PAR,DA
+#PROJ       1002
+#TARG       7015
+#MF         4
+#MT         900
+#PRODUCT    8-O-17
+#C4BEGIN    [ 1002  7015   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  7015   4 900  C 1.6000+7 400000.0 5.1300-7 6.3000-8 0.623880          5475000. 395000.0LVLP.Corvisiero+        (88)F0539 15 
+ 1002  7015   4 900  C 1.6000+7 400000.0 5.5800-7 6.7000-8 0.469472          5475000. 395000.0LVLP.Corvisiero+        (88)F0539 15 
+ 1002  7015   4 900  C 1.6000+7 400000.0 5.9100-7 7.3000-8 6.9813-3          5475000. 395000.0LVLP.Corvisiero+        (88)F0539 15 
+ 1002  7015   4 900  C 1.6000+7 400000.0 5.2200-7 6.6000-8-0.359997          5475000. 395000.0LVLP.Corvisiero+        (88)F0539 15 
+ 1002  7015   4 900  C 1.6000+7 400000.0 5.1000-7 6.7000-8-0.512043          5475000. 395000.0LVLP.Corvisiero+        (88)F0539 15 
+ 1002  7015   4 900  C 1.6000+7 400000.0 5.0300-7 7.8000-8-0.718126          5475000. 395000.0LVLP.Corvisiero+        (88)F0539 15 
+#/DATA      6
+#/DATASET

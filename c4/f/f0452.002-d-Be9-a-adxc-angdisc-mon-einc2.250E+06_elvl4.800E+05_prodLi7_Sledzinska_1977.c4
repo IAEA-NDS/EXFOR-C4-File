@@ -1,0 +1,45 @@
+#ENTRY      F0452
+#AUTHOR1    I.Sledzinska+
+#YEAR       1977
+#INSTITUTE  (3POLIPJ)
+#TITLE      Analysis of the 9Be(d,alpha0)7Li(g.s.) and
+#+          9Be(d,alpha)7Li* (470 keV) reactions in terms of the
+#+          two nucleon distorted-wave born approximation
+#AUTHOR(S)  I.Sledzinska, A.Saganek, Z.Wilhelmi, B.Zwieglinski
+#REF-CODE   (J,APP/B,8,227,1977)
+#REFERENCE  Acta Phys.Pol.B 8 (1977) 227
+#DATASETS   0
+#
+#DATASET    F0452002 
+#DATE       20220607
+#REACTION   4-BE-9(D,A)3-LI-7,PAR,DA
+#PROJ       1002
+#TARG       4009
+#MF         4
+#MT         800
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1002  4009   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   4 800  C 2250000.          4.6800-3          0.914960          480000.0         LVLI.Sledzinska+        (77)F0452  2 
+ 1002  4009   4 800  C 2250000.          4.2100-3          0.890213          480000.0         LVLI.Sledzinska+        (77)F0452  2 
+ 1002  4009   4 800  C 2250000.          4.4600-3          0.837719          480000.0         LVLI.Sledzinska+        (77)F0452  2 
+ 1002  4009   4 800  C 2250000.          3.9900-3          0.753563          480000.0         LVLI.Sledzinska+        (77)F0452  2 
+ 1002  4009   4 800  C 2250000.          3.5200-3          0.695913          480000.0         LVLI.Sledzinska+        (77)F0452  2 
+ 1002  4009   4 800  C 2250000.          3.4500-3          0.634731          480000.0         LVLI.Sledzinska+        (77)F0452  2 
+ 1002  4009   4 800  C 2250000.          3.2200-3          0.546102          480000.0         LVLI.Sledzinska+        (77)F0452  2 
+ 1002  4009   4 800  C 2250000.          3.0700-3          0.377841          480000.0         LVLI.Sledzinska+        (77)F0452  2 
+ 1002  4009   4 800  C 2250000.          2.7700-3          0.195946          480000.0         LVLI.Sledzinska+        (77)F0452  2 
+ 1002  4009   4 800  C 2250000.          2.6300-3          6.9813-3          480000.0         LVLI.Sledzinska+        (77)F0452  2 
+ 1002  4009   4 800  C 2250000.          2.4700-3         -0.074979          480000.0         LVLI.Sledzinska+        (77)F0452  2 
+ 1002  4009   4 800  C 2250000.          2.0900-3         -0.211325          480000.0         LVLI.Sledzinska+        (77)F0452  2 
+ 1002  4009   4 800  C 2250000.          2.0100-3         -0.315649          480000.0         LVLI.Sledzinska+        (77)F0452  2 
+ 1002  4009   4 800  C 2250000.          1.7900-3         -0.489382          480000.0         LVLI.Sledzinska+        (77)F0452  2 
+ 1002  4009   4 800  C 2250000.          1.5600-3         -0.603208          480000.0         LVLI.Sledzinska+        (77)F0452  2 
+ 1002  4009   4 800  C 2250000.          1.3400-3         -0.743145          480000.0         LVLI.Sledzinska+        (77)F0452  2 
+ 1002  4009   4 800  C 2250000.          1.3500-3         -0.841511          480000.0         LVLI.Sledzinska+        (77)F0452  2 
+ 1002  4009   4 800  C 2250000.          1.6800-3         -0.893371          480000.0         LVLI.Sledzinska+        (77)F0452  2 
+ 1002  4009   4 800  C 2250000.          1.9300-3         -0.968148          480000.0         LVLI.Sledzinska+        (77)F0452  2 
+#/DATA      19
+#/DATASET

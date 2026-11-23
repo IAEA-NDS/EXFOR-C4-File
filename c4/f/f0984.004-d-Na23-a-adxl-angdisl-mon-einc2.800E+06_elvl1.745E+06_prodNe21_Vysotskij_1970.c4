@@ -1,0 +1,34 @@
+#ENTRY      F0984
+#AUTHOR1    G.Ya.Vysotskij+
+#YEAR       1970
+#INSTITUTE  (4UKRKHU)
+#TITLE      The 23Na(d,a)21Ne reaction for deuteron energies of
+#+          2.3-4.0 MeV.
+#AUTHOR(S)  G.Ya.Vysotskij, I.I.Zalyubovskij, B.M.Zabegaj, A.V.Kuznichenko, 
+#+          A.P.Lobkovskij, A.A.Melenevskij, O.F.Nemets, V.N.Nemykin
+#REF-CODE   (J,IZV,34,1761,1970)
+#REFERENCE  Izv.Ross.AN,Fiz. 34 (1970) 1761
+#DATASETS   0
+#
+#DATASET    F0984004 
+#DATE       20090205
+#REACTION   11-NA-23(D,A)10-NE-21,PAR,DA
+#PROJ       1002
+#TARG       11023
+#MF         4
+#MT         800
+#PRODUCT    10-NE-21
+#C4BEGIN    [ 1002 11023   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 11023   4 800    2800000.          6.9030-4 5.8900-5-0.168386          1745000.         LVLG.Ya.Vysotskij+      (70)F0984  4 
+ 1002 11023   4 800    2800000.          5.8910-4 5.3500-5-0.351188          1745000.         LVLG.Ya.Vysotskij+      (70)F0984  4 
+ 1002 11023   4 800    2800000.          4.6090-4 6.4400-5-0.489230          1745000.         LVLG.Ya.Vysotskij+      (70)F0984  4 
+ 1002 11023   4 800    2800000.          5.0430-4 5.3600-5-0.652760          1745000.         LVLG.Ya.Vysotskij+      (70)F0984  4 
+ 1002 11023   4 800    2800000.          5.1540-4 6.4200-5-0.758817          1745000.         LVLG.Ya.Vysotskij+      (70)F0984  4 
+ 1002 11023   4 800    2800000.          4.6770-4 5.8900-5-0.861275          1745000.         LVLG.Ya.Vysotskij+      (70)F0984  4 
+ 1002 11023   4 800    2800000.          5.3250-4 6.9600-5-0.940822          1745000.         LVLG.Ya.Vysotskij+      (70)F0984  4 
+ 1002 11023   4 800    2800000.          5.8650-4 5.9000-5-0.985408          1745000.         LVLG.Ya.Vysotskij+      (70)F0984  4 
+#/DATA      8
+#/DATASET

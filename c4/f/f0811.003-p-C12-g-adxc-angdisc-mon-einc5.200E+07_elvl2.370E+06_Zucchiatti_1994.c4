@@ -1,0 +1,33 @@
+#ENTRY      F0811
+#AUTHOR1    A.Zucchiatti+
+#YEAR       1994
+#INSTITUTE  (3SAFWIT)
+#TITLE      Proton radiative capture to 13N at beam energies of 40
+#+          to 54 MeV.
+#AUTHOR(S)  A.Zucchiatti, R.W.Fearick, J.P.F.Sellschop, D.G.Aschman, 
+#+          D.Steyn
+#REF-CODE   (J,NP/A,575,317,1994)
+#REFERENCE  Nucl.Phys.A 575 (1994) 317
+#DATASETS   0
+#
+#DATASET    F0811003 
+#DATE       20240214
+#REACTION   6-C-12(P,G)7-N-13,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         900
+#PRODUCT    7-N-13
+#C4BEGIN    [ 1001  6012   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 900  C 5.2000+7          7.0500-8 1.0500-8 0.860742          2370000.         LVLA.Zucchiatti+        (94)F0811  3 
+ 1001  6012   4 900  C 5.2000+7          2.4460-7 9.2000-9 0.693402          2370000.         LVLA.Zucchiatti+        (94)F0811  3 
+ 1001  6012   4 900  C 5.2000+7          2.6730-7 9.2000-9 0.480223          2370000.         LVLA.Zucchiatti+        (94)F0811  3 
+ 1001  6012   4 900  C 5.2000+7          2.4740-7 9.3000-9 0.238533          2370000.         LVLA.Zucchiatti+        (94)F0811  3 
+ 1001  6012   4 900  C 5.2000+7          1.2260-7 7.3000-9-0.019197          2370000.         LVLA.Zucchiatti+        (94)F0811  3 
+ 1001  6012   4 900  C 5.2000+7          4.0900-8 4.0000-9-0.516533          2370000.         LVLA.Zucchiatti+        (94)F0811  3 
+ 1001  6012   4 900  C 5.2000+7          1.3200-8 2.7000-9-0.719340          2370000.         LVLA.Zucchiatti+        (94)F0811  3 
+#/DATA      7
+#/DATASET

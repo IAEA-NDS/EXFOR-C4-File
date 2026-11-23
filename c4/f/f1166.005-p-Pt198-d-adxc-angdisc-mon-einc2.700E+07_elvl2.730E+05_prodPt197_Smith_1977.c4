@@ -1,0 +1,32 @@
+#ENTRY      F1166
+#AUTHOR1    G.R.Smith+
+#YEAR       1977
+#INSTITUTE  (1USACLU)
+#TITLE      Neutron pickup from Pt-194,Pt-196 and Pt-198.
+#AUTHOR(S)  G.R.Smith, N.J.Di Giacomo, M.L.Munger, R.J.Peterson
+#REF-CODE   (J,NP/A,290,72,1977)
+#REFERENCE  Nucl.Phys.A 290 (1977) 72
+#DATASETS   0
+#
+#DATASET    F1166005 
+#DATE       20220429
+#REACTION   78-PT-198(P,D)78-PT-197,PAR,DA
+#PROJ       1001
+#TARG       78198
+#MF         4
+#MT         650
+#PRODUCT    78-PT-197
+#C4BEGIN    [ 1001 78198   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 78198   4 650  C 2.7000+7          4.2400-8 6.3600-9 0.996195          273000.0         LVLG.R.Smith+           (77)F1166  5 
+ 1001 78198   4 650  C 2.7000+7          6.0400-8 9.0600-9 0.984808          273000.0         LVLG.R.Smith+           (77)F1166  5 
+ 1001 78198   4 650  C 2.7000+7          4.3400-8 6.5100-9 0.967709          273000.0         LVLG.R.Smith+           (77)F1166  5 
+ 1001 78198   4 650  C 2.7000+7          5.0500-8 7.5750-9 0.939693          273000.0         LVLG.R.Smith+           (77)F1166  5 
+ 1001 78198   4 650  C 2.7000+7          6.0300-8 9.0450-9 0.907777          273000.0         LVLG.R.Smith+           (77)F1166  5 
+ 1001 78198   4 650  C 2.7000+7          7.5400-8 1.1310-8 0.867765          273000.0         LVLG.R.Smith+           (77)F1166  5 
+ 1001 78198   4 650  C 2.7000+7          2.9600-8 4.4400-9 0.768284          273000.0         LVLG.R.Smith+           (77)F1166  5 
+ 1001 78198   4 650  C 2.7000+7          1.0700-8 1.6050-9 0.500000          273000.0         LVLG.R.Smith+           (77)F1166  5 
+#/DATA      8
+#/DATASET

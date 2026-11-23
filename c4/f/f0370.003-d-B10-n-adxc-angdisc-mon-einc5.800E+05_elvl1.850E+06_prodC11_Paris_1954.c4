@@ -1,0 +1,35 @@
+#ENTRY      F0370
+#AUTHOR1    C.H.Paris+
+#YEAR       1954
+#INSTITUTE  (2NEDUTR)
+#TITLE      Angular distributions of four neutron groups from the
+#+          10B(d,n)11C reaction
+#AUTHOR(S)  C.H.Paris, P.M.Endt
+#REF-CODE   (J,PHY,20,585,1954)
+#REFERENCE  Physica 20 (1954) 585
+#DATASETS   0
+#
+#DATASET    F0370003 
+#DATE       20220601
+#REACTION   5-B-10(D,N)6-C-11,PAR,DA
+#PROJ       1002
+#TARG       5010
+#MF         4
+#MT         50
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1002  5010   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5010   4  50  C 580000.0          5.0840-5 5.0840-6 0.966376          1850000.         LVLC.H.Paris+           (54)F0370  3 
+ 1002  5010   4  50  C 580000.0          6.0580-5 6.0580-6 0.865151          1850000.         LVLC.H.Paris+           (54)F0370  3 
+ 1002  5010   4  50  C 580000.0          5.2970-5 5.2970-6 0.705872          1850000.         LVLC.H.Paris+           (54)F0370  3 
+ 1002  5010   4  50  C 580000.0          6.2830-5 6.2830-6 0.496974          1850000.         LVLC.H.Paris+           (54)F0370  3 
+ 1002  5010   4  50  C 580000.0          7.2580-5 7.2580-6 0.248690          1850000.         LVLC.H.Paris+           (54)F0370  3 
+ 1002  5010   4  50  C 580000.0          7.5060-5 7.5060-6-8.7265-3          1850000.         LVLC.H.Paris+           (54)F0370  3 
+ 1002  5010   4  50  C 580000.0          8.4810-5 8.4810-6-0.265556          1850000.         LVLC.H.Paris+           (54)F0370  3 
+ 1002  5010   4  50  C 580000.0          6.7950-5 6.7950-6-0.503020          1850000.         LVLC.H.Paris+           (54)F0370  3 
+ 1002  5010   4  50  C 580000.0          5.5650-5 5.5650-6-0.713250          1850000.         LVLC.H.Paris+           (54)F0370  3 
+ 1002  5010   4  50  C 580000.0          4.5940-5 4.5940-6-0.869495          1850000.         LVLC.H.Paris+           (54)F0370  3 
+#/DATA      10
+#/DATASET

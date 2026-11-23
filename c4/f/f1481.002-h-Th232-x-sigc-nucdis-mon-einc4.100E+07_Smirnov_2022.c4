@@ -1,0 +1,41 @@
+#ENTRY      F1481
+#AUTHOR1    A.A.Smirnov+
+#YEAR       2022
+#INSTITUTE  (4RUSKUR)
+#TITLE      Measurement of cumulative cross sections for 232Th
+#+          fission products upon irradiation with medium-energy
+#+          3He nuclei
+#AUTHOR(S)  A.A.Smirnov, M.N.German, V.A.Zagryadskiy, K.A.Makoveeva, 
+#+          T.Y.Malamut, V.I.Novikov, V.N.Unezhev
+#REF-CODE   (J,PAN,85,1449,2022)
+#REFERENCE  Phys.At.Nucl. 85 (2022) 1449
+#DATASETS   0
+#
+#DATASET    F1481002 
+#DATE       20231030
+#REACTION   90-TH-232(HE3,X)ELEM/MASS,CUM,SIG
+#PROJ       2003
+#TARG       90232
+#MF         3
+#MT         459
+#C4BEGIN    [ 2003 90232   3 459 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 90232   3 459 A  4.1000+7 1900000. 0.068200 0.014200           40095.9                     A.A.Smirnov+         (22)F1481  2 
+ 2003 90232   3 459 A  4.1000+7 1900000. 6.1000-3 1.5000-3           41096.9                     A.A.Smirnov+         (22)F1481  2 
+ 2003 90232   3 459 A  4.1000+7 1900000. 0.058200 9.4000-3           42099.9                     A.A.Smirnov+         (22)F1481  2 
+ 2003 90232   3 459 A  4.1000+7 1900000. 0.046400 7.5000-3           44103.9                     A.A.Smirnov+         (22)F1481  2 
+ 2003 90232   3 459 A  4.1000+7 1900000. 0.055800 0.010000           45105.9                     A.A.Smirnov+         (22)F1481  2 
+ 2003 90232   3 459 A  4.1000+7 1900000. 0.036900 7.4000-3           46112.9                     A.A.Smirnov+         (22)F1481  2 
+ 2003 90232   3 459 A  4.1000+7 1900000. 0.037500 0.019700           47111.9                     A.A.Smirnov+         (22)F1481  2 
+ 2003 90232   3 459 A  4.1000+7 1900000. 4.5000-3 9.0000-4           51122.9                     A.A.Smirnov+         (22)F1481  2 
+ 2003 90232   3 459 A  4.1000+7 1900000. 0.035100 6.1000-3           51127.9                     A.A.Smirnov+         (22)F1481  2 
+ 2003 90232   3 459 A  4.1000+7 1900000. 0.019400 3.2000-3           52132.9                     A.A.Smirnov+         (22)F1481  2 
+ 2003 90232   3 459 A  4.1000+7 1900000. 0.046500 7.6000-3           53131.9                     A.A.Smirnov+         (22)F1481  2 
+ 2003 90232   3 459 A  4.1000+7 1900000. 0.011000 2.0000-3           55136.9                     A.A.Smirnov+         (22)F1481  2 
+ 2003 90232   3 459 A  4.1000+7 1900000. 0.030200 5.3000-3           56140.9                     A.A.Smirnov+         (22)F1481  2 
+ 2003 90232   3 459 A  4.1000+7 1900000. 0.036600 6.4000-3           58141.9                     A.A.Smirnov+         (22)F1481  2 
+ 2003 90232   3 459 A  4.1000+7 1900000. 0.023000 4.1000-3           58143.9                     A.A.Smirnov+         (22)F1481  2 
+#/DATA      15
+#/DATASET

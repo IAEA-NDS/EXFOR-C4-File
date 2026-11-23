@@ -1,0 +1,40 @@
+#ENTRY      F0866
+#AUTHOR1    V.B.Gubin+
+#YEAR       1974
+#INSTITUTE  (4RUSMOS)
+#TITLE      Elastic and inelastic scattering of protons by 24Mg and
+#+          26Mg nuclei at Ep=6 MeV
+#AUTHOR(S)  V.B.Gubin, Z.F.Kalacheva, E.A.Romanovskii, E.I.Sirotinin, 
+#+          T.I.Spasskaya, K.S.Shishkin
+#REF-CODE   (J,IZV,38,868,1974)
+#REFERENCE  Izv.Ross.AN,Fiz. 38 (1974) 868
+#DATASETS   0
+#
+#DATASET    F0866002 
+#DATE       20210525
+#REACTION   12-MG-24(P,EL)12-MG-24,,DA
+#PROJ       1001
+#TARG       12024
+#MF         4
+#MT         2
+#PRODUCT    12-MG-24
+#C4BEGIN    [ 1001 12024   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 12024   4   2    6028000.          0.087800          0.173648                              V.B.Gubin+           (74)F0866  2 
+ 1001 12024   4   2    6059000.          0.080900          0.173648                              V.B.Gubin+           (74)F0866  2 
+ 1001 12024   4   2    6078000.          0.084200          0.173648                              V.B.Gubin+           (74)F0866  2 
+ 1001 12024   4   2    6098000.          0.086500          0.173648                              V.B.Gubin+           (74)F0866  2 
+ 1001 12024   4   2    6129000.          0.086900          0.173648                              V.B.Gubin+           (74)F0866  2 
+ 1001 12024   4   2    6173000.          0.051200          0.173648                              V.B.Gubin+           (74)F0866  2 
+ 1001 12024   4   2    6202000.          0.036500          0.173648                              V.B.Gubin+           (74)F0866  2 
+ 1001 12024   4   2    6231000.          0.037800          0.173648                              V.B.Gubin+           (74)F0866  2 
+ 1001 12024   4   2    6255000.          0.052600          0.173648                              V.B.Gubin+           (74)F0866  2 
+ 1001 12024   4   2    6277000.          0.063800          0.173648                              V.B.Gubin+           (74)F0866  2 
+ 1001 12024   4   2    6308000.          0.074600          0.173648                              V.B.Gubin+           (74)F0866  2 
+ 1001 12024   4   2    6337000.          0.075300          0.173648                              V.B.Gubin+           (74)F0866  2 
+ 1001 12024   4   2    6358000.          0.066800          0.173648                              V.B.Gubin+           (74)F0866  2 
+ 1001 12024   4   2    6389000.          0.065200          0.173648                              V.B.Gubin+           (74)F0866  2 
+#/DATA      14
+#/DATASET

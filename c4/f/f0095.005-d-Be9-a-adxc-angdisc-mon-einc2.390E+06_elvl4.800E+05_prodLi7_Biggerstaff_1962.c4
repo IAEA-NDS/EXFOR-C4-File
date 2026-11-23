@@ -1,0 +1,34 @@
+#ENTRY      F0095
+#AUTHOR1    J.A.Biggerstaff+
+#YEAR       1962
+#INSTITUTE  (1USAKTY)
+#TITLE      Differential cross sections for (d,a) and (d,t)
+#+          reaction in 9Be.
+#AUTHOR(S)  J.A.Biggerstaff, R.F.Hood, H.Scott, M.T.McEllistrem
+#REF-CODE   (J,NP,36,631,1962)
+#REFERENCE  Nucl.Phys. 36 (1962) 631
+#DATASETS   0
+#
+#DATASET    F0095005 
+#DATE       20120126
+#REACTION   4-BE-9(D,A)3-LI-7,PAR,DA
+#PROJ       1002
+#TARG       4009
+#MF         4
+#MT         800
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1002  4009   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   4 800  C 2390000.          4.1990-3          0.826590          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 2390000.          3.7520-3          0.627420          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 2390000.          2.7450-3          0.372502          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 2390000.          3.0140-3          0.117017          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 2390000.          2.3240-3         -0.149708          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 2390000.          1.8740-3         -0.405142          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 2390000.          1.5020-3         -0.621148          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 2390000.          1.6040-3         -0.761538          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 2390000.          1.7110-3         -0.898028          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+#/DATA      9
+#/DATASET

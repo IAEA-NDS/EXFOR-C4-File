@@ -1,0 +1,32 @@
+#ENTRY      F0387
+#AUTHOR1    D.G.Sargood+
+#YEAR       1965
+#INSTITUTE  (3AULAML)
+#TITLE      Angular distributions in the reactions 11B(d,p)12B and
+#+          11B(d,alpha)9Be
+#AUTHOR(S)  D.G.Sargood, G.D.Putt
+#REF-CODE   (J,AUJ,18,491,1965)
+#REFERENCE  Australian J.Physics 18 (1965) 491
+#DATASETS   0
+#
+#DATASET    F0387002 
+#DATE       20220601
+#REACTION   5-B-11(D,A)4-BE-9,PAR,DA
+#PROJ       1002
+#TARG       5011
+#MF         4
+#MT         800
+#PRODUCT    4-BE-9
+#C4BEGIN    [ 1002  5011   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5011   4 800  C 490000.0          1.5400-4 5.6900-6 0.230050          0.000000         LVLD.G.Sargood+         (65)F0387  2 
+ 1002  5011   4 800  C 490000.0          1.4300-4 5.6900-6 0.010472          0.000000         LVLD.G.Sargood+         (65)F0387  2 
+ 1002  5011   4 800  C 490000.0          1.4600-4 5.7200-6-0.290702          0.000000         LVLD.G.Sargood+         (65)F0387  2 
+ 1002  5011   4 800  C 490000.0          1.3700-4 4.2200-6-0.519519          0.000000         LVLD.G.Sargood+         (65)F0387  2 
+ 1002  5011   4 800  C 490000.0          1.2700-4 5.6600-6-0.736097          0.000000         LVLD.G.Sargood+         (65)F0387  2 
+ 1002  5011   4 800  C 490000.0          1.1500-4 5.6600-6-0.866897          0.000000         LVLD.G.Sargood+         (65)F0387  2 
+ 1002  5011   4 800  C 490000.0          1.0200-4 4.2500-6-0.954761          0.000000         LVLD.G.Sargood+         (65)F0387  2 
+#/DATA      7
+#/DATASET

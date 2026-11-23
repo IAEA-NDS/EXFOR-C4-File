@@ -1,0 +1,35 @@
+#ENTRY      F0949
+#AUTHOR1    N.A.Mansour+
+#YEAR       1965
+#INSTITUTE  (3EGYCAI)
+#TITLE      The (d,a) reaction on N-15 and O-16 in the deuteron
+#+          energy range 1-2.5 MeV.
+#AUTHOR(S)  N.A.Mansour, H.R.Saad, Z.A.Saleh, E.M.Sayed, I.I.Zaloubovsky, 
+#+          V.I.Gontchar
+#REF-CODE   (J,NP,65,433,1965)
+#REFERENCE  Nucl.Phys. 65 (1965) 433
+#DATASETS   0
+#
+#DATASET    F0949004 
+#DATE       20100630
+#REACTION   7-N-15(D,A)6-C-13,PAR,DA
+#PROJ       1002
+#TARG       7015
+#MF         4
+#MT         800
+#PRODUCT    6-C-13
+#C4BEGIN    [ 1002  7015   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  7015   4 800    2000000.          1.2180-3 2.0270-4 0.914183          0.000000         LVLN.A.Mansour+         (65)F0949  4 
+ 1002  7015   4 800    2000000.          3.3400-3 2.6920-4 0.651437          0.000000         LVLN.A.Mansour+         (65)F0949  4 
+ 1002  7015   4 800    2000000.          2.0050-3 2.0220-4 0.439782          0.000000         LVLN.A.Mansour+         (65)F0949  4 
+ 1002  7015   4 800    2000000.          1.9830-3 2.0240-4 0.185324          0.000000         LVLN.A.Mansour+         (65)F0949  4 
+ 1002  7015   4 800    2000000.          1.9970-3 2.0210-4-0.065229          0.000000         LVLN.A.Mansour+         (65)F0949  4 
+ 1002  7015   4 800    2000000.          2.0770-3 1.6850-4-0.317305          0.000000         LVLN.A.Mansour+         (65)F0949  4 
+ 1002  7015   4 800    2000000.          2.8990-3 2.0220-4-0.544639          0.000000         LVLN.A.Mansour+         (65)F0949  4 
+ 1002  7015   4 800    2000000.          4.7330-3 2.7010-4-0.736097          0.000000         LVLN.A.Mansour+         (65)F0949  4 
+ 1002  7015   4 800    2000000.          5.4540-3 2.3640-4-0.887011          0.000000         LVLN.A.Mansour+         (65)F0949  4 
+#/DATA      9
+#/DATASET

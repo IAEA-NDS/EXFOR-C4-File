@@ -1,0 +1,36 @@
+#ENTRY      F0805
+#AUTHOR1    J.Bommer+
+#YEAR       1975
+#INSTITUTE  (2GERBER)
+#TITLE      Stripping to unbound states of 13-15N: combined
+#+          analysis of (d,n) and (p,p0) on 12-14C.
+#AUTHOR(S)  J.Bommer, M.Ekpo, H.Fuchs, K.Grabisch, H.Kluge
+#REF-CODE   (J,NP/A,251,257,1975)
+#REFERENCE  Nucl.Phys.A 251 (1975) 257
+#DATASETS   0
+#
+#DATASET    F0805002 
+#DATE       20070322
+#REACTION   6-C-13(D,N)7-N-14,PAR,DA
+#PROJ       1002
+#TARG       6013
+#MF         4
+#MT         50
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1002  6013   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6013   4  50  C 6500000.          7.6591-4 1.4904-4 0.999986          8617000.         LVLJ.Bommer+            (75)F0805  2 
+ 1002  6013   4  50  C 6500000.          6.7074-4 1.4314-4 0.989861          8617000.         LVLJ.Bommer+            (75)F0805  2 
+ 1002  6013   4  50  C 6500000.          5.1405-4 9.8770-5 0.952958          8617000.         LVLJ.Bommer+            (75)F0805  2 
+ 1002  6013   4  50  C 6500000.          4.0819-4 7.8430-5 0.901516          8617000.         LVLJ.Bommer+            (75)F0805  2 
+ 1002  6013   4  50  C 6500000.          3.1005-4 5.9574-5 0.826747          8617000.         LVLJ.Bommer+            (75)F0805  2 
+ 1002  6013   4  50  C 6500000.          2.4188-4 5.4971-5 0.726395          8617000.         LVLJ.Bommer+            (75)F0805  2 
+ 1002  6013   4  50  C 6500000.          1.9208-4 3.8280-5 0.611541          8617000.         LVLJ.Bommer+            (75)F0805  2 
+ 1002  6013   4  50  C 6500000.          1.4851-4 2.7464-5 0.495474          8617000.         LVLJ.Bommer+            (75)F0805  2 
+ 1002  6013   4  50  C 6500000.          1.0145-4 2.0218-5 0.227008          8617000.         LVLJ.Bommer+            (75)F0805  2 
+ 1002  6013   4  50  C 6500000.          8.1272-5 1.5029-5 0.099580          8617000.         LVLJ.Bommer+            (75)F0805  2 
+ 1002  6013   4  50  C 6500000.          7.9886-5 1.4773-5-0.044683          8617000.         LVLJ.Bommer+            (75)F0805  2 
+#/DATA      11
+#/DATASET

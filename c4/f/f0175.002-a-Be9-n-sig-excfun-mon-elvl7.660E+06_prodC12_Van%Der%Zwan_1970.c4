@@ -1,0 +1,30 @@
+#ENTRY      F0175
+#AUTHOR1    L.Van Der Zwan+
+#YEAR       1970
+#INSTITUTE  (1CANOTC)
+#TITLE      The Be-9(alpha,n)C-12 cross section between
+#+          1.5 and 7.8 MeV
+#AUTHOR(S)  L.Van Der Zwan, K.W.Geiger
+#REF-CODE   (J,NP/A,152,481,1970)
+#REFERENCE  Nucl.Phys.A 152 (1970) 481
+#DATASETS   0
+#
+#DATASET    F0175002 
+#DATE       20200614
+#REACTION   4-BE-9(A,N)6-C-12,PAR,SIG
+#PROJ       2004
+#TARG       4009
+#MF         3
+#MT         50
+#PRODUCT    6-C-12
+#C4BEGIN    [ 2004  4009   3  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  4009   3  50    4960000. 2000.000 0.048200 4.8200-3                   7660000.         LVLL.Van Der Zwan+      (70)F0175  2 
+ 2004  4009   3  50    5250000. 2000.000 0.055300 5.5300-3                   7660000.         LVLL.Van Der Zwan+      (70)F0175  2 
+ 2004  4009   3  50    6360000. 2000.000 0.041600 4.1600-3                   7660000.         LVLL.Van Der Zwan+      (70)F0175  2 
+ 2004  4009   3  50    6780000. 2000.000 0.041600 4.1600-3                   7660000.         LVLL.Van Der Zwan+      (70)F0175  2 
+ 2004  4009   3  50    7460000. 2000.000 0.048500 4.8500-3                   7660000.         LVLL.Van Der Zwan+      (70)F0175  2 
+#/DATA      5
+#/DATASET

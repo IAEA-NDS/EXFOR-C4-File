@@ -1,0 +1,32 @@
+#ENTRY      F0244
+#AUTHOR1    A.K.Walter+
+#YEAR       1961
+#INSTITUTE  (4UKRKFT)
+#TITLE      The neutron yield in the reaction 9Be(t,n)
+#AUTHOR(S)  A.K.Walter, P.I.Vatset, L.Y.Kolesnikov, S.G.Tonapetyan, 
+#+          K.K.Chernyavskiy, A.I.Shpetny
+#REF-CODE   (J,UFZ,6,457,1961)
+#REFERENCE  Ukr.Fiz.Zh. 6 (1961) 457
+#DATASETS   0
+#
+#DATASET    F0244004 
+#DATE       20200702
+#REACTION   4-BE-9(T,N)5-B-11,,DA
+#PROJ       1003
+#TARG       4009
+#MF         4
+#MT         4
+#PRODUCT    5-B-11
+#C4BEGIN    [ 1003  4009   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  4009   4   4  C 1975000.          0.059300          0.999962                              A.K.Walter+          (61)F0244  4 
+ 1003  4009   4   4  C 1975000.          0.057400          0.964557                              A.K.Walter+          (61)F0244  4 
+ 1003  4009   4   4  C 1975000.          0.046500          0.684547                              A.K.Walter+          (61)F0244  4 
+ 1003  4009   4   4  C 1975000.          0.045200          0.457098                              A.K.Walter+          (61)F0244  4 
+ 1003  4009   4   4  C 1975000.          0.038900         -0.083678                              A.K.Walter+          (61)F0244  4 
+ 1003  4009   4   4  C 1975000.          0.039400         -0.540240                              A.K.Walter+          (61)F0244  4 
+ 1003  4009   4   4  C 1975000.          0.040000         -0.734915                              A.K.Walter+          (61)F0244  4 
+#/DATA      7
+#/DATASET

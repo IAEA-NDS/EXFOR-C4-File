@@ -1,0 +1,34 @@
+#ENTRY      F0225
+#AUTHOR1    V.V.Verbinski+
+#YEAR       1968
+#INSTITUTE  (1USAORL)
+#TITLE      Neutrons from 9Be(alpha,n) reaction for E(alpha)
+#+          between 6 and 10 MeV
+#AUTHOR(S)  V.V.Verbinski, F.G.Perey, K.Dickens, W.R.Burrus
+#REF-CODE   (J,PR,170,916,1968)
+#REFERENCE  Phys.Rev. 170 (1968) 916
+#DATASETS   0
+#
+#DATASET    F0225002 
+#DATE       20200701
+#REACTION   4-BE-9(A,N)6-C-12,PAR,DA
+#PROJ       2004
+#TARG       4009
+#MF         4
+#MT         50
+#PRODUCT    6-C-12
+#C4BEGIN    [ 2004  4009   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  4009   4  50  C 6790000.          0.020370 5.2000-4 0.999945          4440000.         LVLV.V.Verbinski+       (68)F0225  2 
+ 2004  4009   4  50  C 6790000.          8.2400-3 3.4000-4 0.901833          4440000.         LVLV.V.Verbinski+       (68)F0225  2 
+ 2004  4009   4  50  C 6790000.          7.9800-3 1.7000-4 0.607376          4440000.         LVLV.V.Verbinski+       (68)F0225  2 
+ 2004  4009   4  50  C 6790000.          9.7600-3 1.7000-4 0.238533          4440000.         LVLV.V.Verbinski+       (68)F0225  2 
+ 2004  4009   4  50  C 6790000.          8.2800-3 5.2000-4-0.158158          4440000.         LVLV.V.Verbinski+       (68)F0225  2 
+ 2004  4009   4  50  C 6790000.          0.012640 6.9000-4-0.523986          4440000.         LVLV.V.Verbinski+       (68)F0225  2 
+ 2004  4009   4  50  C 6790000.          0.015450 8.6000-4-0.783693          4440000.         LVLV.V.Verbinski+       (68)F0225  2 
+ 2004  4009   4  50  C 6790000.          0.015670 5.2000-4-0.919135          4440000.         LVLV.V.Verbinski+       (68)F0225  2 
+ 2004  4009   4  50  C 6790000.          0.013470 5.2000-4-0.986286          4440000.         LVLV.V.Verbinski+       (68)F0225  2 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      F1361
+#AUTHOR1    K.P.Artemov+
+#YEAR       1959
+#INSTITUTE  (4RUSKUR)
+#TITLE      Scattering of 5-10 MeV protons on He-3.
+#AUTHOR(S)  K.P.Artemov, S.P.Kalinin, L.N.Samoilov
+#REF-CODE   (J,ZET,37,663,1959)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 37 (1959) 663
+#DATASETS   0
+#
+#DATASET    F1361002 
+#DATE       20180913
+#REACTION   2-HE-3(P,EL)2-HE-3,,DA
+#PROJ       1001
+#TARG       2003
+#MF         4
+#MT         2
+#PRODUCT    2-HE-3
+#C4BEGIN    [ 1001  2003   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  2003   4   2  C 6800000.          0.201660 0.021395 0.907338                              K.P.Artemov+         (59)F1361  2 
+ 1001  2003   4   2  C 6800000.          0.170460 9.3020-3 0.714106                              K.P.Artemov+         (59)F1361  2 
+ 1001  2003   4   2  C 6800000.          0.122050 5.5810-3 0.438842                              K.P.Artemov+         (59)F1361  2 
+ 1001  2003   4   2  C 6800000.          0.058763 3.2550-3 0.137963                              K.P.Artemov+         (59)F1361  2 
+ 1001  2003   4   2  C 6800000.          0.032221 2.7900-3-0.153848                              K.P.Artemov+         (59)F1361  2 
+ 1001  2003   4   2  C 6800000.          0.041029 2.7910-3-0.411196                              K.P.Artemov+         (59)F1361  2 
+ 1001  2003   4   2  C 6800000.          0.064261 5.1150-3-0.607514                              K.P.Artemov+         (59)F1361  2 
+ 1001  2003   4   2  C 6800000.          0.101450 5.5810-3-0.767053                              K.P.Artemov+         (59)F1361  2 
+ 1001  2003   4   2  C 6800000.          0.138170 7.9070-3-0.877816                              K.P.Artemov+         (59)F1361  2 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      F0997
+#AUTHOR1    A.E.Antropov+
+#YEAR       1969
+#INSTITUTE  (4RUSSUL)
+#TITLE      Elastic and inelastic scattering of protons on 33S,
+#+          34S and 35Cl.
+#AUTHOR(S)  A.E.Antropov, P.P.Zarubin, P.N.Ioannu, B.N.Orlov, A.V.Plavko, 
+#+          V.F.Pomytkin, V.S.Romanov, A.I.Sorokin
+#REF-CODE   (J,IZV,33,1721,1969)
+#REFERENCE  Izv.Ross.AN,Fiz. 33 (1969) 1721
+#DATASETS   0
+#
+#DATASET    F0997003 
+#DATE       20090513
+#REACTION   16-S-33(P,INL)16-S-33,PAR,DA
+#PROJ       1001
+#TARG       16033
+#MF         4
+#MT         601
+#PRODUCT    16-S-33
+#C4BEGIN    [ 1001 16033   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 16033   4 601  C 6030000.          3.5511-3 2.4905-3 0.468069          2310000.         LVLA.E.Antropov+        (69)F0997  3 
+ 1001 16033   4 601  C 6030000.          1.8914-3 1.1321-3 0.340806          2310000.         LVLA.E.Antropov+        (69)F0997  3 
+ 1001 16033   4 601  C 6030000.          1.9426-3 9.5497-4 0.135180          2310000.         LVLA.E.Antropov+        (69)F0997  3 
+ 1001 16033   4 601  C 6030000.          1.1886-3 6.2892-4-0.040114          2310000.         LVLA.E.Antropov+        (69)F0997  3 
+ 1001 16033   4 601  C 6030000.          1.0634-3 5.0314-4-0.177600          2310000.         LVLA.E.Antropov+        (69)F0997  3 
+ 1001 16033   4 601  C 6030000.          6.1132-4 4.0251-4-0.355433          2310000.         LVLA.E.Antropov+        (69)F0997  3 
+ 1001 16033   4 601  C 6030000.          1.0147-3 6.2892-4-0.536416          2310000.         LVLA.E.Antropov+        (69)F0997  3 
+ 1001 16033   4 601  C 6030000.          1.0161-3 6.0357-4-0.788011          2310000.         LVLA.E.Antropov+        (69)F0997  3 
+#/DATA      8
+#/DATASET

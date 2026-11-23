@@ -1,0 +1,29 @@
+#ENTRY      F0750
+#AUTHOR1    A.V.Ignatenko+
+#YEAR       1995
+#INSTITUTE  (4RUSMOS)
+#TITLE      A study of the mechanism of the reaction
+#+          19F(alpha,t)20Ne  at Ealpha=30.3 MeV
+#AUTHOR(S)  A.V.Ignatenko, V.M.Lebedev, N.V.Orlova, A.V.Spassky
+#REF-CODE   (J,YF,58,208,1995)
+#REFERENCE  Yad.Fiz. 58 (1995) 208
+#DATASETS   0
+#
+#DATASET    F0750003 
+#DATE       20210523
+#REACTION   9-F-19(A,T)10-NE-20,PAR,DA
+#PROJ       2004
+#TARG       9019
+#MF         4
+#MT         700
+#PRODUCT    10-NE-20
+#C4BEGIN    [ 2004  9019   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  9019   4 700    2.8760+7          2.2100-5 3.3150-6-0.309017          4248000.         LVLA.V.Ignatenko+       (95)F0750  3 
+ 2004  9019   4 700    2.9287+7          1.9550-5 2.9325-6-0.309017          4248000.         LVLA.V.Ignatenko+       (95)F0750  3 
+ 2004  9019   4 700    2.9828+7          1.3010-5 1.9515-6-0.309017          4248000.         LVLA.V.Ignatenko+       (95)F0750  3 
+ 2004  9019   4 700    3.0341+7          1.3150-5 1.9725-6-0.309017          4248000.         LVLA.V.Ignatenko+       (95)F0750  3 
+#/DATA      4
+#/DATASET

@@ -1,0 +1,40 @@
+#ENTRY      F0331
+#AUTHOR1    H.R.Schelin+
+#YEAR       1985
+#INSTITUTE  (3BZLUSP)
+#TITLE      The 10,11B(p,n)10,11C reactions between E(p)=13.7 and
+#+          14.7 MeV
+#AUTHOR(S)  H.R.Schelin, E.Farrelly Pessoa, W.R.Wylie, J.L.Cardoso Jr, 
+#+          R.A.Douglas
+#REF-CODE   (J,NSE,89,87,1985)
+#REFERENCE  Nucl.Sci.Eng. 89 (1985) 87
+#DATASETS   0
+#
+#DATASET    F0331005 
+#DATE       20210629
+#REACTION   5-B-11(P,N)6-C-11,PAR,DA
+#PROJ       1001
+#TARG       5011
+#MF         4
+#MT         50
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1001  5011   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5011   4  50  C 1.4600+7          2.9100-4 3.5200-5 0.882948          6905000.         LVLH.R.Schelin+         (85)F0331  5 
+ 1001  5011   4  50  C 1.4600+7          3.2700-4          0.786935          6905000.         LVLH.R.Schelin+         (85)F0331  5 
+ 1001  5011   4  50  C 1.4600+7          3.4600-4          0.642788          6905000.         LVLH.R.Schelin+         (85)F0331  5 
+ 1001  5011   4  50  C 1.4600+7          3.7700-4          0.549023          6905000.         LVLH.R.Schelin+         (85)F0331  5 
+ 1001  5011   4  50  C 1.4600+7          3.5600-4          0.472551          6905000.         LVLH.R.Schelin+         (85)F0331  5 
+ 1001  5011   4  50  C 1.4600+7          3.6600-4          0.309017          6905000.         LVLH.R.Schelin+         (85)F0331  5 
+ 1001  5011   4  50  C 1.4600+7          4.1100-4          0.078459          6905000.         LVLH.R.Schelin+         (85)F0331  5 
+ 1001  5011   4  50  C 1.4600+7          4.2300-4         -0.040132          6905000.         LVLH.R.Schelin+         (85)F0331  5 
+ 1001  5011   4  50  C 1.4600+7          4.6100-4         -0.245307          6905000.         LVLH.R.Schelin+         (85)F0331  5 
+ 1001  5011   4  50  C 1.4600+7          4.4800-4         -0.384295          6905000.         LVLH.R.Schelin+         (85)F0331  5 
+ 1001  5011   4  50  C 1.4600+7          4.4800-4         -0.541708          6905000.         LVLH.R.Schelin+         (85)F0331  5 
+ 1001  5011   4  50  C 1.4600+7          4.4800-4         -0.680721          6905000.         LVLH.R.Schelin+         (85)F0331  5 
+ 1001  5011   4  50  C 1.4600+7          5.3200-4         -0.799685          6905000.         LVLH.R.Schelin+         (85)F0331  5 
+ 1001  5011   4  50  C 1.4600+7          5.0300-4 9.3700-5-0.958323          6905000.         LVLH.R.Schelin+         (85)F0331  5 
+#/DATA      14
+#/DATASET

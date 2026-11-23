@@ -1,0 +1,37 @@
+#ENTRY      F0359
+#AUTHOR1    B.D.Anderson+
+#YEAR       1974
+#INSTITUTE  (1USACAL)
+#TITLE      A new determination of the partial widths of the
+#+          16.11 MeV state in 12C
+#AUTHOR(S)  B.D.Anderson, M.R.Dwarakanath, J.S.Schweitzer, A.V.Nero
+#REF-CODE   (J,NP/A,233,286,1974)
+#REFERENCE  Nucl.Phys.A 233 (1974) 286
+#DATASETS   0
+#
+#DATASET    F0359002 
+#DATE       20210725
+#REACTION   5-B-11(D,N)6-C-12,PAR,DA
+#PROJ       1002
+#TARG       5011
+#MF         4
+#MT         50
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1002  5011   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5011   4  50  C 6000000.          0.013330          0.999998          1.5110+7         LVLB.D.Anderson+        (74)F0359  2 
+ 1002  5011   4  50  C 6000000.          0.011220          0.978867          1.5110+7         LVLB.D.Anderson+        (74)F0359  2 
+ 1002  5011   4  50  C 6000000.          8.7320-3          0.933580          1.5110+7         LVLB.D.Anderson+        (74)F0359  2 
+ 1002  5011   4  50  C 6000000.          4.6840-3          0.829038          1.5110+7         LVLB.D.Anderson+        (74)F0359  2 
+ 1002  5011   4  50  C 6000000.          1.8540-3          0.700909          1.5110+7         LVLB.D.Anderson+        (74)F0359  2 
+ 1002  5011   4  50  C 6000000.          1.2370-3          0.554844          1.5110+7         LVLB.D.Anderson+        (74)F0359  2 
+ 1002  5011   4  50  C 6000000.          1.0050-3          0.387516          1.5110+7         LVLB.D.Anderson+        (74)F0359  2 
+ 1002  5011   4  50  C 6000000.          1.3930-3          0.123601          1.5110+7         LVLB.D.Anderson+        (74)F0359  2 
+ 1002  5011   4  50  C 6000000.          1.0580-3         -0.144356          1.5110+7         LVLB.D.Anderson+        (74)F0359  2 
+ 1002  5011   4  50  C 6000000.          8.8290-4         -0.392337          1.5110+7         LVLB.D.Anderson+        (74)F0359  2 
+ 1002  5011   4  50  C 6000000.          1.1480-3         -0.597625          1.5110+7         LVLB.D.Anderson+        (74)F0359  2 
+ 1002  5011   4  50  C 6000000.          1.5820-3         -0.769400          1.5110+7         LVLB.D.Anderson+        (74)F0359  2 
+#/DATA      12
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      F0811
+#AUTHOR1    A.Zucchiatti+
+#YEAR       1994
+#INSTITUTE  (3SAFWIT)
+#TITLE      Proton radiative capture to 13N at beam energies of 40
+#+          to 54 MeV.
+#AUTHOR(S)  A.Zucchiatti, R.W.Fearick, J.P.F.Sellschop, D.G.Aschman, 
+#+          D.Steyn
+#REF-CODE   (J,NP/A,575,317,1994)
+#REFERENCE  Nucl.Phys.A 575 (1994) 317
+#DATASETS   0
+#
+#DATASET    F0811003 
+#DATE       20240214
+#REACTION   6-C-12(P,G)7-N-13,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         900
+#PRODUCT    7-N-13
+#C4BEGIN    [ 1001  6012   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4 900  C 4.0000+7          1.4300-7 7.9000-9 0.860742          2370000.         LVLA.Zucchiatti+        (94)F0811  3 
+ 1001  6012   4 900  C 4.0000+7          2.3940-7 8.8000-9 0.694658          2370000.         LVLA.Zucchiatti+        (94)F0811  3 
+ 1001  6012   4 900  C 4.0000+7          2.9030-7 1.0500-8 0.484810          2370000.         LVLA.Zucchiatti+        (94)F0811  3 
+ 1001  6012   4 900  C 4.0000+7          3.6840-7 8.8000-9 0.484810          2370000.         LVLA.Zucchiatti+        (94)F0811  3 
+ 1001  6012   4 900  C 4.0000+7          3.4730-7 9.6000-9 0.240228          2370000.         LVLA.Zucchiatti+        (94)F0811  3 
+ 1001  6012   4 900  C 4.0000+7          2.3850-7 7.9000-9-0.024432          2370000.         LVLA.Zucchiatti+        (94)F0811  3 
+ 1001  6012   4 900  C 4.0000+7          1.8060-7 6.1000-9-0.284015          2370000.         LVLA.Zucchiatti+        (94)F0811  3 
+ 1001  6012   4 900  C 4.0000+7          1.1480-7 9.6000-9-0.518027          2370000.         LVLA.Zucchiatti+        (94)F0811  3 
+ 1001  6012   4 900  C 4.0000+7          2.6200-8 3.5000-9-0.852640          2370000.         LVLA.Zucchiatti+        (94)F0811  3 
+#/DATA      9
+#/DATASET

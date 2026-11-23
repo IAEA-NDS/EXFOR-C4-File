@@ -1,0 +1,38 @@
+#ENTRY      F0864
+#AUTHOR1    E.A.Romanovskii+
+#YEAR       1974
+#INSTITUTE  (4RUSMOS)
+#TITLE      Measurement and analysis of the elastic proton cross
+#+          sections of 89Y and 93Nb nuclei in the energy range
+#+          between 5 and 6 MeV.
+#AUTHOR(S)  E.A.Romanovskii, E.I.Sirotinin, T.I.Spasskaya, K.S.Shishkin, 
+#+          V.B.Gubin, A.S.Rudnev
+#REF-CODE   (J,IZV,38,2562,1974)
+#REFERENCE  Izv.Ross.AN,Fiz. 38 (1974) 2562
+#DATASETS   0
+#
+#DATASET    F0864005 
+#DATE       20130619
+#REACTION   39-Y-89(P,EL)39-Y-89,,DA,,RTH
+#PROJ       1001
+#TARG       39089
+#MF         4
+#MT         2
+#PRODUCT    39-Y-89
+#C4BEGIN    [ 1001 39089   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 39089   4   2  C 5900000.          1.134765 0.034043 0.554699                              E.A.Romanovskii+     (74)F0864  5 
+ 1001 39089   4   2  C 5900000.          0.414779 0.012443 0.316311                              E.A.Romanovskii+     (74)F0864  5 
+ 1001 39089   4   2  C 5900000.          0.262419 7.8726-3 0.142974                              E.A.Romanovskii+     (74)F0864  5 
+ 1001 39089   4   2  C 5900000.          0.200179 6.0054-3-0.021815                              E.A.Romanovskii+     (74)F0864  5 
+ 1001 39089   4   2  C 5900000.          0.141714 4.2514-3-0.205521                              E.A.Romanovskii+     (74)F0864  5 
+ 1001 39089   4   2  C 5900000.          0.113399 3.4020-3-0.350371                              E.A.Romanovskii+     (74)F0864  5 
+ 1001 39089   4   2  C 5900000.          0.084464 2.5339-3-0.504528                              E.A.Romanovskii+     (74)F0864  5 
+ 1001 39089   4   2  C 5900000.          0.070472 2.1142-3-0.578854                              E.A.Romanovskii+     (74)F0864  5 
+ 1001 39089   4   2  C 5900000.          0.055216 1.6565-3-0.782391                              E.A.Romanovskii+     (74)F0864  5 
+ 1001 39089   4   2  C 5900000.          0.045756 1.3727-3-0.863396                              E.A.Romanovskii+     (74)F0864  5 
+ 1001 39089   4   2  C 5900000.          0.040792 1.2238-3-0.966016                              E.A.Romanovskii+     (74)F0864  5 
+#/DATA      11
+#/DATASET

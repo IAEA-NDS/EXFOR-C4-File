@@ -1,0 +1,42 @@
+#ENTRY      F0926
+#AUTHOR1    E.A.Romanovskii+
+#YEAR       1986
+#INSTITUTE  (4RUSMOS)
+#TITLE      An optical potential for describing proton scattering
+#+          by 26Mg at low and medium energies
+#AUTHOR(S)  E.A.Romanovskii, T.I.Spasskaya, A.M.Borisov, S.V.Ermakov, 
+#+          B.S.Galakhmatova, N.P.Sikorenko
+#REF-CODE   (J,IZV,50,129,1986)
+#REFERENCE  Izv.Ross.AN,Fiz. 50 (1986) 129
+#DATASETS   0
+#
+#DATASET    F0926002 
+#DATE       20080414
+#REACTION   12-MG-26(P,EL)12-MG-26,,DA
+#PROJ       1001
+#TARG       12026
+#MF         4
+#MT         2
+#PRODUCT    12-MG-26
+#C4BEGIN    [ 1001 12026   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 12026   4   2  C 7112600.          0.283270          0.749880                              E.A.Romanovskii+     (86)F0926  2 
+ 1001 12026   4   2  C 7152300.          0.277370          0.749880                              E.A.Romanovskii+     (86)F0926  2 
+ 1001 12026   4   2  C 7183800.          0.254450          0.749880                              E.A.Romanovskii+     (86)F0926  2 
+ 1001 12026   4   2  C 7221400.          0.238550          0.749880                              E.A.Romanovskii+     (86)F0926  2 
+ 1001 12026   4   2  C 7261100.          0.234650          0.749880                              E.A.Romanovskii+     (86)F0926  2 
+ 1001 12026   4   2  C 7298600.          0.233750          0.749880                              E.A.Romanovskii+     (86)F0926  2 
+ 1001 12026   4   2  C 7334100.          0.220840          0.749880                              E.A.Romanovskii+     (86)F0926  2 
+ 1001 12026   4   2  C 7367300.          0.233920          0.749880                              E.A.Romanovskii+     (86)F0926  2 
+ 1001 12026   4   2  C 7402800.          0.231010          0.749880                              E.A.Romanovskii+     (86)F0926  2 
+ 1001 12026   4   2  C 7434200.          0.217090          0.749880                              E.A.Romanovskii+     (86)F0926  2 
+ 1001 12026   4   2  C 7482000.          0.229210          0.749880                              E.A.Romanovskii+     (86)F0926  2 
+ 1001 12026   4   2  C 7519600.          0.216310          0.749880                              E.A.Romanovskii+     (86)F0926  2 
+ 1001 12026   4   2  C 7551100.          0.196390          0.749880                              E.A.Romanovskii+     (86)F0926  2 
+ 1001 12026   4   2  C 7596800.          0.207510          0.749880                              E.A.Romanovskii+     (86)F0926  2 
+ 1001 12026   4   2  C 7634300.          0.207600          0.749880                              E.A.Romanovskii+     (86)F0926  2 
+ 1001 12026   4   2  C 7673700.          0.220700          0.749880                              E.A.Romanovskii+     (86)F0926  2 
+#/DATA      16
+#/DATASET

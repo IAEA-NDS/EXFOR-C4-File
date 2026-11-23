@@ -1,0 +1,41 @@
+#ENTRY      F0828
+#AUTHOR1    H.Clement+
+#YEAR       1986
+#INSTITUTE  (2GERMUU)
+#TITLE      Neutron-proton differences in the excitation of 104Ru
+#+          from high-resolution polarized deuteron scattering.
+#AUTHOR(S)  H.Clement, G.Graw, H.Kader, F.Merz, H.J.Scheerer, P.Schiemenz, 
+#+          N.Seichert
+#REF-CODE   (J,NP/A,451,219,1986)
+#REFERENCE  Nucl.Phys.A 451 (1986) 219
+#DATASETS   0
+#
+#DATASET    F0828003 
+#DATE       20070613
+#REACTION   44-RU-104(D,INL)44-RU-104,PAR,DA
+#PROJ       1002
+#TARG       44104
+#MF         4
+#MT         651
+#PRODUCT    44-RU-104
+#C4BEGIN    [ 1002 44104   4 651  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 44104   4 651  C 2.3000+7          1.7810-4 2.7709-5 0.963444          1515000.         LVLH.Clement+           (86)F0828  3 
+ 1002 44104   4 651  C 2.3000+7          1.5580-4 2.3937-5 0.931418          1515000.         LVLH.Clement+           (86)F0828  3 
+ 1002 44104   4 651  C 2.3000+7          1.3180-4 2.5669-5 0.897497          1515000.         LVLH.Clement+           (86)F0828  3 
+ 1002 44104   4 651  C 2.3000+7          1.4400-4 2.2399-5 0.852421          1515000.         LVLH.Clement+           (86)F0828  3 
+ 1002 44104   4 651  C 2.3000+7          1.2180-4 1.5858-5 0.800355          1515000.         LVLH.Clement+           (86)F0828  3 
+ 1002 44104   4 651  C 2.3000+7          5.1700-5 6.7274-6 0.670944          1515000.         LVLH.Clement+           (86)F0828  3 
+ 1002 44104   4 651  C 2.3000+7          4.2800-5 4.5018-6 0.632813          1515000.         LVLH.Clement+           (86)F0828  3 
+ 1002 44104   4 651  C 2.3000+7          4.1300-5 4.8648-6 0.551049          1515000.         LVLH.Clement+           (86)F0828  3 
+ 1002 44104   4 651  C 2.3000+7          2.9300-5 4.1807-6 0.494124          1515000.         LVLH.Clement+           (86)F0828  3 
+ 1002 44104   4 651  C 2.3000+7          2.2900-5 3.8592-6 0.403976          1515000.         LVLH.Clement+           (86)F0828  3 
+ 1002 44104   4 651  C 2.3000+7          1.6200-5 2.5229-6 0.326063          1515000.         LVLH.Clement+           (86)F0828  3 
+ 1002 44104   4 651  C 2.3000+7          1.6600-5 2.5786-6 0.244834          1515000.         LVLH.Clement+           (86)F0828  3 
+ 1002 44104   4 651  C 2.3000+7          1.5700-5 2.0395-6 0.145323          1515000.         LVLH.Clement+           (86)F0828  3 
+ 1002 44104   4 651  C 2.3000+7          1.5000-5 2.1393-6 0.061205          1515000.         LVLH.Clement+           (86)F0828  3 
+ 1002 44104   4 651  C 2.3000+7          1.2800-5 1.6680-6-0.031498          1515000.         LVLH.Clement+           (86)F0828  3 
+#/DATA      15
+#/DATASET

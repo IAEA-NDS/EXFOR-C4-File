@@ -1,0 +1,37 @@
+#ENTRY      F0733
+#AUTHOR1    L.T.Van der Bijl+
+#YEAR       1983
+#INSTITUTE  (2NEDAMS)
+#TITLE      High resolution investigation of 90Zr with (p,p')
+#+          scattering at 25 MeV.
+#AUTHOR(S)  L.T.Van der Bijl, H.P.Blok, J.F.A.Van Hienen, J.Blok
+#REF-CODE   (J,NP/A,393,173,1983)
+#REFERENCE  Nucl.Phys.A 393 (1983) 173
+#DATASETS   0
+#
+#DATASET    F0733002 
+#DATE       20080909
+#REACTION   40-ZR-90(P,INL)40-ZR-90,PAR,DA
+#PROJ       1001
+#TARG       40090
+#MF         4
+#MT         601
+#PRODUCT    40-ZR-90
+#C4BEGIN    [ 1001 40090   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 40090   4 601  C 2.5050+7 30000.00 6.5165-5 5.1591-6 0.866200          6229000.         LVLL.T.Van der Bijl+    (83)F0733  2 
+ 1001 40090   4 601  C 2.5050+7 30000.00 3.1913-5 2.0057-6 0.817648          6229000.         LVLL.T.Van der Bijl+    (83)F0733  2 
+ 1001 40090   4 601  C 2.5050+7 30000.00 3.7823-5 2.3771-6 0.764618          6229000.         LVLL.T.Van der Bijl+    (83)F0733  2 
+ 1001 40090   4 601  C 2.5050+7 30000.00 5.3829-5 3.3831-6 0.702165          6229000.         LVLL.T.Van der Bijl+    (83)F0733  2 
+ 1001 40090   4 601  C 2.5050+7 30000.00 3.2630-5 2.0507-6 0.635782          6229000.         LVLL.T.Van der Bijl+    (83)F0733  2 
+ 1001 40090   4 601  C 2.5050+7 30000.00 4.3032-5 2.0128-6 0.561939          6229000.         LVLL.T.Van der Bijl+    (83)F0733  2 
+ 1001 40090   4 601  C 2.5050+7 30000.00 3.1795-5 4.1222-6 0.491573          6229000.         LVLL.T.Van der Bijl+    (83)F0733  2 
+ 1001 40090   4 601  C 2.5050+7 30000.00 2.6627-5 2.1080-6 0.298558          6229000.         LVLL.T.Van der Bijl+    (83)F0733  2 
+ 1001 40090   4 601  C 2.5050+7 30000.00 1.7173-5 2.2008-6 0.172290          6229000.         LVLL.T.Van der Bijl+    (83)F0733  2 
+ 1001 40090   4 601  C 2.5050+7 30000.00 2.0372-5 1.2804-6 0.051273          6229000.         LVLL.T.Van der Bijl+    (83)F0733  2 
+ 1001 40090   4 601  C 2.5050+7 30000.00 1.5535-5 1.2299-6-0.072194          6229000.         LVLL.T.Van der Bijl+    (83)F0733  2 
+ 1001 40090   4 601  C 2.5050+7 30000.00 1.0486-5 1.0609-6-0.195090          6229000.         LVLL.T.Van der Bijl+    (83)F0733  2 
+#/DATA      12
+#/DATASET

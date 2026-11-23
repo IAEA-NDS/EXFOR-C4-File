@@ -1,0 +1,39 @@
+#ENTRY      F1451
+#AUTHOR1    L.N.Generalov+
+#YEAR       2020
+#INSTITUTE  (4RUSEPA)
+#TITLE      6,7Li+d reaction cross sections measurements
+#AUTHOR(S)  L.N.Generalov, O.P.Vikhlyantsev, I.A.Karpov, A.V.Kuryakin, 
+#+          A.D.Tumkin, S.V.Fil'chagin, D.A.Fedotov
+#REF-CODE   (J,IZV,84,1774,2020)
+#REFERENCE  Izv.Ross.AN,Fiz. 84 (2020) 1774
+#DATASETS   0
+#
+#DATASET    F1451008 
+#DATE       20210830
+#REACTION   3-LI-7(D,T)3-LI-6,PAR,DA
+#PROJ       1002
+#TARG       3007
+#MF         4
+#MT         700
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 1002  3007   4 700 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3007   4 700 AC 4750000.          0.022308 8.5615-4 0.852640          0.000000         LVLL.N.Generalov+       (20)F1451  8 
+ 1002  3007   4 700 AC 4750000.          0.017692 9.3415-4 0.781520          0.000000         LVLL.N.Generalov+       (20)F1451  8 
+ 1002  3007   4 700 AC 4750000.          0.013308 8.3200-4 0.700909          0.000000         LVLL.N.Generalov+       (20)F1451  8 
+ 1002  3007   4 700 AC 4750000.          0.012308 5.6538-4 0.610145          0.000000         LVLL.N.Generalov+       (20)F1451  8 
+ 1002  3007   4 700 AC 4750000.          0.011308 4.7492-4 0.512043          0.000000         LVLL.N.Generalov+       (20)F1451  8 
+ 1002  3007   4 700 AC 4750000.          0.011923 6.2000-4 0.408330          0.000000         LVLL.N.Generalov+       (20)F1451  8 
+ 1002  3007   4 700 AC 4750000.          0.013231 3.9138-4 0.302370          0.000000         LVLL.N.Generalov+       (20)F1451  8 
+ 1002  3007   4 700 AC 4750000.          0.014077 9.1385-4 0.195946          0.000000         LVLL.N.Generalov+       (20)F1451  8 
+ 1002  3007   4 700 AC 4750000.          0.013000 5.4600-4-0.017452          0.000000         LVLL.N.Generalov+       (20)F1451  8 
+ 1002  3007   4 700 AC 4750000.          0.012615 4.6677-4-0.118404          0.000000         LVLL.N.Generalov+       (20)F1451  8 
+ 1002  3007   4 700 AC 4750000.          0.012231 6.3600-4-0.216440          0.000000         LVLL.N.Generalov+       (20)F1451  8 
+ 1002  3007   4 700 AC 4750000.          0.010154 5.0769-4-0.307357          0.000000         LVLL.N.Generalov+       (20)F1451  8 
+ 1002  3007   4 700 AC 4750000.          9.6154-3 3.1731-4-0.393942          0.000000         LVLL.N.Generalov+       (20)F1451  8 
+ 1002  3007   4 700 AC 4750000.          8.4615-3 3.3846-4-0.472551          0.000000         LVLL.N.Generalov+       (20)F1451  8 
+#/DATA      14
+#/DATASET

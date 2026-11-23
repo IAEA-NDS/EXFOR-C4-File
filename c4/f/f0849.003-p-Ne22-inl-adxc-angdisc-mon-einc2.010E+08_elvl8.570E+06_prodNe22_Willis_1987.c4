@@ -1,0 +1,32 @@
+#ENTRY      F0849
+#AUTHOR1    A.Willis+
+#YEAR       1987
+#INSTITUTE  (2FR PAR)
+#TITLE      Excitation of 1+ and 2+ states in the neon isotopes.
+#AUTHOR(S)  A.Willis, M.Morlet, N.Marty, C.Djalali, G.M.Crawley, A.Galonsky, 
+#+          V.Rotberg, B.A.Brown
+#REF-CODE   (J,NP/A,464,315,1987)
+#REFERENCE  Nucl.Phys.A 464 (1987) 315
+#DATASETS   0
+#
+#DATASET    F0849003 
+#DATE       20070710
+#REACTION   10-NE-22(P,INL)10-NE-22,PAR,DA
+#PROJ       1001
+#TARG       10022
+#MF         4
+#MT         601
+#PRODUCT    10-NE-22
+#C4BEGIN    [ 1001 10022   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 10022   4 601  C 2.0100+8          0.087017 0.023985 0.998364          8570000.         LVLA.Willis+            (87)F0849  3 
+ 1001 10022   4 601  C 2.0100+8          0.079549 9.2803-3 0.997295          8570000.         LVLA.Willis+            (87)F0849  3 
+ 1001 10022   4 601  C 2.0100+8          0.085118 8.6763-3 0.995596          8570000.         LVLA.Willis+            (87)F0849  3 
+ 1001 10022   4 601  C 2.0100+8          0.101400 8.0492-3 0.993640          8570000.         LVLA.Willis+            (87)F0849  3 
+ 1001 10022   4 601  C 2.0100+8          0.130110 0.011315 0.991502          8570000.         LVLA.Willis+            (87)F0849  3 
+ 1001 10022   4 601  C 2.0100+8          0.156290 0.011207 0.988857          8570000.         LVLA.Willis+            (87)F0849  3 
+ 1001 10022   4 601  C 2.0100+8          0.293730 0.046816 0.983083          8570000.         LVLA.Willis+            (87)F0849  3 
+#/DATA      7
+#/DATASET

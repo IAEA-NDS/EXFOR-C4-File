@@ -1,0 +1,32 @@
+#ENTRY      F0931
+#AUTHOR1    K.V.K.Iyengar+
+#YEAR       1970
+#INSTITUTE  (1CANALA)
+#TITLE      Energy levels of 45Ti excited in the 45Sc(p,n)45Ti
+#+          reaction.
+#AUTHOR(S)  K.V.K.Iyengar, E.Wong, G.C.Neilson
+#REF-CODE   (J,NP/A,155,582,1970)
+#REFERENCE  Nucl.Phys.A 155 (1970) 582
+#DATASETS   0
+#
+#DATASET    F0931003 
+#DATE       20080514
+#REACTION   21-SC-45(P,N)22-TI-45,PAR,DA
+#PROJ       1001
+#TARG       21045
+#MF         4
+#MT         50
+#PRODUCT    22-TI-45
+#C4BEGIN    [ 1001 21045   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 21045   4  50  C 5330000.          2.4321-3 2.2090-4 0.999929          1353000.         LVLK.V.K.Iyengar+       (70)F0931  3 
+ 1001 21045   4  50  C 5330000.          2.3895-3 1.8600-4 0.926909          1353000.         LVLK.V.K.Iyengar+       (70)F0931  3 
+ 1001 21045   4  50  C 5330000.          2.4513-3 2.0930-4 0.737937          1353000.         LVLK.V.K.Iyengar+       (70)F0931  3 
+ 1001 21045   4  50  C 5330000.          2.0016-3 2.0930-4 0.448383          1353000.         LVLK.V.K.Iyengar+       (70)F0931  3 
+ 1001 21045   4  50  C 5330000.          2.0170-3 2.4420-4 0.108589          1353000.         LVLK.V.K.Iyengar+       (70)F0931  3 
+ 1001 21045   4  50  C 5330000.          2.5089-3 1.9770-4-0.228181          1353000.         LVLK.V.K.Iyengar+       (70)F0931  3 
+ 1001 21045   4  50  C 5330000.          2.2683-3 2.4420-4-0.546687          1353000.         LVLK.V.K.Iyengar+       (70)F0931  3 
+#/DATA      7
+#/DATASET

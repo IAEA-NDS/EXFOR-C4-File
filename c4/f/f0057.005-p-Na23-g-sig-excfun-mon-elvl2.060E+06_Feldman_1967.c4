@@ -1,0 +1,33 @@
+#ENTRY      F0057
+#AUTHOR1    L.Feldman+
+#YEAR       1967
+#INSTITUTE  (1USACOL)
+#TITLE      Proton-capture gamma rays from Be-8, C-12, Mg-24 and
+#+          Ca-40 in the giant-resonance region.
+#AUTHOR(S)  L.Feldman, B.B.Baliga, M.Nessin
+#REF-CODE   (J,PR,157,921,1967)
+#REFERENCE  Phys.Rev. 157 (1967) 921
+#DATASETS   0
+#
+#DATASET    F0057005 
+#DATE       20200130
+#REACTION   11-NA-23(P,G)12-MG-24,PAR,SIG
+#PROJ       1001
+#TARG       11023
+#MF         3
+#MT         900
+#PRODUCT    12-MG-24
+#C4BEGIN    [ 1001 11023   3 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 11023   3 900    1.0680+7          7.8000-5 2.1800-5                   2060000. 2060000.LVLL.Feldman+           (67)F0057  5 
+ 1001 11023   3 900    1.1150+7          5.0400-5 1.3000-5                   2060000. 2060000.LVLL.Feldman+           (67)F0057  5 
+ 1001 11023   3 900    1.1450+7          3.8200-5 9.4000-6                   2060000. 2060000.LVLL.Feldman+           (67)F0057  5 
+ 1001 11023   3 900    1.1740+7          4.8200-5 1.2600-5                   2060000. 2060000.LVLL.Feldman+           (67)F0057  5 
+ 1001 11023   3 900    1.2000+7          4.3500-5 1.3600-5                   2060000. 2060000.LVLL.Feldman+           (67)F0057  5 
+ 1001 11023   3 900    1.2910+7          3.1600-5 8.4000-6                   2060000. 2060000.LVLL.Feldman+           (67)F0057  5 
+ 1001 11023   3 900    1.3510+7          3.8700-5 9.8000-6                   2060000. 2060000.LVLL.Feldman+           (67)F0057  5 
+ 1001 11023   3 900    1.4300+7          2.5800-5 6.1000-6                   2060000. 2060000.LVLL.Feldman+           (67)F0057  5 
+#/DATA      8
+#/DATASET

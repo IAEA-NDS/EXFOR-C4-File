@@ -1,0 +1,37 @@
+#ENTRY      F0154
+#AUTHOR1    Yu.P.Antufyev+
+#YEAR       1984
+#INSTITUTE  (4UKRKFT)
+#TITLE      Angular distributions of the differential
+#+          cross-sections and vector analysing powers for the
+#+          reactions 9Be(d,p)10Be, 9Be(d,t)8Be and
+#+          9Be(d,alpha)7Li at Ed = 2 - 2.8 MeV
+#AUTHOR(S)  Yu.P.Antufyev, A.S.Deineko, I.I.Zalyubovsky, V.D.Sarana, 
+#+          V.E.Storizko, A.I.Tutubalin, K.Hategan, N.A.Schliakhov
+#REF-CODE   (J,YF,40,53,1984)
+#REFERENCE  Yad.Fiz. 40 (1984) 53
+#DATASETS   0
+#
+#DATASET    F0154004 
+#DATE       20130225
+#REACTION   4-BE-9(D,A)3-LI-7,PAR,DA
+#PROJ       1002
+#TARG       4009
+#MF         4
+#MT         800
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1002  4009   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   4 800  C 2800000.          5.5550-3 5.5550-4 0.834848          0.000000         LVLYu.P.Antufyev+       (84)F0154  4 
+ 1002  4009   4 800  C 2800000.          4.1470-3 4.1470-4 0.664579          0.000000         LVLYu.P.Antufyev+       (84)F0154  4 
+ 1002  4009   4 800  C 2800000.          3.6280-3 3.6280-4-5.7596-3          0.000000         LVLYu.P.Antufyev+       (84)F0154  4 
+ 1002  4009   4 800  C 2800000.          3.7020-3 3.7020-4-0.213030          0.000000         LVLYu.P.Antufyev+       (84)F0154  4 
+ 1002  4009   4 800  C 2800000.          3.2570-3 3.2570-4-0.313992          0.000000         LVLYu.P.Antufyev+       (84)F0154  4 
+ 1002  4009   4 800  C 2800000.          1.7010-3 1.7010-4-0.673013          0.000000         LVLYu.P.Antufyev+       (84)F0154  4 
+ 1002  4009   4 800  C 2800000.          1.2560-3 1.2560-4-0.746638          0.000000         LVLYu.P.Antufyev+       (84)F0154  4 
+ 1002  4009   4 800  C 2800000.          1.3300-3 1.3300-4-0.841511          0.000000         LVLYu.P.Antufyev+       (84)F0154  4 
+ 1002  4009   4 800  C 2800000.          1.5520-3 1.5520-4-0.915663          0.000000         LVLYu.P.Antufyev+       (84)F0154  4 
+#/DATA      9
+#/DATASET

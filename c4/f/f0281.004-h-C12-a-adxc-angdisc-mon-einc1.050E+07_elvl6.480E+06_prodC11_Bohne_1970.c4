@@ -1,0 +1,35 @@
+#ENTRY      F0281
+#AUTHOR1    W.Bohne+
+#YEAR       1970
+#INSTITUTE  (2GERBER)
+#TITLE      Transfer reactions leading to states of 11C
+#AUTHOR(S)  W.Bohne, J.Bommer, H.Fuchs, K.Grabisch, M.Hagen, H.Homeyer, 
+#+          U.Janetzki, H.Lettau, H.Morgenstern, G.Roschert, J.Scheer
+#REF-CODE   (J,NP/A,157,593,1970)
+#REFERENCE  Nucl.Phys.A 157 (1970) 593
+#DATASETS   0
+#
+#DATASET    F0281004 
+#DATE       20210524
+#REACTION   6-C-12(HE3,A)6-C-11,PAR,DA
+#PROJ       2003
+#TARG       6012
+#MF         4
+#MT         800
+#PRODUCT    6-C-11
+#C4BEGIN    [ 2003  6012   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  6012   4 800  C 1.0500+7          4.6100-4          0.973579          6480000.         LVLW.Bohne+             (70)F0281  4 
+ 2003  6012   4 800  C 1.0500+7          7.0500-4          0.929133          6480000.         LVLW.Bohne+             (70)F0281  4 
+ 2003  6012   4 800  C 1.0500+7          1.0500-3          0.875465          6480000.         LVLW.Bohne+             (70)F0281  4 
+ 2003  6012   4 800  C 1.0500+7          1.2300-3          0.810042          6480000.         LVLW.Bohne+             (70)F0281  4 
+ 2003  6012   4 800  C 1.0500+7          1.4200-3          0.727773          6480000.         LVLW.Bohne+             (70)F0281  4 
+ 2003  6012   4 800  C 1.0500+7          1.4400-3          0.644124          6480000.         LVLW.Bohne+             (70)F0281  4 
+ 2003  6012   4 800  C 1.0500+7          1.4400-3          0.557745          6480000.         LVLW.Bohne+             (70)F0281  4 
+ 2003  6012   4 800  C 1.0500+7          1.4100-3          0.447759          6480000.         LVLW.Bohne+             (70)F0281  4 
+ 2003  6012   4 800  C 1.0500+7          1.2200-3          0.332161          6480000.         LVLW.Bohne+             (70)F0281  4 
+ 2003  6012   4 800  C 1.0500+7          9.8900-4          0.246999          6480000.         LVLW.Bohne+             (70)F0281  4 
+#/DATA      10
+#/DATASET

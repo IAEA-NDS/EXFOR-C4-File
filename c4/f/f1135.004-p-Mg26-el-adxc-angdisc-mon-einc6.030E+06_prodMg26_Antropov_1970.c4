@@ -1,0 +1,38 @@
+#ENTRY      F1135
+#AUTHOR1    A.E.Antropov+
+#YEAR       1970
+#INSTITUTE  (4RUSSUL)
+#TITLE      Elastic and inelastic scattering of protons by Mg-24,
+#+          Mg-25, and Mg-26.
+#AUTHOR(S)  A.E.Antropov, P.P.Zarubin, B.I.Orlov, A.V.Plavko, A.I.Sorokin
+#REF-CODE   (J,IZV,34,106,1970)
+#REFERENCE  Izv.Ross.AN,Fiz. 34 (1970) 106
+#DATASETS   0
+#
+#DATASET    F1135004 
+#DATE       20111024
+#REACTION   12-MG-26(P,EL)12-MG-26,,DA,,RTH
+#PROJ       1001
+#TARG       12026
+#MF         4
+#MT         2
+#PRODUCT    12-MG-26
+#C4BEGIN    [ 1001 12026   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 12026   4   2  C 6030000.          7.354102          0.925057                              A.E.Antropov+        (70)F1135  4 
+ 1001 12026   4   2  C 6030000.          1.888488          0.840623                              A.E.Antropov+        (70)F1135  4 
+ 1001 12026   4   2  C 6030000.          0.718109          0.737053                              A.E.Antropov+        (70)F1135  4 
+ 1001 12026   4   2  C 6030000.          0.341173          0.596715                              A.E.Antropov+        (70)F1135  4 
+ 1001 12026   4   2  C 6030000.          0.192150          0.435074                              A.E.Antropov+        (70)F1135  4 
+ 1001 12026   4   2  C 6030000.          0.116436          0.245240                              A.E.Antropov+        (70)F1135  4 
+ 1001 12026   4   2  C 6030000.          0.080689          0.110411                              A.E.Antropov+        (70)F1135  4 
+ 1001 12026   4   2  C 6030000.          0.056987         -0.065577                              A.E.Antropov+        (70)F1135  4 
+ 1001 12026   4   2  C 6030000.          0.040795         -0.226821                              A.E.Antropov+        (70)F1135  4 
+ 1001 12026   4   2  C 6030000.          0.029806         -0.406099                              A.E.Antropov+        (70)F1135  4 
+ 1001 12026   4   2  C 6030000.          0.025229         -0.581555                              A.E.Antropov+        (70)F1135  4 
+ 1001 12026   4   2  C 6030000.          0.026163         -0.754939                              A.E.Antropov+        (70)F1135  4 
+ 1001 12026   4   2  C 6030000.          0.023376         -0.904232                              A.E.Antropov+        (70)F1135  4 
+#/DATA      13
+#/DATASET

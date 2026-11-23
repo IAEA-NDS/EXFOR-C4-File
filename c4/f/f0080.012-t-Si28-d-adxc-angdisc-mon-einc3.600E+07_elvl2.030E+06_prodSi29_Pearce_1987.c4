@@ -1,0 +1,40 @@
+#ENTRY      F0080
+#AUTHOR1    K.I.Pearce+
+#YEAR       1987
+#INSTITUTE  (2UK KCL)
+#TITLE      36 MeV triton inelastic scattering and one-nucleon
+#+          transfer reactions.
+#AUTHOR(S)  K.I.Pearce, N.M.Clarke, R.J.Griffiths, P.J.Simmonds, D.Barker, 
+#+          J.B.A.England, M.C.Mannion, C.A.Ogilvie
+#REF-CODE   (J,NP/A,467,215,1987)
+#REFERENCE  Nucl.Phys.A 467 (1987) 215
+#DATASETS   0
+#
+#DATASET    F0080012 
+#DATE       20210502
+#REACTION   14-SI-28(T,D)14-SI-29,PAR,DA
+#PROJ       1003
+#TARG       14028
+#MF         4
+#MT         650
+#PRODUCT    14-SI-29
+#C4BEGIN    [ 1003 14028   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 14028   4 650  C 3.6000+7          7.4600-3          0.990748          2030000.         LVLK.I.Pearce+          (87)F0080 12 
+ 1003 14028   4 650  C 3.6000+7          5.7900-3          0.973579          2030000.         LVLK.I.Pearce+          (87)F0080 12 
+ 1003 14028   4 650  C 3.6000+7          4.4800-3          0.959805          2030000.         LVLK.I.Pearce+          (87)F0080 12 
+ 1003 14028   4 650  C 3.6000+7          2.2700-3          0.946649          2030000.         LVLK.I.Pearce+          (87)F0080 12 
+ 1003 14028   4 650  C 3.6000+7          1.4400-3          0.930418          2030000.         LVLK.I.Pearce+          (87)F0080 12 
+ 1003 14028   4 650  C 3.6000+7          8.8700-4          0.911403          2030000.         LVLK.I.Pearce+          (87)F0080 12 
+ 1003 14028   4 650  C 3.6000+7          7.3200-4          0.891007          2030000.         LVLK.I.Pearce+          (87)F0080 12 
+ 1003 14028   4 650  C 3.6000+7          7.1100-4          0.865151          2030000.         LVLK.I.Pearce+          (87)F0080 12 
+ 1003 14028   4 650  C 3.6000+7          6.2600-4          0.844328          2030000.         LVLK.I.Pearce+          (87)F0080 12 
+ 1003 14028   4 650  C 3.6000+7          3.2800-4          0.789084          2030000.         LVLK.I.Pearce+          (87)F0080 12 
+ 1003 14028   4 650  C 3.6000+7          1.3700-4          0.726575          2030000.         LVLK.I.Pearce+          (87)F0080 12 
+ 1003 14028   4 650  C 3.6000+7          1.5200-4          0.662620          2030000.         LVLK.I.Pearce+          (87)F0080 12 
+ 1003 14028   4 650  C 3.6000+7          8.5300-5 1.8400-5 0.587785          2030000.         LVLK.I.Pearce+          (87)F0080 12 
+ 1003 14028   4 650  C 3.6000+7          3.1300-5 1.0600-5 0.512043          2030000.         LVLK.I.Pearce+          (87)F0080 12 
+#/DATA      14
+#/DATASET

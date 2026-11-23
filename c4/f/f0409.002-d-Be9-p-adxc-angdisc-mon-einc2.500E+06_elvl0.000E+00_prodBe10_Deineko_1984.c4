@@ -1,0 +1,36 @@
+#ENTRY      F0409
+#AUTHOR1    A.S.Deineko+
+#YEAR       1984
+#INSTITUTE  (4UKRKFT)
+#TITLE      Vector analyzing power of the 9Be(d,p0)7Li and
+#+          9Be(d,p1)10Be (3.37 MeV) reactions at Ed=2.0-2.8MeV
+#AUTHOR(S)  A.S.Deineko, I.I.Zalyubovskii, V.D.Sarana, A.I.Tutubalin, 
+#+          N.A.Shlyakhov
+#REF-CODE   (J,IZV,48,(5),1000,1984)
+#REFERENCE  Izv.Ross.AN,Fiz. 48 No.5 (1984) 1000
+#DATASETS   0
+#
+#DATASET    F0409002 
+#DATE       20140405
+#REACTION   4-BE-9(D,P)4-BE-10,PAR,DA
+#PROJ       1002
+#TARG       4009
+#MF         4
+#MT         600
+#PRODUCT    4-BE-10
+#C4BEGIN    [ 1002  4009   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   4 600  C 2500000.          2.4990-3 1.2080-4 0.847678          0.000000         LVLA.S.Deineko+         (84)F0409  2 
+ 1002  4009   4 600  C 2500000.          1.2330-3 6.4600-5 0.592294          0.000000         LVLA.S.Deineko+         (84)F0409  2 
+ 1002  4009   4 600  C 2500000.          1.0290-3 5.9000-5 0.456787          0.000000         LVLA.S.Deineko+         (84)F0409  2 
+ 1002  4009   4 600  C 2500000.          1.1330-3 5.9000-5 0.299540          0.000000         LVLA.S.Deineko+         (84)F0409  2 
+ 1002  4009   4 600  C 2500000.          1.2320-3 6.4700-5 0.117191          0.000000         LVLA.S.Deineko+         (84)F0409  2 
+ 1002  4009   4 600  C 2500000.          1.3080-3 5.9000-5-0.056693          0.000000         LVLA.S.Deineko+         (84)F0409  2 
+ 1002  4009   4 600  C 2500000.          1.4350-3 5.9000-5-0.257133          0.000000         LVLA.S.Deineko+         (84)F0409  2 
+ 1002  4009   4 600  C 2500000.          1.3940-3 6.4600-5-0.377841          0.000000         LVLA.S.Deineko+         (84)F0409  2 
+ 1002  4009   4 600  C 2500000.          1.2620-3 5.6200-5-0.544639          0.000000         LVLA.S.Deineko+         (84)F0409  2 
+ 1002  4009   4 600  C 2500000.          1.1360-3 6.1800-5-0.675590          0.000000         LVLA.S.Deineko+         (84)F0409  2 
+#/DATA      10
+#/DATASET

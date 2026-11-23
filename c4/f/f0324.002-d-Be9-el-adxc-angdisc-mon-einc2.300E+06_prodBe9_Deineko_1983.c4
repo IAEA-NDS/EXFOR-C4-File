@@ -1,0 +1,38 @@
+#ENTRY      F0324
+#AUTHOR1    A.S.Deineko+
+#YEAR       1983
+#INSTITUTE  (4UKRKFT)
+#TITLE      Elastic scattering of vector-polarized deuterons on
+#+          Be-9 for E(d)= 2.0 - 2.8 MeV.
+#AUTHOR(S)  A.S.Deineko, I.I.Zalyubovskii, V.D.Sarana, A.I.Tutubalin, 
+#+          N.A.Shlyakhov, K.Hategan
+#REF-CODE   (J,IZV,47,(11),2271,1983)
+#REFERENCE  Izv.Ross.AN,Fiz. 47 No.11 (1983) 2271
+#DATASETS   0
+#
+#DATASET    F0324002 
+#DATE       20141028
+#REACTION   4-BE-9(D,EL)4-BE-9,,DA,,RTH
+#PROJ       1002
+#TARG       4009
+#MF         4
+#MT         2
+#PRODUCT    4-BE-9
+#C4BEGIN    [ 1002  4009   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   4   2  C 2300000.          0.295544 8.6431-3 0.687341                              A.S.Deineko+         (83)F0324  2 
+ 1002  4009   4   2  C 2300000.          0.150727 5.8205-3 0.560061                              A.S.Deineko+         (83)F0324  2 
+ 1002  4009   4   2  C 2300000.          0.077002 2.1096-3 0.367151                              A.S.Deineko+         (83)F0324  2 
+ 1002  4009   4   2  C 2300000.          0.049558 1.1692-3 0.211154                              A.S.Deineko+         (83)F0324  2 
+ 1002  4009   4   2  C 2300000.          0.035333 9.3392-4 0.048850                              A.S.Deineko+         (83)F0324  2 
+ 1002  4009   4   2  C 2300000.          0.026225 8.6338-4-0.142283                              A.S.Deineko+         (83)F0324  2 
+ 1002  4009   4   2  C 2300000.          0.021029 3.4615-4-0.275637                              A.S.Deineko+         (83)F0324  2 
+ 1002  4009   4   2  C 2300000.          0.015709 5.3516-4-0.450878                              A.S.Deineko+         (83)F0324  2 
+ 1002  4009   4   2  C 2300000.          0.012594 3.2478-4-0.612907                              A.S.Deineko+         (83)F0324  2 
+ 1002  4009   4   2  C 2300000.          0.011751 3.7479-4-0.733730                              A.S.Deineko+         (83)F0324  2 
+ 1002  4009   4   2  C 2300000.          0.011214 3.4661-4-0.802817                              A.S.Deineko+         (83)F0324  2 
+ 1002  4009   4   2  C 2300000.          0.010657 3.1971-4-0.877146                              A.S.Deineko+         (83)F0324  2 
+#/DATA      12
+#/DATASET

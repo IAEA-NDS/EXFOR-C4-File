@@ -1,0 +1,42 @@
+#ENTRY      F0484
+#AUTHOR1    C.Meynadier+
+#YEAR       1971
+#INSTITUTE  (3ALGCDT)
+#TITLE      Investigation of the B-11(3He,p)C-13 and
+#+          Ne-20(3He,p)Na-22 reactions at E(He3) below 3 MeV.
+#AUTHOR(S)  C.Meynadier, J.F.Allard, M.Amiel, H.Beaumevieille, B.Chambon, 
+#+          C.Morand
+#REF-CODE   (J,NP/A,161,305,1971)
+#REFERENCE  Nucl.Phys.A 161 (1971) 305
+#DATASETS   0
+#
+#DATASET    F0484005 
+#DATE       20200415
+#REACTION   10-NE-20(HE3,P)11-NA-22,PAR,DA
+#PROJ       2003
+#TARG       10020
+#MF         4
+#MT         600
+#PRODUCT    11-NA-22
+#C4BEGIN    [ 2003 10020   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 10020   4 600  C 3000000.          2.3980-5          0.933580          2210000.         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 3000000.          1.9090-5 4.7500-6 0.907777          2210000.         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 3000000.          1.8410-5          0.866897          2210000.         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 3000000.          3.0030-5          0.774944          2210000.         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 3000000.          3.1810-5          0.623880          2210000.         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 3000000.          3.7800-5          0.436802          2210000.         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 3000000.          3.8520-5 3.8400-6 0.192522          2210000.         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 3000000.          4.8550-5         -0.057564          2210000.         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 3000000.          6.0580-5         -0.285688          2210000.         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 3000000.          6.6950-5 4.9400-6-0.506034          2210000.         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 3000000.          7.4050-5         -0.692143          2210000.         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 3000000.          6.6000-5         -0.692143          2210000.         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 3000000.          7.1250-5         -0.824126          2210000.         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 3000000.          7.8680-5         -0.914254          2210000.         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 3000000.          7.9820-5 2.5600-6-0.939693          2210000.         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 3000000.          8.8850-5         -0.972370          2210000.         LVLC.Meynadier+         (71)F0484  5 
+#/DATA      16
+#/DATASET

@@ -1,0 +1,41 @@
+#ENTRY      F0013
+#AUTHOR1    G.Robaye+
+#YEAR       1977
+#INSTITUTE  (2BLGLIE)
+#TITLE      Reaction Li-7(d,alpha1)He-5 cross-section between
+#+          250 keV and 750 keV. Reaction chamber specially
+#+          studied to measure small energy incident beam currents.
+#AUTHOR(S)  G.Robaye, J.M.Delbrouck-Habaru
+#REF-CODE   (J,BSL,46,375,1977)
+#REFERENCE  B.Soc.Roy.Sci.Liege 46 (1977) 375
+#DATASETS   0
+#
+#DATASET    F0013003 
+#DATE       20200120
+#REACTION   3-LI-7(D,A)2-HE-5,,DA
+#PROJ       1002
+#TARG       3007
+#MF         4
+#MT         107
+#PRODUCT    2-HE-5
+#C4BEGIN    [ 1002  3007   4 107  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3007   4 107  C 630000.0          5.5070-3 8.2605-5 0.956000                              G.Robaye+            (77)F0013  3 
+ 1002  3007   4 107  C 630000.0          5.9340-3 8.9010-5 0.875000                              G.Robaye+            (77)F0013  3 
+ 1002  3007   4 107  C 630000.0          6.3610-3 9.5415-5 0.749000                              G.Robaye+            (77)F0013  3 
+ 1002  3007   4 107  C 630000.0          6.4490-3 9.6735-5 0.600000                              G.Robaye+            (77)F0013  3 
+ 1002  3007   4 107  C 630000.0          6.2810-3 9.4215-5 0.439000                              G.Robaye+            (77)F0013  3 
+ 1002  3007   4 107  C 630000.0          7.4750-3 1.1213-4 0.290000                              G.Robaye+            (77)F0013  3 
+ 1002  3007   4 107  C 630000.0          7.6490-3 1.1474-4 0.094000                              G.Robaye+            (77)F0013  3 
+ 1002  3007   4 107  C 630000.0          7.0560-3 1.0584-4-0.067000                              G.Robaye+            (77)F0013  3 
+ 1002  3007   4 107  C 630000.0          7.1420-3 1.0713-4-0.170000                              G.Robaye+            (77)F0013  3 
+ 1002  3007   4 107  C 630000.0          7.7390-3 1.1609-4-0.239000                              G.Robaye+            (77)F0013  3 
+ 1002  3007   4 107  C 630000.0          7.1460-3 1.0719-4-0.400000                              G.Robaye+            (77)F0013  3 
+ 1002  3007   4 107  C 630000.0          6.5550-3 9.8325-5-0.688000                              G.Robaye+            (77)F0013  3 
+ 1002  3007   4 107  C 630000.0          7.8340-3 1.1751-4-0.802000                              G.Robaye+            (77)F0013  3 
+ 1002  3007   4 107  C 630000.0          7.5830-3 1.1375-4-0.871000                              G.Robaye+            (77)F0013  3 
+ 1002  3007   4 107  C 630000.0          7.5810-3 1.1372-4-0.952000                              G.Robaye+            (77)F0013  3 
+#/DATA      15
+#/DATASET

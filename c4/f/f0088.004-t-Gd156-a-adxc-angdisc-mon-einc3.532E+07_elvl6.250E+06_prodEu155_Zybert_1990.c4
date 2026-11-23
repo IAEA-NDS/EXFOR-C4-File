@@ -1,0 +1,35 @@
+#ENTRY      F0088
+#AUTHOR1    L.Zybert+
+#YEAR       1990
+#INSTITUTE  (2UK BIR)
+#TITLE      Deep proton-hole states in 147Pr, 151Pm and 155Eu.
+#AUTHOR(S)  L.Zybert, J.B.A.England, G.M.Field, O.Karban, R.Zybert, 
+#+          M.Becha, C.N.Pinder, G.C.Morrison, M.Bentley, P.Fallon, 
+#+          R.Moktah, J.W.Roberts, J.F.Sharpey-Schafer
+#REF-CODE   (J,NP/A,510,441,1990)
+#REFERENCE  Nucl.Phys.A 510 (1990) 441
+#DATASETS   0
+#
+#DATASET    F0088004 
+#DATE       20210531
+#REACTION   64-GD-156(T,A)63-EU-155,PAR,DA
+#PROJ       1003
+#TARG       64156
+#MF         4
+#MT         800
+#PRODUCT    63-EU-155
+#C4BEGIN    [ 1003 64156   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 64156   4 800  C 3.5320+7          0.012810 3.7820-3 0.984196 1.8544-3 6250000. 4250000.LVLL.Zybert+            (90)F0088  4 
+ 1003 64156   4 800  C 3.5320+7          0.012730 2.1660-3 0.975149 2.3201-3 6250000. 4250000.LVLL.Zybert+            (90)F0088  4 
+ 1003 64156   4 800  C 3.5320+7          0.010740 1.2920-3 0.965016 2.7456-3 6250000. 4250000.LVLL.Zybert+            (90)F0088  4 
+ 1003 64156   4 800  C 3.5320+7          6.4600-3 7.1110-4 0.952129 3.2012-3 6250000. 4250000.LVLL.Zybert+            (90)F0088  4 
+ 1003 64156   4 800  C 3.5320+7          4.5230-3 5.0160-4 0.937889 3.6331-3 6250000. 4250000.LVLL.Zybert+            (90)F0088  4 
+ 1003 64156   4 800  C 3.5320+7          4.7650-3 6.2310-4 0.921185 4.0749-3 6250000. 4250000.LVLL.Zybert+            (90)F0088  4 
+ 1003 64156   4 800  C 3.5320+7          4.9590-3 4.4170-4 0.904083 4.4753-3 6250000. 4250000.LVLL.Zybert+            (90)F0088  4 
+ 1003 64156   4 800  C 3.5320+7          2.7190-3 5.9110-4 0.882127 4.9324-3 6250000. 4250000.LVLL.Zybert+            (90)F0088  4 
+ 1003 64156   4 800  C 3.5320+7          1.9040-3 2.2960-4 0.860742 5.3307-3 6250000. 4250000.LVLL.Zybert+            (90)F0088  4 
+#/DATA      9
+#/DATASET

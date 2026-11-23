@@ -1,0 +1,26 @@
+#ENTRY      F0095
+#AUTHOR1    J.A.Biggerstaff+
+#YEAR       1962
+#INSTITUTE  (1USAKTY)
+#TITLE      Differential cross sections for (d,a) and (d,t)
+#+          reaction in 9Be.
+#AUTHOR(S)  J.A.Biggerstaff, R.F.Hood, H.Scott, M.T.McEllistrem
+#REF-CODE   (J,NP,36,631,1962)
+#REFERENCE  Nucl.Phys. 36 (1962) 631
+#DATASETS   0
+#
+#DATASET    F0095008 
+#DATE       20120126
+#REACTION   4-BE-9(D,A)3-LI-7,PAR,SIG
+#PROJ       1002
+#TARG       4009
+#MF         3
+#MT         800
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1002  4009   3 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   3 800    2409000.          0.033130                            480000.0         LVLJ.A.Biggerstaff+     (62)F0095  8 
+#/DATA      1
+#/DATASET

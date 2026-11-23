@@ -1,0 +1,40 @@
+#ENTRY      F0185
+#AUTHOR1    T.Yanabu+
+#YEAR       1964
+#INSTITUTE  (2JPNKTO)
+#TITLE      Alpha emitting reactions on 9Be, 10B and 11B induced
+#+          by protons, deuterons and alpha-particles
+#AUTHOR(S)  T.Yanabu, S.Yamashita, S.Kakigi, Dai-Ca Nguyen, K.Takimoto, 
+#+          Y.Yamada, K.Ogino
+#REF-CODE   (J,JPJ,19,1818,1964)
+#REFERENCE  J.Phys.Soc.Jpn. 19 (1964) 1818
+#DATASETS   0
+#
+#DATASET    F0185002 
+#DATE       20200625
+#REACTION   4-BE-9(P,A)3-LI-6,PAR,DA
+#PROJ       1001
+#TARG       4009
+#MF         4
+#MT         800
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 1001  4009   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   4 800  C 7000000.          1.5700-3          0.910684          0.000000         LVLT.Yanabu+            (64)F0185  2 
+ 1001  4009   4 800  C 7000000.          2.5000-3          0.807990          0.000000         LVLT.Yanabu+            (64)F0185  2 
+ 1001  4009   4 800  C 7000000.          2.7200-3          0.657375          0.000000         LVLT.Yanabu+            (64)F0185  2 
+ 1001  4009   4 800  C 7000000.          3.0900-3          0.477159          0.000000         LVLT.Yanabu+            (64)F0185  2 
+ 1001  4009   4 800  C 7000000.          2.9000-3          0.282341          0.000000         LVLT.Yanabu+            (64)F0185  2 
+ 1001  4009   4 800  C 7000000.          2.3800-3          0.135716          0.000000         LVLT.Yanabu+            (64)F0185  2 
+ 1001  4009   4 800  C 7000000.          2.0600-3         -0.033155          0.000000         LVLT.Yanabu+            (64)F0185  2 
+ 1001  4009   4 800  C 7000000.          1.5100-3         -0.206204          0.000000         LVLT.Yanabu+            (64)F0185  2 
+ 1001  4009   4 800  C 7000000.          1.1900-3         -0.366501          0.000000         LVLT.Yanabu+            (64)F0185  2 
+ 1001  4009   4 800  C 7000000.          1.0700-3         -0.513541          0.000000         LVLT.Yanabu+            (64)F0185  2 
+ 1001  4009   4 800  C 7000000.          1.2700-3         -0.640110          0.000000         LVLT.Yanabu+            (64)F0185  2 
+ 1001  4009   4 800  C 7000000.          1.9400-3         -0.758134          0.000000         LVLT.Yanabu+            (64)F0185  2 
+ 1001  4009   4 800  C 7000000.          2.9400-3 2.0000-4-0.850811          0.000000         LVLT.Yanabu+            (64)F0185  2 
+ 1001  4009   4 800  C 7000000.          3.4400-3 1.7000-4-0.918446          0.000000         LVLT.Yanabu+            (64)F0185  2 
+#/DATA      14
+#/DATASET

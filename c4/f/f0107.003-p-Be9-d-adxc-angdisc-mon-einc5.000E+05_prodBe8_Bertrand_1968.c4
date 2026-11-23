@@ -1,0 +1,35 @@
+#ENTRY      F0107
+#AUTHOR1    F.Bertrand+
+#YEAR       1968
+#INSTITUTE  (2FR VNV)
+#TITLE      Study of the reactions 9Be(p,alpa)6Li,9Be(p,d)8Be from
+#+          300 keV to 900 keV
+#AUTHOR(S)  F.Bertrand, G.Grenier, J.Pornet
+#REF-CODE   (R,CEA-R-3575,1968)
+#REFERENCE  Report CEA-R-3575, 1968
+#DATASETS   0
+#
+#DATASET    F0107003 
+#DATE       20190717
+#REACTION   4-BE-9(P,D)4-BE-8,,DA
+#PROJ       1001
+#TARG       4009
+#MF         4
+#MT         104
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 1001  4009   4 104  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   4 104  C 500000.0          0.026220 1.8354-3 0.707107                              F.Bertrand+          (68)F0107  3 
+ 1001  4009   4 104  C 500000.0          0.025820 1.8074-3 0.408330                              F.Bertrand+          (68)F0107  3 
+ 1001  4009   4 104  C 500000.0          0.023680 1.6576-3 0.054079                              F.Bertrand+          (68)F0107  3 
+ 1001  4009   4 104  C 500000.0          0.023790 1.6653-3-0.128796                              F.Bertrand+          (68)F0107  3 
+ 1001  4009   4 104  C 500000.0          0.024770 1.7339-3-0.460200                              F.Bertrand+          (68)F0107  3 
+ 1001  4009   4 104  C 500000.0          0.023760 1.6632-3-0.593419                              F.Bertrand+          (68)F0107  3 
+ 1001  4009   4 104  C 500000.0          0.023500 1.6450-3-0.712026                              F.Bertrand+          (68)F0107  3 
+ 1001  4009   4 104  C 500000.0          0.024370 1.7059-3-0.813101                              F.Bertrand+          (68)F0107  3 
+ 1001  4009   4 104  C 500000.0          0.022860 1.6002-3-0.897258                              F.Bertrand+          (68)F0107  3 
+ 1001  4009   4 104  C 500000.0          0.022850 1.5995-3-0.957822                              F.Bertrand+          (68)F0107  3 
+#/DATA      10
+#/DATASET

@@ -1,0 +1,38 @@
+#ENTRY      F1460
+#AUTHOR1    P.S.Prusachenko+
+#YEAR       2022
+#INSTITUTE  (4RUSFEI)
+#TITLE      Measurement of the cross section for the
+#+          13C(alpha,n)16O reaction and determination of the cross
+#+          section for the 16O(n,alpha)13C reaction
+#AUTHOR(S)  P.S.Prusachenko, T.L.Bobrovsky, I.P.Bondarenko, M.V.Bokhovko, 
+#+          A.F.Gurbich, V.V.Ketlerov
+#REF-CODE   (J,PR/C,105,024612,2022)
+#REFERENCE  Phys.Rev.C 105 (2022) 024612
+#DATASETS   0
+#
+#DATASET    F1460004 
+#DATE       20220311
+#REACTION   6-C-13(A,N)8-O-16,PAR,DA
+#PROJ       2004
+#TARG       6013
+#MF         4
+#MT         50
+#PRODUCT    8-O-16
+#C4BEGIN    [ 2004  6013   4  50 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  6013   4  50 AC 2354000.          7.7600-3 2.1728-4 1.000000          0.000000         LVLP.S.Prusachenko+     (22)F1460  4 
+ 2004  6013   4  50 AC 2354000.          7.0200-3 1.8252-4 0.968148          0.000000         LVLP.S.Prusachenko+     (22)F1460  4 
+ 2004  6013   4  50 AC 2354000.          5.3000-3 1.6430-4 0.866897          0.000000         LVLP.S.Prusachenko+     (22)F1460  4 
+ 2004  6013   4  50 AC 2354000.          3.5600-3 1.5664-4 0.703395          0.000000         LVLP.S.Prusachenko+     (22)F1460  4 
+ 2004  6013   4  50 AC 2354000.          3.5100-3 1.0530-4 0.489382          0.000000         LVLP.S.Prusachenko+     (22)F1460  4 
+ 2004  6013   4  50 AC 2354000.          4.4000-3 7.9200-5 0.240228          0.000000         LVLP.S.Prusachenko+     (22)F1460  4 
+ 2004  6013   4  50 AC 2354000.          6.3000-3 2.0160-4-0.024432          0.000000         LVLP.S.Prusachenko+     (22)F1460  4 
+ 2004  6013   4  50 AC 2354000.          9.9500-3 2.3880-4-0.285688          0.000000         LVLP.S.Prusachenko+     (22)F1460  4 
+ 2004  6013   4  50 AC 2354000.          0.011220 2.3562-4-0.525472          0.000000         LVLP.S.Prusachenko+     (22)F1460  4 
+ 2004  6013   4  50 AC 2354000.          0.010560 2.5344-4-0.727773          0.000000         LVLP.S.Prusachenko+     (22)F1460  4 
+ 2004  6013   4  50 AC 2354000.          9.5600-3 2.7724-4-0.878817          0.000000         LVLP.S.Prusachenko+     (22)F1460  4 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,33 @@
+#ENTRY      F0389
+#AUTHOR1    P.R.Almond+
+#YEAR       1965
+#INSTITUTE  (1USARIC)
+#TITLE      Differential cross sections at 0 degree and angular
+#+          distributions of resolved neutrons from 11B + d
+#AUTHOR(S)  P.R.Almond, J.R.Risser
+#REF-CODE   (J,NP,72,436,1965)
+#REFERENCE  Nucl.Phys. 72 (1965) 436
+#DATASETS   0
+#
+#DATASET    F0389003 
+#DATE       20220602
+#REACTION   5-B-11(D,N)6-C-12,PAR,DA
+#PROJ       1002
+#TARG       5011
+#MF         4
+#MT         50
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1002  5011   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5011   4  50  C 5500000.          5.2300-4 1.7300-4 0.999994          0.000000         LVLP.R.Almond+          (65)F0389  3 
+ 1002  5011   4  50  C 5500000.          7.3300-4 1.5200-4 0.881303          0.000000         LVLP.R.Almond+          (65)F0389  3 
+ 1002  5011   4  50  C 5500000.          3.1000-4 8.7000-5 0.444635          0.000000         LVLP.R.Almond+          (65)F0389  3 
+ 1002  5011   4  50  C 5500000.          1.7200-4 8.7000-5-0.057564          0.000000         LVLP.R.Almond+          (65)F0389  3 
+ 1002  5011   4  50  C 5500000.          2.7300-4 8.6000-5-0.521010          0.000000         LVLP.R.Almond+          (65)F0389  3 
+ 1002  5011   4  50  C 5500000.          5.3100-4 1.2900-4-0.652098          0.000000         LVLP.R.Almond+          (65)F0389  3 
+ 1002  5011   4  50  C 5500000.          7.4400-4 1.7400-4-0.851727          0.000000         LVLP.R.Almond+          (65)F0389  3 
+ 1002  5011   4  50  C 5500000.          7.6200-4 1.0900-4-0.947210          0.000000         LVLP.R.Almond+          (65)F0389  3 
+#/DATA      8
+#/DATASET

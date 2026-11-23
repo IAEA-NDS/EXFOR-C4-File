@@ -1,0 +1,40 @@
+#ENTRY      F0806
+#AUTHOR1    H.R.Schelin+
+#YEAR       1984
+#INSTITUTE  (3BZLUSP)
+#TITLE      The 12C(d,n)13N reaction between Ed=7.0 and 13.0 MeV.
+#AUTHOR(S)  H.R.Schelin, E.Farrelly Pessoa, W.R.Wylie, E.W.Cybulska, 
+#+          K.Nakayama, L.M.Fagundes, R.A.Douglas
+#REF-CODE   (J,NP/A,414,67,1984)
+#REFERENCE  Nucl.Phys.A 414 (1984) 67
+#DATASETS   0
+#
+#DATASET    F0806004 
+#DATE       20070209
+#REACTION   6-C-12(D,N)7-N-13,PAR,DA
+#PROJ       1002
+#TARG       6012
+#MF         4
+#MT         50
+#PRODUCT    7-N-13
+#C4BEGIN    [ 1002  6012   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6012   4  50  C 9100000.          0.017208          0.981554          0.000000         LVLH.R.Schelin+         (84)F0806  4 
+ 1002  6012   4  50  C 9100000.          0.020209          0.956116          0.000000         LVLH.R.Schelin+         (84)F0806  4 
+ 1002  6012   4  50  C 9100000.          0.019216 2.6834-3 0.920239          0.000000         LVLH.R.Schelin+         (84)F0806  4 
+ 1002  6012   4  50  C 9100000.          0.014646          0.879416          0.000000         LVLH.R.Schelin+         (84)F0806  4 
+ 1002  6012   4  50  C 9100000.          8.4239-3          0.830984          0.000000         LVLH.R.Schelin+         (84)F0806  4 
+ 1002  6012   4  50  C 9100000.          7.5415-3          0.800773          0.000000         LVLH.R.Schelin+         (84)F0806  4 
+ 1002  6012   4  50  C 9100000.          1.7723-3          0.627664          0.000000         LVLH.R.Schelin+         (84)F0806  4 
+ 1002  6012   4  50  C 9100000.          2.7578-3 3.6213-4 0.413708          0.000000         LVLH.R.Schelin+         (84)F0806  4 
+ 1002  6012   4  50  C 9100000.          2.9581-3          0.142957          0.000000         LVLH.R.Schelin+         (84)F0806  4 
+ 1002  6012   4  50  C 9100000.          2.0800-3         -0.128346          0.000000         LVLH.R.Schelin+         (84)F0806  4 
+ 1002  6012   4  50  C 9100000.          1.2963-3         -0.370720          0.000000         LVLH.R.Schelin+         (84)F0806  4 
+ 1002  6012   4  50  C 9100000.          1.5847-3         -0.598884          0.000000         LVLH.R.Schelin+         (84)F0806  4 
+ 1002  6012   4  50  C 9100000.          1.8422-3         -0.779447          0.000000         LVLH.R.Schelin+         (84)F0806  4 
+ 1002  6012   4  50  C 9100000.          1.6490-3         -0.897335          0.000000         LVLH.R.Schelin+         (84)F0806  4 
+ 1002  6012   4  50  C 9100000.          1.0917-3 1.6502-4-0.955278          0.000000         LVLH.R.Schelin+         (84)F0806  4 
+#/DATA      15
+#/DATASET

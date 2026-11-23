@@ -1,0 +1,39 @@
+#ENTRY      F0896
+#AUTHOR1    V.B.Gubin+
+#YEAR       1974
+#INSTITUTE  (4RUSMOS)
+#TITLE      Investigation of scattering and polarization of protons
+#+          by calcium nuclei in the 5-6 MeV energy region.
+#AUTHOR(S)  V.B.Gubin, I.P.Gulamov, E.A.Romanovskij, E.I.Sirotinin, 
+#+          T.I.Spasskaya, K.S.Shishkin
+#REF-CODE   (J,IZV,38,863,1974)
+#REFERENCE  Izv.Ross.AN,Fiz. 38 (1974) 863
+#DATASETS   0
+#
+#DATASET    F0896003 
+#DATE       20080130
+#REACTION   20-CA-40(P,EL)20-CA-40,,DA,,RTH
+#PROJ       1001
+#TARG       20040
+#MF         4
+#MT         2
+#PRODUCT    20-CA-40
+#C4BEGIN    [ 1001 20040   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 20040   4   2  C 5800000.          0.670655          0.703159                              V.B.Gubin+           (74)F0896  3 
+ 1001 20040   4   2  C 5800000.          0.294284          0.490752                              V.B.Gubin+           (74)F0896  3 
+ 1001 20040   4   2  C 5800000.          0.174023          0.330251                              V.B.Gubin+           (74)F0896  3 
+ 1001 20040   4   2  C 5800000.          0.109267          0.166184                              V.B.Gubin+           (74)F0896  3 
+ 1001 20040   4   2  C 5800000.          0.067447         -0.010140                              V.B.Gubin+           (74)F0896  3 
+ 1001 20040   4   2  C 5800000.          0.047481         -0.185667                              V.B.Gubin+           (74)F0896  3 
+ 1001 20040   4   2  C 5800000.          0.039702         -0.361462                              V.B.Gubin+           (74)F0896  3 
+ 1001 20040   4   2  C 5800000.          0.045601         -0.523391                              V.B.Gubin+           (74)F0896  3 
+ 1001 20040   4   2  C 5800000.          0.052384         -0.591732                              V.B.Gubin+           (74)F0896  3 
+ 1001 20040   4   2  C 5800000.          0.059598         -0.655927                              V.B.Gubin+           (74)F0896  3 
+ 1001 20040   4   2  C 5800000.          0.062387         -0.776596                              V.B.Gubin+           (74)F0896  3 
+ 1001 20040   4   2  C 5800000.          0.075406         -0.868977                              V.B.Gubin+           (74)F0896  3 
+ 1001 20040   4   2  C 5800000.          0.100414         -0.950624                              V.B.Gubin+           (74)F0896  3 
+#/DATA      13
+#/DATASET

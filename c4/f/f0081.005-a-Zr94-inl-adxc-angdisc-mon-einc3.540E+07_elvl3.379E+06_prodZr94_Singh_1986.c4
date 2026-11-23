@@ -1,0 +1,32 @@
+#ENTRY      F0081
+#AUTHOR1    P.Singh+
+#YEAR       1986
+#INSTITUTE  (2GERMPH)
+#TITLE      Alpha scattering from 92Zr and 94Zr.
+#AUTHOR(S)  P.Singh, D.Rychel, R.Gyufko, B.Van Kruchten, M.Lahanas, 
+#+          C.A.Wiedner
+#REF-CODE   (J,NP/A,458,1,1986)
+#REFERENCE  Nucl.Phys.A 458 (1986) 1
+#DATASETS   0
+#
+#DATASET    F0081005 
+#DATE       20251208
+#REACTION   40-ZR-94(A,INL)40-ZR-94,PAR,DA
+#PROJ       2004
+#TARG       40094
+#MF         4
+#MT         801
+#PRODUCT    40-ZR-94
+#C4BEGIN    [ 2004 40094   4 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 40094   4 801  C 3.5400+7 15000.00 7.1720-4 1.7650-4 0.974761 9.7411-4 3379000.         LVLP.Singh+             (86)F0081  5 
+ 2004 40094   4 801  C 3.5400+7 15000.00 4.6840-4 8.4040-5 0.968583 1.0851-3 3379000.         LVLP.Singh+             (86)F0081  5 
+ 2004 40094   4 801  C 3.5400+7 15000.00 5.2260-4          0.959314 1.2319-3 3379000.         LVLP.Singh+             (86)F0081  5 
+ 2004 40094   4 801  C 3.5400+7 15000.00 3.0450-4 6.6570-5 0.947768 1.3917-3 3379000.         LVLP.Singh+             (86)F0081  5 
+ 2004 40094   4 801  C 3.5400+7 15000.00 2.3370-4          0.907044 1.8371-3 3379000.         LVLP.Singh+             (86)F0081  5 
+ 2004 40094   4 801  C 3.5400+7 15000.00 3.1770-4          0.890213 1.9877-3 3379000.         LVLP.Singh+             (86)F0081  5 
+ 2004 40094   4 801  C 3.5400+7 15000.00 1.3190-4 2.6690-5 0.874620 2.1154-3 3379000.         LVLP.Singh+             (86)F0081  5 
+#/DATA      7
+#/DATASET

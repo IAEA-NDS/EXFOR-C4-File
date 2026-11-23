@@ -1,0 +1,46 @@
+#ENTRY      F1451
+#AUTHOR1    L.N.Generalov+
+#YEAR       2020
+#INSTITUTE  (4RUSEPA)
+#TITLE      6,7Li+d reaction cross sections measurements
+#AUTHOR(S)  L.N.Generalov, O.P.Vikhlyantsev, I.A.Karpov, A.V.Kuryakin, 
+#+          A.D.Tumkin, S.V.Fil'chagin, D.A.Fedotov
+#REF-CODE   (J,IZV,84,1774,2020)
+#REFERENCE  Izv.Ross.AN,Fiz. 84 (2020) 1774
+#DATASETS   0
+#
+#DATASET    F1451002 
+#DATE       20210830
+#REACTION   3-LI-6(D,EL)3-LI-6,,DA
+#PROJ       1002
+#TARG       3006
+#MF         4
+#MT         2
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 1002  3006   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3006   4   2 AC 5250000.          0.567000          0.873772                              L.N.Generalov+       (20)F1451  2 
+ 1002  3006   4   2 AC 5250000.          0.367000          0.818150                              L.N.Generalov+       (20)F1451  2 
+ 1002  3006   4   2 AC 5250000.          0.241000          0.740805                              L.N.Generalov+       (20)F1451  2 
+ 1002  3006   4   2 AC 5250000.          0.122000          0.661312                              L.N.Generalov+       (20)F1451  2 
+ 1002  3006   4   2 AC 5250000.          0.080200          0.579281                              L.N.Generalov+       (20)F1451  2 
+ 1002  3006   4   2 AC 5250000.          0.047200          0.483282                              L.N.Generalov+       (20)F1451  2 
+ 1002  3006   4   2 AC 5250000.          0.026700          0.289032                              L.N.Generalov+       (20)F1451  2 
+ 1002  3006   4   2 AC 5250000.          0.019400          0.189095                              L.N.Generalov+       (20)F1451  2 
+ 1002  3006   4   2 AC 5250000.          0.017900          0.088894                              L.N.Generalov+       (20)F1451  2 
+ 1002  3006   4   2 AC 5250000.          0.020700         -0.102793                              L.N.Generalov+       (20)F1451  2 
+ 1002  3006   4   2 AC 5250000.          0.020400         -0.195946                              L.N.Generalov+       (20)F1451  2 
+ 1002  3006   4   2 AC 5250000.          0.022100         -0.282341                              L.N.Generalov+       (20)F1451  2 
+ 1002  3006   4   2 AC 5250000.          0.023900         -0.444635                              L.N.Generalov+       (20)F1451  2 
+ 1002  3006   4   2 AC 5250000.          0.024800         -0.515038                              L.N.Generalov+       (20)F1451  2 
+ 1002  3006   4   2 AC 5250000.          0.024500         -0.580703                              L.N.Generalov+       (20)F1451  2 
+ 1002  3006   4   2 AC 5250000.          0.030600         -0.697165                              L.N.Generalov+       (20)F1451  2 
+ 1002  3006   4   2 AC 5250000.          0.030800         -0.747798                              L.N.Generalov+       (20)F1451  2 
+ 1002  3006   4   2 AC 5250000.          0.028000         -0.792290                              L.N.Generalov+       (20)F1451  2 
+ 1002  3006   4   2 AC 5250000.          0.029500         -0.866897                              L.N.Generalov+       (20)F1451  2 
+ 1002  3006   4   2 AC 5250000.          0.030000         -0.913545                              L.N.Generalov+       (20)F1451  2 
+ 1002  3006   4   2 AC 5250000.          0.030800         -0.936672                              L.N.Generalov+       (20)F1451  2 
+#/DATA      21
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      F0225
+#AUTHOR1    V.V.Verbinski+
+#YEAR       1968
+#INSTITUTE  (1USAORL)
+#TITLE      Neutrons from 9Be(alpha,n) reaction for E(alpha)
+#+          between 6 and 10 MeV
+#AUTHOR(S)  V.V.Verbinski, F.G.Perey, K.Dickens, W.R.Burrus
+#REF-CODE   (J,PR,170,916,1968)
+#REFERENCE  Phys.Rev. 170 (1968) 916
+#DATASETS   0
+#
+#DATASET    F0225002 
+#DATE       20200701
+#REACTION   4-BE-9(A,N)6-C-12,PAR,DA
+#PROJ       2004
+#TARG       4009
+#MF         4
+#MT         50
+#PRODUCT    6-C-12
+#C4BEGIN    [ 2004  4009   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  4009   4  50  C 6790000.          5.8600-3 1.8000-4 0.999994          0.000000         LVLV.V.Verbinski+       (68)F0225  2 
+ 2004  4009   4  50  C 6790000.          4.5800-3 1.8000-4 0.901833          0.000000         LVLV.V.Verbinski+       (68)F0225  2 
+ 2004  4009   4  50  C 6790000.          2.1600-3 1.4000-4 0.645458          0.000000         LVLV.V.Verbinski+       (68)F0225  2 
+ 2004  4009   4  50  C 6790000.          1.5600-3 3.0000-5 0.284015          0.000000         LVLV.V.Verbinski+       (68)F0225  2 
+ 2004  4009   4  50  C 6790000.          1.6800-3 9.0000-5-0.130526          0.000000         LVLV.V.Verbinski+       (68)F0225  2 
+ 2004  4009   4  50  C 6790000.          1.9500-3 3.0000-5-0.267238          0.000000         LVLV.V.Verbinski+       (68)F0225  2 
+ 2004  4009   4  50  C 6790000.          2.3900-3 3.0000-5-0.496974          0.000000         LVLV.V.Verbinski+       (68)F0225  2 
+ 2004  4009   4  50  C 6790000.          2.7400-3 9.0000-5-0.768284          0.000000         LVLV.V.Verbinski+       (68)F0225  2 
+ 2004  4009   4  50  C 6790000.          3.0000-3 1.4000-4-0.908508          0.000000         LVLV.V.Verbinski+       (68)F0225  2 
+ 2004  4009   4  50  C 6790000.          2.6800-3 1.4000-4-0.988228          0.000000         LVLV.V.Verbinski+       (68)F0225  2 
+#/DATA      10
+#/DATASET

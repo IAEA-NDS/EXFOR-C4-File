@@ -1,0 +1,30 @@
+#ENTRY      F0910
+#AUTHOR1    G.Brown+
+#YEAR       1970
+#INSTITUTE  (2UK BRD)
+#TITLE      Spectroscopic factors for ln=1 and ln=3 transitions in
+#+          (d,p) reactions with some calcium and chromium nuclei.
+#AUTHOR(S)  G.Brown, A.Denning, A.E.Macgregor
+#REF-CODE   (J,NP/A,153,145,1970)
+#REFERENCE  Nucl.Phys.A 153 (1970) 145
+#DATASETS   0
+#
+#DATASET    F0910006 
+#DATE       20101028
+#REACTION   20-CA-40(D,EL)20-CA-40,,DA
+#PROJ       1002
+#TARG       20040
+#MF         4
+#MT         2
+#PRODUCT    20-CA-40
+#C4BEGIN    [ 1002 20040   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 20040   4   2  C 1.2000+7          2.882000 0.144000 0.934204                              G.Brown+             (70)F0910  6 
+ 1002 20040   4   2  C 1.2000+7          0.475000 0.024000 0.877146                              G.Brown+             (70)F0910  6 
+ 1002 20040   4   2  C 1.2000+7          0.101000 5.0000-3 0.803857                              G.Brown+             (70)F0910  6 
+ 1002 20040   4   2  C 1.2000+7          0.091500 4.6000-3 0.715693                              G.Brown+             (70)F0910  6 
+ 1002 20040   4   2  C 1.2000+7          0.064300 3.2000-3 0.615661                              G.Brown+             (70)F0910  6 
+#/DATA      5
+#/DATASET

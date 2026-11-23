@@ -1,0 +1,33 @@
+#ENTRY      F0978
+#AUTHOR1    E.A.Romanovskii+
+#YEAR       1977
+#INSTITUTE  (4RUSMOS)
+#TITLE      Scattering of Ep~6 MeV protons by 50Cr and 52Cr
+#AUTHOR(S)  E.A.Romanovskii, T.I.Spasskaya, E.I.Sirotinin, K.S.Shishkin, 
+#+          Z.F.Kalacheva, V.B.Gubin
+#REF-CODE   (J,IZV,41,211,1977)
+#REFERENCE  Izv.Ross.AN,Fiz. 41 (1977) 211
+#DATASETS   0
+#
+#DATASET    F0978003 
+#DATE       20160423
+#REACTION   24-CR-52(P,EL)24-CR-52,,DA
+#PROJ       1001
+#TARG       24052
+#MF         4
+#MT         2
+#PRODUCT    24-CR-52
+#C4BEGIN    [ 1001 24052   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24052   4   2    5992000.          0.045810 2.2905-3 6.123-17                              E.A.Romanovskii+     (77)F0978  3 
+ 1001 24052   4   2    6030000.          0.045160 2.2580-3 6.123-17                              E.A.Romanovskii+     (77)F0978  3 
+ 1001 24052   4   2    6061000.          0.044360 2.2180-3 6.123-17                              E.A.Romanovskii+     (77)F0978  3 
+ 1001 24052   4   2    6092000.          0.043550 2.1775-3 6.123-17                              E.A.Romanovskii+     (77)F0978  3 
+ 1001 24052   4   2    6121000.          0.042580 2.1290-3 6.123-17                              E.A.Romanovskii+     (77)F0978  3 
+ 1001 24052   4   2    6157000.          0.041450 2.0725-3 6.123-17                              E.A.Romanovskii+     (77)F0978  3 
+ 1001 24052   4   2    6187000.          0.038230 1.9115-3 6.123-17                              E.A.Romanovskii+     (77)F0978  3 
+ 1001 24052   4   2    6218000.          0.032260 1.6130-3 6.123-17                              E.A.Romanovskii+     (77)F0978  3 
+#/DATA      8
+#/DATASET

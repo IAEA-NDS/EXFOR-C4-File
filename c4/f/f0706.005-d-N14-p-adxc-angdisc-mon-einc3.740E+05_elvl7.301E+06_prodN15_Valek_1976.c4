@@ -1,0 +1,35 @@
+#ENTRY      F0706
+#AUTHOR1    A.Valek+
+#YEAR       1976
+#INSTITUTE  (3HUNDEB)
+#TITLE      A study of the 14N(d,p)15N reaction at low bombarding
+#+          energies.
+#AUTHOR(S)  A.Valek, T.Vertse, B.Schlenk, I.Hunyadi
+#REF-CODE   (J,NP/A,270,200,1976)
+#REFERENCE  Nucl.Phys.A 270 (1976) 200
+#DATASETS   0
+#
+#DATASET    F0706005 
+#DATE       20050726
+#REACTION   7-N-14(D,P)7-N-15,PAR,DA
+#PROJ       1002
+#TARG       7014
+#MF         4
+#MT         600
+#PRODUCT    7-N-15
+#C4BEGIN    [ 1002  7014   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  7014   4 600  C 374000.0          4.5925-5 1.9833-6 0.915136          7300800.         LVLA.Valek+             (76)F0706  5 
+ 1002  7014   4 600  C 374000.0          4.0045-5 2.6444-6 0.845951          7300800.         LVLA.Valek+             (76)F0706  5 
+ 1002  7014   4 600  C 374000.0          2.6285-5 2.6444-6 0.679364          7300800.         LVLA.Valek+             (76)F0706  5 
+ 1002  7014   4 600  C 374000.0          2.0465-5 1.9833-6 0.457579          7300800.         LVLA.Valek+             (76)F0706  5 
+ 1002  7014   4 600  C 374000.0          2.3227-5 2.6498-6 0.225444          7300800.         LVLA.Valek+             (76)F0706  5 
+ 1002  7014   4 600  C 374000.0          3.3934-5 2.6444-6-0.041928          7300800.         LVLA.Valek+             (76)F0706  5 
+ 1002  7014   4 600  C 374000.0          5.4552-5 2.6444-6-0.294207          7300800.         LVLA.Valek+             (76)F0706  5 
+ 1002  7014   4 600  C 374000.0          6.2598-5 2.6444-6-0.509342          7300800.         LVLA.Valek+             (76)F0706  5 
+ 1002  7014   4 600  C 374000.0          7.7271-5 3.3055-6-0.719582          7300800.         LVLA.Valek+             (76)F0706  5 
+ 1002  7014   4 600  C 374000.0          9.1267-5 3.3001-6-0.861541          7300800.         LVLA.Valek+             (76)F0706  5 
+#/DATA      10
+#/DATASET

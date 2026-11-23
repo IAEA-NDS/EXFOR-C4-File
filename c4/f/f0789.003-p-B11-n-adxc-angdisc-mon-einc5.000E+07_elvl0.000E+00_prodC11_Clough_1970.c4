@@ -1,0 +1,31 @@
+#ENTRY      F0789
+#AUTHOR1    A.S.Clough+
+#YEAR       1970
+#INSTITUTE  (2UK QML)
+#TITLE      A microscopic analysis of the (p,n) reaction on 1p-
+#+          shell nuclei.
+#AUTHOR(S)  A.S.Clough, C.J.Batty, B.E.Bonner, L.E.Williams
+#REF-CODE   (J,NP/A,143,385,1970)
+#REFERENCE  Nucl.Phys.A 143 (1970) 385
+#DATASETS   0
+#
+#DATASET    F0789003 
+#DATE       20130530
+#REACTION   5-B-11(P,N)6-C-11,PAR,DA
+#PROJ       1001
+#TARG       5011
+#MF         4
+#MT         50
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1001  5011   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5011   4  50  C 5.0000+7          0.012540 2.6600-3 0.999091          0.000000         LVLA.S.Clough+          (70)F0789  3 
+ 1001  5011   4  50  C 5.0000+7          8.5310-3 1.9110-3 0.981020          0.000000         LVLA.S.Clough+          (70)F0789  3 
+ 1001  5011   4  50  C 5.0000+7          4.1310-3 9.0900-4 0.926397          0.000000         LVLA.S.Clough+          (70)F0789  3 
+ 1001  5011   4  50  C 5.0000+7          2.1700-3 5.1970-4 0.839895          0.000000         LVLA.S.Clough+          (70)F0789  3 
+ 1001  5011   4  50  C 5.0000+7          1.6920-3 4.5660-4 0.724677          0.000000         LVLA.S.Clough+          (70)F0789  3 
+ 1001  5011   4  50  C 5.0000+7          1.0190-3 2.2830-4 0.578968          0.000000         LVLA.S.Clough+          (70)F0789  3 
+#/DATA      6
+#/DATASET

@@ -1,0 +1,30 @@
+#ENTRY      F1020
+#AUTHOR1    E.D.Teterin+
+#YEAR       1969
+#INSTITUTE  (4RUSRI)
+#TITLE      The (d,a) reaction on 32S and 40Ca.
+#AUTHOR(S)  E.D.Teterin, A.E.Denisov, R.P.Kolalis, Yu.A.Nemilov, V.F.Pomytkin, 
+#+          V.S.Romanov, V.S.Sadkovskij
+#REF-CODE   (J,IZV,33,1350,1969)
+#REFERENCE  Izv.Ross.AN,Fiz. 33 (1969) 1350
+#DATASETS   0
+#
+#DATASET    F1020002 
+#DATE       20090925
+#REACTION   16-S-32(D,A)15-P-30,PAR,DA
+#PROJ       1002
+#TARG       16032
+#MF         4
+#MT         800
+#PRODUCT    15-P-30
+#C4BEGIN    [ 1002 16032   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 16032   4 800  C 7000000.          1.3729-4 2.7458-5-0.294708          2724000.         LVLE.D.Teterin+         (69)F1020  2 
+ 1002 16032   4 800  C 7000000.          1.8998-4 3.7996-5-0.630947          2724000.         LVLE.D.Teterin+         (69)F1020  2 
+ 1002 16032   4 800  C 7000000.          3.1342-4 6.2684-5-0.735270          2724000.         LVLE.D.Teterin+         (69)F1020  2 
+ 1002 16032   4 800  C 7000000.          3.9117-4 7.8234-5-0.829135          2724000.         LVLE.D.Teterin+         (69)F1020  2 
+ 1002 16032   4 800  C 7000000.          3.2501-4 6.5002-5-0.965062          2724000.         LVLE.D.Teterin+         (69)F1020  2 
+#/DATA      5
+#/DATASET

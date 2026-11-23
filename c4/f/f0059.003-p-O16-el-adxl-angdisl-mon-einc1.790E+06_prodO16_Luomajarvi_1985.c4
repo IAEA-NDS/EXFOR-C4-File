@@ -1,0 +1,35 @@
+#ENTRY      F0059
+#AUTHOR1    M.Luomajarvi+
+#YEAR       1985
+#INSTITUTE  (2SF HLS)
+#TITLE      Oxygen detection by non-rutherford proton
+#+          backscattering below 2.5 MeV.
+#AUTHOR(S)  M.Luomajarvi, E.Rauhala, M.Hautala
+#REF-CODE   (J,NIM/B,9,255,1985)
+#REFERENCE  Nucl.Instrum.Meth.B 9 (1985) 255
+#DATASETS   0
+#
+#DATASET    F0059003 
+#DATE       20041123
+#REACTION   8-O-16(P,EL)8-O-16,,DA,,RTH
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         2
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  8016   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4   2    1790000.          0.204684          0.165753                              M.Luomajarvi+        (85)F0059  3 
+ 1001  8016   4   2    1790000.          0.168235         -3.8921-3                              M.Luomajarvi+        (85)F0059  3 
+ 1001  8016   4   2    1790000.          0.145317 6.9602-3-0.173373                              M.Luomajarvi+        (85)F0059  3 
+ 1001  8016   4   2    1790000.          0.134204         -0.344807                              M.Luomajarvi+        (85)F0059  3 
+ 1001  8016   4   2    1790000.          0.117541 3.8534-3-0.502266                              M.Luomajarvi+        (85)F0059  3 
+ 1001  8016   4   2    1790000.          0.106714         -0.644657                              M.Luomajarvi+        (85)F0059  3 
+ 1001  8016   4   2    1790000.          0.098484         -0.767501                              M.Luomajarvi+        (85)F0059  3 
+ 1001  8016   4   2    1790000.          0.092702         -0.839525                              M.Luomajarvi+        (85)F0059  3 
+ 1001  8016   4   2    1790000.          0.086064 2.7642-3-0.940466                              M.Luomajarvi+        (85)F0059  3 
+ 1001  8016   4   2    1790000.          0.086147         -0.985821                              M.Luomajarvi+        (85)F0059  3 
+#/DATA      10
+#/DATASET

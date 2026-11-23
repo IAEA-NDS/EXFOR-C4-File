@@ -1,0 +1,35 @@
+#ENTRY      F0536
+#AUTHOR1    D.Bucurescu+
+#YEAR       2000
+#INSTITUTE  (3RUMBUC)
+#TITLE      Study of Te-121 with the (d,t) reaction.
+#AUTHOR(S)  D.Bucurescu, T.von Egidy, H.-F.Wirth, N.Marginean, U.Koster, 
+#+          W.Schauer, I.Tomandl, G.Graw, A.Metz, R.Hertenberger, Y.Eisermann
+#REF-CODE   (J,NP/A,672,21,2000)
+#REFERENCE  Nucl.Phys.A 672 (2000) 21
+#DATASETS   0
+#
+#DATASET    F0536003 
+#DATE       20050526
+#REACTION   52-TE-122(D,T)52-TE-121,PAR,DA
+#PROJ       1002
+#TARG       52122
+#MF         4
+#MT         700
+#PRODUCT    52-TE-121
+#C4BEGIN    [ 1002 52122   4 700 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 52122   4 700 AC 2.4000+7 3500.000 7.9000-6 1.0400-6 0.990983          887000.0         LVLD.Bucurescu+         (00)F0536  3 
+ 1002 52122   4 700 AC 2.4000+7 3500.000 7.5900-6 1.0000-6 0.984196          887000.0         LVLD.Bucurescu+         (00)F0536  3 
+ 1002 52122   4 700 AC 2.4000+7 3500.000 3.9500-6 7.3800-7 0.975149          887000.0         LVLD.Bucurescu+         (00)F0536  3 
+ 1002 52122   4 700 AC 2.4000+7 3500.000 4.4600-6 7.7600-7 0.964557          887000.0         LVLD.Bucurescu+         (00)F0536  3 
+ 1002 52122   4 700 AC 2.4000+7 3500.000 3.5900-6 6.3900-7 0.951594          887000.0         LVLD.Bucurescu+         (00)F0536  3 
+ 1002 52122   4 700 AC 2.4000+7 3500.000 4.5600-6 5.2200-7 0.937282          887000.0         LVLD.Bucurescu+         (00)F0536  3 
+ 1002 52122   4 700 AC 2.4000+7 3500.000 4.4400-6 4.5100-7 0.901833          887000.0         LVLD.Bucurescu+         (00)F0536  3 
+ 1002 52122   4 700 AC 2.4000+7 3500.000 3.6500-6 4.1500-7 0.859852          887000.0         LVLD.Bucurescu+         (00)F0536  3 
+ 1002 52122   4 700 AC 2.4000+7 3500.000 2.3100-6 2.7600-7 0.812084          887000.0         LVLD.Bucurescu+         (00)F0536  3 
+ 1002 52122   4 700 AC 2.4000+7 3500.000 2.1300-6 2.5600-7 0.756995          887000.0         LVLD.Bucurescu+         (00)F0536  3 
+#/DATA      10
+#/DATASET

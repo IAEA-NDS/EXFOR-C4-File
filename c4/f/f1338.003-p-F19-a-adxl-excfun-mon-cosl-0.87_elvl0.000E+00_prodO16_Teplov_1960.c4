@@ -1,0 +1,35 @@
+#ENTRY      F1338
+#AUTHOR1    I.B.Teplov+
+#YEAR       1960
+#INSTITUTE  (4RUSMOS)
+#TITLE      Angular distribution of alpha-particles produced in
+#+          the reaction 19F(p,a)16O.
+#AUTHOR(S)  I.B.Teplov, O.P.Shevchenko, E.K.Ruuge
+#REF-CODE   (J,ZET,39,923,1960)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 39 (1960) 923
+#DATASETS   0
+#
+#DATASET    F1338003 
+#DATE       20180705
+#REACTION   9-F-19(P,A)8-O-16,PAR,DA
+#PROJ       1001
+#TARG       9019
+#MF         4
+#MT         800
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  9019   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  9019   4 800    5082200. 50000.00 1.2376-4         -0.866025          0.000000         LVLI.B.Teplov+          (60)F1338  3 
+ 1001  9019   4 800    5237900. 50000.00 1.1665-4         -0.866025          0.000000         LVLI.B.Teplov+          (60)F1338  3 
+ 1001  9019   4 800    5378600. 50000.00 1.7849-4         -0.866025          0.000000         LVLI.B.Teplov+          (60)F1338  3 
+ 1001  9019   4 800    5521100. 50000.00 3.9651-4         -0.866025          0.000000         LVLI.B.Teplov+          (60)F1338  3 
+ 1001  9019   4 800    5666900. 50000.00 6.8400-4         -0.866025          0.000000         LVLI.B.Teplov+          (60)F1338  3 
+ 1001  9019   4 800    5815400. 50000.00 8.1835-4         -0.866025          0.000000         LVLI.B.Teplov+          (60)F1338  3 
+ 1001  9019   4 800    5960900. 50000.00 6.1435-4         -0.866025          0.000000         LVLI.B.Teplov+          (60)F1338  3 
+ 1001  9019   4 800    6233200. 50000.00 8.6210-4         -0.866025          0.000000         LVLI.B.Teplov+          (60)F1338  3 
+ 1001  9019   4 800    6367100. 50000.00 9.2375-4         -0.866025          0.000000         LVLI.B.Teplov+          (60)F1338  3 
+ 1001  9019   4 800    6528500. 50000.00 5.9589-4         -0.866025          0.000000         LVLI.B.Teplov+          (60)F1338  3 
+#/DATA      10
+#/DATASET

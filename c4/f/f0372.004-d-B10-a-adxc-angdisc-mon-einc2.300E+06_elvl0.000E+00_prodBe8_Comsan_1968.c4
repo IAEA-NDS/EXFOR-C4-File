@@ -1,0 +1,40 @@
+#ENTRY      F0372
+#AUTHOR1    M.N.H.Comsan+
+#YEAR       1968
+#INSTITUTE  (3EGYCAI)
+#TITLE      Studies of the (d,alpha) reaction on the 10B and 11B
+#+          nuclei in the deuteron energy range (0.8 to 2.5 MeV)
+#AUTHOR(S)  M.N.H.Comsan, M.A.Farouk, A.A.El-Kamhawy, M.S.M.El-Tahawy, 
+#+          A.N.Lvov
+#REF-CODE   (J,AKE,13,415,1968)
+#REFERENCE  Atomkernenergie 13 (1968) 415
+#DATASETS   0
+#
+#DATASET    F0372004 
+#DATE       20220601
+#REACTION   5-B-10(D,A)4-BE-8,PAR,DA
+#PROJ       1002
+#TARG       5010
+#MF         4
+#MT         800
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 1002  5010   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5010   4 800  C 2300000.          5.3000-4 5.6000-5 0.916363          0.000000         LVLM.N.H.Comsan+        (68)F0372  4 
+ 1002  5010   4 800  C 2300000.          4.9300-4 3.8000-5 0.841511          0.000000         LVLM.N.H.Comsan+        (68)F0372  4 
+ 1002  5010   4 800  C 2300000.          4.7500-4 3.8000-5 0.746638          0.000000         LVLM.N.H.Comsan+        (68)F0372  4 
+ 1002  5010   4 800  C 2300000.          4.5700-4 3.8000-5 0.632029          0.000000         LVLM.N.H.Comsan+        (68)F0372  4 
+ 1002  5010   4 800  C 2300000.          4.5800-4 5.6000-5 0.446198          0.000000         LVLM.N.H.Comsan+        (68)F0372  4 
+ 1002  5010   4 800  C 2300000.          5.5400-4 5.6000-5 0.116671          0.000000         LVLM.N.H.Comsan+        (68)F0372  4 
+ 1002  5010   4 800  C 2300000.          6.3100-4 5.7000-5-0.040132          0.000000         LVLM.N.H.Comsan+        (68)F0372  4 
+ 1002  5010   4 800  C 2300000.          7.6400-4 5.7000-5-0.224951          0.000000         LVLM.N.H.Comsan+        (68)F0372  4 
+ 1002  5010   4 800  C 2300000.          9.1500-4 5.7000-5-0.343660          0.000000         LVLM.N.H.Comsan+        (68)F0372  4 
+ 1002  5010   4 800  C 2300000.          1.1430-3 1.2000-5-0.538771          0.000000         LVLM.N.H.Comsan+        (68)F0372  4 
+ 1002  5010   4 800  C 2300000.          1.2560-3 3.8000-5-0.662620          0.000000         LVLM.N.H.Comsan+        (68)F0372  4 
+ 1002  5010   4 800  C 2300000.          1.2390-3 5.7000-5-0.792290          0.000000         LVLM.N.H.Comsan+        (68)F0372  4 
+ 1002  5010   4 800  C 2300000.          1.1080-3 3.7000-5-0.894154          0.000000         LVLM.N.H.Comsan+        (68)F0372  4 
+ 1002  5010   4 800  C 2300000.          7.8800-4 5.6000-5-0.944949          0.000000         LVLM.N.H.Comsan+        (68)F0372  4 
+#/DATA      14
+#/DATASET

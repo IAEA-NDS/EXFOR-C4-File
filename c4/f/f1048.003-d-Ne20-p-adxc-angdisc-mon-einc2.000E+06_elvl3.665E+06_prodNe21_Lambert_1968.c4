@@ -1,0 +1,37 @@
+#ENTRY      F1048
+#AUTHOR1    M.Lambert+
+#YEAR       1968
+#INSTITUTE  (3ALGCDT)
+#TITLE      20Ne(d, p)21Ne and the excited condition 21Ne.
+#AUTHOR(S)  M.Lambert, G.Dumazet, H.Beaumevieille, A.Tellez, C.Meynadier, 
+#+          P.Midy, N.V.Sen
+#REF-CODE   (J,NP/A,112,161,1968)
+#REFERENCE  Nucl.Phys.A 112 (1968) 161
+#DATASETS   0
+#
+#DATASET    F1048003 
+#DATE       20200415
+#REACTION   10-NE-20(D,P)10-NE-21,PAR,DA
+#PROJ       1002
+#TARG       10020
+#MF         4
+#MT         600
+#PRODUCT    10-NE-21
+#C4BEGIN    [ 1002 10020   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 10020   4 600  C 2000000.          6.4800-4          0.778243          3665000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 2000000.          7.7000-4          0.649448          3665000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 2000000.          8.2700-4          0.535827          3665000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 2000000.          7.2900-4          0.398749          3665000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 2000000.          7.4600-4          0.238533          3665000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 2000000.          5.9700-4         -0.026177          3665000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 2000000.          5.3200-4         -0.026177          3665000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 2000000.          5.5600-4         -0.078459          3665000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 2000000.          5.6600-4         -0.238533          3665000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 2000000.          6.3100-4         -0.392337          3665000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 2000000.          6.7100-4         -0.763796          3665000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 2000000.          6.7800-4         -0.834848          3665000.         LVLM.Lambert+           (68)F1048  3 
+#/DATA      12
+#/DATASET

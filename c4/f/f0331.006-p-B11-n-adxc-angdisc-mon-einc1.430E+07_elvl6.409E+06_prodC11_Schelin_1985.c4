@@ -1,0 +1,34 @@
+#ENTRY      F0331
+#AUTHOR1    H.R.Schelin+
+#YEAR       1985
+#INSTITUTE  (3BZLUSP)
+#TITLE      The 10,11B(p,n)10,11C reactions between E(p)=13.7 and
+#+          14.7 MeV
+#AUTHOR(S)  H.R.Schelin, E.Farrelly Pessoa, W.R.Wylie, J.L.Cardoso Jr, 
+#+          R.A.Douglas
+#REF-CODE   (J,NSE,89,87,1985)
+#REFERENCE  Nucl.Sci.Eng. 89 (1985) 87
+#DATASETS   0
+#
+#DATASET    F0331006 
+#DATE       20210629
+#REACTION   5-B-11(P,N)6-C-11,PAR,DA
+#PROJ       1001
+#TARG       5011
+#MF         4
+#MT         50
+#PRODUCT    6-C-11
+#C4BEGIN    [ 1001  5011   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  5011   4  50  C 1.4300+7          1.3600-3 2.9600-4 0.830984          6409000. 69000.00LVLH.R.Schelin+         (85)F0331  6 
+ 1001  5011   4  50  C 1.4300+7          1.3200-3          0.718126          6409000. 69000.00LVLH.R.Schelin+         (85)F0331  6 
+ 1001  5011   4  50  C 1.4300+7          1.0800-3          0.554844          6409000. 69000.00LVLH.R.Schelin+         (85)F0331  6 
+ 1001  5011   4  50  C 1.4300+7          9.6800-4          0.368125          6409000. 69000.00LVLH.R.Schelin+         (85)F0331  6 
+ 1001  5011   4  50  C 1.4300+7          9.9600-4          0.223250          6409000. 69000.00LVLH.R.Schelin+         (85)F0331  6 
+ 1001  5011   4  50  C 1.4300+7          9.9600-4          0.013962          6409000. 69000.00LVLH.R.Schelin+         (85)F0331  6 
+ 1001  5011   4  50  C 1.4300+7          9.4200-4         -0.137445          6409000. 69000.00LVLH.R.Schelin+         (85)F0331  6 
+ 1001  5011   4  50  C 1.4300+7          1.1200-3 2.0600-4-0.312335          6409000. 69000.00LVLH.R.Schelin+         (85)F0331  6 
+#/DATA      8
+#/DATASET

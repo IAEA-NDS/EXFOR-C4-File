@@ -1,0 +1,38 @@
+#ENTRY      F1307
+#AUTHOR1    V.I.Yurevich+
+#YEAR       2006
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Neutron emission in interactions of H-1, H-2, He-4,
+#+          and C-12 nuclei with lead nuclei at 1 to 2 GeV per
+#+          nucleon.
+#AUTHOR(S)  V.I.Yurevich, R.M.Yakovlev, V.G.Lyapin
+#REF-CODE   (J,YF,69,(9),1531,2006)
+#REFERENCE  Yad.Fiz. 69 No.9 (2006) 1531
+#DATASETS   0
+#
+#DATASET    F1307002 
+#DATE       20170112
+#REACTION   82-PB-0(D,X)0-NN-1,,DA/DE
+#PROJ       1002
+#TARG       82000
+#MF         6
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1002 82000   6 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 82000   6 201    2.0000+9          5.0365-7          0.500000          622000.0          E2V.I.Yurevich+        (06)F1307  2 
+ 1002 82000   6 201    2.0000+9          5.3391-7          0.500000          720000.0          E2V.I.Yurevich+        (06)F1307  2 
+ 1002 82000   6 201    2.0000+9          6.3599-7          0.500000          847000.0          E2V.I.Yurevich+        (06)F1307  2 
+ 1002 82000   6 201    2.0000+9          6.2379-7          0.500000          996000.0          E2V.I.Yurevich+        (06)F1307  2 
+ 1002 82000   6 201    2.0000+9          5.4449-7          0.500000          1171000.          E2V.I.Yurevich+        (06)F1307  2 
+ 1002 82000   6 201    2.0000+9          4.9411-7          0.500000          1356000.          E2V.I.Yurevich+        (06)F1307  2 
+ 1002 82000   6 201    2.0000+9          5.0383-7          0.500000          1571000.          E2V.I.Yurevich+        (06)F1307  2 
+ 1002 82000   6 201    2.0000+9          4.3978-7          0.500000          1820000.          E2V.I.Yurevich+        (06)F1307  2 
+ 1002 82000   6 201    2.0000+9          3.8388-7          0.500000          2172000.          E2V.I.Yurevich+        (06)F1307  2 
+ 1002 82000   6 201    2.0000+9          2.5529-7          0.500000          2958000.          E2V.I.Yurevich+        (06)F1307  2 
+ 1002 82000   6 201    2.0000+9          2.3621-7          0.500000          3478000.          E2V.I.Yurevich+        (06)F1307  2 
+ 1002 82000   6 201    2.0000+9          1.5708-7          0.500000          4030000.          E2V.I.Yurevich+        (06)F1307  2 
+#/DATA      12
+#/DATASET

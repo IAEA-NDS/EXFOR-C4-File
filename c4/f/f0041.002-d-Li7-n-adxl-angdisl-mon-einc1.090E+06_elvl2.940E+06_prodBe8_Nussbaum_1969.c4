@@ -1,0 +1,35 @@
+#ENTRY      F0041
+#AUTHOR1    C.Nussbaum+
+#YEAR       1969
+#INSTITUTE  (2SWTNEU)
+#TITLE      Effects of the interference in the reactions
+#+          7Li(d,n)8Be near 1 MeV resonance.
+#AUTHOR(S)  C.Nussbaum
+#REF-CODE   (J,HPA,42,361,1969)
+#REFERENCE  Helv.Phys.Acta 42 (1969) 361
+#DATASETS   0
+#
+#DATASET    F0041002 
+#DATE       20200129
+#REACTION   3-LI-7(D,N)4-BE-8,PAR,DA
+#PROJ       1002
+#TARG       3007
+#MF         4
+#MT         50
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 1002  3007   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3007   4  50    1090000.          0.017820 2.0680-3 0.998719          2940000.         LVLC.Nussbaum           (69)F0041  2 
+ 1002  3007   4  50    1090000.          0.017070 1.9550-3 0.958820          2940000.         LVLC.Nussbaum           (69)F0041  2 
+ 1002  3007   4  50    1090000.          0.017470 1.8400-3 0.851727          2940000.         LVLC.Nussbaum           (69)F0041  2 
+ 1002  3007   4  50    1090000.          0.016720 1.8400-3 0.675590          2940000.         LVLC.Nussbaum           (69)F0041  2 
+ 1002  3007   4  50    1090000.          0.016080 2.0670-3 0.464842          2940000.         LVLC.Nussbaum           (69)F0041  2 
+ 1002  3007   4  50    1090000.          0.014750 1.9530-3 0.223250          2940000.         LVLC.Nussbaum           (69)F0041  2 
+ 1002  3007   4  50    1090000.          0.013080 2.2970-3-0.013962          2940000.         LVLC.Nussbaum           (69)F0041  2 
+ 1002  3007   4  50    1090000.          0.011410 1.8380-3-0.263873          2940000.         LVLC.Nussbaum           (69)F0041  2 
+ 1002  3007   4  50    1090000.          9.2750-3 1.8370-3-0.490904          2940000.         LVLC.Nussbaum           (69)F0041  2 
+ 1002  3007   4  50    1090000.          9.0980-3 1.4940-3-0.695913          2940000.         LVLC.Nussbaum           (69)F0041  2 
+#/DATA      10
+#/DATASET

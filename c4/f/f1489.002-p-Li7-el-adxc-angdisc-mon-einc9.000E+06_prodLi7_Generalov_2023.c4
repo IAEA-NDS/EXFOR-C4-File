@@ -1,0 +1,47 @@
+#ENTRY      F1489
+#AUTHOR1    L.N.Generalov+
+#YEAR       2023
+#INSTITUTE  (4RUSEPA)
+#TITLE      Optical model analysis of proton elastic scattering
+#+          on 7Li nucleus with resonant part
+#AUTHOR(S)  L.N.Generalov, V.A.Zherebtsov, S.M.Selyankina
+#REF-CODE   (J,BAS,87,1899,2023)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 87 (2023) 1899
+#DATASETS   0
+#
+#DATASET    F1489002 
+#DATE       20231208
+#REACTION   3-LI-7(P,EL)3-LI-7,,DA
+#PROJ       1001
+#TARG       3007
+#MF         4
+#MT         2
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1001  3007   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3007   4   2 AC 9000000.          0.341000 0.039761 0.878817                              L.N.Generalov+       (23)F1489  2 
+ 1001  3007   4   2 AC 9000000.          0.235000 0.024652 0.828060                              L.N.Generalov+       (23)F1489  2 
+ 1001  3007   4   2 AC 9000000.          0.210000 0.018585 0.769400                              L.N.Generalov+       (23)F1489  2 
+ 1001  3007   4   2 AC 9000000.          0.181000 0.014987 0.703395                              L.N.Generalov+       (23)F1489  2 
+ 1001  3007   4   2 AC 9000000.          0.125000 9.3750-3 0.632029                              L.N.Generalov+       (23)F1489  2 
+ 1001  3007   4   2 AC 9000000.          0.077200 5.8363-3 0.554844                              L.N.Generalov+       (23)F1489  2 
+ 1001  3007   4   2 AC 9000000.          0.054000 3.9528-3 0.474088                              L.N.Generalov+       (23)F1489  2 
+ 1001  3007   4   2 AC 9000000.          0.023500 1.6215-3 0.213030                              L.N.Generalov+       (23)F1489  2 
+ 1001  3007   4   2 AC 9000000.          0.023100 1.8503-3 0.123601                              L.N.Generalov+       (23)F1489  2 
+ 1001  3007   4   2 AC 9000000.          0.026900 2.0336-3-0.055822                              L.N.Generalov+       (23)F1489  2 
+ 1001  3007   4   2 AC 9000000.          0.026600 1.9179-3-0.142629                              L.N.Generalov+       (23)F1489  2 
+ 1001  3007   4   2 AC 9000000.          0.025500 1.7723-3-0.228351                              L.N.Generalov+       (23)F1489  2 
+ 1001  3007   4   2 AC 9000000.          0.026600 2.1652-3-0.310676                              L.N.Generalov+       (23)F1489  2 
+ 1001  3007   4   2 AC 9000000.          0.025100 1.8825-3-0.389124                              L.N.Generalov+       (23)F1489  2 
+ 1001  3007   4   2 AC 9000000.          0.025800 1.8757-3-0.464842                              L.N.Generalov+       (23)F1489  2 
+ 1001  3007   4   2 AC 9000000.          0.025300 1.7583-3-0.535827                              L.N.Generalov+       (23)F1489  2 
+ 1001  3007   4   2 AC 9000000.          0.023800 1.7707-3-0.603208                              L.N.Generalov+       (23)F1489  2 
+ 1001  3007   4   2 AC 9000000.          0.021400 1.5322-3-0.665230                              L.N.Generalov+       (23)F1489  2 
+ 1001  3007   4   2 AC 9000000.          0.021000 1.5876-3-0.722967                              L.N.Generalov+       (23)F1489  2 
+ 1001  3007   4   2 AC 9000000.          0.018800 1.3668-3-0.899558                              L.N.Generalov+       (23)F1489  2 
+ 1001  3007   4   2 AC 9000000.          0.019400 1.4317-3-0.929776                              L.N.Generalov+       (23)F1489  2 
+ 1001  3007   4   2 AC 9000000.          0.019900 1.5044-3-0.955278                              L.N.Generalov+       (23)F1489  2 
+#/DATA      22
+#/DATASET

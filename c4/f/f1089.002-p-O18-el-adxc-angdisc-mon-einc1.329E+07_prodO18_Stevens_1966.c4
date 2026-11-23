@@ -1,0 +1,36 @@
+#ENTRY      F1089
+#AUTHOR1    J.Stevens+
+#YEAR       1966
+#INSTITUTE  (1USALRL)
+#TITLE      Elastic and inelastic scattering of protons by O-18.
+#AUTHOR(S)  J.Stevens, H.F.Lutz, S.F.Eccles
+#REF-CODE   (J,NP,76,129,1966)
+#REFERENCE  Nucl.Phys. 76 (1966) 129
+#DATASETS   0
+#
+#DATASET    F1089002 
+#DATE       20101008
+#REACTION   8-O-18(P,EL)8-O-18,,DA
+#PROJ       1001
+#TARG       8018
+#MF         4
+#MT         2
+#PRODUCT    8-O-18
+#C4BEGIN    [ 1001  8018   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8018   4   2  C 1.3290+7          0.757500 0.088874 0.955356                              J.Stevens+           (66)F1089  2 
+ 1001  8018   4   2  C 1.3290+7          0.176500 0.023468 0.852293                              J.Stevens+           (66)F1089  2 
+ 1001  8018   4   2  C 1.3290+7          0.026023 2.6535-3 0.770491                              J.Stevens+           (66)F1089  2 
+ 1001  8018   4   2  C 1.3290+7          7.4667-3 6.4802-4 0.681066                              J.Stevens+           (66)F1089  2 
+ 1001  8018   4   2  C 1.3290+7          0.010857 7.7968-4 0.518818                              J.Stevens+           (66)F1089  2 
+ 1001  8018   4   2  C 1.3290+7          0.026373 2.2875-3 0.364389                              J.Stevens+           (66)F1089  2 
+ 1001  8018   4   2  C 1.3290+7          0.030714 2.2058-3 0.178751                              J.Stevens+           (66)F1089  2 
+ 1001  8018   4   2  C 1.3290+7          0.034793 3.5465-3 0.012566                              J.Stevens+           (66)F1089  2 
+ 1001  8018   4   2  C 1.3290+7          7.8843-3 9.2530-4-0.311008                              J.Stevens+           (66)F1089  2 
+ 1001  8018   4   2  C 1.3290+7          4.7186-3 4.8125-4-0.432086                              J.Stevens+           (66)F1089  2 
+ 1001  8018   4   2  C 1.3290+7          3.3354-3 3.9124-4-0.571716                              J.Stevens+           (66)F1089  2 
+ 1001  8018   4   2  C 1.3290+7          5.5708-3 4.8348-4-0.770958                              J.Stevens+           (66)F1089  2 
+#/DATA      12
+#/DATASET

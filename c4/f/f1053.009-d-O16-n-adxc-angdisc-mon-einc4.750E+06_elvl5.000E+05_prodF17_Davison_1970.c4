@@ -1,0 +1,37 @@
+#ENTRY      F1053
+#AUTHOR1    N.E.Davison+
+#YEAR       1970
+#INSTITUTE  (1CANALA)
+#TITLE      Reaction mechanism of the O-16 + d reactions.
+#AUTHOR(S)  N.E.Davison, W.K.Dawson, G.Roy, W.J.McDonald
+#REF-CODE   (J,CJP,48,2235,1970)
+#REFERENCE  Can.J.Phys. 48 (1970) 2235
+#DATASETS   0
+#
+#DATASET    F1053009 
+#DATE       20100210
+#REACTION   8-O-16(D,N)9-F-17,PAR,DA
+#PROJ       1002
+#TARG       8016
+#MF         4
+#MT         50
+#PRODUCT    9-F-17
+#C4BEGIN    [ 1002  8016   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  8016   4  50  C 4750000.          0.127340 8.1156-3 0.999701          500000.0         LVLN.E.Davison+         (70)F1053  9 
+ 1002  8016   4  50  C 4750000.          0.094620          0.984525          500000.0         LVLN.E.Davison+         (70)F1053  9 
+ 1002  8016   4  50  C 4750000.          0.047346          0.934720          500000.0         LVLN.E.Davison+         (70)F1053  9 
+ 1002  8016   4  50  C 4750000.          0.016762 1.0683-3 0.846035          500000.0         LVLN.E.Davison+         (70)F1053  9 
+ 1002  8016   4  50  C 4750000.          0.012609          0.714057          500000.0         LVLN.E.Davison+         (70)F1053  9 
+ 1002  8016   4  50  C 4750000.          0.015744          0.579964          500000.0         LVLN.E.Davison+         (70)F1053  9 
+ 1002  8016   4  50  C 4750000.          0.014434 1.1108-3 0.405588          500000.0         LVLN.E.Davison+         (70)F1053  9 
+ 1002  8016   4  50  C 4750000.          0.013727          0.065473          500000.0         LVLN.E.Davison+         (70)F1053  9 
+ 1002  8016   4  50  C 4750000.          0.011538         -0.294541          500000.0         LVLN.E.Davison+         (70)F1053  9 
+ 1002  8016   4  50  C 4750000.          0.011114         -0.457253          500000.0         LVLN.E.Davison+         (70)F1053  9 
+ 1002  8016   4  50  C 4750000.          0.010190 6.4942-4-0.575434          500000.0         LVLN.E.Davison+         (70)F1053  9 
+ 1002  8016   4  50  C 4750000.          0.011961         -0.710062          500000.0         LVLN.E.Davison+         (70)F1053  9 
+ 1002  8016   4  50  C 4750000.          0.012719         -0.815330          500000.0         LVLN.E.Davison+         (70)F1053  9 
+#/DATA      13
+#/DATASET

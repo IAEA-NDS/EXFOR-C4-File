@@ -1,0 +1,31 @@
+#ENTRY      F1008
+#AUTHOR1    A.T.Baranik+
+#YEAR       1965
+#INSTITUTE  (3EGYCAI)
+#TITLE      Investigation of the (d,p) reaction on 31P in the
+#+          deuteron energy range 1.3-2.5 MeV.
+#AUTHOR(S)  A.T.Baranik, M.A.Abuzeid, M.I.El-Zaiki, I.I.Zaloubovsky
+#REF-CODE   (J,NP,72,49,1965)
+#REFERENCE  Nucl.Phys. 72 (1965) 49
+#DATASETS   0
+#
+#DATASET    F1008007 
+#DATE       20090701
+#REACTION   15-P-31(D,P)15-P-32,PAR,SIG
+#PROJ       1002
+#TARG       15031
+#MF         3
+#MT         600
+#PRODUCT    15-P-32
+#C4BEGIN    [ 1002 15031   3 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 15031   3 600    1854900.          2.7129-3                            1323000.         LVLA.T.Baranik+         (65)F1008  7 
+ 1002 15031   3 600    2000000.          5.5842-3                            1323000.         LVLA.T.Baranik+         (65)F1008  7 
+ 1002 15031   3 600    2196100.          3.7030-3                            1323000.         LVLA.T.Baranik+         (65)F1008  7 
+ 1002 15031   3 600    2309800.          4.8119-3                            1323000.         LVLA.T.Baranik+         (65)F1008  7 
+ 1002 15031   3 600    2400000.          4.5941-3                            1323000.         LVLA.T.Baranik+         (65)F1008  7 
+ 1002 15031   3 600    2502000.          5.2871-3                            1323000.         LVLA.T.Baranik+         (65)F1008  7 
+#/DATA      6
+#/DATASET

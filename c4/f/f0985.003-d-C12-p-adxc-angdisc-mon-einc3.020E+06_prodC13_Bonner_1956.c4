@@ -1,0 +1,40 @@
+#ENTRY      F0985
+#AUTHOR1    T.W.Bonner+
+#YEAR       1956
+#INSTITUTE  (1USARIC)
+#TITLE      Cross section and angular distributions of the (d,p)
+#+          and (d,n) reactions in 12C from 1.8 to 6.1 MeV.
+#AUTHOR(S)  T.W.Bonner, J.T.Eisinger, A.A.Kraus Jr, J.B.Marion
+#REF-CODE   (J,PR,101,209,1956)
+#REFERENCE  Phys.Rev. 101 (1956) 209
+#DATASETS   0
+#
+#DATASET    F0985003 
+#DATE       20090212
+#REACTION   6-C-12(D,P)6-C-13,,DA
+#PROJ       1002
+#TARG       6012
+#MF         4
+#MT         103
+#PRODUCT    6-C-13
+#C4BEGIN    [ 1002  6012   4 103  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6012   4 103  C 3020000.          0.027970          0.984747                              T.W.Bonner+          (56)F0985  3 
+ 1002  6012   4 103  C 3020000.          0.029231          0.935110                              T.W.Bonner+          (56)F0985  3 
+ 1002  6012   4 103  C 3020000.          0.025712          0.849165                              T.W.Bonner+          (56)F0985  3 
+ 1002  6012   4 103  C 3020000.          0.019891          0.736345                              T.W.Bonner+          (56)F0985  3 
+ 1002  6012   4 103  C 3020000.          0.013819          0.603333                              T.W.Bonner+          (56)F0985  3 
+ 1002  6012   4 103  C 3020000.          9.4275-3          0.443415                              T.W.Bonner+          (56)F0985  3 
+ 1002  6012   4 103  C 3020000.          7.0228-3          0.270550                              T.W.Bonner+          (56)F0985  3 
+ 1002  6012   4 103  C 3020000.          6.2912-3          0.097878                              T.W.Bonner+          (56)F0985  3 
+ 1002  6012   4 103  C 3020000.          7.1738-3         -0.075501                              T.W.Bonner+          (56)F0985  3 
+ 1002  6012   4 103  C 3020000.          8.7393-3         -0.245646                              T.W.Bonner+          (56)F0985  3 
+ 1002  6012   4 103  C 3020000.          0.010803         -0.411196                              T.W.Bonner+          (56)F0985  3 
+ 1002  6012   4 103  C 3020000.          0.012861         -0.552228                              T.W.Bonner+          (56)F0985  3 
+ 1002  6012   4 103  C 3020000.          0.013925         -0.679953                              T.W.Bonner+          (56)F0985  3 
+ 1002  6012   4 103  C 3020000.          0.013063         -0.789191                              T.W.Bonner+          (56)F0985  3 
+ 1002  6012   4 103  C 3020000.          9.7843-3         -0.884500                              T.W.Bonner+          (56)F0985  3 
+#/DATA      15
+#/DATASET

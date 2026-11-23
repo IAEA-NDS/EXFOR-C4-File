@@ -1,0 +1,30 @@
+#ENTRY      F0157
+#AUTHOR1    S.Piskor+
+#YEAR       1988
+#INSTITUTE  (3CZRUJF)
+#TITLE      Spectroscopic information on 36Cl from the (d,p)
+#+          reaction.
+#AUTHOR(S)  S.Piskor, P.Franc, W.Schaferlingova, J.Kremenek
+#REF-CODE   (J,NP/A,481,269,1988)
+#REFERENCE  Nucl.Phys.A 481 (1988) 269
+#DATASETS   0
+#
+#DATASET    F0157002 
+#DATE       20050503
+#REACTION   17-CL-35(D,P)17-CL-36,PAR,DA
+#PROJ       1002
+#TARG       17035
+#MF         4
+#MT         600
+#PRODUCT    17-CL-36
+#C4BEGIN    [ 1002 17035   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 17035   4 600  C 1.2300+7          7.9871-4 7.9871-5 0.999785          5150400.         LVLS.Piskor+            (88)F0157  2 
+ 1002 17035   4 600  C 1.2300+7          6.1295-4 6.1295-5 0.998639          5150400.         LVLS.Piskor+            (88)F0157  2 
+ 1002 17035   4 600  C 1.2300+7          5.0957-4 5.0957-5 0.955844          5150400.         LVLS.Piskor+            (88)F0157  2 
+ 1002 17035   4 600  C 1.2300+7          5.0704-4 5.0704-5 0.945575          5150400.         LVLS.Piskor+            (88)F0157  2 
+ 1002 17035   4 600  C 1.2300+7          7.9895-5 7.9895-6 0.666598          5150400.         LVLS.Piskor+            (88)F0157  2 
+#/DATA      5
+#/DATASET

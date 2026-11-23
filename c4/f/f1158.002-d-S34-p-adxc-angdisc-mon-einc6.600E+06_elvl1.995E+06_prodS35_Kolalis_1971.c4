@@ -1,0 +1,42 @@
+#ENTRY      F1158
+#AUTHOR1    R.P.Kolalis+
+#YEAR       1971
+#INSTITUTE  (4RUSSUL)
+#TITLE      (d,p) and (d,a) reactions on S-34 for 6.6 MeV
+#+          deuterons.
+#AUTHOR(S)  R.P.Kolalis, Yu.A.Nemilov, V.S.Romanov, V.S.Sadkovskiy, 
+#+          E.D.Teterin, K.A.Gridnev, A.E.Denisov
+#REF-CODE   (J,IZV,35,(8),1684,1971)
+#REFERENCE  Izv.Ross.AN,Fiz. 35 No.8 (1971) 1684
+#DATASETS   0
+#
+#DATASET    F1158002 
+#DATE       20120427
+#REACTION   16-S-34(D,P)16-S-35,PAR,DA
+#PROJ       1002
+#TARG       16034
+#MF         4
+#MT         600
+#PRODUCT    16-S-35
+#C4BEGIN    [ 1002 16034   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 16034   4 600  C 6600000.          3.7418-3          0.882816          1995000.         LVLR.P.Kolalis+         (71)F1158  2 
+ 1002 16034   4 600  C 6600000.          4.8597-3          0.786299          1995000.         LVLR.P.Kolalis+         (71)F1158  2 
+ 1002 16034   4 600  C 6600000.          3.0954-3          0.686364          1995000.         LVLR.P.Kolalis+         (71)F1158  2 
+ 1002 16034   4 600  C 6600000.          2.6654-3          0.555004          1995000.         LVLR.P.Kolalis+         (71)F1158  2 
+ 1002 16034   4 600  C 6600000.          2.1433-3          0.398157          1995000.         LVLR.P.Kolalis+         (71)F1158  2 
+ 1002 16034   4 600  C 6600000.          1.7957-3          0.238957          1995000.         LVLR.P.Kolalis+         (71)F1158  2 
+ 1002 16034   4 600  C 6600000.          1.5891-3          0.073203          1995000.         LVLR.P.Kolalis+         (71)F1158  2 
+ 1002 16034   4 600  C 6600000.          1.5685-3         -0.021012          1995000.         LVLR.P.Kolalis+         (71)F1158  2 
+ 1002 16034   4 600  C 6600000.          1.4064-3         -0.105014          1995000.         LVLR.P.Kolalis+         (71)F1158  2 
+ 1002 16034   4 600  C 6600000.          1.2968-3         -0.259662          1995000.         LVLR.P.Kolalis+         (71)F1158  2 
+ 1002 16034   4 600  C 6600000.          1.0146-3         -0.427358          1995000.         LVLR.P.Kolalis+         (71)F1158  2 
+ 1002 16034   4 600  C 6600000.          8.1576-4         -0.564247          1995000.         LVLR.P.Kolalis+         (71)F1158  2 
+ 1002 16034   4 600  C 6600000.          6.2952-4         -0.697165          1995000.         LVLR.P.Kolalis+         (71)F1158  2 
+ 1002 16034   4 600  C 6600000.          4.8574-4         -0.792928          1995000.         LVLR.P.Kolalis+         (71)F1158  2 
+ 1002 16034   4 600  C 6600000.          5.8905-4         -0.883111          1995000.         LVLR.P.Kolalis+         (71)F1158  2 
+ 1002 16034   4 600  C 6600000.          6.4908-4         -0.952129          1995000.         LVLR.P.Kolalis+         (71)F1158  2 
+#/DATA      16
+#/DATASET

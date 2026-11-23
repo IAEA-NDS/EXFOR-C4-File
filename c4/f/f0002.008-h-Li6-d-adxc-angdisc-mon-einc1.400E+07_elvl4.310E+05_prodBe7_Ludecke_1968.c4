@@ -1,0 +1,35 @@
+#ENTRY      F0002
+#AUTHOR1    H.Ludecke+
+#YEAR       1968
+#INSTITUTE  (2GERMPH)
+#TITLE      The reactions Li-6(3He,3He0)Li-6,Li-6(d,d0)Li-6,
+#+          Li-7(d,d0)Li-7 and Li-6(3He,d0,1)Be-7.
+#AUTHOR(S)  H.Ludecke, T.Wan-Tjin, H.Werner, J.Zimmerer
+#REF-CODE   (J,NP/A,109,676,1968)
+#REFERENCE  Nucl.Phys.A 109 (1968) 676
+#DATASETS   0
+#
+#DATASET    F0002008 
+#DATE       20151118
+#REACTION   3-LI-6(HE3,D)4-BE-7,PAR,DA
+#PROJ       2003
+#TARG       3006
+#MF         4
+#MT         650
+#PRODUCT    4-BE-7
+#C4BEGIN    [ 2003  3006   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  3006   4 650  C 1.4000+7          0.030710          0.986286          431000.0         LVLH.Ludecke+           (68)F0002  8 
+ 2003  3006   4 650  C 1.4000+7          0.037500          0.957319          431000.0         LVLH.Ludecke+           (68)F0002  8 
+ 2003  3006   4 650  C 1.4000+7          0.022120          0.917755          431000.0         LVLH.Ludecke+           (68)F0002  8 
+ 2003  3006   4 650  C 1.4000+7          9.7490-3          0.875465          431000.0         LVLH.Ludecke+           (68)F0002  8 
+ 2003  3006   4 650  C 1.4000+7          4.1010-3          0.802817          431000.0         LVLH.Ludecke+           (68)F0002  8 
+ 2003  3006   4 650  C 1.4000+7          3.3950-3          0.731354          431000.0         LVLH.Ludecke+           (68)F0002  8 
+ 2003  3006   4 650  C 1.4000+7          4.3520-3          0.637424          431000.0         LVLH.Ludecke+           (68)F0002  8 
+ 2003  3006   4 650  C 1.4000+7          4.3700-3          0.564967          431000.0         LVLH.Ludecke+           (68)F0002  8 
+ 2003  3006   4 650  C 1.4000+7          3.4480-3          0.467930          431000.0         LVLH.Ludecke+           (68)F0002  8 
+ 2003  3006   4 650  C 1.4000+7          1.8470-3          0.346936          431000.0         LVLH.Ludecke+           (68)F0002  8 
+#/DATA      10
+#/DATASET

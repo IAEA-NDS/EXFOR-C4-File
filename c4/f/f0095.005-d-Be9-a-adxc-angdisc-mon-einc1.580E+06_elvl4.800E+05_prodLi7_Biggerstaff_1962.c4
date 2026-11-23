@@ -1,0 +1,39 @@
+#ENTRY      F0095
+#AUTHOR1    J.A.Biggerstaff+
+#YEAR       1962
+#INSTITUTE  (1USAKTY)
+#TITLE      Differential cross sections for (d,a) and (d,t)
+#+          reaction in 9Be.
+#AUTHOR(S)  J.A.Biggerstaff, R.F.Hood, H.Scott, M.T.McEllistrem
+#REF-CODE   (J,NP,36,631,1962)
+#REFERENCE  Nucl.Phys. 36 (1962) 631
+#DATASETS   0
+#
+#DATASET    F0095005 
+#DATE       20120126
+#REACTION   4-BE-9(D,A)3-LI-7,PAR,DA
+#PROJ       1002
+#TARG       4009
+#MF         4
+#MT         800
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1002  4009   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   4 800  C 1580000.          6.1340-3          0.833982          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 1580000.          4.8020-3          0.625243          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 1580000.          5.2030-3          0.615249          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 1580000.          3.8650-3          0.409127          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 1580000.          4.2670-3          0.397468          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 1580000.          3.0950-3          0.098104          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 1580000.          2.7970-3         -0.138827          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 1580000.          3.0370-3         -0.139519          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 1580000.          2.5000-3         -0.382683          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 1580000.          2.2830-3         -0.600420          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 1580000.          2.3050-3         -0.771625          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 1580000.          2.3270-3         -0.899558          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 1580000.          2.9040-3         -0.966823          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+ 1002  4009   4 800  C 1580000.          2.1860-3         -0.970716          480000.0         LVLJ.A.Biggerstaff+     (62)F0095  5 
+#/DATA      14
+#/DATASET

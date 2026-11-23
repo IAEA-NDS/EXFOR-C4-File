@@ -1,0 +1,36 @@
+#ENTRY      F0186
+#AUTHOR1    F.Machali+
+#YEAR       1968
+#INSTITUTE  (3EGYCAI)
+#TITLE      Elastic scattering of deuterons by 9Be and 28Si
+#AUTHOR(S)  F.Machali, Z.A.Saleh, A.T.Baranik, F.Asfour, I.Boundouk, 
+#+          V.E.Storizhko
+#REF-CODE   (J,AKE,13,29,1968)
+#REFERENCE  Atomkernenergie 13 (1968) 29
+#DATASETS   0
+#
+#DATASET    F0186003 
+#DATE       20200625
+#REACTION   4-BE-9(D,EL)4-BE-9,,DA,,RTH
+#PROJ       1002
+#TARG       4009
+#MF         4
+#MT         2
+#PRODUCT    4-BE-9
+#C4BEGIN    [ 1002  4009   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   4   2  C 2200000.          0.120369 6.0184-3 0.507538                              F.Machali+           (68)F0186  3 
+ 1002  4009   4   2  C 2200000.          0.072832 3.6416-3 0.345298                              F.Machali+           (68)F0186  3 
+ 1002  4009   4   2  C 2200000.          0.043022 2.1511-3 0.147809                              F.Machali+           (68)F0186  3 
+ 1002  4009   4   2  C 2200000.          0.030352 1.5176-3-0.033155                              F.Machali+           (68)F0186  3 
+ 1002  4009   4   2  C 2200000.          0.022829 1.1415-3-0.221548                              F.Machali+           (68)F0186  3 
+ 1002  4009   4   2  C 2200000.          0.018762 9.3808-4-0.368125                              F.Machali+           (68)F0186  3 
+ 1002  4009   4   2  C 2200000.          0.015587 7.7934-4-0.525472                              F.Machali+           (68)F0186  3 
+ 1002  4009   4   2  C 2200000.          0.014357 7.1785-4-0.641450                              F.Machali+           (68)F0186  3 
+ 1002  4009   4   2  C 2200000.          0.012391 6.1953-4-0.759271                              F.Machali+           (68)F0186  3 
+ 1002  4009   4   2  C 2200000.          0.011396 5.6982-4-0.831954                              F.Machali+           (68)F0186  3 
+ 1002  4009   4   2  C 2200000.          0.010884 5.4418-4-0.893371                              F.Machali+           (68)F0186  3 
+#/DATA      11
+#/DATASET

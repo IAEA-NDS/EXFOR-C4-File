@@ -1,0 +1,30 @@
+#ENTRY      F1084
+#AUTHOR1    B.V.Zhuravlev+
+#YEAR       2009
+#INSTITUTE  (4RUSFEI)
+#TITLE      Nuclear interaction dynamics in Fe-56(alpha,xn)
+#+          reaction
+#AUTHOR(S)  B.V.Zhuravlev, N.N.Titarenko, V.I.Trykova
+#REF-CODE   (S,ISINN-16,237,2009)
+#REFERENCE  Report (proceedings) ISINN-16 page 237, 2009
+#DATASETS   0
+#
+#DATASET    F1084002 
+#DATE       20260113
+#REACTION   26-FE-56(A,N)28-NI-59,PAR,DA
+#PROJ       2004
+#TARG       26056
+#MF         4
+#MT         50
+#PRODUCT    28-NI-59
+#C4BEGIN    [ 2004 26056   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 26056   4  50    2.6800+7          6.5400-3          0.866374          1.0000+7 2000000. E2B.V.Zhuravlev+       (09)F1084  2 
+ 2004 26056   4  50    2.6800+7          4.4500-3          0.494852          1.0000+7 2000000. E2B.V.Zhuravlev+       (09)F1084  2 
+ 2004 26056   4  50    2.6800+7          2.6400-3          1.5708-3          1.0000+7 2000000. E2B.V.Zhuravlev+       (09)F1084  2 
+ 2004 26056   4  50    2.6800+7          2.3000-3         -0.495610          1.0000+7 2000000. E2B.V.Zhuravlev+       (09)F1084  2 
+ 2004 26056   4  50    2.6800+7          2.9100-3         -0.864713          1.0000+7 2000000. E2B.V.Zhuravlev+       (09)F1084  2 
+#/DATA      5
+#/DATASET

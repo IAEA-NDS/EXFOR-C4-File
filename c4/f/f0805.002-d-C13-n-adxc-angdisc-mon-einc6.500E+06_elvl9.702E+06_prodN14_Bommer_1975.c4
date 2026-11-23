@@ -1,0 +1,32 @@
+#ENTRY      F0805
+#AUTHOR1    J.Bommer+
+#YEAR       1975
+#INSTITUTE  (2GERBER)
+#TITLE      Stripping to unbound states of 13-15N: combined
+#+          analysis of (d,n) and (p,p0) on 12-14C.
+#AUTHOR(S)  J.Bommer, M.Ekpo, H.Fuchs, K.Grabisch, H.Kluge
+#REF-CODE   (J,NP/A,251,257,1975)
+#REFERENCE  Nucl.Phys.A 251 (1975) 257
+#DATASETS   0
+#
+#DATASET    F0805002 
+#DATE       20070322
+#REACTION   6-C-13(D,N)7-N-14,PAR,DA
+#PROJ       1002
+#TARG       6013
+#MF         4
+#MT         50
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1002  6013   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6013   4  50  C 6500000.          2.0718-3 3.8853-4 0.999970          9702000.         LVLJ.Bommer+            (75)F0805  2 
+ 1002  6013   4  50  C 6500000.          1.5805-3 3.3000-4 0.983274          9702000.         LVLJ.Bommer+            (75)F0805  2 
+ 1002  6013   4  50  C 6500000.          1.1116-3 2.4051-4 0.939836          9702000.         LVLJ.Bommer+            (75)F0805  2 
+ 1002  6013   4  50  C 6500000.          7.5407-4 1.1312-4 0.882759          9702000.         LVLJ.Bommer+            (75)F0805  2 
+ 1002  6013   4  50  C 6500000.          4.8455-4 1.0484-4 0.802349          9702000.         LVLJ.Bommer+            (75)F0805  2 
+ 1002  6013   4  50  C 6500000.          2.6706-4 5.3968-5 0.692999          9702000.         LVLJ.Bommer+            (75)F0805  2 
+ 1002  6013   4  50  C 6500000.          2.7967-4 5.6515-5 0.044177          9702000.         LVLJ.Bommer+            (75)F0805  2 
+#/DATA      7
+#/DATASET

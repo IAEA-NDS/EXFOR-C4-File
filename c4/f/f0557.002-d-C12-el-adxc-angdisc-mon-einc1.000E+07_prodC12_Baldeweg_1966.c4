@@ -1,0 +1,37 @@
+#ENTRY      F0557
+#AUTHOR1    F.Baldeweg+
+#YEAR       1966
+#INSTITUTE  (2GERKFK)
+#TITLE      Optical-model analyses on 12C(d,d) elastic scattering
+#+          data at the energy range from 10.6 MeV to 13.9 MeV
+#AUTHOR(S)  F.Baldeweg, V.Bredel, H.Guratzsch, R.Klabes, B.Kuhn, G.Stiller
+#REF-CODE   (J,NP,84,305,1966)
+#REFERENCE  Nucl.Phys. 84 (1966) 305
+#DATASETS   0
+#
+#DATASET    F0557002 
+#DATE       20030521
+#REACTION   6-C-12(D,EL)6-C-12,,DA
+#PROJ       1002
+#TARG       6012
+#MF         4
+#MT         2
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1002  6012   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6012   4   2  C 1.0000+7          2.326000 2.3260-4 0.970758 4.1898-4                     F.Baldeweg+          (66)F0557  2 
+ 1002  6012   4   2  C 1.0000+7          1.487000 1.4870-4 0.954709 5.1931-4                     F.Baldeweg+          (66)F0557  2 
+ 1002  6012   4   2  C 1.0000+7          0.637200 6.3720-5 0.921525 6.7775-4                     F.Baldeweg+          (66)F0557  2 
+ 1002  6012   4   2  C 1.0000+7          0.226700 2.2670-5 0.877481 8.3708-4                     F.Baldeweg+          (66)F0557  2 
+ 1002  6012   4   2  C 1.0000+7          0.060160 6.0160-6 0.821846 9.9433-4                     F.Baldeweg+          (66)F0557  2 
+ 1002  6012   4   2  C 1.0000+7          0.032510 3.2510-6 0.540093 1.4689-3                     F.Baldeweg+          (66)F0557  2 
+ 1002  6012   4   2  C 1.0000+7          0.031300 3.1300-6 0.457253 1.5522-3                     F.Baldeweg+          (66)F0557  2 
+ 1002  6012   4   2  C 1.0000+7          0.024090 2.4090-6 0.370720 1.6210-3                     F.Baldeweg+          (66)F0557  2 
+ 1002  6012   4   2  C 1.0000+7          3.3410-3 3.3410-7-0.330514 1.6472-3                     F.Baldeweg+          (66)F0557  2 
+ 1002  6012   4   2  C 1.0000+7          5.7820-3 5.7820-7-0.827081 9.8102-4                     F.Baldeweg+          (66)F0557  2 
+ 1002  6012   4   2  C 1.0000+7          5.5050-3 5.5050-7-0.902585 7.5138-4                     F.Baldeweg+          (66)F0557  2 
+ 1002  6012   4   2  C 1.0000+7          3.0450-3 3.0450-7-0.954761 5.1902-4                     F.Baldeweg+          (66)F0557  2 
+#/DATA      12
+#/DATASET

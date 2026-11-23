@@ -1,0 +1,36 @@
+#ENTRY      F0728
+#AUTHOR1    L.Mesko+
+#YEAR       1969
+#INSTITUTE  (3HUNDEB)
+#TITLE      19F(d,alpha)17O angular distributions at
+#+          Ed = 300-650 keV.
+#AUTHOR(S)  L.Mesko, B.Schlenk, G.Somogyi, A.Valek
+#REF-CODE   (J,NP/A,130,449,1969)
+#REFERENCE  Nucl.Phys.A 130 (1969) 449
+#DATASETS   0
+#
+#DATASET    F0728002 
+#DATE       20220427
+#REACTION   9-F-19(D,A)8-O-17,PAR,DA
+#PROJ       1002
+#TARG       9019
+#MF         4
+#MT         800
+#PRODUCT    8-O-17
+#C4BEGIN    [ 1002  9019   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  9019   4 800  C 521000.0          5.2520-7          0.999998          0.000000         LVLL.Mesko+             (69)F0728  2 
+ 1002  9019   4 800  C 521000.0          5.0390-7          0.936060          0.000000         LVLL.Mesko+             (69)F0728  2 
+ 1002  9019   4 800  C 521000.0          4.1530-7          0.866025          0.000000         LVLL.Mesko+             (69)F0728  2 
+ 1002  9019   4 800  C 521000.0          4.4550-7          0.690882          0.000000         LVLL.Mesko+             (69)F0728  2 
+ 1002  9019   4 800  C 521000.0          5.0360-7          0.493942          0.000000         LVLL.Mesko+             (69)F0728  2 
+ 1002  9019   4 800  C 521000.0          5.1960-7          0.240228          0.000000         LVLL.Mesko+             (69)F0728  2 
+ 1002  9019   4 800  C 521000.0          6.2010-7 3.3070-8 6.9813-3          0.000000         LVLL.Mesko+             (69)F0728  2 
+ 1002  9019   4 800  C 521000.0          7.3520-7         -0.289032          0.000000         LVLL.Mesko+             (69)F0728  2 
+ 1002  9019   4 800  C 521000.0          7.7460-7         -0.513541          0.000000         LVLL.Mesko+             (69)F0728  2 
+ 1002  9019   4 800  C 521000.0          8.5630-7         -0.699663          0.000000         LVLL.Mesko+             (69)F0728  2 
+ 1002  9019   4 800  C 521000.0          9.4760-7         -0.866897          0.000000         LVLL.Mesko+             (69)F0728  2 
+#/DATA      11
+#/DATASET

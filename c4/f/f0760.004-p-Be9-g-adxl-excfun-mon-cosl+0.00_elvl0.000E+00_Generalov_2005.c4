@@ -1,0 +1,32 @@
+#ENTRY      F0760
+#AUTHOR1    L.N.Generalov+
+#YEAR       2005
+#INSTITUTE  (4RUSEPA)
+#TITLE      Total cross section of the Be-9(p,a)Li-6* (3.5618 MeV)
+#+          reaction at Ep<2.4 MeV.
+#AUTHOR(S)  L.N.Generalov, S.N.Abramovich
+#REF-CODE   (J,IZV,69,1629,2005)
+#REFERENCE  Izv.Ross.AN,Fiz. 69 (2005) 1629
+#DATASETS   0
+#
+#DATASET    F0760004 
+#DATE       20220408
+#REACTION   4-BE-9(P,G)5-B-10,PAR,DA
+#PROJ       1001
+#TARG       4009
+#MF         4
+#MT         900
+#PRODUCT    5-B-10
+#C4BEGIN    [ 1001  4009   4 900 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   4 900 A  1663200.          4.3449-7 1.2730-8 6.123-17          0.000000         LVLL.N.Generalov+       (05)F0760  4 
+ 1001  4009   4 900 A  1711400.          3.4855-7 1.0350-8 6.123-17          0.000000         LVLL.N.Generalov+       (05)F0760  4 
+ 1001  4009   4 900 A  1761900.          2.8966-7 8.7500-9 6.123-17          0.000000         LVLL.N.Generalov+       (05)F0760  4 
+ 1001  4009   4 900 A  1863800.          2.5385-7 7.9600-9 6.123-17          0.000000         LVLL.N.Generalov+       (05)F0760  4 
+ 1001  4009   4 900 A  1962500.          2.5544-7 7.1600-9 6.123-17          0.000000         LVLL.N.Generalov+       (05)F0760  4 
+ 1001  4009   4 900 A  2043800.          2.4669-7 7.1600-9 6.123-17          0.000000         LVLL.N.Generalov+       (05)F0760  4 
+ 1001  4009   4 900 A  2119800.          2.3794-7 7.1600-9 6.123-17          0.000000         LVLL.N.Generalov+       (05)F0760  4 
+#/DATA      7
+#/DATASET

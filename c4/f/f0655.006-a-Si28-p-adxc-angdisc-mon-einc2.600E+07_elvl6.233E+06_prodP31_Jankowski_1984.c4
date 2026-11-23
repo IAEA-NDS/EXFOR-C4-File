@@ -1,0 +1,40 @@
+#ENTRY      F0655
+#AUTHOR1    K.Jankowski+
+#YEAR       1984
+#INSTITUTE  (3POLSLS)
+#TITLE      Investigation of the 28Si(a,p)31P and 28Si(a,d)30P
+#+          reactions at Ea=26 MeV.
+#AUTHOR(S)  K.Jankowski, A.Grzeszczuk, M.Siemaszko, A.Surowiec, W.Zipper, 
+#+          A.Budzanowski, E.Kozik
+#REF-CODE   (J,NP/A,426,1,1984)
+#REFERENCE  Nucl.Phys.A 426 (1984) 1
+#DATASETS   0
+#
+#DATASET    F0655006 
+#DATE       20050609
+#REACTION   14-SI-28(A,P)15-P-31,PAR,DA
+#PROJ       2004
+#TARG       14028
+#MF         4
+#MT         600
+#PRODUCT    15-P-31
+#C4BEGIN    [ 2004 14028   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 14028   4 600  C 2.6000+7 150000.0 4.6377-5          0.872487          6233000.         LVLK.Jankowski+         (84)F0655  6 
+ 2004 14028   4 600  C 2.6000+7 150000.0 4.9985-5          0.815825          6233000.         LVLK.Jankowski+         (84)F0655  6 
+ 2004 14028   4 600  C 2.6000+7 150000.0 3.4072-5          0.758601          6233000.         LVLK.Jankowski+         (84)F0655  6 
+ 2004 14028   4 600  C 2.6000+7 150000.0 3.3938-5          0.547008          6233000.         LVLK.Jankowski+         (84)F0655  6 
+ 2004 14028   4 600  C 2.6000+7 150000.0 1.3526-5          0.339329          6233000.         LVLK.Jankowski+         (84)F0655  6 
+ 2004 14028   4 600  C 2.6000+7 150000.0 2.3626-5          0.167251          6233000.         LVLK.Jankowski+         (84)F0655  6 
+ 2004 14028   4 600  C 2.6000+7 150000.0 1.4526-5         -0.018761          6233000.         LVLK.Jankowski+         (84)F0655  6 
+ 2004 14028   4 600  C 2.6000+7 150000.0 9.4007-6         -0.181206          6233000.         LVLK.Jankowski+         (84)F0655  6 
+ 2004 14028   4 600  C 2.6000+7 150000.0 1.8201-5         -0.274798          6233000.         LVLK.Jankowski+         (84)F0655  6 
+ 2004 14028   4 600  C 2.6000+7 150000.0 8.6851-6         -0.372826          6233000.         LVLK.Jankowski+         (84)F0655  6 
+ 2004 14028   4 600  C 2.6000+7 150000.0 1.5158-5         -0.580134          6233000.         LVLK.Jankowski+         (84)F0655  6 
+ 2004 14028   4 600  C 2.6000+7 150000.0 9.3317-6         -0.653156          6233000.         LVLK.Jankowski+         (84)F0655  6 
+ 2004 14028   4 600  C 2.6000+7 150000.0 1.0585-5         -0.721639          6233000.         LVLK.Jankowski+         (84)F0655  6 
+ 2004 14028   4 600  C 2.6000+7 150000.0 2.6410-5         -0.826884          6233000.         LVLK.Jankowski+         (84)F0655  6 
+#/DATA      14
+#/DATASET

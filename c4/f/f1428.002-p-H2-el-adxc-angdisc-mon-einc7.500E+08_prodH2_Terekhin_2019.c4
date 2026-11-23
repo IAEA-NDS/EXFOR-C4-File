@@ -1,0 +1,32 @@
+#ENTRY      F1428
+#AUTHOR1    A.A.Terekhin+
+#YEAR       2019
+#INSTITUTE  (4ZZZDUB)
+#TITLE      The differential cross section in deuteron-proton
+#+          elastic scattering at 500, 750 and 900 MeV/nucleon.
+#AUTHOR(S)  A.A.Terekhin, V.P.Ladygin, Yu.V.Gurchin, A.Yu.Isupov, M.Janek, 
+#+          A.N.Khrenov, A.K.Kurilkin, P.K.Kurilkin, N.B.Ladygina, S.M.Piyadin, 
+#+          S.G.Reznikov
+#REF-CODE   (J,EPJ/A,55,129,2019)
+#REFERENCE  Eur.Phys.J.A 55 (2019) 129
+#DATASETS   0
+#
+#DATASET    F1428002 
+#DATE       20200708
+#REACTION   (1-H-1(D,EL)1-H-1,,DA)=(1-H-2(P,EL)1-H-2,,DA)
+#PROJ       1001
+#TARG       1002
+#MF         4
+#MT         2
+#PRODUCT    1-H-2
+#C4BEGIN    [ 1001  1002   4   2 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  1002   4   2 AC 7.5000+8          2.5190-5 2.0700-6 0.192522                              A.A.Terekhin+        (19)F1428  2 
+ 1001  1002   4   2 AC 7.5000+8          2.4930-5 1.4100-6 0.109734                              A.A.Terekhin+        (19)F1428  2 
+ 1001  1002   4   2 AC 7.5000+8          1.8820-5 1.8800-6 0.020942                              A.A.Terekhin+        (19)F1428  2 
+ 1001  1002   4   2 AC 7.5000+8          1.8030-5 2.1000-6-0.068015                              A.A.Terekhin+        (19)F1428  2 
+ 1001  1002   4   2 AC 7.5000+8          1.4510-5 2.0800-6-0.151261                              A.A.Terekhin+        (19)F1428  2 
+#/DATA      5
+#/DATASET

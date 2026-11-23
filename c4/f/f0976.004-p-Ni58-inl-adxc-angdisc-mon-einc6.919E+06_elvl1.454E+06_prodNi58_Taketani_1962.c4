@@ -1,0 +1,31 @@
+#ENTRY      F0976
+#AUTHOR1    H.Taketani+
+#YEAR       1962
+#INSTITUTE  (1USAROC)
+#TITLE      Reaction mechanisms in low energy inelastic proton
+#+          scattering.
+#AUTHOR(S)  H.Taketani, W.P.Alford
+#REF-CODE   (J,NP,32,430,1962)
+#REFERENCE  Nucl.Phys. 32 (1962) 430
+#DATASETS   0
+#
+#DATASET    F0976004 
+#DATE       20090204
+#REACTION   28-NI-58(P,INL)28-NI-58,PAR,DA
+#PROJ       1001
+#TARG       28058
+#MF         4
+#MT         601
+#PRODUCT    28-NI-58
+#C4BEGIN    [ 1001 28058   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 28058   4 601  C 6918719.          0.012155 1.5966-3 0.932733          1454000.         LVLH.Taketani+          (62)F0976  4 
+ 1001 28058   4 601  C 6918719.          0.015384 1.1092-3 0.862946          1454000.         LVLH.Taketani+          (62)F0976  4 
+ 1001 28058   4 601  C 6918719.          0.017368 8.5710-4 0.798005          1454000.         LVLH.Taketani+          (62)F0976  4 
+ 1001 28058   4 601  C 6918719.          0.018076 6.0500-4 0.628751          1454000.         LVLH.Taketani+          (62)F0976  4 
+ 1001 28058   4 601  C 6918719.          0.016851 6.3870-4 0.487220          1454000.         LVLH.Taketani+          (62)F0976  4 
+ 1001 28058   4 601  C 6918719.          0.014265 6.1420-4 0.232308          1454000.         LVLH.Taketani+          (62)F0976  4 
+#/DATA      6
+#/DATASET

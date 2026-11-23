@@ -1,0 +1,36 @@
+#ENTRY      F0277
+#AUTHOR1    R.Middleton+
+#YEAR       1964
+#INSTITUTE  (2UK OXF)
+#TITLE      A study of some (t,p) reactions
+#+          I. Method and results for 7Li,10B and 11B
+#AUTHOR(S)  R.Middleton, D.J.Pullen
+#REF-CODE   (J,NP,51,50,1964)
+#REFERENCE  Nucl.Phys. 51 (1964) 50
+#DATASETS   0
+#
+#DATASET    F0277003 
+#DATE       20200709
+#REACTION   5-B-11(T,P)5-B-13,PAR,DA
+#PROJ       1003
+#TARG       5011
+#MF         4
+#MT         600
+#PRODUCT    5-B-13
+#C4BEGIN    [ 1003  5011   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  5011   4 600  C 1.1000+7          6.2100-4          0.964095          5010000.         LVLR.Middleton+         (64)F0277  3 
+ 1003  5011   4 600  C 1.1000+7          5.0200-4          0.909236          5010000.         LVLR.Middleton+         (64)F0277  3 
+ 1003  5011   4 600  C 1.1000+7          3.1200-4          0.829038          5010000.         LVLR.Middleton+         (64)F0277  3 
+ 1003  5011   4 600  C 1.1000+7          2.1300-4          0.722967          5010000.         LVLR.Middleton+         (64)F0277  3 
+ 1003  5011   4 600  C 1.1000+7          1.6900-4          0.618408          5010000.         LVLR.Middleton+         (64)F0277  3 
+ 1003  5011   4 600  C 1.1000+7          1.5900-4          0.490904          5010000.         LVLR.Middleton+         (64)F0277  3 
+ 1003  5011   4 600  C 1.1000+7          2.0600-4          0.348572          5010000.         LVLR.Middleton+         (64)F0277  3 
+ 1003  5011   4 600  C 1.1000+7          1.4800-4          0.224951          5010000.         LVLR.Middleton+         (64)F0277  3 
+ 1003  5011   4 600  C 1.1000+7          1.4400-4          0.068015          5010000.         LVLR.Middleton+         (64)F0277  3 
+ 1003  5011   4 600  C 1.1000+7          1.1400-4         -0.054079          5010000.         LVLR.Middleton+         (64)F0277  3 
+ 1003  5011   4 600  C 1.1000+7          1.6200-4         -0.201078          5010000.         LVLR.Middleton+         (64)F0277  3 
+#/DATA      11
+#/DATASET

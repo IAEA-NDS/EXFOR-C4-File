@@ -1,0 +1,31 @@
+#ENTRY      F0338
+#AUTHOR1    F.de S.Barros+
+#YEAR       1961
+#INSTITUTE  (2UK MAN)
+#TITLE      An investigation of some (t,d) reactions in light
+#+          nuclei at 5.5 MeV
+#AUTHOR(S)  F.de S.Barros, P.D.Forsyth, A.A.Jaffe, I.J.Taylor
+#REF-CODE   (J,PPS,77,853,1961)
+#REFERENCE  Proc.Phys.Soc.(UK) 77 (1961) 853
+#DATASETS   0
+#
+#DATASET    F0338013 
+#DATE       20210626
+#REACTION   14-SI-28(T,D)14-SI-29,PAR,DA
+#PROJ       1003
+#TARG       14028
+#MF         4
+#MT         650
+#PRODUCT    14-SI-29
+#C4BEGIN    [ 1003 14028   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 14028   4 650  C 5500000.          0.030400 4.1000-3 0.957319          1271000.         LVLF.de S.Barros+       (61)F0338 13 
+ 1003 14028   4 650  C 5500000.          0.041800 3.6000-3 0.925871          1271000.         LVLF.de S.Barros+       (61)F0338 13 
+ 1003 14028   4 650  C 5500000.          0.066800 6.6000-3 0.858960          1271000.         LVLF.de S.Barros+       (61)F0338 13 
+ 1003 14028   4 650  C 5500000.          0.040100 4.5000-3 0.752415          1271000.         LVLF.de S.Barros+       (61)F0338 13 
+ 1003 14028   4 650  C 5500000.          0.011200 2.5000-3 0.469472          1271000.         LVLF.de S.Barros+       (61)F0338 13 
+ 1003 14028   4 650  C 5500000.          8.9000-3 2.1000-3-0.435231          1271000.         LVLF.de S.Barros+       (61)F0338 13 
+#/DATA      6
+#/DATASET

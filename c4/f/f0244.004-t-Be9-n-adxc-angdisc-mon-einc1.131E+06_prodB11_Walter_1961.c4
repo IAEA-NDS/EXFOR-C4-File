@@ -1,0 +1,34 @@
+#ENTRY      F0244
+#AUTHOR1    A.K.Walter+
+#YEAR       1961
+#INSTITUTE  (4UKRKFT)
+#TITLE      The neutron yield in the reaction 9Be(t,n)
+#AUTHOR(S)  A.K.Walter, P.I.Vatset, L.Y.Kolesnikov, S.G.Tonapetyan, 
+#+          K.K.Chernyavskiy, A.I.Shpetny
+#REF-CODE   (J,UFZ,6,457,1961)
+#REFERENCE  Ukr.Fiz.Zh. 6 (1961) 457
+#DATASETS   0
+#
+#DATASET    F0244004 
+#DATE       20200702
+#REACTION   4-BE-9(T,N)5-B-11,,DA
+#PROJ       1003
+#TARG       4009
+#MF         4
+#MT         4
+#PRODUCT    5-B-11
+#C4BEGIN    [ 1003  4009   4   4  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003  4009   4   4  C 1131000.          0.026800          0.999986                              A.K.Walter+          (61)F0244  4 
+ 1003  4009   4   4  C 1131000.          0.027400          0.963630                              A.K.Walter+          (61)F0244  4 
+ 1003  4009   4   4  C 1131000.          0.026900          0.855364                              A.K.Walter+          (61)F0244  4 
+ 1003  4009   4   4  C 1131000.          0.024400          0.455545                              A.K.Walter+          (61)F0244  4 
+ 1003  4009   4   4  C 1131000.          0.022700          0.202787                              A.K.Walter+          (61)F0244  4 
+ 1003  4009   4   4  C 1131000.          0.021900         -0.054079                              A.K.Walter+          (61)F0244  4 
+ 1003  4009   4   4  C 1131000.          0.021200         -0.305695                              A.K.Walter+          (61)F0244  4 
+ 1003  4009   4   4  C 1131000.          0.021200         -0.535827                              A.K.Walter+          (61)F0244  4 
+ 1003  4009   4   4  C 1131000.          0.021800         -0.734915                              A.K.Walter+          (61)F0244  4 
+#/DATA      9
+#/DATASET

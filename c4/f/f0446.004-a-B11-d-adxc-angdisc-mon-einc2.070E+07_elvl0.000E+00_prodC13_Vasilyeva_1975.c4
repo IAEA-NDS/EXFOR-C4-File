@@ -1,0 +1,32 @@
+#ENTRY      F0446
+#AUTHOR1    O.I.Vasilyeva+
+#YEAR       1975
+#INSTITUTE  (4RUSMOS)
+#TITLE      Inverse maxima in the reaction (a,d) in the
+#+          Nuclei Be-9 and B-10, B-11.
+#AUTHOR(S)  O.I.Vasilyeva, V.M.Lebedev, A.V.Spassky, I.B.Teplov, L.N.Fateeva
+#REF-CODE   (J,YF,22,446,1975)
+#REFERENCE  Yad.Fiz. 22 (1975) 446
+#DATASETS   0
+#
+#DATASET    F0446004 
+#DATE       20130228
+#REACTION   5-B-11(A,D)6-C-13,PAR,DA
+#PROJ       2004
+#TARG       5011
+#MF         4
+#MT         650
+#PRODUCT    6-C-13
+#C4BEGIN    [ 2004  5011   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  5011   4 650  C 2.0700+7          1.6640-4         -0.562083          0.000000         LVLO.I.Vasilyeva+       (75)F0446  4 
+ 2004  5011   4 650  C 2.0700+7          1.6620-4         -0.688355          0.000000         LVLO.I.Vasilyeva+       (75)F0446  4 
+ 2004  5011   4 650  C 2.0700+7          4.8460-4         -0.798636          0.000000         LVLO.I.Vasilyeva+       (75)F0446  4 
+ 2004  5011   4 650  C 2.0700+7          8.5470-4 4.8400-5-0.865151          0.000000         LVLO.I.Vasilyeva+       (75)F0446  4 
+ 2004  5011   4 650  C 2.0700+7          1.3450-3 6.8800-5-0.913545          0.000000         LVLO.I.Vasilyeva+       (75)F0446  4 
+ 2004  5011   4 650  C 2.0700+7          1.3590-3 7.1900-5-0.962692          0.000000         LVLO.I.Vasilyeva+       (75)F0446  4 
+ 2004  5011   4 650  C 2.0700+7          1.3270-3 5.6200-5-0.990024          0.000000         LVLO.I.Vasilyeva+       (75)F0446  4 
+#/DATA      7
+#/DATASET

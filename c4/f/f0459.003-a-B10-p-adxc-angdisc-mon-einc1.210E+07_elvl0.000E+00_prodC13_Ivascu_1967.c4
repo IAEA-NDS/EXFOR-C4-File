@@ -1,0 +1,38 @@
+#ENTRY      F0459
+#AUTHOR1    M.Ivascu+
+#YEAR       1967
+#INSTITUTE  (3RUMBUC)
+#TITLE      Study of the (alpha,p)reactions on 10B and 12C
+#+          in the energy range from 12 to 16 MeV
+#AUTHOR(S)  M.Ivascu, R.Dumitrescu, G.Semenescu
+#REF-CODE   (J,RRP,12,279,1967)
+#REFERENCE  Rev.Roum.Phys. 12 (1967) 279
+#DATASETS   0
+#
+#DATASET    F0459003 
+#DATE       20240207
+#REACTION   5-B-10(A,P)6-C-13,PAR,DA
+#PROJ       2004
+#TARG       5010
+#MF         4
+#MT         600
+#PRODUCT    6-C-13
+#C4BEGIN    [ 2004  5010   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  5010   4 600  C 1.2100+7          1.8640-4          0.854459          0.000000         LVLM.Ivascu+            (67)F0459  3 
+ 2004  5010   4 600  C 1.2100+7          1.8420-4          0.790155          0.000000         LVLM.Ivascu+            (67)F0459  3 
+ 2004  5010   4 600  C 1.2100+7          1.6190-4          0.654741          0.000000         LVLM.Ivascu+            (67)F0459  3 
+ 2004  5010   4 600  C 1.2100+7          1.1310-4          0.518027          0.000000         LVLM.Ivascu+            (67)F0459  3 
+ 2004  5010   4 600  C 1.2100+7          9.5300-5          0.353475          0.000000         LVLM.Ivascu+            (67)F0459  3 
+ 2004  5010   4 600  C 1.2100+7          1.3290-4          0.177085          0.000000         LVLM.Ivascu+            (67)F0459  3 
+ 2004  5010   4 600  C 1.2100+7          1.5730-4          8.7265-3          0.000000         LVLM.Ivascu+            (67)F0459  3 
+ 2004  5010   4 600  C 1.2100+7          1.5060-4         -0.173648          0.000000         LVLM.Ivascu+            (67)F0459  3 
+ 2004  5010   4 600  C 1.2100+7          1.3060-4         -0.337095          0.000000         LVLM.Ivascu+            (67)F0459  3 
+ 2004  5010   4 600  C 1.2100+7          1.1500-4         -0.503020          0.000000         LVLM.Ivascu+            (67)F0459  3 
+ 2004  5010   4 600  C 1.2100+7          1.0610-4         -0.630676          0.000000         LVLM.Ivascu+            (67)F0459  3 
+ 2004  5010   4 600  C 1.2100+7          9.4900-5         -0.724172          0.000000         LVLM.Ivascu+            (67)F0459  3 
+ 2004  5010   4 600  C 1.2100+7          9.0400-5         -0.859852          0.000000         LVLM.Ivascu+            (67)F0459  3 
+#/DATA      13
+#/DATASET

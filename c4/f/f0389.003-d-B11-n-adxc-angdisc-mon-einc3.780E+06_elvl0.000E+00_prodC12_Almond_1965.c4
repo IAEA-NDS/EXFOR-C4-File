@@ -1,0 +1,37 @@
+#ENTRY      F0389
+#AUTHOR1    P.R.Almond+
+#YEAR       1965
+#INSTITUTE  (1USARIC)
+#TITLE      Differential cross sections at 0 degree and angular
+#+          distributions of resolved neutrons from 11B + d
+#AUTHOR(S)  P.R.Almond, J.R.Risser
+#REF-CODE   (J,NP,72,436,1965)
+#REFERENCE  Nucl.Phys. 72 (1965) 436
+#DATASETS   0
+#
+#DATASET    F0389003 
+#DATE       20220602
+#REACTION   5-B-11(D,N)6-C-12,PAR,DA
+#PROJ       1002
+#TARG       5011
+#MF         4
+#MT         50
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1002  5011   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5011   4  50  C 3780000.          1.9820-3 2.6300-4 0.999848          0.000000         LVLP.R.Almond+          (65)F0389  3 
+ 1002  5011   4  50  C 3780000.          1.4430-3 3.5000-4 0.958820          0.000000         LVLP.R.Almond+          (65)F0389  3 
+ 1002  5011   4  50  C 3780000.          1.7760-3 2.6500-4 0.830012          0.000000         LVLP.R.Almond+          (65)F0389  3 
+ 1002  5011   4  50  C 3780000.          1.9400-3 2.6100-4 0.710799          0.000000         LVLP.R.Almond+          (65)F0389  3 
+ 1002  5011   4  50  C 3780000.          1.3070-3 2.6300-4 0.444635          0.000000         LVLP.R.Almond+          (65)F0389  3 
+ 1002  5011   4  50  C 3780000.          1.0280-3 2.6100-4 0.199368          0.000000         LVLP.R.Almond+          (65)F0389  3 
+ 1002  5011   4  50  C 3780000.          1.1010-3 2.6300-4-0.062791          0.000000         LVLP.R.Almond+          (65)F0389  3 
+ 1002  5011   4  50  C 3780000.          9.1000-4 3.4800-4-0.317305          0.000000         LVLP.R.Almond+          (65)F0389  3 
+ 1002  5011   4  50  C 3780000.          1.7700-3 3.4800-4-0.559193          0.000000         LVLP.R.Almond+          (65)F0389  3 
+ 1002  5011   4  50  C 3780000.          2.8060-3 3.4800-4-0.762668          0.000000         LVLP.R.Almond+          (65)F0389  3 
+ 1002  5011   4  50  C 3780000.          1.7420-3 5.2300-4-0.882127          0.000000         LVLP.R.Almond+          (65)F0389  3 
+ 1002  5011   4  50  C 3780000.          2.4310-3 4.3800-4-0.956305          0.000000         LVLP.R.Almond+          (65)F0389  3 
+#/DATA      12
+#/DATASET

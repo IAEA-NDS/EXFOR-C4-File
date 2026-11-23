@@ -1,0 +1,37 @@
+#ENTRY      F0848
+#AUTHOR1    L.H.Rosier+
+#YEAR       1986
+#INSTITUTE  (2FR NTE)
+#TITLE      Spectroscopy of the 70,72Ge isotopes and structure of
+#+          low-lying states of the 70,72,74,76Ge isotopes by
+#+          (p,p') inelastic scattering at 22 MeV.
+#AUTHOR(S)  L.H.Rosier, J.Jabbour, B.Ramstein, P.Avignon, R.Tamisier
+#REF-CODE   (J,NP/A,453,389,1986)
+#REFERENCE  Nucl.Phys.A 453 (1986) 389
+#DATASETS   0
+#
+#DATASET    F0848003 
+#DATE       20070926
+#REACTION   32-GE-72(P,INL)32-GE-72,PAR,DA
+#PROJ       1001
+#TARG       32072
+#MF         4
+#MT         601
+#PRODUCT    32-GE-72
+#C4BEGIN    [ 1001 32072   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 32072   4 601  C 2.2000+7 5000.000 2.2440-5 8.0200-6 0.943483          3709000.         LVLL.H.Rosier+          (86)F0848  3 
+ 1001 32072   4 601  C 2.2000+7 5000.000 2.8210-5 1.2410-5 0.869753          3709000.         LVLL.H.Rosier+          (86)F0848  3 
+ 1001 32072   4 601  C 2.2000+7 5000.000 1.0790-5 2.1700-6 0.825025          3709000.         LVLL.H.Rosier+          (86)F0848  3 
+ 1001 32072   4 601  C 2.2000+7 5000.000 8.5900-6 3.4200-6 0.718296          3709000.         LVLL.H.Rosier+          (86)F0848  3 
+ 1001 32072   4 601  C 2.2000+7 5000.000 1.0150-5 1.1700-6 0.649952          3709000.         LVLL.H.Rosier+          (86)F0848  3 
+ 1001 32072   4 601  C 2.2000+7 5000.000 1.2960-5 1.2400-6 0.583527          3709000.         LVLL.H.Rosier+          (86)F0848  3 
+ 1001 32072   4 601  C 2.2000+7 5000.000 1.5800-5 1.8100-6 0.512942          3709000.         LVLL.H.Rosier+          (86)F0848  3 
+ 1001 32072   4 601  C 2.2000+7 5000.000 1.1130-5 1.0700-6 0.361348          3709000.         LVLL.H.Rosier+          (86)F0848  3 
+ 1001 32072   4 601  C 2.2000+7 5000.000 1.0000-5 1.1300-6 0.190261          3709000.         LVLL.H.Rosier+          (86)F0848  3 
+ 1001 32072   4 601  C 2.2000+7 5000.000 6.0500-6 1.0000-6 0.013142          3709000.         LVLL.H.Rosier+          (86)F0848  3 
+ 1001 32072   4 601  C 2.2000+7 5000.000 5.7800-6 1.2700-6-0.155141          3709000.         LVLL.H.Rosier+          (86)F0848  3 
+#/DATA      11
+#/DATASET

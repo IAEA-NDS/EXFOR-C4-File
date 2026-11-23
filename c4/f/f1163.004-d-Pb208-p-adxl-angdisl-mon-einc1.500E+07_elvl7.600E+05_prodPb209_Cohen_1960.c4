@@ -1,0 +1,33 @@
+#ENTRY      F1163
+#AUTHOR1    B.L.Cohen+
+#YEAR       1960
+#INSTITUTE  (1USAPUP)
+#TITLE      Nuclear structure studies in the lead region with (d,p)
+#+          reactions.
+#AUTHOR(S)  B.L.Cohen, R.E.Price, S.Mayo
+#REF-CODE   (J,NP,20,370,1960)
+#REFERENCE  Nucl.Phys. 20 (1960) 370
+#DATASETS   0
+#
+#DATASET    F1163004 
+#DATE       20120704
+#REACTION   82-PB-208(D,P)82-PB-209,PAR,DA
+#PROJ       1002
+#TARG       82208
+#MF         4
+#MT         600
+#PRODUCT    82-PB-209
+#C4BEGIN    [ 1002 82208   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 82208   4 600    1.5000+7 100000.0 4.9522-5          0.950097          760000.0         LVLB.L.Cohen+           (60)F1163  4 
+ 1002 82208   4 600    1.5000+7 100000.0 1.2051-4          0.926948          760000.0         LVLB.L.Cohen+           (60)F1163  4 
+ 1002 82208   4 600    1.5000+7 100000.0 1.6433-4          0.881971          760000.0         LVLB.L.Cohen+           (60)F1163  4 
+ 1002 82208   4 600    1.5000+7 100000.0 2.5720-4          0.778616          760000.0         LVLB.L.Cohen+           (60)F1163  4 
+ 1002 82208   4 600    1.5000+7 100000.0 3.7836-4          0.655993          760000.0         LVLB.L.Cohen+           (60)F1163  4 
+ 1002 82208   4 600    1.5000+7 100000.0 4.2536-4          0.512927          760000.0         LVLB.L.Cohen+           (60)F1163  4 
+ 1002 82208   4 600    1.5000+7 100000.0 3.2280-4          0.266498          760000.0         LVLB.L.Cohen+           (60)F1163  4 
+ 1002 82208   4 600    1.5000+7 100000.0 2.3668-4          4.4680-3          760000.0         LVLB.L.Cohen+           (60)F1163  4 
+#/DATA      8
+#/DATASET

@@ -1,0 +1,32 @@
+#ENTRY      F1331
+#AUTHOR1    V.K.Dolinov+
+#YEAR       1965
+#INSTITUTE  (4RUSMOS)
+#TITLE      Angular distributions of alpha-particles from the
+#+          reactions C12(d,a)B10 and O16(d,a)N14.
+#AUTHOR(S)  V.K.Dolinov, Y.V.Melikov, A.F.Tulinov
+#REF-CODE   (J,ZEP,2,(3),120,1965)
+#REFERENCE  Z.E.T.F. Pisma Red. 2 No.3 (1965) 120
+#DATASETS   0
+#
+#DATASET    F1331002 
+#DATE       20180119
+#REACTION   6-C-12(D,A)5-B-10,PAR,DA
+#PROJ       1002
+#TARG       6012
+#MF         4
+#MT         800
+#PRODUCT    5-B-10
+#C4BEGIN    [ 1002  6012   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  6012   4 800  C 1.1400+7          1.6484-3          0.760633          3580000.         LVLV.K.Dolinov+         (65)F1331  2 
+ 1002  6012   4 800  C 1.1400+7          1.8875-3 1.5600-4 0.667833          3580000.         LVLV.K.Dolinov+         (65)F1331  2 
+ 1002  6012   4 800  C 1.1400+7          1.5168-3          0.572718          3580000.         LVLV.K.Dolinov+         (65)F1331  2 
+ 1002  6012   4 800  C 1.1400+7          1.0188-3          0.487098          3580000.         LVLV.K.Dolinov+         (65)F1331  2 
+ 1002  6012   4 800  C 1.1400+7          8.6090-4          0.377194          3580000.         LVLV.K.Dolinov+         (65)F1331  2 
+ 1002  6012   4 800  C 1.1400+7          5.0330-4          0.187553          3580000.         LVLV.K.Dolinov+         (65)F1331  2 
+ 1002  6012   4 800  C 1.1400+7          6.7020-4 1.7020-4-0.020768          3580000.         LVLV.K.Dolinov+         (65)F1331  2 
+#/DATA      7
+#/DATASET

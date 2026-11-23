@@ -1,0 +1,37 @@
+#ENTRY      F1360
+#AUTHOR1    I.A.Vorontsov+
+#YEAR       1996
+#INSTITUTE  (4RUSITE)
+#TITLE      Measurement of particle cross-sections at medium
+#+          energy of protons on ITEP time-of-flight spectrometer.
+#AUTHOR(S)  I.A.Vorontsov, V.D.Kazaritsky, V.N.Kostromin, G.A.Safronov, 
+#+          G.N.Smirnov, Yu.V.Trebukhovsky
+#REF-CODE   (C,96SAROV,,120,1996)
+#REFERENCE  Proceedings of Worksh.Exact Meas.in Nucl.Spect., Sarov, Russia 1996 page 120
+#DATASETS   0
+#
+#DATASET    F1360014 
+#DATE       20180911
+#REACTION   82-PB-0(P,X)1-H-1,,DA/DP
+#PROJ       1001
+#TARG       82000
+#MF         6
+#MT         203
+#PRODUCT    1-H-1
+#C4BEGIN    [ 1001 82000   6 203  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 82000   6 203    6.0000+8          2.4960-8 9.984-10 0.866025          5.0000+7          E2I.A.Vorontsov+       (96)F1360 14 
+ 1001 82000   6 203    6.0000+8          1.8409-8 7.363-10 0.866025          7.0000+7          E2I.A.Vorontsov+       (96)F1360 14 
+ 1001 82000   6 203    6.0000+8          1.4354-8 7.177-10 0.866025          9.0000+7          E2I.A.Vorontsov+       (96)F1360 14 
+ 1001 82000   6 203    6.0000+8          1.0669-8 6.402-10 0.866025          1.1000+8          E2I.A.Vorontsov+       (96)F1360 14 
+ 1001 82000   6 203    6.0000+8          8.6454-9 5.187-10 0.866025          1.3000+8          E2I.A.Vorontsov+       (96)F1360 14 
+ 1001 82000   6 203    6.0000+8          6.1766-9 4.324-10 0.866025          1.5000+8          E2I.A.Vorontsov+       (96)F1360 14 
+ 1001 82000   6 203    6.0000+8          4.2340-9 4.234-10 0.866025          1.7000+8          E2I.A.Vorontsov+       (96)F1360 14 
+ 1001 82000   6 203    6.0000+8          3.4637-9 3.810-10 0.866025          1.9000+8          E2I.A.Vorontsov+       (96)F1360 14 
+ 1001 82000   6 203    6.0000+8          2.4593-9 2.951-10 0.866025          2.1000+8          E2I.A.Vorontsov+       (96)F1360 14 
+ 1001 82000   6 203    6.0000+8          2.1250-9 2.763-10 0.866025          2.3000+8          E2I.A.Vorontsov+       (96)F1360 14 
+ 1001 82000   6 203    6.0000+8          1.6074-9 2.250-10 0.866025          2.5000+8          E2I.A.Vorontsov+       (96)F1360 14 
+#/DATA      11
+#/DATASET

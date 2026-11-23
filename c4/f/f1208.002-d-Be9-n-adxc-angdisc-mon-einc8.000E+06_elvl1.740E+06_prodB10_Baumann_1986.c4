@@ -1,0 +1,40 @@
+#ENTRY      F1208
+#AUTHOR1    F.M.Baumann+
+#YEAR       1986
+#INSTITUTE  (2GERBOC)
+#TITLE      The Be-9(d,n)B-10 reaction as intense neutron source
+#+          with continuous energy spectrum.
+#AUTHOR(S)  F.M.Baumann, G.Domogala, H.Freiesleben, H.J.Paul, S.Puhlvers, 
+#+          H.Sohlbach
+#REF-CODE   (J,NIM/A,247,359,1986)
+#REFERENCE  Nucl.Instrum.Meth.A 247 (1986) 359
+#DATASETS   0
+#
+#DATASET    F1208002 
+#DATE       20131217
+#REACTION   4-BE-9(D,N)5-B-10,PAR,DA
+#PROJ       1002
+#TARG       4009
+#MF         4
+#MT         50
+#PRODUCT    5-B-10
+#C4BEGIN    [ 1002  4009   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   4  50  C 8000000.          8.9790-4 2.5170-4 0.999992          1740000.         LVLF.M.Baumann+         (86)F1208  2 
+ 1002  4009   4  50  C 8000000.          1.5948-3 4.4700-4 0.980199          1740000.         LVLF.M.Baumann+         (86)F1208  2 
+ 1002  4009   4  50  C 8000000.          2.0397-3 5.3410-4 0.927979          1740000.         LVLF.M.Baumann+         (86)F1208  2 
+ 1002  4009   4  50  C 8000000.          2.1446-3 5.6120-4 0.923351          1740000.         LVLF.M.Baumann+         (86)F1208  2 
+ 1002  4009   4  50  C 8000000.          1.4203-3 3.4510-4 0.835798          1740000.         LVLF.M.Baumann+         (86)F1208  2 
+ 1002  4009   4  50  C 8000000.          3.2530-4 7.9100-5 0.737301          1740000.         LVLF.M.Baumann+         (86)F1208  2 
+ 1002  4009   4  50  C 8000000.          3.8820-4 1.0880-4 0.728777          1740000.         LVLF.M.Baumann+         (86)F1208  2 
+ 1002  4009   4  50  C 8000000.          1.8980-4 5.3200-5 0.589210          1740000.         LVLF.M.Baumann+         (86)F1208  2 
+ 1002  4009   4  50  C 8000000.          2.1380-4 5.6000-5 0.427547          1740000.         LVLF.M.Baumann+         (86)F1208  2 
+ 1002  4009   4  50  C 8000000.          2.4090-4 7.1900-5 0.256644          1740000.         LVLF.M.Baumann+         (86)F1208  2 
+ 1002  4009   4  50  C 8000000.          1.7670-4 4.6300-5 0.084217          1740000.         LVLF.M.Baumann+         (86)F1208  2 
+ 1002  4009   4  50  C 8000000.          1.6670-4 4.3700-5-0.109439          1740000.         LVLF.M.Baumann+         (86)F1208  2 
+ 1002  4009   4  50  C 8000000.          1.3540-4 3.0300-5-0.257807          1740000.         LVLF.M.Baumann+         (86)F1208  2 
+ 1002  4009   4  50  C 8000000.          1.4140-4 3.1600-5-0.428620          1740000.         LVLF.M.Baumann+         (86)F1208  2 
+#/DATA      14
+#/DATASET

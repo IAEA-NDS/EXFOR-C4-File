@@ -1,0 +1,34 @@
+#ENTRY      F0276
+#AUTHOR1    A.Gallmann+
+#YEAR       1966
+#INSTITUTE  (2FR STR)
+#TITLE      (d,p) reactions on 11B, 12C, 14N and 16O at
+#+          Ed < = 5.5 MeV
+#AUTHOR(S)  A.Gallmann, P.Fintz, P.E.Hodgson
+#REF-CODE   (J,NP,82,161,1966)
+#REFERENCE  Nucl.Phys. 82 (1966) 161
+#DATASETS   0
+#
+#DATASET    F0276002 
+#DATE       20251211
+#REACTION   5-B-11(D,P)5-B-12,PAR,DA
+#PROJ       1002
+#TARG       5011
+#MF         4
+#MT         600
+#PRODUCT    5-B-12
+#C4BEGIN    [ 1002  5011   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5011   4 600  C 5500000.          8.3000-4 1.0500-4 0.983255          2720000.         LVLA.Gallmann+          (66)F0276  2 
+ 1002  5011   4 600  C 5500000.          7.3100-4 7.8000-5 0.929776          2720000.         LVLA.Gallmann+          (66)F0276  2 
+ 1002  5011   4 600  C 5500000.          4.9100-4 7.6000-5 0.891007          2720000.         LVLA.Gallmann+          (66)F0276  2 
+ 1002  5011   4 600  C 5500000.          2.5900-4 2.4000-5 0.708340          2720000.         LVLA.Gallmann+          (66)F0276  2 
+ 1002  5011   4 600  C 5500000.          2.0800-4 2.4000-5 0.569280          2720000.         LVLA.Gallmann+          (66)F0276  2 
+ 1002  5011   4 600  C 5500000.          1.7100-4 1.9000-5 0.401948          2720000.         LVLA.Gallmann+          (66)F0276  2 
+ 1002  5011   4 600  C 5500000.          1.3800-4 1.9000-5-0.297375          2720000.         LVLA.Gallmann+          (66)F0276  2 
+ 1002  5011   4 600  C 5500000.          1.2000-4 1.9000-5-0.593419          2720000.         LVLA.Gallmann+          (66)F0276  2 
+ 1002  5011   4 600  C 5500000.          1.3100-4 1.6000-5-0.674302          2720000.         LVLA.Gallmann+          (66)F0276  2 
+#/DATA      9
+#/DATASET

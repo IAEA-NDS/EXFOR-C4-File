@@ -1,0 +1,37 @@
+#ENTRY      F0168
+#AUTHOR1    S.Morita+
+#YEAR       1965
+#INSTITUTE  (2JPNTOH)
+#TITLE      The 9Be(p,alpha)6Li and 9Be(p,d)8Be reactions
+#+          from 1 to 4.6 MeV
+#AUTHOR(S)  S.Morita, T.Tohei, T.Nakagawa, T.Hasegawa, H.Ueno, H.Chu-Chung
+#REF-CODE   (J,NP,66,17,1965)
+#REFERENCE  Nucl.Phys. 66 (1965) 17
+#DATASETS   0
+#
+#DATASET    F0168002 
+#DATE       20200512
+#REACTION   4-BE-9(P,A)3-LI-6,PAR,DA
+#PROJ       1001
+#TARG       4009
+#MF         4
+#MT         800
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 1001  4009   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   4 800  C 1000000.          0.043790          0.962218          0.000000         LVLS.Morita+            (65)F0168  2 
+ 1001  4009   4 800  C 1000000.          0.046190          0.923210          0.000000         LVLS.Morita+            (65)F0168  2 
+ 1001  4009   4 800  C 1000000.          0.049670          0.823136          0.000000         LVLS.Morita+            (65)F0168  2 
+ 1001  4009   4 800  C 1000000.          0.044640          0.634731          0.000000         LVLS.Morita+            (65)F0168  2 
+ 1001  4009   4 800  C 1000000.          0.042270          0.398749          0.000000         LVLS.Morita+            (65)F0168  2 
+ 1001  4009   4 800  C 1000000.          0.036180          0.159881          0.000000         LVLS.Morita+            (65)F0168  2 
+ 1001  4009   4 800  C 1000000.          0.030360         -0.149535          0.000000         LVLS.Morita+            (65)F0168  2 
+ 1001  4009   4 800  C 1000000.          0.023460         -0.363251          0.000000         LVLS.Morita+            (65)F0168  2 
+ 1001  4009   4 800  C 1000000.          0.018700         -0.582123          0.000000         LVLS.Morita+            (65)F0168  2 
+ 1001  4009   4 800  C 1000000.          0.017390         -0.761538          0.000000         LVLS.Morita+            (65)F0168  2 
+ 1001  4009   4 800  C 1000000.          0.014220         -0.896486          0.000000         LVLS.Morita+            (65)F0168  2 
+ 1001  4009   4 800  C 1000000.          0.014230         -0.953717          0.000000         LVLS.Morita+            (65)F0168  2 
+#/DATA      12
+#/DATASET

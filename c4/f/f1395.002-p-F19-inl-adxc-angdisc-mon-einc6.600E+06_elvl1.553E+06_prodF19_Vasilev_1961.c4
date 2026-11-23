@@ -1,0 +1,32 @@
+#ENTRY      F1395
+#AUTHOR1    S.S.Vasil'ev+
+#YEAR       1961
+#INSTITUTE  (4RUSMOS)
+#TITLE      Inelastic scattering of protons on F-19 nuclei.
+#AUTHOR(S)  S.S.Vasil'ev, E.A.Romanovskii, G.F.Timushev
+#REF-CODE   (J,ZET,41,1040,1961)
+#REFERENCE  Zh.Eksp.Teor.Fiz. 41 (1961) 1040
+#DATASETS   0
+#
+#DATASET    F1395002 
+#DATE       20190822
+#REACTION   9-F-19(P,INL)9-F-19,PAR,DA
+#PROJ       1001
+#TARG       9019
+#MF         4
+#MT         601
+#PRODUCT    9-F-19
+#C4BEGIN    [ 1001  9019   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  9019   4 601  C 6600000.          9.7731-3 9.2270-4 0.646204          1553000. 12000.00LVLS.S.Vasil'ev+        (61)F1395  2 
+ 1001  9019   4 601  C 6600000.          0.015522 1.5379-3 0.383490          1553000. 12000.00LVLS.S.Vasil'ev+        (61)F1395  2 
+ 1001  9019   4 601  C 6600000.          0.020484 2.0506-3 0.138188          1553000. 12000.00LVLS.S.Vasil'ev+        (61)F1395  2 
+ 1001  9019   4 601  C 6600000.          0.014202 1.4696-3-0.117069          1553000. 12000.00LVLS.S.Vasil'ev+        (61)F1395  2 
+ 1001  9019   4 601  C 6600000.          0.010175 9.5700-4-0.340380          1553000. 12000.00LVLS.S.Vasil'ev+        (61)F1395  2 
+ 1001  9019   4 601  C 6600000.          6.2866-3 6.8350-4-0.586514          1553000. 12000.00LVLS.S.Vasil'ev+        (61)F1395  2 
+ 1001  9019   4 601  C 6600000.          3.7288-3 3.4180-4-0.745476          1553000. 12000.00LVLS.S.Vasil'ev+        (61)F1395  2 
+ 1001  9019   4 601  C 6600000.          3.5298-3 3.4190-4-0.881468          1553000. 12000.00LVLS.S.Vasil'ev+        (61)F1395  2 
+#/DATA      8
+#/DATASET

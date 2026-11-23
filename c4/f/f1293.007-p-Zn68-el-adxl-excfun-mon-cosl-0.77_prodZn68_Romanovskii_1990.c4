@@ -1,0 +1,46 @@
+#ENTRY      F1293
+#AUTHOR1    E.A.Romanovskii+
+#YEAR       1990
+#INSTITUTE  (4RUSMOS)
+#TITLE      Energy dependence of the parameters of the proton
+#+          optical potential for 64,66,68Zn at low and
+#+          intermediate energies.
+#AUTHOR(S)  E.A.Romanovskii, B.M.Saidov, L.M.Rafu, O.V.Bespalova, B.S.Galakhmatova, 
+#+          N.G.Goryaga, V.O.Kordyukevich, Nguen Mak Kha, T.I.Spasskaya, 
+#+          H.H.Abbd
+#REF-CODE   (J,IZV,54,(5),991,1990)
+#REFERENCE  Izv.Ross.AN,Fiz. 54 No.5 (1990) 991
+#DATASETS   0
+#
+#DATASET    F1293007 
+#DATE       20161009
+#REACTION   30-ZN-68(P,EL)30-ZN-68,,DA,,RTH
+#PROJ       1001
+#TARG       30068
+#MF         4
+#MT         2
+#PRODUCT    30-ZN-68
+#C4BEGIN    [ 1001 30068   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30068   4   2    5749500.          0.036384         -0.766044                              E.A.Romanovskii+     (90)F1293  7 
+ 1001 30068   4   2    5772700.          0.032339         -0.766044                              E.A.Romanovskii+     (90)F1293  7 
+ 1001 30068   4   2    5804600.          0.030371         -0.766044                              E.A.Romanovskii+     (90)F1293  7 
+ 1001 30068   4   2    5838800.          0.029201         -0.766044                              E.A.Romanovskii+     (90)F1293  7 
+ 1001 30068   4   2    5859300.          0.035354         -0.766044                              E.A.Romanovskii+     (90)F1293  7 
+ 1001 30068   4   2    5884700.          0.043483         -0.766044                              E.A.Romanovskii+     (90)F1293  7 
+ 1001 30068   4   2    5909500.          0.046398         -0.766044                              E.A.Romanovskii+     (90)F1293  7 
+ 1001 30068   4   2    5945300.          0.040783         -0.766044                              E.A.Romanovskii+     (90)F1293  7 
+ 1001 30068   4   2    5973000.          0.038222         -0.766044                              E.A.Romanovskii+     (90)F1293  7 
+ 1001 30068   4   2    5983400.          0.035766         -0.766044                              E.A.Romanovskii+     (90)F1293  7 
+ 1001 30068   4   2    5998200.          0.034588         -0.766044                              E.A.Romanovskii+     (90)F1293  7 
+ 1001 30068   4   2    6034800.          0.034298         -0.766044                              E.A.Romanovskii+     (90)F1293  7 
+ 1001 30068   4   2    6060300.          0.038416         -0.766044                              E.A.Romanovskii+     (90)F1293  7 
+ 1001 30068   4   2    6100400.          0.033900         -0.766044                              E.A.Romanovskii+     (90)F1293  7 
+ 1001 30068   4   2    6126200.          0.031542         -0.766044                              E.A.Romanovskii+     (90)F1293  7 
+ 1001 30068   4   2    6153400.          0.028348         -0.766044                              E.A.Romanovskii+     (90)F1293  7 
+ 1001 30068   4   2    6190900.          0.029746         -0.766044                              E.A.Romanovskii+     (90)F1293  7 
+ 1001 30068   4   2    6226800.          0.028152         -0.766044                              E.A.Romanovskii+     (90)F1293  7 
+#/DATA      18
+#/DATASET

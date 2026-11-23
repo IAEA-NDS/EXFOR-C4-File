@@ -1,0 +1,32 @@
+#ENTRY      F0813
+#AUTHOR1    J.S.Hanspal+
+#YEAR       1985
+#INSTITUTE  (2UK KCL)
+#TITLE      Inelastic scattering and reaction data analysis for the
+#+          3He+44,48Ca systems
+#AUTHOR(S)  J.S.Hanspal, N.M.Clarke, R.J.Griffiths, O.Karban, S.Roman
+#REF-CODE   (J,NP/A,436,236,1985)
+#REFERENCE  Nucl.Phys.A 436 (1985) 236
+#DATASETS   0
+#
+#DATASET    F0813016 
+#DATE       20220427
+#REACTION   20-CA-44(HE3,A)20-CA-43,PAR,DA
+#PROJ       2003
+#TARG       20044
+#MF         4
+#MT         800
+#PRODUCT    20-CA-43
+#C4BEGIN    [ 2003 20044   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 20044   4 800  C 3.3100+7          1.3650-3          0.973179          990000.0         LVLJ.S.Hanspal+         (85)F0813 16 
+ 2003 20044   4 800  C 3.3100+7          5.8960-4          0.947768          990000.0         LVLJ.S.Hanspal+         (85)F0813 16 
+ 2003 20044   4 800  C 3.3100+7          5.7980-4          0.928486          990000.0         LVLJ.S.Hanspal+         (85)F0813 16 
+ 2003 20044   4 800  C 3.3100+7          5.8930-4          0.916363          990000.0         LVLJ.S.Hanspal+         (85)F0813 16 
+ 2003 20044   4 800  C 3.3100+7          2.5460-4          0.875465          990000.0         LVLJ.S.Hanspal+         (85)F0813 16 
+ 2003 20044   4 800  C 3.3100+7          1.6870-4          0.855364          990000.0         LVLJ.S.Hanspal+         (85)F0813 16 
+ 2003 20044   4 800  C 3.3100+7          2.1940-4          0.832921          990000.0         LVLJ.S.Hanspal+         (85)F0813 16 
+#/DATA      7
+#/DATASET

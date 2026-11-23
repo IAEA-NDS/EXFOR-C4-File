@@ -1,0 +1,29 @@
+#ENTRY      F0812
+#AUTHOR1    E.Warde+
+#YEAR       1983
+#INSTITUTE  (2FR STR)
+#TITLE      Band structure in 180Ta studied with transfer reactions
+#AUTHOR(S)  E.Warde, G.J.Costa, D.Magnac, R.Seltz, C.Gerardin, M.Buenerd, 
+#+          Ph.Martin, W.Saathoff, C.A.Wiedner
+#REF-CODE   (J,PR/C,27,98,1983)
+#REFERENCE  Phys.Rev.C 27 (1983) 98
+#DATASETS   0
+#
+#DATASET    F0812003 
+#DATE       20220427
+#REACTION   72-HF-179(HE3,D)73-TA-180,PAR,DA
+#PROJ       2003
+#TARG       72179
+#MF         4
+#MT         650
+#PRODUCT    73-TA-180
+#C4BEGIN    [ 2003 72179   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 72179   4 650  C 3.6000+7          4.8700-5 9.4500-6 0.961262          181000.0         LVLE.Warde+             (83)F0812  3 
+ 2003 72179   4 650  C 3.6000+7          6.8700-5 1.2300-5 0.934826          181000.0         LVLE.Warde+             (83)F0812  3 
+ 2003 72179   4 650  C 3.6000+7          5.9400-5 1.4800-5 0.914254          181000.0         LVLE.Warde+             (83)F0812  3 
+ 2003 72179   4 650  C 3.6000+7          7.2500-5 1.5200-5 0.803857          181000.0         LVLE.Warde+             (83)F0812  3 
+#/DATA      4
+#/DATASET

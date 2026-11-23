@@ -1,0 +1,38 @@
+#ENTRY      F0996
+#AUTHOR1    H.Hulubei+
+#YEAR       1962
+#INSTITUTE  (3RUMBUC)
+#TITLE      Mechanism of elastic and inelastic scattering of low
+#+          energy protons from 20Ne.
+#AUTHOR(S)  H.Hulubei, A.Berinde, I.Neamu, J.Franz, N.Martalogu, M.Ivascu
+#REF-CODE   (J,NP,39,686,1962)
+#REFERENCE  Nucl.Phys. 39 (1962) 686
+#DATASETS   0
+#
+#DATASET    F0996002 
+#DATE       20090508
+#REACTION   10-NE-20(P,EL)10-NE-20,,DA
+#PROJ       1001
+#TARG       10020
+#MF         4
+#MT         2
+#PRODUCT    10-NE-20
+#C4BEGIN    [ 1001 10020   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 10020   4   2  C 5960000.          0.534070          0.818471                              H.Hulubei+           (62)F0996  2 
+ 1001 10020   4   2  C 5960000.          0.357170          0.642707                              H.Hulubei+           (62)F0996  2 
+ 1001 10020   4   2  C 5960000.          0.116950          0.459177                              H.Hulubei+           (62)F0996  2 
+ 1001 10020   4   2  C 5960000.          0.076206          0.301754                              H.Hulubei+           (62)F0996  2 
+ 1001 10020   4   2  C 5960000.          0.065221          0.125749                              H.Hulubei+           (62)F0996  2 
+ 1001 10020   4   2  C 5960000.          0.062738         -0.064288                              H.Hulubei+           (62)F0996  2 
+ 1001 10020   4   2  C 5960000.          0.063567         -0.252069                              H.Hulubei+           (62)F0996  2 
+ 1001 10020   4   2  C 5960000.          0.064405         -0.412469                              H.Hulubei+           (62)F0996  2 
+ 1001 10020   4   2  C 5960000.          0.064413         -0.560928                              H.Hulubei+           (62)F0996  2 
+ 1001 10020   4   2  C 5960000.          0.058825         -0.700287                              H.Hulubei+           (62)F0996  2 
+ 1001 10020   4   2  C 5960000.          0.060380         -0.805308                              H.Hulubei+           (62)F0996  2 
+ 1001 10020   4   2  C 5960000.          0.054431         -0.907264                              H.Hulubei+           (62)F0996  2 
+ 1001 10020   4   2  C 5960000.          0.047192         -0.960001                              H.Hulubei+           (62)F0996  2 
+#/DATA      13
+#/DATASET

@@ -1,0 +1,36 @@
+#ENTRY      F0923
+#AUTHOR1    A.E.Antropov+
+#YEAR       1976
+#INSTITUTE  (4RUSSUL)
+#TITLE      Energy dependence of cross sections for elastic and
+#+          inelastic scattering by 46,48,50Ti.
+#AUTHOR(S)  A.E.Antropov, V.P.Gusev, P.P.Zarubin, P.D.Ioannu
+#REF-CODE   (J,IZV,40,807,1976)
+#REFERENCE  Izv.Ross.AN,Fiz. 40 (1976) 807
+#DATASETS   0
+#
+#DATASET    F0923005 
+#DATE       20080415
+#REACTION   22-TI-48(P,INL)22-TI-48,PAR,DA
+#PROJ       1001
+#TARG       22048
+#MF         4
+#MT         601
+#PRODUCT    22-TI-48
+#C4BEGIN    [ 1001 22048   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 22048   4 601    5202500.          7.6369-3 6.0274-4 0.146083          983000.0         LVLA.E.Antropov+        (76)F0923  5 
+ 1001 22048   4 601    5314500.          6.4905-3 4.3825-4 0.146083          983000.0         LVLA.E.Antropov+        (76)F0923  5 
+ 1001 22048   4 601    5333700.          5.8337-3 3.2877-4 0.146083          983000.0         LVLA.E.Antropov+        (76)F0923  5 
+ 1001 22048   4 601    5393700.          6.6031-3 4.9315-4 0.146083          983000.0         LVLA.E.Antropov+        (76)F0923  5 
+ 1001 22048   4 601    5464700.          6.6059-3 4.3815-4 0.146083          983000.0         LVLA.E.Antropov+        (76)F0923  5 
+ 1001 22048   4 601    5595800.          5.5698-3 5.4815-4 0.146083          983000.0         LVLA.E.Antropov+        (76)F0923  5 
+ 1001 22048   4 601    5694200.          5.2447-3 5.4795-4 0.146083          983000.0         LVLA.E.Antropov+        (76)F0923  5 
+ 1001 22048   4 601    5746000.          5.7947-3 4.3815-4 0.146083          983000.0         LVLA.E.Antropov+        (76)F0923  5 
+ 1001 22048   4 601    5817100.          5.0303-3 4.3846-4 0.146083          983000.0         LVLA.E.Antropov+        (76)F0923  5 
+ 1001 22048   4 601    5926200.          5.8563-3 2.7397-4 0.146083          983000.0         LVLA.E.Antropov+        (76)F0923  5 
+ 1001 22048   4 601    6005400.          5.0922-3 5.4795-4 0.146083          983000.0         LVLA.E.Antropov+        (76)F0923  5 
+#/DATA      11
+#/DATASET

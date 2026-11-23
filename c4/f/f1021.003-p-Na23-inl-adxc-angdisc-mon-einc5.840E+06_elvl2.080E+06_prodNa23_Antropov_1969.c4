@@ -1,0 +1,34 @@
+#ENTRY      F1021
+#AUTHOR1    A.E.Antropov+
+#YEAR       1969
+#INSTITUTE  (4RUSSUL)
+#TITLE      Elastic and inelastic scattering of protons by 23Na.
+#AUTHOR(S)  A.E.Antropov, P.P.Zarubin, M.F.Kydoyarov, B.N.Orlov, A.V.Plavko, 
+#+          A.I.Sorokin
+#REF-CODE   (J,IZV,33,1379,1969)
+#REFERENCE  Izv.Ross.AN,Fiz. 33 (1969) 1379
+#DATASETS   0
+#
+#DATASET    F1021003 
+#DATE       20090723
+#REACTION   11-NA-23(P,INL)11-NA-23,PAR,DA
+#PROJ       1001
+#TARG       11023
+#MF         4
+#MT         601
+#PRODUCT    11-NA-23
+#C4BEGIN    [ 1001 11023   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 11023   4 601  C 5840000.          1.7308-3 4.9677-4 0.704027          2080000.         LVLA.E.Antropov+        (69)F1021  3 
+ 1001 11023   4 601  C 5840000.          3.2024-3 3.9223-4 0.427642          2080000.         LVLA.E.Antropov+        (69)F1021  3 
+ 1001 11023   4 601  C 5840000.          3.2592-3 3.6589-4 0.245950          2080000.         LVLA.E.Antropov+        (69)F1021  3 
+ 1001 11023   4 601  C 5840000.          3.3681-3 4.1816-4 0.064010          2080000.         LVLA.E.Antropov+        (69)F1021  3 
+ 1001 11023   4 601  C 5840000.          3.5560-3 3.9202-4-0.146048          2080000.         LVLA.E.Antropov+        (69)F1021  3 
+ 1001 11023   4 601  C 5840000.          3.4035-3 3.9202-4-0.325733          2080000.         LVLA.E.Antropov+        (69)F1021  3 
+ 1001 11023   4 601  C 5840000.          3.4083-3 3.3976-4-0.509041          2080000.         LVLA.E.Antropov+        (69)F1021  3 
+ 1001 11023   4 601  C 5840000.          3.2820-3 3.1362-4-0.658689          2080000.         LVLA.E.Antropov+        (69)F1021  3 
+ 1001 11023   4 601  C 5840000.          3.1025-3 2.6114-4-0.763796          2080000.         LVLA.E.Antropov+        (69)F1021  3 
+#/DATA      9
+#/DATASET

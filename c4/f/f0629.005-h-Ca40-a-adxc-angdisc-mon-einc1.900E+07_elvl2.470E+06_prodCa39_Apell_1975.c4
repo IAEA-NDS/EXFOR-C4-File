@@ -1,0 +1,30 @@
+#ENTRY      F0629
+#AUTHOR1    H.J.Apell+
+#YEAR       1975
+#INSTITUTE  (2GERMBG)
+#TITLE      Anomalies in alpha-scattering and (3He,alpha) reactions
+#+          on 40,41Ca and the effect of cluster exchange.
+#AUTHOR(S)  H.J.Apell, W.Gemeinhardt, R.Stock, R.R.Betts, O.Hansen, 
+#+          A.Sperduto, H.Fuchs, R.Santo
+#REF-CODE   (J,NP/A,246,477,1975)
+#REFERENCE  Nucl.Phys.A 246 (1975) 477
+#DATASETS   0
+#
+#DATASET    F0629005 
+#DATE       20050615
+#REACTION   20-CA-40(HE3,A)20-CA-39,PAR,DA
+#PROJ       2003
+#TARG       20040
+#MF         4
+#MT         800
+#PRODUCT    20-CA-39
+#C4BEGIN    [ 2003 20040   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 20040   4 800  C 1.9000+7          5.9981-3 7.8487-4 0.958963          2470000.         LVLH.J.Apell+           (75)F0629  5 
+ 2003 20040   4 800  C 1.9000+7          5.2240-3 3.2532-4 0.926239          2470000.         LVLH.J.Apell+           (75)F0629  5 
+ 2003 20040   4 800  C 1.9000+7          1.1122-3 6.9260-5 0.885823          2470000.         LVLH.J.Apell+           (75)F0629  5 
+ 2003 20040   4 800  C 1.9000+7          6.7028-4 4.1741-5 0.834973          2470000.         LVLH.J.Apell+           (75)F0629  5 
+#/DATA      4
+#/DATASET

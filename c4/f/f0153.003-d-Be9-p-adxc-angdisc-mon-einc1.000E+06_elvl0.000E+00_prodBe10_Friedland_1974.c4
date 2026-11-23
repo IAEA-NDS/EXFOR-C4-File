@@ -1,0 +1,34 @@
+#ENTRY      F0153
+#AUTHOR1    E.Friedland+
+#YEAR       1974
+#INSTITUTE  (3SAFUSF)
+#TITLE      Deuteron induced reactions on Be-9 at low energies.
+#AUTHOR(S)  E.Friedland, H.W.Alberts, J.C.Van Staden
+#REF-CODE   (J,ZP,267,97,1974)
+#REFERENCE  Z.Phys. 267 (1974) 97
+#DATASETS   0
+#
+#DATASET    F0153003 
+#DATE       20120131
+#REACTION   4-BE-9(D,P)4-BE-10,PAR,DA
+#PROJ       1002
+#TARG       4009
+#MF         4
+#MT         600
+#PRODUCT    4-BE-10
+#C4BEGIN    [ 1002  4009   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   4 600  C 1000000.          9.2630-4 1.0440-4 0.884337          0.000000         LVLE.Friedland+         (74)F0153  3 
+ 1002  4009   4 600  C 1000000.          6.4810-4 1.2170-4 0.765708          0.000000         LVLE.Friedland+         (74)F0153  3 
+ 1002  4009   4 600  C 1000000.          6.1340-4 8.7000-5 0.612907          0.000000         LVLE.Friedland+         (74)F0153  3 
+ 1002  4009   4 600  C 1000000.          5.2650-4 6.9600-5 0.486335          0.000000         LVLE.Friedland+         (74)F0153  3 
+ 1002  4009   4 600  C 1000000.          5.7890-4 1.0440-4-0.038388          0.000000         LVLE.Friedland+         (74)F0153  3 
+ 1002  4009   4 600  C 1000000.          8.9220-4 8.7000-5-0.525472          0.000000         LVLE.Friedland+         (74)F0153  3 
+ 1002  4009   4 600  C 1000000.          8.9220-4 1.0440-4-0.648120          0.000000         LVLE.Friedland+         (74)F0153  3 
+ 1002  4009   4 600  C 1000000.          9.9660-4 8.7000-5-0.776046          0.000000         LVLE.Friedland+         (74)F0153  3 
+ 1002  4009   4 600  C 1000000.          1.0490-3 8.7000-5-0.877146          0.000000         LVLE.Friedland+         (74)F0153  3 
+ 1002  4009   4 600  C 1000000.          1.0840-3 8.7000-5-0.939693          0.000000         LVLE.Friedland+         (74)F0153  3 
+#/DATA      10
+#/DATASET

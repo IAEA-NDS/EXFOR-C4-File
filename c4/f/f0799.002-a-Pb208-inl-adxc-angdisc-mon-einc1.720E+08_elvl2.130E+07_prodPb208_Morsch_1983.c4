@@ -1,0 +1,33 @@
+#ENTRY      F0799
+#AUTHOR1    H.P.Morsch+
+#YEAR       1983
+#INSTITUTE  (2GERJUL)
+#TITLE      Isoscalar giant resonances in 208Pb-in particular
+#+          2*Planck const.*omega L=0,2,4, and 6 excitations-
+#+          studied in small angle alpha scattering.
+#AUTHOR(S)  H.P.Morsch, P.Decowski, M.Rogge, P.Turek, L.Zemlo, S.A.Martin, 
+#+          G.P.A.Berg, W.Hurlimann, J.Meissburger, J.G.M.Romer
+#REF-CODE   (J,PR/C,28,1947,1983)
+#REFERENCE  Phys.Rev.C 28 (1983) 1947
+#DATASETS   0
+#
+#DATASET    F0799002 
+#DATE       20061219
+#REACTION   82-PB-208(A,INL)82-PB-208,PAR,DA
+#PROJ       2004
+#TARG       82208
+#MF         4
+#MT         801
+#PRODUCT    82-PB-208
+#C4BEGIN    [ 2004 82208   4 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 82208   4 801  C 1.7200+8          0.013875 5.4586-3 0.995714          2.1300+7         LVLH.P.Morsch+          (83)F0799  2 
+ 2004 82208   4 801  C 1.7200+8          0.011738 4.0768-3 0.994252          2.1300+7         LVLH.P.Morsch+          (83)F0799  2 
+ 2004 82208   4 801  C 1.7200+8          0.010059 2.7678-3 0.993235          2.1300+7         LVLH.P.Morsch+          (83)F0799  2 
+ 2004 82208   4 801  C 1.7200+8          5.9442-3 2.1014-3 0.992177          2.1300+7         LVLH.P.Morsch+          (83)F0799  2 
+ 2004 82208   4 801  C 1.7200+8          3.0336-3 8.6313-4 0.990950          2.1300+7         LVLH.P.Morsch+          (83)F0799  2 
+ 2004 82208   4 801  C 1.7200+8          3.9625-3 1.0349-3 0.990057          2.1300+7         LVLH.P.Morsch+          (83)F0799  2 
+#/DATA      6
+#/DATASET

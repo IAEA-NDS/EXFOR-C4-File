@@ -1,0 +1,33 @@
+#ENTRY      F1048
+#AUTHOR1    M.Lambert+
+#YEAR       1968
+#INSTITUTE  (3ALGCDT)
+#TITLE      20Ne(d, p)21Ne and the excited condition 21Ne.
+#AUTHOR(S)  M.Lambert, G.Dumazet, H.Beaumevieille, A.Tellez, C.Meynadier, 
+#+          P.Midy, N.V.Sen
+#REF-CODE   (J,NP/A,112,161,1968)
+#REFERENCE  Nucl.Phys.A 112 (1968) 161
+#DATASETS   0
+#
+#DATASET    F1048003 
+#DATE       20200415
+#REACTION   10-NE-20(D,P)10-NE-21,PAR,DA
+#PROJ       1002
+#TARG       10020
+#MF         4
+#MT         600
+#PRODUCT    10-NE-21
+#C4BEGIN    [ 1002 10020   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 10020   4 600  C 2000000.          1.6900-4          0.074979          3735000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 2000000.          1.7800-4         -0.055822          3735000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 2000000.          2.0100-4         -0.106264          3735000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 2000000.          2.1300-4         -0.268920          3735000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 2000000.          2.2200-4         -0.270600          3735000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 2000000.          2.4100-4         -0.789084          3735000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 2000000.          2.3900-4         -0.914960          3735000.         LVLM.Lambert+           (68)F1048  3 
+ 1002 10020   4 600  C 2000000.          2.7900-4         -0.921185          3735000.         LVLM.Lambert+           (68)F1048  3 
+#/DATA      8
+#/DATASET

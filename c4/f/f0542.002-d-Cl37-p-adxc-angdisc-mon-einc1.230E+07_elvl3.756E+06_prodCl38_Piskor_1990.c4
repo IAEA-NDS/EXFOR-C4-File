@@ -1,0 +1,30 @@
+#ENTRY      F0542
+#AUTHOR1    S.Piskor+
+#YEAR       1990
+#INSTITUTE  (3CZRUJF)
+#TITLE      Spectroscopic information on 13,14C,15N,17O,29-31Si,
+#+          33S,38Cl and 111,113,115,117Cd from the (d,p) reaction
+#AUTHOR(S)  S.Piskor, W.Schaferlingova
+#REF-CODE   (J,NP/A,510,301,1990)
+#REFERENCE  Nucl.Phys.A 510 (1990) 301
+#DATASETS   0
+#
+#DATASET    F0542002 
+#DATE       20030422
+#REACTION   17-CL-37(D,P)17-CL-38,PAR,DA
+#PROJ       1002
+#TARG       17037
+#MF         4
+#MT         600
+#PRODUCT    17-CL-38
+#C4BEGIN    [ 1002 17037   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 17037   4 600  C 1.2300+7          1.9400-3 3.0450-4 0.999942 7.5093-5 3756000.         LVLS.Piskor+            (90)F0542  2 
+ 1002 17037   4 600  C 1.2300+7          1.9200-3 4.5310-4 0.996639 5.7192-4 3756000.         LVLS.Piskor+            (90)F0542  2 
+ 1002 17037   4 600  C 1.2300+7          1.2850-3 3.2540-4 0.959511 1.9664-3 3756000.         LVLS.Piskor+            (90)F0542  2 
+ 1002 17037   4 600  C 1.2300+7          4.5920-4 2.1920-4 0.863748 3.5181-3 3756000.         LVLS.Piskor+            (90)F0542  2 
+ 1002 17037   4 600  C 1.2300+7          3.7980-4 2.0440-4 0.743728 4.6669-3 3756000.         LVLS.Piskor+            (90)F0542  2 
+#/DATA      5
+#/DATASET

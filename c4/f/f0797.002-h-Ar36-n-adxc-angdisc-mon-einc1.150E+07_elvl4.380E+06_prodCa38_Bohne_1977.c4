@@ -1,0 +1,38 @@
+#ENTRY      F0797
+#AUTHOR1    W.Bohne+
+#YEAR       1977
+#INSTITUTE  (2GERBER)
+#TITLE      The reactions 36,38,40Ar(He3,n)38,40,42Ca and
+#+          40,42Ca(He3,n)42,44Ti.
+#AUTHOR(S)  W.Bohne, K.D.Buchs, H.Fuchs, K.Grabisch, D.Hilscher, U.Janetzki, 
+#+          U.Jahnke, H.Kluge, T.G.Masterson, H.Morgenstern
+#REF-CODE   (J,NP/A,284,14,1977)
+#REFERENCE  Nucl.Phys.A 284 (1977) 14
+#DATASETS   0
+#
+#DATASET    F0797002 
+#DATE       20070125
+#REACTION   18-AR-36(HE3,N)20-CA-38,PAR,DA
+#PROJ       2003
+#TARG       18036
+#MF         4
+#MT         50
+#PRODUCT    20-CA-38
+#C4BEGIN    [ 2003 18036   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 18036   4  50  C 1.1500+7          1.6337-4          0.999974          4380000.         LVLW.Bohne+             (77)F0797  2 
+ 2003 18036   4  50  C 1.1500+7          1.6697-4          0.988051          4380000.         LVLW.Bohne+             (77)F0797  2 
+ 2003 18036   4  50  C 1.1500+7          1.4644-4          0.959344          4380000.         LVLW.Bohne+             (77)F0797  2 
+ 2003 18036   4  50  C 1.1500+7          1.7827-4          0.908275          4380000.         LVLW.Bohne+             (77)F0797  2 
+ 2003 18036   4  50  C 1.1500+7          2.2837-4          0.844552          4380000.         LVLW.Bohne+             (77)F0797  2 
+ 2003 18036   4  50  C 1.1500+7          2.1860-4          0.760610          4380000.         LVLW.Bohne+             (77)F0797  2 
+ 2003 18036   4  50  C 1.1500+7          1.4641-4          0.659949          4380000.         LVLW.Bohne+             (77)F0797  2 
+ 2003 18036   4  50  C 1.1500+7          1.0860-4          0.557528          4380000.         LVLW.Bohne+             (77)F0797  2 
+ 2003 18036   4  50  C 1.1500+7          7.9966-5          0.438528          4380000.         LVLW.Bohne+             (77)F0797  2 
+ 2003 18036   4  50  C 1.1500+7          7.6542-5          0.313180          4380000.         LVLW.Bohne+             (77)F0797  2 
+ 2003 18036   4  50  C 1.1500+7          5.4345-5          0.188067          4380000.         LVLW.Bohne+             (77)F0797  2 
+ 2003 18036   4  50  C 1.1500+7          4.9431-5          0.057791          4380000.         LVLW.Bohne+             (77)F0797  2 
+#/DATA      12
+#/DATASET

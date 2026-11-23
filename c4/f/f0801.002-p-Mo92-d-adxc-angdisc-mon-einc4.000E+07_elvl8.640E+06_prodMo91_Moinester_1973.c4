@@ -1,0 +1,35 @@
+#ENTRY      F0801
+#AUTHOR1    M.A.Moinester+
+#YEAR       1973
+#INSTITUTE  (3ISLTEL)
+#TITLE      Neutron hole states in 91Mo and 93Mo studied by the
+#+          (p,d) reaction
+#AUTHOR(S)  M.A.Moinester, G.Finkel, J.Alster, P.Martin
+#REF-CODE   (J,NP/A,202,473,1973)
+#REFERENCE  Nucl.Phys.A 202 (1973) 473
+#DATASETS   0
+#
+#DATASET    F0801002 
+#DATE       20251225
+#REACTION   42-MO-92(P,D)42-MO-91,PAR,DA
+#PROJ       1001
+#TARG       42092
+#MF         4
+#MT         650
+#PRODUCT    42-MO-91
+#C4BEGIN    [ 1001 42092   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 42092   4 650  C 4.0000+7 100000.0 4.5850-4 4.5240-5 0.982935          8640000.         LVLM.A.Moinester+       (73)F0801  2 
+ 1001 42092   4 650  C 4.0000+7 100000.0 4.1330-4          0.971961          8640000.         LVLM.A.Moinester+       (73)F0801  2 
+ 1001 42092   4 650  C 4.0000+7 100000.0 2.7110-4          0.958323          8640000.         LVLM.A.Moinester+       (73)F0801  2 
+ 1001 42092   4 650  C 4.0000+7 100000.0 1.4360-4 1.3370-5 0.942057          8640000.         LVLM.A.Moinester+       (73)F0801  2 
+ 1001 42092   4 650  C 4.0000+7 100000.0 9.6500-5 1.0050-5 0.923210          8640000.         LVLM.A.Moinester+       (73)F0801  2 
+ 1001 42092   4 650  C 4.0000+7 100000.0 9.4140-5 7.7180-6 0.858960          8640000.         LVLM.A.Moinester+       (73)F0801  2 
+ 1001 42092   4 650  C 4.0000+7 100000.0 1.0380-4 1.2500-5 0.830012          8640000.         LVLM.A.Moinester+       (73)F0801  2 
+ 1001 42092   4 650  C 4.0000+7 100000.0 5.9520-5 6.8460-6 0.789084          8640000.         LVLM.A.Moinester+       (73)F0801  2 
+ 1001 42092   4 650  C 4.0000+7 100000.0 4.7760-5 9.8950-6 0.741976          8640000.         LVLM.A.Moinester+       (73)F0801  2 
+ 1001 42092   4 650  C 4.0000+7 100000.0 4.8040-5 4.7400-6 0.693402          8640000.         LVLM.A.Moinester+       (73)F0801  2 
+#/DATA      10
+#/DATASET

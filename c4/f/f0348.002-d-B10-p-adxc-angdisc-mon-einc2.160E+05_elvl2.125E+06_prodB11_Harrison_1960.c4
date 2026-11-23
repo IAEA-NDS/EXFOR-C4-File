@@ -1,0 +1,33 @@
+#ENTRY      F0348
+#AUTHOR1    G.R.Harrison+
+#YEAR       1960
+#INSTITUTE  (1USAVBT)
+#TITLE      Differential and total cross sections of the
+#+          10B(d,p)11B reaction at low-deuteron energies
+#AUTHOR(S)  G.R.Harrison, G.D.Schmidt, C.D.Curtis
+#REF-CODE   (J,PR,117,532,1960)
+#REFERENCE  Phys.Rev. 117 (1960) 532
+#DATASETS   0
+#
+#DATASET    F0348002 
+#DATE       20210726
+#REACTION   5-B-10(D,P)5-B-11,PAR,DA
+#PROJ       1002
+#TARG       5010
+#MF         4
+#MT         600
+#PRODUCT    5-B-11
+#C4BEGIN    [ 1002  5010   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5010   4 600  C 216000.0          1.4700-6 2.4070-8 0.999994          2125000.         LVLG.R.Harrison+        (60)F0348  2 
+ 1002  5010   4 600  C 216000.0          1.5300-6 2.4070-8 0.942057          2125000.         LVLG.R.Harrison+        (60)F0348  2 
+ 1002  5010   4 600  C 216000.0          1.5910-6 2.4070-8 0.778243          2125000.         LVLG.R.Harrison+        (60)F0348  2 
+ 1002  5010   4 600  C 216000.0          1.6260-6 2.4070-8 0.492424          2125000.         LVLG.R.Harrison+        (60)F0348  2 
+ 1002  5010   4 600  C 216000.0          1.6590-6 2.4070-8 0.194234          2125000.         LVLG.R.Harrison+        (60)F0348  2 
+ 1002  5010   4 600  C 216000.0          1.7200-6 2.4070-8-0.178802          2125000.         LVLG.R.Harrison+        (60)F0348  2 
+ 1002  5010   4 600  C 216000.0          1.8070-6 2.4070-8-0.510543          2125000.         LVLG.R.Harrison+        (60)F0348  2 
+ 1002  5010   4 600  C 216000.0          1.6310-6 2.4070-8-0.769400          2125000.         LVLG.R.Harrison+        (60)F0348  2 
+#/DATA      8
+#/DATASET

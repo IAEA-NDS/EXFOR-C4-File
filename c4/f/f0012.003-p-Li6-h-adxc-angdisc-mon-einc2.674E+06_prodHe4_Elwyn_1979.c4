@@ -1,0 +1,38 @@
+#ENTRY      F0012
+#AUTHOR1    A.J.Elwyn+
+#YEAR       1979
+#INSTITUTE  (1USAANL)
+#TITLE      Cross sections for the Li-6(p,He-3)He-4 reaction at
+#+          energies between 0.1 and 3.0 MeV.
+#AUTHOR(S)  A.J.Elwyn, R.E.Holland, C.N.Davids, L.Meyer-Schutzmeister, 
+#+          F.P.Mooring, W.Ray Jr
+#REF-CODE   (J,PR/C,20,1984,1979)
+#REFERENCE  Phys.Rev.C 20 (1979) 1984
+#DATASETS   0
+#
+#DATASET    F0012003 
+#DATE       20251204
+#REACTION   3-LI-6(P,HE3)2-HE-4,,DA
+#PROJ       1001
+#TARG       3006
+#MF         4
+#MT         106
+#PRODUCT    2-HE-4
+#C4BEGIN    [ 1001  3006   4 106  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  3006   4 106  C 2674000.          0.010441 3.6300-4 0.866025                              A.J.Elwyn+           (79)F0012  3 
+ 1001  3006   4 106  C 2674000.          0.010470 3.6300-4 0.813101                              A.J.Elwyn+           (79)F0012  3 
+ 1001  3006   4 106  C 2674000.          0.010255 3.9300-4 0.671721                              A.J.Elwyn+           (79)F0012  3 
+ 1001  3006   4 106  C 2674000.          0.011312 3.9300-4 0.509041                              A.J.Elwyn+           (79)F0012  3 
+ 1001  3006   4 106  C 2674000.          0.011248 3.6300-4 0.330514                              A.J.Elwyn+           (79)F0012  3 
+ 1001  3006   4 106  C 2674000.          9.9140-3 3.9300-4 0.097583                              A.J.Elwyn+           (79)F0012  3 
+ 1001  3006   4 106  C 2674000.          9.9120-3 3.3300-4-0.036644                              A.J.Elwyn+           (79)F0012  3 
+ 1001  3006   4 106  C 2674000.          9.4550-3 3.3300-4-0.270600                              A.J.Elwyn+           (79)F0012  3 
+ 1001  3006   4 106  C 2674000.          8.9380-3 3.0300-4-0.463296                              A.J.Elwyn+           (79)F0012  3 
+ 1001  3006   4 106  C 2674000.          8.7840-3 3.0300-4-0.636078                              A.J.Elwyn+           (79)F0012  3 
+ 1001  3006   4 106  C 2674000.          9.5980-3 3.3300-4-0.788011                              A.J.Elwyn+           (79)F0012  3 
+ 1001  3006   4 106  C 2674000.          9.6880-3 2.4200-4-0.855364                              A.J.Elwyn+           (79)F0012  3 
+#/DATA      12
+#/DATASET

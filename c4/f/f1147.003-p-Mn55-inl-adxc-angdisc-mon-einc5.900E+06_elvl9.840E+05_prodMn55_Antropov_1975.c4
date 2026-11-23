@@ -1,0 +1,30 @@
+#ENTRY      F1147
+#AUTHOR1    A.E.Antropov+
+#YEAR       1975
+#INSTITUTE  (4RUSSUL)
+#TITLE      Proton scattering on 55Mn
+#AUTHOR(S)  A.E.Antropov, V.P.Gusev, P.P.Zarubin, P.D.Ioannou, B.N.Orlov
+#REF-CODE   (J,YF,22,21,1975)
+#REFERENCE  Yad.Fiz. 22 (1975) 21
+#DATASETS   0
+#
+#DATASET    F1147003 
+#DATE       20210525
+#REACTION   25-MN-55(P,INL)25-MN-55,PAR,DA
+#PROJ       1001
+#TARG       25055
+#MF         4
+#MT         601
+#PRODUCT    25-MN-55
+#C4BEGIN    [ 1001 25055   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 25055   4 601  C 5900000. 50000.00 1.3560-3 2.0340-4 0.674302          984000.0         LVLA.E.Antropov+        (75)F1147  3 
+ 1001 25055   4 601  C 5900000. 50000.00 1.4060-3 2.1090-4 0.475624          984000.0         LVLA.E.Antropov+        (75)F1147  3 
+ 1001 25055   4 601  C 5900000. 50000.00 1.0160-3 1.5240-4 0.238533          984000.0         LVLA.E.Antropov+        (75)F1147  3 
+ 1001 25055   4 601  C 5900000. 50000.00 7.9800-4 1.1970-4-0.020942          984000.0         LVLA.E.Antropov+        (75)F1147  3 
+ 1001 25055   4 601  C 5900000. 50000.00 8.8400-4 1.3260-4-0.230050          984000.0         LVLA.E.Antropov+        (75)F1147  3 
+ 1001 25055   4 601  C 5900000. 50000.00 8.2400-4 1.2360-4-0.660002          984000.0         LVLA.E.Antropov+        (75)F1147  3 
+#/DATA      6
+#/DATASET

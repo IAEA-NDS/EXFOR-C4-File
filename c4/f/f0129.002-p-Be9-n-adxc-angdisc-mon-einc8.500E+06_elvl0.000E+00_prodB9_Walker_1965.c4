@@ -1,0 +1,35 @@
+#ENTRY      F0129
+#AUTHOR1    B.D.Walker+
+#YEAR       1965
+#INSTITUTE  (1USALRL)
+#TITLE      Angular distribution and polarization of neutrons from
+#+          Be-9(p,n0)B-9 and B-11(p,n0)C-11 reactions
+#AUTHOR(S)  B.D.Walker, C.Wong, J.D.Anderson, J.W.McClure
+#REF-CODE   (J,PR,137,B1504,1965)
+#REFERENCE  Phys.Rev. 137 (1965) B1504
+#DATASETS   0
+#
+#DATASET    F0129002 
+#DATE       20200509
+#REACTION   4-BE-9(P,N)5-B-9,PAR,DA
+#PROJ       1001
+#TARG       4009
+#MF         4
+#MT         50
+#PRODUCT    5-B-9
+#C4BEGIN    [ 1001  4009   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   4  50  C 8500000.          6.8100-3 1.3800-4 0.981000          0.000000         LVLB.D.Walker+          (65)F0129  2 
+ 1001  4009   4  50  C 8500000.          6.3300-3 1.2900-4 0.932000          0.000000         LVLB.D.Walker+          (65)F0129  2 
+ 1001  4009   4  50  C 8500000.          5.6700-3 1.1500-4 0.812000          0.000000         LVLB.D.Walker+          (65)F0129  2 
+ 1001  4009   4  50  C 8500000.          5.4300-3 1.1000-4 0.618000          0.000000         LVLB.D.Walker+          (65)F0129  2 
+ 1001  4009   4  50  C 8500000.          5.0200-3 1.0200-4 0.400000          0.000000         LVLB.D.Walker+          (65)F0129  2 
+ 1001  4009   4  50  C 8500000.          3.7500-3 7.6300-5 0.134000          0.000000         LVLB.D.Walker+          (65)F0129  2 
+ 1001  4009   4  50  C 8500000.          3.2300-3 6.5500-5-0.144000          0.000000         LVLB.D.Walker+          (65)F0129  2 
+ 1001  4009   4  50  C 8500000.          2.9800-3 6.0500-5-0.387000          0.000000         LVLB.D.Walker+          (65)F0129  2 
+ 1001  4009   4  50  C 8500000.          4.0000-3 8.1200-5-0.886000          0.000000         LVLB.D.Walker+          (65)F0129  2 
+ 1001  4009   4  50  C 8500000.          5.2700-3 1.0700-4-0.948000          0.000000         LVLB.D.Walker+          (65)F0129  2 
+#/DATA      10
+#/DATASET

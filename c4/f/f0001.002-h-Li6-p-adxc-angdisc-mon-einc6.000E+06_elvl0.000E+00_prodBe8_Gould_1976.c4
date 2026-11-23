@@ -1,0 +1,38 @@
+#ENTRY      F0001
+#AUTHOR1    C.R.Gould+
+#YEAR       1976
+#INSTITUTE  (1USATNL)
+#TITLE      Cross section measurements for charged particle fusion
+#+          reactors: the Li-6(He-3,p)2alpha reaction.
+#AUTHOR(S)  C.R.Gould, J.R.Boyce
+#REF-CODE   (J,NSE,60,(4),477,197608)
+#REFERENCE  Nucl.Sci.Eng. 60 No.4 (1976) 477
+#DATASETS   0
+#
+#DATASET    F0001002 
+#DATE       20110808
+#REACTION   3-LI-6(HE3,P)4-BE-8,PAR,DA
+#PROJ       2003
+#TARG       3006
+#MF         4
+#MT         600
+#PRODUCT    4-BE-8
+#C4BEGIN    [ 2003  3006   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  3006   4 600  C 6000000.          8.3200-4          0.888697          0.000000         LVLC.R.Gould+           (76)F0001  2 
+ 2003  3006   4 600  C 6000000.          5.7920-4          0.718369          0.000000         LVLC.R.Gould+           (76)F0001  2 
+ 2003  3006   4 600  C 6000000.          7.4630-4          0.575719          0.000000         LVLC.R.Gould+           (76)F0001  2 
+ 2003  3006   4 600  C 6000000.          7.1450-4          0.411196          0.000000         LVLC.R.Gould+           (76)F0001  2 
+ 2003  3006   4 600  C 6000000.          6.3540-4          0.218995          0.000000         LVLC.R.Gould+           (76)F0001  2 
+ 2003  3006   4 600  C 6000000.          4.0130-4         -0.123255          0.000000         LVLC.R.Gould+           (76)F0001  2 
+ 2003  3006   4 600  C 6000000.          4.2400-4         -0.295708          0.000000         LVLC.R.Gould+           (76)F0001  2 
+ 2003  3006   4 600  C 6000000.          4.3680-4         -0.447759          0.000000         LVLC.R.Gould+           (76)F0001  2 
+ 2003  3006   4 600  C 6000000.          5.4910-4         -0.607376          0.000000         LVLC.R.Gould+           (76)F0001  2 
+ 2003  3006   4 600  C 6000000.          7.8020-4         -0.718126          0.000000         LVLC.R.Gould+           (76)F0001  2 
+ 2003  3006   4 600  C 6000000.          1.3510-3         -0.813101          0.000000         LVLC.R.Gould+           (76)F0001  2 
+ 2003  3006   4 600  C 6000000.          2.2290-3         -0.901077          0.000000         LVLC.R.Gould+           (76)F0001  2 
+ 2003  3006   4 600  C 6000000.          2.9360-3         -0.939693          0.000000         LVLC.R.Gould+           (76)F0001  2 
+#/DATA      13
+#/DATASET

@@ -1,0 +1,45 @@
+#ENTRY      F1476
+#AUTHOR1    L.N.Generalov+
+#YEAR       2022
+#INSTITUTE  (4RUSEPA)
+#TITLE      6Li(d,p0)7Li, 6Li(d,p1)7Li* (0.478 MeV),
+#+          6Li(d,p2)7Li* (4.63 MeV), 6Li(d,p4)7Li* (7.46 MeV),
+#+          6Li(d,n0)7Be, 6Li(d,n1)7Be* (0.429 MeV),
+#+          6Li(d,n2)7Be* (4.57 MeV), 6Li(d,n4)7Be* (7.21 MeV),
+#+          6Li(d,x)7Be reactions cross sections
+#AUTHOR(S)  L.N.Generalov, V.A.Zherebtsov, S.M.Selyankina
+#REF-CODE   (J,BAS,86,937,2022)
+#REFERENCE  B.Russ.Ac.Sci.Phys. 86 (2022) 937
+#DATASETS   0
+#
+#DATASET    F1476002 
+#DATE       20220824
+#REACTION   3-LI-6(D,P)3-LI-7,PAR,DA
+#PROJ       1002
+#TARG       3006
+#MF         4
+#MT         600
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1002  3006   4 600 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3006   4 600 AC 4500000.          7.0500-3 5.6400-4 0.922538          0.000000         LVLL.N.Generalov+       (22)F1476  2 
+ 1002  3006   4 600 AC 4500000.          7.6200-3 6.0960-4 0.859852          0.000000         LVLL.N.Generalov+       (22)F1476  2 
+ 1002  3006   4 600 AC 4500000.          7.4000-3 7.4000-4 0.829038          0.000000         LVLL.N.Generalov+       (22)F1476  2 
+ 1002  3006   4 600 AC 4500000.          5.7400-3 5.1660-4 0.705872          0.000000         LVLL.N.Generalov+       (22)F1476  2 
+ 1002  3006   4 600 AC 4500000.          3.6900-3 3.3210-4 0.603208          0.000000         LVLL.N.Generalov+       (22)F1476  2 
+ 1002  3006   4 600 AC 4500000.          1.9500-3 1.7550-4 0.392337          0.000000         LVLL.N.Generalov+       (22)F1476  2 
+ 1002  3006   4 600 AC 4500000.          2.1000-3 1.6800-4 0.305695          0.000000         LVLL.N.Generalov+       (22)F1476  2 
+ 1002  3006   4 600 AC 4500000.          2.2000-3 2.2000-4 0.216440          0.000000         LVLL.N.Generalov+       (22)F1476  2 
+ 1002  3006   4 600 AC 4500000.          2.3500-3 2.1150-4 0.038388          0.000000         LVLL.N.Generalov+       (22)F1476  2 
+ 1002  3006   4 600 AC 4500000.          2.4000-3 1.8000-4-0.137445          0.000000         LVLL.N.Generalov+       (22)F1476  2 
+ 1002  3006   4 600 AC 4500000.          2.4500-3 2.2050-4-0.305695          0.000000         LVLL.N.Generalov+       (22)F1476  2 
+ 1002  3006   4 600 AC 4500000.          2.2000-3 1.9800-4-0.461749          0.000000         LVLL.N.Generalov+       (22)F1476  2 
+ 1002  3006   4 600 AC 4500000.          2.0400-3 2.0400-4-0.600420          0.000000         LVLL.N.Generalov+       (22)F1476  2 
+ 1002  3006   4 600 AC 4500000.          2.0000-3 2.0000-4-0.720551          0.000000         LVLL.N.Generalov+       (22)F1476  2 
+ 1002  3006   4 600 AC 4500000.          1.8800-3 1.6920-4-0.820152          0.000000         LVLL.N.Generalov+       (22)F1476  2 
+ 1002  3006   4 600 AC 4500000.          1.7600-3 1.7600-4-0.898028          0.000000         LVLL.N.Generalov+       (22)F1476  2 
+ 1002  3006   4 600 AC 4500000.          1.7000-3 1.7000-4-0.954761          0.000000         LVLL.N.Generalov+       (22)F1476  2 
+#/DATA      17
+#/DATASET

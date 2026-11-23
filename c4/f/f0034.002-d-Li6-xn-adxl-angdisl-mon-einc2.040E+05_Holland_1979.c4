@@ -1,0 +1,33 @@
+#ENTRY      F0034
+#AUTHOR1    R.E.Holland+
+#YEAR       1979
+#INSTITUTE  (1USAANL)
+#TITLE      Absolute cross sections for three-body breakup
+#+          reactions Li-6(d,n+He-3)He-4 and Li-6(d,p+H-3)He-4.
+#AUTHOR(S)  R.E.Holland, A.J.Elwyn, C.N.Davids, F.J.Lynch, L.Meyer-Schutzmeister, 
+#+          J.E.Monahan, F.P.Mooring, W.Ray Jr
+#REF-CODE   (J,PR/C,19,592,1979)
+#REFERENCE  Phys.Rev.C 19 (1979) 592
+#DATASETS   0
+#
+#DATASET    F0034002 
+#DATE       20200128
+#REACTION   3-LI-6(D,X)0-NN-1,,DA
+#PROJ       1002
+#TARG       3006
+#MF         4
+#MT         201
+#PRODUCT    0-NN-1
+#C4BEGIN    [ 1002  3006   4 201  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  3006   4 201    204000.0          6.1000-4          1.000000                              R.E.Holland+         (79)F0034  2 
+ 1002  3006   4 201    204000.0          6.5000-4          0.866025                              R.E.Holland+         (79)F0034  2 
+ 1002  3006   4 201    204000.0          6.9000-4          0.500000                              R.E.Holland+         (79)F0034  2 
+ 1002  3006   4 201    204000.0          5.6000-4          0.258819                              R.E.Holland+         (79)F0034  2 
+ 1002  3006   4 201    204000.0          5.5000-4         -0.368125                              R.E.Holland+         (79)F0034  2 
+ 1002  3006   4 201    204000.0          5.7000-4         -0.594823                              R.E.Holland+         (79)F0034  2 
+ 1002  3006   4 201    204000.0          5.4000-4         -0.852640                              R.E.Holland+         (79)F0034  2 
+#/DATA      7
+#/DATASET

@@ -1,0 +1,38 @@
+#ENTRY      F0245
+#AUTHOR1    O.B.Chubinskiy+
+#YEAR       1984
+#INSTITUTE  (4RUSSUL)
+#TITLE      Analysis of data on ~ 6 MeV proton scattering by Mg-24.
+#AUTHOR(S)  O.B.Chubinskiy, Yu.V.Kangropol, L.I.Vinogradov, Yu.F.Andropov, 
+#+          L.V.Gustova
+#REF-CODE   (J,IZV,48,(5),972,1984)
+#REFERENCE  Izv.Ross.AN,Fiz. 48 No.5 (1984) 972
+#DATASETS   0
+#
+#DATASET    F0245002 
+#DATE       20031003
+#REACTION   12-MG-24(P,INL)12-MG-24,PAR,DA
+#PROJ       1001
+#TARG       12024
+#MF         4
+#MT         601
+#PRODUCT    12-MG-24
+#C4BEGIN    [ 1001 12024   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 12024   4 601    5756500.          0.050907         -0.500000          1369000.         LVLO.B.Chubinskiy+      (84)F0245  2 
+ 1001 12024   4 601    5789300.          0.043487         -0.500000          1369000.         LVLO.B.Chubinskiy+      (84)F0245  2 
+ 1001 12024   4 601    5847300.          0.047775         -0.500000          1369000.         LVLO.B.Chubinskiy+      (84)F0245  2 
+ 1001 12024   4 601    5877600.          0.046826         -0.500000          1369000.         LVLO.B.Chubinskiy+      (84)F0245  2 
+ 1001 12024   4 601    5898800.          0.042887         -0.500000          1369000.         LVLO.B.Chubinskiy+      (84)F0245  2 
+ 1001 12024   4 601    5927800.          0.035908         -0.500000          1369000.         LVLO.B.Chubinskiy+      (84)F0245  2 
+ 1001 12024   4 601    5957400.          0.035680         -0.500000          1369000.         LVLO.B.Chubinskiy+      (84)F0245  2 
+ 1001 12024   4 601    5977800.          0.030880         -0.500000          1369000.         LVLO.B.Chubinskiy+      (84)F0245  2 
+ 1001 12024   4 601    5999600.          0.035128         -0.500000          1369000.         LVLO.B.Chubinskiy+      (84)F0245  2 
+ 1001 12024   4 601    6029200.          0.035474         -0.500000          1369000.         LVLO.B.Chubinskiy+      (84)F0245  2 
+ 1001 12024   4 601    6059700.          0.036968         -0.500000          1369000.         LVLO.B.Chubinskiy+      (84)F0245  2 
+ 1001 12024   4 601    6080800.          0.041649         -0.500000          1369000.         LVLO.B.Chubinskiy+      (84)F0245  2 
+ 1001 12024   4 601    6130100.          0.037916         -0.500000          1369000.         LVLO.B.Chubinskiy+      (84)F0245  2 
+#/DATA      13
+#/DATASET

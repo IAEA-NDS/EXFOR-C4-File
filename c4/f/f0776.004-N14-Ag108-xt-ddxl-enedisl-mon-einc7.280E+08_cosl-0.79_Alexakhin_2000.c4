@@ -1,0 +1,43 @@
+#ENTRY      F0776
+#AUTHOR1    V.Yu.Alexakhin+
+#YEAR       2000
+#INSTITUTE  (4ZZZDUB)
+#TITLE      Emission of protons, deuterons, and tritons from 14N+Ag
+#+          at 52 MeV/nucleon.
+#AUTHOR(S)  V.Yu.Alexakhin, M.I.Gostkin, K.K.Gudima, M.P.Ivanov, A.Kugler, 
+#+          I.V.Kuznetsov, S.I.Merzlyakov, C.L.Morris, E.A.Pasyuk, Yu.E.Penionzhkevich, 
+#+          S.Yu.Porokhovoy, Yu.G.Sobolev, V.D.Toneev
+#REF-CODE   (J,YF,63,1763,2000)
+#REFERENCE  Yad.Fiz. 63 (2000) 1763
+#DATASETS   0
+#
+#DATASET    F0776004 
+#DATE       20060419
+#REACTION   47-AG-108(7-N-14,X)1-H-3,,DA/DE
+#PROJ       7014
+#TARG       47108
+#MF         6
+#MT         205
+#PRODUCT    1-H-3
+#C4BEGIN    [ 7014 47108   6 205  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 7014 47108   6 205    7.2800+8          3.332-12 7.048-13-0.788011          5.1616+7          E2V.Yu.Alexakhin+      (00)F0776  4 
+ 7014 47108   6 205    7.2800+8          1.546-12 4.625-13-0.788011          5.5497+7          E2V.Yu.Alexakhin+      (00)F0776  4 
+ 7014 47108   6 205    7.2800+8          1.276-12 3.531-13-0.788011          5.9377+7          E2V.Yu.Alexakhin+      (00)F0776  4 
+ 7014 47108   6 205    7.2800+8          7.433-13 2.566-13-0.788011          6.3258+7          E2V.Yu.Alexakhin+      (00)F0776  4 
+ 7014 47108   6 205    7.2800+8          5.336-13 1.842-13-0.788011          6.7342+7          E2V.Yu.Alexakhin+      (00)F0776  4 
+ 7014 47108   6 205    7.2800+8          2.750-13 1.282-13-0.788011          7.1223+7          E2V.Yu.Alexakhin+      (00)F0776  4 
+ 7014 47108   6 205    7.2800+8          1.322-13 8.577-14-0.788011          7.5103+7          E2V.Yu.Alexakhin+      (00)F0776  4 
+ 7014 47108   6 205    7.2800+8          2.192-13 1.120-13-0.788011          7.8984+7          E2V.Yu.Alexakhin+      (00)F0776  4 
+ 7014 47108   6 205    7.2800+8          2.703-15 1.249-14-0.788011          8.2864+7          E2V.Yu.Alexakhin+      (00)F0776  4 
+ 7014 47108   6 205    7.2800+8          2.310-13 1.119-13-0.788011          8.7154+7          E2V.Yu.Alexakhin+      (00)F0776  4 
+ 7014 47108   6 205    7.2800+8          3.053-14 2.708-14-0.788011          9.5119+7          E2V.Yu.Alexakhin+      (00)F0776  4 
+ 7014 47108   6 205    7.2800+8          2.798-14 2.755-14-0.788011          9.9000+7          E2V.Yu.Alexakhin+      (00)F0776  4 
+ 7014 47108   6 205    7.2800+8          5.822-14 5.610-14-0.788011          1.0697+8          E2V.Yu.Alexakhin+      (00)F0776  4 
+ 7014 47108   6 205    7.2800+8          2.610-14 1.784-14-0.788011          1.3107+8          E2V.Yu.Alexakhin+      (00)F0776  4 
+ 7014 47108   6 205    7.2800+8          6.242-14 5.762-14-0.788011          1.3515+8          E2V.Yu.Alexakhin+      (00)F0776  4 
+ 7014 47108   6 205    7.2800+8          2.897-14 2.743-14-0.788011          1.3903+8          E2V.Yu.Alexakhin+      (00)F0776  4 
+#/DATA      16
+#/DATASET

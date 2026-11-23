@@ -1,0 +1,31 @@
+#ENTRY      F1050
+#AUTHOR1    H.Beaumevieille+
+#YEAR       1967
+#INSTITUTE  (3ALGCDT)
+#TITLE      Study of reaction (d,p) on 14N at Ed < 2.2 MeV.
+#AUTHOR(S)  H.Beaumevieille, M.Lambert, M.Yaker, A.Amokrane
+#REF-CODE   (J,NC/B,47,139,1967)
+#REFERENCE  Nuovo Cim.B 47 (1967) 139
+#DATASETS   0
+#
+#DATASET    F1050003 
+#DATE       20200416
+#REACTION   7-N-14(D,P)7-N-15,PAR,DA
+#PROJ       1002
+#TARG       7014
+#MF         4
+#MT         600
+#PRODUCT    7-N-15
+#C4BEGIN    [ 1002  7014   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  7014   4 600  C 1004000.          2.0900-4          6.123-17          0.000000         LVLH.Beaumevieille+     (67)F1050  3 
+ 1002  7014   4 600  C 1208000.          3.8800-4          6.123-17          0.000000         LVLH.Beaumevieille+     (67)F1050  3 
+ 1002  7014   4 600  C 1408000.          4.7800-4          6.123-17          0.000000         LVLH.Beaumevieille+     (67)F1050  3 
+ 1002  7014   4 600  C 1604000.          6.8600-4          6.123-17          0.000000         LVLH.Beaumevieille+     (67)F1050  3 
+ 1002  7014   4 600  C 1798000.          7.0200-4          6.123-17          0.000000         LVLH.Beaumevieille+     (67)F1050  3 
+ 1002  7014   4 600  C 1983000.          4.8900-4          6.123-17          0.000000         LVLH.Beaumevieille+     (67)F1050  3 
+ 1002  7014   4 600  C 2185000.          5.7900-4          6.123-17          0.000000         LVLH.Beaumevieille+     (67)F1050  3 
+#/DATA      7
+#/DATASET

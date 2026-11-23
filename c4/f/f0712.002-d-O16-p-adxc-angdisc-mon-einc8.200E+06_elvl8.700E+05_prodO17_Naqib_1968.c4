@@ -1,0 +1,31 @@
+#ENTRY      F0712
+#AUTHOR1    I.M.Naqib+
+#YEAR       1968
+#INSTITUTE  (2UK LVP)
+#TITLE      Absolute cross sections of the 16O(d,p)17O reaction and
+#+          spectroscopic factors of states in 17O.
+#AUTHOR(S)  I.M.Naqib, L.L.Green
+#REF-CODE   (J,NP/A,112,76,1968)
+#REFERENCE  Nucl.Phys.A 112 (1968) 76
+#DATASETS   0
+#
+#DATASET    F0712002 
+#DATE       20130320
+#REACTION   8-O-16(D,P)8-O-17,PAR,DA
+#PROJ       1002
+#TARG       8016
+#MF         4
+#MT         600
+#PRODUCT    8-O-17
+#C4BEGIN    [ 1002  8016   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  8016   4 600  C 8200000. 12500.00 0.025812 2.3546-3 0.942845          870000.0         LVLI.M.Naqib+           (68)F0712  2 
+ 1002  8016   4 600  C 8200000. 12500.00 9.3961-3 1.2203-3 0.902322          870000.0         LVLI.M.Naqib+           (68)F0712  2 
+ 1002  8016   4 600  C 8200000. 12500.00 8.5540-3 9.4366-4 0.855328          870000.0         LVLI.M.Naqib+           (68)F0712  2 
+ 1002  8016   4 600  C 8200000. 12500.00 0.010394 9.4693-4 0.782336          870000.0         LVLI.M.Naqib+           (68)F0712  2 
+ 1002  8016   4 600  C 8200000. 12500.00 8.4523-3 8.5087-4 0.698115          870000.0         LVLI.M.Naqib+           (68)F0712  2 
+ 1002  8016   4 600  C 8200000. 12500.00 7.4324-3 8.2178-4 0.615648          870000.0         LVLI.M.Naqib+           (68)F0712  2 
+#/DATA      6
+#/DATASET

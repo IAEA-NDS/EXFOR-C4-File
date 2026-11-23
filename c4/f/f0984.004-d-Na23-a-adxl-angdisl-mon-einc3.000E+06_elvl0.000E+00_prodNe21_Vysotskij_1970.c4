@@ -1,0 +1,40 @@
+#ENTRY      F0984
+#AUTHOR1    G.Ya.Vysotskij+
+#YEAR       1970
+#INSTITUTE  (4UKRKHU)
+#TITLE      The 23Na(d,a)21Ne reaction for deuteron energies of
+#+          2.3-4.0 MeV.
+#AUTHOR(S)  G.Ya.Vysotskij, I.I.Zalyubovskij, B.M.Zabegaj, A.V.Kuznichenko, 
+#+          A.P.Lobkovskij, A.A.Melenevskij, O.F.Nemets, V.N.Nemykin
+#REF-CODE   (J,IZV,34,1761,1970)
+#REFERENCE  Izv.Ross.AN,Fiz. 34 (1970) 1761
+#DATASETS   0
+#
+#DATASET    F0984004 
+#DATE       20090205
+#REACTION   11-NA-23(D,A)10-NE-21,PAR,DA
+#PROJ       1002
+#TARG       11023
+#MF         4
+#MT         800
+#PRODUCT    10-NE-21
+#C4BEGIN    [ 1002 11023   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 11023   4 800    3000000.          5.7300-4 7.5900-5 0.768920          0.000000         LVLG.Ya.Vysotskij+      (70)F0984  4 
+ 1002 11023   4 800    3000000.          4.6620-4 4.9400-5 0.663678          0.000000         LVLG.Ya.Vysotskij+      (70)F0984  4 
+ 1002 11023   4 800    3000000.          4.0410-4 5.8000-5 0.512148          0.000000         LVLG.Ya.Vysotskij+      (70)F0984  4 
+ 1002 11023   4 800    3000000.          4.0900-4 5.3600-5 0.355303          0.000000         LVLG.Ya.Vysotskij+      (70)F0984  4 
+ 1002 11023   4 800    3000000.          4.7630-4 4.9100-5 0.188701          0.000000         LVLG.Ya.Vysotskij+      (70)F0984  4 
+ 1002 11023   4 800    3000000.          4.9010-4 5.3800-5 0.028009          0.000000         LVLG.Ya.Vysotskij+      (70)F0984  4 
+ 1002 11023   4 800    3000000.          4.5030-4 5.3600-5-0.171276          0.000000         LVLG.Ya.Vysotskij+      (70)F0984  4 
+ 1002 11023   4 800    3000000.          4.6860-4 5.3700-5-0.351188          0.000000         LVLG.Ya.Vysotskij+      (70)F0984  4 
+ 1002 11023   4 800    3000000.          4.2430-4 5.3900-5-0.487403          0.000000         LVLG.Ya.Vysotskij+      (70)F0984  4 
+ 1002 11023   4 800    3000000.          4.4250-4 4.9100-5-0.641048          0.000000         LVLG.Ya.Vysotskij+      (70)F0984  4 
+ 1002 11023   4 800    3000000.          4.2960-4 4.9300-5-0.780540          0.000000         LVLG.Ya.Vysotskij+      (70)F0984  4 
+ 1002 11023   4 800    3000000.          4.7010-4 4.9200-5-0.864626          0.000000         LVLG.Ya.Vysotskij+      (70)F0984  4 
+ 1002 11023   4 800    3000000.          3.3650-4 5.3600-5-0.939513          0.000000         LVLG.Ya.Vysotskij+      (70)F0984  4 
+ 1002 11023   4 800    3000000.          2.7000-4 5.3500-5-0.986996          0.000000         LVLG.Ya.Vysotskij+      (70)F0984  4 
+#/DATA      14
+#/DATASET

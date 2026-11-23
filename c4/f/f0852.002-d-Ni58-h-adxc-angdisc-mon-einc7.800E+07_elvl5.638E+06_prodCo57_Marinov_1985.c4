@@ -1,0 +1,39 @@
+#ENTRY      F0852
+#AUTHOR1    A.Marinov+
+#YEAR       1985
+#INSTITUTE  (2GERJUL)
+#TITLE      Proton-hole states in 57Co studied with the
+#+          58Ni(d,3He)57Co reaction at 78 MeV.
+#AUTHOR(S)  A.Marinov, W.Oelert, S.Gopal, B.Brinkmoller, G.Hlawatsch, 
+#+          C.Mayer-Boricke, J.Meissburger, D.Paul, M.Rogge, J.G.M.Romer, 
+#+          J.L.Tain, P.Turek, L.Zemlo, R.B.M.Mooy, P.W.M.Glaudemans, 
+#+          S.Brant, V.Paar, M.Vouk, V.Lopac
+#REF-CODE   (J,NP/A,438,429,1985)
+#REFERENCE  Nucl.Phys.A 438 (1985) 429
+#DATASETS   0
+#
+#DATASET    F0852002 
+#DATE       20070918
+#REACTION   28-NI-58(D,HE3)27-CO-57,PAR,DA
+#PROJ       1002
+#TARG       28058
+#MF         4
+#MT         750
+#PRODUCT    27-CO-57
+#C4BEGIN    [ 1002 28058   4 750  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 28058   4 750  C 7.8000+7 12500.00 1.0250-4 1.5375-5 0.998842          5638000.         LVLA.Marinov+           (85)F0852  2 
+ 1002 28058   4 750  C 7.8000+7 12500.00 1.1947-4 1.7921-5 0.997806          5638000.         LVLA.Marinov+           (85)F0852  2 
+ 1002 28058   4 750  C 7.8000+7 12500.00 1.0753-4 1.6130-5 0.996428          5638000.         LVLA.Marinov+           (85)F0852  2 
+ 1002 28058   4 750  C 7.8000+7 12500.00 8.7090-5 1.3064-5 0.994329          5638000.         LVLA.Marinov+           (85)F0852  2 
+ 1002 28058   4 750  C 7.8000+7 12500.00 8.3120-5 1.2468-5 0.992447          5638000.         LVLA.Marinov+           (85)F0852  2 
+ 1002 28058   4 750  C 7.8000+7 12500.00 6.4980-5 9.7470-6 0.989767          5638000.         LVLA.Marinov+           (85)F0852  2 
+ 1002 28058   4 750  C 7.8000+7 12500.00 5.2050-5 7.8075-6 0.981172          5638000.         LVLA.Marinov+           (85)F0852  2 
+ 1002 28058   4 750  C 7.8000+7 12500.00 4.9690-5 7.4535-6 0.975921          5638000.         LVLA.Marinov+           (85)F0852  2 
+ 1002 28058   4 750  C 7.8000+7 12500.00 1.5540-5 2.3310-6 0.968973          5638000.         LVLA.Marinov+           (85)F0852  2 
+ 1002 28058   4 750  C 7.8000+7 12500.00 2.2120-5 3.3180-6 0.961411          5638000.         LVLA.Marinov+           (85)F0852  2 
+ 1002 28058   4 750  C 7.8000+7 12500.00 1.4700-5 2.2050-6 0.930296          5638000.         LVLA.Marinov+           (85)F0852  2 
+#/DATA      11
+#/DATASET

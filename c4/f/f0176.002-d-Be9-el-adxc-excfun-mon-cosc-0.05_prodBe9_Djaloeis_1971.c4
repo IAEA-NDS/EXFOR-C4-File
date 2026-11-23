@@ -1,0 +1,36 @@
+#ENTRY      F0176
+#AUTHOR1    A.Djaloeis+
+#YEAR       1971
+#INSTITUTE  (3AULCBR)
+#TITLE      Tensor polarization and differential cross section for
+#+          the 9Be(d,d)9Be elastic scattering at low energies
+#AUTHOR(S)  A.Djaloeis, H.Cords, J.Nurzynski
+#REF-CODE   (J,NP/A,163,131,1971)
+#REFERENCE  Nucl.Phys.A 163 (1971) 131
+#DATASETS   0
+#
+#DATASET    F0176002 
+#DATE       20200613
+#REACTION   4-BE-9(D,EL)4-BE-9,,DA
+#PROJ       1002
+#TARG       4009
+#MF         4
+#MT         2
+#PRODUCT    4-BE-9
+#C4BEGIN    [ 1002  4009   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   4   2  C 5005000.          0.019040 3.8080-3-0.047804                              A.Djaloeis+          (71)F0176  2 
+ 1002  4009   4   2  C 5213000.          0.018570 3.7140-3-0.047804                              A.Djaloeis+          (71)F0176  2 
+ 1002  4009   4   2  C 5410000.          0.016600 3.3200-3-0.047804                              A.Djaloeis+          (71)F0176  2 
+ 1002  4009   4   2  C 5606000.          0.015820 3.1640-3-0.047804                              A.Djaloeis+          (71)F0176  2 
+ 1002  4009   4   2  C 5802000.          0.015050 3.0100-3-0.047804                              A.Djaloeis+          (71)F0176  2 
+ 1002  4009   4   2  C 6000000.          0.012480 2.4960-3-0.047804                              A.Djaloeis+          (71)F0176  2 
+ 1002  4009   4   2  C 6207000.          0.012610 2.5220-3-0.047804                              A.Djaloeis+          (71)F0176  2 
+ 1002  4009   4   2  C 6403000.          0.011840 2.3680-3-0.047804                              A.Djaloeis+          (71)F0176  2 
+ 1002  4009   4   2  C 6599000.          0.011660 2.3320-3-0.047804                              A.Djaloeis+          (71)F0176  2 
+ 1002  4009   4   2  C 6795000.          0.010880 2.1760-3-0.047804                              A.Djaloeis+          (71)F0176  2 
+ 1002  4009   4   2  C 7014000.          0.011020 2.2040-3-0.047804                              A.Djaloeis+          (71)F0176  2 
+#/DATA      11
+#/DATASET

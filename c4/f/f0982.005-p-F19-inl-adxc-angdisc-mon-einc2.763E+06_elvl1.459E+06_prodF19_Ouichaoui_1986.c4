@@ -1,0 +1,36 @@
+#ENTRY      F0982
+#AUTHOR1    S.Ouichaoui+
+#YEAR       1986
+#INSTITUTE  (3ALGALG)
+#TITLE      T=1 states in 20Ne as compound resonances induced by
+#+          the p+19F reactions.
+#AUTHOR(S)  S.Ouichaoui, H.Beaumevieille, N.Bendjaballah
+#REF-CODE   (J,NC/A,94,133,1986)
+#REFERENCE  Nuovo Cim.A 94 (1986) 133
+#DATASETS   0
+#
+#DATASET    F0982005 
+#DATE       20090127
+#REACTION   9-F-19(P,INL)9-F-19,PAR,DA
+#PROJ       1001
+#TARG       9019
+#MF         4
+#MT         601
+#PRODUCT    9-F-19
+#C4BEGIN    [ 1001  9019   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  9019   4 601  C 2763000. 10000.00 0.013419 8.7420-4 0.689518          1459000.         LVLS.Ouichaoui+         (86)F0982  5 
+ 1001  9019   4 601  C 2763000. 10000.00 0.014073 7.1050-4 0.520533          1459000.         LVLS.Ouichaoui+         (86)F0982  5 
+ 1001  9019   4 601  C 2763000. 10000.00 0.012488 6.0110-4 0.434319          1459000.         LVLS.Ouichaoui+         (86)F0982  5 
+ 1001  9019   4 601  C 2763000. 10000.00 0.012267 7.1040-4 0.129055          1459000.         LVLS.Ouichaoui+         (86)F0982  5 
+ 1001  9019   4 601  C 2763000. 10000.00 0.011775 7.6490-4 0.039242          1459000.         LVLS.Ouichaoui+         (86)F0982  5 
+ 1001  9019   4 601  C 2763000. 10000.00 0.010954 7.6500-4-0.205179          1459000.         LVLS.Ouichaoui+         (86)F0982  5 
+ 1001  9019   4 601  C 2763000. 10000.00 0.013138 9.8350-4-0.370233          1459000.         LVLS.Ouichaoui+         (86)F0982  5 
+ 1001  9019   4 601  C 2763000. 10000.00 0.011662 5.4640-4-0.437587          1459000.         LVLS.Ouichaoui+         (86)F0982  5 
+ 1001  9019   4 601  C 2763000. 10000.00 0.011006 7.1030-4-0.502567          1459000.         LVLS.Ouichaoui+         (86)F0982  5 
+ 1001  9019   4 601  C 2763000. 10000.00 0.012206 8.7430-4-0.743612          1459000.         LVLS.Ouichaoui+         (86)F0982  5 
+ 1001  9019   4 601  C 2763000. 10000.00 0.013133 8.7420-4-0.895401          1459000.         LVLS.Ouichaoui+         (86)F0982  5 
+#/DATA      11
+#/DATASET

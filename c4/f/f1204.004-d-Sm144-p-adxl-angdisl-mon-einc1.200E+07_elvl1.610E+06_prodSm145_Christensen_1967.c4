@@ -1,0 +1,32 @@
+#ENTRY      F1204
+#AUTHOR1    P.R.Christensen+
+#YEAR       1967
+#INSTITUTE  (2DENNBI)
+#TITLE      Neutron single-particle states in Nd-143 and Sm-145.
+#AUTHOR(S)  P.R.Christensen, B.Herskind, R.R.Borchers, L.Westgaard
+#REF-CODE   (J,NP/A,102,481,1967)
+#REFERENCE  Nucl.Phys.A 102 (1967) 481
+#DATASETS   0
+#
+#DATASET    F1204004 
+#DATE       20131007
+#REACTION   62-SM-144(D,P)62-SM-145,PAR,DA
+#PROJ       1002
+#TARG       62144
+#MF         4
+#MT         600
+#PRODUCT    62-SM-145
+#C4BEGIN    [ 1002 62144   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 62144   4 600    1.2000+7 45000.00 1.7424-3          0.784343          1610000.         LVLP.R.Christensen+     (67)F1204  4 
+ 1002 62144   4 600    1.2000+7 45000.00 1.4595-3          0.723811          1610000.         LVLP.R.Christensen+     (67)F1204  4 
+ 1002 62144   4 600    1.2000+7 45000.00 1.6141-3          0.660788          1610000.         LVLP.R.Christensen+     (67)F1204  4 
+ 1002 62144   4 600    1.2000+7 45000.00 5.5720-4          0.518326          1610000.         LVLP.R.Christensen+     (67)F1204  4 
+ 1002 62144   4 600    1.2000+7 45000.00 2.0660-4          0.013788          1610000.         LVLP.R.Christensen+     (67)F1204  4 
+ 1002 62144   4 600    1.2000+7 45000.00 5.0600-5         -0.483741          1610000.         LVLP.R.Christensen+     (67)F1204  4 
+ 1002 62144   4 600    1.2000+7 45000.00 1.9900-5         -0.755167          1610000.         LVLP.R.Christensen+     (67)F1204  4 
+ 1002 62144   4 600    1.2000+7 45000.00 3.6100-5         -0.859941          1610000.         LVLP.R.Christensen+     (67)F1204  4 
+#/DATA      8
+#/DATASET

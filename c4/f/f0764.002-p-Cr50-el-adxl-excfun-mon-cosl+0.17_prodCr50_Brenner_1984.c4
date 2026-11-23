@@ -1,0 +1,36 @@
+#ENTRY      F0764
+#AUTHOR1    M.Brenner+
+#YEAR       1984
+#INSTITUTE  (2SF ABA)
+#TITLE      Analysis of data on inelastic scattering of protons
+#+          with the energy ~ 6.05 MeV on 50Cr(2+).
+#AUTHOR(S)  M.Brenner, A.Sheberg, O.V.Chubinsky, Yu.V.Kangropol, L.I.Vinogradov
+#REF-CODE   (J,IZV,48,(10),1952,1984)
+#REFERENCE  Izv.Ross.AN,Fiz. 48 No.10 (1984) 1952
+#DATASETS   0
+#
+#DATASET    F0764002 
+#DATE       20160229
+#REACTION   24-CR-50(P,EL)24-CR-50,,DA
+#PROJ       1001
+#TARG       24050
+#MF         4
+#MT         2
+#PRODUCT    24-CR-50
+#C4BEGIN    [ 1001 24050   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   4   2    6031000.          0.084869 5.9260-3 0.173648                              M.Brenner+           (84)F0764  2 
+ 1001 24050   4   2    6036000.          0.088451 5.5040-3 0.173648                              M.Brenner+           (84)F0764  2 
+ 1001 24050   4   2    6041000.          0.075313 5.5030-3 0.173648                              M.Brenner+           (84)F0764  2 
+ 1001 24050   4   2    6043000.          0.064301 4.6560-3 0.173648                              M.Brenner+           (84)F0764  2 
+ 1001 24050   4   2    6045000.          0.061541 4.4490-3 0.173648                              M.Brenner+           (84)F0764  2 
+ 1001 24050   4   2    6048000.          0.062378 4.4480-3 0.173648                              M.Brenner+           (84)F0764  2 
+ 1001 24050   4   2    6050000.          0.070202 4.2330-3 0.173648                              M.Brenner+           (84)F0764  2 
+ 1001 24050   4   2    6053000.          0.074003 4.4440-3 0.173648                              M.Brenner+           (84)F0764  2 
+ 1001 24050   4   2    6056000.          0.078438 6.7720-3 0.173648                              M.Brenner+           (84)F0764  2 
+ 1001 24050   4   2    6061000.          0.067206 5.0790-3 0.173648                              M.Brenner+           (84)F0764  2 
+ 1001 24050   4   2    6065000.          0.046874 4.0210-3 0.173648                              M.Brenner+           (84)F0764  2 
+#/DATA      11
+#/DATASET

@@ -1,0 +1,34 @@
+#ENTRY      F0869
+#AUTHOR1    V.B.Gubin+
+#YEAR       1974
+#INSTITUTE  (4RUSMOS)
+#TITLE      Elastic scattering of 5-6 MeV protons by 34S.
+#AUTHOR(S)  V.B.Gubin, Z.F.Kalacheva, E.A.Romanovskij, E.I.Sirotinin, 
+#+          T.I.Spasskaya, K.S.Shishkin, A.S.Rudnev
+#REF-CODE   (J,IZV,38,2574,1974)
+#REFERENCE  Izv.Ross.AN,Fiz. 38 (1974) 2574
+#DATASETS   0
+#
+#DATASET    F0869006 
+#DATE       20071114
+#REACTION   16-S-34(P,EL)16-S-34,,DA,,RTH
+#PROJ       1001
+#TARG       16034
+#MF         4
+#MT         2
+#PRODUCT    16-S-34
+#C4BEGIN    [ 1001 16034   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 16034   4   2  C 5800000. 80000.00 0.293681 0.046989 0.587037                              V.B.Gubin+           (74)F0869  6 
+ 1001 16034   4   2  C 5800000. 80000.00 0.105020 0.016803 0.315036                              V.B.Gubin+           (74)F0869  6 
+ 1001 16034   4   2  C 5800000. 80000.00 0.044429 7.1086-3 5.8468-3                              V.B.Gubin+           (74)F0869  6 
+ 1001 16034   4   2  C 5800000. 80000.00 0.031028 4.9645-3-0.214906                              V.B.Gubin+           (74)F0869  6 
+ 1001 16034   4   2  C 5800000. 80000.00 0.032116 5.1386-3-0.339887                              V.B.Gubin+           (74)F0869  6 
+ 1001 16034   4   2  C 5800000. 80000.00 0.042356 6.7770-3-0.594963                              V.B.Gubin+           (74)F0869  6 
+ 1001 16034   4   2  C 5800000. 80000.00 0.050581 8.0930-3-0.776596                              V.B.Gubin+           (74)F0869  6 
+ 1001 16034   4   2  C 5800000. 80000.00 0.054968 8.7949-3-0.871042                              V.B.Gubin+           (74)F0869  6 
+ 1001 16034   4   2  C 5800000. 80000.00 0.073857 0.011817-0.971508                              V.B.Gubin+           (74)F0869  6 
+#/DATA      9
+#/DATASET

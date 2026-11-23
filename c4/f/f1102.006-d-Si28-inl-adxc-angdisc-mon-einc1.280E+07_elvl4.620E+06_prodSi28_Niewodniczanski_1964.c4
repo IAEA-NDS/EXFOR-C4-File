@@ -1,0 +1,40 @@
+#ENTRY      F1102
+#AUTHOR1    H.Niewodniczanski+
+#YEAR       1964
+#INSTITUTE  (3POLITJ)
+#TITLE      Elastic and inelastic scattering of 12.8 MeV deuterons
+#+          by Al-27 and Si-28 nuclei.
+#AUTHOR(S)  H.Niewodniczanski, J.Nurzynski, A.Strzalkowski, J.Wilczynski, 
+#+          J.R.Rook, P.E.Hodgson
+#REF-CODE   (J,NP,55,386,1964)
+#REFERENCE  Nucl.Phys. 55 (1964) 386
+#DATASETS   0
+#
+#DATASET    F1102006 
+#DATE       20110131
+#REACTION   14-SI-28(D,INL)14-SI-28,PAR,DA
+#PROJ       1002
+#TARG       14028
+#MF         4
+#MT         651
+#PRODUCT    14-SI-28
+#C4BEGIN    [ 1002 14028   4 651  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 14028   4 651  C 1.2800+7 150000.0 6.1700-4 3.4552-5 0.999945 3.6553-5 4620000.         LVLH.Niewodniczanski+   (64)F1102  6 
+ 1002 14028   4 651  C 1.2800+7 150000.0 5.8300-4 3.2648-5 0.995396 3.3456-4 4620000.         LVLH.Niewodniczanski+   (64)F1102  6 
+ 1002 14028   4 651  C 1.2800+7 150000.0 1.8900-3 1.0584-4 0.838671 1.9011-3 4620000.         LVLH.Niewodniczanski+   (64)F1102  6 
+ 1002 14028   4 651  C 1.2800+7 150000.0 1.3800-3 7.7280-5 0.783693 2.1682-3 4620000.         LVLH.Niewodniczanski+   (64)F1102  6 
+ 1002 14028   4 651  C 1.2800+7 150000.0 1.2900-3 7.2240-5 0.722967 2.4116-3 4620000.         LVLH.Niewodniczanski+   (64)F1102  6 
+ 1002 14028   4 651  C 1.2800+7 150000.0 1.4900-3 8.3440-5 0.654741 2.6384-3 4620000.         LVLH.Niewodniczanski+   (64)F1102  6 
+ 1002 14028   4 651  C 1.2800+7 150000.0 1.3500-3 7.5600-5 0.582123 2.8383-3 4620000.         LVLH.Niewodniczanski+   (64)F1102  6 
+ 1002 14028   4 651  C 1.2800+7 150000.0 9.0800-4 5.0848-5 0.504528 3.0138-3 4620000.         LVLH.Niewodniczanski+   (64)F1102  6 
+ 1002 14028   4 651  C 1.2800+7 150000.0 6.7900-4 3.8024-5 0.340380 3.2822-3 4620000.         LVLH.Niewodniczanski+   (64)F1102  6 
+ 1002 14028   4 651  C 1.2800+7 150000.0 6.5100-4 3.6456-5 0.253758 3.3764-3 4620000.         LVLH.Niewodniczanski+   (64)F1102  6 
+ 1002 14028   4 651  C 1.2800+7 150000.0 5.9000-4 3.3040-5 0.166769 3.4418-3 4620000.         LVLH.Niewodniczanski+   (64)F1102  6 
+ 1002 14028   4 651  C 1.2800+7 150000.0 7.0800-4 3.9648-5 0.078459 3.4799-3 4620000.         LVLH.Niewodniczanski+   (64)F1102  6 
+ 1002 14028   4 651  C 1.2800+7 150000.0 6.4500-4 3.6120-5-0.010472 3.4905-3 4620000.         LVLH.Niewodniczanski+   (64)F1102  6 
+ 1002 14028   4 651  C 1.2800+7 150000.0 5.5500-4 3.1080-5-0.097583 3.4740-3 4620000.         LVLH.Niewodniczanski+   (64)F1102  6 
+#/DATA      14
+#/DATASET

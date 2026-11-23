@@ -1,0 +1,35 @@
+#ENTRY      F1110
+#AUTHOR1    R.P.Kolalis+
+#YEAR       1965
+#INSTITUTE  (4RUSSUL)
+#TITLE      The Si-30(d,a)Al-28 reaction at deuteron energies of
+#+          6.5 and 6.7 MeV.
+#AUTHOR(S)  R.P.Kolalis, Yu.A.Nemilov, V.S.Sadkovskii, E.D.Teterin, 
+#+          A.E.Denisov
+#REF-CODE   (J,IZV,29,(7),1192,1965)
+#REFERENCE  Izv.Ross.AN,Fiz. 29 No.7 (1965) 1192
+#DATASETS   0
+#
+#DATASET    F1110003 
+#DATE       20120712
+#REACTION   14-SI-30(D,A)13-AL-28,PAR,DA
+#PROJ       1002
+#TARG       14030
+#MF         4
+#MT         800
+#PRODUCT    13-AL-28
+#C4BEGIN    [ 1002 14030   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 14030   4 800  C 6700000.          1.3201-4          0.079921          3100000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6700000.          1.4201-4         -0.086878          3100000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6700000.          1.9801-4         -0.244461          3100000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6700000.          2.3601-4         -0.389445          3100000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6700000.          2.6400-4         -0.537152          3100000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6700000.          2.6400-4         -0.659477          3100000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6700000.          2.7600-4         -0.770847          3100000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6700000.          4.7200-4         -0.901757          3100000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6700000.          4.9000-4         -0.957117          3100000.         LVLR.P.Kolalis+         (65)F1110  3 
+#/DATA      9
+#/DATASET

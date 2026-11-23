@@ -1,0 +1,34 @@
+#ENTRY      F1146
+#AUTHOR1    R.J.Peterson+
+#YEAR       1977
+#INSTITUTE  (1USACLU)
+#TITLE      Level structure of Tc-99 by inelastic scattering and
+#+          proton stripping.
+#AUTHOR(S)  R.J.Peterson, R.A.Emigh, R.E.Anderson
+#REF-CODE   (J,NP/A,290,155,1977)
+#REFERENCE  Nucl.Phys.A 290 (1977) 155
+#DATASETS   0
+#
+#DATASET    F1146006 
+#DATE       20220429
+#REACTION   42-MO-98(HE3,D)43-TC-99,PAR,DA
+#PROJ       2003
+#TARG       42098
+#MF         4
+#MT         650
+#PRODUCT    43-TC-99
+#C4BEGIN    [ 2003 42098   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 42098   4 650  C 3.3300+7          1.0100-4 1.2100-5 0.976258          3245000.         LVLR.J.Peterson+        (77)F1146  6 
+ 2003 42098   4 650  C 3.3300+7          9.8100-5 1.2900-5 0.965835          3245000.         LVLR.J.Peterson+        (77)F1146  6 
+ 2003 42098   4 650  C 3.3300+7          7.7800-5 1.3000-5 0.954136          3245000.         LVLR.J.Peterson+        (77)F1146  6 
+ 2003 42098   4 650  C 3.3300+7          4.2000-5 7.0000-6 0.938794          3245000.         LVLR.J.Peterson+        (77)F1146  6 
+ 2003 42098   4 650  C 3.3300+7          4.7200-5 8.5600-6 0.921321          3245000.         LVLR.J.Peterson+        (77)F1146  6 
+ 2003 42098   4 650  C 3.3300+7          6.2600-5 1.0400-5 0.905791          3245000.         LVLR.J.Peterson+        (77)F1146  6 
+ 2003 42098   4 650  C 3.3300+7          6.9400-5 9.4900-6 0.885475          3245000.         LVLR.J.Peterson+        (77)F1146  6 
+ 2003 42098   4 650  C 3.3300+7          1.9000-5 5.2100-6 0.865239          3245000.         LVLR.J.Peterson+        (77)F1146  6 
+ 2003 42098   4 650  C 3.3300+7          1.7600-5 3.7300-6 0.843485          3245000.         LVLR.J.Peterson+        (77)F1146  6 
+#/DATA      9
+#/DATASET

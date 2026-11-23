@@ -1,0 +1,37 @@
+#ENTRY      F0275
+#AUTHOR1    R.M.Tisinger+
+#YEAR       1964
+#INSTITUTE  (1USAJHU)
+#TITLE      Differential cross sections for the reaction 11B(d,p)
+#+          12B for Ed=1-2.6 MeV.
+#AUTHOR(S)  R.M.Tisinger, P.W.Keaton, G.E.Owen
+#REF-CODE   (J,PR,135,B892,196408)
+#REFERENCE  Phys.Rev. 135 (1964) B892
+#DATASETS   0
+#
+#DATASET    F0275003 
+#DATE       20081126
+#REACTION   5-B-11(D,P)5-B-12,PAR,DA
+#PROJ       1002
+#TARG       5011
+#MF         4
+#MT         600
+#PRODUCT    5-B-12
+#C4BEGIN    [ 1002  5011   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  5011   4 600  C 2000000.          9.0440-3 5.1770-4 0.935814          0.000000         LVLR.M.Tisinger+        (64)F0275  3 
+ 1002  5011   4 600  C 2000000.          9.5570-3 5.1810-4 0.896022          0.000000         LVLR.M.Tisinger+        (64)F0275  3 
+ 1002  5011   4 600  C 2000000.          9.6930-3 5.1770-4 0.843204          0.000000         LVLR.M.Tisinger+        (64)F0275  3 
+ 1002  5011   4 600  C 2000000.          7.2790-3 4.2350-4 0.676362          0.000000         LVLR.M.Tisinger+        (64)F0275  3 
+ 1002  5011   4 600  C 2000000.          4.9570-3 3.2970-4 0.441506          0.000000         LVLR.M.Tisinger+        (64)F0275  3 
+ 1002  5011   4 600  C 2000000.          4.1900-3 3.3010-4 0.193036          0.000000         LVLR.M.Tisinger+        (64)F0275  3 
+ 1002  5011   4 600  C 2000000.          3.2830-3 3.3010-4-0.060177          0.000000         LVLR.M.Tisinger+        (64)F0275  3 
+ 1002  5011   4 600  C 2000000.          3.5530-3 3.2970-4-0.318959          0.000000         LVLR.M.Tisinger+        (64)F0275  3 
+ 1002  5011   4 600  C 2000000.          3.1640-3 3.2970-4-0.547563          0.000000         LVLR.M.Tisinger+        (64)F0275  3 
+ 1002  5011   4 600  C 2000000.          3.3880-3 2.3470-4-0.731354          0.000000         LVLR.M.Tisinger+        (64)F0275  3 
+ 1002  5011   4 600  C 2000000.          2.9520-3 2.8260-4-0.875465          0.000000         LVLR.M.Tisinger+        (64)F0275  3 
+ 1002  5011   4 600  C 2000000.          3.2240-3 2.3510-4-0.960779          0.000000         LVLR.M.Tisinger+        (64)F0275  3 
+#/DATA      12
+#/DATASET

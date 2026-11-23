@@ -1,0 +1,35 @@
+#ENTRY      F0613
+#AUTHOR1    O.Beer+
+#YEAR       1970
+#INSTITUTE  (2FR SAC)
+#TITLE      Spectroscopy of even tin isotopes by inelastic
+#+          scattering of 24.5 MeV protons.
+#AUTHOR(S)  O.Beer, A.El Behay, P.Lopato, Y.Terrien, G.Vallois, K.K.Seth
+#REF-CODE   (J,NP/A,147,326,1970)
+#REFERENCE  Nucl.Phys.A 147 (1970) 326
+#DATASETS   0
+#
+#DATASET    F0613007 
+#DATE       20080709
+#REACTION   50-SN-122(P,INL)50-SN-122,PAR,DA
+#PROJ       1001
+#TARG       50122
+#MF         4
+#MT         601
+#PRODUCT    50-SN-122
+#C4BEGIN    [ 1001 50122   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50122   4 601  C 2.4500+7          2.9228-5 1.3191-5 0.770280          3080000.         LVLO.Beer+              (70)F0613  7 
+ 1001 50122   4 601  C 2.4500+7          3.4621-5 1.1287-5 0.713263          3080000.         LVLO.Beer+              (70)F0613  7 
+ 1001 50122   4 601  C 2.4500+7          2.8902-5 1.0742-5 0.647029          3080000.         LVLO.Beer+              (70)F0613  7 
+ 1001 50122   4 601  C 2.4500+7          2.7941-5 1.0820-5 0.575491          3080000.         LVLO.Beer+              (70)F0613  7 
+ 1001 50122   4 601  C 2.4500+7          1.7005-5 5.5438-6 0.503834          3080000.         LVLO.Beer+              (70)F0613  7 
+ 1001 50122   4 601  C 2.4500+7          1.3117-5 3.8881-6 0.423725          3080000.         LVLO.Beer+              (70)F0613  7 
+ 1001 50122   4 601  C 2.4500+7          8.0735-6 2.5120-6 0.345118          3080000.         LVLO.Beer+              (70)F0613  7 
+ 1001 50122   4 601  C 2.4500+7          9.4560-6 3.3691-6 0.258937          3080000.         LVLO.Beer+              (70)F0613  7 
+ 1001 50122   4 601  C 2.4500+7          8.6398-6 3.6195-6 0.175865          3080000.         LVLO.Beer+              (70)F0613  7 
+ 1001 50122   4 601  C 2.4500+7          6.0212-6 2.0537-6-0.089190          3080000.         LVLO.Beer+              (70)F0613  7 
+#/DATA      10
+#/DATASET

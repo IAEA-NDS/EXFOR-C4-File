@@ -1,0 +1,33 @@
+#ENTRY      F0913
+#AUTHOR1    M.A.Abuzeid+
+#YEAR       1964
+#INSTITUTE  (3EGYCAI)
+#TITLE      Studies of alpha particle groups from the 31P(d,a)29Si
+#+          reaction in the deuteron energy range between 1.5 and
+#+          2.5 MeV.
+#AUTHOR(S)  M.A.Abuzeid, A.T.Baranik, M.I.El-Zaiki, V.J.Gontchar, S.M.Morsy, 
+#+          I.I.Zaloubovsky
+#REF-CODE   (J,NP,60,264,1964)
+#REFERENCE  Nucl.Phys. 60 (1964) 264
+#DATASETS   0
+#
+#DATASET    F0913003 
+#DATE       20090116
+#REACTION   15-P-31(D,A)14-SI-29,PAR,DA
+#PROJ       1002
+#TARG       15031
+#MF         4
+#MT         800
+#PRODUCT    14-SI-29
+#C4BEGIN    [ 1002 15031   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 15031   4 800    2230000.          9.8260-5 1.1370-5 0.258903          0.000000         LVLM.A.Abuzeid+         (64)F0913  3 
+ 1002 15031   4 800    2230000.          1.1425-4 1.2440-5-7.3304-4          0.000000         LVLM.A.Abuzeid+         (64)F0913  3 
+ 1002 15031   4 800    2230000.          1.0040-4 1.1730-5-0.268920          0.000000         LVLM.A.Abuzeid+         (64)F0913  3 
+ 1002 15031   4 800    2230000.          9.4010-5 1.1730-5-0.498488          0.000000         LVLM.A.Abuzeid+         (64)F0913  3 
+ 1002 15031   4 800    2230000.          1.1072-4 1.3150-5-0.709448          0.000000         LVLM.A.Abuzeid+         (64)F0913  3 
+ 1002 15031   4 800    2230000.          1.6402-4 1.4920-5-0.865851          0.000000         LVLM.A.Abuzeid+         (64)F0913  3 
+#/DATA      6
+#/DATASET

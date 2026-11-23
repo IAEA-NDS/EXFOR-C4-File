@@ -1,0 +1,33 @@
+#ENTRY      F0763
+#AUTHOR1    N.T.Burtebaev+
+#YEAR       2004
+#INSTITUTE  (4KASKAZ)
+#TITLE      New low-energy measurement of radiation capture cross
+#+          section of the 14N(p,g)15O reaction and calculation of
+#+          astrophysical S-factor.
+#AUTHOR(S)  N.T.Burtebaev, D.Zazulin, E.T.Ibraeva, Sh.Sh.Sagindykov
+#REF-CODE   (J,IZV,68,(11),1554,2004)
+#REFERENCE  Izv.Ross.AN,Fiz. 68 No.11 (2004) 1554
+#DATASETS   0
+#
+#DATASET    F0763002 
+#DATE       20060802
+#REACTION   7-N-14(P,G)8-O-15,PAR,DA
+#PROJ       1001
+#TARG       7014
+#MF         4
+#MT         900
+#PRODUCT    8-O-15
+#C4BEGIN    [ 1001  7014   4 900  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  7014   4 900    850000.0          1.7000-5 1.7000-6 1.000000          0.000000         LVLN.T.Burtebaev+       (04)F0763  2 
+ 1001  7014   4 900    1056400.          2.8800-3 2.8800-4 1.000000          0.000000         LVLN.T.Burtebaev+       (04)F0763  2 
+ 1001  7014   4 900    1057400.          7.2500-3 7.2500-4 1.000000          0.000000         LVLN.T.Burtebaev+       (04)F0763  2 
+ 1001  7014   4 900    1058400.          9.3000-3 9.3000-4 1.000000          0.000000         LVLN.T.Burtebaev+       (04)F0763  2 
+ 1001  7014   4 900    1059400.          0.010300 1.0300-3 1.000000          0.000000         LVLN.T.Burtebaev+       (04)F0763  2 
+ 1001  7014   4 900    1060400.          8.0600-3 8.0600-4 1.000000          0.000000         LVLN.T.Burtebaev+       (04)F0763  2 
+ 1001  7014   4 900    1062400.          3.0500-3 3.0500-4 1.000000          0.000000         LVLN.T.Burtebaev+       (04)F0763  2 
+#/DATA      7
+#/DATASET

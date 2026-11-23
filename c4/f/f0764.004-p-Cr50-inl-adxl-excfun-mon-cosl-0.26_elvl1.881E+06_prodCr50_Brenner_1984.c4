@@ -1,0 +1,37 @@
+#ENTRY      F0764
+#AUTHOR1    M.Brenner+
+#YEAR       1984
+#INSTITUTE  (2SF ABA)
+#TITLE      Analysis of data on inelastic scattering of protons
+#+          with the energy ~ 6.05 MeV on 50Cr(2+).
+#AUTHOR(S)  M.Brenner, A.Sheberg, O.V.Chubinsky, Yu.V.Kangropol, L.I.Vinogradov
+#REF-CODE   (J,IZV,48,(10),1952,1984)
+#REFERENCE  Izv.Ross.AN,Fiz. 48 No.10 (1984) 1952
+#DATASETS   0
+#
+#DATASET    F0764004 
+#DATE       20160229
+#REACTION   24-CR-50(P,INL)24-CR-50,PAR,DA
+#PROJ       1001
+#TARG       24050
+#MF         4
+#MT         601
+#PRODUCT    24-CR-50
+#C4BEGIN    [ 1001 24050   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 24050   4 601    6024800.          1.2785-3 2.6970-4-0.258819          1881000.         LVLM.Brenner+           (84)F0764  4 
+ 1001 24050   4 601    6029800.          1.3825-3 2.4890-4-0.258819          1881000.         LVLM.Brenner+           (84)F0764  4 
+ 1001 24050   4 601    6034900.          1.1132-3 2.2820-4-0.258819          1881000.         LVLM.Brenner+           (84)F0764  4 
+ 1001 24050   4 601    6039700.          1.7772-3 2.6970-4-0.258819          1881000.         LVLM.Brenner+           (84)F0764  4 
+ 1001 24050   4 601    6041900.          3.2294-3 3.5260-4-0.258819          1881000.         LVLM.Brenner+           (84)F0764  4 
+ 1001 24050   4 601    6044200.          4.5364-3 5.3930-4-0.258819          1881000.         LVLM.Brenner+           (84)F0764  4 
+ 1001 24050   4 601    6046700.          5.2833-3 5.1860-4-0.258819          1881000.         LVLM.Brenner+           (84)F0764  4 
+ 1001 24050   4 601    6049400.          5.3457-3 4.9790-4-0.258819          1881000.         LVLM.Brenner+           (84)F0764  4 
+ 1001 24050   4 601    6051800.          4.5576-3 4.7710-4-0.258819          1881000.         LVLM.Brenner+           (84)F0764  4 
+ 1001 24050   4 601    6054700.          3.1472-3 3.5260-4-0.258819          1881000.         LVLM.Brenner+           (84)F0764  4 
+ 1001 24050   4 601    6059700.          1.9443-3 2.6970-4-0.258819          1881000.         LVLM.Brenner+           (84)F0764  4 
+ 1001 24050   4 601    6064400.          1.6749-3 2.6970-4-0.258819          1881000.         LVLM.Brenner+           (84)F0764  4 
+#/DATA      12
+#/DATASET

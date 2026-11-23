@@ -1,0 +1,33 @@
+#ENTRY      F0922
+#AUTHOR1    H.M.Omar+
+#YEAR       1964
+#INSTITUTE  (3SAFPEL)
+#TITLE      Investigation of the (d,p) reaction on magnesium
+#+          isotopes at low deuteron energies.
+#AUTHOR(S)  H.M.Omar, I.I.Zaloubovsky, M.H.S.Bakr, R.Zaghloul, V.J.Gontchar
+#REF-CODE   (J,NP,56,97,1964)
+#REFERENCE  Nucl.Phys. 56 (1964) 97
+#DATASETS   0
+#
+#DATASET    F0922009 
+#DATE       20210525
+#REACTION   12-MG-24(D,P)12-MG-25,PAR,DA
+#PROJ       1002
+#TARG       12024
+#MF         4
+#MT         600
+#PRODUCT    12-MG-25
+#C4BEGIN    [ 1002 12024   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 12024   4 600  C 1550000.          6.9400-4 8.4000-5 0.868632          0.000000         LVLH.M.Omar+            (64)F0922  9 
+ 1002 12024   4 600  C 1550000.          7.4000-4 6.8000-5 0.705872          0.000000         LVLH.M.Omar+            (64)F0922  9 
+ 1002 12024   4 600  C 1550000.          7.3100-4 6.0000-5 0.498488          0.000000         LVLH.M.Omar+            (64)F0922  9 
+ 1002 12024   4 600  C 1550000.          6.3400-4 2.7000-5 0.168489          0.000000         LVLH.M.Omar+            (64)F0922  9 
+ 1002 12024   4 600  C 1550000.          5.5300-4 6.3000-5 6.123-17          0.000000         LVLH.M.Omar+            (64)F0922  9 
+ 1002 12024   4 600  C 1550000.          3.3600-4 1.6000-5-0.501511          0.000000         LVLH.M.Omar+            (64)F0922  9 
+ 1002 12024   4 600  C 1550000.          2.5600-4 2.3000-5-0.705872          0.000000         LVLH.M.Omar+            (64)F0922  9 
+ 1002 12024   4 600  C 1550000.          2.0300-4 3.7000-5-0.867765          0.000000         LVLH.M.Omar+            (64)F0922  9 
+#/DATA      8
+#/DATASET

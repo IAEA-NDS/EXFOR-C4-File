@@ -1,0 +1,42 @@
+#ENTRY      F0509
+#AUTHOR1    F.Pellegrini+
+#YEAR       1992
+#INSTITUTE  (2ITYPAD)
+#TITLE      Three-and five-nucleon transfers in 9Be(p,alpha)6Li
+#+          reaction at 25 and 30 MeV
+#AUTHOR(S)  F.Pellegrini, G.F.Segato, A.Barbadoro, L.Corradi, M.Morando, 
+#+          P.Pavan, I.Gabrielli
+#REF-CODE   (J,PR/C,46,2354,1992)
+#REFERENCE  Phys.Rev.C 46 (1992) 2354
+#DATASETS   0
+#
+#DATASET    F0509002 
+#DATE       20200625
+#REACTION   4-BE-9(P,A)3-LI-6,PAR,DA
+#PROJ       1001
+#TARG       4009
+#MF         4
+#MT         800
+#PRODUCT    3-LI-6
+#C4BEGIN    [ 1001  4009   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  4009   4 800  C 2.5000+7          6.9800-4 1.2564-4 0.994703          2190000.         LVLF.Pellegrini+        (92)F0509  2 
+ 1001  4009   4 800  C 2.5000+7          1.0800-3 1.9440-4 0.975149          2190000.         LVLF.Pellegrini+        (92)F0509  2 
+ 1001  4009   4 800  C 2.5000+7          9.8200-4 1.7676-4 0.949425          2190000.         LVLF.Pellegrini+        (92)F0509  2 
+ 1001  4009   4 800  C 2.5000+7          7.3300-4 1.3194-4 0.912834          2190000.         LVLF.Pellegrini+        (92)F0509  2 
+ 1001  4009   4 800  C 2.5000+7          5.8800-4 1.0584-4 0.854459          2190000.         LVLF.Pellegrini+        (92)F0509  2 
+ 1001  4009   4 800  C 2.5000+7          6.8100-4 1.2258-4 0.784776          2190000.         LVLF.Pellegrini+        (92)F0509  2 
+ 1001  4009   4 800  C 2.5000+7          6.4100-4 1.1538-4 0.725374          2190000.         LVLF.Pellegrini+        (92)F0509  2 
+ 1001  4009   4 800  C 2.5000+7          6.7300-4 1.2114-4 0.646790          2190000.         LVLF.Pellegrini+        (92)F0509  2 
+ 1001  4009   4 800  C 2.5000+7          7.2000-4 1.2960-4 0.567844          2190000.         LVLF.Pellegrini+        (92)F0509  2 
+ 1001  4009   4 800  C 2.5000+7          6.3300-4 1.1394-4 0.469472          2190000.         LVLF.Pellegrini+        (92)F0509  2 
+ 1001  4009   4 800  C 2.5000+7          6.5300-4 1.1754-4 0.358368          2190000.         LVLF.Pellegrini+        (92)F0509  2 
+ 1001  4009   4 800  C 2.5000+7          5.5000-4 9.9000-5 0.272280          2190000.         LVLF.Pellegrini+        (92)F0509  2 
+ 1001  4009   4 800  C 2.5000+7          4.6700-4 8.4060-5 0.165048          2190000.         LVLF.Pellegrini+        (92)F0509  2 
+ 1001  4009   4 800  C 2.5000+7          4.5600-4 8.2080-5 0.062791          2190000.         LVLF.Pellegrini+        (92)F0509  2 
+ 1001  4009   4 800  C 2.5000+7          4.7800-4 8.6040-5-0.020942          2190000.         LVLF.Pellegrini+        (92)F0509  2 
+ 1001  4009   4 800  C 2.5000+7          5.2700-4 9.4860-5-0.123601          2190000.         LVLF.Pellegrini+        (92)F0509  2 
+#/DATA      16
+#/DATASET

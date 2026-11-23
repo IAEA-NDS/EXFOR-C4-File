@@ -1,0 +1,39 @@
+#ENTRY      F0530
+#AUTHOR1    L.N.Generalov+
+#YEAR       2001
+#INSTITUTE  (4RUSEPA)
+#TITLE      9Be(d,alpha0,1) reaction cross sections
+#AUTHOR(S)  L.N.Generalov, S.N.Abramovich, A.G.Zvenigorodskii
+#REF-CODE   (C,2001SAROV,,187,2001)
+#REFERENCE  Proceedings of Conf.Nucl.Spectrosc.Nucl.Struct.,Sarov, Russia,2001 page 187
+#DATASETS   0
+#
+#DATASET    F0530003 
+#DATE       20070312
+#REACTION   4-BE-9(D,A)3-LI-7,PAR,DA
+#PROJ       1002
+#TARG       4009
+#MF         4
+#MT         800
+#PRODUCT    3-LI-7
+#C4BEGIN    [ 1002  4009   4 800 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  4009   4 800 AC 9000000.          1.8200-3 1.2740-4 0.946649          0.000000         LVLL.N.Generalov+       (01)F0530  3 
+ 1002  4009   4 800 AC 9000000.          1.9900-3 1.3930-4 0.906308          0.000000         LVLL.N.Generalov+       (01)F0530  3 
+ 1002  4009   4 800 AC 9000000.          1.4200-3 9.9400-5 0.795473          0.000000         LVLL.N.Generalov+       (01)F0530  3 
+ 1002  4009   4 800 AC 9000000.          1.3200-3 1.0560-4 0.726575          0.000000         LVLL.N.Generalov+       (01)F0530  3 
+ 1002  4009   4 800 AC 9000000.          1.1400-3 7.9800-5 0.650774          0.000000         LVLL.N.Generalov+       (01)F0530  3 
+ 1002  4009   4 800 AC 9000000.          1.0500-3 7.3500-5 0.481754          0.000000         LVLL.N.Generalov+       (01)F0530  3 
+ 1002  4009   4 800 AC 9000000.          9.5800-4 6.7060-5 0.297375          0.000000         LVLL.N.Generalov+       (01)F0530  3 
+ 1002  4009   4 800 AC 9000000.          6.5300-4 4.5710-5 0.107999          0.000000         LVLL.N.Generalov+       (01)F0530  3 
+ 1002  4009   4 800 AC 9000000.          4.0300-4 8.0600-5-0.078459          0.000000         LVLL.N.Generalov+       (01)F0530  3 
+ 1002  4009   4 800 AC 9000000.          6.6100-4 4.6270-5-0.253758          0.000000         LVLL.N.Generalov+       (01)F0530  3 
+ 1002  4009   4 800 AC 9000000.          9.1400-4 1.8280-4-0.414693          0.000000         LVLL.N.Generalov+       (01)F0530  3 
+ 1002  4009   4 800 AC 9000000.          1.0700-3 7.4900-5-0.678160          0.000000         LVLL.N.Generalov+       (01)F0530  3 
+ 1002  4009   4 800 AC 9000000.          9.1900-4 6.4330-5-0.779338          0.000000         LVLL.N.Generalov+       (01)F0530  3 
+ 1002  4009   4 800 AC 9000000.          1.1500-3 2.3000-4-0.860742          0.000000         LVLL.N.Generalov+       (01)F0530  3 
+ 1002  4009   4 800 AC 9000000.          1.1900-3 9.5200-5-0.965926          0.000000         LVLL.N.Generalov+       (01)F0530  3 
+#/DATA      15
+#/DATASET

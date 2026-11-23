@@ -1,0 +1,41 @@
+#ENTRY      F0866
+#AUTHOR1    V.B.Gubin+
+#YEAR       1974
+#INSTITUTE  (4RUSMOS)
+#TITLE      Elastic and inelastic scattering of protons by 24Mg and
+#+          26Mg nuclei at Ep=6 MeV
+#AUTHOR(S)  V.B.Gubin, Z.F.Kalacheva, E.A.Romanovskii, E.I.Sirotinin, 
+#+          T.I.Spasskaya, K.S.Shishkin
+#REF-CODE   (J,IZV,38,868,1974)
+#REFERENCE  Izv.Ross.AN,Fiz. 38 (1974) 868
+#DATASETS   0
+#
+#DATASET    F0866007 
+#DATE       20210525
+#REACTION   12-MG-24(P,INL)12-MG-24,PAR,DA
+#PROJ       1001
+#TARG       12024
+#MF         4
+#MT         601
+#PRODUCT    12-MG-24
+#C4BEGIN    [ 1001 12024   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 12024   4 601  C 6005000.          0.034200         -0.379456          1370000.         LVLV.B.Gubin+           (74)F0866  7 
+ 1001 12024   4 601  C 6043000.          0.038300         -0.379456          1370000.         LVLV.B.Gubin+           (74)F0866  7 
+ 1001 12024   4 601  C 6060000.          0.044200         -0.379456          1370000.         LVLV.B.Gubin+           (74)F0866  7 
+ 1001 12024   4 601  C 6088000.          0.040700         -0.379456          1370000.         LVLV.B.Gubin+           (74)F0866  7 
+ 1001 12024   4 601  C 6129000.          0.046000         -0.379456          1370000.         LVLV.B.Gubin+           (74)F0866  7 
+ 1001 12024   4 601  C 6161000.          0.049700         -0.379456          1370000.         LVLV.B.Gubin+           (74)F0866  7 
+ 1001 12024   4 601  C 6186000.          0.047100         -0.379456          1370000.         LVLV.B.Gubin+           (74)F0866  7 
+ 1001 12024   4 601  C 6221000.          0.037000         -0.379456          1370000.         LVLV.B.Gubin+           (74)F0866  7 
+ 1001 12024   4 601  C 6249000.          0.034400         -0.379456          1370000.         LVLV.B.Gubin+           (74)F0866  7 
+ 1001 12024   4 601  C 6285000.          0.030400         -0.379456          1370000.         LVLV.B.Gubin+           (74)F0866  7 
+ 1001 12024   4 601  C 6317000.          0.027300         -0.379456          1370000.         LVLV.B.Gubin+           (74)F0866  7 
+ 1001 12024   4 601  C 6349000.          0.025100         -0.379456          1370000.         LVLV.B.Gubin+           (74)F0866  7 
+ 1001 12024   4 601  C 6377000.          0.030000         -0.379456          1370000.         LVLV.B.Gubin+           (74)F0866  7 
+ 1001 12024   4 601  C 6411000.          0.032600         -0.379456          1370000.         LVLV.B.Gubin+           (74)F0866  7 
+ 1001 12024   4 601  C 6449000.          0.028700         -0.379456          1370000.         LVLV.B.Gubin+           (74)F0866  7 
+#/DATA      15
+#/DATASET

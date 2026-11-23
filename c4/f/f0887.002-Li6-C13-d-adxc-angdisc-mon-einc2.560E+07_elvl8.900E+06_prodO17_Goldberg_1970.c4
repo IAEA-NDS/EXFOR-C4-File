@@ -1,0 +1,33 @@
+#ENTRY      F0887
+#AUTHOR1    V.Z.Goldberg+
+#YEAR       1970
+#INSTITUTE  (4RUSKUR)
+#TITLE      Excitation of the states (4p - 3h) in the reactions
+#+          13C(6Li,d)17O and 13C(7Li,t)17O.
+#AUTHOR(S)  V.Z.Goldberg, V.V.Davydov, A.A.Ogloblin, S.B.Sakuta, V.I.Chuyev
+#REF-CODE   (J,YF,12,30,1970)
+#REFERENCE  Yad.Fiz. 12 (1970) 30
+#DATASETS   0
+#
+#DATASET    F0887002 
+#DATE       20080129
+#REACTION   6-C-13(3-LI-6,D)8-O-17,PAR,DA
+#PROJ       3006
+#TARG       6013
+#MF         4
+#MT         650
+#PRODUCT    8-O-17
+#C4BEGIN    [ 3006  6013   4 650  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 3006  6013   4 650  C 2.5600+7          9.5145-4 1.4563-4 0.999967          8900000.         LVLV.Z.Goldberg+        (70)F0887  2 
+ 3006  6013   4 650  C 2.5600+7          9.0294-4 1.1650-4 0.992780          8900000.         LVLV.Z.Goldberg+        (70)F0887  2 
+ 3006  6013   4 650  C 2.5600+7          6.1656-4 1.1650-4 0.968244          8900000.         LVLV.Z.Goldberg+        (70)F0887  2 
+ 3006  6013   4 650  C 2.5600+7          6.2628-4 1.2136-4 0.947679          8900000.         LVLV.Z.Goldberg+        (70)F0887  2 
+ 3006  6013   4 650  C 2.5600+7          5.2435-4 1.0680-4 0.923719          8900000.         LVLV.Z.Goldberg+        (70)F0887  2 
+ 3006  6013   4 650  C 2.5600+7          5.6807-4 1.1165-4 0.856898          8900000.         LVLV.Z.Goldberg+        (70)F0887  2 
+ 3006  6013   4 650  C 2.5600+7          5.4383-4 1.2136-4 0.796139          8900000.         LVLV.Z.Goldberg+        (70)F0887  2 
+ 3006  6013   4 650  C 2.5600+7          4.2734-4 8.2520-5 0.726035          8900000.         LVLV.Z.Goldberg+        (70)F0887  2 
+#/DATA      8
+#/DATASET

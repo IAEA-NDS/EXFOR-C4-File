@@ -1,0 +1,41 @@
+#ENTRY      F1110
+#AUTHOR1    R.P.Kolalis+
+#YEAR       1965
+#INSTITUTE  (4RUSSUL)
+#TITLE      The Si-30(d,a)Al-28 reaction at deuteron energies of
+#+          6.5 and 6.7 MeV.
+#AUTHOR(S)  R.P.Kolalis, Yu.A.Nemilov, V.S.Sadkovskii, E.D.Teterin, 
+#+          A.E.Denisov
+#REF-CODE   (J,IZV,29,(7),1192,1965)
+#REFERENCE  Izv.Ross.AN,Fiz. 29 No.7 (1965) 1192
+#DATASETS   0
+#
+#DATASET    F1110003 
+#DATE       20120712
+#REACTION   14-SI-30(D,A)13-AL-28,PAR,DA
+#PROJ       1002
+#TARG       14030
+#MF         4
+#MT         800
+#PRODUCT    13-AL-28
+#C4BEGIN    [ 1002 14030   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002 14030   4 800  C 6500000.          6.1549-4          0.921436          1633000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6500000.          4.3628-4          0.872351          1633000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6500000.          3.7374-4          0.795399          1633000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6500000.          2.8409-4          0.672276          1633000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6500000.          2.9237-4          0.544332          1633000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6500000.          3.3399-4          0.402076          1633000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6500000.          2.8392-4          0.229183          1633000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6500000.          3.0471-4          0.076475          1633000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6500000.          3.0257-4         -0.091988          1633000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6500000.          4.0032-4         -0.539947          1633000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6500000.          4.0236-4         -0.657901          1633000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6500000.          3.6897-4         -0.765932          1633000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6500000.          5.3769-4         -0.833597          1633000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6500000.          5.6889-4         -0.899786          1633000.         LVLR.P.Kolalis+         (65)F1110  3 
+ 1002 14030   4 800  C 6500000.          5.2926-4         -0.949808          1633000.         LVLR.P.Kolalis+         (65)F1110  3 
+#/DATA      15
+#/DATASET

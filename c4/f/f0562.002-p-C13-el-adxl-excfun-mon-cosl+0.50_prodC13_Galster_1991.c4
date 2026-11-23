@@ -1,0 +1,43 @@
+#ENTRY      F0562
+#AUTHOR1    W.Galster+
+#YEAR       1991
+#INSTITUTE  (2BLGLVN)
+#TITLE      Target and detection techniques for the N-13(p,g)O-14
+#+          reaction using radioactive ion beams: C-13(p,g)N-14
+#+          reaction as a test case.
+#AUTHOR(S)  W.Galster, P.Leleux, I.Licot, E.Lienard, P.Lipnik, D.Mertens, 
+#+          T.Delbar, J.Vervier, P.Decrock, M.Huyse, P.Van Duppen, P.Duhamel, 
+#+          J.Vanhorenbeeck, G.Roters, C.Rolfs, U.Schroeder, H.P.Trautvetter, 
+#+          K.Wolke, J.Lambert, W.S.Rodney
+#REF-CODE   (J,PR/C,44,2776,1991)
+#REFERENCE  Phys.Rev.C 44 (1991) 2776
+#DATASETS   0
+#
+#DATASET    F0562002 
+#DATE       20150921
+#REACTION   6-C-13(P,EL)6-C-13,,DA,,RTH
+#PROJ       1001
+#TARG       6013
+#MF         4
+#MT         2
+#PRODUCT    6-C-13
+#C4BEGIN    [ 1001  6013   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6013   4   2    506436.4 60.00232 2.631765          0.500000                              W.Galster+           (91)F0562  2 
+ 1001  6013   4   2    518181.7 60.00238 2.480476          0.500000                              W.Galster+           (91)F0562  2 
+ 1001  6013   4   2    525940.0 60.00241 2.278408          0.500000                              W.Galster+           (91)F0562  2 
+ 1001  6013   4   2    533482.8 60.00245 2.057195          0.500000                              W.Galster+           (91)F0562  2 
+ 1001  6013   4   2    537793.0 60.00247 1.823205          0.500000                              W.Galster+           (91)F0562  2 
+ 1001  6013   4   2    541133.4 60.00248 1.632660          0.500000                              W.Galster+           (91)F0562  2 
+ 1001  6013   4   2    545443.6 60.00250 1.428964          0.500000                              W.Galster+           (91)F0562  2 
+ 1001  6013   4   2    549538.2 60.00252 1.200290          0.500000                              W.Galster+           (91)F0562  2 
+ 1001  6013   4   2    553094.1 60.00254 1.170277          0.500000                              W.Galster+           (91)F0562  2 
+ 1001  6013   4   2    557188.8 60.00256 1.181968          0.500000                              W.Galster+           (91)F0562  2 
+ 1001  6013   4   2    564731.7 60.00259 1.288582          0.500000                              W.Galster+           (91)F0562  2 
+ 1001  6013   4   2    576369.2 60.00265 1.477299          0.500000                              W.Galster+           (91)F0562  2 
+ 1001  6013   4   2    584343.1 60.00268 1.555206          0.500000                              W.Galster+           (91)F0562  2 
+ 1001  6013   4   2    594903.0 60.00273 1.637463          0.500000                              W.Galster+           (91)F0562  2 
+#/DATA      14
+#/DATASET

@@ -1,0 +1,35 @@
+#ENTRY      F0080
+#AUTHOR1    K.I.Pearce+
+#YEAR       1987
+#INSTITUTE  (2UK KCL)
+#TITLE      36 MeV triton inelastic scattering and one-nucleon
+#+          transfer reactions.
+#AUTHOR(S)  K.I.Pearce, N.M.Clarke, R.J.Griffiths, P.J.Simmonds, D.Barker, 
+#+          J.B.A.England, M.C.Mannion, C.A.Ogilvie
+#REF-CODE   (J,NP/A,467,215,1987)
+#REFERENCE  Nucl.Phys.A 467 (1987) 215
+#DATASETS   0
+#
+#DATASET    F0080011 
+#DATE       20210502
+#REACTION   14-SI-28(T,A)13-AL-27,PAR,DA
+#PROJ       1003
+#TARG       14028
+#MF         4
+#MT         800
+#PRODUCT    13-AL-27
+#C4BEGIN    [ 1003 14028   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 14028   4 800  C 3.6000+7          2.0800-3          0.990268          2740000.         LVLK.I.Pearce+          (87)F0080 11 
+ 1003 14028   4 800  C 3.6000+7          1.0100-3          0.972370          2740000.         LVLK.I.Pearce+          (87)F0080 11 
+ 1003 14028   4 800  C 3.6000+7          3.6000-4          0.944949          2740000.         LVLK.I.Pearce+          (87)F0080 11 
+ 1003 14028   4 800  C 3.6000+7          4.6400-4          0.928486          2740000.         LVLK.I.Pearce+          (87)F0080 11 
+ 1003 14028   4 800  C 3.6000+7          3.8300-4          0.907777          2740000.         LVLK.I.Pearce+          (87)F0080 11 
+ 1003 14028   4 800  C 3.6000+7          3.4300-4          0.889416          2740000.         LVLK.I.Pearce+          (87)F0080 11 
+ 1003 14028   4 800  C 3.6000+7          1.9100-4          0.862514          2740000.         LVLK.I.Pearce+          (87)F0080 11 
+ 1003 14028   4 800  C 3.6000+7          2.3400-4          0.838671          2740000.         LVLK.I.Pearce+          (87)F0080 11 
+ 1003 14028   4 800  C 3.6000+7          2.4800-4          0.812084          2740000.         LVLK.I.Pearce+          (87)F0080 11 
+#/DATA      9
+#/DATASET

@@ -1,0 +1,39 @@
+#ENTRY      F1057
+#AUTHOR1    N.A.Mansour+
+#YEAR       1964
+#INSTITUTE  (3EGYCAI)
+#TITLE      Studies of the (d,a) reaction on N-14 in the deuteron
+#+          energy range from 1 to 2.5 MeV.
+#AUTHOR(S)  N.A.Mansour, H.R.Saad, Z.A.Saleh, E.M.Sayed, I.I.Zaloubovsky, 
+#+          V.J.Gontchar
+#REF-CODE   (J,NP,59,241,1964)
+#REFERENCE  Nucl.Phys. 59 (1964) 241
+#DATASETS   0
+#
+#DATASET    F1057009 
+#DATE       20100310
+#REACTION   7-N-14(D,A)6-C-12,PAR,DA
+#PROJ       1002
+#TARG       7014
+#MF         4
+#MT         800
+#PRODUCT    6-C-12
+#C4BEGIN    [ 1002  7014   4 800  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1002  7014   4 800  C 1700000.          0.010686 4.1310-4 0.937063          4438000.         LVLN.A.Mansour+         (64)F1057  9 
+ 1002  7014   4 800  C 1700000.          8.7167-3 2.9507-4 0.897728          4438000.         LVLN.A.Mansour+         (64)F1057  9 
+ 1002  7014   4 800  C 1700000.          7.7311-3 5.5080-4 0.841020          4438000.         LVLN.A.Mansour+         (64)F1057  9 
+ 1002  7014   4 800  C 1700000.          7.2382-3 2.5573-4 0.802266          4438000.         LVLN.A.Mansour+         (64)F1057  9 
+ 1002  7014   4 800  C 1700000.          5.8792-3 2.1639-4 0.742759          4438000.         LVLN.A.Mansour+         (64)F1057  9 
+ 1002  7014   4 800  C 1700000.          5.3263-3 4.7211-4 0.654807          4438000.         LVLN.A.Mansour+         (64)F1057  9 
+ 1002  7014   4 800  C 1700000.          5.1252-3 4.7213-4 0.442711          4438000.         LVLN.A.Mansour+         (64)F1057  9 
+ 1002  7014   4 800  C 1700000.          4.4127-3 4.1310-4 0.202958          4438000.         LVLN.A.Mansour+         (64)F1057  9 
+ 1002  7014   4 800  C 1700000.          3.4045-3 1.5737-4-0.083713          4438000.         LVLN.A.Mansour+         (64)F1057  9 
+ 1002  7014   4 800  C 1700000.          3.8329-3 2.9507-4-0.333971          4438000.         LVLN.A.Mansour+         (64)F1057  9 
+ 1002  7014   4 800  C 1700000.          4.3987-3 1.9671-4-0.573862          4438000.         LVLN.A.Mansour+         (64)F1057  9 
+ 1002  7014   4 800  C 1700000.          5.8700-3 1.5737-4-0.755396          4438000.         LVLN.A.Mansour+         (64)F1057  9 
+ 1002  7014   4 800  C 1700000.          5.7874-3 4.1310-4-0.883929          4438000.         LVLN.A.Mansour+         (64)F1057  9 
+#/DATA      13
+#/DATASET

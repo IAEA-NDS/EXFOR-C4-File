@@ -1,0 +1,45 @@
+#ENTRY      F1127
+#AUTHOR1    B.Ya.Guzhovskii+
+#YEAR       1973
+#INSTITUTE  (4RUSEPA)
+#TITLE      Measurements and optical-model analyses of the elastic
+#+          scattering of protons from Pd, Cd, and Sn isotopes in
+#+          the nonresonance energy region
+#AUTHOR(S)  B.Ya.Guzhovskii, S.N.Abramovich, B.M.Dzyuba, A.G.Zvenigorodskii, 
+#+          V.G.Podval'nyi, S.V.Trusillo
+#REF-CODE   (J,IZV,37,1880,1973)
+#REFERENCE  Izv.Ross.AN,Fiz. 37 (1973) 1880
+#DATASETS   0
+#
+#DATASET    F1127007 
+#DATE       20110422
+#REACTION   50-SN-122(P,EL)50-SN-122,,DA,,RTH
+#PROJ       1001
+#TARG       50122
+#MF         4
+#MT         2
+#PRODUCT    50-SN-122
+#C4BEGIN    [ 1001 50122   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 50122   4   2    7000000.          15174.93 91.04962 0.866025                              B.Ya.Guzhovskii+     (73)F1127  7 
+ 1001 50122   4   2    7000000.          2008.185 12.04911 0.642788                              B.Ya.Guzhovskii+     (73)F1127  7 
+ 1001 50122   4   2    7000000.          590.6493 3.543896 0.342020                              B.Ya.Guzhovskii+     (73)F1127  7 
+ 1001 50122   4   2    7000000.          477.5181 2.865109 0.258819                              B.Ya.Guzhovskii+     (73)F1127  7 
+ 1001 50122   4   2    7000000.          379.8951 2.279371 0.173648                              B.Ya.Guzhovskii+     (73)F1127  7 
+ 1001 50122   4   2    7000000.          252.2716 1.513630 6.123-17                              B.Ya.Guzhovskii+     (73)F1127  7 
+ 1001 50122   4   2    7000000.          209.1921 1.255153-0.087156                              B.Ya.Guzhovskii+     (73)F1127  7 
+ 1001 50122   4   2    7000000.          173.9269 1.043561-0.173648                              B.Ya.Guzhovskii+     (73)F1127  7 
+ 1001 50122   4   2    7000000.          146.1802 0.877082-0.258819                              B.Ya.Guzhovskii+     (73)F1127  7 
+ 1001 50122   4   2    7000000.          108.9667 0.653801-0.422618                              B.Ya.Guzhovskii+     (73)F1127  7 
+ 1001 50122   4   2    7000000.          97.89577 0.587375-0.500000                              B.Ya.Guzhovskii+     (73)F1127  7 
+ 1001 50122   4   2    7000000.          89.06118 0.534367-0.573576                              B.Ya.Guzhovskii+     (73)F1127  7 
+ 1001 50122   4   2    7000000.          75.39998 0.452400-0.707107                              B.Ya.Guzhovskii+     (73)F1127  7 
+ 1001 50122   4   2    7000000.          70.95953 0.425757-0.766044                              B.Ya.Guzhovskii+     (73)F1127  7 
+ 1001 50122   4   2    7000000.          68.39455 0.410367-0.819152                              B.Ya.Guzhovskii+     (73)F1127  7 
+ 1001 50122   4   2    7000000.          62.42839 0.374570-0.906308                              B.Ya.Guzhovskii+     (73)F1127  7 
+ 1001 50122   4   2    7000000.          61.49237 0.368954-0.939693                              B.Ya.Guzhovskii+     (73)F1127  7 
+ 1001 50122   4   2    7000000.          60.20408 0.361224-0.965926                              B.Ya.Guzhovskii+     (73)F1127  7 
+#/DATA      18
+#/DATASET

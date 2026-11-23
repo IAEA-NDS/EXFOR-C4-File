@@ -1,0 +1,32 @@
+#ENTRY      F0279
+#AUTHOR1    A.A.Jaffe+
+#YEAR       1960
+#INSTITUTE  (2UK MAN)
+#TITLE      Some (t,p) reactions in light nuclei
+#AUTHOR(S)  A.A.Jaffe, F.de S.Barros, P.D.Forsyth, J.Muto, I.J.Taylor, 
+#+          S.Ramavataram
+#REF-CODE   (J,PPS,76,914,1960)
+#REFERENCE  Proc.Phys.Soc.(UK) 76 (1960) 914
+#DATASETS   0
+#
+#DATASET    F0279005 
+#DATE       20180616
+#REACTION   13-AL-27(T,P)13-AL-29,PAR,DA
+#PROJ       1003
+#TARG       13027
+#MF         4
+#MT         600
+#PRODUCT    13-AL-29
+#C4BEGIN    [ 1003 13027   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1003 13027   4 600  C 5500000.          1.7260-3 6.1600-5 0.955020          0.000000         LVLA.A.Jaffe+           (60)F0279  5 
+ 1003 13027   4 600  C 5500000.          8.3250-4 2.3100-5 0.926922          0.000000         LVLA.A.Jaffe+           (60)F0279  5 
+ 1003 13027   4 600  C 5500000.          2.2010-4 1.9200-5 0.725975          0.000000         LVLA.A.Jaffe+           (60)F0279  5 
+ 1003 13027   4 600  C 5500000.          4.0860-4 2.3100-5 0.593700          0.000000         LVLA.A.Jaffe+           (60)F0279  5 
+ 1003 13027   4 600  C 5500000.          3.4300-4 2.3100-5 0.439939          0.000000         LVLA.A.Jaffe+           (60)F0279  5 
+ 1003 13027   4 600  C 5500000.          2.7350-4 1.9200-5 0.195261          0.000000         LVLA.A.Jaffe+           (60)F0279  5 
+ 1003 13027   4 600  C 5500000.          1.6550-4 1.5400-5-0.070279          0.000000         LVLA.A.Jaffe+           (60)F0279  5 
+#/DATA      7
+#/DATASET

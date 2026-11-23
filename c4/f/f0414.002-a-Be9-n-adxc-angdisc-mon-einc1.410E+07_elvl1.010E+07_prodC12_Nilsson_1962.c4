@@ -1,0 +1,33 @@
+#ENTRY      F0414
+#AUTHOR1    A.Nilsson+
+#YEAR       1962
+#INSTITUTE  (2SWDIPS)
+#TITLE      Neutron angular distributions from the 9Be(alpha,n)12C
+#+          reaction at 14.1, 13.9 and 13.5 MeV
+#AUTHOR(S)  A.Nilsson, J.Kjellman
+#REF-CODE   (J,NP,32,177,1962)
+#REFERENCE  Nucl.Phys. 32 (1962) 177
+#DATASETS   0
+#
+#DATASET    F0414002 
+#DATE       20220604
+#REACTION   4-BE-9(A,N)6-C-12,PAR,DA
+#PROJ       2004
+#TARG       4009
+#MF         4
+#MT         50
+#PRODUCT    6-C-12
+#C4BEGIN    [ 2004  4009   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004  4009   4  50  C 1.4100+7 100000.0 9.7860-3          0.805928          1.0100+7         LVLA.Nilsson+           (62)F0414  2 
+ 2004  4009   4  50  C 1.4100+7 100000.0 7.7070-3          0.576432          1.0100+7         LVLA.Nilsson+           (62)F0414  2 
+ 2004  4009   4  50  C 1.4100+7 100000.0 6.7320-3          0.397148          1.0100+7         LVLA.Nilsson+           (62)F0414  2 
+ 2004  4009   4  50  C 1.4100+7 100000.0 6.3440-3          0.219846          1.0100+7         LVLA.Nilsson+           (62)F0414  2 
+ 2004  4009   4  50  C 1.4100+7 100000.0 4.8490-3          0.033155          1.0100+7         LVLA.Nilsson+           (62)F0414  2 
+ 2004  4009   4  50  C 1.4100+7 100000.0 4.5930-3         -0.335452          1.0100+7         LVLA.Nilsson+           (62)F0414  2 
+ 2004  4009   4  50  C 1.4100+7 100000.0 6.9390-3         -0.550481          1.0100+7         LVLA.Nilsson+           (62)F0414  2 
+ 2004  4009   4  50  C 1.4100+7 100000.0 8.3120-3         -0.861629          1.0100+7         LVLA.Nilsson+           (62)F0414  2 
+#/DATA      8
+#/DATASET

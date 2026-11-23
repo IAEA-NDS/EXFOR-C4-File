@@ -1,0 +1,38 @@
+#ENTRY      F1191
+#AUTHOR1    A.Gallmann+
+#YEAR       1966
+#INSTITUTE  (2FR STR)
+#TITLE      Fluctuations of effective cross sections of the
+#+          Mg-25(p,p)Mg-25 and Mg-24(d,p)Mg-25 reactions.
+#AUTHOR(S)  A.Gallmann, P.Wagner, P.E.Hodgson
+#REF-CODE   (J,NP,88,654,1966)
+#REFERENCE  Nucl.Phys. 88 (1966) 654
+#DATASETS   0
+#
+#DATASET    F1191006 
+#DATE       20240215
+#REACTION   12-MG-25(P,INL)12-MG-25,PAR,DA
+#PROJ       1001
+#TARG       12025
+#MF         4
+#MT         601
+#PRODUCT    12-MG-25
+#C4BEGIN    [ 1001 12025   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 12025   4 601  C 6000000.          1.4200-3 2.8400-4 0.865151          584000.0         LVLA.Gallmann+          (66)F1191  6 
+ 1001 12025   4 601  C 6000000.          1.1300-3 2.2600-4 0.814116          584000.0         LVLA.Gallmann+          (66)F1191  6 
+ 1001 12025   4 601  C 6000000.          1.4400-3 2.8800-4 0.758134          584000.0         LVLA.Gallmann+          (66)F1191  6 
+ 1001 12025   4 601  C 6000000.          9.5200-4 1.9040-4 0.695913          584000.0         LVLA.Gallmann+          (66)F1191  6 
+ 1001 12025   4 601  C 6000000.          1.5000-3 3.0000-4 0.632029          584000.0         LVLA.Gallmann+          (66)F1191  6 
+ 1001 12025   4 601  C 6000000.          1.3800-3 2.7600-4 0.557745          584000.0         LVLA.Gallmann+          (66)F1191  6 
+ 1001 12025   4 601  C 6000000.          1.8800-3 3.7600-4 0.483282          584000.0         LVLA.Gallmann+          (66)F1191  6 
+ 1001 12025   4 601  C 6000000.          1.6800-3 3.3600-4 0.400349          584000.0         LVLA.Gallmann+          (66)F1191  6 
+ 1001 12025   4 601  C 6000000.          1.8700-3 3.7400-4 0.312335          584000.0         LVLA.Gallmann+          (66)F1191  6 
+ 1001 12025   4 601  C 6000000.          1.7300-3 3.4600-4 0.230050          584000.0         LVLA.Gallmann+          (66)F1191  6 
+ 1001 12025   4 601  C 6000000.          2.0300-3 4.0600-4 0.144356          584000.0         LVLA.Gallmann+          (66)F1191  6 
+ 1001 12025   4 601  C 6000000.          1.8400-3 3.6800-4 0.059306          584000.0         LVLA.Gallmann+          (66)F1191  6 
+ 1001 12025   4 601  C 6000000.          1.8700-3 3.7400-4-0.040132          584000.0         LVLA.Gallmann+          (66)F1191  6 
+#/DATA      13
+#/DATASET

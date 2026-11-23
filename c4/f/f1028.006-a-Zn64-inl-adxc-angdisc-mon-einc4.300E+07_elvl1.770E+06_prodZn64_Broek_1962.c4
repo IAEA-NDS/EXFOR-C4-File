@@ -1,0 +1,31 @@
+#ENTRY      F1028
+#AUTHOR1    H.W.Broek+
+#YEAR       1962
+#INSTITUTE  (1USAANL)
+#TITLE      Scattering of alpha particles by Zn-64 and Zn-68.
+#AUTHOR(S)  H.W.Broek, T.H.Braid, J.L.Yntema, B.Zeidman
+#REF-CODE   (J,NP,38,305,1962)
+#REFERENCE  Nucl.Phys. 38 (1962) 305
+#DATASETS   0
+#
+#DATASET    F1028006 
+#DATE       20130419
+#REACTION   30-ZN-64(A,INL)30-ZN-64,PAR,DA
+#PROJ       2004
+#TARG       30064
+#MF         4
+#MT         801
+#PRODUCT    30-ZN-64
+#C4BEGIN    [ 2004 30064   4 801  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 30064   4 801  C 4.3000+7 280000.0 2.9070-4          0.853041          1770000. 30000.00LVLH.W.Broek+           (62)F1028  6 
+ 2004 30064   4 801  C 4.3000+7 280000.0 2.9080-4          0.828940          1770000. 30000.00LVLH.W.Broek+           (62)F1028  6 
+ 2004 30064   4 801  C 4.3000+7 280000.0 2.2260-4          0.809745          1770000. 30000.00LVLH.W.Broek+           (62)F1028  6 
+ 2004 30064   4 801  C 4.3000+7 280000.0 1.0590-4          0.791832          1770000. 30000.00LVLH.W.Broek+           (62)F1028  6 
+ 2004 30064   4 801  C 4.3000+7 280000.0 6.6800-5          0.766145          1770000. 30000.00LVLH.W.Broek+           (62)F1028  6 
+ 2004 30064   4 801  C 4.3000+7 280000.0 1.0440-4          0.739349          1770000. 30000.00LVLH.W.Broek+           (62)F1028  6 
+ 2004 30064   4 801  C 4.3000+7 280000.0 1.3440-4          0.713886          1770000. 30000.00LVLH.W.Broek+           (62)F1028  6 
+#/DATA      7
+#/DATASET

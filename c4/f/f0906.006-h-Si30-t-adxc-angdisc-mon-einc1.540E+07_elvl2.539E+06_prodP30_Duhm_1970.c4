@@ -1,0 +1,28 @@
+#ENTRY      F0906
+#AUTHOR1    H.H.Duhm+
+#YEAR       1970
+#INSTITUTE  (2GERMPH)
+#TITLE      (3He,t) reactions on the T=1 nuclei 18O, 22Ne, 26Mg
+#+          and 30Si.
+#AUTHOR(S)  H.H.Duhm, K.Peterseim, R.Seehars, R.Finlay, C.Detraz
+#REF-CODE   (J,NP/A,151,579,1970)
+#REFERENCE  Nucl.Phys.A 151 (1970) 579
+#DATASETS   0
+#
+#DATASET    F0906006 
+#DATE       20080425
+#REACTION   14-SI-30(HE3,T)15-P-30,PAR,DA
+#PROJ       2003
+#TARG       14030
+#MF         4
+#MT         700
+#PRODUCT    15-P-30
+#C4BEGIN    [ 2003 14030   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 14030   4 700  C 1.5400+7          3.5692-5 7.6587-6 0.995121          2539000.         LVLH.H.Duhm+            (70)F0906  6 
+ 2003 14030   4 700  C 1.5400+7          3.2410-5 4.3724-6 0.988942          2539000.         LVLH.H.Duhm+            (70)F0906  6 
+ 2003 14030   4 700  C 1.5400+7          2.8497-5 7.1702-6 0.980986          2539000.         LVLH.H.Duhm+            (70)F0906  6 
+#/DATA      3
+#/DATASET

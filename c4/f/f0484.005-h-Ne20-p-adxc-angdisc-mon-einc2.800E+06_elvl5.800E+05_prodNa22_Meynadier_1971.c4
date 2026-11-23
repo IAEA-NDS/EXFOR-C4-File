@@ -1,0 +1,35 @@
+#ENTRY      F0484
+#AUTHOR1    C.Meynadier+
+#YEAR       1971
+#INSTITUTE  (3ALGCDT)
+#TITLE      Investigation of the B-11(3He,p)C-13 and
+#+          Ne-20(3He,p)Na-22 reactions at E(He3) below 3 MeV.
+#AUTHOR(S)  C.Meynadier, J.F.Allard, M.Amiel, H.Beaumevieille, B.Chambon, 
+#+          C.Morand
+#REF-CODE   (J,NP/A,161,305,1971)
+#REFERENCE  Nucl.Phys.A 161 (1971) 305
+#DATASETS   0
+#
+#DATASET    F0484005 
+#DATE       20200415
+#REACTION   10-NE-20(HE3,P)11-NA-22,PAR,DA
+#PROJ       2003
+#TARG       10020
+#MF         4
+#MT         600
+#PRODUCT    11-NA-22
+#C4BEGIN    [ 2003 10020   4 600  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003 10020   4 600  C 2800000.          4.6320-5          0.914960          580000.0         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 2800000.          4.7480-5 5.0900-6 0.867765          580000.0         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 2800000.          4.1920-5          0.630676          580000.0         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 2800000.          3.7910-5          0.425779          580000.0         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 2800000.          3.6260-5          0.192522          580000.0         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 2800000.          4.3770-5 4.9000-6-0.674302          580000.0         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 2800000.          4.1920-5         -0.813101          580000.0         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 2800000.          3.1870-5         -0.902585          580000.0         LVLC.Meynadier+         (71)F0484  5 
+ 2003 10020   4 600  C 2800000.          3.0120-5         -0.937889          580000.0         LVLC.Meynadier+         (71)F0484  5 
+#/DATA      9
+#/DATASET
