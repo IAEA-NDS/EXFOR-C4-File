@@ -952,7 +952,7 @@
 10100.003   1507     3  102            50       50 CS    92-U-233(N,G)92-U-234,,SIG,,RTE
 10100.004   1507     -    -    -        -        - NU    92-U-233(N,ABS),,ETA
 10101.002   1525     3  102            27       27 CS    92-U-238(N,G)92-U-239,,SIG,,AV
-10101.003   1525     -    -    -        -        -       92-U-238(N,G)92-U-239,,SIG,,RTE/TTA
+10101.003   1525     -    -    -        -        - CS    92-U-238(N,G)92-U-239,,SIG,,RTE/TTA
 10101.004.1 1525     -    -    -        -        - RP    92-U-238(N,EL),,WID
 10101.004.2 1525     -    -    -        -        - RP    92-U-238(N,G),,WID
 10102.002   0000     3    1             8        8 CS    1-H-1(N,TOT),,SIG
@@ -98004,10 +98004,10 @@ C0819.005.1 0000     -    -    -        -        - RP    14-SI-29(P,INL),PAR,WID
 C0819.005.2 0000     -    -    -        -        - RP    14-SI-29(P,INL),PAR,WID/RED,,RMT
 C0819.006.1 0000     -    -    -        -        - RP    14-SI-29(P,INL),PAR,WID
 C0819.006.2 0000     -    -    -        -        - RP    14-SI-29(P,INL),PAR,WID/RED,,RMT
-C0820.002   C257     -    -    -        -        -       47-AG-0(5-B-8,X)4-BE-7,LP,IPA/DP
-C0820.003   C257     -    -    -        -        -       47-AG-0(5-B-8,X)4-BE-7,LP,IPA/DP
-C0820.004   C257     -    -    -        -        -       82-PB-0(5-B-8,X)4-BE-7,LP,IPA/DP
-C0820.005   C257     -    -    -        -        -       82-PB-0(5-B-8,X)4-BE-7,LP,IPA/DP
+C0820.002   C257     -    -    -        -        - DE    47-AG-0(5-B-8,X)4-BE-7,LP,IPA/DP
+C0820.003   C257     -    -    -        -        - DE    47-AG-0(5-B-8,X)4-BE-7,LP,IPA/DP
+C0820.004   C257     -    -    -        -        - DE    82-PB-0(5-B-8,X)4-BE-7,LP,IPA/DP
+C0820.005   C257     -    -    -        -        - DE    82-PB-0(5-B-8,X)4-BE-7,LP,IPA/DP
 C0820.006   C257     -    -    -        -        - DE    82-PB-0(5-B-8,P+X)4-BE-7,LP,IPA/DP,B8/P
 C0820.007   C257     -    -    -        -        -       82-PB-0(5-B-8,P+X)4-BE-7,,IPA/DE,B8/P+RSD
 C0821.002.1 C250     3  454            68       68 CS    6-C-13(6-C-13,X)12-MG-24,,SIG
@@ -102014,8 +102014,8 @@ C1523.002   C255     3   50             3        3 CSP   6-C-14(P,N)7-N-14,PAR,S
 C1523.003   C255     3   50             1        1 CSP   7-N-14(P,N)8-O-14,PAR,SIG
 C1523.004   C255     3  601             1        1 CSP   7-N-14(P,INL)7-N-14,PAR,SIG
 C1523.005   C255     4   50            52       10 DAP   6-C-14(P,N)7-N-14,PAR,DA
-C1523.006   C255     4   50            52        0 DAP   6-C-14(P,N)7-N-14,PAR,DA
-C1523.007   C255     4   50            52        0 DAP   6-C-14(P,N)7-N-14,PAR,DA
+C1523.006   C255     4   50            52       12 DAP   6-C-14(P,N)7-N-14,PAR,DA
+C1523.007   C255     4   50            52       12 DAP   6-C-14(P,N)7-N-14,PAR,DA
 C1523.008   C255     4   50            29        0 DAP   7-N-14(P,N)8-O-14,PAR,DA
 C1524.002   C120     -    -    -        -        - POL   1-H-2(P,EL)1-H-2,,POL/DA,,ANA
 C1524.003   C120     -    -    -        -        - POL   1-H-2(P,EL)1-H-2,,POL/DA,D,ANA
@@ -103223,11 +103223,11 @@ C1666.002   C104     4   50            11        0 DAP   6-C-12(P,N)7-N-12,PAR,D
 C1666.003   C104     -    -    -        -        - POL   6-C-12(P,N)7-N-12,PAR,POL/DA,,ANA
 C1666.004   C104     -    -    -        -        - POL   6-C-12(P,N)7-N-12,PAR,POL/DA
 C1666.005   C104     -    -    -        -        - POL   6-C-12(P,N)7-N-12,NN/PAR,POL/DA,,D
-C1666.007   C104     4   50            11        0 DAP   6-C-12(P,N)7-N-12,PAR,DA
+C1666.007   C104     4   50            11       10 DAP   6-C-12(P,N)7-N-12,PAR,DA
 C1666.008   C104     -    -    -        -        - POL   6-C-12(P,N)7-N-12,PAR,POL/DA,,ANA
 C1666.009   C104     -    -    -        -        - POL   6-C-12(P,N)7-N-12,PAR,POL/DA
 C1666.010   C104     -    -    -        -        - POL   6-C-12(P,N)7-N-12,NN/PAR,POL/DA,,D
-C1666.011   C104     4   50            14        0 DAP   6-C-12(P,N)7-N-12,PAR,DA
+C1666.011   C104     4   50            14       14 DAP   6-C-12(P,N)7-N-12,PAR,DA
 C1666.012   C104     -    -    -        -        - POL   6-C-12(P,N)7-N-12,PAR,POL/DA,,ANA
 C1666.013   C104     -    -    -        -        - POL   6-C-12(P,N)7-N-12,PAR,POL/DA
 C1666.014   C104     -    -    -        -        - POL   6-C-12(P,N)7-N-12,NN/PAR,POL/DA,,D
@@ -132891,12 +132891,12 @@ E1579.004   E034     -    -    -        -        - POL   6-C-13(P,N)7-N-13,NN/PA
 E1579.005   E034     -    -    -        -        - POL   20-CA-40(P,N)21-SC-40,NN,POL/DA/DE,,D
 E1580.002   E148     -    -    -        -        - DAP   6-C-12(6-C-12,5-B-12)7-N-12,PAR,DA,RSD
 E1580.003   E148     4    2            52       52 DA    6-C-12(6-C-12,EL)6-C-12,,DA
-E1581.003   E034     4    2            38        0 DA    4-BE-9(P,EL)4-BE-9,,DA,,RTH
-E1581.004   E034     4    2            38        0 DA    4-BE-9(P,EL)4-BE-9,,DA,,RTH
+E1581.003   E034     4    2            38       38 DA    4-BE-9(P,EL)4-BE-9,,DA,,RTH
+E1581.004   E034     4    2            38       38 DA    4-BE-9(P,EL)4-BE-9,,DA,,RTH
 E1581.005   E034     -    -    -        -        - POL   4-BE-9(P,EL)4-BE-9,,POL/DA,,ANA
 E1581.006   E034     -    -    -        -        - POL   4-BE-9(P,EL)4-BE-9,,POL/DA,,ANA
-E1581.009   E034     4  601            38        0 DAP   4-BE-9(P,INL)4-BE-9,PAR,DA
-E1581.010   E034     4  601            38        0 DAP   4-BE-9(P,INL)4-BE-9,PAR,DA
+E1581.009   E034     4  601            38       38 DAP   4-BE-9(P,INL)4-BE-9,PAR,DA
+E1581.010   E034     4  601            38       38 DAP   4-BE-9(P,INL)4-BE-9,PAR,DA
 E1581.011   E034     -    -    -        -        - POL   4-BE-9(P,INL)4-BE-9,PAR,POL/DA,,ANA
 E1581.012   E034     -    -    -        -        - POL   4-BE-9(P,INL)4-BE-9,PAR,POL/DA,,ANA
 E1582.002   0000     -    -    -        -        - DAE   3-LI-6(A,N+P+A)2-HE-4,,DA2/DE2,A/A
@@ -137451,10 +137451,10 @@ E1970.027   E041     6  103            44       44 DAE   83-BI-209(D,P)83-BI-210
 E1970.028   E041     6  103            51       51 DAE   50-SN-118(D,P)50-SN-119,,DA/DE
 E1970.029   E041     6  103            46       46 DAE   50-SN-118(D,P)50-SN-119,,DA/DE
 E1970.030   E041     6  103            42       42 DAE   50-SN-118(D,P)50-SN-119,,DA/DE
-E1971.002   E041     4    2             9        0 DA    8-O-16(P,EL)8-O-16,,DA
+E1971.002   E041     4    2             9        9 DA    8-O-16(P,EL)8-O-16,,DA
 E1971.003   E041     -    -    -        -        - POL   8-O-16(P,EL)8-O-16,,POL/DA,,ANA
 E1971.004   E041     -    -    -        -        - DAE   8-O-16(P,INL)8-O-16,,DA/DE,P/RSD,REL
-E1971.005   E041     4  601             9        0 DAP   8-O-16(P,INL)8-O-16,PAR,DA
+E1971.005   E041     4  601             9        9 DAP   8-O-16(P,INL)8-O-16,PAR,DA
 E1972.002.1 E063     4    2            37       37 DA    8-O-16(5-B-11,EL)8-O-16,,DA,,RTH
 E1972.002.2 E063     4    2            25       25 DA    8-O-16(5-B-11,EL)8-O-16,,DA,,RTH
 E1972.003   E063     -    -    -        -        - POL   8-O-16(5-B-11,6-C-12)7-N-15,20/PAR,POL/DA,,TAP
@@ -137685,7 +137685,7 @@ E2008.006   E045     -    -    -        -        - POL   1-H-1(D,EL)1-H-1,,POL/D
 E2008.007   E045     -    -    -        -        - POL   1-H-1(D,EL)1-H-1,NN,POL/DA,,ANA
 E2008.008   E045     -    -    -        -        - POL   1-H-1(D,EL)1-H-1,SS,POL/DA,,ANA
 E2008.009   E045     -    -    -        -        - POL   1-H-1(D,EL)1-H-1,SL,POL/DA,,ANA
-E2009.002   E045     4   50            15        0 DAP   14-SI-28(P,N)15-P-28,PAR,DA
+E2009.002   E045     4   50            15       15 DAP   14-SI-28(P,N)15-P-28,PAR,DA
 E2010.002   E045     -    -    -        -        - CS    1-H-1(14-SI-28,TCC),,SIG
 E2010.003   E045     -    -    -        -        - CS    6-C-0(14-SI-28,TCC),,SIG
 E2010.004   E045     -    -    -        -        - CS    13-AL-27(14-SI-28,TCC),,SIG
@@ -138458,7 +138458,7 @@ E2080.005   E081     -    -    -        -        - DAE   50-SN-118(A,INL)50-SN-1
 E2080.006   E081     -    -    -        -        - DAE   50-SN-120(A,INL)50-SN-120,,DA/DE,A/RSD
 E2080.007   E081     -    -    -        -        - DAE   50-SN-122(A,INL)50-SN-122,,DA/DE,A/RSD
 E2080.008   E081     -    -    -        -        - DAE   50-SN-124(A,INL)50-SN-124,,DA/DE,A/RSD
-E2081.002   E062     4   50            22        0 DAP   6-C-12(P,N)7-N-12,PAR,DA
+E2081.002   E062     4   50            22       21 DAP   6-C-12(P,N)7-N-12,PAR,DA
 E2081.003   E062     -    -    -        -        - POL   6-C-12(P,N)7-N-12,PAR,POL/DA,,ANA
 E2082.002   E125     3    4    G       14       14 CS    74-W-186(P,N)75-RE-186-G,,SIG
 E2082.003   E125     -    -    -        -        - TT    74-W-CMP(P,X)75-RE-186-G,,TTY,,SAT,DERIV
@@ -138600,7 +138600,7 @@ E2102.006   E056     3  454            10       10 CS    47-AG-0(P,X)48-CD-105,,
 E2103.002   E125     -    -    -        -        - TT    16-S-32(A,X)17-CL-34-M,,TTY,,SAT
 E2103.003   E125     -    -    -        -        - CS    16-S-32(A,X)17-CL-34-M,,SIG,,,DERIV
 E2105.002   E158     -    -    -        -        - DAE   1-H-1(P,PI0+P)1-H-1,,DA/DA/DP,PI0/P+P/P+P
-E2105.003   E158     -    -    -        -        -       1-H-1(P,PI0+P)1-H-1,,POL/DA/DA/DP,PI0/P+P/P+P,ANA
+E2105.003   E158     -    -    -        -        - POL   1-H-1(P,PI0+P)1-H-1,,POL/DA/DA/DP,PI0/P+P/P+P,ANA
 E2106.002   E056     -    -    -        -        - DAE   6-C-0(P,X)ELEM,,DA/DE
 E2106.003   E056     -    -    -        -        - DAE   6-C-0(P,X)ELEM,,DA/DE
 E2107.002   E063     -    -    -        -        - DA    1-H-1(11-NA-21,EL)1-H-1,,DA,P
@@ -140190,7 +140190,7 @@ E2340.005   E158     -    -    -        -        - TTD   8-O-CMP(P,X)0-NN-1,,PY/
 E2340.006   E158     -    -    -        -        - TTD   8-O-CMP(P,X)0-NN-1,,PY/DA/DE,,TT/CH
 E2340.007   E158     -    -    -        -        - TTD   8-O-CMP(P,X)0-NN-1,,PY/DA/DE,,TT/CH
 E2340.008   E158     -    -    -        -        - TTD   8-O-CMP(P,X)0-NN-1,,PY/DA,,TT/CH
-E2340.009   E158     -    -    -        -        -       8-O-CMP(P,X)0-NN-1,,PY/DE,,TT/CH
+E2340.009   E158     -    -    -        -        - TTD   8-O-CMP(P,X)0-NN-1,,PY/DE,,TT/CH
 E2341.002   E067     6  201           232       31 DAE   6-C-0(6-C-12,X)0-NN-1,,DA/DE
 E2341.003   E067     6  201           220       31 DAE   6-C-0(8-O-16,X)0-NN-1,,DA/DE
 E2343.002   E092     -    -    -        -        - TTD   6-C-0(D,X)0-NN-1,,PY/DA/DE,,TT
@@ -177948,8 +177948,8 @@ O1802.002   O048     4  800            15        2 DAP   64-GD-156(HE3,A)64-GD-1
 O1802.003   O048     4  800            23        2 DAP   64-GD-158(HE3,A)64-GD-157,PAR,DA
 O1802.004   O048     4    2             2        0 DA    64-GD-158(HE3,EL)64-GD-158,,DA,,RTH
 O1802.005   O048     4  800             8        4 DAP   64-GD-158(HE3,A)64-GD-157,PAR,DA
-O1803.002   O041     4  700            33        0 DAP   6-C-12(HE3,T)7-N-12,PAR,DA
-O1803.003   O041     4  700            56        0 DAP   6-C-12(HE3,T)7-N-12,PAR,DA
+O1803.002   O041     4  700            33        7 DAP   6-C-12(HE3,T)7-N-12,PAR,DA
+O1803.003   O041     4  700            56        6 DAP   6-C-12(HE3,T)7-N-12,PAR,DA
 O1803.004   O041     -    -    -        -        - DAP   (6-C-12(HE3,T)7-N-12,PAR,DA)//(6-C-13(HE3,T)7-N-13,PAR,DA)
 O1803.005   O041     -    -    -        -        - DAP   (6-C-13(HE3,T)7-N-13,PAR,DA)//(6-C-13(HE3,T)7-N-13,PAR,DA)
 O1804.002   O048     4  700             3        3 DAP   6-C-12(HE3,T)7-N-12,PAR,DA
@@ -182532,7 +182532,7 @@ O2628.008   O100     4  205            10        5 DA    6-C-12(6-C-12,X)1-H-3,,
 O2628.009   O100     4  205            10        4 DA    8-O-16(6-C-12,X)1-H-3,,DA
 O2628.010   O100     4  205            10        5 DA    1-H-1(6-C-12,X)1-H-3,,DA
 O2628.011   O100     6  203           101       14 DAE   6-C-12(6-C-12,X)1-H-1,,DA/DE
-O2628.012   O100     6  203           104        0 DAE   8-O-16(6-C-12,X)1-H-1,,DA/DE
+O2628.012   O100     6  203           104       13 DAE   8-O-16(6-C-12,X)1-H-1,,DA/DE
 O2628.013   O100     6  203            65       11 DAE   1-H-1(6-C-12,X)1-H-1,,DA/DE
 O2628.014   O100     6  204            90       12 DAE   6-C-12(6-C-12,X)1-H-2,,DA/DE
 O2628.015   O100     6  204            91       12 DAE   8-O-16(6-C-12,X)1-H-2,,DA/DE
