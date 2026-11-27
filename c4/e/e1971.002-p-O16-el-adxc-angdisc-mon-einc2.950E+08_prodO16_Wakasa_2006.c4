@@ -1,0 +1,37 @@
+#ENTRY      E1971
+#AUTHOR1    T.Wakasa+
+#YEAR       2006
+#INSTITUTE  (2JPNKYU)
+#TITLE      Study of the pionic enhancement in 16O(p,p')16O
+#+          (0-,T=1) at 295 MeV
+#AUTHOR(S)  T.Wakasa, G.P.A.Berg, H.Fujimura, K.Fujita, K.Hatanaka, 
+#+          M.Ichimura, M.Itoh, J.Kamiya, T.Kawabata, Y.Kitamura, E.Obayashi, 
+#+          H.Sakaguchi, N.Sakamoto, Y.Sakemi, Y.Shimizu, H.Takeda, 
+#+          M.Uchida, Y.Yasuda, H.P.Yoshida, M.Yosoi
+#REF-CODE   (J,PL/B,632,(4),485,200601)
+#REFERENCE  Phys.Lett.B 632 No.4 (2006) 485 (doi:10.1016/j.physletb.2005.11.009)
+#DATASETS   0
+#
+#DATASET    E1971002 
+#DATE       20061228
+#REACTION   8-O-16(P,EL)8-O-16,,DA
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         2
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  8016   4   2  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4   2  C 2.9500+8 1000000. 0.055530 0.010950 0.965296                              T.Wakasa+            (06)E1971  2 
+ 1001  8016   4   2  C 2.9500+8 1000000. 0.032850 6.4780-3 0.954814                              T.Wakasa+            (06)E1971  2 
+ 1001  8016   4   2  C 2.9500+8 1000000. 7.4400-3 1.4670-3 0.942962                              T.Wakasa+            (06)E1971  2 
+ 1001  8016   4   2  C 2.9500+8 1000000. 2.9800-3 5.8770-4 0.929733                              T.Wakasa+            (06)E1971  2 
+ 1001  8016   4   2  C 2.9500+8 1000000. 1.9580-3 3.8610-4 0.915455                              T.Wakasa+            (06)E1971  2 
+ 1001  8016   4   2  C 2.9500+8 1000000. 2.1750-3 4.2890-4 0.899502                              T.Wakasa+            (06)E1971  2 
+ 1001  8016   4   2  C 2.9500+8 1000000. 2.2410-3 4.0200-4 0.882558                              T.Wakasa+            (06)E1971  2 
+ 1001  8016   4   2  C 2.9500+8 1000000. 1.7370-3 3.1150-4 0.864295                              T.Wakasa+            (06)E1971  2 
+ 1001  8016   4   2  C 2.9500+8 1000000. 1.1410-3 2.2500-4 0.844714                              T.Wakasa+            (06)E1971  2 
+#/DATA      9
+#/DATASET

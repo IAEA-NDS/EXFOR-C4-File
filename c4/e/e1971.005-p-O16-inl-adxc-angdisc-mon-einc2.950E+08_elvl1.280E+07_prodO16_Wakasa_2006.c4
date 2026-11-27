@@ -1,0 +1,37 @@
+#ENTRY      E1971
+#AUTHOR1    T.Wakasa+
+#YEAR       2006
+#INSTITUTE  (2JPNKYU)
+#TITLE      Study of the pionic enhancement in 16O(p,p')16O
+#+          (0-,T=1) at 295 MeV
+#AUTHOR(S)  T.Wakasa, G.P.A.Berg, H.Fujimura, K.Fujita, K.Hatanaka, 
+#+          M.Ichimura, M.Itoh, J.Kamiya, T.Kawabata, Y.Kitamura, E.Obayashi, 
+#+          H.Sakaguchi, N.Sakamoto, Y.Sakemi, Y.Shimizu, H.Takeda, 
+#+          M.Uchida, Y.Yasuda, H.P.Yoshida, M.Yosoi
+#REF-CODE   (J,PL/B,632,(4),485,200601)
+#REFERENCE  Phys.Lett.B 632 No.4 (2006) 485 (doi:10.1016/j.physletb.2005.11.009)
+#DATASETS   0
+#
+#DATASET    E1971005 
+#DATE       20061228
+#REACTION   8-O-16(P,INL)8-O-16,PAR,DA
+#PROJ       1001
+#TARG       8016
+#MF         4
+#MT         601
+#PRODUCT    8-O-16
+#C4BEGIN    [ 1001  8016   4 601  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   4 601  C 2.9500+8 1000000. 7.3920-6 5.9350-7 0.965339          1.2800+7         LVLT.Wakasa+            (06)E1971  5 
+ 1001  8016   4 601  C 2.9500+8 1000000. 3.5790-6 7.9140-7 0.954890          1.2800+7         LVLT.Wakasa+            (06)E1971  5 
+ 1001  8016   4 601  C 2.9500+8 1000000. 1.1870-6 5.3960-7 0.943062          1.2800+7         LVLT.Wakasa+            (06)E1971  5 
+ 1001  8016   4 601  C 2.9500+8 1000000. 3.5610-6 5.3960-7 0.930062          1.2800+7         LVLT.Wakasa+            (06)E1971  5 
+ 1001  8016   4 601  C 2.9500+8 1000000. 8.4170-6 4.3170-7 0.915839          1.2800+7         LVLT.Wakasa+            (06)E1971  5 
+ 1001  8016   4 601  C 2.9500+8 1000000. 1.0020-5 3.7770-7 0.900183          1.2800+7         LVLT.Wakasa+            (06)E1971  5 
+ 1001  8016   4 601  C 2.9500+8 1000000. 8.5250-6 3.2370-7 0.883452          1.2800+7         LVLT.Wakasa+            (06)E1971  5 
+ 1001  8016   4 601  C 2.9500+8 1000000. 5.9710-6 2.3380-7 0.865288          1.2800+7         LVLT.Wakasa+            (06)E1971  5 
+ 1001  8016   4 601  C 2.9500+8 1000000. 3.3630-6 2.3380-7 0.846257          1.2800+7         LVLT.Wakasa+            (06)E1971  5 
+#/DATA      9
+#/DATASET
