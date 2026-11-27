@@ -151825,6 +151825,21 @@ G0101.005   G059     -    -    -        -        - CS    63-EU-153(G,N)63-EU-152
 G0102.002   G059     3    4            21       21 CS    45-RH-103(G,N)45-RH-102,,SIG
 G0103.002   G060     -    -    -        -        - CS    13-AL-27(G,X)11-NA-24,,SIG,,BRA
 G0103.003   G060     -    -    -        -        - CS    13-AL-27(G,X)11-NA-22,,SIG,,BRA
+G0105.002   G061     -    -    -        -        - CS    25-MN-55(G,3N)25-MN-52-G/M,,SIG/RAT,,BRA
+G0105.003   G061     -    -    -        -        - CS    39-Y-89(G,2N)39-Y-87-M/G,,SIG/RAT,,BRA
+G0105.004   G061     -    -    -        -        - CS    39-Y-89(G,3N)39-Y-86-M/G,,SIG/RAT,,BRA
+G0105.005   G061     -    -    -        -        - CS    40-ZR-0(G,X)40-ZR-89-G/M,,SIG/RAT,,BRA
+G0105.006   G061     -    -    -        -        - CS    49-IN-0(G,X)49-IN-112-M/G,,SIG/RAT,,BRA
+G0105.007   G061     -    -    -        -        - CS    49-IN-0(G,X)49-IN-111-G/M,,SIG/RAT,,BRA
+G0105.008   G061     -    -    -        -        - CS    49-IN-113(G,3N)49-IN-110-G/M,,SIG/RAT,,BRA
+G0105.009   G061     -    -    -        -        - CS    62-SM-154(G,X)61-PM-152-M1/G,,SIG/RAT,,BRA
+G0105.010   G061     -    -    -        -        - CS    63-EU-153(G,N)63-EU-152-M2/M1,,SIG/RAT,,BRA
+G0105.011   G061     -    -    -        -        - CS    72-HF-179(G,P)71-LU-178-M/G,,SIG/RAT,,BRA
+G0105.012   G061     -    -    -        -        - CS    72-HF-180(G,X)71-LU-178-M/G,,SIG/RAT,,BRA
+G0105.013   G061     -    -    -        -        - CS    72-HF-0(G,X)71-LU-178-M/G,,SIG/RAT,,BRA
+G0106.002   G061     3    4            22       22 CS    39-Y-89(G,N)39-Y-88,,SIG
+G0107.002   G061     3    4            59       59 CS    23-V-51(G,N)23-V-50,,SIG
+G0108.002   G061     -    -    -        -        - CS    29-CU-65(G,N)29-CU-64,,SIG,,,DERIV
 G0500.002   G047     8  459            13       13 FY    90-TH-232(G,F)ELEM/MASS,CUM,FY
 G0500.003   G047     -    -    -        -        - FY    90-TH-232(G,F)MASS,CHN,FY
 G0501.002   G027     -    -    -        -        - FY    90-TH-232(G,F)ELEM/MASS,CUM,FY,,BRA
@@ -152125,6 +152140,28 @@ G3149.004   G060     -    -    -        -        - CS    28-NI-0(G,X)27-CO-58,,S
 G3149.005   G060     -    -    -        -        - CS    28-NI-0(G,X)27-CO-57,,SIG,,BRA
 G3149.006   G060     -    -    -        -        - CS    28-NI-0(G,X)27-CO-56,,SIG,,BRA
 G3149.007   G060     -    -    -        -        - CS    28-NI-0(G,X)27-CO-55,,SIG,,BRA
+G3150.002   G061     -    -    -        -        - CS    49-IN-115(G,N)49-IN-114-M,,SIG,,BRA
+G3150.003   G061     -    -    -        -        - CS    49-IN-115(G,2N)49-IN-113-M,,SIG,,BRA
+G3150.004.1 G061     -    -    -        -        - CS    49-IN-0(G,X)49-IN-112-M,,SIG,,BRA
+G3150.004.2 G061     -    -    -        -        - CS    49-IN-0(G,X)49-IN-112-G,,SIG,,BRA
+G3150.004.3 G061     -    -    -        -        - CS    49-IN-0(G,X)49-IN-112,,SIG,,BRA
+G3150.005.1 G061     -    -    -        -        - CS    49-IN-0(G,X)49-IN-111-M,,SIG,,BRA
+G3150.005.2 G061     -    -    -        -        - CS    49-IN-0(G,X)49-IN-111-G,,SIG,,BRA
+G3150.005.3 G061     -    -    -        -        - CS    49-IN-0(G,X)49-IN-111,,SIG,,BRA
+G3150.006.1 G061     -    -    -        -        - CS    49-IN-0(G,X)49-IN-110-M,,SIG,,BRA
+G3150.006.2 G061     -    -    -        -        - CS    49-IN-0(G,X)49-IN-110-G,,SIG,,BRA
+G3150.006.3 G061     -    -    -        -        - CS    49-IN-0(G,X)49-IN-110,,SIG,,BRA
+G3150.007   G061     -    -    -        -        - CS    49-IN-113(G,4N)49-IN-109,,SIG,,BRA
+G3150.008   G061     -    -    -        -        - CS    49-IN-0(G,X)49-IN-109,,SIG,,BRA
+G3150.009.1 G061     -    -    -        -        - CS    49-IN-113(G,N)49-IN-112-M,,SIG,,BRA
+G3150.009.2 G061     -    -    -        -        - CS    49-IN-113(G,N)49-IN-112-G,,SIG,,BRA
+G3150.009.3 G061     -    -    -        -        - CS    49-IN-113(G,N)49-IN-112-M/G,,SIG/RAT,,BRA
+G3150.010.1 G061     -    -    -        -        - CS    49-IN-113(G,2N)49-IN-111-M,,SIG,,BRA
+G3150.010.2 G061     -    -    -        -        - CS    49-IN-113(G,2N)49-IN-111-G,,SIG,,BRA
+G3150.010.3 G061     -    -    -        -        - CS    49-IN-113(G,2N)49-IN-111-G/M,,SIG/RAT,,BRA
+G3150.011.1 G061     -    -    -        -        - CS    49-IN-113(G,3N)49-IN-110-M,,SIG,,BRA
+G3150.011.2 G061     -    -    -        -        - CS    49-IN-113(G,3N)49-IN-110-G,,SIG,,BRA
+G3150.011.3 G061     -    -    -        -        - CS    49-IN-113(G,3N)49-IN-110-G/M,,SIG/RAT,,BRA
 G4001.002   G027     3    4    ?       23       23 CS    82-PB-207(G,N)82-PB-206-L,,SIG,,BRS
 G4001.003   G027     3    4    ?       21       21 CS    83-BI-209(G,N)83-BI-208-L,,SIG,,BRS
 G4002.002   G027     3    4    ?       11       11 CS    81-TL-203(G,N)81-TL-202-L,,SIG,,BRS
@@ -152490,6 +152527,13 @@ G4118.002   G060     -    -    -        -        - CSP   7-N-14(G,3-LI-6)4-BE-8,
 G4119.002   G060     -    -    -        -        - CS    28-NI-0(G,X)27-CO-58,,SIG,,BRA
 G4120.002   G060     -    -    -        -        - CS    30-ZN-68(G,P)29-CU-67,,SIG,,BRA
 G4120.003   G060     -    -    -        -        - CS    28-NI-62(G,P)27-CO-61,,SIG,,BRA
+G4121.002   G061     -    -    -        -        - CS    6-C-12(G,N+P)5-B-10,,SIG,,BRA
+G4121.003   G061     -    -    -        -        - CS    7-N-14(G,N+P)6-C-12,,SIG,,BRA
+G4121.004   G061     -    -    -        -        - CS    8-O-16(G,N+P)7-N-14,,SIG,,BRA
+G4122.002   G061     -    -    -        -        - FY    (95-AM-241(G,F)ELEM/MASS,CUM,FY,,BRA)/(95-AM-241(G,F)53-I-133,CUM,FY,,BRA)
+G4123.002   G061     -    -    -        -        - CS    30-ZN-68(G,P)29-CU-67,,SIG,,BRA
+G4124.002   G061     -    -    -        -        - FY    93-NP-237(G,F)ELEM/MASS,CUM,FY,,BRA
+G4124.003   G061     -    -    -        -        - FY    93-NP-237(G,F)MASS,CHN,FY,,BRA
 J0102.002   J008     -    -    -        -        - DA    4-BE-9(PIN,X)3-LI-8,,DA,,REL
 J1270.002   J007     -    -    -        -        - POL   1-H-2(PIP,EL)1-H-2,,POL/DA,,ANA
 J1333.002   J007     -    -    -        -        - POL   6-C-12(PIN,X)0-LM-1,,POL/DA
