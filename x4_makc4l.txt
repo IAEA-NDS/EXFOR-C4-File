@@ -156147,7 +156147,9 @@ M0093.017   M122     -    -    -        -        - INT   27-CO-59(G,X)0-NN-1,UNW
 M0093.018   M122     -    -    -        -        - INT   (27-CO-59(G,N)27-CO-58,,INT,,BRS)+(27-CO-59(G,N+P)26-FE-57,,INT,,BRS)
 M0093.019   M122     -    -    -        -        - INT   27-CO-59(G,2N)27-CO-57,,INT,,BRS
 M0094.002   M119     -    -    -        -        - INT   16-S-32(G,P)15-P-31,PAR,INT/DA,G,BRA,DERIV
+M0094.002   M149     -    -    -        -        - INT   16-S-32(G,P)15-P-31,PAR,INT/DA,G,BRA/MSC
 M0094.003   M119     -    -    -        -        - INT   16-S-32(G,N)16-S-31,PAR,INT/DA,G,BRA,DERIV
+M0094.003   M149     -    -    -        -        - INT   16-S-32(G,N)16-S-31,PAR,INT/DA,G,BRA/MSC
 M0095.002   M069     -    -    -        -        - DAP   3-LI-0(G,X)0-NN-1,PAR,DA,,BRA/REL
 M0095.003   M069     -    -    -        -        - DAP   3-LI-0(G,X)0-NN-1,PAR,DA,,BRA/REL
 M0095.004   M069     -    -    -        -        - DAE   3-LI-0(G,X)0-NN-1,,DA/DE,,BRA/REL
@@ -156303,7 +156305,9 @@ M0119.005   M065    14   50             9        9 DAP   5-B-11(G,N)5-B-10,PAR,D
 M0119.006   M065    14   50             9        7 DAP   5-B-11(G,N)5-B-10,PAR,DA,G,BRS
 M0119.007   M065    14  600            11       10 DAP   5-B-11(G,P)4-BE-10,PAR,DA,G,BRS
 M0120.002   M119     -    -    -        -        - INT   13-AL-27(G,P)12-MG-26,PAR,INT/DA,G,BRA
+M0120.002   M149     -    -    -        -        - INT   13-AL-27(G,P)12-MG-26,PAR,INT/DA,G,BRA/MSC
 M0120.012   M119     -    -    -        -        - INT   13-AL-27(G,N)13-AL-26,PAR,INT/DA,G,BRA
+M0120.012   M149     -    -    -        -        - INT   13-AL-27(G,N)13-AL-26,PAR,INT/DA,G,BRA/MSC
 M0121.002   M123     4    2            68       68 DA    28-NI-60(G,EL)28-NI-60,,DA,,BRS
 M0121.003   M123     -    -    -        -        - DAP   28-NI-60(G,INL)28-NI-60,PAR,DA,,BRS
 M0121.004   M123     -    -    -        -        - DAP   28-NI-60(G,INL)28-NI-60,PAR,DA,,BRS
@@ -156521,7 +156525,9 @@ M0156.006   M065     -    -    -        -        - CS    (95-AM-243(G,F),,SIG,,B
 M0157.002   M065     -    -    -        -        - FY    (90-TH-232(G,F)11-NA-24,IND,FY,,BRA)/(90-TH-232(G,F)56-BA-140,IND,FY,,BRA)
 M0157.003   M065     3  454             1        1 CS    90-TH-232(G,F)11-NA-24,,SIG,,BRS
 M0158.002   M119     -    -    -        -        - INT   11-NA-23(G,P)10-NE-22,PAR,INT/DA,G,BRA
+M0158.002   M149     -    -    -        -        - INT   11-NA-23(G,P)10-NE-22,PAR,INT/DA,G,BRA/MSC
 M0158.003   M119     -    -    -        -        - INT   11-NA-23(G,N)11-NA-22,PAR,INT/DA,G,BRA
+M0158.003   M149     -    -    -        -        - INT   11-NA-23(G,N)11-NA-22,PAR,INT/DA,G,BRA/MSC
 M0159.002   M129     -    -    -        -        - CS    41-NB-93(G,N)41-NB-92-M,,SIG,,BRA
 M0159.003   M129     -    -    -        -        - CS    41-NB-93(E,N)41-NB-92-M,,SIG
 M0159.004   M129     -    -    -        -        - CS    41-NB-93(G,3N)41-NB-90,,SIG,,BRA
@@ -156547,8 +156553,11 @@ M0159.023   M129     -    -    -        -        - CS    41-NB-93(E,X)39-Y-86-M,
 M0159.024   M129     -    -    -        -        - CS    41-NB-93(G,X)39-Y-85-G,,SIG,,BRA
 M0159.025   M129     -    -    -        -        - CS    41-NB-93(E,X)39-Y-85-G,,SIG
 M0162.002   M119     -    -    -        -        - INT   19-K-39(G,P)18-AR-38,PAR,INT/DA,G,BRA,DERIV
+M0162.002   M149     -    -    -        -        - INT   19-K-39(G,P)18-AR-38,PAR,INT/DA,G,BRA/MSC
 M0162.003   M119     -    -    -        -        - INT   19-K-39(G,N)19-K-38,PAR,INT/DA,G,BRA,DERIV
+M0162.003   M149     -    -    -        -        - INT   19-K-39(G,N)19-K-38,PAR,INT/DA,G,BRA/MSC
 M0162.004   M119     -    -    -        -        - INT   19-K-39(G,A)17-CL-35,PAR,INT/DA,G,BRA,DERIV
+M0162.004   M149     -    -    -        -        - INT   19-K-39(G,A)17-CL-35,PAR,INT/DA,G,BRA/MSC
 M0164.002   M067     3  201           173      173 CS    39-Y-89(G,X)0-NN-1,,SIG,,BRS
 M0165.002   M055     4  103            12       12 CS    40-ZR-90(G,P)39-Y-89,,DA,,4PI/BRS
 M0165.003   M055     -    -    -        -        - DAE   40-ZR-90(G,P)39-Y-89,,DA/DE,,BRA/REL
@@ -157184,11 +157193,15 @@ M0290.002   M067     -    -    -        -        - DA    1-H-2(G,N)1-H-1,,DA,,RS
 M0290.003   M067     -    -    -        -        - DA    1-H-2(G,N)1-H-1,,DA,,RSD/BRS
 M0290.004   M067     -    -    -        -        - DA    1-H-2(G,N)1-H-1,,DA,,RSD/BRS
 M0291.002   M119     -    -    -        -        - INT   15-P-31(G,P)14-SI-30,PAR,INT/DA,G,BRA
+M0291.002   M149     -    -    -        -        - INT   15-P-31(G,P)14-SI-30,PAR,INT/DA,G,BRA/MSC
 M0291.003   M119     -    -    -        -        - INT   15-P-31(G,N)15-P-30,PAR,INT/DA,G,BRA
+M0291.003   M149     -    -    -        -        - INT   15-P-31(G,N)15-P-30,PAR,INT/DA,G,BRA/MSC
 M0292.002   M082     4    2            32       32 DA    8-O-16(G,EL)8-O-16,,DA
 M0292.003   M082     4    2            32       32 DA    8-O-16(G,EL)8-O-16,,DA
 M0293.002   M119     -    -    -        -        - INT   11-NA-23(G,P)10-NE-22,PAR,INT/DA,G,BRA,DERIV
+M0293.002   M149     -    -    -        -        - INT   11-NA-23(G,P)10-NE-22,PAR,INT/DA,G,BRA/MSC
 M0293.003   M119     -    -    -        -        - INT   11-NA-23(G,N)11-NA-22,PAR,INT/DA,G,BRA,DERIV
+M0293.003   M149     -    -    -        -        - INT   11-NA-23(G,N)11-NA-22,PAR,INT/DA,G,BRA/MSC
 M0294.002   M094     -    -    -        -        - DA    92-U-234(G,F),,DA,FF,S2T/RSD/BRA
 M0294.005   M094     -    -    -        -        - DA    92-U-238(G,F),,DA,FF,S2T/RSD/BRA
 M0295.002   M102     -    -    -        -        - CS    42-MO-0(G,F)ELEM/MASS,,SIG,,BRA
@@ -159851,20 +159864,35 @@ M0815.010   M074     -    -    -        -        - CS    (34-SE-78(G,N)34-SE-77,
 M0815.011   M074     -    -    -        -        - CS    (34-SE-80(G,N)34-SE-79,,SIG,,BRS)+(34-SE-80(G,N+P)33-AS-78,,SIG,,BRS)
 M0815.012   M074     -    -    -        -        - CS    (34-SE-82(G,N)34-SE-81,,SIG,,BRS)+(34-SE-82(G,N+P)33-AS-80,,SIG,,BRS)
 M0816.002   M117     3  201            60       60 CS    60-ND-148(G,X)0-NN-1,,SIG,,BRS
+M0816.002   M149     3  201            60       60 CS    60-ND-148(G,X)0-NN-1,,SIG,,BRS
 M0816.003   M117     -    -    -        -        - CS    60-ND-148(G,X)0-NN-1,UNW,SIG,,BRS,DERIV
+M0816.003   M149     -    -    -        -        - CS    60-ND-148(G,X)0-NN-1,UNW,SIG,,BRS,DERIV
 M0816.004   M117     3  201            60       60 CS    60-ND-150(G,X)0-NN-1,,SIG,,BRS
+M0816.004   M149     3  201            60       60 CS    60-ND-150(G,X)0-NN-1,,SIG,,BRS
 M0816.005   M117     -    -    -        -        - CS    60-ND-150(G,X)0-NN-1,UNW,SIG,,BRS,DERIV
+M0816.005   M149     -    -    -        -        - CS    60-ND-150(G,X)0-NN-1,UNW,SIG,,BRS,DERIV
 M0816.006   M117     3  201            60       60 CS    62-SM-150(G,X)0-NN-1,,SIG,,BRS
+M0816.006   M149     3  201            60       60 CS    62-SM-150(G,X)0-NN-1,,SIG,,BRS
 M0816.007   M117     -    -    -        -        - CS    62-SM-150(G,X)0-NN-1,UNW,SIG,,BRS,DERIV
+M0816.007   M149     -    -    -        -        - CS    62-SM-150(G,X)0-NN-1,UNW,SIG,,BRS,DERIV
 M0816.008   M117     3  201            57       57 CS    62-SM-152(G,X)0-NN-1,,SIG,,BRS
+M0816.008   M149     3  201            57       57 CS    62-SM-152(G,X)0-NN-1,,SIG,,BRS
 M0816.009   M117     -    -    -        -        - CS    62-SM-152(G,X)0-NN-1,UNW,SIG,,BRS,DERIV
+M0816.009   M149     -    -    -        -        - CS    62-SM-152(G,X)0-NN-1,UNW,SIG,,BRS,DERIV
 M0816.010   M117     3  201            60       60 CS    62-SM-154(G,X)0-NN-1,,SIG,,BRS
+M0816.010   M149     3  201            60       60 CS    62-SM-154(G,X)0-NN-1,,SIG,,BRS
 M0816.011   M117     -    -    -        -        - CS    62-SM-154(G,X)0-NN-1,UNW,SIG,,BRS,DERIV
+M0816.011   M149     -    -    -        -        - CS    62-SM-154(G,X)0-NN-1,UNW,SIG,,BRS,DERIV
 M0816.012   M117     -    -    -        -        - INT   60-ND-148(G,X)0-NN-1,UNW,INT,,BRS
+M0816.012   M149     -    -    -        -        - INT   60-ND-148(G,X)0-NN-1,UNW,INT,,BRS
 M0816.013   M117     -    -    -        -        - INT   60-ND-150(G,X)0-NN-1,UNW,INT,,BRS
+M0816.013   M149     -    -    -        -        - INT   60-ND-150(G,X)0-NN-1,UNW,INT,,BRS
 M0816.014   M117     -    -    -        -        - INT   62-SM-150(G,X)0-NN-1,UNW,INT,,BRS
+M0816.014   M149     -    -    -        -        - INT   62-SM-150(G,X)0-NN-1,UNW,INT,,BRS
 M0816.015   M117     -    -    -        -        - INT   62-SM-152(G,X)0-NN-1,UNW,INT,,BRS
+M0816.015   M149     -    -    -        -        - INT   62-SM-152(G,X)0-NN-1,UNW,INT,,BRS
 M0816.016   M117     -    -    -        -        - INT   62-SM-154(G,X)0-NN-1,UNW,INT,,BRS
+M0816.016   M149     -    -    -        -        - INT   62-SM-154(G,X)0-NN-1,UNW,INT,,BRS
 M0817.002   M148     3  201            57       57 CS    60-ND-146(G,X)0-NN-1,,SIG,,BRS
 M0817.003   M148     -    -    -        -        - CS    60-ND-146(G,X)0-NN-1,UNW,SIG,,BRS,DERIV
 M0817.004   M148     3  201            59       59 CS    62-SM-148(G,X)0-NN-1,,SIG,,BRS
