@@ -1,0 +1,30 @@
+#ENTRY      32937
+#AUTHOR1    Junhua Luo+
+#YEAR       2025
+#INSTITUTE  (3CPRHXU)
+#TITLE      Cross section and isomeric ratio measurements along
+#+          with covariance analysis for the (n,2n) reactions on
+#+          120,130Te
+#AUTHOR(S)  Junhua Luo, Long He, Liang Zhou, Li Jiang
+#REF-CODE   (J,EPJ/A,61,30,2025)
+#REFERENCE  Eur.Phys.J.A 61 (2025) 30 (doi:10.1140/epja/s10050-025-01501-z)
+#DATASETS   0
+#
+#DATASET    329370061
+#DATE       20260914
+#REACTION   52-TE-120(N,2N)52-TE-119,,SIG
+#PROJ       1
+#TARG       52120
+#MF         3
+#MT         16
+#PRODUCT    52-TE-119
+#C4BEGIN    [    1 52120   3  16  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 52120   3  16    1.3590+7 120000.0 1.079000 0.091000                                       Junhua Luo+          (25)32937  61
+    1 52120   3  16    1.3860+7 150000.0 1.136000 0.100000                                       Junhua Luo+          (25)32937  61
+    1 52120   3  16    1.4130+7 160000.0 1.196000 0.100000                                       Junhua Luo+          (25)32937  61
+    1 52120   3  16    1.4700+7 130000.0 1.264000 0.108000                                       Junhua Luo+          (25)32937  61
+#/DATA      4
+#/DATASET

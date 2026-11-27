@@ -1,0 +1,34 @@
+#ENTRY      32945
+#AUTHOR1    Haofan Bai+
+#YEAR       2024
+#INSTITUTE  (3CPRBJG)
+#TITLE      Cross section measurement for the 232Th(n,f)
+#+          reaction in the 4.50-5.40 MeV region using a time
+#+          projection chamber
+#AUTHOR(S)  Haofan Bai, Han Yi, Yankun Sun, Yiwei Hu, Jie Liu, Zepeng Wu, 
+#+          Cong Xia, Wenkai Ren, Wentian Cao, Tieshuan Fan, Guohui Zhang, 
+#+          Ruirui Fan, Yang Li, Wei Jiang, Yonghao Chen, You Lv, Changjun Ning, 
+#+          Weihua Jia, Zhiyong Zhang, Haolei Chen, Zhen Chen, Maoyuan Zhao, 
+#+          Changqing Feng, Shubin Liu
+#REF-CODE   (J,CPH/C,48,104001,2024)
+#REFERENCE  Chin.Phys.C 48 (2024) 104001 (doi:10.1088/1674-1137/ad5ae6)
+#DATASETS   0
+#
+#DATASET    329450022
+#DATE       20260728
+#REACTION   90-TH-232(N,F),,SIG
+#PROJ       1
+#TARG       90232
+#MF         3
+#MT         18
+#C4BEGIN    [    1 90232   3  18  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 90232   3  18    4500000. 120000.0 0.147700 6.5000-3                                       Haofan Bai+          (24)32945  22
+    1 90232   3  18    4700000. 100000.0 0.155900 7.0000-3                                       Haofan Bai+          (24)32945  22
+    1 90232   3  18    5000000. 70000.00 0.149000 6.1000-3                                       Haofan Bai+          (24)32945  22
+    1 90232   3  18    5200000. 90000.00 0.147400 7.0000-3                                       Haofan Bai+          (24)32945  22
+    1 90232   3  18    5400000. 50000.00 0.148600 6.3000-3                                       Haofan Bai+          (24)32945  22
+#/DATA      5
+#/DATASET

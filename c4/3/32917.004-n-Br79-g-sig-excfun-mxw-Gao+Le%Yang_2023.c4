@@ -1,0 +1,45 @@
+#ENTRY      32917
+#AUTHOR1    Gao-Le Yang+
+#YEAR       2023
+#INSTITUTE  (3CPRSZH)
+#TITLE      Measurement of Br(n,g) cross sections up to stellar
+#+          s-process temperatures at the CSNS Back-n
+#AUTHOR(S)  Gao-Le Yang, Zhen-Dong An, Wei Jiang, Xian-Kai Li, Wei-Wei Qiu, 
+#+          Zheng-Fa Liao, Zi-Yue Zhuang, Xiao-Ping Zhang, Sheng-Li Chen, 
+#+          Chen-Chen Guo, Er-Xi Xiao, Xiao Fang, Xin-Xiang Li, Xin-Rong Hu, 
+#+          Bing Jiang, Jin-Cheng Wang, Jie Ren, Wen Luo, Zhi-Chao Zhu, 
+#+          Hao-Yang Lan, Zong-Wei Cao, Xu Ma, Ying-Du Liu, Pu-Sen Wang, 
+#+          Yi Yang, Ping Su, Xian-Gai Deng, Wan-Bing He, Chun-Wang Ma, 
+#+          Yu-Ting Wang, Zhi-Tao Dai, Peng-Qin He, Ren-Guang Tang, 
+#+          Tao Zhou, Jing Wang, Han Yi, Yue Zhang, Yong-Hao Chen, Rui-Rui Fan, 
+#+          Ke-Qing Gao, Qiang Li, Kang Sun, Zhi-Xin Tan, Min-Hao Gu, 
+#+          Han-Tao Jing, Jing-Yu Tang, The Csns Back-n Collaboration
+#REF-CODE   (J,CNST,34,180,2023)
+#REFERENCE  Nucl.Sci.Tech. 34 (2023) 180 (doi:10.1007/s41365-023-01337-6)
+#DATASETS   0
+#
+#DATASET    32917004 
+#DATE       20260707
+#REACTION   35-BR-79(N,G)35-BR-80,,SIG,,MXW
+#PROJ       1
+#TARG       35079
+#MF         3
+#MT         102
+#PRODUCT    35-BR-80
+#C4BEGIN    [    1 35079   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+    1 35079   3 102    5000.000          1.938000                                                Gao-Le Yang+         (23)32917  4 
+    1 35079   3 102    10000.00          1.272000                                                Gao-Le Yang+         (23)32917  4 
+    1 35079   3 102    15000.00          1.003000                                                Gao-Le Yang+         (23)32917  4 
+    1 35079   3 102    20000.00          0.852000                                                Gao-Le Yang+         (23)32917  4 
+    1 35079   3 102    25000.00          0.753000                                                Gao-Le Yang+         (23)32917  4 
+    1 35079   3 102    30000.00          0.682000                                                Gao-Le Yang+         (23)32917  4 
+    1 35079   3 102    40000.00          0.585000                                                Gao-Le Yang+         (23)32917  4 
+    1 35079   3 102    50000.00          0.519000                                                Gao-Le Yang+         (23)32917  4 
+    1 35079   3 102    60000.00          0.470000                                                Gao-Le Yang+         (23)32917  4 
+    1 35079   3 102    80000.00          0.396000                                                Gao-Le Yang+         (23)32917  4 
+    1 35079   3 102    100000.0          0.341000                                                Gao-Le Yang+         (23)32917  4 
+#/DATA      11
+#/DATASET
