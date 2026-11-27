@@ -1,0 +1,33 @@
+#ENTRY      D1099
+#AUTHOR1    M.S.Uddin+
+#YEAR       2025
+#INSTITUTE  (3BANSAV)
+#TITLE      Excitation functions of (p,gamma) and (p,n) reactions
+#+          on zinc up to 4 MeV
+#AUTHOR(S)  M.S.Uddin, M.M.Hasan, M.Moniruzzaman, M.A.Shariff, S.M.Qaim
+#REF-CODE   (J,RCA,113,945,2025)
+#REFERENCE  Radiochim.Acta 113 (2025) 945 (doi:10.1515/ract-2025-0069)
+#DATASETS   0
+#
+#DATASET    D1099002 
+#DATE       20260702
+#REACTION   30-ZN-64(P,G)31-GA-65,,SIG
+#PROJ       1001
+#TARG       30064
+#MF         3
+#MT         102
+#PRODUCT    31-GA-65
+#C4BEGIN    [ 1001 30064   3 102 A]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001 30064   3 102 A  4000000. 260000.0 4.7000-4 1.2000-4                                       M.S.Uddin+           (25)D1099  2 
+ 1001 30064   3 102 A  3520000. 290000.0 4.1000-4 1.0000-4                                       M.S.Uddin+           (25)D1099  2 
+ 1001 30064   3 102 A  3330000. 290000.0 3.7000-4 9.0000-5                                       M.S.Uddin+           (25)D1099  2 
+ 1001 30064   3 102 A  2960000. 290000.0 2.8000-4 7.0000-5                                       M.S.Uddin+           (25)D1099  2 
+ 1001 30064   3 102 A  2530000. 300000.0 1.5000-4 4.0000-5                                       M.S.Uddin+           (25)D1099  2 
+ 1001 30064   3 102 A  2360000. 300000.0 1.1000-4 3.0000-5                                       M.S.Uddin+           (25)D1099  2 
+ 1001 30064   3 102 A  2350000. 300000.0 9.5000-5 2.3000-5                                       M.S.Uddin+           (25)D1099  2 
+ 1001 30064   3 102 A  2010000. 400000.0 4.4000-5 1.1000-5                                       M.S.Uddin+           (25)D1099  2 
+#/DATA      8
+#/DATASET

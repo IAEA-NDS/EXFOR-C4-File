@@ -1,0 +1,34 @@
+#ENTRY      D6522
+#AUTHOR1    A.K.Jashwal+
+#YEAR       2026
+#INSTITUTE  (3CPRIMP)
+#TITLE      Experimental insights into entrance channel
+#+          parameters for the 19F+93Nb system: signature of
+#+          incomplete fusion
+#AUTHOR(S)  A.K.Jashwal, A.Agarwal, H.Vardhan, M.Kumar, K.Kumar, S.Dutt, 
+#+          M.F.Khan, I.A.Rizvi, A.K.Chaubey
+#REF-CODE   (J,PR/C,113,034615,2026)
+#REFERENCE  Phys.Rev.C 113 (2026) 034615 (doi:10.1103/4sbt-4whn)
+#DATASETS   0
+#
+#DATASET    D6522002 
+#DATE       20260818
+#REACTION   41-NB-93(9-F-19,3N)50-SN-109,,SIG
+#PROJ       9019
+#TARG       41093
+#MF         3
+#MT         17
+#PRODUCT    50-SN-109
+#C4BEGIN    [ 9019 41093   3  17  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 9019 41093   3  17    9.4300+7 1800000. 4.0000-4 9.0000-5                                       A.K.Jashwal+         (26)D6522  2 
+ 9019 41093   3  17    8.7600+7 1700000. 1.4000-3 2.0000-4                                       A.K.Jashwal+         (26)D6522  2 
+ 9019 41093   3  17    8.4200+7 1600000. 2.1000-3 3.0000-4                                       A.K.Jashwal+         (26)D6522  2 
+ 9019 41093   3  17    8.0900+7 1800000. 6.1000-3 9.0000-4                                       A.K.Jashwal+         (26)D6522  2 
+ 9019 41093   3  17    7.5200+7 2000000. 0.023300 3.5000-3                                       A.K.Jashwal+         (26)D6522  2 
+ 9019 41093   3  17    7.2000+7 2100000. 0.028000 4.2000-3                                       A.K.Jashwal+         (26)D6522  2 
+ 9019 41093   3  17    6.9300+7 2.2000+7 0.055900 8.3000-3                                       A.K.Jashwal+         (26)D6522  2 
+#/DATA      7
+#/DATASET

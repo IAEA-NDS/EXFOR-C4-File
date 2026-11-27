@@ -1,0 +1,40 @@
+#ENTRY      D4442
+#AUTHOR1    F.Ditroi+
+#YEAR       2025
+#INSTITUTE  (3HUNDEB)
+#TITLE      Experimental determination of the excitation functions
+#+          of the alpha particle-induced nuclear reactions on
+#+          rhodium up to 50 MeV
+#AUTHOR(S)  F.Ditroi, S.Takacs, H.Haba, M.Aikawa, H.Huang, Z.Tsoodol, 
+#+          K.Sugihara, S.Ebata, Z.Szucs, T.Tornyi
+#REF-CODE   (J,EPJ/A,61,201,2025)
+#REFERENCE  Eur.Phys.J.A 61 (2025) 201 (doi:10.1140/epja/s10050-025-01670-x)
+#DATASETS   0
+#
+#DATASET    D4442008 
+#DATE       20260528
+#REACTION   45-RH-103(A,X)47-AG-105,,SIG
+#PROJ       2004
+#TARG       45103
+#MF         3
+#MT         454
+#PRODUCT    47-AG-105
+#C4BEGIN    [ 2004 45103   3 454  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2004 45103   3 454    5.0440+7 200000.0 0.052160 6.1000-3           47105.9                     F.Ditroi+            (25)D4442  8 
+ 2004 45103   3 454    4.8880+7 210000.0 0.054980 5.8000-3           47105.9                     F.Ditroi+            (25)D4442  8 
+ 2004 45103   3 454    4.7310+7 210000.0 0.065980 7.1000-3           47105.9                     F.Ditroi+            (25)D4442  8 
+ 2004 45103   3 454    4.4020+7 230000.0 0.085320 0.011000           47105.9                     F.Ditroi+            (25)D4442  8 
+ 2004 45103   3 454    4.0550+7 240000.0 0.129700 0.015600           47105.9                     F.Ditroi+            (25)D4442  8 
+ 2004 45103   3 454    3.5970+7 260000.0 0.333500 0.037100           47105.9                     F.Ditroi+            (25)D4442  8 
+ 2004 45103   3 454    3.3170+7 280000.0 0.574900 0.061600           47105.9                     F.Ditroi+            (25)D4442  8 
+ 2004 45103   3 454    3.0530+7 290000.0 0.904400 0.095000           47105.9                     F.Ditroi+            (25)D4442  8 
+ 2004 45103   3 454    2.7370+7 390000.0 1.193000 0.125000           47105.9                     F.Ditroi+            (25)D4442  8 
+ 2004 45103   3 454    2.4330+7 330000.0 1.113000 0.117000           47105.9                     F.Ditroi+            (25)D4442  8 
+ 2004 45103   3 454    2.1030+7 350000.0 0.831700 0.089000           47105.9                     F.Ditroi+            (25)D4442  8 
+ 2004 45103   3 454    1.7340+7 370000.0 0.252200 0.033500           47105.9                     F.Ditroi+            (25)D4442  8 
+ 2004 45103   3 454    1.3070+7 390000.0 0.019900 3.0000-3           47105.9                     F.Ditroi+            (25)D4442  8 
+#/DATA      13
+#/DATASET

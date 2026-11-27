@@ -1,0 +1,30 @@
+#ENTRY      D4441
+#AUTHOR1    Zs.Matyus+
+#YEAR       2025
+#INSTITUTE  (3HUNDEB)
+#TITLE      Nonresonant capture cross section measurement of the
+#+          29Si(p,gamma)30P reaction
+#AUTHOR(S)  Zs.Matyus, L.Csedreki, Zs.Fulop, Z.Halasz, G.G.Kiss, T.Szucs, 
+#+          A.Toth, Gy.Gyurky
+#REF-CODE   (J,JP/G,52,105201,2025)
+#REFERENCE  J.Phys.G 52 (2025) 105201 (doi:10.1088/1361-6471/ae06bd)
+#DATASETS   0
+#
+#DATASET    D44410032
+#DATE       20260521
+#REACTION   8-O-16(P,G)9-F-17,,SIG,,SFC
+#PROJ       1001
+#TARG       8016
+#MF         3
+#MT         102
+#PRODUCT    9-F-17
+#C4BEGIN    [ 1001  8016   3 102  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  8016   3 102    992600.0 7500.000 1.2394-6 1.6182-7                                       Zs.Matyus+           (25)D4441  32
+ 1001  8016   3 102    1093200. 7200.000 1.7701-6 1.9452-7                                       Zs.Matyus+           (25)D4441  32
+ 1001  8016   3 102    1240800. 6700.000 2.7526-6 2.8688-7                                       Zs.Matyus+           (25)D4441  32
+ 1001  8016   3 102    1422700. 6100.000 3.6279-6 3.3415-7                                       Zs.Matyus+           (25)D4441  32
+#/DATA      4
+#/DATASET
