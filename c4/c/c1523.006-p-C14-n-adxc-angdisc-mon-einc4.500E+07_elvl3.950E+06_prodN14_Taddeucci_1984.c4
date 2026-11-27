@@ -1,0 +1,35 @@
+#ENTRY      C1523
+#AUTHOR1    T.N.Taddeucci+
+#YEAR       1984
+#INSTITUTE  (1USAVIR)
+#TITLE      (p,n) reactions on 14C and 14N and the effective
+#+          nucleon-nucleon interaction
+#AUTHOR(S)  T.N.Taddeucci, R.R.Doering, A.Galonsky, S.M.Austin
+#REF-CODE   (J,PR/C,29,764,1984)
+#REFERENCE  Phys.Rev.C 29 (1984) 764 (doi:10.1103/PhysRevC.29.764)
+#DATASETS   0
+#
+#DATASET    C1523006 
+#DATE       20260309
+#REACTION   6-C-14(P,N)7-N-14,PAR,DA
+#PROJ       1001
+#TARG       6014
+#MF         4
+#MT         50
+#PRODUCT    7-N-14
+#C4BEGIN    [ 1001  6014   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6014   4  50  C 4.5000+7          3.7870-3          0.960870          3950000.         LVLT.N.Taddeucci+       (84)C1523  6 
+ 1001  6014   4  50  C 4.5000+7          3.0160-3          0.929803          3950000.         LVLT.N.Taddeucci+       (84)C1523  6 
+ 1001  6014   4  50  C 4.5000+7          2.5200-3          0.893490          3950000.         LVLT.N.Taddeucci+       (84)C1523  6 
+ 1001  6014   4  50  C 4.5000+7          2.0310-3          0.847767          3950000.         LVLT.N.Taddeucci+       (84)C1523  6 
+ 1001  6014   4  50  C 4.5000+7          1.5980-3          0.796347          3950000.         LVLT.N.Taddeucci+       (84)C1523  6 
+ 1001  6014   4  50  C 4.5000+7          1.1990-3          0.737476          3950000.         LVLT.N.Taddeucci+       (84)C1523  6 
+ 1001  6014   4  50  C 4.5000+7          8.2630-4          0.664947          3950000.         LVLT.N.Taddeucci+       (84)C1523  6 
+ 1001  6014   4  50  C 4.5000+7          5.2360-4          0.593892          3950000.         LVLT.N.Taddeucci+       (84)C1523  6 
+ 1001  6014   4  50  C 4.5000+7          3.2780-4          0.526958          3950000.         LVLT.N.Taddeucci+       (84)C1523  6 
+ 1001  6014   4  50  C 4.5000+7          2.3140-4          0.443229          3950000.         LVLT.N.Taddeucci+       (84)C1523  6 
+#/DATA      10
+#/DATASET

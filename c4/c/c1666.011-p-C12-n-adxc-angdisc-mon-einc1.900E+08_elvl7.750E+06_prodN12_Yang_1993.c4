@@ -1,0 +1,42 @@
+#ENTRY      C1666
+#AUTHOR1    X.Yang+
+#YEAR       1993
+#INSTITUTE  (1USAOHO)
+#TITLE      Dipole and spin-dipole resonances in charge-exchange
+#+          reactions on 12C
+#AUTHOR(S)  X.Yang, L.Wang, J.Rapaport, C.D.Goodman, C.Foster, Y.Wang, 
+#+          W.Unkelbach, E.Sugarbaker, D.Marchlenski, S.de Lucia, B.Luther, 
+#+          J.L.Ullman, A.G.Ling, B.K.Park, D.S.Sorensen, L.Rybarcyk, 
+#+          T.N.Taddeucci, C.R.Howell, W.Tornow
+#REF-CODE   (J,PR/C,48,1158,1993)
+#REFERENCE  Phys.Rev.C 48 (1993) 1158 (doi:10.1103/PhysRevC.48.1158)
+#DATASETS   0
+#
+#DATASET    C1666011 
+#DATE       20090519
+#REACTION   6-C-12(P,N)7-N-12,PAR,DA
+#PROJ       1001
+#TARG       6012
+#MF         4
+#MT         50
+#PRODUCT    7-N-12
+#C4BEGIN    [ 1001  6012   4  50  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 1001  6012   4  50  C 1.9000+8          3.4550-3          0.981144          7750000. 1750000.LVLX.Yang+              (93)C1666 11 
+ 1001  6012   4  50  C 1.9000+8          3.0250-3          0.972657          7750000. 1750000.LVLX.Yang+              (93)C1666 11 
+ 1001  6012   4  50  C 1.9000+8          2.3710-3          0.962266          7750000. 1750000.LVLX.Yang+              (93)C1666 11 
+ 1001  6012   4  50  C 1.9000+8          1.7780-3          0.951009          7750000. 1750000.LVLX.Yang+              (93)C1666 11 
+ 1001  6012   4  50  C 1.9000+8          1.4900-3          0.937733          7750000. 1750000.LVLX.Yang+              (93)C1666 11 
+ 1001  6012   4  50  C 1.9000+8          7.6670-4          0.922806          7750000. 1750000.LVLX.Yang+              (93)C1666 11 
+ 1001  6012   4  50  C 1.9000+8          3.6920-4 4.5930-5 0.907468          7750000. 1750000.LVLX.Yang+              (93)C1666 11 
+ 1001  6012   4  50  C 1.9000+8          2.6490-4 4.3000-5 0.889595          7750000. 1750000.LVLX.Yang+              (93)C1666 11 
+ 1001  6012   4  50  C 1.9000+8          2.9590-4 5.3460-5 0.871502          7750000. 1750000.LVLX.Yang+              (93)C1666 11 
+ 1001  6012   4  50  C 1.9000+8          2.4240-4 3.9350-5 0.850683          7750000. 1750000.LVLX.Yang+              (93)C1666 11 
+ 1001  6012   4  50  C 1.9000+8          3.2330-4 5.8410-5 0.829835          7750000. 1750000.LVLX.Yang+              (93)C1666 11 
+ 1001  6012   4  50  C 1.9000+8          3.6120-4 5.8620-5 0.808560          7750000. 1750000.LVLX.Yang+              (93)C1666 11 
+ 1001  6012   4  50  C 1.9000+8          2.0760-4 4.8450-5 0.783667          7750000. 1750000.LVLX.Yang+              (93)C1666 11 
+ 1001  6012   4  50  C 1.9000+8          1.6640-4 6.1870-5 0.761320          7750000. 1750000.LVLX.Yang+              (93)C1666 11 
+#/DATA      14
+#/DATASET
