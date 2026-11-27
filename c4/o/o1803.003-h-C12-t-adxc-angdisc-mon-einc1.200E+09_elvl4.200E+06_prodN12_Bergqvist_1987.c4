@@ -1,0 +1,35 @@
+#ENTRY      O1803
+#AUTHOR1    I.Bergqvist+
+#YEAR       1987
+#INSTITUTE  (2SWDLND)
+#TITLE      (He3,t) reaction at intermediate energies.
+#+          Spin-isospin transitions to states in N-12 and N-13.
+#AUTHOR(S)  I.Bergqvist, A.Brockstedt, L.Carlen, P.Ekstroem, B.Jakobsson, 
+#+          C.Ellegaard, C.Gaarde, J.S.Larsen, C.Goodman, M.Bedjidian, 
+#+          D.Contardo, J.Y.Grossiord, A.Guichard, R.Haroutunian, J.R.Pizzi, 
+#+          D.Bachelier, J.L.Boyard, T.Hennino, J.C.Jourdain, M.Roy-Stephan, 
+#+          M.Boivin, P.Radvanyi
+#REF-CODE   (J,NP/A,469,648,1987)
+#REFERENCE  Nucl.Phys.A 469 (1987) 648 (doi:10.1016/0375-9474(87)90019-4)
+#DATASETS   0
+#
+#DATASET    O1803003 
+#DATE       20091126
+#REACTION   6-C-12(HE3,T)7-N-12,PAR,DA
+#PROJ       2003
+#TARG       6012
+#MF         4
+#MT         700
+#PRODUCT    7-N-12
+#C4BEGIN    [ 2003  6012   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  6012   4 700  C 1.2000+9          8.1700-3          0.999958          4200000.         LVLI.Bergqvist+         (87)O1803  3 
+ 2003  6012   4 700  C 1.2000+9          8.4900-3          0.999895          4200000.         LVLI.Bergqvist+         (87)O1803  3 
+ 2003  6012   4 700  C 1.2000+9          9.7700-3          0.999716          4200000.         LVLI.Bergqvist+         (87)O1803  3 
+ 2003  6012   4 700  C 1.2000+9          8.5100-3          0.998865          4200000.         LVLI.Bergqvist+         (87)O1803  3 
+ 2003  6012   4 700  C 1.2000+9          1.7900-3          0.995624          4200000.         LVLI.Bergqvist+         (87)O1803  3 
+ 2003  6012   4 700  C 1.2000+9          5.0800-4          0.990206          4200000.         LVLI.Bergqvist+         (87)O1803  3 
+#/DATA      6
+#/DATASET

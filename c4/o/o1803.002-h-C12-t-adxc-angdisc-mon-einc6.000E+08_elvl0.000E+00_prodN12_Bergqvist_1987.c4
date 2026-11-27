@@ -1,0 +1,37 @@
+#ENTRY      O1803
+#AUTHOR1    I.Bergqvist+
+#YEAR       1987
+#INSTITUTE  (2SWDLND)
+#TITLE      (He3,t) reaction at intermediate energies.
+#+          Spin-isospin transitions to states in N-12 and N-13.
+#AUTHOR(S)  I.Bergqvist, A.Brockstedt, L.Carlen, P.Ekstroem, B.Jakobsson, 
+#+          C.Ellegaard, C.Gaarde, J.S.Larsen, C.Goodman, M.Bedjidian, 
+#+          D.Contardo, J.Y.Grossiord, A.Guichard, R.Haroutunian, J.R.Pizzi, 
+#+          D.Bachelier, J.L.Boyard, T.Hennino, J.C.Jourdain, M.Roy-Stephan, 
+#+          M.Boivin, P.Radvanyi
+#REF-CODE   (J,NP/A,469,648,1987)
+#REFERENCE  Nucl.Phys.A 469 (1987) 648 (doi:10.1016/0375-9474(87)90019-4)
+#DATASETS   0
+#
+#DATASET    O1803002 
+#DATE       20091126
+#REACTION   6-C-12(HE3,T)7-N-12,PAR,DA
+#PROJ       2003
+#TARG       6012
+#MF         4
+#MT         700
+#PRODUCT    7-N-12
+#C4BEGIN    [ 2003  6012   4 700  ]
+#DATA       0
+# Prj Targ M MF MT PXC  Energy  dEnergy  Data      dData   Cos/LO   dCos/LO   ELV/HL  dELV/HL I78 Refer (YY)              EntrySubP
+#---><---->o<-><-->ooo<-------><-------><-------><-------><-------><-------><-------><-------><-><-----------------------><---><->o
+ 2003  6012   4 700  C 6.0000+8          0.020700          0.999962          0.000000         LVLI.Bergqvist+         (87)O1803  2 
+ 2003  6012   4 700  C 6.0000+8          0.021200          0.999892          0.000000         LVLI.Bergqvist+         (87)O1803  2 
+ 2003  6012   4 700  C 6.0000+8          0.017800          0.999790          0.000000         LVLI.Bergqvist+         (87)O1803  2 
+ 2003  6012   4 700  C 6.0000+8          0.014600          0.999507          0.000000         LVLI.Bergqvist+         (87)O1803  2 
+ 2003  6012   4 700  C 6.0000+8          8.5100-3          0.998931          0.000000         LVLI.Bergqvist+         (87)O1803  2 
+ 2003  6012   4 700  C 6.0000+8          2.0700-3          0.995715          0.000000         LVLI.Bergqvist+         (87)O1803  2 
+ 2003  6012   4 700  C 6.0000+8          2.2400-4 2.6880-5 0.990543          0.000000         LVLI.Bergqvist+         (87)O1803  2 
+ 2003  6012   4 700  C 6.0000+8          6.5000-5 9.1000-6 0.983237          0.000000         LVLI.Bergqvist+         (87)O1803  2 
+#/DATA      8
+#/DATASET
